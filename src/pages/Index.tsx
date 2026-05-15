@@ -36,7 +36,7 @@ const Index = () => {
   const themes: Theme[] = [LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, DARK, LIGHT, DARK];
 
   useEffect(() => {
-    document.title = "Nova.studio — Software crafted with care";
+    document.title = "ClickMasters — Software crafted with care";
     const desc = "An independent software studio designing and engineering web platforms, apps and AI products for ambitious founders.";
     let m = document.querySelector('meta[name="description"]');
     if (!m) { m = document.createElement('meta'); m.setAttribute('name', 'description'); document.head.appendChild(m); }

@@ -18,6 +18,7 @@ import ApiDevelopmentIntegrationServices from "./pages/ApiDevelopmentIntegration
 import CrmIntegrationServices from "./pages/CrmIntegrationServices.tsx";
 import AdaComplianceWebAccessibility from "./pages/AdaComplianceWebAccessibility.tsx";
 import ArVrDevelopmentServices from "./pages/ArVrDevelopmentServices.tsx";
+import ServicesPage from './pages/services/[slug]/page.tsx';
 
 const queryClient = new QueryClient();
 
@@ -42,6 +43,10 @@ const App = () => (
           <Route path="/crm-integration-services" element={<CrmIntegrationServices />} />
           <Route path="/ada-compliance-web-accessibility" element={<AdaComplianceWebAccessibility />} />
           <Route path="/ar-vr-development-services" element={<ArVrDevelopmentServices />} />
+
+          {/* ONE dynamic route for ALL AI services - captures slug from URL */}
+          <Route path="/:slug" element={<ServicesPage />} />
+          
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>

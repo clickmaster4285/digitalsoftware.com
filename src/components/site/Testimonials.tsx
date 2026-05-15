@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const items = [
   {
-    q: "Nova didn't just ship our product — they reframed our entire thesis. The team operates like co-founders.",
+    q: "ClickMasters didn't just ship our product — they reframed our entire thesis. The team operates like co-founders.",
     a: "Amelia Chen", r: "CEO, Lumen Health",
     bg: "#BBD3FF", rot: -2,
   },

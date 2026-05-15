@@ -5,7 +5,7 @@ const cards = [
   {
     name: "Director, Dzherelo",
     quote:
-      "I really enjoyed collaborating with Nova. They launched a cool campaign that gave quick results and great sales for our services.",
+      "I really enjoyed collaborating with ClickMasters. They launched a cool campaign that gave quick results and great sales for our services.",
     img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=600&q=80&auto=format&fit=crop",
     rot: -6,
     x: -40,
@@ -23,7 +23,7 @@ const cards = [
   {
     name: "Corporate Photographer",
     quote:
-      "Thank you very much for everything! We revived the account, ideas and execution are golden. I will recommend Nova to everyone.",
+      "Thank you very much for everything! We revived the account, ideas and execution are golden. I will recommend ClickMasters to everyone.",
     img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80&auto=format&fit=crop",
     rot: -3,
     x: -10,
@@ -100,12 +100,12 @@ export const LumosSay = () => {
             </motion.span>
           </div>
 
-          {/* Row 3: solid "Nova" */}
+          {/* Row 3: solid "ClickMasters" */}
           <motion.div
             style={{ x: xNova }}
             className="font-sans font-black uppercase text-[20vw] md:text-[14vw] -mt-[4vw]"
           >
-            Nova
+            ClickMasters
           </motion.div>
         </div>
 

@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
-const code = `// nova.studio — shipping in production
-import { build } from "@nova/studio";
+const code = `// clickmasters — shipping in production
+import { build } from "@clickmasters";
 
 export const product = await build({
   idea:    "your vision",
@@ -58,7 +58,7 @@ export const Workflow = () => (
             <span className="w-3 h-3 rounded-full bg-[#FF5F57]" />
             <span className="w-3 h-3 rounded-full bg-[#FEBC2E]" />
             <span className="w-3 h-3 rounded-full bg-[#28C840]" />
-            <span className="ml-3 text-xs text-zinc-400 font-mono">~/nova-studio/build.ts</span>
+            <span className="ml-3 text-xs text-zinc-400 font-mono">~/clickmasters/build.ts</span>
           </div>
           <pre className="p-6 md:p-8 text-sm md:text-[15px] leading-relaxed overflow-x-auto font-mono">
 <code>

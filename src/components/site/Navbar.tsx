@@ -77,50 +77,50 @@ const groups: { title: string; items: Service[] }[] = [
       { name: "Ecommerce Development", desc: "Full ecommerce builds", icon: Package, href: "/ecommerce-development-services" },
       { name: "Mobile App Development", desc: "iOS & Android", icon: Smartphone, href: "/mobile-app-development" },
       { name: "IoT Development", desc: "Connected devices", icon: Cpu, href: "/iot-development-services" },
-      { name: "API Development & Integration", desc: "Connect everything", icon: Plug },
-      { name: "CRM Integration", desc: "Sales-ready data", icon: Network },
-      { name: "ADA Compliance & Accessibility", desc: "Inclusive web", icon: ShieldCheck },
-      { name: "AR / VR Development", desc: "Immersive experiences", icon: Layers },
+      { name: "API Development & Integration", desc: "Connect everything", icon: Plug , href: "/api-development-integration-services"},
+      { name: "CRM Integration", desc: "Sales-ready data", icon: Network , href: "/crm-integration-services"},
+      { name: "ADA Compliance & Accessibility", desc: "Inclusive web", icon: ShieldCheck , href: "/ada-compliance-web-accessibility" },
+      { name: "AR / VR Development", desc: "Immersive experiences", icon: Layers , href: "/ar-vr-development-services"},
     ],
   },
   {
     title: "AI & Data",
-    items: [
-      { name: "AI / ML Development", desc: "Custom AI models", icon: Brain },
-      { name: "AI Automation", desc: "Automate workflows", icon: Bot },
-      { name: "AI Personalization", desc: "1:1 experiences", icon: Sparkles },
-      { name: "Data Analytics & Reporting", desc: "Insights that ship", icon: Database },
-      { name: "Marketing Attribution", desc: "Measure what matters", icon: BarChart3 },
-      { name: "Marketing Automation", desc: "Always-on funnels", icon: Bot },
+     items: [
+      { name: "AI / ML Development", desc: "Custom AI models", icon: Brain, href: "/ai-ml-development-services" },
+      { name: "AI Automation", desc: "Automate workflows", icon: Bot, href: "/ai-automation-services" },
+      { name: "AI Personalization", desc: "1:1 experiences", icon: Sparkles, href: "/ai-personalization-services" },
+      { name: "Data Analytics & Reporting", desc: "Insights that ship", icon: Database, href: "/data-analytics-reporting" },
+      { name: "Marketing Attribution", desc: "Measure what matters", icon: BarChart3, href: "/marketing-attribution-services" },
+      { name: "Marketing Automation", desc: "Always-on funnels", icon: Bot, href: "/marketing-automation-services" },
     ],
   },
   {
     title: "Design",
     items: [
-      { name: "Web Design", desc: "Modern web design", icon: Palette },
-      { name: "UI / UX Design", desc: "Pixel-perfect UX", icon: LayoutGrid },
-      { name: "Graphic Design", desc: "On-brand visuals", icon: ImageIcon },
-      { name: "Logo Design", desc: "Memorable brand marks", icon: Sparkles },
-      { name: "Landing Page Design", desc: "High-converting pages", icon: PenTool },
-      { name: "Infographic Design", desc: "Visual storytelling", icon: ImageIcon },
+      { name: "Web Design", desc: "Modern web design", icon: Palette, href: "/web-design-services" },
+      { name: "UI / UX Design", desc: "Pixel-perfect UX", icon: LayoutGrid, href: "/ui-ux-design-services" },
+      { name: "Graphic Design", desc: "On-brand visuals", icon: ImageIcon, href: "/graphic-design-services" },
+      { name: "Logo Design", desc: "Memorable brand marks", icon: Sparkles, href: "/logo-design-services" },
+      { name: "Landing Page Design", desc: "High-converting pages", icon: PenTool, href: "/landing-page-design-services" },
+      { name: "Infographic Design", desc: "Visual storytelling", icon: ImageIcon, href: "/infographic-design-services" },
     ],
   },
   {
     title: "SEO",
     items: [
-      { name: "SEO Services", desc: "Rank higher", icon: Search },
-      { name: "Ecommerce SEO", desc: "Product-page rankings", icon: ShoppingBag },
-      { name: "YouTube SEO", desc: "Boost video reach", icon: Youtube },
-      { name: "Off-Page SEO & Linkbuilding", desc: "Authority backlinks", icon: Link2 },
-      { name: "White Label SEO", desc: "Agency-ready SEO", icon: Tag },
-      { name: "Schema Markup", desc: "Structured data", icon: ScrollText },
-      { name: "Voice Search Optimization", desc: "Voice-first SEO", icon: Mic },
-      { name: "SEO Automation", desc: "Scale workflows", icon: Bot },
-      { name: "Citation Building", desc: "Local listings", icon: MapPin },
-      { name: "Local SEO", desc: "Map-pack rankings", icon: Map },
-      { name: "Guest Posting", desc: "Editorial placements", icon: FileText },
-      { name: "SEO Glossary", desc: "Learn the terms", icon: BookOpen },
-    ],
+  { name: "SEO Services", desc: "Rank higher", icon: Search, href: "/seo-services-usa" },
+  { name: "Ecommerce SEO", desc: "Product-page rankings", icon: ShoppingBag, href: "/ecommerce-seo-services" },
+  { name: "YouTube SEO", desc: "Boost video reach", icon: Youtube, href: "/youtube-seo-services" },
+  { name: "Off-Page SEO & Linkbuilding", desc: "Authority backlinks", icon: Link2, href: "/off-page-seo-link-building" },
+  { name: "White Label SEO", desc: "Agency-ready SEO", icon: Tag, href: "/white-label-seo" },
+  { name: "Schema Markup", desc: "Structured data", icon: ScrollText, href: "/schema-markup-services" },
+  { name: "Voice Search Optimization", desc: "Voice-first SEO", icon: Mic, href: "/voice-search-optimization" },
+  { name: "SEO Automation", desc: "Scale workflows", icon: Bot, href: "/seo-automation-services" },
+  { name: "Citation Building", desc: "Local listings", icon: MapPin, href: "/citation-building-services" },
+  { name: "Local SEO", desc: "Map-pack rankings", icon: Map, href: "/local-seo-services" },
+  { name: "Guest Posting", desc: "Editorial placements", icon: FileText, href: "/guest-posting-services" },
+  { name: "SEO Glossary", desc: "Learn the terms", icon: BookOpen, href: "/seo-glossary" },
+],
   },
   {
     title: "Marketing & Ads",
@@ -225,7 +225,7 @@ export const Navbar = () => {
       <div className="max-w-5xl mx-auto flex items-center justify-between gap-6 rounded-full bg-background/80 backdrop-blur-xl border border-border px-5 py-3 shadow-sm">
         <a href="#" className="flex items-center gap-2 font-display text-xl">
           <span className="w-7 h-7 rounded-full bg-foreground" />
-          Nova.studio
+          ClickMasters
         </a>
         <nav className="hidden md:flex items-center gap-8 text-sm">
           {links.map(l =>
