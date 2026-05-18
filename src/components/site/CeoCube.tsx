@@ -1,5 +1,6 @@
 import { motion, useInView, useScroll, useTransform, useSpring } from "framer-motion";
 import { useRef } from "react";
+import Image from "next/image";
 import ceoImg from "@/assets/ceo.png";
 
 const FlipCard = ({
@@ -108,9 +109,10 @@ export const CeoCube = () => {
             className="md:col-span-5 relative h-[380px] md:h-[460px] rounded-2xl overflow-hidden border border-white/10"
             style={{ y: imgY, scale: imgScale }}
           >
-            <img
+            <Image
               src={ceoImg}
               alt="Amjad, CEO"
+              fill
               className="absolute inset-0 w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/10 to-transparent" />

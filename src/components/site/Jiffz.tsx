@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import Image from "next/image";
 import g1 from "@/assets/gif-1.jpg";
 import g2 from "@/assets/gif-2.jpg";
 import g3 from "@/assets/gif-3.jpg";
@@ -38,12 +39,17 @@ export const Jiffz = () => (
           className="rounded-3xl overflow-hidden p-3 shadow-[0_25px_60px_-25px_rgba(0,0,0,0.4)]"
         >
           <div className="aspect-square overflow-hidden rounded-2xl bg-black/5">
-            <motion.img
-              src={g.src} alt={g.t} loading="lazy" width={512} height={512}
-              className="w-full h-full object-cover"
+            <motion.div
+              className="w-full h-full relative"
               animate={{ scale: [1, 1.06, 1], rotate: [0, 3, 0] }}
               transition={{ duration: 6 + i, repeat: Infinity, ease: "easeInOut" }}
-            />
+            >
+              <Image
+                src={g.src} alt={g.t}
+                fill
+                className="w-full h-full object-cover"
+              />
+            </motion.div>
           </div>
           <figcaption className="flex items-center justify-between px-3 pt-4 pb-2">
             <span className="font-display text-xl">{g.t}</span>

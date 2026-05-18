@@ -1,5 +1,6 @@
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
+import Image from "next/image";
 import sculpture from "@/assets/hero-sculpture.jpg";
 
 const techs = [
@@ -115,7 +116,7 @@ export const Hero = () => {
           </div>
 
           <motion.div style={{ y, scale, rotate }} className="lg:col-span-5 relative">
-            <img src={sculpture} alt="" width={1024} height={1024} className="w-full h-auto select-none pointer-events-none drop-shadow-[0_30px_60px_rgba(0,0,0,0.25)]" />
+            <Image src={sculpture} alt="" className="w-full h-auto select-none pointer-events-none drop-shadow-[0_30px_60px_rgba(0,0,0,0.25)]" />
           </motion.div>
         </div>
       </motion.div>

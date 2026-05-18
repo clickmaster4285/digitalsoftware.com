@@ -1,5 +1,6 @@
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
+import Image from "next/image";
 import p1 from "@/assets/project-1.jpg";
 import p2 from "@/assets/project-2.jpg";
 import p3 from "@/assets/project-3.jpg";
@@ -26,7 +27,7 @@ const ProjectCard = ({ p, i }: { p: typeof projects[0]; i: number }) => {
         className="overflow-hidden rounded-2xl group cursor-pointer"
       >
         <motion.div style={{ y }} className="aspect-[4/3] overflow-hidden">
-          <img src={p.img} alt={p.title} loading="lazy" className="w-full h-full object-cover scale-110 group-hover:scale-100 transition-transform duration-[1.2s] ease-out" />
+          <Image src={p.img} alt={p.title} className="w-full h-full object-cover scale-110 group-hover:scale-100 transition-transform duration-\\[1.2s\\] ease-out" />
         </motion.div>
       </motion.div>
       <div className="flex justify-between items-end mt-5">

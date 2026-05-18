@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
+import Image from "next/image";
 import robot from "@/assets/robot.png";
 
 export const RoamingRobot = () => {
@@ -52,15 +53,19 @@ export const RoamingRobot = () => {
       style={{ x, y, rotate }}
       className="fixed top-0 left-0 z-[60] pointer-events-none"
     >
-      <motion.img
-        src={robot}
-        alt=""
-        width={96}
-        height={96}
-        className="w-20 h-20 md:w-24 md:h-24 drop-shadow-[0_15px_25px_rgba(0,0,0,0.35)]"
+      <motion.div
         animate={{ y: [0, -8, 0] }}
         transition={{ duration: 2.4, repeat: Infinity, ease: "easeInOut" }}
-      />
+        className="w-20 h-20 md:w-24 md:h-24"
+      >
+        <Image
+          src={robot}
+          alt=""
+          width={96}
+          height={96}
+          className="w-full h-full drop-shadow-[0_15px_25px_rgba(0,0,0,0.35)]"
+        />
+      </motion.div>
     </motion.div>
   );
 };
