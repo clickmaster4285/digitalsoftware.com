@@ -33,6 +33,8 @@ import { SeoServicesUsaContent } from "@/content/SeoServicesUsa";
 import { EcommerceSeoContent } from "@/content/EcommerceSeo";
 import { YoutubeSeoContent } from "@/content/YoutubeSeo";
 import { SeoAutomationContent } from "@/content/SeoAutomation";
+import { SeoGlossaryContent } from "@/content/SeoGlossary";
+import { SocialMediaStrategyContent } from "@/content/SocialMediaStrategy";
 
 
 // Content registry - add new pages here
@@ -63,6 +65,8 @@ const contentRegistry: Record<string, any> = {
   "seo-automation-services": SeoAutomationContent,
   "citation-building-services": CitationBuildingServicesContent ,
 
+  "seo-glossary": SeoGlossaryContent,
+  "social-media-strategy-consulting": SocialMediaStrategyContent,
     
 };
 

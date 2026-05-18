@@ -126,7 +126,7 @@ const groups: { title: string; items: Service[] }[] = [
     title: "Marketing & Ads",
     items: [
       { name: "Social Media Marketing", desc: "Brand campaigns", icon: Megaphone },
-      { name: "Social Media Strategy", desc: "Consulting & planning", icon: BarChart3 },
+      { name: "Social Media Strategy", desc: "Consulting & planning", icon: BarChart3 ,href: "/social-media-strategy-consulting" },
       { name: "Social Media Content", desc: "Daily creative", icon: PenTool },
       { name: "PPC Management", desc: "Profitable paid ads", icon: TrendingUp },
       { name: "LinkedIn Ads", desc: "B2B at scale", icon: Linkedin },
