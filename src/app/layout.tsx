@@ -1,7 +1,10 @@
+
+
 import type { Metadata } from "next";
 import { Inter, Instrument_Serif } from "next/font/google";
 import "./globals.css";
 import { Providers } from "./providers";
+
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const instrumentSerif = Instrument_Serif({
@@ -27,6 +30,7 @@ export default function RootLayout({
         suppressHydrationWarning
         className={`${inter.variable} ${instrumentSerif.variable} font-sans`}
       >
+       
         <Providers>{children}</Providers>
       </body>
     </html>
