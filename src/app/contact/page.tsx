@@ -186,7 +186,326 @@ const FlipContactCard = ({
 };
 
 
+// ─── Animated Form Component with Draw Border + Expand from Center ───────────
+// ─── Animated Form Component - Same style as left side flip cards ───────────
+const AnimatedForm = ({
+  formData,
+  errors,
+  touched,
+  submitStatus,
+  handleChange,
+  handleBlur,
+  handleSubmit,
+  successControls,
+  formRef,
+}: {
+  formData: FormData;
+  errors: FormErrors;
+  touched: Record<keyof FormData, boolean>;
+  submitStatus: SubmitStatus;
+  handleChange: (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => void;
+  handleBlur: (e: React.FocusEvent<HTMLInputElement | HTMLTextAreaElement>) => void;
+  handleSubmit: (e: React.FormEvent) => void;
+  successControls: any;
+  formRef: React.RefObject<HTMLFormElement>;
+}) => {
+  const [isExpanded, setIsExpanded] = useState(false);
+  const [showContent, setShowContent] = useState(false);
+  const containerRef = useRef<HTMLDivElement>(null);
+  const isInView = useInView(containerRef, { once: true, margin: "-100px" });
 
+  useEffect(() => {
+    if (isInView) {
+      const expandTimer = setTimeout(() => setIsExpanded(true), 100);
+      const contentTimer = setTimeout(() => setShowContent(true), 800);
+      return () => {
+        clearTimeout(expandTimer);
+        clearTimeout(contentTimer);
+      };
+    }
+  }, [isInView]);
+
+  return (
+    <motion.div
+      ref={containerRef}
+      initial={{ scale: 0, opacity: 0 }}
+      animate={isExpanded ? { scale: 1, opacity: 1 } : {}}
+      transition={{
+        type: "spring",
+        stiffness: 260,
+        damping: 20,
+        duration: 0.6,
+      }}
+      className="relative bg-black/80 backdrop-blur-sm rounded-2xl border border-white/10 overflow-hidden"
+      style={{ perspective: "1400px" }}
+    >
+      {/* Animated Border - draws itself like the cards */}
+      <svg
+        className="absolute inset-0 w-full h-full pointer-events-none"
+        style={{ zIndex: 10 }}
+      >
+        <motion.rect
+          x="2"
+          y="2"
+          width="calc(100% - 4px)"
+          height="calc(100% - 4px)"
+          rx="16"
+          fill="none"
+          stroke="#FF2E86"
+          strokeWidth="2"
+          initial={{ pathLength: 0, opacity: 0 }}
+          animate={isInView ? { pathLength: 1, opacity: 1 } : {}}
+          transition={{
+            duration: 0.8,
+            delay: 0.3,
+            ease: "easeInOut",
+          }}
+        />
+      </svg>
+
+      {/* Front - Black/Hidden state (like left cards front) */}
+      <motion.div
+        className="absolute inset-0 flex flex-col items-center justify-center text-center p-6"
+        initial={{ opacity: 1 }}
+        animate={showContent ? { opacity: 0 } : { opacity: 1 }}
+        transition={{ duration: 0.3 }}
+      >
+        <div className="w-16 h-16 rounded-full bg-white/5 border border-white/20 flex items-center justify-center mb-4">
+          <motion.div 
+            className="w-4 h-4 rounded-full bg-white/20"
+            animate={{ scale: [1, 1.5, 1] }}
+            transition={{ repeat: Infinity, duration: 1.5 }}
+          />
+        </div>
+        <p className="text-[10px] uppercase tracking-[0.3em] text-white/30">
+          Contact Form
+        </p>
+        <p className="text-[8px] tracking-[0.2em] text-white/20 mt-2">
+          scroll to reveal →
+        </p>
+      </motion.div>
+
+      {/* Back - Actual Form Content (like left cards back) */}
+      <motion.div
+        className="p-6 sm:p-8"
+        initial={{ opacity: 0 }}
+        animate={showContent ? { opacity: 1 } : { opacity: 0 }}
+        transition={{ duration: 0.5, delay: 0.2 }}
+      >
+        <div className="mb-6">
+          <h2 className="font-semibold text-white text-2xl">Send a Message</h2>
+          <p className="text-white/50 text-sm mt-1">
+            We'll respond as soon as possible
+          </p>
+        </div>
+
+        <form ref={formRef} onSubmit={handleSubmit} className="space-y-4">
+          {/* Name */}
+          <div>
+            <label className="block text-sm font-medium text-white/70 mb-1">
+              Full Name *
+            </label>
+            <input
+              type="text"
+              name="name"
+              value={formData.name}
+              onChange={handleChange}
+              onBlur={handleBlur}
+              className={`${inputBase} ${
+                touched.name && errors.name ? inputError : inputNormal
+              }`}
+              placeholder="John Carter"
+            />
+            <AnimatePresence>
+              {touched.name && errors.name && (
+                <motion.p
+                  initial={{ opacity: 0, y: -5 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0 }}
+                  className="text-red-400 text-xs mt-1 flex items-center gap-1"
+                >
+                  <AlertCircle size={12} /> {errors.name}
+                </motion.p>
+              )}
+            </AnimatePresence>
+          </div>
+
+          {/* Email */}
+          <div>
+            <label className="block text-sm font-medium text-white/70 mb-1">
+              Email Address *
+            </label>
+            <input
+              type="email"
+              name="email"
+              value={formData.email}
+              onChange={handleChange}
+              onBlur={handleBlur}
+              className={`${inputBase} ${
+                touched.email && errors.email ? inputError : inputNormal
+              }`}
+              placeholder="hello@example.com"
+            />
+            <AnimatePresence>
+              {touched.email && errors.email && (
+                <motion.p
+                  initial={{ opacity: 0, y: -5 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0 }}
+                  className="text-red-400 text-xs mt-1"
+                >
+                  {errors.email}
+                </motion.p>
+              )}
+            </AnimatePresence>
+          </div>
+
+          {/* Subject */}
+          <div>
+            <label className="block text-sm font-medium text-white/70 mb-1">
+              Subject *
+            </label>
+            <input
+              type="text"
+              name="subject"
+              value={formData.subject}
+              onChange={handleChange}
+              onBlur={handleBlur}
+              className={`${inputBase} ${
+                touched.subject && errors.subject ? inputError : inputNormal
+              }`}
+              placeholder="Project inquiry / Support"
+            />
+            <AnimatePresence>
+              {touched.subject && errors.subject && (
+                <motion.p
+                  initial={{ opacity: 0, y: -5 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0 }}
+                  className="text-red-400 text-xs mt-1"
+                >
+                  {errors.subject}
+                </motion.p>
+              )}
+            </AnimatePresence>
+          </div>
+
+          {/* Message */}
+          <div>
+            <label className="block text-sm font-medium text-white/70 mb-1">
+              Message *
+            </label>
+            <textarea
+              name="message"
+              rows={3}
+              value={formData.message}
+              onChange={handleChange}
+              onBlur={handleBlur}
+              className={`${inputBase} resize-none ${
+                touched.message && errors.message ? inputError : inputNormal
+              }`}
+              placeholder="Tell us about your project..."
+            />
+            <AnimatePresence>
+              {touched.message && errors.message && (
+                <motion.p
+                  initial={{ opacity: 0, y: -5 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0 }}
+                  className="text-red-400 text-xs mt-1"
+                >
+                  {errors.message}
+                </motion.p>
+              )}
+            </AnimatePresence>
+          </div>
+
+          {/* Submit Button */}
+          <motion.button
+            type="submit"
+            disabled={submitStatus === "loading"}
+            whileHover={{ scale: submitStatus === "loading" ? 1 : 1.02 }}
+            whileTap={{ scale: 0.98 }}
+            className={`w-full mt-4 py-3 rounded-xl font-semibold text-white shadow-lg transition-all duration-300 flex items-center justify-center gap-2 ${
+              submitStatus === "loading"
+                ? "bg-gray-600 cursor-not-allowed"
+                : "bg-[#FF2E86] hover:bg-[#e6287a]"
+            }`}
+          >
+            {submitStatus === "loading" ? (
+              <>
+                <motion.div
+                  animate={{ rotate: 360 }}
+                  transition={{
+                    repeat: Infinity,
+                    duration: 1,
+                    ease: "linear",
+                  }}
+                  className="w-5 h-5 border-2 border-white/30 border-t-white rounded-full"
+                />
+                Sending…
+              </>
+            ) : submitStatus === "success" ? (
+              <motion.div
+                animate={successControls}
+                className="flex items-center gap-2"
+              >
+                <CheckCircle size={20} /> Message Sent!
+              </motion.div>
+            ) : submitStatus === "error" ? (
+              <>Error! Try again</>
+            ) : (
+              <>
+                <Send size={18} /> Send Message
+              </>
+            )}
+          </motion.button>
+
+          <AnimatePresence>
+            {submitStatus === "success" && (
+              <motion.div
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0 }}
+                className="mt-3 p-3 rounded-xl bg-green-500/20 text-green-300 text-sm flex items-center gap-2 border border-green-500/30"
+              >
+                <CheckCircle size={16} /> Thanks for reaching out!
+              </motion.div>
+            )}
+            {submitStatus === "error" && (
+              <motion.div
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0 }}
+                className="mt-3 p-3 rounded-xl bg-red-500/20 text-red-300 text-sm border border-red-500/30"
+              >
+                Something went wrong. Please try again.
+              </motion.div>
+            )}
+          </AnimatePresence>
+        </form>
+      </motion.div>
+
+      {/* Pink glow during expansion (matches left cards style) */}
+      <motion.div
+        initial={{ opacity: 0.6, scale: 1 }}
+        animate={isExpanded ? { opacity: 0, scale: 3 } : {}}
+        transition={{ duration: 0.8 }}
+        className="absolute inset-0 bg-[#FF2E86] rounded-full pointer-events-none"
+        style={{ filter: "blur(40px)" }}
+      />
+      
+      {/* Flip back hint */}
+      <motion.div
+        className="absolute bottom-2 right-3 text-[8px] tracking-[0.2em] opacity-40 text-white/50"
+        initial={{ opacity: 0 }}
+        animate={showContent ? { opacity: 0.4 } : { opacity: 0 }}
+      >
+        flip back
+      </motion.div>
+    </motion.div>
+  );
+};
 
 // ─── Main Page ────────────────────────────────────────────────────────────────
 export default function AnimatedContactPage() {
@@ -377,209 +696,18 @@ export default function AnimatedContactPage() {
   />
 </div>
             {/* ── Right: Form ── */}
-            <motion.div
-              initial={{ opacity: 0, x: 40 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.6, type: "spring", stiffness: 90 }}
-              className="bg-white/10 backdrop-blur-lg rounded-2xl border border-white/20 p-6 sm:p-8"
-            >
-              <div className="mb-6">
-                <h2 className="text-2xl font-bold text-white">
-                  Send a Message
-                </h2>
-                <p className="text-white/50 text-sm mt-1">
-                  We&apos;ll respond as soon as possible
-                </p>
-              </div>
-
-              <form ref={formRef} onSubmit={handleSubmit} className="space-y-5">
-                {/* Name */}
-                <div>
-                  <label className="block text-sm font-medium text-white/80 mb-1">
-                    Full Name *
-                  </label>
-                  <input
-                    type="text"
-                    name="name"
-                    value={formData.name}
-                    onChange={handleChange}
-                    onBlur={handleBlur}
-                    className={`${inputBase} ${
-                      touched.name && errors.name ? inputError : inputNormal
-                    }`}
-                    placeholder="John Carter"
-                  />
-                  <AnimatePresence>
-                    {touched.name && errors.name && (
-                      <motion.p
-                        initial={{ opacity: 0, y: -5 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        exit={{ opacity: 0 }}
-                        className="text-red-400 text-xs mt-1 flex items-center gap-1"
-                      >
-                        <AlertCircle size={12} /> {errors.name}
-                      </motion.p>
-                    )}
-                  </AnimatePresence>
-                </div>
-
-                {/* Email */}
-                <div>
-                  <label className="block text-sm font-medium text-white/80 mb-1">
-                    Email Address *
-                  </label>
-                  <input
-                    type="email"
-                    name="email"
-                    value={formData.email}
-                    onChange={handleChange}
-                    onBlur={handleBlur}
-                    className={`${inputBase} ${
-                      touched.email && errors.email ? inputError : inputNormal
-                    }`}
-                    placeholder="hello@example.com"
-                  />
-                  <AnimatePresence>
-                    {touched.email && errors.email && (
-                      <motion.p
-                        initial={{ opacity: 0, y: -5 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        exit={{ opacity: 0 }}
-                        className="text-red-400 text-xs mt-1"
-                      >
-                        {errors.email}
-                      </motion.p>
-                    )}
-                  </AnimatePresence>
-                </div>
-
-                {/* Subject */}
-                <div>
-                  <label className="block text-sm font-medium text-white/80 mb-1">
-                    Subject *
-                  </label>
-                  <input
-                    type="text"
-                    name="subject"
-                    value={formData.subject}
-                    onChange={handleChange}
-                    onBlur={handleBlur}
-                    className={`${inputBase} ${
-                      touched.subject && errors.subject ? inputError : inputNormal
-                    }`}
-                    placeholder="Project inquiry / Support"
-                  />
-                  <AnimatePresence>
-                    {touched.subject && errors.subject && (
-                      <motion.p
-                        initial={{ opacity: 0, y: -5 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        exit={{ opacity: 0 }}
-                        className="text-red-400 text-xs mt-1"
-                      >
-                        {errors.subject}
-                      </motion.p>
-                    )}
-                  </AnimatePresence>
-                </div>
-
-                {/* Message */}
-                <div>
-                  <label className="block text-sm font-medium text-white/80 mb-1">
-                    Message *
-                  </label>
-                  <textarea
-                    name="message"
-                    rows={4}
-                    value={formData.message}
-                    onChange={handleChange}
-                    onBlur={handleBlur}
-                    className={`${inputBase} resize-none ${
-                      touched.message && errors.message ? inputError : inputNormal
-                    }`}
-                    placeholder="Tell us about your project..."
-                  />
-                  <AnimatePresence>
-                    {touched.message && errors.message && (
-                      <motion.p
-                        initial={{ opacity: 0, y: -5 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        exit={{ opacity: 0 }}
-                        className="text-red-400 text-xs mt-1"
-                      >
-                        {errors.message}
-                      </motion.p>
-                    )}
-                  </AnimatePresence>
-                </div>
-
-                {/* Submit */}
-                <motion.button
-                  type="submit"
-                  disabled={submitStatus === "loading"}
-                  whileHover={{ scale: submitStatus === "loading" ? 1 : 1.02 }}
-                  whileTap={{ scale: 0.98 }}
-                  className={`w-full mt-2 py-3.5 rounded-xl font-semibold text-white shadow-lg transition-all duration-300 flex items-center justify-center gap-2 ${
-                    submitStatus === "loading"
-                      ? "bg-gray-600 cursor-not-allowed"
-                      : "bg-[#FF2E86] hover:bg-[#e6287a]"
-                  }`}
-                >
-                  {submitStatus === "loading" ? (
-                    <>
-                      <motion.div
-                        animate={{ rotate: 360 }}
-                        transition={{
-                          repeat: Infinity,
-                          duration: 1,
-                          ease: "linear",
-                        }}
-                        className="w-5 h-5 border-2 border-white/30 border-t-white rounded-full"
-                      />
-                      Sending…
-                    </>
-                  ) : submitStatus === "success" ? (
-                    <motion.div
-                      animate={successControls}
-                      className="flex items-center gap-2"
-                    >
-                      <CheckCircle size={20} /> Message Sent!
-                    </motion.div>
-                  ) : submitStatus === "error" ? (
-                    <>Error! Try again</>
-                  ) : (
-                    <>
-                      <Send size={18} /> Send Message
-                    </>
-                  )}
-                </motion.button>
-
-                <AnimatePresence>
-                  {submitStatus === "success" && (
-                    <motion.div
-                      initial={{ opacity: 0, y: 10 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      exit={{ opacity: 0 }}
-                      className="mt-3 p-3 rounded-xl bg-green-500/20 text-green-300 text-sm flex items-center gap-2 border border-green-500/30"
-                    >
-                      <CheckCircle size={16} /> Thanks for reaching out! We'll
-                      be in touch shortly.
-                    </motion.div>
-                  )}
-                  {submitStatus === "error" && (
-                    <motion.div
-                      initial={{ opacity: 0, y: 10 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      exit={{ opacity: 0 }}
-                      className="mt-3 p-3 rounded-xl bg-red-500/20 text-red-300 text-sm border border-red-500/30"
-                    >
-                      Something went wrong. Please try again later.
-                    </motion.div>
-                  )}
-                </AnimatePresence>
-              </form>
-            </motion.div>
+       
+<AnimatedForm
+  formData={formData}
+  errors={errors}
+  touched={touched}
+  submitStatus={submitStatus}
+  handleChange={handleChange}
+  handleBlur={handleBlur}
+  handleSubmit={handleSubmit}
+  successControls={successControls}
+  formRef={formRef}
+/>
           </div>
 
           {/* Footer note */}
