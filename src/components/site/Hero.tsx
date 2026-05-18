@@ -2,6 +2,7 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
 import Image from "next/image";
 import sculpture from "@/assets/hero-sculpture.jpg";
+import { ExternalLink } from "lucide-react";
 
 const techs = [
   "React", "TypeScript", "Node.js", "Next.js", "Python",
@@ -100,7 +101,7 @@ export const Hero = () => {
             >
               <a href="#contact" className="group inline-flex items-center gap-3 rounded-full bg-foreground text-background pl-6 pr-3 py-3 text-sm font-medium hover:opacity-90 transition">
                 Book a discovery call
-                <span className="grid place-items-center w-9 h-9 rounded-full bg-background text-foreground transition-transform group-hover:rotate-45">↗</span>
+                <span className="grid place-items-center w-9 h-9 rounded-full bg-background text-foreground transition-transform group-hover:rotate-45"> <ExternalLink className="w-4 h-4" /></span>
               </a>
               <a href="#work" className="text-sm underline underline-offset-4">See our work</a>
 

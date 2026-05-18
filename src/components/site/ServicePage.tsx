@@ -3,6 +3,7 @@ import { motion, useScroll, useTransform, useSpring } from "framer-motion";
 import { useSmoothScroll } from "@/hooks/useSmoothScroll";
 import { Navbar } from "@/components/site/Navbar";
 import { ArrowUpRight, Check, type LucideIcon } from "lucide-react";
+import Footer from "./Footer";
 
 /* ---------- Shared types ---------- */
 export type ServiceBlock = { h: string; p: string };
@@ -509,6 +510,7 @@ export const ServicePage = ({ data }: { data: ServicePageData }) => {
         <Faqs data={data.faqs} />
         <CTA data={data.cta} />
       </main>
+       <Footer />
     </div>
   );
 };

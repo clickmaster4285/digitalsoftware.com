@@ -60,6 +60,7 @@ import {
   Package,
   Layers,
   Map,
+  ExternalLink,
 } from "lucide-react";
 
 type Service = { name: string; desc: string; icon: any; href?: string };
@@ -125,21 +126,21 @@ const groups: { title: string; items: Service[] }[] = [
   {
     title: "Marketing & Ads",
     items: [
-      { name: "Social Media Marketing", desc: "Brand campaigns", icon: Megaphone },
+      { name: "Social Media Marketing", desc: "Brand campaigns", icon: Megaphone, href: "/social-media-marketing-services" },
       { name: "Social Media Strategy", desc: "Consulting & planning", icon: BarChart3 ,href: "/social-media-strategy-consulting" },
-      { name: "Social Media Content", desc: "Daily creative", icon: PenTool },
-      { name: "PPC Management", desc: "Profitable paid ads", icon: TrendingUp },
-      { name: "LinkedIn Ads", desc: "B2B at scale", icon: Linkedin },
-      { name: "Email Marketing", desc: "Convert your list", icon: Mail },
-      { name: "Content Marketing", desc: "Stories that sell", icon: PenTool },
-      { name: "Ecommerce Marketing", desc: "Scale online stores", icon: ShoppingBag },
-      { name: "Amazon Marketing", desc: "Win on Amazon", icon: Package },
-      { name: "Amazon FBA Marketing", desc: "FBA growth", icon: Package },
-      { name: "Remarketing & Retargeting", desc: "Win back visitors", icon: Repeat },
-      { name: "Online Reputation Mgmt", desc: "Protect your brand", icon: Star },
-      { name: "PR & Media Outreach", desc: "Press coverage", icon: Radio },
-      { name: "Podcast Marketing", desc: "Audio reach", icon: Mic },
-      { name: "Newsletter", desc: "Owned audience", icon: Mail },
+      { name: "Social Media Content", desc: "Daily creative", icon: PenTool, href: "/social-media-content-services" },
+      { name: "PPC Management", desc: "Profitable paid ads", icon: TrendingUp, href: "/ppc-management" },
+      { name: "LinkedIn Ads", desc: "B2B at scale", icon: Linkedin, href: "/linkedin-ads" },
+      { name: "Email Marketing", desc: "Convert your list", icon: Mail, href: "/email-marketing" },
+      { name: "Content Marketing", desc: "Stories that sell", icon: PenTool, href: "/content-marketing" },
+      { name: "Ecommerce Marketing", desc: "Scale online stores", icon: ShoppingBag, href: "/ecommerce-marketing" },
+      { name: "Amazon Marketing", desc: "Win on Amazon", icon: Package, href: "/amazon-marketing" },
+      { name: "Amazon FBA Marketing", desc: "FBA growth", icon: Package, href: "/amazon-fba-marketing" },
+      { name: "Remarketing & Retargeting", desc: "Win back visitors", icon: Repeat, href: "/remarketing-retargeting" },
+      { name: "Online Reputation Mgmt", desc: "Protect your brand", icon: Star, href: "/online-reputation-mgmt" },
+      { name: "PR & Media Outreach", desc: "Press coverage", icon: Radio, href: "/pr-media-outreach" },
+      { name: "Podcast Marketing", desc: "Audio reach", icon: Mic, href: "/podcast-marketing" },
+      { name: "Newsletter", desc: "Owned audience", icon: Mail, href: "/newsletter" },
     ],
   },
   {
@@ -223,7 +224,7 @@ export const Navbar = () => {
       className="fixed top-4 left-0 right-0 z-50 px-4"
     >
       <div className="max-w-5xl mx-auto flex items-center justify-between gap-6 rounded-full bg-background/80 backdrop-blur-xl border border-border px-5 py-3 shadow-sm">
-        <a href="#" className="flex items-center gap-2 font-display text-xl">
+        <a href="/" className="flex items-center gap-2 font-display text-xl">
           <span className="w-7 h-7 rounded-full bg-foreground" />
           ClickMasters
         </a>
@@ -261,7 +262,7 @@ export const Navbar = () => {
           href="#contact"
           className="inline-flex items-center gap-2 rounded-full bg-foreground text-background px-4 py-2 text-sm font-medium hover:opacity-90 transition"
         >
-          Start a project <span aria-hidden>↗</span>
+          Start a project <span> <ExternalLink className="w-4 h-4" /></span>
         </a>
       </div>
 
@@ -288,7 +289,7 @@ export const Navbar = () => {
 
               <div className="grid grid-cols-12 gap-4 p-5">
                 {/* Category rail */}
-                <div className="col-span-3 rounded-2xl bg-muted/40 p-3 flex flex-col gap-1">
+                <div className="col-span-3 rounded-2xl bg-white dark:bg-muted/40 p-3 flex flex-col gap-1">
               
                   {groups.map((g, i) => (
                     <button
@@ -350,7 +351,7 @@ export const Navbar = () => {
                             whileHover={{ y: -2 }}
                             className="group relative rounded-xl p-3 hover:bg-muted/60 transition-colors flex items-start gap-3 border border-transparent hover:border-border"
                           >
-                            <div className="shrink-0 w-9 h-9 rounded-lg bg-muted flex items-center justify-center group-hover:bg-foreground group-hover:text-background transition-colors">
+                            <div className="shrink-0 w-9 h-9 rounded-lg bg-white text-black flex items-center justify-center group-hover:bg-foreground group-hover:text-background transition-colors">
                               <Icon className="w-4 h-4" />
                             </div>
                             <div className="min-w-0">

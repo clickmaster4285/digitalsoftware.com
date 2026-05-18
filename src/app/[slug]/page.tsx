@@ -37,6 +37,8 @@ import { YoutubeSeoContent } from "@/content/YoutubeSeo";
 import { SeoAutomationContent } from "@/content/SeoAutomation";
 import { SeoGlossaryContent } from "@/content/SeoGlossary";
 import { SocialMediaStrategyContent } from "@/content/SocialMediaStrategy";
+import Footer from "@/components/site/Footer";
+import { SocialMediaContentCreationContent } from "@/content/SocialMediaContentCreation";
 
 // Content registry - add new pages here
 const contentRegistry: Record<string, any> = {
@@ -66,8 +68,13 @@ const contentRegistry: Record<string, any> = {
   "seo-automation-services": SeoAutomationContent,
   "citation-building-services": CitationBuildingServicesContent ,
 
-  "seo-glossary": SeoGlossaryContent,
-  "social-media-strategy-consulting": SocialMediaStrategyContent,
+    "seo-glossary": SeoGlossaryContent,
+    "social-media-strategy-consulting": SocialMediaStrategyContent,
+  
+    "social-media-content-creation": SocialMediaContentCreationContent,
+
+  
+
     
 };
 
@@ -84,7 +91,7 @@ const notFoundContent = {
       { k: "0", v: "Results" },
     ],
   },
-  // ... minimal structure to prevent errors
+ 
   intro: { problem: "", solution: "", promise: "" },
   problem: { title: "", titleHighlight: "", items: [], afterTitle: "", afterHighlight: "", afterItems: [] },
   services: [],
@@ -708,7 +715,8 @@ export default function ServicesPage() {
         <Why content={content} />
         <Faqs content={content} />
         <CTA content={content} />
-      </main>
+          </main>
+           <Footer />
     </div>
   );
 }

@@ -23,6 +23,7 @@ import { Awards } from "@/components/site/Awards";
 import { LumosSay } from "@/components/site/LumosSay";
 import { WhyLoved } from "@/components/site/WhyLoved";
 import { CeoCube } from "@/components/site/CeoCube";
+import Footer from "@/components/site/Footer";
 
 type Theme = { bg: string; fg: string };
 
@@ -94,6 +95,7 @@ export default function Home() {
         <section ref={(el) => { sections.current[12] = el; }}><FAQ /></section>
         <section ref={(el) => { sections.current[13] = el; }}><Contact /></section>
       </main>
+       <Footer />
     </div>
   );
 }
