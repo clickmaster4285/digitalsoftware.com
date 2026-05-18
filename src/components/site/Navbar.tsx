@@ -289,9 +289,7 @@ export const Navbar = () => {
               <div className="grid grid-cols-12 gap-4 p-5">
                 {/* Category rail */}
                 <div className="col-span-3 rounded-2xl bg-muted/40 p-3 flex flex-col gap-1">
-                  <div className="flex items-center gap-2 text-xs uppercase tracking-widest opacity-60 px-3 py-2">
-                    <Globe className="w-3.5 h-3.5" /> 2026 Services
-                  </div>
+              
                   {groups.map((g, i) => (
                     <button
                       key={g.title}

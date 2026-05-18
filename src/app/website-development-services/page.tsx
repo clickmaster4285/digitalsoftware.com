@@ -737,7 +737,7 @@ export default function WebDevelopmentServicesPage() {
   }, []);
 
   return (
-    <div className="bg-background text-foreground">
+    <div className="theme-light bg-background text-foreground">
       <main>
         <Hero />
         <Intro />

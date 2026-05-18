@@ -697,7 +697,7 @@ export default function ServicesPage() {
   }, [slug, content, is404]);
 
   return (
-    <div className="bg-background text-foreground">
+    <div className="theme-light bg-background text-foreground">
       <Navbar />
       <main>
         <Hero content={content} />
