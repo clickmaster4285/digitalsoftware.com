@@ -62,6 +62,7 @@ import {
   Map,
   ExternalLink,
 } from "lucide-react";
+import Image from "next/image";
 
 type Service = { name: string; desc: string; icon: any; href?: string };
 
@@ -208,8 +209,12 @@ const groups: { title: string; items: Service[] }[] = [
 const links = [
   { label: "Services", hasMenu: true },
   { label: "Work", hasMenu: false },
+    { label: "Awards", hasMenu: false },
+   { label: "About", hasMenu: false },
   { label: "Process", hasMenu: false },
-  { label: "Contact", hasMenu: false },
+   { label: "Testimonials", hasMenu: false },
+  { label: "Contact", hasMenu: false , href:'/contact' },
+
 ];
 
 export const Navbar = () => {
@@ -225,9 +230,23 @@ export const Navbar = () => {
     >
       <div className="max-w-5xl mx-auto flex items-center justify-between gap-6 rounded-full bg-background/80 backdrop-blur-xl border border-border px-5 py-3 shadow-sm">
         <a href="/" className="flex items-center gap-2 font-display text-xl">
-          <span className="w-7 h-7 rounded-full bg-foreground" />
+          
+  <div className="w-7 h-7 rounded-full overflow-hidden">
+  <Image
+    src="/favicon.ico"
+    alt="icon"
+    width={28}
+    height={28}
+    className="object-cover"
+  />
+</div>
+
+
+
+
           ClickMasters
         </a>
+
         <nav className="hidden md:flex items-center gap-8 text-sm">
           {links.map(l =>
             l.hasMenu ? (
@@ -250,7 +269,7 @@ export const Navbar = () => {
             ) : (
               <a
                 key={l.label}
-                href={`#${l.label.toLowerCase()}`}
+               href={l.href ?? `#${l.label.toLowerCase()}`}
                 className="opacity-70 hover:opacity-100 transition-opacity"
               >
                 {l.label}

@@ -78,7 +78,7 @@ export const Awards = () => {
   });
 
   return (
-    <section ref={ref} className="relative" style={{ height: `${awards.length * 100}vh` }}>
+    <section   id="awards"   ref={ref} className="relative" style={{ height: `${awards.length * 100}vh` }}>
       <div className="sticky top-0 h-screen overflow-hidden flex flex-col items-center justify-center">
         <h2 className="font-display text-5xl md:text-8xl text-center leading-[1.05] mb-12 px-6 z-10 pointer-events-none">
           Awards <em className="text-[#FF3B47]">and</em>
@@ -139,6 +139,7 @@ export const Awards = () => {
           })}
         </div>
       </div>
+      
     </section>
   );
 };

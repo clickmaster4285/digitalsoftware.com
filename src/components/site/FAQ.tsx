@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { ExternalLink } from "lucide-react";
 import { useState } from "react";
 
 const faqs = [
@@ -41,6 +42,22 @@ export const FAQ = () => {
           ))}
         </div>
       </div>
+
+
+       <motion.div
+  initial={{ opacity: 0, y: 20 }} 
+  animate={{ opacity: 1, y: 0 }} 
+  transition={{ delay: 1.2, duration: 0.7 }}
+  className="mt-10 flex items-center justify-center gap-6 flex-wrap"  // ← Added justify-center
+>
+  <a href="#contact" className="group inline-flex items-center gap-3 rounded-full bg-foreground text-background pl-6 pr-3 py-3 text-sm font-medium hover:opacity-90 transition">
+    Contact us
+    <span className="grid place-items-center w-9 h-9 rounded-full bg-background text-foreground transition-transform group-hover:rotate-45">
+      <ExternalLink className="w-4 h-4" />
+    </span>
+  </a>
+  {/* You can add more buttons/items here if needed */}
+</motion.div>
     </section>
   );
 };

@@ -38,6 +38,20 @@ import { SeoAutomationContent } from "@/content/SeoAutomation";
 import { SeoGlossaryContent } from "@/content/SeoGlossary";
 import { SocialMediaStrategyContent } from "@/content/SocialMediaStrategy";
 import Footer from "@/components/site/Footer";
+import { SocialMediaMarketingContent } from "@/content/SocialMediaMarketing";
+import { EmailMarketingServicesContent } from "@/content/EmailMarketing";
+import { EcommerceMarketingServicesContent } from "@/content/EcommerceMarketing";
+import { AmazonMarketingServicesContent } from "@/content/AmazonMarketing";
+import { OnlineReputationManagementContent } from "@/content/OnlineReputation";
+import { PodcastMarketingServicesContent } from "@/content/PodcastMarketingServices";
+import { PpcManagementContent } from "@/content/PpcManagement";
+import { LinkedInAdsContent } from "@/content/LinkedInAds";
+import { ContentMarketingContent } from "@/content/ContentMarketing";
+import { AmazonFbaMarketingContent } from "@/content/AmazonFbaMarketing";
+import { RemarketingRetargetingContent } from "@/content/RemarketingRetargeting";
+import { PrMediaOutreachContent } from "@/content/PrMediaOutreach";
+import { SocialMediaContentCreationContent } from "@/content/SocialMediaContentCreation";
+import { NewsletterContent } from "@/content/Newsletter";
 
 // Content registry - add new pages here
 const contentRegistry: Record<string, any> = {
@@ -66,12 +80,25 @@ const contentRegistry: Record<string, any> = {
   "voice-search-optimization": VoiceSearchOptimizationContent, 
   "seo-automation-services": SeoAutomationContent,
   "citation-building-services": CitationBuildingServicesContent ,
-
-  "seo-glossary": SeoGlossaryContent,
-    "social-media-strategy-consulting": SocialMediaStrategyContent,
-
+    "seo-glossary": SeoGlossaryContent,
   
 
+    "social-media-marketing-services": SocialMediaMarketingContent,
+    "social-media-strategy-consulting": SocialMediaStrategyContent,
+
+     "social-media-content-creation": SocialMediaContentCreationContent,
+    "email-marketing-services": EmailMarketingServicesContent,
+  "ecommerce-marketing-services": EcommerceMarketingServicesContent,
+  "amazon-marketing-services": AmazonMarketingServicesContent,
+  "online-reputation-management": OnlineReputationManagementContent,
+  "podcast-marketing-services": PodcastMarketingServicesContent,
+ "ppc-management-services": PpcManagementContent,
+  "linkedin-ads-management": LinkedInAdsContent,
+  "content-marketing-services": ContentMarketingContent,
+  "amazon-fba-marketing": AmazonFbaMarketingContent,
+  "remarketing-retargeting-services": RemarketingRetargetingContent,
+    "pr-media-outreach-services": PrMediaOutreachContent,
+   "newsletter": NewsletterContent,
     
 };
 
