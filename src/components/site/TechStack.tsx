@@ -1,10 +1,96 @@
 import { motion } from "framer-motion";
 
 const groups = [
-  { t: "Frontend", items: ["React", "Next.js", "Vue", "TypeScript", "Tailwind", "Framer Motion"] },
-  { t: "Backend", items: ["Node.js", "Python", "Go", "GraphQL", "tRPC", "REST"] },
-  { t: "Data", items: ["PostgreSQL", "MongoDB", "Redis", "Supabase", "Prisma", "Kafka"] },
-  { t: "Cloud & AI", items: ["AWS", "Vercel", "Docker", "OpenAI", "LangChain", "Pinecone"] },
+  {
+    t: "SEO & Keyword Research",
+    items: [
+      "Google Search Console",
+      "Ahrefs",
+      "SEMrush",
+      "Moz Pro",
+      "Screaming Frog",
+    ],
+  },
+  {
+    t: "Analytics & Reporting",
+    items: [
+      "Google Analytics 4",
+      "Google Data Studio (Looker Studio)",
+      "HubSpot Analytics",
+      "Databox",
+      "AgencyAnalytics",
+    ],
+  },
+  {
+    t: "Paid Advertising",
+    items: [
+      "Google Ads",
+      "Meta Ads Manager",
+      "Microsoft Bing Ads",
+      "TikTok Ads Manager",
+      "LinkedIn Campaign Manager",
+    ],
+  },
+  {
+    t: "Social Media Management",
+    items: [
+      "Hootsuite",
+      "Buffer",
+      "Sprout Social",
+      "Later",
+      "Meta Business Suite",
+    ],
+  },
+  {
+    t: "Email Marketing",
+    items: [
+      "Mailchimp",
+      "Klaviyo",
+      "ActiveCampaign",
+      "HubSpot Email",
+      "ConvertKit",
+    ],
+  },
+  {
+    t: "AI & Automation",
+    items: [
+      "ChatGPT & Claude AI",
+      "Zapier",
+      "HubSpot CRM Automation",
+      "Jasper AI",
+      "Make (Integromat)",
+    ],
+  },
+  {
+    t: "Creative & Design",
+    items: [
+      "Adobe Creative Suite",
+      "Canva Pro",
+      "Figma",
+      "CapCut Pro",
+      "Premiere Pro",
+    ],
+  },
+  {
+    t: "Ecommerce & Web",
+    items: [
+      "Shopify",
+      "WordPress",
+      "WooCommerce",
+      "Webflow",
+      "ClickFunnels",
+    ],
+  },
+  {
+    t: "CRM & Lead Management",
+    items: [
+      "HubSpot CRM",
+      "Salesforce",
+      "GoHighLevel",
+      "Pipedrive",
+      "Zoho CRM",
+    ],
+  },
 ];
 
 export const TechStack = () => (
@@ -13,7 +99,7 @@ export const TechStack = () => (
       <div className="md:col-span-5">
         <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">— Our stack</p>
         <h2 className="font-display text-5xl md:text-7xl leading-[1.05]">
-          Modern tools, <em>battle-tested</em>.
+          Modern tools, <em>Technologies We Use</em>.
         </h2>
       </div>
       <p className="md:col-span-6 md:col-start-7 self-end text-lg text-muted-foreground max-w-md">
@@ -21,7 +107,7 @@ export const TechStack = () => (
       </p>
     </div>
 
-    <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-px bg-border rounded-3xl overflow-hidden">
+    <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-px bg-border rounded-3xl overflow-hidden">
       {groups.map((g, i) => (
         <motion.div
           key={g.t}

@@ -1,3 +1,5 @@
+"use client";
+
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
 
@@ -55,7 +57,7 @@ export const LumosSay = () => {
   const xNova = useTransform(scrollYProgress, [0.1, 0.6], ["60%", "0%"]);
 
   return (
-    <section ref={ref} className="relative py-32 overflow-hidden">
+    <section ref={ref} className="relative py-12 overflow-hidden">
       {/* Headline stack */}
       <div className="container relative">
         <div className="relative leading-[0.85] font-display select-none">
@@ -110,7 +112,7 @@ export const LumosSay = () => {
         </div>
 
         {/* Testimonial polaroid cards */}
-        <div className="relative mt-20 md:mt-32 min-h-[600px] md:min-h-[520px]">
+        {/* <div className="relative mt-20 md:mt-32 min-h-[600px] md:min-h-[520px]">
           {cards.map((c, i) => (
             <motion.figure
               key={i}
@@ -138,8 +140,10 @@ export const LumosSay = () => {
               </blockquote>
             </motion.figure>
           ))}
-        </div>
+        </div> */}
       </div>
+
+      
     </section>
   );
 };

@@ -20,7 +20,7 @@ const checks = [
 ];
 
 export const Workflow = () => (
-  <section id="workflow" className="py-32 container">
+  <section id="workflow" className="py-32 container px-4 md:px-6">
     <div className="grid lg:grid-cols-12 gap-12 items-center">
       <div className="lg:col-span-5">
         <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">— How we ship</p>
@@ -51,17 +51,17 @@ export const Workflow = () => (
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
         transition={{ duration: 0.8 }}
-        className="lg:col-span-7"
+        className="lg:col-span-7 overflow-x-auto"
       >
-        <div className="rounded-3xl overflow-hidden border border-border shadow-[0_30px_60px_-30px_rgba(0,0,0,0.4)] bg-zinc-950 text-zinc-100">
+        <div className="rounded-3xl overflow-hidden border border-border shadow-[0_30px_60px_-30px_rgba(0,0,0,0.4)] bg-zinc-950 text-zinc-100 min-w-[600px] lg:min-w-0">
           <div className="flex items-center gap-2 px-5 py-3 border-b border-zinc-800 bg-zinc-900/60">
             <span className="w-3 h-3 rounded-full bg-[#FF5F57]" />
             <span className="w-3 h-3 rounded-full bg-[#FEBC2E]" />
             <span className="w-3 h-3 rounded-full bg-[#28C840]" />
-            <span className="ml-3 text-xs text-zinc-400 font-mono">~/clickmasters/build.ts</span>
+            <span className="ml-3 text-xs text-zinc-400 font-mono whitespace-nowrap">~/clickmasters/build.ts</span>
           </div>
-          <pre className="p-6 md:p-8 text-sm md:text-[15px] leading-relaxed overflow-x-auto font-mono">
-<code>
+          <pre className="p-6 md:p-8 text-sm md:text-[15px] leading-relaxed font-mono">
+<code className="block whitespace-pre">
 {code.split("\n").map((line, i) => (
   <motion.div
     key={i}
@@ -69,6 +69,7 @@ export const Workflow = () => (
     whileInView={{ opacity: 1, x: 0 }}
     viewport={{ once: true }}
     transition={{ duration: 0.4, delay: 0.2 + i * 0.08 }}
+    className="whitespace-nowrap"
   >
     <span className="inline-block w-6 text-zinc-600 select-none">{i + 1}</span>
     <span dangerouslySetInnerHTML={{

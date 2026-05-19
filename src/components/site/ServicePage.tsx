@@ -1,8 +1,10 @@
+"use client";
+
 import { useEffect, useRef, type ComponentType } from "react";
 import { motion, useScroll, useTransform, useSpring } from "framer-motion";
 import { useSmoothScroll } from "@/hooks/useSmoothScroll";
-import { Navbar } from "@/components/site/Navbar";
 import { ArrowUpRight, Check, type LucideIcon } from "lucide-react";
+import Footer from "./Footer";
 
 /* ---------- Shared types ---------- */
 export type ServiceBlock = { h: string; p: string };
@@ -118,7 +120,7 @@ const Hero = ({ data }: { data: ServicePageData["hero"] }) => {
         <Reveal delay={0.35}>
           <div className="mt-12 flex flex-wrap gap-4">
             <a
-              href="#contact"
+              href="/contact"
               className="group inline-flex items-center gap-3 bg-white text-black px-7 py-4 rounded-full text-sm tracking-[0.15em] uppercase font-medium hover:bg-[#FF2E86] hover:text-white transition-colors"
             >
               {data.primaryCta}
@@ -497,8 +499,7 @@ export const ServicePage = ({ data }: { data: ServicePageData }) => {
   }, [data.meta.title, data.meta.description]);
 
   return (
-    <div className="bg-background text-foreground">
-      <Navbar />
+    <div className="w-full overflow-x-clip bg-background text-foreground">
       <main>
         <Hero data={data.hero} />
         <Intro data={data.intro} />
@@ -509,6 +510,7 @@ export const ServicePage = ({ data }: { data: ServicePageData }) => {
         <Faqs data={data.faqs} />
         <CTA data={data.cta} />
       </main>
+       <Footer />
     </div>
   );
 };
