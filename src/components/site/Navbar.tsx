@@ -269,7 +269,7 @@ export const Navbar = () => {
             ) : (
               <a
                 key={l.label}
-               href={l.href ?? `#${l.label.toLowerCase()}`}
+               href={l.href ?? `/#${l.label.toLowerCase()}`}
                 className="opacity-70 hover:opacity-100 transition-opacity"
               >
                 {l.label}
@@ -278,7 +278,7 @@ export const Navbar = () => {
           )}
         </nav>
         <a
-          href="#contact"
+          href="/contact"
           className="inline-flex items-center gap-2 rounded-full bg-foreground text-background px-4 py-2 text-sm font-medium hover:opacity-90 transition"
         >
           Start a project <span> <ExternalLink className="w-4 h-4" /></span>

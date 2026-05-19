@@ -1,18 +1,8 @@
 "use client";
 
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useRef } from "react";
+import * as THREE from "three";
 import { cn } from "@/lib/utils";
-
-const randomColors = (count: number) =>
-  new Array(count)
-    .fill(0)
-    .map(
-      () =>
-        "#" +
-        Math.floor(Math.random() * 16777215)
-          .toString(16)
-          .padStart(6, "0")
-    );
 
 interface TubesBackgroundProps {
   children?: React.ReactNode;
@@ -25,152 +15,208 @@ export function TubesBackground({
   className,
   enableClickInteraction = true,
 }: TubesBackgroundProps) {
-  const canvasRef = useRef<HTMLCanvasElement>(null);
-  const tubesRef = useRef<any>(null);
-  const scriptLoadedRef = useRef(false);
-  const [isLoaded, setIsLoaded] = useState(false);
+  const containerRef = useRef<HTMLDivElement>(null);
+  const sceneRef = useRef<THREE.Scene | null>(null);
+  const cameraRef = useRef<THREE.PerspectiveCamera | null>(null);
+  const rendererRef = useRef<THREE.WebGLRenderer | null>(null);
+  const tubesRef = useRef<THREE.LineSegments | null>(null);
+  const animationRef = useRef<number | null>(null);
+  const mousePos = useRef({ x: 0, y: 0 });
+  const colors = useRef(["#ff0080", "#8000ff", "#00ffcc"]);
 
   useEffect(() => {
-    let mounted = true;
+    if (!containerRef.current) return;
 
-    const loadScript = (): Promise<any> =>
-      new Promise((resolve, reject) => {
-        // Already loaded — grab the global directly
-        if ((window as any).TubesCursor) {
-          resolve((window as any).TubesCursor);
-          return;
-        }
-        // Script tag already injected but not yet fired
-        if (scriptLoadedRef.current) {
-          const interval = setInterval(() => {
-            if ((window as any).TubesCursor) {
-              clearInterval(interval);
-              resolve((window as any).TubesCursor);
-            }
-          }, 50);
-          return;
-        }
+    // Setup scene
+    const scene = new THREE.Scene();
 
-        scriptLoadedRef.current = true;
-        const script = document.createElement("script");
-        script.src =
-          "https://cdn.jsdelivr.net/npm/threejs-components@0.0.19/build/cursors/tubes1.min.js";
-        script.async = true;
-        script.onload = () => resolve((window as any).TubesCursor);
-        script.onerror = reject;
-        document.body.appendChild(script);
+    scene.fog = new THREE.FogExp2(0x000000, 0.008);
+    sceneRef.current = scene;
+
+    // Setup camera
+    const camera = new THREE.PerspectiveCamera(
+      75,
+      window.innerWidth / window.innerHeight,
+      0.1,
+      1000
+    );
+    camera.position.set(0, 0, 15);
+    cameraRef.current = camera;
+
+    // Setup renderer
+  const renderer = new THREE.WebGLRenderer({
+  antialias: true,
+  alpha: true,
+});
+    renderer.setSize(window.innerWidth, window.innerHeight);
+   renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+renderer.domElement.style.position = "absolute";
+renderer.domElement.style.inset = "0";
+renderer.domElement.style.zIndex = "-1";
+    containerRef.current.appendChild(renderer.domElement);
+    rendererRef.current = renderer;
+
+    // Create neon tubes effect using torus knots
+    const tubeGroup = new THREE.Group();
+    
+    const geometries = [
+      new THREE.TorusKnotGeometry(1.5, 0.08, 200, 32, 3, 4),
+      new THREE.TorusKnotGeometry(1.8, 0.06, 180, 32, 5, 3),
+      new THREE.TorusKnotGeometry(2.0, 0.1, 220, 32, 2, 5),
+      new THREE.TorusGeometry(2.2, 0.07, 64, 200),
+      new THREE.TorusGeometry(1.6, 0.09, 64, 200),
+    ];
+
+    const tubeColors = ["#ff0080", "#8000ff", "#00ffcc", "#ff6600", "#ff00ff"];
+    
+    geometries.forEach((geometry, i) => {
+      const material = new THREE.MeshBasicMaterial({
+        color: tubeColors[i % tubeColors.length],
+        transparent: true,
+        opacity: 0.7,
+        blending: THREE.AdditiveBlending,
       });
+      const tube = new THREE.Mesh(geometry, material);
+      tube.position.x = (Math.random() - 0.5) * 8;
+      tube.position.y = (Math.random() - 0.5) * 6;
+      tube.position.z = (Math.random() - 0.5) * 10 - 5;
+      tube.scale.setScalar(0.8 + Math.random() * 0.7);
+      tubeGroup.add(tube);
+    });
 
-    const init = async () => {
-      if (!canvasRef.current) return;
-      try {
-        const TubesCursor = await loadScript();
-        if (!mounted || !canvasRef.current) return;
+    scene.add(tubeGroup);
+    tubesRef.current = tubeGroup as any;
 
-        const app = TubesCursor(canvasRef.current, {
-          tubes: {
-            colors: ["#f967fb", "#53bc28", "#6958d5"],
-            lights: {
-              intensity: 200,
-              colors: ["#83f36e", "#fe8a2e", "#ff008a", "#60aed5"],
-            },
-          },
-        });
-
-        tubesRef.current = app;
-        setIsLoaded(true);
-      } catch (err) {
-        console.error("Failed to load TubesCursor:", err);
-      }
-    };
-
-    init();
-    return () => {
-      mounted = false;
-    };
-  }, []);
-
-  // Forward pointer events from the wrapper div to the canvas
-  // so the Three.js raycaster / cursor tracker keeps working
-  // even though the canvas itself has pointer-events:none
-  const handlePointerMove = (e: React.PointerEvent<HTMLDivElement>) => {
-    if (!canvasRef.current) return;
-    canvasRef.current.dispatchEvent(
-      new PointerEvent("pointermove", {
-        bubbles: true,
-        cancelable: true,
-        clientX: e.clientX,
-        clientY: e.clientY,
-        movementX: e.movementX,
-        movementY: e.movementY,
-      })
-    );
-  };
-
-  const handleMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
-    if (!canvasRef.current) return;
-    canvasRef.current.dispatchEvent(
-      new MouseEvent("mousemove", {
-        bubbles: true,
-        cancelable: true,
-        clientX: e.clientX,
-        clientY: e.clientY,
-        movementX: e.movementX,
-        movementY: e.movementY,
-      })
-    );
-  };
-
-  const handleClick = (e: React.MouseEvent<HTMLDivElement>) => {
-    // Forward to canvas in case the lib listens there
-    if (canvasRef.current) {
-      canvasRef.current.dispatchEvent(
-        new MouseEvent("click", {
-          bubbles: true,
-          cancelable: true,
-          clientX: e.clientX,
-          clientY: e.clientY,
-        })
-      );
+    // Add particles for extra effect
+    const particleCount = 1500;
+    const particleGeometry = new THREE.BufferGeometry();
+    const particlePositions = new Float32Array(particleCount * 3);
+    
+    for (let i = 0; i < particleCount; i++) {
+      particlePositions[i * 3] = (Math.random() - 0.5) * 50;
+      particlePositions[i * 3 + 1] = (Math.random() - 0.5) * 30;
+      particlePositions[i * 3 + 2] = (Math.random() - 0.5) * 30 - 15;
     }
+    
+    particleGeometry.setAttribute("position", new THREE.BufferAttribute(particlePositions, 3));
+    const particleMaterial = new THREE.PointsMaterial({
+      color: 0xff44aa,
+      size: 0.05,
+      transparent: true,
+      opacity: 0.5,
+      blending: THREE.AdditiveBlending,
+    });
+    const particles = new THREE.Points(particleGeometry, particleMaterial);
+    scene.add(particles);
 
-    if (!enableClickInteraction || !tubesRef.current) return;
-    tubesRef.current.tubes.setColors(randomColors(3));
-    tubesRef.current.tubes.setLightsColors(randomColors(4));
-  };
+    // Stars background
+    const starCount = 2000;
+    const starGeometry = new THREE.BufferGeometry();
+    const starPositions = new Float32Array(starCount * 3);
+    for (let i = 0; i < starCount; i++) {
+      starPositions[i * 3] = (Math.random() - 0.5) * 200;
+      starPositions[i * 3 + 1] = (Math.random() - 0.5) * 200;
+      starPositions[i * 3 + 2] = (Math.random() - 0.5) * 100 - 50;
+    }
+    starGeometry.setAttribute("position", new THREE.BufferAttribute(starPositions, 3));
+    const starMaterial = new THREE.PointsMaterial({ color: 0xffffff, size: 0.08 });
+    const stars = new THREE.Points(starGeometry, starMaterial);
+    scene.add(stars);
 
-  return (
-    <div
-      className={cn(
-        "relative w-full h-full min-h-[400px] overflow-hidden bg-black",
-        className
-      )}
-      onPointerMove={handlePointerMove}
-      onMouseMove={handleMouseMove}
-      onClick={handleClick}
-    >
-      {/*
-        Canvas sits behind everything.
-        pointer-events:none prevents it from stealing mouse events —
-        we dispatch synthetic events onto it manually above.
-      */}
-      <canvas
-        ref={canvasRef}
-        className="absolute inset-0 w-full h-full block"
-        style={{ touchAction: "none", pointerEvents: "none" }}
-      />
+    // Mouse movement effect
+    const handleMouseMove = (event: MouseEvent) => {
+      mousePos.current = {
+        x: (event.clientX / window.innerWidth) * 2 - 1,
+        y: (event.clientY / window.innerHeight) * 2 - 1,
+      };
+    };
 
-      {/*
-        Content overlay.
-        pointer-events:auto so child buttons/links stay clickable.
-        The wrapper's onMouseMove still fires because the event
-        originates from the wrapper div, not the canvas.
-      */}
-      <div className="relative z-10 w-full h-full pointer-events-auto">
+    // Click to change colors
+    const handleClick = () => {
+      if (!enableClickInteraction) return;
+      
+      const newColors = [
+        `#${Math.floor(Math.random() * 16777215).toString(16)}`,
+        `#${Math.floor(Math.random() * 16777215).toString(16)}`,
+        `#${Math.floor(Math.random() * 16777215).toString(16)}`,
+      ];
+      colors.current = newColors;
+      
+      tubeGroup.children.forEach((child, idx) => {
+        if (child instanceof THREE.Mesh && child.material) {
+          (child.material as THREE.MeshBasicMaterial).color.set(newColors[idx % newColors.length]);
+        }
+      });
+    };
+
+    window.addEventListener("mousemove", handleMouseMove);
+    window.addEventListener("click", handleClick);
+
+    // Animation loop
+    let time = 0;
+    const animate = () => {
+      time += 0.005;
+      
+      // Rotate tube group
+      tubeGroup.rotation.x = Math.sin(time * 0.2) * 0.3;
+      tubeGroup.rotation.y = time * 0.3;
+      tubeGroup.rotation.z = Math.cos(time * 0.15) * 0.2;
+      
+      // Rotate particles
+      particles.rotation.x = time * 0.05;
+      particles.rotation.y = time * 0.03;
+      
+      // Follow mouse with slight delay
+      const targetX = mousePos.current.x * 2;
+      const targetY = mousePos.current.y * 1.5;
+      camera.position.x += (targetX - camera.position.x) * 0.05;
+      camera.position.y += (-targetY - camera.position.y) * 0.05;
+      camera.lookAt(0, 0, 0);
+      
+      renderer.render(scene, camera);
+      animationRef.current = requestAnimationFrame(animate);
+    };
+    
+    animate();
+
+    // Handle resize
+    const handleResize = () => {
+      if (!camera || !renderer) return;
+      camera.aspect = window.innerWidth / window.innerHeight;
+      camera.updateProjectionMatrix();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+    };
+    
+    window.addEventListener("resize", handleResize);
+
+    // Cleanup
+    return () => {
+      if (animationRef.current) cancelAnimationFrame(animationRef.current);
+      window.removeEventListener("mousemove", handleMouseMove);
+      window.removeEventListener("click", handleClick);
+      window.removeEventListener("resize", handleResize);
+      if (rendererRef.current && containerRef.current) {
+        containerRef.current.removeChild(rendererRef.current.domElement);
+      }
+      rendererRef.current?.dispose();
+    };
+  }, [enableClickInteraction]);
+
+return (
+  <div
+    ref={containerRef}
+    className={cn(
+      "fixed inset-0 -z-50 overflow-hidden bg-black pointer-events-none",
+      className
+    )}
+  >
+    {children && (
+      <div className="relative z-10 w-full h-full pointer-events-none">
         {children}
       </div>
-    </div>
-  );
+    )}
+  </div>
+);
 }
 
 export default TubesBackground;
