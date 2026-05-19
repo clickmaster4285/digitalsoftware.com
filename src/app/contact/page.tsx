@@ -192,8 +192,9 @@ const handleSubmit = async (e: React.FormEvent) => {
 
   return (
     <>
+       <TubesBackground >
     <Navbar/>
-    <TubesBackground >
+   
       {/* <FloatingShapes /> */}
       <div className="min-h-screen py-16 mt-20 px-4 sm:px-6 lg:px-8 relative">
         <div className="max-w-6xl mx-auto">

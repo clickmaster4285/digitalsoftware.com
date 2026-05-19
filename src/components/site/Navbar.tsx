@@ -186,22 +186,22 @@ const groups: { title: string; items: Service[] }[] = [
   {
     title: "Products",
     items: [
-      { name: "CLICK Growth System", desc: "Our growth OS", icon: TrendingUp },
-      { name: "ClickPOS", desc: "Point of sale", icon: Store },
-      { name: "ClickCare HMS", desc: "Hospital mgmt", icon: Headset },
+      { name: "CLICK Growth System", desc: "Our growth OS", icon: TrendingUp , href: "/click-growth-system"},
+      { name: "ClickPOS", desc: "Point of sale", icon: Store , href: "/clickpos"},
+      { name: "ClickCare HMS", desc: "Hospital mgmt", icon: Headset , href: "/clickcare-hms"},
     ],
   },
   {
     title: "Company & Resources",
     items: [
-      { name: "About Us", desc: "Who we are", icon: Info },
-      { name: "Our Team", desc: "Meet the studio", icon: Users },
-      { name: "Careers", desc: "Join the team", icon: BriefcaseIcon },
-      { name: "Case Studies", desc: "Proven results", icon: Trophy },
-      { name: "Blog & Resources", desc: "Latest insights", icon: Rss },
-      { name: "White Paper Writing", desc: "Authority content", icon: FileText },
-      { name: "Digital Marketing Glossary", desc: "Learn the terms", icon: BookOpen },
-      { name: "Testimonials", desc: "What clients say", icon: Quote },
+      { name: "About Us", desc: "Who we are", icon: Info  , href: "/about-us"},
+      { name: "Our Team", desc: "Meet the studio", icon: Users , href: "/our-team"},
+      { name: "Careers", desc: "Join the team", icon: BriefcaseIcon , href: "/careers"},
+      { name: "Case Studies", desc: "Proven results", icon: Trophy , href: "/case-studies"},
+      { name: "Blog & Resources", desc: "Latest insights", icon: Rss , href: "/blog"},
+      { name: "White Paper Writing", desc: "Authority content", icon: FileText , href: "/white-paper-writing"},
+      { name: "Digital Marketing Glossary", desc: "Learn the terms", icon: BookOpen , href: "/digital-marketing-glossary"},
+      { name: "Testimonials", desc: "What clients say", icon: Quote , href: "/testimonials"},
     ],
   },
 ];

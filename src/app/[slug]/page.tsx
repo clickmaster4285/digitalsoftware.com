@@ -52,6 +52,17 @@ import { RemarketingRetargetingContent } from "@/content/RemarketingRetargeting"
 import { PrMediaOutreachContent } from "@/content/PrMediaOutreach";
 import { SocialMediaContentCreationContent } from "@/content/SocialMediaContentCreation";
 import { NewsletterContent } from "@/content/Newsletter";
+import { ClickPOSContent } from "@/content/ClickPOSContent";
+import { ClickCareHMSContent } from "@/content/ClickCareHMS";
+import { TestimonialsContent } from "@/content/TestimonialsContent";
+import { WhitePaperWritingServicesContent } from "@/content/WhitePaper";
+import { CareersContent } from "@/content/CareersContent";
+import { OurTeamContent } from "@/content/OurTeam";
+import { CaseStudyWritingContent } from "@/content/CaseStudyWriting";
+import { AboutUsContent } from "@/content/AboutUs";
+import { BlogContent } from "@/content/BlogContent";
+import { DigitalMarketingGlossaryContent } from "@/content/DigitalMarketingGlossary";
+import { ClickGrowthSystemContent } from "@/content/ClickGrowthSystem";
 
 // Content registry - add new pages here
 const contentRegistry: Record<string, any> = {
@@ -100,6 +111,18 @@ const contentRegistry: Record<string, any> = {
     "pr-media-outreach-services": PrMediaOutreachContent,
    "newsletter": NewsletterContent,
     
+ "about-us": AboutUsContent,
+     "our-team": OurTeamContent,
+  "careers": CareersContent,
+  "case-study-writing-services": CaseStudyWritingContent,
+     "blog": BlogContent,
+  "white-paper-writing-services": WhitePaperWritingServicesContent,
+  "testimonials": TestimonialsContent,
+     "digital-marketing-glossary": DigitalMarketingGlossaryContent,
+ "clickcare-hms": ClickCareHMSContent,
+  "click-growth-system": ClickGrowthSystemContent,
+  "clickpos": ClickPOSContent,
+
 };
 
 // 404 content for unknown slugs

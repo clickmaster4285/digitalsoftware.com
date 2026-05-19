@@ -19,7 +19,6 @@ export function TubesBackground({
   const sceneRef = useRef<THREE.Scene | null>(null);
   const cameraRef = useRef<THREE.PerspectiveCamera | null>(null);
   const rendererRef = useRef<THREE.WebGLRenderer | null>(null);
-  const tubesRef = useRef<THREE.LineSegments | null>(null);
   const animationRef = useRef<number | null>(null);
   const mousePos = useRef({ x: 0, y: 0 });
   const colors = useRef(["#ff0080", "#8000ff", "#00ffcc"]);
@@ -27,13 +26,12 @@ export function TubesBackground({
   useEffect(() => {
     if (!containerRef.current) return;
 
-    // Setup scene
+    // Scene
     const scene = new THREE.Scene();
-
     scene.fog = new THREE.FogExp2(0x000000, 0.008);
     sceneRef.current = scene;
 
-    // Setup camera
+    // Camera
     const camera = new THREE.PerspectiveCamera(
       75,
       window.innerWidth / window.innerHeight,
@@ -43,62 +41,29 @@ export function TubesBackground({
     camera.position.set(0, 0, 15);
     cameraRef.current = camera;
 
-    // Setup renderer
-  const renderer = new THREE.WebGLRenderer({
-  antialias: true,
-  alpha: true,
-});
+    // Renderer
+    const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
     renderer.setSize(window.innerWidth, window.innerHeight);
-   renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
-renderer.domElement.style.position = "absolute";
-renderer.domElement.style.inset = "0";
-renderer.domElement.style.zIndex = "-1";
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+    renderer.domElement.style.position = "absolute";
+    renderer.domElement.style.inset = "0";
+    renderer.domElement.style.zIndex = "-1";
     containerRef.current.appendChild(renderer.domElement);
     rendererRef.current = renderer;
 
-    // Create neon tubes effect using torus knots
-    const tubeGroup = new THREE.Group();
-    
-    const geometries = [
-      new THREE.TorusKnotGeometry(1.5, 0.08, 200, 32, 3, 4),
-      new THREE.TorusKnotGeometry(1.8, 0.06, 180, 32, 5, 3),
-      new THREE.TorusKnotGeometry(2.0, 0.1, 220, 32, 2, 5),
-      new THREE.TorusGeometry(2.2, 0.07, 64, 200),
-      new THREE.TorusGeometry(1.6, 0.09, 64, 200),
-    ];
-
-    const tubeColors = ["#ff0080", "#8000ff", "#00ffcc", "#ff6600", "#ff00ff"];
-    
-    geometries.forEach((geometry, i) => {
-      const material = new THREE.MeshBasicMaterial({
-        color: tubeColors[i % tubeColors.length],
-        transparent: true,
-        opacity: 0.7,
-        blending: THREE.AdditiveBlending,
-      });
-      const tube = new THREE.Mesh(geometry, material);
-      tube.position.x = (Math.random() - 0.5) * 8;
-      tube.position.y = (Math.random() - 0.5) * 6;
-      tube.position.z = (Math.random() - 0.5) * 10 - 5;
-      tube.scale.setScalar(0.8 + Math.random() * 0.7);
-      tubeGroup.add(tube);
-    });
-
-    scene.add(tubeGroup);
-    tubesRef.current = tubeGroup as any;
-
-    // Add particles for extra effect
+    // Particles
     const particleCount = 1500;
     const particleGeometry = new THREE.BufferGeometry();
     const particlePositions = new Float32Array(particleCount * 3);
-    
     for (let i = 0; i < particleCount; i++) {
-      particlePositions[i * 3] = (Math.random() - 0.5) * 50;
+      particlePositions[i * 3]     = (Math.random() - 0.5) * 50;
       particlePositions[i * 3 + 1] = (Math.random() - 0.5) * 30;
       particlePositions[i * 3 + 2] = (Math.random() - 0.5) * 30 - 15;
     }
-    
-    particleGeometry.setAttribute("position", new THREE.BufferAttribute(particlePositions, 3));
+    particleGeometry.setAttribute(
+      "position",
+      new THREE.BufferAttribute(particlePositions, 3)
+    );
     const particleMaterial = new THREE.PointsMaterial({
       color: 0xff44aa,
       size: 0.05,
@@ -109,44 +74,37 @@ renderer.domElement.style.zIndex = "-1";
     const particles = new THREE.Points(particleGeometry, particleMaterial);
     scene.add(particles);
 
-    // Stars background
+    // Stars
     const starCount = 2000;
     const starGeometry = new THREE.BufferGeometry();
     const starPositions = new Float32Array(starCount * 3);
     for (let i = 0; i < starCount; i++) {
-      starPositions[i * 3] = (Math.random() - 0.5) * 200;
+      starPositions[i * 3]     = (Math.random() - 0.5) * 200;
       starPositions[i * 3 + 1] = (Math.random() - 0.5) * 200;
       starPositions[i * 3 + 2] = (Math.random() - 0.5) * 100 - 50;
     }
-    starGeometry.setAttribute("position", new THREE.BufferAttribute(starPositions, 3));
-    const starMaterial = new THREE.PointsMaterial({ color: 0xffffff, size: 0.08 });
-    const stars = new THREE.Points(starGeometry, starMaterial);
+    starGeometry.setAttribute(
+      "position",
+      new THREE.BufferAttribute(starPositions, 3)
+    );
+    const stars = new THREE.Points(
+      starGeometry,
+      new THREE.PointsMaterial({ color: 0xffffff, size: 0.08 })
+    );
     scene.add(stars);
 
-    // Mouse movement effect
+    // Mouse
     const handleMouseMove = (event: MouseEvent) => {
-      mousePos.current = {
-        x: (event.clientX / window.innerWidth) * 2 - 1,
-        y: (event.clientY / window.innerHeight) * 2 - 1,
-      };
+      // Convert mouse to 3D space coordinates (-7 to 7 range for x, -5 to 5 for y)
+      const mouseX = (event.clientX / window.innerWidth) * 14 - 7;
+      const mouseY = -(event.clientY / window.innerHeight) * 10 + 5;
+      mousePos.current = { x: mouseX, y: mouseY };
     };
 
-    // Click to change colors
+    // Click → randomize colors (removed since no lines, but keeping for potential future use)
     const handleClick = () => {
       if (!enableClickInteraction) return;
-      
-      const newColors = [
-        `#${Math.floor(Math.random() * 16777215).toString(16)}`,
-        `#${Math.floor(Math.random() * 16777215).toString(16)}`,
-        `#${Math.floor(Math.random() * 16777215).toString(16)}`,
-      ];
-      colors.current = newColors;
-      
-      tubeGroup.children.forEach((child, idx) => {
-        if (child instanceof THREE.Mesh && child.material) {
-          (child.material as THREE.MeshBasicMaterial).color.set(newColors[idx % newColors.length]);
-        }
-      });
+      // Colors functionality removed as lines are gone
     };
 
     window.addEventListener("mousemove", handleMouseMove);
@@ -155,41 +113,35 @@ renderer.domElement.style.zIndex = "-1";
     // Animation loop
     let time = 0;
     const animate = () => {
-      time += 0.005;
+      time += 0.01;
       
-      // Rotate tube group
-      tubeGroup.rotation.x = Math.sin(time * 0.2) * 0.3;
-      tubeGroup.rotation.y = time * 0.3;
-      tubeGroup.rotation.z = Math.cos(time * 0.15) * 0.2;
-      
-      // Rotate particles
+      // Rotate particles and stars
       particles.rotation.x = time * 0.05;
       particles.rotation.y = time * 0.03;
-      
-      // Follow mouse with slight delay
-      const targetX = mousePos.current.x * 2;
-      const targetY = mousePos.current.y * 1.5;
-      camera.position.x += (targetX - camera.position.x) * 0.05;
-      camera.position.y += (-targetY - camera.position.y) * 0.05;
+      stars.rotation.x = time * 0.02;
+      stars.rotation.y = time * 0.01;
+
+      // Smooth camera follow for mouse (subtle)
+      const targetCamX = (mousePos.current.x / 7) * 1;
+      const targetCamY = (mousePos.current.y / 5) * 0.8;
+      camera.position.x += (targetCamX - camera.position.x) * 0.03;
+      camera.position.y += (-targetCamY - camera.position.y) * 0.03;
       camera.lookAt(0, 0, 0);
-      
+
       renderer.render(scene, camera);
       animationRef.current = requestAnimationFrame(animate);
     };
-    
     animate();
 
-    // Handle resize
+    // Resize
     const handleResize = () => {
       if (!camera || !renderer) return;
       camera.aspect = window.innerWidth / window.innerHeight;
       camera.updateProjectionMatrix();
       renderer.setSize(window.innerWidth, window.innerHeight);
     };
-    
     window.addEventListener("resize", handleResize);
 
-    // Cleanup
     return () => {
       if (animationRef.current) cancelAnimationFrame(animationRef.current);
       window.removeEventListener("mousemove", handleMouseMove);
@@ -202,16 +154,17 @@ renderer.domElement.style.zIndex = "-1";
     };
   }, [enableClickInteraction]);
 
-return (
+ return (
   <div
     ref={containerRef}
     className={cn(
-      "fixed inset-0 -z-50 overflow-hidden bg-black pointer-events-none",
+      "fixed inset-0 -z-50 overflow-hidden bg-black",
       className
     )}
+    style={{ position: 'fixed', top: 0, left: 0, width: '100%', height: '100%' }}
   >
     {children && (
-      <div className="relative z-10 w-full h-full pointer-events-none">
+      <div className="relative z-10 w-full h-full pointer-events-auto">
         {children}
       </div>
     )}
