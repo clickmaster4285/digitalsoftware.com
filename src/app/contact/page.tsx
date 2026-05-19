@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, lazy, Suspense, useState } from "react";
 import { gsap } from "gsap";
+import Footer from "@/components/site/Footer";
 
 interface FormData {
   name: string;
@@ -376,6 +377,7 @@ export default function Home() {
           </section>
         </div>
       </main>
+      <Footer />
     </>
   );
 }

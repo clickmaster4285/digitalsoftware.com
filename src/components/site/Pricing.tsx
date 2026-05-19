@@ -56,7 +56,7 @@ const plans = [
 
 
 export const Pricing = () => (
-  <section className="py-32 container">
+  <section id="pricing" className="py-32 container">
     <p className="text-xs uppercase tracking-[0.25em] mb-4">— Pricing</p>
     <h2 className="font-display text-5xl md:text-7xl leading-[1.05] mb-20 max-w-3xl">
       Our Digital Marketing Agency <em>Pricing </em> & Packages.

@@ -82,7 +82,7 @@ export default function Home() {
         <section ref={(el) => { sections.current[5] = el; }}><Process /></section>
         <section ref={(el) => { sections.current[6] = el; }}><Workflow /></section>
         <section ref={(el) => { sections.current[7] = el; }}><Jiffz /></section>
-        <section ref={(el) => { sections.current[8] = el; }}><Stats /></section>
+        {/* <section ref={(el) => { sections.current[8] = el; }}><Stats /></section> */}
         <section ref={(el) => { sections.current[14] = el; }}><Awards /></section>
         <section ref={(el) => { sections.current[16] = el; }}><WhyLoved /></section>
         <section><CeoCube /></section>

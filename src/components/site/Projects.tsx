@@ -97,15 +97,18 @@ const ProjectCard = ({ p, i }: { p: (typeof projects)[0]; i: number }) => {
         transition={{ duration: 0.8 }}
         className="overflow-hidden rounded-2xl group cursor-pointer "
       >
-        <motion.div style={{ y }} className="aspect-[4/3] overflow-hidden">
-          <Image
-            src={p.img}
-            alt={p.title}
-            className="w-full h-full object-cover scale-110 group-hover:scale-100 transition-transform duration-[1.2s] ease-out"
-          />
-        </motion.div>
+      <motion.div
+  style={{ y }}
+  className="aspect-[4/3] overflow-hidden relative leading-none"
+>
+  <Image
+    src={p.img}
+    alt={p.title}
+    className="block w-full h-full object-cover transform-gpu will-change-transform transition-transform duration-[1.2s] ease-out group-hover:scale-105"
+  />
+</motion.div>
 
-        <div className="p-8">
+      <div className="p-5 md:p-8">
           <div className="flex justify-between items-start gap-4 mb-5">
             <div>
               <h3 className="font-display text-3xl leading-tight">
@@ -164,9 +167,9 @@ export const Projects = () => {
   const [showAll, setShowAll] = useState(false);
 
   return (
-    <section id="work" className="py-32 container">
+    <section id="solutions" className="py-24 md:py-32 container px-4 md:px-0">
       <div className="flex items-end justify-between mb-20 flex-wrap gap-6">
-        <div>
+      <div className="text-center md:text-left">
           <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">
             — Case Studies
           </p>
@@ -184,7 +187,7 @@ export const Projects = () => {
         </div>
       </div>
 
-      <div className="grid md:grid-cols-2 gap-x-10 gap-y-24">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-x-10 md:gap-y-24">
         {(showAll ? projects : projects.slice(0, 2)).map((p, i) => (
           <ProjectCard key={p.title} p={p} i={i} />
         ))}
@@ -208,7 +211,7 @@ export const Projects = () => {
   whileInView={{ opacity: 1, y: 0 }}
   viewport={{ once: true }}
   transition={{ duration: 0.7 }}
-  className="mt-24 relative overflow-hidden rounded-[2rem] border border-border bg-background px-8 py-14 md:px-16 text-center"
+ className="mt-24 relative overflow-hidden rounded-[2rem] border border-border bg-background px-5 md:px-16 py-12 md:py-14 text-center"
 >
   {/* Background Glow */}
   <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(0,0,0,0.06),transparent_60%)] pointer-events-none" />

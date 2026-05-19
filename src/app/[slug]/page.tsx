@@ -336,7 +336,7 @@ const Problem = ({ content }: { content: any }) => {
   const ref = useRef<HTMLDivElement>(null);
   const { scrollYProgress } = useScroll({ target: ref, offset: ["start end", "end start"] });
   const y = useTransform(scrollYProgress, [0, 1], [80, -80]);
-  const headlineX = useTransform(scrollYProgress, [0, 1], [-60, 60]);
+  const headlineX = useTransform(scrollYProgress, [0, 1],   [-30, 30]);
 
   const problemContent = content.problem;
 

@@ -31,7 +31,7 @@ export const Solutions = () => {
   const visibleSolutions = showAll ? solutions : solutions.slice(0, 6);
 
   return (
-    <section id="solutions" className="py-32 container">
+    <section id="industries" className="py-32 container">
       <div className="grid md:grid-cols-12 gap-12 mb-20">
         <div className="md:col-span-4">
           <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">

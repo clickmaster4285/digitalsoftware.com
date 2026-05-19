@@ -51,7 +51,7 @@ export const Hero = () => {
         </div>
       ))}
 
-      <motion.div style={{ opacity }} className="container relative z-20">
+      <motion.div style={{ opacity }} className="container relative z-20 px-4 md:px-0">
         <motion.div
           initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.2, duration: 0.7 }}
@@ -63,7 +63,7 @@ export const Hero = () => {
 
         <div className="mt-10 grid lg:grid-cols-12 gap-10 items-center">
           <div className="lg:col-span-7 relative z-10">
-            <h1 className="font-display text-[clamp(3.5rem,11vw,10rem)] leading-[0.92] text-balance tracking-tight">
+            <h1 className="font-display text-[clamp(2.5rem,10vw,8rem)] leading-[0.92] text-balance tracking-tight">
               {"Best Digital Marketing ".split("").map((c, i) => (
                 <motion.span key={i} initial={{ y: "100%", opacity: 0 }} animate={{ y: 0, opacity: 1 }}
                   transition={{ delay: 0.2 + i * 0.04, duration: 0.7, ease: [0.65, 0, 0.35, 1] }}
@@ -113,7 +113,7 @@ export const Hero = () => {
             
             <motion.p
               initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1, duration: 0.8 }}
-              className="mt-10 max-w-md text-lg text-muted-foreground"
+             className="mt-10 max-w-md w-full text-lg text-muted-foreground leading-relaxed"
             >
          Clickmasters is a results-driven digital marketing company trusted by 200+ businesses across the United States. Whether you're searching for the best digital marketing agency partner to scale your brand online, Clickmasters builds custom strategies that deliver real, measurable growth. No fluff. No guesswork. Just the results that your business can need.
 
