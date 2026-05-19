@@ -1,3 +1,5 @@
+"use client";
+
 import { useEffect, useRef, type ComponentType } from "react";
 import { motion, useScroll, useTransform, useSpring } from "framer-motion";
 import { useSmoothScroll } from "@/hooks/useSmoothScroll";

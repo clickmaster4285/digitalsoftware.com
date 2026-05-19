@@ -1,6 +1,7 @@
+"use client";
+
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
-
 const cards = [
   { t: "We are playing the long game", d: "Our clients keep coming back — most relationships last years, not weeks.", c: "#FF2E86", rot: -14, x: -180, y: 40, delay: 0 },
   { t: "We are always near", d: "Async-friendly, but never absent. Slack, calls, demos — we're in your loop.", c: "#9CF7E8", rot: 9, x: 60, y: -30, delay: 0.1 },

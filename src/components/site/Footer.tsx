@@ -35,37 +35,16 @@ export default function Footer() {
       window.addEventListener('resize', resize);
       resize();
 
-      class SCurve extends THREE.Curve<THREE.Vector3> {
-        time: number = 0;
-        getPoint(t: number) {
-          const time = this.time * 0.45;
-
-          const x = Math.sin(t * Math.PI * 1.45 + time * 0.22) * 2.6 
-                  + Math.sin(t * Math.PI * 0.65 + time * 0.11) * 1.1;
-
-          const y = -t * 4.8 
-                  + Math.cos(t * Math.PI * 1.25 + time * 0.28) * 1.9
-                  + Math.cos(t * Math.PI * 2.0 + time * 0.16) * 0.8;
-
-          const z = Math.sin(t * Math.PI * 0.95 + time * 0.19) * 1.3;
-
-          return new THREE.Vector3(x, y, z);
-        }
-      }
-
-      const curve = new SCurve();
-
+      // Create a static torus knot instead of an animated curve
+      const geometry = new THREE.TorusKnotGeometry(1.2, 0.3, 100, 16);
       const material = new THREE.MeshStandardMaterial({
         color: 0xffffff,
         roughness: 0.18,
         metalness: 0.08,
       });
-
-      const tubeMesh = new THREE.Mesh(
-        new THREE.TubeGeometry(curve, 200, 0.48, 20, false),
-        material
-      );
-      scene.add(tubeMesh);
+      
+      const knot = new THREE.Mesh(geometry, material);
+      scene.add(knot);
 
       scene.add(new THREE.AmbientLight(0xffffff, 0.75));
 
@@ -77,20 +56,11 @@ export default function Footer() {
       fillLight.position.set(-4, -4, 5);
       scene.add(fillLight);
 
-      let time = 0;
       let animationId: number;
 
       function animate() {
         animationId = requestAnimationFrame(animate);
-        time += 0.01;
-        curve.time = time;
-
-        const newGeo = new THREE.TubeGeometry(curve, 200, 0.48, 20, false);
-        tubeMesh.geometry.dispose();
-        tubeMesh.geometry = newGeo;
-
-        tubeMesh.rotation.z = Math.sin(time * 0.15) * 0.02;
-
+        // No animation - just render the static scene
         renderer.render(scene, camera);
       }
 
@@ -99,7 +69,7 @@ export default function Footer() {
       return () => {
         cancelAnimationFrame(animationId);
         window.removeEventListener('resize', resize);
-        tubeMesh.geometry.dispose();
+        geometry.dispose();
         renderer.dispose();
       };
     };
@@ -116,7 +86,7 @@ export default function Footer() {
       <div className="content">
         <div className="top-row">
           <div>
-            <h1 className="headline">Let’s Talk</h1>
+            <h1 className="headline">Let&apos;s Talk</h1>
             <div className="contact-info">
               <a href="mailto:hey@clay.global">hey@clay.global</a>
               <a href="tel:+14157966262">+1 415 796 6262</a>
