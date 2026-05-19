@@ -18,10 +18,10 @@ type City = {
 };
 
 const CITIES: City[] = [
-  { name: "Tokyo", lat: 35.68, lon: 139.69, initials: "JD", angle: -35, length: 140 },
-  { name: "Sydney", lat: -33.86, lon: 151.2, initials: "EM", angle: 25, length: 160 },
-  { name: "Auckland", lat: -36.85, lon: 174.76, initials: "AL", angle: 70, length: 180 },
-  { name: "Singapore", lat: 1.35, lon: 103.82, initials: "RK", angle: -90, length: 130 },
+  { name: "Tokyo", lat: 35.68, lon: 139.69, initials: "PK", angle: -35, length: 140 },
+  { name: "Sydney", lat: -33.86, lon: 151.2, initials: "UK", angle: 25, length: 160 },
+  { name: "Auckland", lat: -36.85, lon: 174.76, initials: "US", angle: 180, length: 80 },
+  { name: "Singapore", lat: 1.35, lon: 103.82, initials: "USA", angle: -90, length: 130 },
 ];
 
 function latLonToVec3(lat: number, lon: number, radius: number) {
