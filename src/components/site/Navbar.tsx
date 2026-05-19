@@ -211,7 +211,7 @@ const MegaMenu = ({ open, setOpen }: { open: boolean; setOpen: (v: boolean) => v
                   </button>
                 ))}
                 <a
-                  href="#contact"
+                  href="/contact"
                   className="mt-auto inline-flex items-center justify-between gap-2 text-sm font-medium px-3 py-3 rounded-xl bg-foreground text-background group"
                 >
                   Get a quote

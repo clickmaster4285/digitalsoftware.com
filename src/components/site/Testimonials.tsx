@@ -2,29 +2,51 @@ import { motion } from "framer-motion";
 
 const items = [
   {
-    q: "ClickMasters didn't just ship our product — they reframed our entire thesis. The team operates like co-founders.",
-    a: "Amelia Chen", r: "CEO, Lumen Health",
-    bg: "#BBD3FF", rot: -2,
+    q: "Clickmasters completely changed how our business operates online. Within four months, our phone was ringing consistently with qualified leads. It's the best investment we've made in years. If you're looking for a digital marketing agency that actually delivers — this is it.",
+    a: "James R.",
+    r: "Owner — ProFix Plumbing, Dallas TX",
+    bg: "#BBD3FF",
+    rot: -2,
   },
   {
-    q: "Six weeks from sketch to a paying customer base of 4,000. The cadence is unlike anything we'd seen.",
-    a: "Marcus Devlin", r: "Founder, Orbit Finance",
-    bg: "#A8EFE0", rot: 1.5,
+    q: "We'd been burned by two other digital marketing companies before we found Clickmasters. The difference was immediately obvious. They listened, set honest expectations, and started delivering results within the first 30 days. We've been with them ever since.",
+    a: "Sarah M.",
+    r: "Marketing Director — BrightSkin Dermatology, Los Angeles, CA",
+    bg: "#A8EFE0",
+    rot: 1.5,
   },
   {
-    q: "An obsessively-crafted brand, app and growth loop. Every detail considered, nothing left to chance.",
-    a: "Priya Raman", r: "Head of Product, Foldery",
-    bg: "#D9C2FF", rot: -1,
+    q: "Our Google Ads were a complete disaster before Clickmasters stepped in. They rebuilt everything from scratch and took our ROAS from under 1x to over 6x in less than two months. This digital marketing company knows what they're doing at a level I haven't seen anywhere else.",
+    a: "David L.",
+    r: "Founder — NovaTrend Fashion, New York, NY",
+    bg: "#D9C2FF",
+    rot: -1,
+  },
+  {
+    q: "The transparency and communication at Clickmasters is unlike any other digital marketing agency I've worked with. I always know exactly what's happening and why. They feel like a genuine partner in our firm's growth — not just a vendor collecting a check.",
+    a: "Amanda K.",
+    r: "Partner — Carter & Webb Law Firm, Miami, FL",
+    bg: "#FFD6A5",
+    rot: 2,
+  },
+  {
+    q: "In one year with Clickmasters, we grew our email list from 800 subscribers to over 14,000 and significantly increased our repeat customer rate. Their approach to digital marketing is strategic, data-driven, and actually creative. Highly recommend.",
+    a: "Michael T.",
+    r: "CEO — FreshRoots Organics, Chicago, IL",
+    bg: "#FFB4C6",
+    rot: -1.5,
   },
 ];
-
 export const Testimonials = () => (
   <section   id="testimonials" className="py-32 container">
     <div className="mb-20 max-w-3xl">
-      <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-6">— Voices</p>
+      <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-6">— What our clients says</p>
       <h2 className="font-display text-5xl md:text-7xl leading-[1.05] text-balance">
-        Words from the <em>people we built with</em>
+  What Business Owners Say About <em>Our Digital Marketing Agency</em>
       </h2>
+         <p className="text-md md:text-xl text-muted-foreground leading-relaxed max-w-4xl mt-4">
+        Across industries and across the country, business owners trust Clickmasters as their preferred Digital Marketing Agency. Here's what a few of them have to say: 
+          </p>
     </div>
     <div className="grid md:grid-cols-3 gap-8 md:gap-6">
       {items.map((t, i) => (

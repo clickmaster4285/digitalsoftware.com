@@ -121,7 +121,7 @@ const Hero = ({ data }: { data: ServicePageData["hero"] }) => {
         <Reveal delay={0.35}>
           <div className="mt-12 flex flex-wrap gap-4">
             <a
-              href="#contact"
+              href="/contact"
               className="group inline-flex items-center gap-3 bg-white text-black px-7 py-4 rounded-full text-sm tracking-[0.15em] uppercase font-medium hover:bg-[#FF2E86] hover:text-white transition-colors"
             >
               {data.primaryCta}

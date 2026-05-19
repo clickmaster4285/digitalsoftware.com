@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { Inter, Instrument_Serif } from "next/font/google";
 import "./globals.css";
 import { Providers } from "./providers";
+import { Navbar } from "@/components/site/Navbar";
 
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
@@ -30,7 +31,7 @@ export default function RootLayout({
         suppressHydrationWarning
         className={`${inter.variable} ${instrumentSerif.variable} font-sans`}
       >
-       
+       <Navbar />
         <Providers>{children}</Providers>
       </body>
     </html>

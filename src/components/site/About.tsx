@@ -2,24 +2,24 @@ import { motion } from "framer-motion";
 import { ExternalLink } from "lucide-react";
 
 const stats = [
-  { n: "120+", l: "Projects shipped" },
-  { n: "40+", l: "Global clients" },
-  { n: "6", l: "Years building" },
-  { n: "11", l: "Awwwards" },
+  { n: "97% of consumers", l: "search online before making a purchase decision" },
+  { n: "Mobile devices", l: "drive more than 60% of all web traffic globally" },
+  { n: "Social media ads", l: "helps businesses cut waste and multiply ROI like never before" },
+  { n: "2.8x faster", l: "Businesses that invest in digital marketing grow 2.8x faster than those that don't" },
 ];
 
 export const About = () => (
   <section id="about" className="py-32 container">
     <div className="grid md:grid-cols-12 gap-16 items-start">
       <div className="md:col-span-7">
-        <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">— Our approach</p>
+        <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">— Why this matters</p>
         <h2 className="font-display text-5xl md:text-7xl leading-[1.02] text-balance">
-          We work like a <em>partner</em>, not a vendor — embedded, opinionated, and quietly relentless.
+          Why <em>Digital Marketing</em> Matters More Than Ever
         </h2>
       </div>
       <div className="md:col-span-5 space-y-6 text-lg text-muted-foreground md:pt-6">
-        <p>Founded in 2019 by a tiny team of designers and engineers who got tired of pretty mockups that didn't ship.</p>
-        <p>Today we partner with founders, CMOs, and product leaders to turn ambitious ideas into work that earns attention and compounds value.</p>
+        <p>The world has moved online and so have your customers.</p>
+        <p>Today, over 5.4 billion people use the internet daily. Your competitors are already reaching them. Digital marketing spending in the U.S. alone has crossed $298 billion, with businesses investing nearly half of their entire marketing budget into digital channels. Mobile, social media, and AI-powered campaigns are leading this shift — and the gap between businesses that adapt and those that don't is growing every single day.</p>
       </div>
     </div>
     <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-24 pt-12 border-t border-border">
@@ -37,19 +37,43 @@ export const About = () => (
       ))}
     </div>
 
-     <motion.div
-  initial={{ opacity: 0, y: 20 }} 
-  animate={{ opacity: 1, y: 0 }} 
-  transition={{ delay: 1.2, duration: 0.7 }}
-  className="mt-10 flex items-center justify-center gap-6 flex-wrap"  // ← Added justify-center
->
-  <a href="#contact" className="group inline-flex items-center gap-3 rounded-full bg-foreground text-background pl-6 pr-3 py-3 text-sm font-medium hover:opacity-90 transition">
-    Contact us
-    <span className="grid place-items-center w-9 h-9 rounded-full bg-background text-foreground transition-transform group-hover:rotate-45">
-      <ExternalLink className="w-4 h-4" />
-    </span>
-  </a>
-  {/* You can add more buttons/items here if needed */}
-</motion.div>
+     {/* Bottom CTA Section */}<motion.div
+        initial={{ opacity: 0, y: 30 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        viewport={{ once: true }}
+        transition={{ duration: 0.7 }}
+        className="mt-20 relative overflow-hidden rounded-[2rem] border border-border bg-foreground/10 px-8 py-14 md:px-16 text-center"
+      >
+        {/* Background Glow */}
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(255,255,255,0.12),transparent_60%)] pointer-events-none" />
+      
+        <div className="relative max-w-3xl mx-auto">
+          <p className="text-xs uppercase tracking-[0.3em] text-muted-foreground mb-4">
+            — Free Consultation
+          </p>
+      
+          <h3 className="font-display text-4xl md:text-6xl leading-[1.05] mb-6 text-balance">
+           Ready to Work With a Digital Marketing Company That Puts Results Before <em>Everything Else? </em>
+          </h3>
+      
+        
+      
+          <div className="flex items-center justify-center gap-4 flex-wrap">
+            {/* Primary CTA */}
+            <a
+              href="/contact"
+              className="group inline-flex items-center gap-3 rounded-full bg-foreground text-background pl-7 pr-3 py-3.5 text-sm font-medium hover:opacity-90 transition-all"
+            >
+             Book Your Free Strategy Consultation Today
+      
+              <span className="grid place-items-center w-10 h-10 rounded-full bg-background text-foreground transition-transform duration-300 group-hover:rotate-45">
+                <ExternalLink className="w-4 h-4" />
+              </span>
+            </a>
+      
+      
+          </div>
+        </div>
+      </motion.div>
   </section>
 );

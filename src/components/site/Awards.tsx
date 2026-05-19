@@ -6,39 +6,53 @@ import { useRef } from "react";
 const awards = [
   {
     bg: "#E5B83B",
-    logo: "C",
-    title: "4.9★ Top Rated\nOn Clutch",
-    org: "Clutch",
+    logo: "📊",
+    title: "Data-Driven & Custom-Built Strategies",
+    org: "We don't guess — we analyze. Every strategy is built on real data, deep market research, and performance insights. And because no two businesses are alike, we never use cookie-cutter templates. Whether you're a local startup or a national brand, every plan is fully customized around your unique goals, industry, and audience.",
     pattern: "stars",
+    
   },
   {
     bg: "#6C3DF4",
-    logo: "✦",
-    title: "Top B2B Company\n2024",
-    org: "GoodFirms",
+    logo: "👨‍💻",
+    title: "A Team of Real Experts, Delivering Full-Service Marketing",
+    org: "Behind every campaign is a dedicated team of SEO specialists, paid ads experts, content creators, designers, and developers — not interns. From SEO and PPC to web development, social media, AI automation, and ecommerce, we handle everything under one roof. One team. Every service. Zero juggling.",
     pattern: "dots",
+   
   },
   {
     bg: "#3DDFB7",
-    logo: "◆",
-    title: "Best UX Studio\nAsia 2024",
-    org: "Awwwards",
+    logo: "📈",
+    title: "Measurable Results with Full Transparency",
+    org: "We are obsessed with results. Every campaign is tracked, measured, and optimized in real time through clear dashboards and honest reporting. And our pricing is just as transparent — no hidden fees, no surprise charges, no confusing contracts. Just real growth you can see and costs you can trust.",
     pattern: "grid",
+    dark: true,
   },
   {
     bg: "#FF6B6B",
-    logo: "★",
-    title: "Design Agency\nOf The Year",
-    org: "CSS Design",
+    logo: "🌍",
+    title: "Proven Across Industries, Always Evolving",
+    org: "From healthcare and real estate to fashion, fitness, and fintech — we've helped businesses across dozens of industries grow online. We bring proven playbooks to every project, while staying ahead of algorithm updates, platform shifts, and industry trends so your business always leads the competition.",
     pattern: "stars",
+    dark: true,
+  },
+  {
+    bg: "#111827",
+    logo: "🤝",
+    title: "We Treat Your Business Like Our Own",
+    org: "We go beyond being a vendor — we become your true growth partner. We listen, we adapt, and we stay committed to your success because your growth is our growth. Every decision we make is driven by what's best for your bottom line.",
+    pattern: "dots",
+
+    
   },
   {
     bg: "#FFFFFF",
-    logo: "△",
-    title: "Top 100 Design\nStudios Worldwide",
-    org: "DesignRush",
-    pattern: "dots",
-    dark: true,
+    logo: "📞",
+    title: "Dedicated Support, Every Step of the Way",
+    org: "You're never left in the dark at Clickmasters. A dedicated account manager and responsive support team are always available to answer questions, address concerns, and keep you fully informed — so you always feel confident, supported, and in control.",
+    pattern: "grid",
+      dark: true,
+   
   },
 ];
 
@@ -82,10 +96,16 @@ export const Awards = () => {
   return (
     <section   id="awards"   ref={ref} className="relative" style={{ height: `${awards.length * 100}vh` }}>
       <div className="sticky top-0 h-screen overflow-hidden flex flex-col items-center justify-center">
-        <h2 className="font-display text-5xl md:text-8xl text-center leading-[1.05] mb-12 px-6 z-10 pointer-events-none">
-          Awards <em className="text-[#FF3B47]">and</em>
-          <br />Recognitions
+        <h2 className="font-display text-5xl md:text-8xl text-center leading-[1.05] mb-4 px-6 z-10 pointer-events-none">
+          Why Choose Us as the <em className="text-[#FF3B47]">Best</em>
+          <br />Digital Marketing Company
         </h2>
+
+        
+        <p className="text-center max-w-2xl mx-auto text-lg md:text-base text-muted-foreground mb-12 px-6 z-10 pointer-events-none ">
+ Clickmasters is the digital marketing company that actually delivers. We don't just run campaigns we build growth engines tailored to your business, your audience, and your goals. Here's why 200+ businesses across the United States trust us to grow their brand online.
+        </p>
+        
 
         <div className="relative w-[280px] h-[340px] md:w-[420px] md:h-[500px]">
           {awards.map((a, i) => {
@@ -141,6 +161,10 @@ export const Awards = () => {
           })}
         </div>
       </div>
+      
+
+
+
       
     </section>
   );

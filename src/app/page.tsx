@@ -72,7 +72,7 @@ export default function Home() {
         ['--muted-foreground' as any]: t.fg === DARK.fg ? '0 0% 65%' : '0 0% 40%',
       }}
     >
-      <Navbar />
+      
       <RoamingRobot />
       <main>
         <section ref={(el) => { sections.current[0] = el; }}><Hero /></section>
@@ -90,8 +90,9 @@ export default function Home() {
 
         <section ref={(el) => { sections.current[9] = el; }}><About /></section>
         <section ref={(el) => { sections.current[10] = el; }}><Pricing /></section>
+         <section ref={(el) => { sections.current[15] = el; }}><LumosSay /></section>
         <section ref={(el) => { sections.current[11] = el; }}><Testimonials /></section>
-        <section ref={(el) => { sections.current[15] = el; }}><LumosSay /></section>
+       
         <section ref={(el) => { sections.current[12] = el; }}><FAQ /></section>
         <section ref={(el) => { sections.current[13] = el; }}><Contact /></section>
       </main>
