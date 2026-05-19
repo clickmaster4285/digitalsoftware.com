@@ -4,7 +4,6 @@ import { useEffect, useRef } from "react";
 import { useParams } from "next/navigation";
 import { motion, useScroll, useTransform, useSpring } from "framer-motion";
 import { useSmoothScroll } from "@/hooks/useSmoothScroll";
-import { Navbar } from "@/components/site/Navbar";
 import {
   Code2, Gauge, ShieldCheck, Plug, Search, Server, ShoppingBag, Layers,
   Rocket, ArrowUpRight, Check, Cpu, Database, Globe, Sparkles,
@@ -751,8 +750,7 @@ export default function ServicesPage() {
   }, [slug, content, is404]);
 
   return (
-    <div className="theme-light bg-background text-foreground">
-      <Navbar />
+    <div className="theme-light w-full overflow-x-clip bg-background text-foreground">
       <main>
         <Hero content={content} />
         <Intro content={content} />

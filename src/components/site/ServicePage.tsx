@@ -3,7 +3,6 @@
 import { useEffect, useRef, type ComponentType } from "react";
 import { motion, useScroll, useTransform, useSpring } from "framer-motion";
 import { useSmoothScroll } from "@/hooks/useSmoothScroll";
-import { Navbar } from "@/components/site/Navbar";
 import { ArrowUpRight, Check, type LucideIcon } from "lucide-react";
 import Footer from "./Footer";
 
@@ -500,8 +499,7 @@ export const ServicePage = ({ data }: { data: ServicePageData }) => {
   }, [data.meta.title, data.meta.description]);
 
   return (
-    <div className="bg-background text-foreground">
-      <Navbar />
+    <div className="w-full overflow-x-clip bg-background text-foreground">
       <main>
         <Hero data={data.hero} />
         <Intro data={data.intro} />

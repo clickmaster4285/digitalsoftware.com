@@ -2,7 +2,6 @@
 
 import { useEffect, useRef, lazy, Suspense, useState } from "react";
 import { gsap } from "gsap";
-import { Navbar } from "@/components/site/Navbar";
 
 interface FormData {
   name: string;
@@ -138,7 +137,6 @@ export default function Home() {
 
   return (
     <>
-      <Navbar />
       <main
         className="min-h-screen w-full overflow-x-hidden"
         style={{ backgroundColor: "#0b0f1a" }}

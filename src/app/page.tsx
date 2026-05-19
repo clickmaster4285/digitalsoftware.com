@@ -2,7 +2,6 @@
 
 import { useEffect, useState, useRef } from "react";
 import { useSmoothScroll } from "@/hooks/useSmoothScroll";
-import { Navbar } from "@/components/site/Navbar";
 import { Hero } from "@/components/site/Hero";
 import { Marquee } from "@/components/site/Marquee";
 import { Services } from "@/components/site/Services";
@@ -62,7 +61,7 @@ export default function Home() {
 
   return (
     <div
-      className="transition-colors duration-700"
+      className="w-full overflow-x-clip transition-colors duration-700"
       style={{
         backgroundColor: `hsl(${t.bg})`,
         color: `hsl(${t.fg})`,

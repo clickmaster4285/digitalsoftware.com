@@ -104,11 +104,25 @@
 
 @layer base {
   * { @apply border-border; }
-  html { scroll-behavior: smooth; }
+  html {
+    scroll-behavior: smooth;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
   body {
     @apply bg-background text-foreground;
     font-family: 'Inter', sans-serif;
+    position: relative;
+    width: 100%;
+    max-width: 100%;
     overflow-x: hidden;
+  }
+
+  @supports (overflow: clip) {
+    html,
+    body {
+      overflow-x: clip;
+    }
   }
   ::selection { background: hsl(var(--foreground)); color: hsl(var(--background)); }
 }

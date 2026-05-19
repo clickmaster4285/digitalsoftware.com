@@ -31,8 +31,10 @@ export default function RootLayout({
         suppressHydrationWarning
         className={`${inter.variable} ${instrumentSerif.variable} font-sans`}
       >
-       <Navbar />
-        <Providers>{children}</Providers>
+        <Navbar />
+        <Providers>
+          <div className="relative w-full overflow-x-clip">{children}</div>
+        </Providers>
       </body>
     </html>
   );

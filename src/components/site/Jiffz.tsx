@@ -55,7 +55,7 @@ export const Jiffz = () => (
       </p>
     </div>
 
-    <div className="grid grid-cols-2 md:grid-cols-4 gap-5">
+    <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
       {gifs.map((g, i) => (
         <motion.figure
           key={i}
