@@ -161,8 +161,8 @@ const groups: { title: string; items: Service[] }[] = [
 const links = [
   { label: "Services", hasMenu: true },
   { label: "Work", hasMenu: false },
-  { label: "Awards", hasMenu: false },
-  { label: "About", hasMenu: false },
+   { label: "About", hasMenu: false },
+  { label: "Why Us", hasMenu: false },
   { label: "Process", hasMenu: false },
   { label: "Testimonials", hasMenu: false },
   { label: "Contact", hasMenu: false, href: "/contact" },

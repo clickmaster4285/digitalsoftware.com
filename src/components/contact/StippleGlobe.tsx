@@ -193,11 +193,11 @@ export default function StippleGlobe() {
         const rad = (city.angle * Math.PI) / 180;
         const ex = sx + Math.cos(rad) * city.length;
         const ey = sy + Math.sin(rad) * city.length;
-        if (line) {
-          line.setAttribute("x1", String(sx));
-          line.setAttribute("y1", String(sy));
-          line.setAttribute("x2", String(ex));
-          line.setAttribute("y2", String(ey));
+        if (line && Number.isFinite(sx) && Number.isFinite(sy) && Number.isFinite(ex) && Number.isFinite(ey)) {
+          line.setAttribute("x1", String(Math.round(sx)));
+          line.setAttribute("y1", String(Math.round(sy)));
+          line.setAttribute("x2", String(Math.round(ex)));
+          line.setAttribute("y2", String(Math.round(ey)));
           line.style.opacity = visible ? "1" : "0";
         }
         if (av) {
