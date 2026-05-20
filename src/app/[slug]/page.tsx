@@ -62,6 +62,8 @@ import { AboutUsContent } from "@/content/AboutUs";
 import { BlogContent } from "@/content/BlogContent";
 import { DigitalMarketingGlossaryContent } from "@/content/DigitalMarketingGlossary";
 import { ClickGrowthSystemContent } from "@/content/ClickGrowthSystem";
+import { RealEstateMarketingContent } from "@/content/RealEstateMarketing";
+import { SaasMarketingContent } from "@/content/SaasMarketing";
 
 // Content registry - add new pages here
 const contentRegistry: Record<string, any> = {
@@ -121,6 +123,10 @@ const contentRegistry: Record<string, any> = {
  "clickcare-hms": ClickCareHMSContent,
   "click-growth-system": ClickGrowthSystemContent,
   "clickpos": ClickPOSContent,
+
+
+  "/industries-saas/": SaasMarketingContent, 
+  "real-estate-marketing-services": RealEstateMarketingContent,
 
 };
 

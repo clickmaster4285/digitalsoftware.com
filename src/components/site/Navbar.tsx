@@ -1,7 +1,7 @@
 "use client";
 
 import { motion, AnimatePresence } from "framer-motion";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import {
   ShoppingBag, Youtube, Code2, Wrench, Palette, Search, Smartphone,
   LayoutGrid, PenTool, Megaphone, TrendingUp, Globe, ChevronDown,
@@ -99,8 +99,8 @@ const groups: { title: string; items: Service[] }[] = [
   {
     title: "Industry Solutions",
     items: [
-      { name: "SaaS Digital Marketing", desc: "Growth for SaaS", icon: BriefcaseIcon },
-      { name: "Real Estate Marketing", desc: "Listings & leads", icon: Building2 },
+      { name: "SaaS Digital Marketing", desc: "Growth for SaaS", icon: BriefcaseIcon , href: "/industries-saas/" },
+      { name: "Real Estate Marketing", desc: "Listings & leads", icon: Building2, href: "/real-estate-marketing-services" },
       { name: "Real Estate Digital", desc: "Full-funnel realty", icon: Building2 },
       { name: "Restaurant Marketing", desc: "Drive bookings", icon: UtensilsCrossed },
       { name: "Hospitality & Hotels", desc: "Guest growth", icon: Hotel },
@@ -169,20 +169,34 @@ const links = [
 ];
 
 // ─── Desktop Mega Menu ───────────────────────────────────────────────────────
-const MegaMenu = ({ open, setOpen }: { open: boolean; setOpen: (v: boolean) => void }) => {
+const MegaMenu = ({
+  open,
+  onOpen,
+  onClose,
+}: {
+  open: boolean;
+  onOpen: () => void;
+  onClose: () => void;
+}) => {
   const [activeGroup, setActiveGroup] = useState(0);
+  const [mounted, setMounted] = useState(false);
 
-  return (
+  useEffect(() => {
+    setMounted(true);
+    return () => setMounted(false);
+  }, []);
+
+  const menuContent = (
     <AnimatePresence>
       {open && (
         <motion.div
-          initial={{ opacity: 0, y: -10, scale: 0.98 }}
-          animate={{ opacity: 1, y: 0, scale: 1 }}
-          exit={{ opacity: 0, y: -10, scale: 0.98 }}
+          initial={{ opacity: 0, x: "-50%", y: -10, scale: 0.98 }}
+          animate={{ opacity: 1, x: "-50%", y: 0, scale: 1 }}
+          exit={{ opacity: 0, x: "-50%", y: -10, scale: 0.98 }}
           transition={{ duration: 0.35, ease: [0.22, 1, 0.36, 1] }}
-          onMouseEnter={() => setOpen(true)}
-          onMouseLeave={() => setOpen(false)}
-          className="absolute left-1/2 -translate-x-1/2 mt-3 w-[min(96vw,72rem)]"
+          onMouseEnter={onOpen}
+          onMouseLeave={onClose}
+          className="fixed left-1/2 top-[5.15rem] z-50 hidden w-[min(96vw,72rem)] pt-3 lg:block"
         >
           <div className="relative overflow-hidden rounded-3xl border border-border bg-background/95 backdrop-blur-2xl shadow-2xl max-w-6xl mx-auto">
             <div className="grid grid-cols-12 gap-4 p-5">
@@ -266,6 +280,9 @@ const MegaMenu = ({ open, setOpen }: { open: boolean; setOpen: (v: boolean) => v
       )}
     </AnimatePresence>
   );
+
+  if (!mounted) return null;
+  return createPortal(menuContent, document.body);
 };
 
 // ─── Mobile Drawer (FIXED - Using Portal) ────────────────────────────────────────────
@@ -453,6 +470,23 @@ const MobileDrawer = ({ open, onClose }: { open: boolean; onClose: () => void })
 export const Navbar = () => {
   const [megaOpen, setMegaOpen] = useState(false);
   const [drawerOpen, setDrawerOpen] = useState(false);
+  const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const openMega = () => {
+    if (closeTimer.current) clearTimeout(closeTimer.current);
+    setMegaOpen(true);
+  };
+
+  const closeMega = () => {
+    if (closeTimer.current) clearTimeout(closeTimer.current);
+    closeTimer.current = setTimeout(() => setMegaOpen(false), 120);
+  };
+
+  useEffect(() => {
+    return () => {
+      if (closeTimer.current) clearTimeout(closeTimer.current);
+    };
+  }, []);
 
   return (
     <>
@@ -478,8 +512,8 @@ export const Navbar = () => {
                 <div
                   key={l.label}
                   className="relative"
-                  onMouseEnter={() => setMegaOpen(true)}
-                  onMouseLeave={() => setMegaOpen(false)}
+                  onMouseEnter={openMega}
+                  onMouseLeave={closeMega}
                 >
                   <button
                     className="flex items-center gap-1 opacity-70 hover:opacity-100 transition-opacity"
@@ -495,6 +529,7 @@ export const Navbar = () => {
                 <a
                   key={l.label}
                   href={l.href ?? `/#${l.label.toLowerCase()}`}
+                  onMouseEnter={() => setMegaOpen(false)}
                   className="opacity-70 hover:opacity-100 transition-opacity whitespace-nowrap"
                 >
                   {l.label}
@@ -524,11 +559,12 @@ export const Navbar = () => {
           </div>
         </div>
 
-        {/* Desktop mega menu — only renders on lg+ */}
-        <div className="hidden lg:block">
-          <MegaMenu open={megaOpen} setOpen={setMegaOpen} />
-        </div>
       </motion.header>
+
+      {/* Desktop mega menu - rendered through a portal so it aligns to the viewport */}
+      <div className="hidden lg:block">
+        <MegaMenu open={megaOpen} onOpen={openMega} onClose={closeMega} />
+      </div>
 
       {/* Mobile / tablet drawer - rendered via portal to body */}
       <MobileDrawer open={drawerOpen} onClose={() => setDrawerOpen(false)} />

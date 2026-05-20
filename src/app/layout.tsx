@@ -5,6 +5,7 @@ import { Inter, Instrument_Serif } from "next/font/google";
 import "./globals.css";
 import { Providers } from "./providers";
 import { Navbar } from "@/components/site/Navbar";
+import Footer from "@/components/site/Footer";
 
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
@@ -35,6 +36,7 @@ export default function RootLayout({
         <Providers>
           <div className="relative w-full overflow-x-clip">{children}</div>
         </Providers>
+        <Footer/>
       </body>
     </html>
   );
