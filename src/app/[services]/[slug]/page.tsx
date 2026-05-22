@@ -4,6 +4,9 @@ import { useEffect, useRef } from "react";
 import { useParams } from "next/navigation";
 import { motion, useScroll, useTransform, useSpring } from "framer-motion";
 import { useSmoothScroll } from "@/hooks/useSmoothScroll";
+
+import WebsiteMaintenanceServicesPage from "@/app/website-maintenance-services/page";
+import CustomSoftwareDevelopmentPage from "@/app/custom-software-development/page";
 import {
   Code2, Gauge, ShieldCheck, Plug, Search, Server, ShoppingBag, Layers,
   Rocket, ArrowUpRight, Check, Cpu, Database, Globe, Sparkles,
@@ -64,15 +67,27 @@ import { DigitalMarketingGlossaryContent } from "@/content/DigitalMarketingGloss
 import { ClickGrowthSystemContent } from "@/content/ClickGrowthSystem";
 import { RealEstateMarketingContent } from "@/content/RealEstateMarketing";
 import { SaasMarketingContent } from "@/content/SaasMarketing";
+import { LocalSeoContent } from "@/content/LocalSeo";
+import { GuestPostingContent } from "@/content/GuestPosting";
+import { WebDevelopmentContent } from "@/content/WebDevelopment";
+import { WebAppContent } from "@/content/WebAppContent";
+
+const routedPageRegistry: Record<string, any> = {
+
+  "website-maintenance-services": WebsiteMaintenanceServicesPage,
+  "custom-software-development": CustomSoftwareDevelopmentPage,
+};
 
 // Content registry - add new pages here
 const contentRegistry: Record<string, any> = {
-  "ai-ml-development-services": AiMlDevContent,
-  "ai-personalization-services": AiPersonalizationContent,
+  "web-development": WebDevelopmentContent,
+  "web-application-development": WebAppContent,
+  "ai-ml-development": AiMlDevContent,
+  "ai-personalization": AiPersonalizationContent,
   "data-analytics-reporting": DataAnalyticsReportingContent, 
-  "marketing-attribution-services": MarketingAttributionContent,
-    "marketing-automation-services": MarketingAutomationContent,
-  "ai-automation-services": AiAutomationContent,
+  "ai-marketing": MarketingAttributionContent,
+    "marketing-automation": MarketingAutomationContent,
+  "ai-automation": AiAutomationContent,
 
   "web-design-services": WebDesignContent, 
     "ui-ux-design-services": UIUXDesignContent,
@@ -92,13 +107,16 @@ const contentRegistry: Record<string, any> = {
   "voice-search-optimization": VoiceSearchOptimizationContent, 
   "seo-automation-services": SeoAutomationContent,
   "citation-building-services": CitationBuildingServicesContent ,
+  "local-seo-services": LocalSeoContent,
+  "guest-posting-services": GuestPostingContent,
     "seo-glossary": SeoGlossaryContent,
   
 
     "social-media-marketing-services": SocialMediaMarketingContent,
     "social-media-strategy-consulting": SocialMediaStrategyContent,
 
-     "social-media-content-creation": SocialMediaContentCreationContent,
+  "social-media-content-creation": SocialMediaContentCreationContent,
+     
     "email-marketing-services": EmailMarketingServicesContent,
   "ecommerce-marketing-services": EcommerceMarketingServicesContent,
   "amazon-marketing-services": AmazonMarketingServicesContent,
@@ -125,7 +143,7 @@ const contentRegistry: Record<string, any> = {
   "clickpos": ClickPOSContent,
 
 
-  "/industries-saas/": SaasMarketingContent, 
+  "industries-saas": SaasMarketingContent, 
   "real-estate-marketing-services": RealEstateMarketingContent,
 
 };
@@ -339,17 +357,21 @@ const Intro = ({ content }: { content: any }) => {
 /* ---------- Problem (parallax dark) ---------- */
 
 const Problem = ({ content }: { content: any }) => {
+  const problemContent = content.problem;
+
+  // If no problem section OR no items, don't render a scroll-tracked section.
+  if (!problemContent || !problemContent.items || problemContent.items.length === 0) {
+    return null;
+  }
+
+  return <ProblemSection problemContent={problemContent} />;
+};
+
+const ProblemSection = ({ problemContent }: { problemContent: any }) => {
   const ref = useRef<HTMLDivElement>(null);
   const { scrollYProgress } = useScroll({ target: ref, offset: ["start end", "end start"] });
   const y = useTransform(scrollYProgress, [0, 1], [80, -80]);
   const headlineX = useTransform(scrollYProgress, [0, 1],   [-30, 30]);
-
-  const problemContent = content.problem;
-
-  // If no problem section OR no items, don't render
-  if (!problemContent || !problemContent.items || problemContent.items.length === 0) {
-    return null;
-  }
 
   return (
     <section ref={ref} className="relative bg-[#0a0a0a] text-white py-32 overflow-hidden">
@@ -515,12 +537,17 @@ const ServicesGrid = ({ content }: { content: any }) => {
 /* ---------- Case studies ---------- */
 
 const Cases = ({ content }: { content: any }) => {
-  const ref = useRef<HTMLDivElement>(null);
-  const { scrollYProgress } = useScroll({ target: ref, offset: ["start end", "end start"] });
-  const y = useTransform(scrollYProgress, [0, 1], [60, -60]);
   const cases = content.cases;
   
   if (!cases || cases.length === 0) return null;
+
+  return <CasesSection cases={cases} />;
+};
+
+const CasesSection = ({ cases }: { cases: any[] }) => {
+  const ref = useRef<HTMLDivElement>(null);
+  const { scrollYProgress } = useScroll({ target: ref, offset: ["start end", "end start"] });
+  const y = useTransform(scrollYProgress, [0, 1], [60, -60]);
 
   return (
     <section ref={ref} className="relative bg-[#0a0a0a] text-white py-32 overflow-hidden">
@@ -735,11 +762,15 @@ export default function ServicesPage() {
   const slug = params?.slug as string;
   useSmoothScroll();
 
+  const RoutedPage = routedPageRegistry[slug || ""];
+
   // Get content based on slug, fallback to 404
   const content = contentRegistry[slug || ""] || notFoundContent;
   const is404 = !contentRegistry[slug || ""];
 
   useEffect(() => {
+    if (RoutedPage) return;
+
     if (!is404) {
       document.title = `${content.hero.title} ${content.hero.titleHighlight} | Clickmasters Digital Marketing`;
       const desc = content.hero.description.slice(0, 160);
@@ -753,7 +784,9 @@ export default function ServicesPage() {
     } else {
       document.title = "Service Not Found | Clickmasters Digital Marketing";
     }
-  }, [slug, content, is404]);
+  }, [slug, content, is404, RoutedPage]);
+
+  if (RoutedPage) return <RoutedPage />;
 
   return (
     <div className="theme-light w-full overflow-x-clip bg-background text-foreground">
@@ -767,7 +800,7 @@ export default function ServicesPage() {
         <Faqs content={content} />
         <CTA content={content} />
           </main>
-           <Footer />
+         
     </div>
   );
 }

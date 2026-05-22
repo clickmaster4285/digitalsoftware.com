@@ -354,12 +354,13 @@ tl.to(screen1Ref.current, {
 >
           <div className="max-w-[90rem] lg:pr-[28rem]">
             
-            <p className="mb-6  text-xs font-semibold uppercase tracking-[0.25em] ">
+            <p className="mb-6  text-MD font-semibold uppercase tracking-[0.25em] ">
               Connect
             </p>
-            <h1 className="text-5xl leading-[1.05]  sm:text-6xl lg:text-7xl" style={{ fontFamily: "'Instrument Serif', Georgia, serif" }}>
-              We would love to hear from {" "}
-            <br/>
+            <h1 className="text-5xl leading-[1.05] text-bold sm:text-6xl lg:text-7xl" style={{ fontFamily: "'Instrument Serif', Georgia, serif" }}>
+              From <span className="text-[#FF2E86]">strategy</span> to<span className="text-[#FF2E86]"> execution</span>  our team is ready to help.<span className="text-[#FF2E86]"> Scroll down </span>and fill out the form below to start the <span className="text-[#FF2E86]"> conversation</span>.
+              We would love to hear from {"   "}{"   "}
+           
               <span className="relative inline-block italic" style={{ fontFamily: "'Instrument Serif', Georgia, serif", fontSize: "1.15em" }}>
                 you.
                 <svg className="absolute -inset-x-6 -inset-y-3 h-[140%] w-[120%]" viewBox="0 0 200 100" preserveAspectRatio="none">
@@ -375,6 +376,8 @@ tl.to(screen1Ref.current, {
                   />
                 </svg>
               </span>
+
+            
             </h1>
             <button className="mt-10 inline-flex items-center gap-2 rounded-full bg-[#FFFFFF] px-7 py-3.5 text-sm font-medium text-black transition-transform hover:scale-105 hover:bg-[#FF2E86] hover:text-white">
               Get in touch

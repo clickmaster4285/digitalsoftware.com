@@ -18,11 +18,39 @@ import { createPortal } from "react-dom";
 
 type Service = { name: string; desc: string; icon: any; href?: string };
 
-const groups: { title: string; items: Service[] }[] = [
+const slugify = (value: string) =>
+  value
+    .toLowerCase()
+    .replace(/&/g, "and")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+
+const getServiceHref = (groupTitle: string, serviceHref?: string) => {
+  if (!serviceHref || serviceHref.startsWith("#")) {
+    return serviceHref ?? "#services";
+  }
+
+  const slug = serviceHref.replace(/^\/+|\/+$/g, "");
+
+  // Special handling for "&"
+  const groupSlug = groupTitle.includes("&")
+    ? groupTitle
+        .toLowerCase()
+        .replace(/&/g, "")
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-+|-+$/g, "")
+    : slugify(groupTitle);
+
+  return `/${groupSlug}/${slug}`;
+};
+
+
+
+const groups: { title: string; href?: string; items: Service[] }[] = [
   {
-    title: "Web & Development",
+    title: "Web Design & Development",
     items: [
-      { name: "Website Development", desc: "Fast, scalable sites", icon: Code2, href: "/website-development-services" },
+      { name: "Website Development", desc: "Fast, scalable sites", icon: Code2, href: "/web-development" },
       { name: "Web App Development", desc: "Powerful web apps", icon: LayoutGrid, href: "/web-application-development" },
       { name: "Website Maintenance", desc: "24/7 care & updates", icon: Wrench, href: "/website-maintenance-services" },
       { name: "Custom Software Development", desc: "Tailored systems", icon: Boxes, href: "/custom-software-development" },
@@ -38,14 +66,15 @@ const groups: { title: string; items: Service[] }[] = [
     ],
   },
   {
-    title: "AI & Data",
+    title: "AI Automation",
+    href: "/ai-automation",
     items: [
-      { name: "AI / ML Development", desc: "Custom AI models", icon: Brain, href: "/ai-ml-development-services" },
-      { name: "AI Automation", desc: "Automate workflows", icon: Bot, href: "/ai-automation-services" },
-      { name: "AI Personalization", desc: "1:1 experiences", icon: Sparkles, href: "/ai-personalization-services" },
+      { name: "AI / ML Development", desc: "Custom AI models", icon: Brain, href: "/ai-ml-development" },
+      { name: "AI Automation", desc: "Automate workflows", icon: Bot, href: "/ai-automation" },
+      { name: "AI Personalization", desc: "1:1 experiences", icon: Sparkles, href: "/ai-personalization" },
       { name: "Data Analytics & Reporting", desc: "Insights that ship", icon: Database, href: "/data-analytics-reporting" },
-      { name: "Marketing Attribution", desc: "Measure what matters", icon: BarChart3, href: "/marketing-attribution-services" },
-      { name: "Marketing Automation", desc: "Always-on funnels", icon: Bot, href: "/marketing-automation-services" },
+      { name: "Marketing Attribution", desc: "Measure what matters", icon: BarChart3, href: "/ai-marketing" },
+      { name: "Marketing Automation", desc: "Always-on funnels", icon: Bot, href: "/marketing-automation" },
     ],
   },
   {
@@ -81,25 +110,25 @@ const groups: { title: string; items: Service[] }[] = [
     items: [
       { name: "Social Media Marketing", desc: "Brand campaigns", icon: Megaphone, href: "/social-media-marketing-services" },
       { name: "Social Media Strategy", desc: "Consulting & planning", icon: BarChart3, href: "/social-media-strategy-consulting" },
-      { name: "Social Media Content", desc: "Daily creative", icon: PenTool, href: "/social-media-content-services" },
-      { name: "PPC Management", desc: "Profitable paid ads", icon: TrendingUp, href: "/ppc-management" },
-      { name: "LinkedIn Ads", desc: "B2B at scale", icon: Linkedin, href: "/linkedin-ads" },
-      { name: "Email Marketing", desc: "Convert your list", icon: Mail, href: "/email-marketing" },
-      { name: "Content Marketing", desc: "Stories that sell", icon: PenTool, href: "/content-marketing" },
-      { name: "Ecommerce Marketing", desc: "Scale online stores", icon: ShoppingBag, href: "/ecommerce-marketing" },
-      { name: "Amazon Marketing", desc: "Win on Amazon", icon: Package, href: "/amazon-marketing" },
+      { name: "Social Media Content", desc: "Daily creative", icon: PenTool, href: "/social-media-content-creation" },
+      { name: "PPC Management", desc: "Profitable paid ads", icon: TrendingUp, href: "/ppc-management-services" },
+      { name: "LinkedIn Ads", desc: "B2B at scale", icon: Linkedin, href: "/linkedin-ads-management" },
+      { name: "Email Marketing", desc: "Convert your list", icon: Mail, href: "/email-marketing-services" },
+      { name: "Content Marketing", desc: "Stories that sell", icon: PenTool, href: "/content-marketing-services" },
+      { name: "Ecommerce Marketing", desc: "Scale online stores", icon: ShoppingBag, href: "/ecommerce-marketing-services" },
+      { name: "Amazon Marketing", desc: "Win on Amazon", icon: Package, href: "/amazon-marketing-services" },
       { name: "Amazon FBA Marketing", desc: "FBA growth", icon: Package, href: "/amazon-fba-marketing" },
-      { name: "Remarketing & Retargeting", desc: "Win back visitors", icon: Repeat, href: "/remarketing-retargeting" },
-      { name: "Online Reputation Mgmt", desc: "Protect your brand", icon: Star, href: "/online-reputation-mgmt" },
-      { name: "PR & Media Outreach", desc: "Press coverage", icon: Radio, href: "/pr-media-outreach" },
-      { name: "Podcast Marketing", desc: "Audio reach", icon: Mic, href: "/podcast-marketing" },
+      { name: "Remarketing & Retargeting", desc: "Win back visitors", icon: Repeat, href: "/remarketing-retargeting-services" },
+      { name: "Online Reputation Mgmt", desc: "Protect your brand", icon: Star, href: "/online-reputation-management" },
+      { name: "PR & Media Outreach", desc: "Press coverage", icon: Radio, href: "/pr-media-outreach-services" },
+      { name: "Podcast Marketing", desc: "Audio reach", icon: Mic, href: "/podcast-marketing-services" },
       { name: "Newsletter", desc: "Owned audience", icon: Mail, href: "/newsletter" },
     ],
   },
   {
     title: "Industry Solutions",
     items: [
-      { name: "SaaS Digital Marketing", desc: "Growth for SaaS", icon: BriefcaseIcon , href: "/industries-saas/" },
+      { name: "SaaS Digital Marketing", desc: "Growth for SaaS", icon: BriefcaseIcon , href: "/industries-saas" },
       { name: "Real Estate Marketing", desc: "Listings & leads", icon: Building2, href: "/real-estate-marketing-services" },
       { name: "Real Estate Digital", desc: "Full-funnel realty", icon: Building2 },
       { name: "Restaurant Marketing", desc: "Drive bookings", icon: UtensilsCrossed },
@@ -251,7 +280,7 @@ const MegaMenu = ({
                       return (
                         <motion.a
                           key={s.name}
-                          href={s.href ?? "#services"}
+                          href={getServiceHref(groups[activeGroup].title, s.href)}
                           initial={{ opacity: 0, y: 10 }}
                           animate={{ opacity: 1, y: 0 }}
                           transition={{ delay: 0.03 + i * 0.025, duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
@@ -422,7 +451,7 @@ const MobileDrawer = ({ open, onClose }: { open: boolean; onClose: () => void })
                               return (
                                 <a
                                   key={s.name}
-                                  href={s.href ?? "#services"}
+                                  href={getServiceHref(g.title, s.href)}
                                   onClick={onClose}
                                   className="group flex items-center gap-3 px-3 py-2.5 rounded-xl hover:bg-muted/60 transition-colors"
                                 >
