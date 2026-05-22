@@ -32,7 +32,7 @@ export const Process = () => (
       </div>
       <h2 className="md:col-span-8 font-display text-5xl md:text-7xl leading-[1.05] text-balance">
      How Our Digital Marketing Agency Delivers Consistent,
-<em>Consistent, Scalable </em>Growth
+<em> Scalable </em>Growth
       </h2>
     </div>
     <div className="space-y-px bg-border">
