@@ -179,7 +179,7 @@ export const Projects = () => {
           </h2>
 
           <p className="mt-6 text-muted-foreground text-lg max-w-3xl leading-relaxed">
-            H2: Real Results From a Real Digital Marketing Company We don't ask
+            Real Results From a Real Digital Marketing Company We don't ask
             you to take our word for it. Here are four real examples of how our
             digital marketing agency has helped US businesses achieve
             transformational, measurable growth.

@@ -128,7 +128,7 @@
 }
 
 @layer components {
-  .font-display { font-family: 'Instrument Serif', serif; font-weight: 400; letter-spacing: -0.02em; }
+  .font-display { font-family: var(--font-instrument-serif), 'Instrument Serif', serif; font-weight: 400; letter-spacing: -0.02em; }
   .text-balance { text-wrap: balance; }
 
   .marquee {

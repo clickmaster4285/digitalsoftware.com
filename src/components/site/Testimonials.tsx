@@ -36,6 +36,14 @@ const items = [
     bg: "#FFB4C6",
     rot: -1.5,
   },
+
+  {
+  q: "We saw immediate improvements in both lead quality and conversion rates after working with Clickmasters. They didn’t just increase traffic — they brought in the right audience. Our sales team now spends time closing deals instead of chasing cold leads.",
+  a: "Robert H.",
+  r: "COO — Apex Solar Solutions, Houston, TX",
+  bg: "#CFF5A8",
+  rot: 1,
+},
 ];
 export const Testimonials = () => (
   <section   id="testimonials" className="py-32 container">
