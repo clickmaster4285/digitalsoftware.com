@@ -24,7 +24,7 @@ export function Footer() {
         <div className="blob blob-3" />
       </div>
 
-      <div className="relative mx-auto max-w-[1400px] px-8 py-20 md:px-16 md:py-28">
+      <div className="relative mx-auto max-w-[1400px] px-8 py-10 md:px-10 md:py-10">
         <div className="grid grid-cols-1 gap-16 md:grid-cols-2">
           {/* Left: Let's Talk */}
           <div>
@@ -99,7 +99,7 @@ export function Footer() {
           </div>
 
           <div className="flex flex-wrap items-center gap-6 text-sm text-neutral-600">
-            <span>© 2026 ClickMasters</span>
+            <span>© 2026 ClickMasters Digital Marketing Agency</span>
             <Link href="#privacy" className="underline underline-offset-4 decoration-1 hover:text-neutral-900">
               Privacy
             </Link>

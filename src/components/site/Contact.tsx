@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 export const Contact = () => (
-  <section id="contact" className="py-32 container text-center relative">
+  <section id="contact" className="py-20 container text-center relative">
     <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-8">— Let's talk</p>
     <motion.h2
       initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }}
@@ -21,7 +21,7 @@ export const Contact = () => (
       <span aria-hidden>→</span>
     </a>
 
-    {/* Phone Numbers */}
+    {/* Phone Numbers
     <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
       <a
         href="tel:+447988576086"
@@ -41,17 +41,17 @@ export const Contact = () => (
       >
         🇵🇰 PK: +92 332 5394285
       </a>
-    </div>
+    </div> */}
 
 
 
-    <footer className="mt-32 pt-10 border-t border-background/20 flex justify-between text-sm opacity-60 flex-wrap gap-4">
-      <span>© 2026 ClickMasters</span>
+    {/* <footer className="mt-32 pt-10 border-t border-background/20 flex justify-between text-sm opacity-60 flex-wrap gap-4">
+      <span>© 2026 ClickMasters Digital Marketing Agency</span>
       <div className="flex gap-6">
         <a href="#">Instagram</a>
         <a href="#">Dribbble</a>
         <a href="#">LinkedIn</a>
       </div>
-    </footer>
+    </footer> */}
   </section>
 );
