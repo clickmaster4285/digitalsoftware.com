@@ -27,6 +27,7 @@ import {
   Layers3, Calculator, Video, LineChart, Cloud, GitBranch, MessageSquare, Gauge,
 } from "lucide-react";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import { createPortal } from "react-dom";
 
 type Service = { name: string; desc: string; icon: any; href?: string };
@@ -365,6 +366,8 @@ const MegaMenu = ({
     return () => setMounted(false);
   }, []);
 
+  const router = useRouter();
+
   const menuContent = (
     <AnimatePresence>
       {open && (
@@ -385,7 +388,10 @@ const MegaMenu = ({
                   <button
                     key={g.title}
                     onMouseEnter={() => setActiveGroup(i)}
-                    onClick={() => setActiveGroup(i)}
+                    onClick={() => {
+                      setActiveGroup(i);
+                      if (g.href) router.push(g.href);
+                    }}
                     className={`relative text-left text-sm px-3 py-2.5 rounded-xl transition-colors ${
                       activeGroup === i ? "bg-foreground text-background" : "hover:bg-background"
                     }`}
@@ -473,6 +479,8 @@ const MobileDrawer = ({ open, onClose }: { open: boolean; onClose: () => void })
     setMounted(true);
     return () => setMounted(false);
   }, []);
+
+  const router = useRouter();
 
   // Lock body scroll when drawer is open
   useEffect(() => {
@@ -574,7 +582,19 @@ const MobileDrawer = ({ open, onClose }: { open: boolean; onClose: () => void })
                       className="w-full flex items-center justify-between text-sm font-medium px-3 py-3 rounded-xl hover:bg-muted/70 transition-colors"
                     >
                       <span className="flex items-center gap-2">
-                        {g.title}
+                        <a
+                          href={g.href ?? '#'}
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            if (g.href) {
+                              router.push(g.href);
+                              onClose();
+                            }
+                          }}
+                          className="block"
+                        >
+                          {g.title}
+                        </a>
                         <span className="text-[10px] opacity-50 bg-foreground/10 rounded-full px-1.5 py-0.5">{g.items.length}</span>
                       </span>
                       <motion.span

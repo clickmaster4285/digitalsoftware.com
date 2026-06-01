@@ -152,7 +152,7 @@ const Hero = ({ data }: { data: ServicePageData["hero"] }) => {
 
 /* ---------- Intro ---------- */
 const Intro = ({ data }: { data: ServicePageData["intro"] }) => (
-  <section className="relative bg-background text-foreground py-28">
+  <section className="relative bg-background text-foreground py-10">
     <div className="container max-w-5xl">
       <SectionLabel n="02" t="The promise" />
       <Reveal>

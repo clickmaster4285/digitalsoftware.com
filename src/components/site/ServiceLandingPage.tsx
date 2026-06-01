@@ -1,178 +1,9 @@
 "use client";
 
-import { useEffect, useRef } from "react";
-import { useParams } from "next/navigation";
+import { useRef } from "react";
 import { motion, useScroll, useTransform, useSpring } from "framer-motion";
-import { useSmoothScroll } from "@/hooks/useSmoothScroll";
-
-import WebsiteMaintenanceServicesPage from "@/app/website-maintenance-services/page";
-import CustomSoftwareDevelopmentPage from "@/app/custom-software-development/page";
-import {
-  Code2, Gauge, ShieldCheck, Plug, Search, Server, ShoppingBag, Layers,
-  Rocket, ArrowUpRight, Check, Cpu, Database, Globe, Sparkles,
-  Beaker, Network, TrendingUp, Zap, RefreshCw, MessageSquare,
-  Camera, FileText, GitBranch, Target, BarChart3, Shuffle, Eye,
-  TrendingDown, PieChart, FileEdit, Mail, ShoppingCart, Megaphone, Smartphone,
-} from "lucide-react";
-
-// Import all content files
-import { AiMlDevContent } from "@/content/AiMlDev";
-import { AiPersonalizationContent } from "@/content/AiPersonalization";
-import { DataAnalyticsReportingContent } from "@/content/DataAnalyticsReporting";
-import { MarketingAttributionContent } from "@/content/MarketingAttribution";
-import { MarketingAutomationContent } from "@/content/MarketingAutomation";
-import { AiAutomationContent } from "@/content/AiAutomation";
-import { WebDesignContent } from "@/content/WebDesign";
-import { InfographicDesignContent } from "@/content/InfographicDesign";
-import { LandingPageDesignContent } from "@/content/LandingPageDesign";
-import { UIUXDesignContent } from "@/content/UIUXDesign";
-import { GraphicDesignContent } from "@/content/GraphicDesign";
-import { LogoDesignContent } from "@/content/LogoDesign";
-import { CitationBuildingServicesContent  } from "@/content/CitationBuildingServices";
-import { VoiceSearchOptimizationContent } from "@/content/VoiceSearchOptimization";
-import { SchemaMarkupContent } from "@/content/SchemaMarkup";
-import { WhiteLabelSeoContent } from "@/content/WhiteLabelSeo";
-import { OffPageSeoContent } from "@/content/OffPageSeo";
-import { SeoServicesUsaContent } from "@/content/SeoServicesUsa";
-import { EcommerceSeoContent } from "@/content/EcommerceSeo";
-import { YoutubeSeoContent } from "@/content/YoutubeSeo";
-import { SeoAutomationContent } from "@/content/SeoAutomation";
-import { SeoGlossaryContent } from "@/content/SeoGlossary";
-import { SocialMediaStrategyContent } from "@/content/SocialMediaStrategy";
+import { ArrowUpRight, Check, Cpu, Database, Network, TrendingUp, Zap, RefreshCw, MessageSquare, Camera, FileText, GitBranch, Target, BarChart3, Shuffle, Eye, FileEdit, Mail, ShoppingCart, Megaphone, Smartphone, Globe, Layers, Heart, ShieldCheck } from "lucide-react";
 import Footer from "@/components/site/Footer";
-import { SocialMediaMarketingContent } from "@/content/main-services";
-import { EmailMarketingServicesContent } from "@/content/EmailMarketing";
-import { EcommerceMarketingServicesContent } from "@/content/EcommerceMarketing";
-import { AmazonMarketingServicesContent } from "@/content/AmazonMarketing";
-import { OnlineReputationManagementContent } from "@/content/OnlineReputation";
-import { PodcastMarketingServicesContent } from "@/content/PodcastMarketingServices";
-import { PpcManagementContent } from "@/content/PpcManagement";
-import { LinkedInAdsContent } from "@/content/LinkedInAds";
-import { ContentMarketingContent } from "@/content/ContentMarketing";
-import { AmazonFbaMarketingContent } from "@/content/AmazonFbaMarketing";
-import { RemarketingRetargetingContent } from "@/content/RemarketingRetargeting";
-import { PrMediaOutreachContent } from "@/content/PrMediaOutreach";
-import { SocialMediaContentCreationContent } from "@/content/SocialMediaContentCreation";
-import { NewsletterContent } from "@/content/Newsletter";
-import { ClickPOSContent } from "@/content/ClickPOSContent";
-import { ClickCareHMSContent } from "@/content/ClickCareHMS";
-import { TestimonialsContent } from "@/content/TestimonialsContent";
-import { WhitePaperWritingServicesContent } from "@/content/WhitePaper";
-import { CareersContent } from "@/content/CareersContent";
-import { OurTeamContent } from "@/content/OurTeam";
-import { CaseStudyWritingContent } from "@/content/CaseStudyWriting";
-import { AboutUsContent } from "@/content/AboutUs";
-import { BlogContent } from "@/content/BlogContent";
-import { DigitalMarketingGlossaryContent } from "@/content/DigitalMarketingGlossary";
-import { ClickGrowthSystemContent } from "@/content/ClickGrowthSystem";
-import { RealEstateMarketingContent } from "@/content/RealEstateMarketing";
-import { SaasMarketingContent } from "@/content/SaasMarketing";
-import { LocalSeoContent } from "@/content/LocalSeo";
-import { GuestPostingContent } from "@/content/GuestPosting";
-import { WebDevelopmentContent } from "@/content/WebDevelopment";
-import { WebAppContent } from "@/content/WebAppContent";
-
-const routedPageRegistry: Record<string, any> = {
-
-  "website-maintenance-services": WebsiteMaintenanceServicesPage,
-  "custom-software-development": CustomSoftwareDevelopmentPage,
-};
-
-// Content registry - add new pages here
-const contentRegistry: Record<string, any> = {
-  "web-development": WebDevelopmentContent,
-  "web-application-development": WebAppContent,
-  "ai-ml-development": AiMlDevContent,
-  "ai-personalization": AiPersonalizationContent,
-  "data-analytics-reporting": DataAnalyticsReportingContent, 
-  "ai-marketing": MarketingAttributionContent,
-    "marketing-automation": MarketingAutomationContent,
-  "ai-automation": AiAutomationContent,
-
-  "web-design-services": WebDesignContent, 
-    "ui-ux-design-services": UIUXDesignContent,
-  "graphic-design-services": GraphicDesignContent,
-  "logo-design-services": LogoDesignContent,
-  "landing-page-design-services": LandingPageDesignContent,
-  "infographic-design-services": InfographicDesignContent, 
-
-
-
-  "seo-services-usa": SeoServicesUsaContent,
-  "ecommerce-seo-services": EcommerceSeoContent,
-      "youtube-seo-services": YoutubeSeoContent,
-"off-page-seo-link-building": OffPageSeoContent,
-   "white-label-seo": WhiteLabelSeoContent, 
-"schema-markup-services": SchemaMarkupContent,  
-  "voice-search-optimization": VoiceSearchOptimizationContent, 
-  "seo-automation-services": SeoAutomationContent,
-  "citation-building-services": CitationBuildingServicesContent ,
-  "local-seo-services": LocalSeoContent,
-  "guest-posting-services": GuestPostingContent,
-    "seo-glossary": SeoGlossaryContent,
-  
-
-    "social-media-marketing-services": SocialMediaMarketingContent,
-    "social-media-strategy-consulting": SocialMediaStrategyContent,
-
-  "social-media-content-creation": SocialMediaContentCreationContent,
-     
-    "email-marketing-services": EmailMarketingServicesContent,
-  "ecommerce-marketing-services": EcommerceMarketingServicesContent,
-  "amazon-marketing-services": AmazonMarketingServicesContent,
-  "online-reputation-management": OnlineReputationManagementContent,
-  "podcast-marketing-services": PodcastMarketingServicesContent,
- "ppc-management-services": PpcManagementContent,
-  "linkedin-ads-management": LinkedInAdsContent,
-  "content-marketing-services": ContentMarketingContent,
-  "amazon-fba-marketing": AmazonFbaMarketingContent,
-  "remarketing-retargeting-services": RemarketingRetargetingContent,
-    "pr-media-outreach-services": PrMediaOutreachContent,
-   "newsletter": NewsletterContent,
-    
- "about-us": AboutUsContent,
-     "our-team": OurTeamContent,
-  "careers": CareersContent,
-  "case-study-writing-services": CaseStudyWritingContent,
-     "blog": BlogContent,
-  "white-paper-writing-services": WhitePaperWritingServicesContent,
-  "testimonials": TestimonialsContent,
-     "digital-marketing-glossary": DigitalMarketingGlossaryContent,
- "clickcare-hms": ClickCareHMSContent,
-  "click-growth-system": ClickGrowthSystemContent,
-  "clickpos": ClickPOSContent,
-
-
-  "industries-saas": SaasMarketingContent, 
-  "real-estate-marketing-services": RealEstateMarketingContent,
-
-};
-
-// 404 content for unknown slugs
-const notFoundContent = {
-  hero: {
-    tag: "[ Error 404 ]",
-    title: "Service Not",
-    titleHighlight: "Found",
-    subtitle: "— the page you're looking for doesn't exist.",
-    description: "Please check the URL or contact us for more information about our services.",
-    stats: [
-      { k: "404", v: "Page not found" },
-      { k: "0", v: "Results" },
-    ],
-  },
-  // ... minimal structure to prevent errors
-  intro: { problem: "", solution: "", promise: "" },
-  problem: { title: "", titleHighlight: "", items: [], afterTitle: "", afterHighlight: "", afterItems: [] },
-  services: [],
-  cases: [],
-  why: [],
-  faqs: [],
-  cta: { title: "", description: "", contactLink: "#", whatsappLink: "#" },
-  footer: { company: "", url: "", email: "", regions: "", author: "" },
-};
-
-/* ---------- Reusable bits ---------- */
 
 const Reveal = ({ children, delay = 0, y = 30 }: any) => (
   <motion.div
@@ -195,16 +26,32 @@ const SectionLabel = ({ n, t }: { n: string; t: string }) => (
 
 const getIcon = (iconName: string) => {
   const icons: Record<string, any> = {
-    Beaker, Database, Network, TrendingUp, Zap, RefreshCw,
-    Cpu, MessageSquare, Camera, FileText, GitBranch, Target,
-    BarChart3, Shuffle, Eye, Rocket, TrendingDown, PieChart, 
-    FileEdit, Mail, ShoppingCart, Megaphone, Smartphone, Globe,
+    Beaker: Cpu,
+    Database,
+    Network,
+    TrendingUp,
+    Zap,
+    RefreshCw,
+    MessageSquare,
+    Camera,
+    FileText,
+    GitBranch,
+    Target,
+    BarChart3,
+    Shuffle,
+    Eye,
+    FileEdit,
+    Mail,
+    ShoppingCart,
+    Megaphone,
+    Smartphone,
+    Globe,
+    Layers,
+    Heart,
+    ShieldCheck,
   };
-  const Icon = icons[iconName] || Cpu;
-  return Icon;
+  return icons[iconName] || Cpu;
 };
-
-/* ---------- HERO with parallax ---------- */
 
 const Hero = ({ content }: { content: any }) => {
   const ref = useRef<HTMLDivElement>(null);
@@ -212,7 +59,6 @@ const Hero = ({ content }: { content: any }) => {
   const y1 = useTransform(scrollYProgress, [0, 1], [0, 200]);
   const y2 = useTransform(scrollYProgress, [0, 1], [0, -120]);
   const opacity = useTransform(scrollYProgress, [0, 0.8], [1, 0]);
-  const scale = useTransform(scrollYProgress, [0, 1], [1, 1.1]);
 
   const heroContent = content.hero;
 
@@ -220,7 +66,7 @@ const Hero = ({ content }: { content: any }) => {
     <section ref={ref} className="relative min-h-screen overflow-hidden bg-[#0a0a0a] text-white pt-32 pb-20">
       <motion.div
         aria-hidden
-        style={{ y: y1, scale }}
+        style={{ y: y1 }}
         className="absolute inset-0 opacity-[0.07] pointer-events-none"
       >
         <div
@@ -243,9 +89,7 @@ const Hero = ({ content }: { content: any }) => {
 
       <motion.div style={{ opacity }} className="container relative">
         <Reveal>
-          <p className="text-[10px] uppercase tracking-[0.4em] opacity-60 mb-6">
-            {heroContent.tag}
-          </p>
+          <p className="text-[10px] uppercase tracking-[0.4em] opacity-60 mb-6">{heroContent.tag}</p>
         </Reveal>
         <Reveal delay={0.1}>
           <h1 className="font-display text-5xl md:text-8xl font-bold leading-[0.95] tracking-tight">
@@ -293,20 +137,14 @@ const Hero = ({ content }: { content: any }) => {
   );
 };
 
-/* ---------- Intro / promise ---------- */
-
 const Intro = ({ content }: { content: any }) => {
   const introContent = content.intro;
 
-  // Helper for problem text (pink color)
   const renderProblemText = (text: any) => {
     if (!text) return null;
     if (Array.isArray(text)) {
       return text.map((part: any, idx: number) => (
-        <span
-          key={idx}
-          className={part.type === "highlight" ? "text-[#FF2E86]" : ""}
-        >
+        <span key={idx} className={part.type === "highlight" ? "text-[#FF2E86]" : ""}>
           {part.text}
         </span>
       ));
@@ -314,15 +152,11 @@ const Intro = ({ content }: { content: any }) => {
     return text;
   };
 
-  // Helper for solution & promise text (bold only)
   const renderBoldText = (text: any) => {
     if (!text) return null;
     if (Array.isArray(text)) {
       return text.map((part: any, idx: number) => (
-        <span
-          key={idx}
-          className={part.type === "highlight" ? "font-bold" : ""}
-        >
+        <span key={idx} className={part.type === "highlight" ? "font-bold" : ""}>
           {part.text}
         </span>
       ));
@@ -354,24 +188,11 @@ const Intro = ({ content }: { content: any }) => {
   );
 };
 
-/* ---------- Problem (parallax dark) ---------- */
-
-const Problem = ({ content }: { content: any }) => {
-  const problemContent = content.problem;
-
-  // If no problem section OR no items, don't render a scroll-tracked section.
-  if (!problemContent || !problemContent.items || problemContent.items.length === 0) {
-    return null;
-  }
-
-  return <ProblemSection problemContent={problemContent} />;
-};
-
 const ProblemSection = ({ problemContent }: { problemContent: any }) => {
   const ref = useRef<HTMLDivElement>(null);
   const { scrollYProgress } = useScroll({ target: ref, offset: ["start end", "end start"] });
   const y = useTransform(scrollYProgress, [0, 1], [80, -80]);
-  const headlineX = useTransform(scrollYProgress, [0, 1],   [-30, 30]);
+  const headlineX = useTransform(scrollYProgress, [0, 1], [-30, 30]);
 
   return (
     <section ref={ref} className="relative bg-[#0a0a0a] text-white py-32 overflow-hidden">
@@ -380,9 +201,7 @@ const ProblemSection = ({ problemContent }: { problemContent: any }) => {
         style={{ y }}
         className="absolute inset-0 grid place-items-center pointer-events-none"
       >
-        <span className="font-display text-[24vw] leading-none opacity-[0.04] tracking-tighter select-none">
-          PROBLEM
-        </span>
+        <span className="font-display text-[24vw] leading-none opacity-[0.04] tracking-tighter select-none">PROBLEM</span>
       </motion.div>
 
       <div className="container relative">
@@ -391,7 +210,8 @@ const ProblemSection = ({ problemContent }: { problemContent: any }) => {
           style={{ x: headlineX }}
           className="font-display text-4xl md:text-7xl font-bold leading-[0.95] mb-20"
         >
-          {problemContent.title}<br />
+          {problemContent.title}
+          <br />
           <span className="text-[#FF2E86]">{problemContent.titleHighlight}</span>
         </motion.h2>
 
@@ -416,7 +236,6 @@ const ProblemSection = ({ problemContent }: { problemContent: any }) => {
           })}
         </div>
 
-        {/* After section - only if it exists */}
         {problemContent.afterItems && problemContent.afterItems.length > 0 && (
           <>
             <SectionLabel n="03.5" t="The after" />
@@ -424,7 +243,8 @@ const ProblemSection = ({ problemContent }: { problemContent: any }) => {
               style={{ x: headlineX }}
               className="font-display text-4xl md:text-7xl font-bold leading-[0.95] mb-20"
             >
-              {problemContent.afterTitle}<br />
+              {problemContent.afterTitle}
+              <br />
               <span className="text-[#FF2E86]">{problemContent.afterHighlight}</span>
             </motion.h2>
 
@@ -455,11 +275,14 @@ const ProblemSection = ({ problemContent }: { problemContent: any }) => {
   );
 };
 
-/* ---------- Services ---------- */
+const Problem = ({ content }: { content: any }) => {
+  const problemContent = content.problem;
+  if (!problemContent || !problemContent.items || problemContent.items.length === 0) return null;
+  return <ProblemSection problemContent={problemContent} />;
+};
 
 const ServicesGrid = ({ content }: { content: any }) => {
   const services = content.services;
-  
   if (!services || services.length === 0) return null;
 
   return (
@@ -468,7 +291,8 @@ const ServicesGrid = ({ content }: { content: any }) => {
         <SectionLabel n="04" t="What we build" />
         <Reveal>
           <h2 className="font-display text-4xl md:text-7xl font-bold leading-[0.95] mb-20 tracking-tight">
-            Our services<br />
+            Our services
+            <br />
             <span className="text-[#FF2E86]">— built to last.</span>
           </h2>
         </Reveal>
@@ -497,9 +321,7 @@ const ServicesGrid = ({ content }: { content: any }) => {
                       [ {s.tag} · {s.n} ]
                     </span>
                   </div>
-                  <h3 className="font-display text-3xl md:text-5xl leading-[1.05] tracking-tight mb-6">
-                    {s.title}
-                  </h3>
+                  <h3 className="font-display text-3xl md:text-5xl leading-[1.05] tracking-tight mb-6">{s.title}</h3>
                   <p className="text-base md:text-lg opacity-70 leading-relaxed">{s.intro}</p>
                 </motion.div>
 
@@ -534,33 +356,23 @@ const ServicesGrid = ({ content }: { content: any }) => {
   );
 };
 
-/* ---------- Case studies ---------- */
-
 const Cases = ({ content }: { content: any }) => {
   const cases = content.cases;
-  
   if (!cases || cases.length === 0) return null;
 
-  return <CasesSection cases={cases} />;
-};
-
-const CasesSection = ({ cases }: { cases: any[] }) => {
-  const ref = useRef<HTMLDivElement>(null);
-  const { scrollYProgress } = useScroll({ target: ref, offset: ["start end", "end start"] });
-  const y = useTransform(scrollYProgress, [0, 1], [60, -60]);
-
   return (
-    <section ref={ref} className="relative bg-[#0a0a0a] text-white py-32 overflow-hidden">
+    <section className="relative bg-[#0a0a0a] text-white py-32 overflow-hidden">
       <motion.div
         aria-hidden
-        style={{ y }}
         className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] rounded-full blur-[160px] opacity-25 bg-[#FF2E86] pointer-events-none"
       />
       <div className="container relative">
         <SectionLabel n="05" t="Client results" />
         <Reveal>
           <h2 className="font-display text-4xl md:text-7xl font-bold leading-[0.95] mb-20 tracking-tight">
-            Client results<br /><span className="text-[#FF2E86]">in practice.</span>
+            Client results
+            <br />
+            <span className="text-[#FF2E86]">in practice.</span>
           </h2>
         </Reveal>
 
@@ -577,9 +389,7 @@ const CasesSection = ({ cases }: { cases: any[] }) => {
             >
               <div className="md:col-span-4">
                 <p className="text-[10px] uppercase tracking-[0.4em] opacity-60 mb-4">[ {c.tag} ]</p>
-                <p className="font-display text-5xl md:text-6xl text-[#FF2E86] leading-none">
-                  {c.metric}
-                </p>
+                <p className="font-display text-5xl md:text-6xl text-[#FF2E86] leading-none">{c.metric}</p>
                 <p className="mt-3 text-sm opacity-70">{c.sub}</p>
               </div>
               <div className="md:col-span-8">
@@ -594,11 +404,8 @@ const CasesSection = ({ cases }: { cases: any[] }) => {
   );
 };
 
-/* ---------- Why Clickmasters ---------- */
-
 const Why = ({ content }: { content: any }) => {
   const why = content.why;
-  
   if (!why || why.length === 0) return null;
 
   return (
@@ -607,7 +414,8 @@ const Why = ({ content }: { content: any }) => {
         <SectionLabel n="06" t="Why Clickmasters" />
         <Reveal>
           <h2 className="font-display text-4xl md:text-7xl font-bold leading-[0.95] mb-20 tracking-tight">
-            Why teams choose us<br />
+            Why teams choose us
+            <br />
             <span className="text-[#FF2E86]">for their projects.</span>
           </h2>
         </Reveal>
@@ -636,11 +444,8 @@ const Why = ({ content }: { content: any }) => {
   );
 };
 
-/* ---------- FAQs ---------- */
-
 const Faqs = ({ content }: { content: any }) => {
   const faqs = content.faqs;
-  
   if (!faqs || faqs.length === 0) return null;
 
   return (
@@ -649,7 +454,8 @@ const Faqs = ({ content }: { content: any }) => {
         <SectionLabel n="07" t="FAQs" />
         <Reveal>
           <h2 className="font-display text-4xl md:text-6xl font-bold leading-[0.95] mb-16 tracking-tight">
-            Frequently asked <span className="text-[#FF2E86]">questions.</span>
+            Frequently asked
+            <span className="text-[#FF2E86]"> questions.</span>
           </h2>
         </Reveal>
         <div className="space-y-3">
@@ -679,8 +485,6 @@ const Faqs = ({ content }: { content: any }) => {
   );
 };
 
-/* ---------- Final CTA ---------- */
-
 const CTA = ({ content }: { content: any }) => {
   const ref = useRef<HTMLDivElement>(null);
   const { scrollYProgress } = useScroll({ target: ref, offset: ["start end", "end start"] });
@@ -691,39 +495,26 @@ const CTA = ({ content }: { content: any }) => {
   });
 
   const ctaContent = content.cta;
-  const footer = content.footer;
 
   return (
-    <section
-      id="contact"
-      ref={ref}
-      className="relative bg-background text-foreground py-32 overflow-hidden"
-    >
+    <section id="contact" ref={ref} className="relative bg-background text-foreground py-32 overflow-hidden">
       <motion.div
         aria-hidden
         style={{ y }}
         className="absolute inset-0 grid place-items-center pointer-events-none"
       >
-        <span className="font-display text-[22vw] leading-none opacity-[0.04] tracking-tighter select-none">
-          READY
-        </span>
+        <span className="font-display text-[22vw] leading-none opacity-[0.04] tracking-tighter select-none">READY</span>
       </motion.div>
 
       <motion.div style={{ scale }} className="container relative max-w-5xl text-center">
         <Reveal>
-          <p className="text-[10px] uppercase tracking-[0.4em] opacity-60 mb-8">
-            [ 08 ] — Ready when you are
-          </p>
+          <p className="text-[10px] uppercase tracking-[0.4em] opacity-60 mb-8">[ 08 ] — Ready when you are</p>
         </Reveal>
         <Reveal delay={0.1}>
-          <h2 className="font-display text-5xl md:text-8xl font-bold leading-[0.95] tracking-tight">
-            {ctaContent.title}
-          </h2>
+          <h2 className="font-display text-5xl md:text-8xl font-bold leading-[0.95] tracking-tight">{ctaContent.title}</h2>
         </Reveal>
         <Reveal delay={0.25}>
-          <p className="mt-10 text-lg md:text-xl opacity-70 max-w-2xl mx-auto leading-relaxed">
-            {ctaContent.description}
-          </p>
+          <p className="mt-10 text-lg md:text-xl opacity-70 max-w-2xl mx-auto leading-relaxed">{ctaContent.description}</p>
         </Reveal>
         <Reveal delay={0.35}>
           <div className="mt-12 flex flex-wrap gap-4 justify-center">
@@ -742,52 +533,12 @@ const CTA = ({ content }: { content: any }) => {
             </a>
           </div>
         </Reveal>
-        <Reveal delay={0.5}>
-          <p className="mt-16 text-xs uppercase tracking-[0.3em] opacity-50">
-            {footer.company} · Serving {footer.regions}
-          </p>
-          <p className="mt-3 text-xs opacity-50">
-            {footer.author}
-          </p>
-        </Reveal>
       </motion.div>
     </section>
   );
 };
 
-/* ---------- Main Page Component ---------- */
-
-export default function ServicesPage() {
-  const params = useParams();
-  const slug = params?.slug as string;
-  useSmoothScroll();
-
-  const RoutedPage = routedPageRegistry[slug || ""];
-
-  // Get content based on slug, fallback to 404
-  const content = contentRegistry[slug || ""] || notFoundContent;
-  const is404 = !contentRegistry[slug || ""];
-
-  useEffect(() => {
-    if (RoutedPage) return;
-
-    if (!is404) {
-      document.title = `${content.hero.title} ${content.hero.titleHighlight} | Clickmasters Digital Marketing`;
-      const desc = content.hero.description.slice(0, 160);
-      let m = document.querySelector('meta[name="description"]');
-      if (!m) {
-        m = document.createElement("meta");
-        m.setAttribute("name", "description");
-        document.head.appendChild(m);
-      }
-      m.setAttribute("content", desc);
-    } else {
-      document.title = "Service Not Found | Clickmasters Digital Marketing";
-    }
-  }, [slug, content, is404, RoutedPage]);
-
-  if (RoutedPage) return <RoutedPage />;
-
+export default function ServiceLandingPage({ content }: { content: any }) {
   return (
     <div className="theme-light w-full overflow-x-clip bg-background text-foreground">
       <main>
@@ -799,8 +550,8 @@ export default function ServicesPage() {
         <Why content={content} />
         <Faqs content={content} />
         <CTA content={content} />
-          </main>
-         
+        <Footer />
+      </main>
     </div>
   );
 }
