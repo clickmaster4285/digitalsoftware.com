@@ -13,7 +13,7 @@ export const LocalSeoContent = {
     internalLinks: "/search-engine-optimization/google-business-profile-optimization, /content-marketing/citation-building, /search-engine-optimization/on-page-seo, /contact-us/",
   },
   hero: {
-    tag: "[ Service ] Local SEO",
+    tag: "Local SEO",
     title: "Local SEO Services",
     titleHighlight: "— Dominate Your Geographic Market in 2026",
     subtitle: "",

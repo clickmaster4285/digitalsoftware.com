@@ -14,7 +14,7 @@ export const OnlineReputationManagementContent = {
     internalLinks: "/search-engine-optimization/seo-services-usa, /content-marketing, /contact-us/",
   },
   hero: {
-    tag: "[ Service ] Online Reputation Management",
+    tag: "Online Reputation Management",
     title: "Online Reputation Management Services",
     titleHighlight: "— Control the Narrative. Protect What You Have Built.",
     subtitle: "",

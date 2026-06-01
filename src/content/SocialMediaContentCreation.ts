@@ -13,7 +13,7 @@ export const SocialMediaContentCreationContent = {
     internalLinks: "/social-media-marketing, /content-marketing, /content-marketing/video-marketing, /pay-per-click/facebook-instagram-ads, /contact-us/",
   },
   hero: {
-    tag: "[ Service ] Content Creation",
+    tag: "Content Creation",
     title: "Social Media Content Creation Services",
     titleHighlight: "— Content That Earns Attention and Builds Brands",
     subtitle: "",

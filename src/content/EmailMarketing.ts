@@ -14,7 +14,7 @@ export const EmailMarketingServicesContent = {
     internalLinks: "/content-marketing, /social-media-marketing, /contact-us/",
   },
   hero: {
-    tag: "[ Service ] Email Marketing",
+    tag: "Email Marketing",
     title: "Email Marketing Services",
     titleHighlight: "— The Highest-ROI Channel in Your Marketing Stack",
     subtitle: "",

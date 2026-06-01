@@ -13,7 +13,7 @@ export const SeoServicesContent = {
 		internalLinks: "/technical-seo-services/, /local-seo/, /on-page-seo/, /off-page-seo/, /ai-seo/, /contact-us/",
 	},
 	hero: {
-		tag: "[ Service ] SEO Services",
+		tag: "SEO Services",
 		title: "SEO Services That Actually Grow Revenue",
 		titleHighlight: "Not Just Rankings",
 		subtitle: "",
@@ -193,7 +193,7 @@ export const SocialMediaMarketingContent = {
 		internalLinks: "/facebook-instagram-ads/, /content-marketing-services/, /seo-services/, /remarketing-retargeting-services/, /contact-us/",
 	},
 	hero: {
-		tag: "[ Service ] Social Media Marketing",
+		tag: "Social Media Marketing",
 		title: "Social Media Marketing Services Build Audience, Drive Revenue",
 		titleHighlight: "",
 		subtitle: "",

@@ -14,7 +14,7 @@ export const EcommerceMarketingServicesContent = {
     internalLinks: "/content-marketing/email-marketing, /search-engine-optimization/seo-services-usa, /pay-per-click/ppc-management, /contact-us/",
   },
   hero: {
-    tag: "[ Service ] E-Commerce Marketing",
+    tag: "E-Commerce Marketing",
     title: "E-Commerce Marketing Services",
     titleHighlight: "— Turn Traffic Into Revenue That Grows Month After Month",
     subtitle: "",

@@ -14,7 +14,7 @@ export const PodcastMarketingServicesContent = {
     internalLinks: "/content-marketing, /social-media-marketing, /contact-us/",
   },
   hero: {
-    tag: "[ Service ] Podcast Marketing",
+    tag: "Podcast Marketing",
     title: "Podcast Marketing Services",
     titleHighlight: "— Grow Your Audience, Build Authority, Generate Revenue",
     subtitle: "",
