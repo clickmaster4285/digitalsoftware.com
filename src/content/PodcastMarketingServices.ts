@@ -11,7 +11,7 @@ export const PodcastMarketingServicesContent = {
     secondaryKeywords: "podcast growth services, podcast promotion agency, podcast SEO services, podcast launch marketing 2026",
     formula: "AIDA",
     wordCount: "~5,100 words",
-    internalLinks: "/content-marketing-services/, /social-media-marketing-services/, /seo-services/, /contact-us/",
+    internalLinks: "/content-marketing-services/, /social-media-marketing-services/, /contact-us/",
   },
   hero: {
     tag: "[ Service ] Podcast Marketing",

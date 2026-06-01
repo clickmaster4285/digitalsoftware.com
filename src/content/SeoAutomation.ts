@@ -243,7 +243,7 @@ export const SeoAutomationContent = {
       "The mechanical SEO work consuming your team's time is solvable. The scale ceiling constraining your programme's growth is removable. The competitive disadvantage of manual processes in a market where competitors are automating is avoidable.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
-    seoLink: "https://clickmastersdigitalmarketing.com/seo-services/",
+    seoLink: "https://clickmastersdigitalmarketing.com/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",

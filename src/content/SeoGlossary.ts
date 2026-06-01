@@ -302,7 +302,7 @@ export const SeoGlossaryContent = {
       terms: [
         {
           term: "URL Structure",
-          definition: "The format and organisation of web addresses. SEO-friendly URL structure is: descriptive (the URL gives a clear indication of the page's topic), short (avoids unnecessary subdirectories or parameters), consistent (follows a logical pattern across the site), and keyword-inclusive (includes the target keyword where natural). For example, /seo-services/local-seo/ is a better URL structure than /services/service?id=23&type=local.",
+          definition: "The format and organisation of web addresses. SEO-friendly URL structure is: descriptive (the URL gives a clear indication of the page's topic), short (avoids unnecessary subdirectories or parameters), consistent (follows a logical pattern across the site), and keyword-inclusive (includes the target keyword where natural). For example, /local-seo/ is a better URL structure than /services/service?id=23&type=local.",
         },
         {
           term: "User Experience (UX)",
@@ -325,7 +325,7 @@ export const SeoGlossaryContent = {
     description: "Understanding SEO terminology is the foundation of evaluating whether your current SEO programme is working and making informed decisions about digital marketing investment. If you want to apply these concepts to your specific business situation — through a free SEO audit or a strategy call — the starting point is a conversation with our team.",
     contactLink: "https://clickmastersdigitalmarketing.com/free-seo-audit/",
     whatsappLink: "https://wa.me/",
-    softwareLink: "https://clickmastersdigitalmarketing.com/seo-services/",
+    softwareLink: "https://clickmastersdigitalmarketing.com/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",
