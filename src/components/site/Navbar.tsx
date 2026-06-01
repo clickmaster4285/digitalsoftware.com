@@ -48,7 +48,7 @@ const getServiceHref = (groupTitle: string, serviceHref?: string) => {
 
 const groups: { title: string; href?: string; items: Service[] }[] = [
   {
-    title: "Web Design & Development",
+    title: "SEO SERVICES",
     items: [
       { name: "Website Development", desc: "Fast, scalable sites", icon: Code2, href: "/web-development" },
       { name: "Web App Development", desc: "Powerful web apps", icon: LayoutGrid, href: "/web-application-development" },
@@ -66,8 +66,8 @@ const groups: { title: string; href?: string; items: Service[] }[] = [
     ],
   },
   {
-    title: "AI Automation",
-    href: "/ai-automation",
+    title: "Pay Per Click",
+    href: "/pay-per-click",
     items: [
       { name: "AI / ML Development", desc: "Custom AI models", icon: Brain, href: "/ai-ml-development" },
       { name: "AI Automation", desc: "Automate workflows", icon: Bot, href: "/ai-automation" },
