@@ -4,11 +4,12 @@ import { useRef } from "react";
 import { useParams } from "next/navigation";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { ArrowUpRight } from "lucide-react";
-import { SeoServicesContent, SocialMediaMarketingContent } from "@/content/main-services";
+import { SeoServicesContent, SocialMediaMarketingContent, MobileAppDevelopmentContent } from "@/content/main-services";
 import Footer from "@/components/site/Footer";
 const contentMap: Record<string, any> = {
   "search-engine-optimization": SeoServicesContent,
   "social-media-marketing": SocialMediaMarketingContent,
+  "mobile-app-development": MobileAppDevelopmentContent,
 };
 
 const Reveal = ({ children, delay = 0, y = 30 }: any) => (
