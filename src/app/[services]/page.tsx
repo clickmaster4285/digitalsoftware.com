@@ -10,6 +10,8 @@ import {
   MobileAppDevelopmentContent,
   ConversionRateOptimizationContent,
   ContentMarketingServicesContent,
+  AIAutomationServicesContent,
+  WebDesignServicesContent,
 } from "@/content/main-services";
 import Footer from "@/components/site/Footer";
 const contentMap: Record<string, any> = {
@@ -17,7 +19,9 @@ const contentMap: Record<string, any> = {
   "social-media-marketing": SocialMediaMarketingContent,
   "mobile-app-development": MobileAppDevelopmentContent,
   "conversion-rate-optimization": ConversionRateOptimizationContent,
-  "content-marketing-services": ContentMarketingServicesContent,
+  "content-marketing": ContentMarketingServicesContent,
+  "ai-automation": AIAutomationServicesContent,
+  "web-design-development": WebDesignServicesContent,
 };
 
 const Reveal = ({ children, delay = 0, y = 30 }: any) => (

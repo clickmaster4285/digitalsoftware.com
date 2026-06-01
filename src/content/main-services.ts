@@ -1168,10 +1168,394 @@ export const ConversionRateOptimizationContent = {
 	},
 };
 
-export const ContentMarketingServicesContent = {
-	slug: "content-marketing-services",
+export const AIAutomationServicesContent = {
+	slug: "/ai-automation",
 	metadata: {
-		url: "/content-marketing-services",
+		url: "/ai-automation",
+		seoTitle: "AI & Automation Services Intelligent Systems That Work While You Sleep",
+		metaDescription:
+			"Expert AI & automation services workflow automation, AI chatbots, custom AI tools & process automation. Cut costs, scale operations & eliminate manual work. Free AI audit today.",
+		schema: "Service + FAQPage + Organization + BreadcrumbList",
+		author: "Amjad Khan, CEO Clickmasters Digital Marketing",
+		primaryKeyword: "ai automation services",
+		secondaryKeywords: [
+			"business process automation services",
+			"ai development services",
+			"workflow automation company",
+			"rpa automation services 2026",
+		],
+		wordCount: "~5,100 words",
+		internalLinks:
+			"/saas-development-services/, /website-development-services/, /seo-services/, /content-marketing-services/, /contact-us/",
+	},
+	hero: {
+		tag: "AI & Automation Services",
+		title: "AI & Automation Services",
+		titleHighlight: "Intelligent Systems That Work While You Sleep",
+		subtitle: "",
+		description:
+			"Every business has work that should not require a human being to do it. AI and automation services are the discipline of identifying which parts of a business's operations are consuming human time that technology can handle more efficiently, building the systems that handle those operations automatically, and freeing humans to focus on the work that creates genuine value.",
+		stats: [
+			{ k: "5,400/mo", v: "primary keyword demand" },
+			{ k: "10+", v: "years building AI systems" },
+			{ k: "73%", v: "tickets handled by automation" },
+		],
+	},
+	intro: {
+		problem:
+			"The spreadsheet someone fills in manually every morning. The support tickets asking the same five questions 80% of the time. The lead qualification process that wastes hours looking up LinkedIn and CRM records. These are not human intelligence problems. They are human time problems.",
+		solution:
+			"At Clickmasters Digital Marketing, our AI and automation team builds automation and AI systems for businesses across the USA, UK, UAE, and Pakistan from simple Zapier workflows that save five hours per week to sophisticated multi-agent AI systems that handle complex multi-step processes with conditional logic, exception handling, and human-in-the-loop escalation for edge cases.",
+		promise:
+			"We automate marketing operations, sales workflows, customer service, data processing, reporting, content production, and operational workflows so your team can spend time on the work that actually requires expertise, judgment, and creativity.",
+	},
+	features: {
+		title: "The 2026 AI and Automation Landscape What Is Actually Possible Now",
+		items: [
+			{
+				id: "llms-production",
+				title: "Large language models in production",
+				body:
+					"LLMs are now capable of handling complex natural language tasks in production environments with reliability that was not achievable in earlier generations. Document processing, customer communication, and business workflows can be handled by LLM-based pipelines with human-in-the-loop review for edge cases.",
+			},
+			{
+				id: "multi-agent",
+				title: "Multi-agent AI systems",
+				body:
+					"Modern multi-agent AI architectures let specialized agents collaborate on complex workflows. One agent searches, another summarizes, another evaluates relevance, and a supervisor routes exceptions to human review enabling production-grade business process automation.",
+			},
+			{
+				id: "workflow-platforms",
+				title: "Workflow automation platforms",
+				body:
+					"Platforms like Zapier, Make.com, n8n, and Pipedream now support complex conditional logic, error handling, and AI-powered actions, making them capable of enterprise-grade automation without reinventing every integration from scratch.",
+			},
+		],
+	},
+	services: [
+		{
+			tag: "Audit",
+			n: "01",
+			title: "Business Process Automation Audit and Strategy",
+			intro:
+				"We assess workflows to identify the highest-value automation opportunities and recommend the right combination of process redesign, integration, and AI.",
+			blocks: [
+				{
+					h: "Automation opportunity assessment",
+					p:
+						"We assess every significant operational workflow against four dimensions: time cost, error rate, strategic value of the time, and automation feasibility. This produces a ranked automation opportunity register ordered by expected ROI and implementation complexity.",
+				},
+				{
+					h: "Process documentation and reengineering",
+					p:
+						"Many processes described as needing automation should be redesigned before they are automated. Automating a poorly designed process produces a faster poorly designed process. We redesign workflows for automation rather than automating them as-is.",
+				},
+			],
+		},
+		{
+			tag: "Marketing",
+			n: "02",
+			title: "Marketing and Sales Automation",
+			intro:
+				"We build AI-enabled automation to streamline qualification, nurture, personalization, and campaign orchestration.",
+			blocks: [
+				{
+					h: "Lead qualification and enrichment automation",
+					p:
+						"When a new lead enters the CRM, the automation retrieves firmographic data, accesses LinkedIn, scores the lead against ICP criteria, and routes qualified leads to sales with a pre-populated research summary all within minutes.",
+				},
+				{
+					h: "Marketing campaign automation",
+					p:
+						"We build nurture sequences using HubSpot, ActiveCampaign, Klaviyo, and Marketo that adapt content and cadence based on behavior, trigger account-based outreach, respond to key events, and produce revenue attribution reports.",
+				},
+				{
+					h: "Social media and content automation",
+					p:
+						"We automate content brief generation, multi-platform publishing, performance reporting, and SEO monitoring so content production scales reliably and distribution is data-driven.",
+				},
+			],
+		},
+		{
+			tag: "Support",
+			n: "03",
+			title: "AI-Powered Customer Service and Support Automation",
+			intro:
+				"We build intelligent bots, ticket triage, and support workflows that reduce agent workload and improve response quality.",
+			blocks: [
+				{
+					h: "Intelligent chatbots and virtual assistants",
+					p:
+						"We build custom AI chatbots using RAG systems that ground LLM responses in your knowledge base, product docs, and support articles so the bot answers accurately and consistently.",
+				},
+				{
+					h: "Support ticket triage and routing automation",
+					p:
+						"When a ticket arrives, the automation classifies issue type, checks account context, finds relevant knowledge base articles, and routes it to the right team with pre-populated context and suggested resolution paths.",
+				},
+			],
+		},
+		{
+			tag: "Data",
+			n: "04",
+			title: "Data Processing and Reporting Automation",
+			intro:
+				"We remove manual data handling by automating document extraction, reporting, and dashboard workflows.",
+			blocks: [
+				{
+					h: "Document intelligence",
+					p:
+						"We build document intelligence pipelines using LLM extraction to read documents, extract structured fields, flag low-confidence items for review, and pass data to downstream systems without manual reading time.",
+				},
+				{
+					h: "Automated reporting and dashboards",
+					p:
+						"We connect data sources, transform and aggregate data, and produce formatted reports or live dashboards on schedule replacing manual Friday report compilation with automated delivery.",
+				},
+			],
+		},
+		{
+			tag: "Operations",
+			n: "05",
+			title: "Operational Workflow Automation",
+			intro:
+				"We integrate systems, keep data in sync, and automate approvals so operations run reliably with less manual handoff.",
+			blocks: [
+				{
+					h: "Multi-system integration and data synchronization",
+					p:
+						"We keep systems in sync by automating data flows: when a deal closes, the customer is created in billing, onboarding is triggered in project management, and revenue is attributed in analytics.",
+				},
+				{
+					h: "Approval workflow automation",
+					p:
+						"We automate approval routing, reminders, escalations, audit logging, and action triggers so approvals do not sit in email inboxes for days.",
+				},
+				{
+					h: "HR and operations automation",
+					p:
+						"We build onboarding, offboarding, leave request, expense processing, and compliance workflows that provision accounts, collect documentation, and enforce policy automatically.",
+				},
+			],
+		},
+		{
+			tag: "AI Tools",
+			n: "06",
+			title: "Custom AI Tool Development",
+			intro:
+				"We build custom AI tools that deliver capabilities your business cannot buy off the shelf.",
+			blocks: [
+				{
+					h: "Internal AI tools for specific business needs",
+					p:
+						"We build custom AI tools such as proposal generators, contract reviewers, customer briefing assistants, and research tools trained on your business's specific data.",
+				},
+				{
+					h: "RAG system development and AI agents",
+					p:
+						"We build Retrieval-Augmented Generation systems and multi-agent AI workflows for complex tasks like competitive intelligence monitoring and automated document generation.",
+				},
+			],
+		},
+	],
+	problem: {
+		title: "The AI automation mistake most businesses make",
+		titleHighlight: "they automate the wrong work first",
+		items: [
+			{
+				title: "Automating low-value tasks",
+				body:
+					"The common trap is automating whatever is easiest rather than whatever saves the most time and cost. We prioritize high-value workflows that free skilled people from mundane, repetitive work.",
+			},
+			{
+				title: "Treating AI as a magic bullet",
+				body:
+					"Not every process needs AI. We distinguish between deterministic automation for rule-based work and AI for tasks requiring natural language understanding, document intelligence, or decision support.",
+			},
+			{
+				title: "Ignoring governance",
+				body:
+					"AI systems that process business data require clear governance. We design data flows, audit logs, and privacy controls so automation is secure, compliant, and auditable.",
+			},
+		],
+		afterTitle: "What successful automation looks like",
+		afterHighlight: "secure, scalable, and owned by the client",
+		afterItems: [
+			{
+				title: "Automation that saves real time",
+				body:
+					"We deliver systems that remove the manual work from daily operations, freeing teams to focus on high-value activities.",
+			},
+			{
+				title: "Automation that is governed",
+				body:
+					"We document data flows, define confidence thresholds, and build audit logs so the automation is transparent and safe.",
+			},
+		],
+	},
+	process: {
+		title: "Our AI & automation process",
+		timeline: [
+			{
+				month: "Weeks 1-2",
+				title: "Discovery and automation audit",
+				body:
+					"Map workflows, identify automation opportunities, assess feasibility, and build a prioritized automation roadmap.",
+			},
+			{
+				month: "Weeks 3-6",
+				title: "Build and integrate",
+				body:
+					"Develop workflows, configure integrations, build AI systems, and test automation across the target business processes.",
+			},
+			{
+				month: "Weeks 6-10",
+				title: "Deploy and refine",
+				body:
+					"Deploy automations, monitor performance, tune AI components, and iterate based on operational feedback.",
+			},
+			{
+				month: "Month 3+",
+				title: "Scale and govern",
+				body:
+					"Scale the automation program, add new workflows, and establish governance, maintenance, and ownership processes.",
+			},
+		],
+	},
+	cases: [
+		{
+			tag: "Professional services",
+			metric: "62 hrs/week",
+			sub: "saved through automation",
+			title:
+				"A management consulting firm automated proposals, reporting, briefings and invoice reconciliation saving 62 hours per week and paying back the investment in 4 months.",
+			body:
+				"The automation program replaced manual proposal assembly, client reporting, meeting briefing preparation, and invoice reconciliation with automated workflows and AI tools, creating the equivalent of 1.5 full-time employees of capacity.",
+		},
+		{
+			tag: "E-commerce",
+			metric: "73%",
+			sub: "tickets handled by AI",
+			title:
+				"A DTC brand’s AI support agent handled 73% of incoming customer tickets without human intervention, improving first response time from 6.2 hours to 4 minutes.",
+			body:
+				"A custom GPT-4o support agent integrated with Shopify order data and Gorgias support routing reduced workload and improved customer satisfaction.",
+		},
+		{
+			tag: "B2B SaaS",
+			metric: "141%",
+			sub: "increase in qualified meetings",
+			title:
+				"AI sales automation increased qualified meetings by 141% by automating lead research, enrichment, and outreach personalization.",
+			body:
+				"The automation reclaimed 18 hours per SDR per week and helped the sales team book 53 qualified meetings per month instead of 22.",
+		},
+	],
+	why: [
+		{
+			h: "Automation strategy first, tools second",
+			p:
+				"We identify the highest-impact automation opportunities before recommending any tool. We focus on the 20% of workflow changes that produce 80% of the value.",
+		},
+		{
+			h: "Genuine AI capability not AI washing",
+			p:
+				"We distinguish between tasks that genuinely benefit from AI and tasks better served by deterministic automation. We do not use AI where rule-based automation is faster, cheaper, and more reliable.",
+		},
+		{
+			h: "Security and data governance",
+			p:
+				"We design AI systems with explicit data governance, documenting data flows, implementing private deployment options for sensitive workloads, and building audit logs for accountable automation.",
+		},
+		{
+			h: "Built to be owned, not rented",
+			p:
+				"Every automation we build belongs to the client. We transfer the workflows, prompts, custom code, and integration documentation so the client's team can modify and extend it.",
+		},
+	],
+	pricing: {
+		title: "AI & automation pricing what to expect",
+		tiers: [
+			{
+				name: "Growth",
+				desc: "Pilot automations, workflow audits, and light AI-enhanced processes for fast ROI.",
+			},
+			{
+				name: "Scale",
+				desc: "Multi-system workflows, AI customer service, and marketing automation with performance optimization.",
+			},
+			{
+				name: "Enterprise",
+				desc: "Custom AI tools, multi-agent systems, and full automation governance for complex businesses.",
+			},
+		],
+	},
+	faqs: [
+		{
+			q: "How do I know which processes in my business are good candidates for automation?",
+			a:
+				"The highest-value candidates are repetitive, rule-based, and time-consuming relative to the decision-making they require. Our audit process systematically identifies and prioritizes these candidates across your operations.",
+		},
+		{
+			q: "How much does business process automation cost?",
+			a:
+				"Simple workflow automations connecting a few applications typically cost $2,000 to $8,000. Multi-system automations with conditional logic typically cost $8,000 to $25,000. Custom AI chatbots generally cost $15,000 to $50,000+, and multi-agent systems typically cost $30,000 to $100,000+.",
+		},
+		{
+			q: "What is the difference between RPA and AI automation?",
+			a:
+				"RPA mimics human interaction with software interfaces, while AI automation uses AI to understand language, extract data, and make decisions. Most modern workflows combine both depending on the tools and systems involved.",
+		},
+		{
+			q: "Can you automate tasks that involve documents, emails, and unstructured data?",
+			a:
+				"Yes. LLM-based document processing and email parsing can extract structured data from unstructured inputs with production-grade accuracy, with low-confidence items routed for human review.",
+		},
+		{
+			q: "How do you ensure AI automation makes correct decisions?",
+			a:
+				"We build human-in-the-loop checkpoints, confidence thresholds, and logging into every AI automation. We monitor accuracy and route uncertain cases to humans rather than acting autonomously when risk is high.",
+		},
+		{
+			q: "How long does it take to implement business process automation?",
+			a:
+				"A simple automation can be deployed in 1-2 weeks. More complex workflows with AI components typically take 4-8 weeks. Enterprise programs are phased, with the first phase delivered in 6-10 weeks.",
+		},
+		{
+			q: "Will automation replace our employees?",
+			a:
+				"Automation more commonly refocuses employees than replaces them. It removes repetitive work so people can spend time on higher-value judgment, creativity, and relationship-building.",
+		},
+		{
+			q: "Can AI automation work with our existing software stack?",
+			a:
+				"Yes. Modern automation platforms support hundreds of applications. For unsupported systems, we use webhooks, API integrations, or browser automation to connect workflows.",
+		},
+		{
+			q: "How do I get started?",
+			a:
+				"Book a free AI automation audit. We map workflows, identify automation opportunities, estimate savings, and prioritize the roadmap. No commitment is required.",
+		},
+	],
+	cta: {
+		title: "Ready to Build Operations That Scale Without Scaling Your Headcount?",
+		description:
+			"The businesses that will operate most efficiently in the next five years are the ones building their automation infrastructure today. Every hour of human time redirected from mechanical work to genuinely creative, strategic, and relational work is a compounding competitive advantage.",
+		contactLink: "/contact-us/",
+		whatsappLink: "https://wa.me/",
+	},
+	footer: {
+		company: "Clickmasters Digital Marketing",
+		email: "marketing@clickmastersdigitalmarketing.com",
+		regions: "USA · UK · UAE · Pakistan · Canada · Australia",
+		author: "Amjad Khan CEO, Clickmasters Digital Marketing | AI & automation specialist | 10+ years",
+	},
+};
+
+export const ContentMarketingServicesContent = {
+	slug: "content-marketing",
+	metadata: {
+		url: "/content-marketing",
 		seoTitle: "Content Marketing Services Content That Ranks, Converts & Compounds | Clickmasters",
 		metaDescription:
 			"Expert content marketing services SEO blog content, pillar pages, case studies & lead magnets. Strategy-first content that builds authority and drives revenue. Free content audit.",
@@ -1571,5 +1955,396 @@ export const ContentMarketingServicesContent = {
 		email: "marketing@clickmastersdigitalmarketing.com",
 		regions: "USA · UK · UAE · Pakistan · Canada · Australia",
 		author: "Amjad Khan CEO, Clickmasters Digital Marketing | Content marketing specialist | 10+ years",
+	},
+};
+
+export const WebDesignServicesContent = {
+	slug: "/web-design-development",
+	metadata: {
+		url: "/web-design-development",
+		seoTitle: "Web Design Services Websites That Win Customers Before You Say a Word",
+		metaDescription:
+			"Expert web design services that build credibility, improve conversion, and deliver performance for businesses across the USA, UK, UAE, Pakistan, Canada, and Australia.",
+		schema: "Service + FAQPage + Organization + BreadcrumbList",
+		author: "Amjad Khan, CEO Clickmasters Digital Marketing",
+		primaryKeyword: "web design services",
+		secondaryKeywords: [
+			"website design services",
+			"professional web design",
+			"web design agency",
+			"custom website design services 2026",
+		],
+		wordCount: "~5,100 words",
+		internalLinks:
+			"/website-development-services/, /content-marketing-services/, /seo-services/, /ai-automation-services/, /contact-us/",
+	},
+	hero: {
+		tag: "Web Design Services",
+		title: "Web Design Services Websites That Win Customers Before You Say a Word",
+		titleHighlight: "",
+		subtitle: "",
+		description:
+			"Your website is your most important salesperson. It works 24 hours a day, seven days a week, across every time zone your customers are in. It is the first impression the vast majority of your prospective customers will ever have of your business and it forms that impression in less than 50 milliseconds.",
+		stats: [
+			{ k: "49,500/mo", v: "keyword demand" },
+			{ k: "94%", v: "first impression design-related" },
+			{ k: "65%", v: "traffic from mobile" },
+		],
+	},
+	intro: {
+		problem:
+			"Most business websites fail the 50-millisecond credibility test. They were built years ago by the cheapest option available, load slowly on mobile, use stock imagery, and bury the call to action causing visitors to leave before they ever engage.",
+		solution:
+			"At Clickmasters Digital Marketing, we design and build websites that win customers before you say a word. We create visual design, structure, and user experience that communicates professionalism, credibility, and understanding of your customers' needs immediately.",
+		promise:
+			"Every website we build is designed to convert visitors into enquiries, enquiries into clients, and clients into advocates.",
+	},
+	features: {
+		title: "Why Most Business Websites Fail to Convert",
+		items: [
+			{
+				id: "50ms-judgment",
+				title: "The 50-millisecond judgment",
+				body:
+					"Research shows visitors form an opinion about a website's visual appeal within 50 milliseconds before the page finishes loading, before any text is read, and before any value proposition is understood. If the design does not earn attention instantly, the visitor leaves.",
+			},
+			{
+				id: "mobile-first",
+				title: "The mobile-first imperative",
+				body:
+					"More than 65% of website traffic in 2026 comes from mobile. Websites designed desktop-first and adapted for mobile often deliver small text, cramped navigation, and slow load times. A mobile-first design is essential to keep the majority of visitors engaged.",
+			},
+			{
+				id: "conversion-architecture",
+				title: "The conversion architecture problem",
+				body:
+					"The most common website failure is architectural, not aesthetic. When the value proposition, trust signals, and primary call to action are unclear or hidden, the site converts at a fraction of its potential. Better conversion architecture can triple enquiries from the same traffic.",
+			},
+		],
+	},
+	services: [
+		{
+			tag: "Custom Design",
+			n: "01",
+			title: "Custom Website Design",
+			intro:
+				"Custom design is the difference between a generic template and a website built specifically for your audience, your industry, and your conversion goals.",
+			blocks: [
+				{
+					h: "Design built for your business",
+					p:
+						"A custom-designed website is built from a brief that captures the business, the audience, the competitive context, and the conversion objectives. It delivers a visual identity that is genuinely distinct and a structure that reflects how your specific target customers think.",
+				},
+				{
+					h: "Custom design process",
+					p:
+						"Discovery, wireframing, visual design, client review, iteration, and development handoff ensure the website is built with complete design intent rather than adapted from a generic template.",
+				},
+			],
+		},
+		{
+			tag: "Professional Services",
+			n: "02",
+			title: "Corporate and Professional Services Website Design",
+			intro:
+				"Professional services websites must establish credibility quickly for trust-dependent markets.",
+			blocks: [
+				{
+					h: "Credibility through design",
+					p:
+						"We design sites that answer whether the firm has expertise, relevant experience, and the organisational character clients want to work with using credentials, case studies, and thoughtful visual tone.",
+				},
+				{
+					h: "Experience-driven page architecture",
+					p:
+						"We present the firm's expertise through publications, client stories, and process clarity rather than vague, generic capability claims.",
+				},
+			],
+		},
+		{
+			tag: "E-Commerce",
+			n: "03",
+			title: "E-Commerce Website Design",
+			intro:
+				"E-commerce design is optimized for product conversion, checkout completion, and purchase confidence.",
+			blocks: [
+				{
+					h: "Product page conversion",
+					p:
+						"We design product pages that answer every purchase question above the fold description, variants, reviews, return policy, and delivery expectations.",
+				},
+				{
+					h: "Checkout simplification",
+					p:
+						"We remove barriers with clear shipping costs, guest checkout, and mobile payment options like Apple Pay and Google Pay.",
+				},
+			],
+		},
+		{
+			tag: "SaaS",
+			n: "04",
+			title: "SaaS and Technology Website Design",
+			intro:
+				"Technology websites must speak to both technical evaluators and non-technical decision-makers.",
+			blocks: [
+				{
+					h: "Visual product demonstrations",
+					p:
+						"We use interactive screenshots, animated illustrations, and video walkthroughs to show capability without overwhelming visitors with dense technical text.",
+				},
+				{
+					h: "Dual audience structure",
+					p:
+						"We make technical depth available for evaluators while keeping the core value proposition clear for decision-makers who need a fast yes or no.",
+				},
+			],
+		},
+		{
+			tag: "Landing Pages",
+			n: "05",
+			title: "Landing Page Design and Conversion Rate Optimisation",
+			intro:
+				"Landing pages serve a single audience with a single conversion objective, and every design element must support that one purpose.",
+			blocks: [
+				{
+					h: "Campaign-specific focus",
+					p:
+						"We build landing pages for Google Ads, Meta campaigns, email, and lead magnets with clarity, relevance, and friction-free conversion pathways.",
+				},
+				{
+					h: "High-converting page architecture",
+					p:
+						"We remove everything that does not contribute to the conversion objective and surface the reasons to act immediately.",
+				},
+			],
+		},
+		{
+			tag: "Redesign",
+			n: "06",
+			title: "Website Redesign and Refresh",
+			intro:
+				"An outdated website does more than fail to convert it actively damages brand perception.",
+			blocks: [
+				{
+					h: "Redesign audit",
+					p:
+						"We review analytics, traffic sources, and conversion performance to determine what should be preserved, restructured, or rebuilt.",
+				},
+				{
+					h: "Principled redesign",
+					p:
+						"We execute a redesign engagement as a complete strategic overhaul, not a cosmetic theme swap, to address the underlying conversion limitations.",
+				},
+			],
+		},
+	],
+	problem: {
+		title: "Why Most Business Websites Fail to Convert",
+		titleHighlight: "They lose visitors before the page is read",
+		items: [
+			{
+				title: "Negative first impressions",
+				body:
+					"A cluttered layout, inconsistent visual hierarchy, and stock imagery all communicate that the business is not exceptional before the visitor has any chance to read the copy.",
+			},
+			{
+				title: "Mobile-first failure",
+				body:
+					"Websites built desktop-first and adapted for mobile produce cramped navigation, unreadable text, and slow loading experiences that turn away the majority of visitors.",
+			},
+			{
+				title: "Poor conversion architecture",
+				body:
+					"When the journey from interest to enquiry is unclear, visitors abandon the page instead of taking the next step. Design must be built around the desired action, not the information the business wants to share.",
+			},
+		],
+		afterTitle: "What strong web design actually delivers",
+		afterHighlight: "attention, trust, and action",
+		afterItems: [
+			{
+				title: "First-impression credibility",
+				body:
+					"Design that earns attention in the first 50 milliseconds gives the site the chance to convert instead of being dismissed immediately.",
+			},
+			{
+				title: "Mobile-ready performance",
+				body:
+					"Responsive experience, accessible navigation, and fast load times keep mobile visitors engaged and moving toward enquiry.",
+			},
+			{
+				title: "Conversion-first structure",
+				body:
+					"Every page is designed with a clear conversion pathway, visible primary CTA, and trust signals placed where visitors need them most.",
+			},
+		],
+	},
+	process: {
+		title: "Our Web Design Process From Brief to Launched",
+		timeline: [
+			{
+				month: "Weeks 1-2",
+				title: "Discovery and strategy",
+				body:
+					"Understand the business, audience, competitive landscape, conversion objectives, and existing website performance.",
+			},
+			{
+				month: "Weeks 2-3",
+				title: "Wireframing and UX design",
+				body:
+					"Create structural layouts for key page types to establish information hierarchy and conversion architecture before visual design begins.",
+			},
+			{
+				month: "Weeks 3-5",
+				title: "Visual design",
+				body:
+					"Apply the visual system colour, typography, imagery, and interaction design to the wireframes and confirm the creative direction for the site.",
+			},
+			{
+				month: "Weeks 5-9",
+				title: "Development and build",
+				body:
+					"Develop the site in the chosen platform with responsive implementation, performance optimization, SEO technical setup, analytics, and required integrations.",
+			},
+			{
+				month: "Weeks 9-10",
+				title: "Testing and launch",
+				body:
+					"Complete cross-device testing, performance testing, user acceptance, and launch with redirects and Google Search Console verification.",
+			},
+			{
+				month: "Weeks 11-12",
+				title: "Post-launch monitoring",
+				body:
+					"Monitor performance, establish conversion baselines, resolve any issues, and verify indexation after launch.",
+			},
+		],
+	},
+	cases: [
+		{
+			tag: "B2B Professional Services",
+			metric: "220%",
+			sub: "enquiries growth",
+			title:
+				"A redesigned website grew enquiries from 18 to 58 per month from the same traffic, with mobile bounce rate falling from 68% to 31%.",
+			body:
+				"A management consulting firm move from a generic 2019 site to a mobile-first, conversion-focused redesign that increased average session duration from 1:12 to 3:47.",
+		},
+		{
+			tag: "E-Commerce Fashion",
+			metric: "217%",
+			sub: "conversion uplift",
+			title:
+				"A Shopify redesign increased conversion from 1.2% to 3.8%, generating $340,000 more revenue per month from the same traffic.",
+			body:
+				"The redesign eliminated technical debt, improved mobile performance, and created a purchase experience that was faster, clearer, and more trustworthy.",
+		},
+		{
+			tag: "Healthcare",
+			metric: "340%",
+			sub: "patient enquiries",
+			title:
+				"A unified website for a clinic group increased patient enquiries from 35 to 154 per month by consolidating locations and adding specialty landing pages.",
+			body:
+				"Local schema, appointment booking, and physician profile pages made the website the primary patient acquisition channel.",
+		},
+	],
+	why: [
+		{
+			h: "Conversion-first philosophy",
+			p:
+				"We design websites to convert visitors into enquiries, bookings, purchases, or applications. Every design decision is evaluated by its impact on conversion.",
+		},
+		{
+			h: "Full-stack in-house capability",
+			p:
+				"Strategy, UX, visual design, and development are integrated in one team, ensuring the SEO, brand, and build quality are preserved from concept to launch.",
+		},
+		{
+			h: "Performance-engineered development",
+			p:
+				"We build websites that achieve PageSpeed scores of 90+, Core Web Vitals compliance, and responsive cross-browser performance.",
+		},
+		{
+			h: "SEO-integrated from the start",
+			p:
+				"SEO architecture is implemented from wireframe stage to ensure URLs, headings, schema, and page structure support long-term search visibility.",
+		},
+	],
+	pricing: {
+		title: "Web design pricing what to expect",
+		tiers: [
+			{
+				name: "Small Business",
+				desc: "8-15 page websites with standard functionality and WordPress or Webflow implementation.",
+			},
+			{
+				name: "Corporate",
+				desc: "20-40 page corporate websites with multiple service areas, case study systems, and conversion architecture.",
+			},
+			{
+				name: "E-commerce",
+				desc: "Custom Shopify or WooCommerce storefronts with conversion-driven product and checkout design.",
+			},
+		],
+	},
+	faqs: [
+		{
+			q: "How much does a professional website design cost?",
+			a:
+				"Website design cost depends on complexity, page count, and platform. Small business sites typically cost $5,000 to $15,000; corporate sites typically cost $15,000 to $40,000; e-commerce sites typically cost $12,000 to $35,000; complex custom builds start at $40,000.",
+		},
+		{
+			q: "How long does it take to design and build a website?",
+			a:
+				"Small business websites typically take 6-10 weeks. Comprehensive corporate sites typically take 10-16 weeks. Custom e-commerce sites typically take 8-14 weeks. Complex enterprise projects typically take 16-24 weeks.",
+		},
+		{
+			q: "What platform do you recommend WordPress, Shopify, Webflow, or custom?",
+			a:
+				"The right platform depends on the requirements. WordPress is best for most business and corporate websites, Shopify is ideal for e-commerce, Webflow is suited to design-forward marketing sites, and custom development is chosen for requirements no platform adequately supports.",
+		},
+		{
+			q: "Do you handle content writing as well as design?",
+			a:
+				"Yes we can manage content production, optimize existing content for SEO and conversion, and coordinate photography and video where needed.",
+		},
+		{
+			q: "What does mobile-first design mean in practice?",
+			a:
+				"Mobile-first design means designing for small screens first, with touch-friendly navigation, readable typography, optimized imagery, and layouts that prioritize the most important information within the first screen height.",
+		},
+		{
+			q: "How do you approach website redesigns without losing existing SEO rankings?",
+			a:
+				"We audit existing URLs, implement comprehensive 301 redirects, preserve keyword targeting, and monitor Google Search Console closely for the first 60 days after launch.",
+		},
+		{
+			q: "Do you provide ongoing website maintenance and support?",
+			a:
+				"Yes we offer monthly maintenance packages for updates, security, performance, uptime monitoring, analytics reporting, and content changes, plus optional CRO retainers for continuous conversion improvement.",
+		},
+		{
+			q: "Can you redesign my website without disrupting the existing site while we build?",
+			a:
+				"Yes we build the new website in a separate development or staging environment and launch it with a DNS cutover so visitors see no disruption until the new site goes live.",
+		},
+		{
+			q: "How do I get started?",
+			a:
+				"Book a free website audit. We review your current design, performance, mobile experience, and conversion architecture and provide a prioritized improvement plan.",
+		},
+	],
+	cta: {
+		title: "Ready for a Website That Wins Customers Before You Say a Word?",
+		description:
+			"Your website makes a judgment about your business in 50 milliseconds. For most competitors, that judgment is average. We design websites that communicate quality, expertise, and customer understanding before a word is read.",
+		contactLink: "/contact-us/",
+		whatsappLink: "https://wa.me/",
+	},
+	footer: {
+		company: "Clickmasters Digital Marketing | clickmastersdigitalmarketing.com",
+		email: "marketing@clickmastersdigitalmarketing.com",
+		regions: "USA · UK · UAE · Pakistan · Canada · Australia",
+		author: "Amjad Khan CEO, Clickmasters Digital Marketing | Web design specialist | 10+ years",
 	},
 };
