@@ -11,7 +11,7 @@ export const OnlineReputationManagementContent = {
     cpc: "$38.80",
     formula: "PASTOR",
     wordCount: "~5,200 words",
-    internalLinks: "/seo-services-usa/, /content-marketing-services/, /contact-us/",
+    internalLinks: "/search-engine-optimization/seo-services-usa, /content-marketing, /contact-us/",
   },
   hero: {
     tag: "[ Service ] Online Reputation Management",

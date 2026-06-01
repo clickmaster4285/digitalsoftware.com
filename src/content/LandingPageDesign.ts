@@ -1,7 +1,7 @@
 export const LandingPageDesignContent = {
-  slug: "landing-page-design-services",
+  slug: "landing-page-design",
   metadata: {
-    url: "/landing-page-design-services/",
+    url: "/web-design-development/landing-page-design/",
     keyword: "landing page design services",
     volume: "9,900/mo",
     cpc: "$34.80",

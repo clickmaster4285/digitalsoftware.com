@@ -10,7 +10,7 @@ export const LocalSeoContent = {
     volume: "22,200/mo",
     secondaryKeywords: "local seo agency, local seo company, google maps seo, local search optimization 2026",
     wordCount: "~5,418 words",
-    internalLinks: "/google-business-profile-optimization/, /citation-building-services/, /on-page-seo-services/, /contact-us/",
+    internalLinks: "/search-engine-optimization/google-business-profile-optimization, /content-marketing/citation-building, /search-engine-optimization/on-page-seo, /contact-us/",
   },
   hero: {
     tag: "[ Service ] Local SEO",

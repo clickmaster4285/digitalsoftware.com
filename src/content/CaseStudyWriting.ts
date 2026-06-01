@@ -1,7 +1,7 @@
 export const CaseStudyWritingContent = {
-  slug: "case-study-writing-services",
+  slug: "case-study-writing",
   metadata: {
-    url: "/case-study-writing-services/",
+    url: "/content-marketing/case-study-writing/",
     keyword: "case study writing service",
     volume: "2,900/mo",
     cpc: "$27.60",

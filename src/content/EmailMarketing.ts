@@ -11,7 +11,7 @@ export const EmailMarketingServicesContent = {
     secondaryKeywords: "email marketing agency, email automation services, klaviyo agency, email campaign management 2026",
     formula: "PASTOR",
     wordCount: "~5,100 words",
-    internalLinks: "/content-marketing-services/, /social-media-marketing-services/, /contact-us/",
+    internalLinks: "/content-marketing, /social-media-marketing, /contact-us/",
   },
   hero: {
     tag: "[ Service ] Email Marketing",

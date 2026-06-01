@@ -1,7 +1,7 @@
 export const EcommerceDevContent = {
-  slug: "ecommerce-development-services",
+  slug: "ecommerce-development",
   metadata: {
-    url: "https://clickmastersdigitalmarketing.com/ecommerce-development-services/",
+    url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-development/",
     seoTitle: "E-Commerce Development Services — Build Online Stores That Sell | Clickmasters",
     metaDescription: "Expert e-commerce development for Shopify, WooCommerce & custom platforms. High-converting product pages, checkout optimization & systems integration. Free consultation today.",
     schema: "Service + FAQPage + Organization + BreadcrumbList",
@@ -9,7 +9,7 @@ export const EcommerceDevContent = {
     primaryKeyword: "ecommerce development services (9,900/mo)",
     secondaryKeywords: "shopify development agency, woocommerce development services, custom ecommerce development, ecommerce website development company 2026",
     wordCount: "~5,100 words",
-    internalLinks: ["/web-design-services/", "/website-development-services/", "/ecommerce-seo-services/", "/email-marketing-services/", "/contact-us/"],
+    internalLinks: ["/web-design-development/web-design", "/web-design-development/web-development", "/search-engine-optimization/ecommerce-seo", "/content-marketing/email-marketing", "/contact-us/"],
     ctaButtons: [
       { text: "[Get Your Free E-Commerce Consultation →]", url: "/contact-us/" },
       { text: "[Talk to an E-Commerce Developer →]", url: "WhatsApp" }

@@ -1,9 +1,9 @@
 // src/content/CitationBuildingServices.ts
 
 export const CitationBuildingServicesContent = {
-  slug: "citation-building-services",
+  slug: "citation-building",
   metadata: {
-    url: "/citation-building-services/",
+    url: "/content-marketing/citation-building/",
     keyword: "citation building services",
     volume: "5,400/mo",
     cpc: "$22.40",
@@ -286,7 +286,7 @@ export const CitationBuildingServicesContent = {
       "The citation inconsistencies suppressing your local search visibility are fixable. The citation coverage gaps leaving you absent from searches your competitors appear in are buildable. The Local Pack positions your business should occupy are achievable.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
-    seoLink: "https://clickmastersdigitalmarketing.com/local-seo-services/",
+    seoLink: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",

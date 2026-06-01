@@ -1,7 +1,7 @@
 export const EcommerceSeoContent = {
-  slug: "ecommerce-seo-services",
+  slug: "ecommerce-seo",
   metadata: {
-    url: "/ecommerce-seo-services/",
+    url: "/search-engine-optimization/ecommerce-seo/",
     keyword: "ecommerce seo services",
     volume: "8,100/mo",
     cpc: "N/A",

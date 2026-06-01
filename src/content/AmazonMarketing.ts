@@ -1,7 +1,7 @@
 export const AmazonMarketingServicesContent = {
-  slug: "amazon-marketing-services",
+  slug: "amazon-marketing",
   metadata: {
-    url: "https://clickmastersdigitalmarketing.com/amazon-marketing-services/",
+    url: "https://clickmastersdigitalmarketing.com/ecommerce-services/amazon-marketing/",
     seoTitle: "Amazon Marketing Agency — Rank Higher. Convert Better. Sell More on Amazon. | Clickmasters",
     metaDescription: "Expert Amazon marketing agency for FBA sellers. Listing optimisation, Amazon SEO, Sponsored Ads management, A+ Content & Vine reviews. Free Amazon account audit.",
     schema: "Service + FAQPage + Organization + BreadcrumbList",
@@ -11,7 +11,7 @@ export const AmazonMarketingServicesContent = {
     cpc: "$44.60",
     formula: "PAS",
     wordCount: "~5,200 words",
-    internalLinks: "/ecommerce-marketing-services/, /email-marketing-services/, /contact-us/",
+    internalLinks: "/ecommerce-services/ecommerce-marketing, /content-marketing/email-marketing, /contact-us/",
   },
   hero: {
     tag: "[ Agency ] Amazon Marketing",
