@@ -272,7 +272,7 @@ export const LinkedInAdsContent = {
       "For B2B businesses selling to specific professional roles at specific company types, LinkedIn Ads is the only advertising platform that puts your message directly in front of the right decision-makers — with targeting accuracy that no other platform can match. The difference between LinkedIn Ads that drain budget and LinkedIn Ads that generate pipeline comes down to three things: the right offer, the right audience architecture, and the right attribution framework.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
-    ppcLink: "https://clickmastersdigitalmarketing.com/ppc-management-services/",
+    ppcLink: "https://clickmastersdigitalmarketing.com/pay-per-click/ppc-management/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",

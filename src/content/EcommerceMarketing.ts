@@ -1,7 +1,7 @@
 export const EcommerceMarketingServicesContent = {
-  slug: "ecommerce-marketing-services",
+  slug: "ecommerce-marketing",
   metadata: {
-    url: "https://clickmastersdigitalmarketing.com/ecommerce-marketing-services/",
+    url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-marketing/",
     seoTitle: "E-Commerce Marketing Services — Turn Traffic Into Revenue That Grows | Clickmasters",
     metaDescription: "Expert e-commerce marketing services for DTC brands. Paid acquisition (Google Shopping, Meta), email & SMS (Klaviyo), SEO, CRO, and marketplace optimisation. Free e-commerce audit.",
     schema: "Service + FAQPage + Organization + BreadcrumbList",
@@ -11,10 +11,10 @@ export const EcommerceMarketingServicesContent = {
     cpc: "$38.40",
     formula: "AIDA",
     wordCount: "~5,100 words",
-    internalLinks: "/email-marketing-services/, /seo-services-usa/, /ppc-management-services/, /contact-us/",
+    internalLinks: "/content-marketing/email-marketing, /search-engine-optimization/seo-services-usa, /pay-per-click/ppc-management, /contact-us/",
   },
   hero: {
-    tag: "[ Service ] E-Commerce Marketing",
+    tag: "E-Commerce Marketing",
     title: "E-Commerce Marketing Services",
     titleHighlight: "— Turn Traffic Into Revenue That Grows Month After Month",
     subtitle: "",

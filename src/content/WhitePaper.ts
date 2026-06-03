@@ -14,7 +14,7 @@ export const WhitePaperWritingServicesContent = {
     internalLinks: "/content-marketing-services/, /case-studies/, /contact-us/",
   },
   hero: {
-    tag: "[ Service ] White Paper Writing",
+    tag: "White Paper Writing",
     title: "White Paper Writing Services",
     titleHighlight: "— Establish Authority, Generate Leads, Win Complex Deals",
     subtitle: "",

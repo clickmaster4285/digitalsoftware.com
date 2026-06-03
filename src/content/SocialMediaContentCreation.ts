@@ -10,10 +10,10 @@ export const SocialMediaContentCreationContent = {
     volume: "8,100/mo",
     secondaryKeywords: "social media content creation services, social media content agency, social content creation service, social media graphics design 2026",
     wordCount: "~5,050 words",
-    internalLinks: "/social-media-marketing-services/, /content-marketing-services/, /video-marketing-services/, /facebook-instagram-ads/, /contact-us/",
+    internalLinks: "/social-media-marketing, /content-marketing, /content-marketing/video-marketing, /pay-per-click/facebook-instagram-ads, /contact-us/",
   },
   hero: {
-    tag: "[ Service ] Content Creation",
+    tag: "Content Creation",
     title: "Social Media Content Creation Services",
     titleHighlight: "— Content That Earns Attention and Builds Brands",
     subtitle: "",

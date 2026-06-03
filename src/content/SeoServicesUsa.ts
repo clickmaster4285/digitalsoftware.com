@@ -193,7 +193,7 @@ export const SeoServicesUsaContent = {
       "The US businesses generating the most consistent, lowest-cost inbound leads are not the ones spending the most on paid search — they are the ones that built the organic authority to rank on page 1 for the commercial queries their best clients use. That authority is buildable. It takes time, quality, and consistency. But once established, it generates qualified leads continuously, at a marginal cost that paid channels cannot approach. We build it.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
-    seoLink: "https://clickmastersdigitalmarketing.com/seo-services/",
+    seoLink: "https://clickmastersdigitalmarketing.com/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",
