@@ -105,6 +105,7 @@
 @layer base {
   * { @apply border-border; }
   html {
+    position: relative;
     scroll-behavior: smooth;
     max-width: 100%;
     overflow-x: hidden;

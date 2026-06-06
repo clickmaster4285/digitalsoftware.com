@@ -138,6 +138,14 @@ export const NewsletterContent = {
     privacyNote: "We do not sell subscriber data. We do not share our subscriber list with third parties. We do not use the subscriber list for anything other than delivering the newsletter. To unsubscribe, click the unsubscribe link in any issue. We process all unsubscribe requests immediately.",
     subscribeLink: "#subscribe",
   },
+  // ADD THIS cta OBJECT - FIX FOR THE ERROR
+  cta: {
+    title: "Subscribe Free. Stay Current. No Noise.",
+    description: "Join 8,000+ digital marketing professionals and business owners who read The Clickmasters Newsletter every week. Written from active programmes, not press releases. Delivered weekly. Free forever.",
+    contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
+    whatsappLink: "https://wa.me/",
+    softwareLink: "https://clickmastersdigitalmarketing.com/blog/",
+  },
   footer: {
     company: "Clickmasters Digital Marketing",
     url: "https://clickmastersdigitalmarketing.com",

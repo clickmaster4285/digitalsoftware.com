@@ -92,6 +92,9 @@ import { IosAppDevelopmentContent } from "@/content/IosAppDevelopmentContent";
 import { AndroidAppDevelopmentContent } from "@/content/AndroidAppDevelopmentContent";
 import { ReactNativeDevelopmentContent } from "@/content/ReactNativeDevelopmentContent";
 import { FlutterAppDevelopmentContent } from "@/content/FlutterAppDevelopmentContent";
+import { BrandingIdentityContent } from "@/content/BrandingIdentityContent";
+import { RoiCalculatorContent } from "@/content/RoiCalculatorContent";
+import { VideoMarketingContent } from "@/content/VideoMarketingContent";
 
 const routedPageRegistry: Record<string, any> = {
 
@@ -191,7 +194,10 @@ const contentRegistry: Record<string, any> = {
   "flutter-app-development": FlutterAppDevelopmentContent,
 
   "cro-services": ConversionRateOptimizationContent,
+  "branding-identity": BrandingIdentityContent,
+  "roi-calculator": RoiCalculatorContent,
 
+  "video-marketing":VideoMarketingContent,
 };
 
 // 404 content for unknown slugs

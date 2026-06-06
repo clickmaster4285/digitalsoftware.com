@@ -88,7 +88,7 @@ export default function Home() {
     >
       
       <RoamingRobot />
-      <main>
+      <main className="relative">
         <section ref={(el) => { sections.current[0] = el; }}><Hero /></section>
         <section ref={(el) => { sections.current[1] = el; }}><Marquee /><Services /></section>
         <section ref={(el) => { sections.current[2] = el; }}><Solutions /></section>
