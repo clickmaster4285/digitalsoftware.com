@@ -89,7 +89,7 @@ const ProjectCard = ({ p, i }: { p: (typeof projects)[0]; i: number }) => {
   const offset = i % 2 === 0 ? "md:mt-0" : "md:mt-32";
 
   return (
-    <div ref={ref} className={`${offset}`}>
+    <div ref={ref} className={`relative ${offset}`}>
       <motion.div
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
