@@ -44,9 +44,13 @@ const getServiceHref = (groupTitle: string, serviceHref?: string) => {
     return serviceHref ?? "#services";
   }
 
+  // Full paths (e.g. /search-engine-optimization/on-page-seo) are already correct
+  if (serviceHref.startsWith("/")) {
+    return serviceHref;
+  }
+
   const slug = serviceHref.replace(/^\/+|\/+$/g, "");
 
-  // Special handling for "&"
   const groupSlug = groupTitle.includes("&")
     ? groupTitle
         .toLowerCase()
@@ -89,12 +93,12 @@ const groups: { title: string; href?: string; items: Service[] }[] = [
       icon: MapPin,
       href: "/search-engine-optimization/local-seo",
     },
-    {
-      name: "Social Media SEO",
-      desc: "Boost social visibility",
-      icon: Share2,
-      href: "/search-engine-optimization/social-media-seo",
-    },
+    // {
+    //   name: "Social Media SEO",
+    //   desc: "Boost social visibility",
+    //   icon: Share2,
+    //   href: "/search-engine-optimization/social-media-seo",
+    // },
     {
       name: "Enterprise SEO",
       desc: "SEO for large websites",
@@ -107,30 +111,30 @@ const groups: { title: string; href?: string; items: Service[] }[] = [
       icon: ShoppingCart,
       href: "/search-engine-optimization/ecommerce-seo",
     },
-    {
-      name: "Semantic SEO",
-      desc: "Topic-focused optimization",
-      icon: Brain,
-      href: "/search-engine-optimization/semantic-seo",
-    },
-    {
-      name: "Multilingual SEO",
-      desc: "Reach multiple languages",
-      icon: Languages,
-      href: "/search-engine-optimization/multilingual-seo",
-    },
-    {
-      name: "International SEO",
-      desc: "Global search visibility",
-      icon: Globe,
-      href: "/search-engine-optimization/international-seo",
-    },
-    {
-      name: "Programmatic SEO",
-      desc: "Scale organic growth",
-      icon: Workflow,
-      href: "/search-engine-optimization/programmatic-seo",
-    },
+    // {
+    //   name: "Semantic SEO",
+    //   desc: "Topic-focused optimization",
+    //   icon: Brain,
+    //   href: "/search-engine-optimization/semantic-seo",
+    // },
+    // {
+    //   name: "Multilingual SEO",
+    //   desc: "Reach multiple languages",
+    //   icon: Languages,
+    //   href: "/search-engine-optimization/multilingual-seo",
+    // },
+    // {
+    //   name: "International SEO",
+    //   desc: "Global search visibility",
+    //   icon: Globe,
+    //   href: "/search-engine-optimization/international-seo",
+    // },
+    // {
+    //   name: "Programmatic SEO",
+    //   desc: "Scale organic growth",
+    //   icon: Workflow,
+    //   href: "/search-engine-optimization/programmatic-seo",
+    // },
     {
       name: "AI SEO",
       desc: "AI-powered optimization",
@@ -143,18 +147,18 @@ const groups: { title: string; href?: string; items: Service[] }[] = [
       icon: Youtube,
       href: "/search-engine-optimization/youtube-seo",
     },
-    {
-      name: "GEO",
-      desc: "Generative Engine Optimization",
-      icon: Sparkles,
-      href: "/search-engine-optimization/geo",
-    },
-    {
-      name: "App Store Optimization",
-      desc: "Improve app visibility",
-      icon: Smartphone,
-      href: "/search-engine-optimization/app-store-optimization-aso",
-    },
+    // {
+    //   name: "GEO",
+    //   desc: "Generative Engine Optimization",
+    //   icon: Sparkles,
+    //   href: "/search-engine-optimization/geo",
+    // },
+    // {
+    //   name: "App Store Optimization",
+    //   desc: "Improve app visibility",
+    //   icon: Smartphone,
+    //   href: "/search-engine-optimization/app-store-optimization-aso",
+    // },
     {
       name: "SEO Audit",
       desc: "Comprehensive SEO analysis",
@@ -167,12 +171,12 @@ const groups: { title: string; href?: string; items: Service[] }[] = [
       icon: Cpu,
       href: "/search-engine-optimization/seo-automation",
     },
-    {
-      name: "Google Business Profile Optimization",
-      desc: "Enhance local presence",
-      icon: MapPinned,
-      href: "/search-engine-optimization/google-business-profile-optimization",
-    },
+    // {
+    //   name: "Google Business Profile Optimization",
+    //   desc: "Enhance local presence",
+    //   icon: MapPinned,
+    //   href: "/search-engine-optimization/google-business-profile-optimization",
+    // },
     {
       name: "Keyword Research",
       desc: "Find profitable keywords",

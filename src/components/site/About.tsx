@@ -19,7 +19,7 @@ export const About = () => (
       </div>
       <div className="md:col-span-5 space-y-6 text-lg text-muted-foreground md:pt-6">
         <p>The world has moved online and so have your customers.</p>
-        <p>Today, over 5.4 billion people use the internet daily. Your competitors are already reaching them. Digital marketing spending in the U.S. alone has crossed $298 billion, with businesses investing nearly half of their entire marketing budget into digital channels. Mobile, social media, and AI-powered campaigns are leading this shift — and the gap between businesses that adapt and those that don't is growing every single day.</p>
+        <p>Today, over 5.4 billion people use the internet daily. Your competitors are already reaching them. Digital marketing spending in the U.S. alone has crossed $298 billion, with businesses investing nearly half of their entire marketing budget into digital channels. Mobile, social media, and AI-powered campaigns are leading this shift and the gap between businesses that adapt and those that don't is growing every single day.</p>
       </div>
     </div>
     <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-24 pt-12 border-t border-border">
@@ -49,7 +49,7 @@ export const About = () => (
       
         <div className="relative max-w-3xl mx-auto">
           <p className="text-xs uppercase tracking-[0.3em] text-muted-foreground mb-4">
-            — Free Consultation
+            Free Consultation
           </p>
       
           <h3 className="font-display text-4xl md:text-6xl leading-[1.05] mb-6 text-balance">

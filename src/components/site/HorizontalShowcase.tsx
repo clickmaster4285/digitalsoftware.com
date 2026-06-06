@@ -16,7 +16,7 @@ const PANELS = [
     n: "02",
     tag: "AI",
     title: "AI features, shipped.",
-    body: "Streaming chat, vector search, agents, RAG pipelines — production-grade from day one.",
+    body: "Streaming chat, vector search, agents, RAG pipelines production-grade from day one.",
     color: "#7c5cff",
   },
   {
@@ -142,7 +142,7 @@ export const HorizontalShowcase = () => {
         {/* bottom progress bar */}
         <div className="container pb-8 md:pb-10">
           <div className="flex items-center justify-between text-[10px] uppercase tracking-[0.4em] opacity-60 mb-3">
-            <span>01 — 04</span>
+            <span>01 04</span>
             <span>scroll progress</span>
           </div>
           <div className="h-[2px] w-full bg-black/10 overflow-hidden">

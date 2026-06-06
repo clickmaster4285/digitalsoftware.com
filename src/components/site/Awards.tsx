@@ -8,7 +8,7 @@ const awards = [
     bg: "#E5B83B",
     logo: "📊",
     title: "Data-Driven & Custom-Built Strategies",
-    org: "We don't guess — we analyze. Every strategy is built on real data, deep market research, and performance insights. And because no two businesses are alike, we never use cookie-cutter templates. Whether you're a local startup or a national brand, every plan is fully customized around your unique goals, industry, and audience.",
+    org: "We don't guess we analyze. Every strategy is built on real data, deep market research, and performance insights. And because no two businesses are alike, we never use cookie-cutter templates. Whether you're a local startup or a national brand, every plan is fully customized around your unique goals, industry, and audience.",
     pattern: "stars",
     
   },
@@ -16,7 +16,7 @@ const awards = [
     bg: "#6C3DF4",
     logo: "👨‍💻",
     title: "A Team of Real Experts, Delivering Full-Service Marketing",
-    org: "Behind every campaign is a dedicated team of SEO specialists, paid ads experts, content creators, designers, and developers — not interns. From SEO and PPC to web development, social media, AI automation, and ecommerce, we handle everything under one roof. One team. Every service. Zero juggling.",
+    org: "Behind every campaign is a dedicated team of SEO specialists, paid ads experts, content creators, designers, and developers not interns. From SEO and PPC to web development, social media, AI automation, and ecommerce, we handle everything under one roof. One team. Every service. Zero juggling.",
     pattern: "dots",
    
   },
@@ -24,7 +24,7 @@ const awards = [
     bg: "#3DDFB7",
     logo: "📈",
     title: "Measurable Results with Full Transparency",
-    org: "We are obsessed with results. Every campaign is tracked, measured, and optimized in real time through clear dashboards and honest reporting. And our pricing is just as transparent — no hidden fees, no surprise charges, no confusing contracts. Just real growth you can see and costs you can trust.",
+    org: "We are obsessed with results. Every campaign is tracked, measured, and optimized in real time through clear dashboards and honest reporting. And our pricing is just as transparent no hidden fees, no surprise charges, no confusing contracts. Just real growth you can see and costs you can trust.",
     pattern: "grid",
     dark: true,
   },
@@ -32,7 +32,7 @@ const awards = [
     bg: "#FF6B6B",
     logo: "🌍",
     title: "Proven Across Industries, Always Evolving",
-    org: "From healthcare and real estate to fashion, fitness, and fintech — we've helped businesses across dozens of industries grow online. We bring proven playbooks to every project, while staying ahead of algorithm updates, platform shifts, and industry trends so your business always leads the competition.",
+    org: "From healthcare and real estate to fashion, fitness, and fintech we've helped businesses across dozens of industries grow online. We bring proven playbooks to every project, while staying ahead of algorithm updates, platform shifts, and industry trends so your business always leads the competition.",
     pattern: "stars",
     dark: true,
   },
@@ -40,7 +40,7 @@ const awards = [
     bg: "#111827",
     logo: "🤝",
     title: "We Treat Your Business Like Our Own",
-    org: "We go beyond being a vendor — we become your true growth partner. We listen, we adapt, and we stay committed to your success because your growth is our growth. Every decision we make is driven by what's best for your bottom line.",
+    org: "We go beyond being a vendor we become your true growth partner. We listen, we adapt, and we stay committed to your success because your growth is our growth. Every decision we make is driven by what's best for your bottom line.",
     pattern: "dots",
 
     
@@ -49,7 +49,7 @@ const awards = [
     bg: "#FFFFFF",
     logo: "📞",
     title: "Dedicated Support, Every Step of the Way",
-    org: "You're never left in the dark at Clickmasters. A dedicated account manager and responsive support team are always available to answer questions, address concerns, and keep you fully informed — so you always feel confident, supported, and in control.",
+    org: "You're never left in the dark at Clickmasters. A dedicated account manager and responsive support team are always available to answer questions, address concerns, and keep you fully informed so you always feel confident, supported, and in control.",
     pattern: "grid",
       dark: true,
    

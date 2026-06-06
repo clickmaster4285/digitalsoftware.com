@@ -14,7 +14,7 @@ export const ContentMarketingContent = {
     titleHighlight: "Services",
     subtitle: "— content that ranks, converts, and compounds.",
     description:
-      "Content marketing is one of the most frequently misunderstood investments in digital marketing. Businesses invest in content — blog posts, case studies, videos, guides — and when the leads do not arrive immediately, they conclude that content marketing does not work. They stop publishing, the content sits on the website unread, and they return to paying for paid advertising that requires constant reinvestment to maintain results. They stopped too early. And they measured it wrong.",
+      "Content marketing is one of the most frequently misunderstood investments in digital marketing. Businesses invest in content blog posts, case studies, videos, guides and when the leads do not arrive immediately, they conclude that content marketing does not work. They stop publishing, the content sits on the website unread, and they return to paying for paid advertising that requires constant reinvestment to maintain results. They stopped too early. And they measured it wrong.",
     stats: [
       { k: "14x", v: "Organic traffic growth" },
       { k: "$680K", v: "Revenue from content" },
@@ -26,12 +26,12 @@ export const ContentMarketingContent = {
     problem: [
       { text: "Content marketing is not a direct response channel. It is a ", type: "normal" },
       { text: "compounding asset channel", type: "highlight" },
-      { text: ". Every piece of strategically planned, well-executed content published on your website is a permanent asset — indexable by Google, shareable across the web, rankable for search queries your prospective customers are typing right now, and capable of generating leads, traffic, and brand awareness every day for years with no additional investment beyond the initial production cost.", type: "normal" }
+      { text: ". Every piece of strategically planned, well-executed content published on your website is a permanent asset indexable by Google, shareable across the web, rankable for search queries your prospective customers are typing right now, and capable of generating leads, traffic, and brand awareness every day for years with no additional investment beyond the initial production cost.", type: "normal" }
     ],
     solution:
       "The businesses that committed to content marketing three years ago are now benefiting from compounded search authority that their competitors cannot buy and cannot replicate quickly. They are ranking for hundreds of commercial keywords their competitors pay for in Google Ads. They are receiving thousands of monthly organic visitors who arrive pre-educated, pre-qualified, and ready to evaluate their services.",
     promise:
-      "At Clickmasters Digital Marketing, our content marketing team produces strategy-first, SEO-integrated, conversion-optimized content for businesses across the USA, UK, UAE, and Pakistan. We plan content based on commercial keyword opportunity and audience intent. We produce content that demonstrates genuine expertise — not AI-generated word padding that satisfies no one. And we build content architectures — pillar pages, content clusters, topic authority frameworks — that compound in search authority over time.",
+      "At Clickmasters Digital Marketing, our content marketing team produces strategy-first, SEO-integrated, conversion-optimized content for businesses across the USA, UK, UAE, and Pakistan. We plan content based on commercial keyword opportunity and audience intent. We produce content that demonstrates genuine expertise not AI-generated word padding that satisfies no one. And we build content architectures pillar pages, content clusters, topic authority frameworks that compound in search authority over time.",
   },
   problem: {
     title: "What Separates Content That Ranks",
@@ -40,7 +40,7 @@ export const ContentMarketingContent = {
       {
         icon: "TrendingUp",
         title: "The Compounding Asset Argument",
-        body: "A paid advertising campaign generates traffic for exactly as long as you pay for it. A well-ranked piece of content generates traffic indefinitely — without ongoing payment per click, without bidding against competitors. The economics of content marketing improve continuously over time as content earns more backlinks, engagement data, and higher rankings.",
+        body: "A paid advertising campaign generates traffic for exactly as long as you pay for it. A well-ranked piece of content generates traffic indefinitely without ongoing payment per click, without bidding against competitors. The economics of content marketing improve continuously over time as content earns more backlinks, engagement data, and higher rankings.",
       },
       {
         icon: "Award",
@@ -50,7 +50,7 @@ export const ContentMarketingContent = {
       {
         icon: "Map",
         title: "The Strategy-First Principle",
-        body: "Effective content marketing begins with strategy — not with writing. Every piece of content we create is backed by keyword research, competitive analysis, intent mapping, and a clearly defined conversion pathway from organic reader to engaged prospect. We do not produce content without a strategy.",
+        body: "Effective content marketing begins with strategy not with writing. Every piece of content we create is backed by keyword research, competitive analysis, intent mapping, and a clearly defined conversion pathway from organic reader to engaged prospect. We do not produce content without a strategy.",
       },
     ],
     afterTitle: "The Clickmasters Content",
@@ -69,7 +69,7 @@ export const ContentMarketingContent = {
       {
         icon: "Calendar",
         title: "Content Calendar Development",
-        body: "We build a 90-day content calendar — a prioritized publication schedule sequencing content by topical authority building logic, competitive urgency, and conversion priority.",
+        body: "We build a 90-day content calendar a prioritized publication schedule sequencing content by topical authority building logic, competitive urgency, and conversion priority.",
       },
     ],
   },
@@ -80,7 +80,7 @@ export const ContentMarketingContent = {
       tag: "Strategy",
       title: "Content Strategy Development",
       intro:
-        "Effective content marketing begins with strategy — keyword research, topical authority mapping, audience intent analysis, and a prioritized publication plan.",
+        "Effective content marketing begins with strategy keyword research, topical authority mapping, audience intent analysis, and a prioritized publication plan.",
       blocks: [
         {
           h: "Keyword and Opportunity Research",
@@ -96,7 +96,7 @@ export const ContentMarketingContent = {
       n: "02",
       icon: "FileText",
       tag: "Blog",
-      title: "SEO Blog Content — The Authority-Building Engine",
+      title: "SEO Blog Content The Authority-Building Engine",
       intro:
         "We produce long-form blog content (1,500-4,000 words) that demonstrates genuine expertise, provides original insight, and covers topics more comprehensively than current top-ranking competitors.",
       blocks: [
@@ -106,7 +106,7 @@ export const ContentMarketingContent = {
         },
         {
           h: "Content Refreshes and Updates",
-          p: "We identify existing content that ranks but underperforms — articles on page two or three for valuable keywords, pages with declining traffic after algorithm updates, and high-traffic pages with low conversion rates.",
+          p: "We identify existing content that ranks but underperforms articles on page two or three for valuable keywords, pages with declining traffic after algorithm updates, and high-traffic pages with low conversion rates.",
         },
       ],
     },
@@ -124,7 +124,7 @@ export const ContentMarketingContent = {
         },
         {
           h: "Content Cluster Development",
-          p: "Cluster articles are highly specific in scope and extensively internally linked to and from the pillar page — the mechanism by which topical authority signals flow and domain authority on the topic builds.",
+          p: "Cluster articles are highly specific in scope and extensively internally linked to and from the pillar page the mechanism by which topical authority signals flow and domain authority on the topic builds.",
         },
       ],
     },
@@ -134,7 +134,7 @@ export const ContentMarketingContent = {
       tag: "Case Studies",
       title: "Case Studies and Client Success Content",
       intro:
-        "Case studies are the highest-conversion content format in B2B and professional services — the content prospective customers read in the final evaluation stage.",
+        "Case studies are the highest-conversion content format in B2B and professional services the content prospective customers read in the final evaluation stage.",
       blocks: [
         {
           h: "Case Study Development Process",
@@ -152,7 +152,7 @@ export const ContentMarketingContent = {
       tag: "Lead Magnets",
       title: "Lead Magnets and Gated Content",
       intro:
-        "Lead magnets convert organic visitors from anonymous readers into identified prospects — research reports, definitive guides, templates, tools, and webinars.",
+        "Lead magnets convert organic visitors from anonymous readers into identified prospects research reports, definitive guides, templates, tools, and webinars.",
       blocks: [
         {
           h: "Lead Magnet Types",
@@ -196,7 +196,7 @@ export const ContentMarketingContent = {
       metric: "$680K",
       sub: "new revenue · 0 → 3,800 visitors",
       title: "Professional services firm content generates $680K in attributable new revenue.",
-      body: "A management consulting firm was invisible in organic search — no content, no blog. Our program: 6 pillar pages, 24 in-depth blog articles per year, 4 original research reports per year, LinkedIn amplification. Result: Page one rankings for 68 search queries within 12 months, monthly visitors grew from 0 to 3,800, 12 inbound inquiries in first 12 months with 4 converting to engagements representing $680,000 in new revenue.",
+      body: "A management consulting firm was invisible in organic search no content, no blog. Our program: 6 pillar pages, 24 in-depth blog articles per year, 4 original research reports per year, LinkedIn amplification. Result: Page one rankings for 68 search queries within 12 months, monthly visitors grew from 0 to 3,800, 12 inbound inquiries in first 12 months with 4 converting to engagements representing $680,000 in new revenue.",
     },
     {
       tag: "E-commerce · Lifestyle Brand",
@@ -209,23 +209,23 @@ export const ContentMarketingContent = {
   why: [
     {
       icon: "Map",
-      h: "Strategy before production — always",
+      h: "Strategy before production always",
       p: "We do not produce content without a strategy. Every piece is backed by keyword research, competitive analysis, intent mapping, and a clearly defined conversion pathway. Content produced without strategy is content budget wasted.",
     },
     {
       icon: "Brain",
-      h: "Genuine expertise — not AI padding",
-      p: "Our content demonstrates genuine domain expertise through subject matter expert interviews, original research, specific client examples, and insights unavailable elsewhere. Every piece is substantially human-edited and reviewed for expertise signals — passing Google's Helpful Content test.",
+      h: "Genuine expertise not AI padding",
+      p: "Our content demonstrates genuine domain expertise through subject matter expert interviews, original research, specific client examples, and insights unavailable elsewhere. Every piece is substantially human-edited and reviewed for expertise signals passing Google's Helpful Content test.",
     },
     {
       icon: "Code",
       h: "Technical SEO integration",
-      p: "Our content is produced by writers and strategists who understand technical SEO — semantic keyword integration, proper internal link architecture, schema markup where applicable, and Core Web Vitals-compatible media optimization.",
+      p: "Our content is produced by writers and strategists who understand technical SEO semantic keyword integration, proper internal link architecture, schema markup where applicable, and Core Web Vitals-compatible media optimization.",
     },
     {
       icon: "LineChart",
-      h: "Conversion-focused — not traffic-focused",
-      p: "We measure content marketing success by leads and revenue attribution, not by traffic and page views. Every piece includes a conversion pathway — a clear next step that moves the organic visitor from reader to prospect.",
+      h: "Conversion-focused not traffic-focused",
+      p: "We measure content marketing success by leads and revenue attribution, not by traffic and page views. Every piece includes a conversion pathway a clear next step that moves the organic visitor from reader to prospect.",
     },
   ],
   faqs: [
@@ -239,7 +239,7 @@ export const ContentMarketingContent = {
     },
     {
       q: "Should we use AI to write our content?",
-      a: "AI tools can assist with research, outlining, and first-draft generation — but content must be edited, fact-checked, and enriched with genuine expertise to perform well. Google's Helpful Content system specifically evaluates whether content provides first-hand experience, original insight, and genuinely useful information — signals AI-only content fails to provide. We use AI where it improves efficiency, but every piece is substantially human-edited.",
+      a: "AI tools can assist with research, outlining, and first-draft generation but content must be edited, fact-checked, and enriched with genuine expertise to perform well. Google's Helpful Content system specifically evaluates whether content provides first-hand experience, original insight, and genuinely useful information signals AI-only content fails to provide. We use AI where it improves efficiency, but every piece is substantially human-edited.",
     },
     {
       q: "What is the difference between content marketing and SEO?",
@@ -251,15 +251,15 @@ export const ContentMarketingContent = {
     },
     {
       q: "Can content marketing work for local businesses?",
-      a: "Yes — local businesses benefit from local keyword targeting (ranking for '[service] in [city]' queries) and service education content (answers to specific local customer questions about pricing, process, qualifications). Local programs are smaller in scale but faster to produce results, as competitive thresholds for local keywords are significantly lower than national keywords.",
+      a: "Yes local businesses benefit from local keyword targeting (ranking for '[service] in [city]' queries) and service education content (answers to specific local customer questions about pricing, process, qualifications). Local programs are smaller in scale but faster to produce results, as competitive thresholds for local keywords are significantly lower than national keywords.",
     },
     {
       q: "Do you write content for regulated industries like healthcare, legal, and financial services?",
-      a: "Yes — we have specific compliance expertise. Healthcare content is HIPAA-compliant and reviewed against FDA guidelines. Legal content follows Bar advertising rules. Financial services content follows FINRA guidelines. Regulated industry content requires additional review workflows we build into our production process as standard.",
+      a: "Yes we have specific compliance expertise. Healthcare content is HIPAA-compliant and reviewed against FDA guidelines. Legal content follows Bar advertising rules. Financial services content follows FINRA guidelines. Regulated industry content requires additional review workflows we build into our production process as standard.",
     },
     {
       q: "Can you work with our existing in-house content team?",
-      a: "Yes — we offer content strategy and oversight services for businesses with in-house production capability. We also offer hybrid models where we produce specific high-priority content types (pillar pages, research reports, lead magnets) while in-house teams produce supporting content. We design the engagement model around your specific capability and need.",
+      a: "Yes we offer content strategy and oversight services for businesses with in-house production capability. We also offer hybrid models where we produce specific high-priority content types (pillar pages, research reports, lead magnets) while in-house teams produce supporting content. We design the engagement model around your specific capability and need.",
     },
     {
       q: "How do I get started?",
@@ -269,7 +269,7 @@ export const ContentMarketingContent = {
   cta: {
     title: "Ready to Build a Content Program That Compounds?",
     description:
-      "Every month you delay content marketing is another month your competitors are building the search authority, the audience trust, and the organic traffic pipeline that makes their cost of customer acquisition lower than yours — permanently. The businesses that started their content programs three years ago are not going to give back that advantage. But the businesses that start today will, three years from now, have the same compounding advantage. The best time to start was three years ago. The second-best time is today.",
+      "Every month you delay content marketing is another month your competitors are building the search authority, the audience trust, and the organic traffic pipeline that makes their cost of customer acquisition lower than yours permanently. The businesses that started their content programs three years ago are not going to give back that advantage. But the businesses that start today will, three years from now, have the same compounding advantage. The best time to start was three years ago. The second-best time is today.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     seoLink: "https://clickmastersdigitalmarketing.com/",
@@ -279,6 +279,6 @@ export const ContentMarketingContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Content marketing specialist | 10+ years",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | Content marketing specialist | 10+ years",
   },
 };

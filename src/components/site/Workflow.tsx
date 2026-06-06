@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-const code = `// clickmasters — shipping in production
+const code = `// clickmasters shipping in production
 import { build } from "@clickmasters";
 
 export const product = await build({

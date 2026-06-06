@@ -107,7 +107,7 @@ export const CeoCube = () => {
 
         {/* Cards grid */}
         <div className="grid grid-cols-1 md:grid-cols-12 gap-5 md:gap-6 items-stretch">
-          {/* LEFT — CEO image */}
+          {/* LEFT CEO image */}
           <motion.div
             className="md:col-span-5 relative h-[380px] md:h-[460px] rounded-2xl overflow-hidden border border-white/10"
             style={{ y: imgY, scale: imgScale }}
@@ -130,7 +130,7 @@ export const CeoCube = () => {
             <span className="absolute top-3 right-3 text-[10px] tracking-[0.3em] opacity-70">[ A ]</span>
           </motion.div>
 
-          {/* RIGHT — 3 flipping cards */}
+          {/* RIGHT 3 flipping cards */}
           <div className="md:col-span-7 grid grid-rows-3 gap-5 h-[380px] md:h-[460px]">
             <FlipCard
               delay={0.1}

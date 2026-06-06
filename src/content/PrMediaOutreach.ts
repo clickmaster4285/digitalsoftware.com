@@ -24,16 +24,16 @@ export const PrMediaOutreachContent = {
   },
   intro: {
     problem: [
-      { text: "Earned media — the press coverage, the podcast appearances, the thought leadership placements, and the publication features that result from a professional PR programme — produces the two commercial outcomes that distinguish it from paid channels: the ", type: "normal" },
+      { text: "Earned media the press coverage, the podcast appearances, the thought leadership placements, and the publication features that result from a professional PR programme produces the two commercial outcomes that distinguish it from paid channels: the ", type: "normal" },
       { text: "domain authority signals", type: "highlight" },
       { text: " that improve organic search rankings for competitive keywords, and the ", type: "normal" },
       { text: "brand credibility signals", type: "highlight" },
       { text: " that improve conversion rates when potential clients research your business before deciding to engage.", type: "normal" }
     ],
     solution:
-      "Most businesses that attempt PR do so by sending cold press releases to generic journalist lists — and achieve nothing. The journalist receiving 200 pitches per day deletes the one that is not immediately relevant to their beat, their audience, and their current story schedule. A press release announcing a business milestone is not a story.",
+      "Most businesses that attempt PR do so by sending cold press releases to generic journalist lists and achieve nothing. The journalist receiving 200 pitches per day deletes the one that is not immediately relevant to their beat, their audience, and their current story schedule. A press release announcing a business milestone is not a story.",
     promise:
-      "At Clickmasters Digital Marketing, we provide digital PR and media outreach services that earn the coverage and the authority signals that build brand and rankings simultaneously — for businesses in the UK, USA, UAE, Canada, and Australia that are ready to invest in the earned media that paid advertising cannot replicate.",
+      "At Clickmasters Digital Marketing, we provide digital PR and media outreach services that earn the coverage and the authority signals that build brand and rankings simultaneously for businesses in the UK, USA, UAE, Canada, and Australia that are ready to invest in the earned media that paid advertising cannot replicate.",
   },
   problem: {
     title: "Why Most Businesses Have",
@@ -42,12 +42,12 @@ export const PrMediaOutreachContent = {
       {
         icon: "Mail",
         title: "The Cold Outreach Failure Mode",
-        body: "Most businesses that attempt PR send cold press releases to generic journalist lists — and achieve nothing. A press release announcing a business milestone, a product launch, or a company award is not a story. Earned media coverage results from stories that journalists want to tell — not from announcements that businesses want to make.",
+        body: "Most businesses that attempt PR send cold press releases to generic journalist lists and achieve nothing. A press release announcing a business milestone, a product launch, or a company award is not a story. Earned media coverage results from stories that journalists want to tell not from announcements that businesses want to make.",
       },
       {
         icon: "Link",
         title: "The Link Building Consequence",
-        body: "The authority backlinks that digital PR generates — links from national publications, trade press, and high-authority websites — are among the most commercially valuable SEO assets. They cannot be bought, cannot be manufactured, and cannot be easily replicated by competitors.",
+        body: "The authority backlinks that digital PR generates links from national publications, trade press, and high-authority websites are among the most commercially valuable SEO assets. They cannot be bought, cannot be manufactured, and cannot be easily replicated by competitors.",
       },
     ],
     afterTitle: "The Clickmasters Digital",
@@ -56,12 +56,12 @@ export const PrMediaOutreachContent = {
       {
         icon: "FileText",
         title: "Story Development",
-        body: "Transforming the business's genuine expertise, data, client outcomes, and founder's perspective into story angles that resonate with journalists — from proprietary survey findings to thought leadership perspectives to newsjacking commentary.",
+        body: "Transforming the business's genuine expertise, data, client outcomes, and founder's perspective into story angles that resonate with journalists from proprietary survey findings to thought leadership perspectives to newsjacking commentary.",
       },
       {
         icon: "Users",
         title: "Journalist Targeting",
-        body: "Building targeted media lists for each campaign — the specific journalists and editors at each target publication who cover the beat most relevant to the story being pitched.",
+        body: "Building targeted media lists for each campaign the specific journalists and editors at each target publication who cover the beat most relevant to the story being pitched.",
       },
       {
         icon: "PenTool",
@@ -77,7 +77,7 @@ export const PrMediaOutreachContent = {
       tag: "Strategy",
       title: "PR Strategy and Story Development",
       intro:
-        "The foundation of a successful PR programme is not media outreach — it is story development. Transforming expertise into story angles journalists want to tell.",
+        "The foundation of a successful PR programme is not media outreach it is story development. Transforming expertise into story angles journalists want to tell.",
       blocks: [
         {
           h: "Finding the Stories Journalists Want to Tell",
@@ -91,7 +91,7 @@ export const PrMediaOutreachContent = {
       tag: "Research",
       title: "Journalist Research and Media Targeting",
       intro:
-        "Effective media outreach requires specific journalist targeting — putting the right story in front of the journalist most likely to cover it.",
+        "Effective media outreach requires specific journalist targeting putting the right story in front of the journalist most likely to cover it.",
       blocks: [
         {
           h: "Reaching the Journalists Who Cover Your Story",
@@ -109,7 +109,7 @@ export const PrMediaOutreachContent = {
       tag: "Writing",
       title: "Press Release and Pitch Writing",
       intro:
-        "The press release that produces coverage is written differently from the one that announces a business milestone — it leads with the story angle, not the announcement.",
+        "The press release that produces coverage is written differently from the one that announces a business milestone it leads with the story angle, not the announcement.",
       blocks: [
         {
           h: "Content That Journalists Actually Respond To",
@@ -123,11 +123,11 @@ export const PrMediaOutreachContent = {
       tag: "Link Building",
       title: "Digital PR Link Building",
       intro:
-        "Digital PR's SEO value is realised through editorial backlinks — a feature in a DA 90 publication provides authority signals no technical SEO can replicate.",
+        "Digital PR's SEO value is realised through editorial backlinks a feature in a DA 90 publication provides authority signals no technical SEO can replicate.",
       blocks: [
         {
           h: "Earning High-Authority Editorial Backlinks",
-          p: "We build digital PR link acquisition programmes targeting publications whose backlinks would most improve organic rankings — with story angles appealing to high-authority publications, outreach, placement, and post-placement link verification.",
+          p: "We build digital PR link acquisition programmes targeting publications whose backlinks would most improve organic rankings with story angles appealing to high-authority publications, outreach, placement, and post-placement link verification.",
         },
       ],
     },
@@ -137,7 +137,7 @@ export const PrMediaOutreachContent = {
       tag: "Thought Leadership",
       title: "Thought Leadership and Expert Positioning",
       intro:
-        "The most durable PR outcome is expert positioning — where journalists routinely seek out your founder or senior team for commentary and perspective.",
+        "The most durable PR outcome is expert positioning where journalists routinely seek out your founder or senior team for commentary and perspective.",
       blocks: [
         {
           h: "Becoming the Go-To Voice in Your Sector",
@@ -166,7 +166,7 @@ export const PrMediaOutreachContent = {
       metric: "22",
       sub: "high-authority links · DA 22 → 48",
       title: "UK fintech startup digital PR generates 22 high-authority links and 180% organic traffic growth in 12 months.",
-      body: "A UK fintech startup had DA 22 and <40 backlinks — paid acquisition was the sole growth channel. Our programme: data-led story development (UK consumer financial behaviour survey with 2,000 respondents), journalist outreach to personal finance journalists at The Times, The Guardian, BBC, City A.M., and thought leadership for the CEO. Result: 22 editorial backlinks from DA 70+ publications, DA grew from 22 to 48, organic traffic grew 180%, CAC from organic-originated customers was 68% lower than paid.",
+      body: "A UK fintech startup had DA 22 and <40 backlinks paid acquisition was the sole growth channel. Our programme: data-led story development (UK consumer financial behaviour survey with 2,000 respondents), journalist outreach to personal finance journalists at The Times, The Guardian, BBC, City A.M., and thought leadership for the CEO. Result: 22 editorial backlinks from DA 70+ publications, DA grew from 22 to 48, organic traffic grew 180%, CAC from organic-originated customers was 68% lower than paid.",
     },
     {
       tag: "US B2B SaaS · Construction Tech",
@@ -187,7 +187,7 @@ export const PrMediaOutreachContent = {
     {
       icon: "Users",
       h: "Journalist relationships, not press release distribution",
-      p: "Our PR programmes are built on journalist relationships and editorial understanding — not press release distribution services. Story angles are designed for each publication's editorial interests. Pitches are personalised to each journalist's recent coverage. Follow-up is professional and persistent without being volume-based pestering.",
+      p: "Our PR programmes are built on journalist relationships and editorial understanding not press release distribution services. Story angles are designed for each publication's editorial interests. Pitches are personalised to each journalist's recent coverage. Follow-up is professional and persistent without being volume-based pestering.",
     },
     {
       icon: "TrendingUp",
@@ -197,13 +197,13 @@ export const PrMediaOutreachContent = {
     {
       icon: "Globe",
       h: "Multi-market capability",
-      p: "We deliver PR programmes in the UK, USA, UAE, Canada, and Australia — each market with specific journalist relationships, market-specific story angles, and editorial understanding of publications that matter in each geography. International programmes are coordinated across markets while adapting to each market's editorial culture.",
+      p: "We deliver PR programmes in the UK, USA, UAE, Canada, and Australia each market with specific journalist relationships, market-specific story angles, and editorial understanding of publications that matter in each geography. International programmes are coordinated across markets while adapting to each market's editorial culture.",
     },
   ],
   faqs: [
     {
       q: "How long does digital PR take to produce results?",
-      a: "The first placements typically appear within 8-12 weeks of programme launch — allowing time for story development, journalist targeting, pitching, and the editorial decision cycle. Significant organic search impact from PR-generated backlinks typically materialises at 3-6 months as Google processes the new authority signals. Building a consistent earned media presence — the expert positioning that produces routine journalist outreach — typically takes 9-18 months of consistent programme investment.",
+      a: "The first placements typically appear within 8-12 weeks of programme launch allowing time for story development, journalist targeting, pitching, and the editorial decision cycle. Significant organic search impact from PR-generated backlinks typically materialises at 3-6 months as Google processes the new authority signals. Building a consistent earned media presence the expert positioning that produces routine journalist outreach typically takes 9-18 months of consistent programme investment.",
     },
     {
       q: "How do you measure digital PR ROI?",
@@ -211,21 +211,21 @@ export const PrMediaOutreachContent = {
     },
     {
       q: "Can you guarantee press coverage?",
-      a: "No ethical PR agency guarantees coverage — journalists make independent editorial decisions that no agency controls. What we can guarantee is the quality of story development, precision of journalist targeting, and professionalism of outreach that maximises coverage probability. Our track record shows consistent placement rates, but we never promise specific placements.",
+      a: "No ethical PR agency guarantees coverage journalists make independent editorial decisions that no agency controls. What we can guarantee is the quality of story development, precision of journalist targeting, and professionalism of outreach that maximises coverage probability. Our track record shows consistent placement rates, but we never promise specific placements.",
     },
     {
       q: "What sectors do you provide PR for?",
-      a: "Our primary PR sector experience covers: financial services and fintech, technology and SaaS, real estate and property, healthcare and wellness, professional services (legal, accounting, consulting), and consumer brands. We are most effective in sectors where genuine expertise and data-led story angles are available — and we are direct when a business has limited story potential that would make a PR programme commercially unjustifiable.",
+      a: "Our primary PR sector experience covers: financial services and fintech, technology and SaaS, real estate and property, healthcare and wellness, professional services (legal, accounting, consulting), and consumer brands. We are most effective in sectors where genuine expertise and data-led story angles are available and we are direct when a business has limited story potential that would make a PR programme commercially unjustifiable.",
     },
     {
       q: "What is the difference between digital PR and traditional PR?",
-      a: "Traditional PR focused primarily on brand awareness — newspaper features, magazine profiles, broadcast media appearances. Digital PR combines brand awareness with the explicit SEO objective of earning high-authority editorial backlinks — choosing target publications partly based on domain authority and link quality, not just audience size. Both produce brand credibility; digital PR additionally produces measurable organic search impact that makes ROI quantifiable.",
+      a: "Traditional PR focused primarily on brand awareness newspaper features, magazine profiles, broadcast media appearances. Digital PR combines brand awareness with the explicit SEO objective of earning high-authority editorial backlinks choosing target publications partly based on domain authority and link quality, not just audience size. Both produce brand credibility; digital PR additionally produces measurable organic search impact that makes ROI quantifiable.",
     },
   ],
   cta: {
     title: "Ready to Earn the Coverage That Builds Your Authority?",
     description:
-      "The authority that editorial coverage builds — the trust signal, the backlink profile, the expert positioning — compounds over time in ways that paid media cannot replicate. The businesses building it consistently now are creating competitive advantages that take years to reverse.",
+      "The authority that editorial coverage builds the trust signal, the backlink profile, the expert positioning compounds over time in ways that paid media cannot replicate. The businesses building it consistently now are creating competitive advantages that take years to reverse.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     linkBuildingLink: "https://clickmastersdigitalmarketing.com/link-building-services/",
     contentMarketingLink: "https://clickmastersdigitalmarketing.com/content-marketing-services/",
@@ -235,6 +235,6 @@ export const PrMediaOutreachContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
+    author: "Amjad Khan CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
   },
 };

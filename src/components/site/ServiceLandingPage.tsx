@@ -508,7 +508,7 @@ const CTA = ({ content }: { content: any }) => {
 
       <motion.div style={{ scale }} className="container relative max-w-5xl text-center">
         <Reveal>
-          <p className="text-[10px] uppercase tracking-[0.4em] opacity-60 mb-8">[ 08 ] — Ready when you are</p>
+          <p className="text-[10px] uppercase tracking-[0.4em] opacity-60 mb-8">[ 08 ] Ready when you are</p>
         </Reveal>
         <Reveal delay={0.1}>
           <h2 className="font-display text-5xl md:text-8xl font-bold leading-[0.95] tracking-tight">{ctaContent.title}</h2>

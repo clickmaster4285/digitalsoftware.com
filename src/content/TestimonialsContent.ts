@@ -2,10 +2,10 @@ export const TestimonialsContent = {
   slug: "testimonials",
   metadata: {
     url: "https://clickmastersdigitalmarketing.com/testimonials/",
-    seoTitle: "Client Reviews & Testimonials — What Our Clients Say About Clickmasters",
+    seoTitle: "Client Reviews & Testimonials What Our Clients Say About Clickmasters",
     metaDescription: "Verified client reviews and testimonials for Clickmasters Digital Marketing. Read what clients say about our SEO, paid advertising, web development, and e-commerce programmes.",
     schema: "Review + Organization + AggregateRating",
-    author: "Amjad Khan, CEO — Clickmasters Digital Marketing",
+    author: "Amjad Khan, CEO Clickmasters Digital Marketing",
     primaryKeyword: "clickmasters reviews",
     volume: "2,900/mo",
     wordCount: "~2,000 words",
@@ -16,7 +16,7 @@ export const TestimonialsContent = {
     title: "Client Reviews & Testimonials",
     titleHighlight: "— What Our Clients Say About Working With Clickmasters",
     subtitle: "",
-    description: "The most important question a business owner asks before hiring a digital marketing agency is the same question their clients ask before hiring them: is the work as good as they say it is? We believe the most credible answer to that question comes from the clients who have experienced the work directly — not from our own claims, our own case studies, or our own assertions about the quality of what we deliver.",
+    description: "The most important question a business owner asks before hiring a digital marketing agency is the same question their clients ask before hiring them: is the work as good as they say it is? We believe the most credible answer to that question comes from the clients who have experienced the work directly not from our own claims, our own case studies, or our own assertions about the quality of what we deliver.",
     stats: [
       { k: "16+", v: "Client reviews" },
       { k: "6", v: "Markets represented" },
@@ -26,7 +26,7 @@ export const TestimonialsContent = {
   },
   intro: {
     problem: [
-      { text: "We have not curated this page to show only the most glowing endorsements. We have included the reviews that reflect the full range of client experiences — the clients who saw dramatic results quickly, the clients whose results took longer to materialise, and the clients who valued specific aspects of working with us most highly. ", type: "normal" },
+      { text: "We have not curated this page to show only the most glowing endorsements. We have included the reviews that reflect the full range of client experiences the clients who saw dramatic results quickly, the clients whose results took longer to materialise, and the clients who valued specific aspects of working with us most highly. ", type: "normal" },
       { text: "Honest representation of client experience is more commercially useful to a prospective client than a highlight reel of superlatives.", type: "highlight" }
     ],
     solution: "",
@@ -38,21 +38,21 @@ export const TestimonialsContent = {
       icon: "Search",
       reviews: [
         {
-          quote: "We had been investing in SEO with two previous agencies over four years with no meaningful commercial return. Within 14 months of working with Clickmasters, organic enquiries had grown from 8 per month to 34 per month. The difference was the keyword strategy — they identified commercial terms we had never targeted. The results are real.",
+          quote: "We had been investing in SEO with two previous agencies over four years with no meaningful commercial return. Within 14 months of working with Clickmasters, organic enquiries had grown from 8 per month to 34 per month. The difference was the keyword strategy they identified commercial terms we had never targeted. The results are real.",
           author: "Managing Partner",
           company: "Commercial Law Firm",
           location: "London, UK",
           rating: 5,
         },
         {
-          quote: "The SEO programme Clickmasters built for our group has transformed our digital presence. We now rank in the Local Pack for our primary services across all four clinic locations. Monthly new patient enquiries from organic search have grown from 28 to 96 since the programme started. The team is responsive, transparent about what they are doing and why, and reports against the commercial metrics that matter — not vanity metrics.",
+          quote: "The SEO programme Clickmasters built for our group has transformed our digital presence. We now rank in the Local Pack for our primary services across all four clinic locations. Monthly new patient enquiries from organic search have grown from 28 to 96 since the programme started. The team is responsive, transparent about what they are doing and why, and reports against the commercial metrics that matter not vanity metrics.",
           author: "Practice Director",
           company: "Private Healthcare Group",
           location: "Manchester, UK",
           rating: 5,
         },
         {
-          quote: "We were sceptical that SEO could produce meaningful results in our sector — commercial insurance is a highly competitive and technically complex market. Clickmasters demonstrated the commercial opportunity through the keyword research phase and delivered on the programme in a way that has materially changed our new business pipeline. Organic now accounts for 34% of our new enquiries, versus zero 18 months ago.",
+          quote: "We were sceptical that SEO could produce meaningful results in our sector commercial insurance is a highly competitive and technically complex market. Clickmasters demonstrated the commercial opportunity through the keyword research phase and delivered on the programme in a way that has materially changed our new business pipeline. Organic now accounts for 34% of our new enquiries, versus zero 18 months ago.",
           author: "Director",
           company: "Commercial Insurance Broker",
           location: "Sydney, Australia",
@@ -79,14 +79,14 @@ export const TestimonialsContent = {
           rating: 5,
         },
         {
-          quote: "The Meta Ads programme for our DTC brand has been transformative. ROAS on the programme has averaged 4.8x over the 14 months we have been working together. The creative strategy is genuinely different from what we were running before — the team understands our brand and our audience in a way that the previous agency never achieved.",
+          quote: "The Meta Ads programme for our DTC brand has been transformative. ROAS on the programme has averaged 4.8x over the 14 months we have been working together. The creative strategy is genuinely different from what we were running before the team understands our brand and our audience in a way that the previous agency never achieved.",
           author: "Founder",
           company: "Premium Skincare Brand",
           location: "Dubai, UAE",
           rating: 5,
         },
         {
-          quote: "We had tried Google Ads management with three agencies before working with Clickmasters. The results were consistently disappointing — high spend, low conversion, blame placed on the market rather than the programme. Clickmasters identified that the issue was landing page quality rather than campaign performance. They rebuilt the landing pages alongside the campaign and the results changed immediately. Our cost per acquisition is now £240 on a service where the average client value is £18,000. That is the programme we always wanted.",
+          quote: "We had tried Google Ads management with three agencies before working with Clickmasters. The results were consistently disappointing high spend, low conversion, blame placed on the market rather than the programme. Clickmasters identified that the issue was landing page quality rather than campaign performance. They rebuilt the landing pages alongside the campaign and the results changed immediately. Our cost per acquisition is now £240 on a service where the average client value is £18,000. That is the programme we always wanted.",
           author: "Partner",
           company: "Wealth Management Firm",
           location: "London, UK",
@@ -99,7 +99,7 @@ export const TestimonialsContent = {
       icon: "Code",
       reviews: [
         {
-          quote: "The web application Clickmasters built for our client operations has saved our team 18 hours per week and improved our client satisfaction scores from 7.1 to 8.6. The discovery process was thorough — they asked the right questions before writing a single line of code, which is why the delivered application actually fits the way we work rather than requiring us to adapt to it.",
+          quote: "The web application Clickmasters built for our client operations has saved our team 18 hours per week and improved our client satisfaction scores from 7.1 to 8.6. The discovery process was thorough they asked the right questions before writing a single line of code, which is why the delivered application actually fits the way we work rather than requiring us to adapt to it.",
           author: "Managing Director",
           company: "Management Consultancy",
           location: "Edinburgh, UK",
@@ -133,7 +133,7 @@ export const TestimonialsContent = {
           rating: 5,
         },
         {
-          quote: "Clickmasters manages our full-stack DTC programme — Meta Ads, Google Shopping, and Klaviyo — and the coordination between the three channels is genuinely better than when we had separate agencies running each. The programme-level thinking, where decisions in one channel are informed by what is happening in the others, has produced results none of the individual agencies achieved in isolation.",
+          quote: "Clickmasters manages our full-stack DTC programme Meta Ads, Google Shopping, and Klaviyo and the coordination between the three channels is genuinely better than when we had separate agencies running each. The programme-level thinking, where decisions in one channel are informed by what is happening in the others, has produced results none of the individual agencies achieved in isolation.",
           author: "Marketing Director",
           company: "Premium Homeware Brand",
           location: "Melbourne, Australia",
@@ -146,7 +146,7 @@ export const TestimonialsContent = {
       icon: "Share2",
       reviews: [
         {
-          quote: "The LinkedIn programme Clickmasters runs for our CEO has generated more qualified B2B pipeline than any other marketing investment we make. The content they produce is genuinely expert — it reflects our thinking, not generic industry commentary. We have had three significant enterprise clients reach out directly as a result of LinkedIn content this year.",
+          quote: "The LinkedIn programme Clickmasters runs for our CEO has generated more qualified B2B pipeline than any other marketing investment we make. The content they produce is genuinely expert it reflects our thinking, not generic industry commentary. We have had three significant enterprise clients reach out directly as a result of LinkedIn content this year.",
           author: "Head of Marketing",
           company: "B2B Technology Company",
           location: "Toronto, Canada",
@@ -166,13 +166,13 @@ export const TestimonialsContent = {
       icon: "Globe",
       reviews: [
         {
-          quote: "Clickmasters manages our digital marketing presence across the UK, UAE, and Australia simultaneously. The coordination of three-market programmes — different channels, different audiences, different regulatory contexts — through a single agency with genuine market knowledge in each geography is something we had not found before. The UK, UAE, and Australian markets are genuinely different, and the team understands those differences rather than applying a single-market programme across all three.",
+          quote: "Clickmasters manages our digital marketing presence across the UK, UAE, and Australia simultaneously. The coordination of three-market programmes different channels, different audiences, different regulatory contexts through a single agency with genuine market knowledge in each geography is something we had not found before. The UK, UAE, and Australian markets are genuinely different, and the team understands those differences rather than applying a single-market programme across all three.",
           author: "Chief Marketing Officer",
           company: "International Professional Services Firm",
           rating: 5,
         },
         {
-          quote: "The Arabic digital marketing capability Clickmasters provides for our UAE operations has been genuinely transformative. The Arabic SEO and social content they produce is not translated English content — it is content developed for the Arabic-speaking UAE audience with the cultural understanding and search vocabulary knowledge that English-first agencies simply do not have.",
+          quote: "The Arabic digital marketing capability Clickmasters provides for our UAE operations has been genuinely transformative. The Arabic SEO and social content they produce is not translated English content it is content developed for the Arabic-speaking UAE audience with the cultural understanding and search vocabulary knowledge that English-first agencies simply do not have.",
           author: "Regional Marketing Director",
           company: "Healthcare Group",
           location: "Dubai, UAE",
@@ -182,7 +182,7 @@ export const TestimonialsContent = {
     },
   ],
   verifiedReviews: {
-    title: "Verified Reviews — Clutch and G2",
+    title: "Verified Reviews Clutch and G2",
     description: "In addition to the testimonials collected directly from clients, Clickmasters' work is reviewed on Clutch (B2B services review platform) and G2. We encourage prospective clients to read the independent reviews on these platforms, which are verified against actual client relationships.",
     clutchLink: "https://clutch.co",
     g2Link: "https://g2.com",
@@ -190,13 +190,13 @@ export const TestimonialsContent = {
   approach: {
     title: "About Our Approach",
     titleHighlight: "to Client Relationships",
-    description: "The common thread across the client reviews on this page is not the specific service delivered — it is the commercial orientation of the relationship. Clients consistently describe a team that reports against commercial outcomes rather than activity metrics, that communicates clearly and honestly rather than through jargon and positive spin, and that treats the programme's commercial results as the measure of success rather than the volume of work delivered.",
+    description: "The common thread across the client reviews on this page is not the specific service delivered it is the commercial orientation of the relationship. Clients consistently describe a team that reports against commercial outcomes rather than activity metrics, that communicates clearly and honestly rather than through jargon and positive spin, and that treats the programme's commercial results as the measure of success rather than the volume of work delivered.",
     principles: [
-      "Every programme begins with a commercial objective — a specific, measurable outcome that the investment is designed to produce.",
+      "Every programme begins with a commercial objective a specific, measurable outcome that the investment is designed to produce.",
       "Every monthly report covers progress against that objective.",
       "When the programme is producing the results it should, we say so. When it is not, we identify why and what changes are required.",
     ],
-    idealClient: "The clients who derive the most value from working with Clickmasters are the ones who want a commercial partner rather than a task executor — the businesses that want to understand what their marketing investment is producing and why, rather than receive a report of activities completed.",
+    idealClient: "The clients who derive the most value from working with Clickmasters are the ones who want a commercial partner rather than a task executor the businesses that want to understand what their marketing investment is producing and why, rather than receive a report of activities completed.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     aboutLink: "https://clickmastersdigitalmarketing.com/about-us/",
     caseStudiesLink: "https://clickmastersdigitalmarketing.com/case-studies/",
@@ -213,6 +213,6 @@ export const TestimonialsContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
-    author: "Amjad Khan — CEO | 2026",
+    author: "Amjad Khan CEO | 2026",
   },
 };

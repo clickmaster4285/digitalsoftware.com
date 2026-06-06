@@ -12,7 +12,7 @@ import { ExternalLink } from "lucide-react";
 const projects = [
   {
     img: p1,
-    title: "Home Services — Dallas, Texas",
+    title: "Home Services Dallas, Texas",
     tag: "Local Plumbing Company",
     year: "312% More Leads",
     problem:
@@ -28,7 +28,7 @@ const projects = [
   },
   {
     img: p2,
-    title: "E-Commerce — New York",
+    title: "E-Commerce New York",
     tag: "Online Fashion Retail Brand",
     year: "5.4x ROAS",
     problem:
@@ -44,7 +44,7 @@ const projects = [
   },
   {
     img: p3,
-    title: "Legal Services — Miami, Florida",
+    title: "Legal Services Miami, Florida",
     tag: "Personal Injury Law Firm",
     year: "430% Traffic Growth",
     problem:
@@ -60,7 +60,7 @@ const projects = [
   },
   {
     img: p4,
-    title: "Healthcare — Los Angeles, California",
+    title: "Healthcare Los Angeles, California",
     tag: "Multi-Location Dermatology Clinic",
     year: "67% More Patients",
     problem:
@@ -171,7 +171,7 @@ export const Projects = () => {
       <div className="flex items-end justify-between mb-20 flex-wrap gap-6">
       <div className="text-center md:text-left">
           <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">
-            — Case Studies
+            Case Studies
           </p>
 
           <h2 className="font-display text-5xl md:text-7xl leading-[1.05] max-w-5xl">
@@ -218,7 +218,7 @@ export const Projects = () => {
 
   <div className="relative max-w-3xl mx-auto">
     <p className="text-xs uppercase tracking-[0.25em] text-muted-foreground mb-4">
-      — Case Study Insights
+      Case Study Insights
     </p>
 
     <h3 className="font-display text-4xl md:text-6xl leading-[1.05] mb-6 text-balance">

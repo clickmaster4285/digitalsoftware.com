@@ -9,7 +9,7 @@ export const SeoAutomationContent = {
     author: "Amjad Khan",
   },
   hero: {
-    tag: "[ Service · 21 ] — SEO Automation",
+    tag: "[ Service · 21 ] SEO Automation",
     title: "SEO Automation",
     titleHighlight: "Services",
     subtitle: "— stop doing manually what machines can do better and faster.",
@@ -26,7 +26,7 @@ export const SeoAutomationContent = {
     problem: [
       { text: "The SEO manager spending 12 hours per week on rank tracking, audit compilation, and reporting is spending 12 hours on tasks that produce ", type: "normal" },
       { text: "no strategic insight", type: "highlight" },
-      { text: " — they are data collection and organisation activities that automation handles in minutes, freeing the human SEO resource for the analysis, the strategy, and the optimisation decisions that ", type: "normal" },
+      { text: " they are data collection and organisation activities that automation handles in minutes, freeing the human SEO resource for the analysis, the strategy, and the optimisation decisions that ", type: "normal" },
       { text: "actually move rankings", type: "highlight" },
       { text: ".", type: "normal" }
     ],
@@ -36,7 +36,7 @@ export const SeoAutomationContent = {
       { text: ".", type:"normal" }
     ],
     promise: [
-      { text: "At Clickmasters Digital Marketing, we design, build, and implement SEO automation systems for in-house SEO teams, digital marketing agencies, and enterprise SEO programmes — enabling SEO professionals to do more strategically important work by ", type: "normal" },
+      { text: "At Clickmasters Digital Marketing, we design, build, and implement SEO automation systems for in-house SEO teams, digital marketing agencies, and enterprise SEO programmes enabling SEO professionals to do more strategically important work by ", type: "normal" },
       { text: "eliminating the mechanical work that consumes their time", type: "highlight" },
       { text: ".", type: "normal" }
     ],
@@ -48,17 +48,17 @@ export const SeoAutomationContent = {
       {
         icon: "Clock",
         title: "The Time Cost of Manual SEO",
-        body: "Rank tracking and reporting: 8-12 hours/week → 30-45 minutes with automation. Technical audit processing: 4-6 hours/week → 1-2 hours. Content brief production: 3-5 hours per brief → 30-45 minutes. Backlink monitoring: 2-4 hours/week → 15-20 minutes. Total: 17-27 hours/week of mechanical work reduced to 2-4 hours — returning 15-23 hours/week to strategic work.",
+        body: "Rank tracking and reporting: 8-12 hours/week → 30-45 minutes with automation. Technical audit processing: 4-6 hours/week → 1-2 hours. Content brief production: 3-5 hours per brief → 30-45 minutes. Backlink monitoring: 2-4 hours/week → 15-20 minutes. Total: 17-27 hours/week of mechanical work reduced to 2-4 hours returning 15-23 hours/week to strategic work.",
       },
       {
         icon: "BarChart3",
         title: "The Scale Ceiling",
-        body: "Manual SEO processes have a hard scale ceiling. An agency manually managing 10 clients spends all its capacity on data collection. Growing to 20 clients requires doubling the team — or automating. An enterprise team managing a 500,000-page website cannot manually audit it weekly; automation is not an efficiency gain, it's an operational necessity.",
+        body: "Manual SEO processes have a hard scale ceiling. An agency manually managing 10 clients spends all its capacity on data collection. Growing to 20 clients requires doubling the team or automating. An enterprise team managing a 500,000-page website cannot manually audit it weekly; automation is not an efficiency gain, it's an operational necessity.",
       },
       {
         icon: "ShieldCheck",
         title: "The Consistency Problem",
-        body: "Manual SEO processes are inconsistent. Different team members run audits differently, report on different metrics, and apply different priority criteria. Automated processes are consistent: same crawl settings, same issue classification, same reporting format, applied identically every time — producing comparable data over time that trend analysis requires.",
+        body: "Manual SEO processes are inconsistent. Different team members run audits differently, report on different metrics, and apply different priority criteria. Automated processes are consistent: same crawl settings, same issue classification, same reporting format, applied identically every time producing comparable data over time that trend analysis requires.",
       },
     ],
     afterTitle: "The Real Cost",
@@ -67,7 +67,7 @@ export const SeoAutomationContent = {
       {
         icon: "Brain",
         title: "The Strategic Opportunity Cost",
-        body: "The SEO manager spending 20 hours/week on mechanical tasks is not spending 20 hours/week on the strategic analysis, the creative link acquisition outreach, the content strategy development, and the programme evolution that produces the ranking improvements that justify SEO investment. The automation ROI is not measured only in time saved — it is measured in strategic capacity created. The programme managed by an SEO team that has eliminated 70% of its mechanical workload through automation produces better strategic outcomes than the programme managed by a team spending most of its capacity on mechanical tasks.",
+        body: "The SEO manager spending 20 hours/week on mechanical tasks is not spending 20 hours/week on the strategic analysis, the creative link acquisition outreach, the content strategy development, and the programme evolution that produces the ranking improvements that justify SEO investment. The automation ROI is not measured only in time saved it is measured in strategic capacity created. The programme managed by an SEO team that has eliminated 70% of its mechanical workload through automation produces better strategic outcomes than the programme managed by a team spending most of its capacity on mechanical tasks.",
       },
       {
         icon: "TrendingDown",
@@ -83,7 +83,7 @@ export const SeoAutomationContent = {
       tag: "Rank Tracking",
       title: "Automated Rank Tracking and Reporting",
       intro:
-        "Daily rank tracking at scale with automated reporting — one of the highest-value automation opportunities in SEO.",
+        "Daily rank tracking at scale with automated reporting one of the highest-value automation opportunities in SEO.",
       blocks: [
         {
           h: "Daily Rank Tracking at Scale",
@@ -91,7 +91,7 @@ export const SeoAutomationContent = {
         },
         {
           h: "Tools and Platforms",
-          p: "SERP API integrations, DataForSEO, SEMrush API, Google Search Console API, and custom dashboard development in Looker Studio, Notion, or client-facing reporting platforms — building the specific data pipeline your programme needs.",
+          p: "SERP API integrations, DataForSEO, SEMrush API, Google Search Console API, and custom dashboard development in Looker Studio, Notion, or client-facing reporting platforms building the specific data pipeline your programme needs.",
         },
       ],
     },
@@ -101,15 +101,15 @@ export const SeoAutomationContent = {
       tag: "Technical",
       title: "Technical SEO Audit Automation",
       intro:
-        "Technical SEO audits are most valuable when continuous rather than periodic — detecting new issues as they appear.",
+        "Technical SEO audits are most valuable when continuous rather than periodic detecting new issues as they appear.",
       blocks: [
         {
           h: "Scheduled Crawling with Change Detection",
-          p: "Automated weekly or daily crawls using Screaming Frog, Sitebulb, or custom crawlers — producing baseline data change detection requires. Automated comparison of each crawl to the previous surfaces new issues, resolved issues, and pages where technical status has changed.",
+          p: "Automated weekly or daily crawls using Screaming Frog, Sitebulb, or custom crawlers producing baseline data change detection requires. Automated comparison of each crawl to the previous surfaces new issues, resolved issues, and pages where technical status has changed.",
         },
         {
           h: "Priority Scoring and Integration",
-          p: "Automated issue prioritisation based on commercial value of affected pages (traffic, conversion rate, revenue attribution). New issues automatically create tickets in Jira, Asana, Monday.com, or Linear — flowing directly into development workflow.",
+          p: "Automated issue prioritisation based on commercial value of affected pages (traffic, conversion rate, revenue attribution). New issues automatically create tickets in Jira, Asana, Monday.com, or Linear flowing directly into development workflow.",
         },
       ],
     },
@@ -127,7 +127,7 @@ export const SeoAutomationContent = {
         },
         {
           h: "The Output",
-          p: "Structured Google Doc or Notion template with research already complete — enabling the writer to focus on expertise and writing rather than data gathering.",
+          p: "Structured Google Doc or Notion template with research already complete enabling the writer to focus on expertise and writing rather than data gathering.",
         },
       ],
     },
@@ -137,11 +137,11 @@ export const SeoAutomationContent = {
       tag: "Internal Links",
       title: "Automated Internal Linking",
       intro:
-        "Internal linking is one of the highest-ROI SEO activities — and one of the most consistently neglected due to manual auditing being prohibitively time-consuming.",
+        "Internal linking is one of the highest-ROI SEO activities and one of the most consistently neglected due to manual auditing being prohibitively time-consuming.",
       blocks: [
         {
           h: "Internal Link Opportunity Identification",
-          p: "Content library mapping — automated analysis mapping relationships between pages based on topical relevance, commercial priority, and current link deficiency. Link opportunity surfacing — specific anchor text and source pages for each priority target page delivered as actionable implementation list.",
+          p: "Content library mapping automated analysis mapping relationships between pages based on topical relevance, commercial priority, and current link deficiency. Link opportunity surfacing specific anchor text and source pages for each priority target page delivered as actionable implementation list.",
         },
         {
           h: "Implementation Monitoring",
@@ -155,11 +155,11 @@ export const SeoAutomationContent = {
       tag: "Competitors",
       title: "Competitor Monitoring Automation",
       intro:
-        "Automated competitor SEO intelligence — consistent, systematic monitoring without manual effort.",
+        "Automated competitor SEO intelligence consistent, systematic monitoring without manual effort.",
       blocks: [
         {
           h: "Automated Competitor SEO Intelligence",
-          p: "Daily monitoring of competitor keyword positions for priority keyword sets — alerting when competitors gain or lose significant positions. Automated detection of new content published by competitors, with topic and keyword analysis surfacing content gaps. New backlink acquisition surfaced automatically — identifying specific publications and placements competitors use for link building.",
+          p: "Daily monitoring of competitor keyword positions for priority keyword sets alerting when competitors gain or lose significant positions. Automated detection of new content published by competitors, with topic and keyword analysis surfacing content gaps. New backlink acquisition surfaced automatically identifying specific publications and placements competitors use for link building.",
         },
       ],
     },
@@ -169,15 +169,15 @@ export const SeoAutomationContent = {
       tag: "Data",
       title: "GSC and Analytics Automation",
       intro:
-        "Google Search Console and GA4 contain performance data SEO programme management requires — extracting and analysing it manually is time-consuming.",
+        "Google Search Console and GA4 contain performance data SEO programme management requires extracting and analysing it manually is time-consuming.",
       blocks: [
         {
           h: "GSC and Analytics Data Pipelines",
-          p: "Automated daily extraction of impressions, clicks, CTR, and average position for the full keyword set, stored in BigQuery or Google Sheets for trend analysis beyond GSC's 16-month retention window. Automated segmentation of organic performance by content type, publication date, word count, and author — enabling content performance analysis that informs editorial investment decisions.",
+          p: "Automated daily extraction of impressions, clicks, CTR, and average position for the full keyword set, stored in BigQuery or Google Sheets for trend analysis beyond GSC's 16-month retention window. Automated segmentation of organic performance by content type, publication date, word count, and author enabling content performance analysis that informs editorial investment decisions.",
         },
         {
           h: "Opportunity Identification",
-          p: "Automated identification of specific pages and keywords where small CTR or position improvements would produce the largest traffic gains — 'quick win' opportunities manual analysis typically misses due to data volume.",
+          p: "Automated identification of specific pages and keywords where small CTR or position improvements would produce the largest traffic gains 'quick win' opportunities manual analysis typically misses due to data volume.",
         },
       ],
     },
@@ -188,7 +188,7 @@ export const SeoAutomationContent = {
       metric: "3x",
       sub: "client growth · 18 → 54 clients · same team",
       title: "SEO automation enables 3x client growth without additional headcount.",
-      body: "12-person UK digital marketing agency managing 18 SEO clients was at operational capacity — SEO team of 4 spending 60% of time on mechanical reporting, rank tracking, and audit compilation. Growing beyond 18 constrained by team capacity. Solution: automated rank tracking and weekly report generation (saving 8 hours/week), automated monthly technical audit with change detection (saving 5 hours/week), automated content brief generation (saving 30 hours/month), competitor monitoring system covering all 18 client competitor sets. Result: strategic capacity grew from 40% to 72% of working time. Agency grew from 18 to 54 clients without adding SEO headcount — tripling revenue while maintaining team costs. SEO director: 'the change that made growth possible without the hiring that would have made growth unprofitable.'",
+      body: "12-person UK digital marketing agency managing 18 SEO clients was at operational capacity SEO team of 4 spending 60% of time on mechanical reporting, rank tracking, and audit compilation. Growing beyond 18 constrained by team capacity. Solution: automated rank tracking and weekly report generation (saving 8 hours/week), automated monthly technical audit with change detection (saving 5 hours/week), automated content brief generation (saving 30 hours/month), competitor monitoring system covering all 18 client competitor sets. Result: strategic capacity grew from 40% to 72% of working time. Agency grew from 18 to 54 clients without adding SEO headcount tripling revenue while maintaining team costs. SEO director: 'the change that made growth possible without the hiring that would have made growth unprofitable.'",
     },
     {
       tag: "US E-Commerce · Internal Links",
@@ -202,7 +202,7 @@ export const SeoAutomationContent = {
     {
       icon: "Layers",
       h: "Tool-agnostic implementation",
-      p: "We design SEO automation systems around the business's existing toolset, budget, and technical infrastructure — not around a specific vendor relationship. Whether using SEMrush, Ahrefs, Moz, DataForSEO, or APIs, we build data pipelines and workflows that work within your specific environment.",
+      p: "We design SEO automation systems around the business's existing toolset, budget, and technical infrastructure not around a specific vendor relationship. Whether using SEMrush, Ahrefs, Moz, DataForSEO, or APIs, we build data pipelines and workflows that work within your specific environment.",
     },
     {
       icon: "Cpu",
@@ -212,13 +212,13 @@ export const SeoAutomationContent = {
     {
       icon: "Target",
       h: "Strategic SEO foundation",
-      p: "SEO automation without SEO expertise produces automated mediocrity. The automation system is only as good as the SEO strategy it supports. We design implementations grounded in specific SEO objectives — automation serves the strategy, not the other way around.",
+      p: "SEO automation without SEO expertise produces automated mediocrity. The automation system is only as good as the SEO strategy it supports. We design implementations grounded in specific SEO objectives automation serves the strategy, not the other way around.",
     },
   ],
   faqs: [
     {
       q: "Which SEO tasks are best suited to automation?",
-      a: "The highest-value automation targets are tasks that are: high-frequency (done weekly or daily), data-intensive (requiring collection and processing of large datasets), rule-based (following consistent, definable logic), and currently consuming significant SEO team time. Rank tracking, technical audit processing, reporting, content brief production, internal link opportunity identification, and competitor monitoring all meet these criteria. Tasks requiring creative judgement — content strategy, link acquisition outreach, conversion rate analysis — are not good automation targets but benefit from better data produced by automation.",
+      a: "The highest-value automation targets are tasks that are: high-frequency (done weekly or daily), data-intensive (requiring collection and processing of large datasets), rule-based (following consistent, definable logic), and currently consuming significant SEO team time. Rank tracking, technical audit processing, reporting, content brief production, internal link opportunity identification, and competitor monitoring all meet these criteria. Tasks requiring creative judgement content strategy, link acquisition outreach, conversion rate analysis are not good automation targets but benefit from better data produced by automation.",
     },
     {
       q: "What tools do you use for SEO automation?",
@@ -230,7 +230,7 @@ export const SeoAutomationContent = {
     },
     {
       q: "Will SEO automation work for my CMS and existing toolset?",
-      a: "Yes — SEO automation integrates with your existing technology stack. We design automation systems around your CMS (WordPress, Shopify, Webflow, custom CMS), SEO toolset (SEMrush, Ahrefs, Moz, or API-direct), and project management/reporting infrastructure already in use. Custom integrations are built where pre-built integrations don't exist for your specific tool combination.",
+      a: "Yes SEO automation integrates with your existing technology stack. We design automation systems around your CMS (WordPress, Shopify, Webflow, custom CMS), SEO toolset (SEMrush, Ahrefs, Moz, or API-direct), and project management/reporting infrastructure already in use. Custom integrations are built where pre-built integrations don't exist for your specific tool combination.",
     },
     {
       q: "How do I get started?",
@@ -250,6 +250,6 @@ export const SeoAutomationContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | SEO automation specialist | 10+ years",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | SEO automation specialist | 10+ years",
   },
 };

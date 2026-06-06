@@ -56,7 +56,7 @@ export const Services = () => (
   
   <div className="md:col-span-4">
     <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">
-      — Services
+      Services
     </p>
   </div>
 
@@ -111,7 +111,7 @@ export const Services = () => (
 
   <div className="relative max-w-3xl mx-auto">
     <p className="text-xs uppercase tracking-[0.25em] text-muted-foreground mb-4">
-      — Free Consultation
+      Free Consultation
     </p>
 
     <h3 className="font-display text-4xl md:text-6xl leading-[1.05] mb-6 text-balance">

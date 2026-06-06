@@ -14,7 +14,7 @@ export const SocialMediaStrategyContent = {
     title: "Social Media Strategy Consulting",
     titleHighlight: "— Build the Social Media Programme That Produces Commercial Results, Not Just Content",
     subtitle: "",
-    description: "Most businesses are not lacking social media activity. They are lacking a social media strategy — and the difference between the two is the difference between a content calendar and a commercial growth programme. The activity is visible: posts published consistently across two or three platforms, a content team producing graphics, videos, and captions. What is missing is the coherent answer to the commercial question: what is each social media platform specifically doing for the business, for which audience, with what objective, measured against which commercial metric?",
+    description: "Most businesses are not lacking social media activity. They are lacking a social media strategy and the difference between the two is the difference between a content calendar and a commercial growth programme. The activity is visible: posts published consistently across two or three platforms, a content team producing graphics, videos, and captions. What is missing is the coherent answer to the commercial question: what is each social media platform specifically doing for the business, for which audience, with what objective, measured against which commercial metric?",
     stats: [
       { k: "42", v: "Qualified leads/quarter" },
       { k: "31%", v: "Revenue from social (from 8%)" },
@@ -30,7 +30,7 @@ export const SocialMediaStrategyContent = {
       { text: "'what is our social media generating commercially?'", type: "highlight" },
       { text: " has an activity problem masquerading as a strategy.", type: "normal" }
     ],
-    solution: "At Clickmasters Digital Marketing, we provide social media strategy consulting for CMOs, marketing directors, and senior commercial leaders — the strategic framework, the channel architecture, the content strategy, and the measurement infrastructure that transforms social media from a content function into a commercial growth channel.",
+    solution: "At Clickmasters Digital Marketing, we provide social media strategy consulting for CMOs, marketing directors, and senior commercial leaders the strategic framework, the channel architecture, the content strategy, and the measurement infrastructure that transforms social media from a content function into a commercial growth channel.",
     promise: "",
   },
   features: [
@@ -39,13 +39,13 @@ export const SocialMediaStrategyContent = {
       icon: "ClipboardList",
       tag: "Audit",
       title: "Social Media Audit and Commercial Assessment",
-      description: "Diagnosing the current state before designing the future state. Every social media strategy engagement begins with a rigorous audit of the current position — not just the platform metrics, but the commercial alignment with the business's specific commercial objectives.",
+      description: "Diagnosing the current state before designing the future state. Every social media strategy engagement begins with a rigorous audit of the current position not just the platform metrics, but the commercial alignment with the business's specific commercial objectives.",
       items: [
-        "Platform performance analysis — organic reach, engagement rate, follower growth, and click-through rates benchmarked against category averages",
-        "Content performance analysis — which content types, topics, and formats produce the highest engagement and CTR on each platform",
-        "Audience analysis — demographic and behavioural profile of the current audience compared to target buyer personas",
-        "Competitive social landscape — how primary competitors use social media and what gaps exist in the category",
-        "Commercial attribution analysis — what commercial outcomes current social activity is producing and how it's measured",
+        "Platform performance analysis organic reach, engagement rate, follower growth, and click-through rates benchmarked against category averages",
+        "Content performance analysis which content types, topics, and formats produce the highest engagement and CTR on each platform",
+        "Audience analysis demographic and behavioural profile of the current audience compared to target buyer personas",
+        "Competitive social landscape how primary competitors use social media and what gaps exist in the category",
+        "Commercial attribution analysis what commercial outcomes current social activity is producing and how it's measured",
       ],
     },
     {
@@ -55,10 +55,10 @@ export const SocialMediaStrategyContent = {
       title: "Social Media Strategy Development",
       description: "The platform-by-platform commercial framework defining the role each platform plays, the specific audience segment each serves, the content strategy that serves that audience, the KPIs that measure commercial contribution, and the investment level each platform justifies.",
       items: [
-        "Platform selection and prioritisation — based on where the target audience is actually reachable, not which platforms are fashionable",
-        "Audience segmentation by platform — each platform serves a different audience segment at a different stage of the buyer journey",
-        "Content pillars and formats — the 3-5 content themes each business will consistently own on each platform",
-        "Cadence and resource allocation — publishing frequency, content production workflow, and team resource requirements",
+        "Platform selection and prioritisation based on where the target audience is actually reachable, not which platforms are fashionable",
+        "Audience segmentation by platform each platform serves a different audience segment at a different stage of the buyer journey",
+        "Content pillars and formats the 3-5 content themes each business will consistently own on each platform",
+        "Cadence and resource allocation publishing frequency, content production workflow, and team resource requirements",
       ],
     },
     {
@@ -66,13 +66,13 @@ export const SocialMediaStrategyContent = {
       icon: "Briefcase",
       tag: "B2B",
       title: "B2B Social Media Strategy",
-      description: "LinkedIn and thought leadership strategy for B2B commercial growth. For B2B businesses, social media strategy is primarily a LinkedIn strategy — the platform where professional buyers research vendors, evaluate expertise, and form commercial relationships.",
+      description: "LinkedIn and thought leadership strategy for B2B commercial growth. For B2B businesses, social media strategy is primarily a LinkedIn strategy the platform where professional buyers research vendors, evaluate expertise, and form commercial relationships.",
       items: [
-        "Founder and executive personal brand strategy — individual authority generating more reach and engagement than company page content",
-        "Company page optimisation — profile completeness, content strategy, and employee advocacy programme",
-        "Thought leadership content programme — original insight, proprietary data, and specific expertise that builds professional authority",
-        "LinkedIn Newsletter strategy — owned-audience publication independent of algorithmic distribution",
-        "LinkedIn Ads integration — paid amplification extending organic thought leadership reach to targeted professional audiences",
+        "Founder and executive personal brand strategy individual authority generating more reach and engagement than company page content",
+        "Company page optimisation profile completeness, content strategy, and employee advocacy programme",
+        "Thought leadership content programme original insight, proprietary data, and specific expertise that builds professional authority",
+        "LinkedIn Newsletter strategy owned-audience publication independent of algorithmic distribution",
+        "LinkedIn Ads integration paid amplification extending organic thought leadership reach to targeted professional audiences",
       ],
     },
     {
@@ -82,11 +82,11 @@ export const SocialMediaStrategyContent = {
       title: "E-Commerce and DTC Social Media Strategy",
       description: "Meta, Instagram, and TikTok strategy for consumer brands. For e-commerce and DTC brands, social media strategy integrates organic content, paid social advertising, influencer and UGC strategy, and social commerce into a coherent programme.",
       items: [
-        "Instagram content strategy — visual identity, content mix of product, lifestyle, UGC, and educational content",
-        "TikTok content strategy — short-form video formats, trend participation, and creator collaboration programme",
-        "Meta Ads strategy integration — paid social programme driving acquisition from cold audiences",
-        "Influencer and UGC strategy — creator programme generating authentic, high-performing content",
-        "Social commerce strategy — Instagram Shopping and TikTok Shop setup reducing purchase friction",
+        "Instagram content strategy visual identity, content mix of product, lifestyle, UGC, and educational content",
+        "TikTok content strategy short-form video formats, trend participation, and creator collaboration programme",
+        "Meta Ads strategy integration paid social programme driving acquisition from cold audiences",
+        "Influencer and UGC strategy creator programme generating authentic, high-performing content",
+        "Social commerce strategy Instagram Shopping and TikTok Shop setup reducing purchase friction",
       ],
     },
     {
@@ -94,13 +94,13 @@ export const SocialMediaStrategyContent = {
       icon: "ChartLine",
       tag: "Analytics",
       title: "Social Media Measurement and Analytics Framework",
-      description: "Commercial attribution for social media investment. The most commercially important deliverable is the measurement framework — the specific KPIs, attribution model, and reporting infrastructure connecting social media activity to commercial outcomes.",
+      description: "Commercial attribution for social media investment. The most commercially important deliverable is the measurement framework the specific KPIs, attribution model, and reporting infrastructure connecting social media activity to commercial outcomes.",
       items: [
-        "Commercial KPI definition — pipeline generated, revenue attributed, CPL by platform, CAC contribution",
-        "Attribution modelling — first-touch, last-touch, or data-driven attribution based on commercial model",
-        "GA4 and UTM configuration — tracking setup ensuring correct social traffic attribution in analytics",
-        "Platform analytics integration — reporting connections between native analytics and central reporting",
-        "Monthly reporting format — communicating social media's commercial contribution to senior stakeholders",
+        "Commercial KPI definition pipeline generated, revenue attributed, CPL by platform, CAC contribution",
+        "Attribution modelling first-touch, last-touch, or data-driven attribution based on commercial model",
+        "GA4 and UTM configuration tracking setup ensuring correct social traffic attribution in analytics",
+        "Platform analytics integration reporting connections between native analytics and central reporting",
+        "Monthly reporting format communicating social media's commercial contribution to senior stakeholders",
       ],
     },
     {
@@ -108,12 +108,12 @@ export const SocialMediaStrategyContent = {
       icon: "Settings",
       tag: "Implementation",
       title: "Social Media Strategy Implementation Support",
-      description: "From strategy to execution. A strategy document without implementation support is a document. We provide the execution support that translates the strategy into operational reality — either through our own management services or through coaching that supports in-house team execution.",
+      description: "From strategy to execution. A strategy document without implementation support is a document. We provide the execution support that translates the strategy into operational reality either through our own management services or through coaching that supports in-house team execution.",
       items: [
-        "Content calendar development — the first 90-day content calendar operationalising the content strategy",
-        "Team training and workshop delivery — enabling in-house teams to execute the strategy effectively",
-        "Agency brief development — briefs for specialist agencies the strategy requires",
-        "Quarterly strategy review — structured review of commercial performance and strategic adjustments",
+        "Content calendar development the first 90-day content calendar operationalising the content strategy",
+        "Team training and workshop delivery enabling in-house teams to execute the strategy effectively",
+        "Agency brief development briefs for specialist agencies the strategy requires",
+        "Quarterly strategy review structured review of commercial performance and strategic adjustments",
       ],
     },
   ],
@@ -124,7 +124,7 @@ export const SocialMediaStrategyContent = {
       {
         icon: "Network",
         title: "The Platform Proliferation Trap",
-        body: "The most common error is platform proliferation — being present on every platform at insufficient investment to perform well on any. The strategic insight — which two or three platforms actually reach the target audience at the right stage of the buyer journey — produces better commercial outcomes than the undifferentiated multi-platform presence that spreads resources too thin.",
+        body: "The most common error is platform proliferation being present on every platform at insufficient investment to perform well on any. The strategic insight which two or three platforms actually reach the target audience at the right stage of the buyer journey produces better commercial outcomes than the undifferentiated multi-platform presence that spreads resources too thin.",
       },
       {
         icon: "Cpu",
@@ -139,21 +139,21 @@ export const SocialMediaStrategyContent = {
       metric: "42",
       sub: "qualified leads per quarter",
       title: "UK professional services firm LinkedIn strategy generates 42 qualified leads per quarter from organic content.",
-      body: "A UK management consulting firm had an active LinkedIn company page with 3,400 followers but minimal commercial impact — low organic reach, engagement primarily from existing clients, no pipeline identifiable from LinkedIn. Our engagement: LinkedIn strategy audit identifying promotional content as the problem, founder personal brand strategy, LinkedIn Newsletter launch, content pillar framework, and LinkedIn Ads programme amplifying high-performing organic content. Result: MD's following grew from 840 to 6,200. Organic reach grew from 1,200 to 8,400 impressions per post. Programme generated 42 qualified B2B leads per quarter. Firm attributed £680,000 in new client revenue over 18 months to LinkedIn-originated relationships.",
+      body: "A UK management consulting firm had an active LinkedIn company page with 3,400 followers but minimal commercial impact low organic reach, engagement primarily from existing clients, no pipeline identifiable from LinkedIn. Our engagement: LinkedIn strategy audit identifying promotional content as the problem, founder personal brand strategy, LinkedIn Newsletter launch, content pillar framework, and LinkedIn Ads programme amplifying high-performing organic content. Result: MD's following grew from 840 to 6,200. Organic reach grew from 1,200 to 8,400 impressions per post. Programme generated 42 qualified B2B leads per quarter. Firm attributed £680,000 in new client revenue over 18 months to LinkedIn-originated relationships.",
     },
     {
       tag: "DTC · Beauty Brand",
       metric: "31%",
       sub: "revenue from social (from 8%)",
       title: "US DTC beauty brand Instagram and TikTok strategy grows revenue contribution from social from 8% to 31% of total.",
-      body: "A US DTC beauty brand at $4.2M annual revenue had social producing 8% of total revenue — primarily from existing followers. The brand posted inconsistently without defined strategy, creator programme, or social commerce integration. Our DTC strategy: full platform audit, Instagram content strategy (three pillars: product education, skin science, community UGC), TikTok creator programme (8 nano/micro creators), Instagram Shopping with Shopify catalogue integration, quarterly content performance review. Result: Social revenue contribution grew from 8% to 31% over 18 months. Instagram Shopping generated $420,000 in directly attributable revenue in year one. TikTok creator programme produced three videos exceeding 500,000 organic views each.",
+      body: "A US DTC beauty brand at $4.2M annual revenue had social producing 8% of total revenue primarily from existing followers. The brand posted inconsistently without defined strategy, creator programme, or social commerce integration. Our DTC strategy: full platform audit, Instagram content strategy (three pillars: product education, skin science, community UGC), TikTok creator programme (8 nano/micro creators), Instagram Shopping with Shopify catalogue integration, quarterly content performance review. Result: Social revenue contribution grew from 8% to 31% over 18 months. Instagram Shopping generated $420,000 in directly attributable revenue in year one. TikTok creator programme produced three videos exceeding 500,000 organic views each.",
     },
   ],
   why: [
     {
       icon: "DollarSign",
       h: "Commercial orientation at every decision",
-      p: "Every recommendation is evaluated against the commercial objective — the specific revenue, pipeline, or customer acquisition outcome the business is trying to achieve. We do not recommend platform investment because it's fashionable; we recommend it because the data shows the target audience is there and the commercial model justifies the investment.",
+      p: "Every recommendation is evaluated against the commercial objective the specific revenue, pipeline, or customer acquisition outcome the business is trying to achieve. We do not recommend platform investment because it's fashionable; we recommend it because the data shows the target audience is there and the commercial model justifies the investment.",
     },
     {
       icon: "PieChart",
@@ -164,19 +164,19 @@ export const SocialMediaStrategyContent = {
   faqs: [
     {
       q: "How is strategy consulting different from social media management?",
-      a: "Social media management is the execution service — creating, scheduling, and publishing content, managing communities, and reporting on platform metrics. Strategy consulting is the upstream work that determines what to execute: which platforms, for which audiences, with what content approach, measured against which commercial objectives. Strategy consulting is typically a one-time or quarterly engagement; management is an ongoing retainer. We provide both — strategy consulting that produces the framework, and management that executes it.",
+      a: "Social media management is the execution service creating, scheduling, and publishing content, managing communities, and reporting on platform metrics. Strategy consulting is the upstream work that determines what to execute: which platforms, for which audiences, with what content approach, measured against which commercial objectives. Strategy consulting is typically a one-time or quarterly engagement; management is an ongoing retainer. We provide both strategy consulting that produces the framework, and management that executes it.",
     },
     {
       q: "How long does a social media strategy engagement take?",
-      a: "A full social media strategy engagement — audit, platform strategy, content strategy, measurement framework, and implementation roadmap — typically takes 4-6 weeks from brief to delivery. For businesses requiring immediate execution support alongside strategy development, we can run a parallel implementation stream that begins operationalising the emerging strategy before the full strategy document is complete.",
+      a: "A full social media strategy engagement audit, platform strategy, content strategy, measurement framework, and implementation roadmap typically takes 4-6 weeks from brief to delivery. For businesses requiring immediate execution support alongside strategy development, we can run a parallel implementation stream that begins operationalising the emerging strategy before the full strategy document is complete.",
     },
     {
       q: "Do you specialise in particular platforms or sectors?",
-      a: "Our primary expertise covers LinkedIn strategy for B2B businesses, Meta (Facebook/Instagram) strategy for consumer and DTC brands, and TikTok strategy for brands targeting under-35 demographics. We have sector expertise in professional services, e-commerce, healthcare, real estate, and hospitality — each of which has distinct audience behaviour and content convention requirements on social platforms.",
+      a: "Our primary expertise covers LinkedIn strategy for B2B businesses, Meta (Facebook/Instagram) strategy for consumer and DTC brands, and TikTok strategy for brands targeting under-35 demographics. We have sector expertise in professional services, e-commerce, healthcare, real estate, and hospitality each of which has distinct audience behaviour and content convention requirements on social platforms.",
     },
     {
       q: "Can you work with our existing in-house team?",
-      a: "Yes — many of our engagements are delivered in a consulting model that works with the existing in-house content and social team rather than replacing them. We develop the strategy, facilitate workshops that align the team on the strategic framework, and provide ongoing strategic advisory support as the team executes. This model suits businesses with capable in-house execution teams that need strategic clarity and commercial focus rather than outsourced content production.",
+      a: "Yes many of our engagements are delivered in a consulting model that works with the existing in-house content and social team rather than replacing them. We develop the strategy, facilitate workshops that align the team on the strategic framework, and provide ongoing strategic advisory support as the team executes. This model suits businesses with capable in-house execution teams that need strategic clarity and commercial focus rather than outsourced content production.",
     },
     {
       q: "How do you measure social media ROI?",
@@ -185,7 +185,7 @@ export const SocialMediaStrategyContent = {
   ],
   cta: {
     title: "Ready to Build a Social Media Programme That Produces Commercial Results?",
-    description: "The gap between social media activity and social media strategy is the gap between content production and commercial growth. The strategy engagement closes that gap — producing the framework that makes every platform decision, every content investment, and every resource allocation commercially intentional.",
+    description: "The gap between social media activity and social media strategy is the gap between content production and commercial growth. The strategy engagement closes that gap producing the framework that makes every platform decision, every content investment, and every resource allocation commercially intentional.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     softwareLink: "https://clickmastersdigitalmarketing.com/social-media-management/",
@@ -195,6 +195,6 @@ export const SocialMediaStrategyContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
-    author: "Amjad Khan — CEO | 2026",
+    author: "Amjad Khan CEO | 2026",
   },
 };

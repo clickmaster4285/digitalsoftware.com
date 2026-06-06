@@ -14,7 +14,7 @@ export const AmazonFbaMarketingContent = {
     titleHighlight: "Marketing",
     subtitle: "— dominate your category. Scale your private label. Protect your margins.",
     description:
-      "Amazon's marketplace generated over $500 billion in gross merchandise value in 2024. The FBA sellers sharing that revenue are not competing on an equal footing. The top 10% of sellers in every product category capture a disproportionate share of sales — the sellers who have mastered the specific combination of listing optimisation, sponsored advertising, review strategy, and inventory management that Amazon's A10 algorithm rewards with category dominance. The remaining 90% are generating thin revenue against increasing FBA fees and PPC spend that climbs without proportionate return.",
+      "Amazon's marketplace generated over $500 billion in gross merchandise value in 2024. The FBA sellers sharing that revenue are not competing on an equal footing. The top 10% of sellers in every product category capture a disproportionate share of sales the sellers who have mastered the specific combination of listing optimisation, sponsored advertising, review strategy, and inventory management that Amazon's A10 algorithm rewards with category dominance. The remaining 90% are generating thin revenue against increasing FBA fees and PPC spend that climbs without proportionate return.",
     stats: [
       { k: "$500B+", v: "Amazon GMV 2024" },
       { k: "10%", v: "Sellers capture most sales" },
@@ -26,12 +26,12 @@ export const AmazonFbaMarketingContent = {
     problem: [
       { text: "The difference between the top 10% and the rest is not the quality of the products. It is the quality of the ", type: "normal" },
       { text: "Amazon marketing programme", type: "highlight" },
-      { text: " — the listing that converts at above-category-average rates, the PPC architecture that generates sales velocity at sustainable ACoS, the review strategy that builds the social proof that Amazon's ranking algorithm and human buyers both require, and the data intelligence that identifies the specific opportunities competitors have left exposed.", type: "normal" }
+      { text: " the listing that converts at above-category-average rates, the PPC architecture that generates sales velocity at sustainable ACoS, the review strategy that builds the social proof that Amazon's ranking algorithm and human buyers both require, and the data intelligence that identifies the specific opportunities competitors have left exposed.", type: "normal" }
     ],
     solution:
-      "Amazon's A10 algorithm ranks products based on sales velocity, conversion rate, and external traffic — distinct from Google's ranking factors. An FBA marketing programme that ignores these dynamics produces spending without ranking improvement.",
+      "Amazon's A10 algorithm ranks products based on sales velocity, conversion rate, and external traffic distinct from Google's ranking factors. An FBA marketing programme that ignores these dynamics produces spending without ranking improvement.",
     promise:
-      "At Clickmasters Digital Marketing, we provide Amazon FBA marketing services for private label sellers who are ready to build their brand into a category leader — not just another listing competing on price.",
+      "At Clickmasters Digital Marketing, we provide Amazon FBA marketing services for private label sellers who are ready to build their brand into a category leader not just another listing competing on price.",
   },
   problem: {
     title: "Why Amazon FBA Marketing Requires",
@@ -40,7 +40,7 @@ export const AmazonFbaMarketingContent = {
       {
         icon: "Brain",
         title: "The Amazon Algorithm Challenge",
-        body: "Amazon's A10 algorithm ranks products based on sales velocity (primary signal), conversion rate (directly affects ranking), and external traffic (receives weighting that incentivises off-Amazon marketing). A programme that ignores these dynamics — running PPC without conversion rate optimisation — produces spending without ranking improvement.",
+        body: "Amazon's A10 algorithm ranks products based on sales velocity (primary signal), conversion rate (directly affects ranking), and external traffic (receives weighting that incentivises off-Amazon marketing). A programme that ignores these dynamics running PPC without conversion rate optimisation produces spending without ranking improvement.",
       },
       {
         icon: "Wallet",
@@ -75,15 +75,15 @@ export const AmazonFbaMarketingContent = {
       tag: "Listing",
       title: "Amazon Listing Optimisation",
       intro:
-        "Amazon product listings are simultaneously a search ranking tool and a sales conversion page — requiring keyword signals for relevance and value communication for conversion.",
+        "Amazon product listings are simultaneously a search ranking tool and a sales conversion page requiring keyword signals for relevance and value communication for conversion.",
       blocks: [
         {
           h: "Title Optimisation",
-          p: "The Amazon title is the highest-weight ranking factor. We research and integrate primary and secondary keywords most searched by buyers, in the format Amazon's algorithm prioritises — balancing keyword density with readability and conversion rate.",
+          p: "The Amazon title is the highest-weight ranking factor. We research and integrate primary and secondary keywords most searched by buyers, in the format Amazon's algorithm prioritises balancing keyword density with readability and conversion rate.",
         },
         {
           h: "Bullet Points & A+ Content",
-          p: "The five bullet points address purchase objections and communicate key benefits. A+ Content (for brand-registered sellers) replaces standard descriptions with rich media — consistently improving conversion rates versus standard descriptions.",
+          p: "The five bullet points address purchase objections and communicate key benefits. A+ Content (for brand-registered sellers) replaces standard descriptions with rich media consistently improving conversion rates versus standard descriptions.",
         },
         {
           h: "Backend Search Terms",
@@ -105,7 +105,7 @@ export const AmazonFbaMarketingContent = {
         },
         {
           h: "Bid Management & ACoS Optimisation",
-          p: "Keyword-level bid management based on historical conversion data. Target ACoS is set based on product margin structure and lifecycle stage — higher for new launches, lower for mature products with established organic ranking.",
+          p: "Keyword-level bid management based on historical conversion data. Target ACoS is set based on product margin structure and lifecycle stage higher for new launches, lower for mature products with established organic ranking.",
         },
         {
           h: "Sponsored Brands & Video",
@@ -123,11 +123,11 @@ export const AmazonFbaMarketingContent = {
       blocks: [
         {
           h: "Amazon Vine",
-          p: "For brand-registered sellers, Amazon's Vine programme invites trusted reviewers to provide authentic reviews in exchange for free product — Amazon-compliant, high-quality, and particularly valuable for new product launches.",
+          p: "For brand-registered sellers, Amazon's Vine programme invites trusted reviewers to provide authentic reviews in exchange for free product Amazon-compliant, high-quality, and particularly valuable for new product launches.",
         },
         {
           h: "Follow-up Email Sequences",
-          p: "Amazon's buyer-seller messaging system allows compliant follow-up emails encouraging buyers to share their experience — timed appropriately and designed to encourage honest reviews.",
+          p: "Amazon's buyer-seller messaging system allows compliant follow-up emails encouraging buyers to share their experience timed appropriately and designed to encourage honest reviews.",
         },
         {
           h: "Review Monitoring and Response",
@@ -141,7 +141,7 @@ export const AmazonFbaMarketingContent = {
       tag: "Brand Store",
       title: "Amazon Brand Store and A+ Content",
       intro:
-        "Amazon Brand Stores are multi-page branded destinations within Amazon — a microsite presenting the full product range with branded design and brand storytelling.",
+        "Amazon Brand Stores are multi-page branded destinations within Amazon a microsite presenting the full product range with branded design and brand storytelling.",
       blocks: [
         {
           h: "Amazon Brand Store Development",
@@ -155,7 +155,7 @@ export const AmazonFbaMarketingContent = {
       tag: "Off-Amazon",
       title: "Off-Amazon Traffic Strategy",
       intro:
-        "Amazon's A10 algorithm specifically weights external traffic as a quality signal — products driving qualified external traffic receive a ranking premium.",
+        "Amazon's A10 algorithm specifically weights external traffic as a quality signal products driving qualified external traffic receive a ranking premium.",
       blocks: [
         {
           h: "External Traffic Signals",
@@ -188,7 +188,7 @@ export const AmazonFbaMarketingContent = {
       metric: "£28K→£94K",
       sub: "monthly revenue · 38%→22% ACoS",
       title: "UK health supplement brand grows Amazon revenue from £28K to £94K/month in 16 months.",
-      body: "A UK FBA seller in health supplements had 3 products generating £28,000/month with 38% ACoS — above sustainable threshold. Our engagement: complete listing rebuild (titles, bullets, A+ Content), PPC restructure (tiered exact/phrase/auto architecture), Vine activation (12 reviews per ASIN), and Meta Ads driving external traffic. Result: Revenue grew to £94,000/month, ACoS improved to 22%, average reviews grew from 24 to 142 per ASIN, primary keyword ranking improved from page 3 to page 1.",
+      body: "A UK FBA seller in health supplements had 3 products generating £28,000/month with 38% ACoS above sustainable threshold. Our engagement: complete listing rebuild (titles, bullets, A+ Content), PPC restructure (tiered exact/phrase/auto architecture), Vine activation (12 reviews per ASIN), and Meta Ads driving external traffic. Result: Revenue grew to £94,000/month, ACoS improved to 22%, average reviews grew from 24 to 142 per ASIN, primary keyword ranking improved from page 3 to page 1.",
     },
     {
       tag: "US · Private Label Kitchen",
@@ -207,12 +207,12 @@ export const AmazonFbaMarketingContent = {
     {
       icon: "LineChart",
       h: "Data-driven ACoS management",
-      p: "We manage Amazon PPC with commercial discipline — ACoS targets set based on each product's margin structure, bid management based on keyword-level conversion data, and ongoing optimisation preventing PPC spend escalation that erodes margins without ranking benefit.",
+      p: "We manage Amazon PPC with commercial discipline ACoS targets set based on each product's margin structure, bid management based on keyword-level conversion data, and ongoing optimisation preventing PPC spend escalation that erodes margins without ranking benefit.",
     },
     {
       icon: "ShieldCheck",
       h: "Amazon Terms of Service compliance",
-      p: "Every programme is designed within Amazon's ToS — no review manipulation, no prohibited PPC tactics, no listing techniques violating Amazon's content policies. ToS violations result in listing suppression and account suspension that erase legitimate ranking investment.",
+      p: "Every programme is designed within Amazon's ToS no review manipulation, no prohibited PPC tactics, no listing techniques violating Amazon's content policies. ToS violations result in listing suppression and account suspension that erase legitimate ranking investment.",
     },
   ],
   faqs: [
@@ -222,11 +222,11 @@ export const AmazonFbaMarketingContent = {
     },
     {
       q: "What is a sustainable ACoS for Amazon FBA?",
-      a: "Sustainable ACoS varies by product category, margin structure, and product lifecycle stage. For a product with 40% gross margin, ACoS above 35-38% means PPC is generating sales at break-even or loss — breakeven ACoS equals gross margin percentage. For mature products with established organic ranking, target ACoS should be well below breakeven (typically 15-25%). Launch phases justify above-breakeven ACoS as ranking investment.",
+      a: "Sustainable ACoS varies by product category, margin structure, and product lifecycle stage. For a product with 40% gross margin, ACoS above 35-38% means PPC is generating sales at break-even or loss breakeven ACoS equals gross margin percentage. For mature products with established organic ranking, target ACoS should be well below breakeven (typically 15-25%). Launch phases justify above-breakeven ACoS as ranking investment.",
     },
     {
       q: "Do you work with sellers on Amazon UK, Amazon US, and Amazon UAE?",
-      a: "Yes — we work with FBA sellers on all major Amazon marketplaces including Amazon UK (amazon.co.uk), Amazon US (amazon.com), and Amazon UAE (amazon.ae). Multi-marketplace listing optimisation (adapting for UK English, US English, and Arabic where relevant) and multi-marketplace PPC management are standard components of our Amazon FBA programmes.",
+      a: "Yes we work with FBA sellers on all major Amazon marketplaces including Amazon UK (amazon.co.uk), Amazon US (amazon.com), and Amazon UAE (amazon.ae). Multi-marketplace listing optimisation (adapting for UK English, US English, and Arabic where relevant) and multi-marketplace PPC management are standard components of our Amazon FBA programmes.",
     },
     {
       q: "What is the minimum monthly revenue for your Amazon FBA services to be worthwhile?",
@@ -234,7 +234,7 @@ export const AmazonFbaMarketingContent = {
     },
     {
       q: "How do you handle the transition from existing PPC campaigns?",
-      a: "We conduct a full audit of existing PPC campaigns before making changes — identifying highest-performing keywords and ad groups to preserve and expand, and wasted spend on underperforming terms to pause or restructure. We transition campaigns in a structured sequence that avoids disrupting sales velocity of high-performing campaigns while implementing improvements for better long-term outcomes.",
+      a: "We conduct a full audit of existing PPC campaigns before making changes identifying highest-performing keywords and ad groups to preserve and expand, and wasted spend on underperforming terms to pause or restructure. We transition campaigns in a structured sequence that avoids disrupting sales velocity of high-performing campaigns while implementing improvements for better long-term outcomes.",
     },
   ],
   cta: {
@@ -250,6 +250,6 @@ export const AmazonFbaMarketingContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
+    author: "Amjad Khan CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
   },
 };

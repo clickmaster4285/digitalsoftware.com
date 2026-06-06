@@ -1,3 +1,6 @@
+
+
+
 export const SeoServicesUsaContent = {
   slug: "seo-services-usa",
   metadata: {
@@ -9,12 +12,12 @@ export const SeoServicesUsaContent = {
     author: "Amjad Khan",
   },
   hero: {
-    tag: "[ Service · 14 ] — SEO Services",
+    tag: "[ Service · 14 ] SEO Services",
     title: "SEO Services",
     titleHighlight: "USA",
     subtitle: "— dominate US search. Grow revenue. Rank where it counts.",
     description:
-      "American businesses spend over $80 billion on digital marketing annually — and the largest single driver of that spend is organic search. The US businesses generating the highest return on marketing investment are almost universally those with strong Google rankings for the commercial search terms that represent their highest-value buyer intent. Not paid rankings that disappear when the budget is paused — organic rankings that generate qualified traffic, qualified leads, and qualified revenue continuously, compounding in authority over time.",
+      "American businesses spend over $80 billion on digital marketing annually and the largest single driver of that spend is organic search. The US businesses generating the highest return on marketing investment are almost universally those with strong Google rankings for the commercial search terms that represent their highest-value buyer intent. Not paid rankings that disappear when the budget is paused organic rankings that generate qualified traffic, qualified leads, and qualified revenue continuously, compounding in authority over time.",
     stats: [
       { k: "$80B+", v: "US digital marketing spend" },
       { k: "22,200/mo", v: "Search volume" },
@@ -26,15 +29,15 @@ export const SeoServicesUsaContent = {
     problem: [
       { text: "The challenge is that US search competition is the ", type: "normal" },
       { text: "most intense in the world", type: "highlight" },
-      { text: ". The US Google landscape has been shaped by 25 years of sophisticated SEO investment from the largest organisations on earth. Ranking on page 1 for commercially valuable US search terms — against the domain authorities, content libraries, and link profiles that the US market's most established competitors have built — requires the same level of technical excellence, content quality, and authority-building investment.", type: "normal" }
+      { text: ". The US Google landscape has been shaped by 25 years of sophisticated SEO investment from the largest organisations on earth. Ranking on page 1 for commercially valuable US search terms against the domain authorities, content libraries, and link profiles that the US market's most established competitors have built requires the same level of technical excellence, content quality, and authority-building investment.", type: "normal" }
     ],
     solution: [
-      { text: "The majority of US businesses are not achieving this. Their websites have technical issues preventing Google from crawling and indexing efficiently. Their content is thin, generic, and does not match search intent. Their backlink profiles are sparse, built on low-quality links, or entirely absent. And their SEO programmes — where they exist — are managed by agencies that report on rankings and traffic without connecting those metrics to ", type: "normal" },
+      { text: "The majority of US businesses are not achieving this. Their websites have technical issues preventing Google from crawling and indexing efficiently. Their content is thin, generic, and does not match search intent. Their backlink profiles are sparse, built on low-quality links, or entirely absent. And their SEO programmes where they exist are managed by agencies that report on rankings and traffic without connecting those metrics to ", type: "normal" },
       { text: "actual business outcomes", type: "highlight" },
       { text: ".", type: "normal" }
     ],
     promise: [
-      { text: "At Clickmasters Digital Marketing, we provide SEO services for US businesses that are serious about organic search as a revenue channel — the ", type: "normal" },
+      { text: "At Clickmasters Digital Marketing, we provide SEO services for US businesses that are serious about organic search as a revenue channel the ", type: "normal" },
       { text: "technically excellent, content-first, authority-driven SEO programmes", type: "highlight" },
       { text: " that produce durable page 1 rankings for the commercial search terms that matter most to each client's growth.", type: "normal" }
     ],
@@ -46,7 +49,7 @@ export const SeoServicesUsaContent = {
       {
         icon: "Search",
         title: "Technical SEO Audit and Foundation",
-        desc: "Comprehensive audit of 200+ technical SEO factors — Core Web Vitals, crawlability, site architecture, mobile performance, structured data — followed by implementation of improvements that enable Google to crawl, index, and rank your content efficiently.",
+        desc: "Comprehensive audit of 200+ technical SEO factors Core Web Vitals, crawlability, site architecture, mobile performance, structured data followed by implementation of improvements that enable Google to crawl, index, and rank your content efficiently.",
       },
       {
         icon: "Target",
@@ -56,12 +59,12 @@ export const SeoServicesUsaContent = {
       {
         icon: "FileText",
         title: "US SEO Content Strategy and Production",
-        desc: "Content that ranks AND converts — satisfying Google's ranking algorithm while driving enquiries, calls, and purchases. Service page optimisation, product page optimisation, and thought leadership that builds topical authority.",
+        desc: "Content that ranks AND converts satisfying Google's ranking algorithm while driving enquiries, calls, and purchases. Service page optimisation, product page optimisation, and thought leadership that builds topical authority.",
       },
       {
         icon: "Link2",
         title: "Link Building and US Authority Development",
-        desc: "Digital PR earning coverage from authoritative US media, industry-specific authority publishing, and resource link building — creating the backlink profile that signals authority to Google's ranking algorithm.",
+        desc: "Digital PR earning coverage from authoritative US media, industry-specific authority publishing, and resource link building creating the backlink profile that signals authority to Google's ranking algorithm.",
       },
       {
         icon: "MapPin",
@@ -71,7 +74,7 @@ export const SeoServicesUsaContent = {
       {
         icon: "BarChart3",
         title: "SEO Analytics and US Performance Reporting",
-        desc: "Revenue-connected SEO reporting showing which keywords generate leads, which pages drive form submissions, and what commercial value your organic search programme delivers — not just traffic volume.",
+        desc: "Revenue-connected SEO reporting showing which keywords generate leads, which pages drive form submissions, and what commercial value your organic search programme delivers not just traffic volume.",
       },
     ],
   },
@@ -82,7 +85,7 @@ export const SeoServicesUsaContent = {
       {
         icon: "Layers",
         title: "Full-Stack US SEO Expertise",
-        desc: "Effective US SEO requires technical excellence, content quality, and link authority — each necessary, none sufficient alone. We deliver all three simultaneously, producing durable US search rankings that survive algorithm updates.",
+        desc: "Effective US SEO requires technical excellence, content quality, and link authority each necessary, none sufficient alone. We deliver all three simultaneously, producing durable US search rankings that survive algorithm updates.",
       },
       {
         icon: "ShieldCheck",
@@ -92,7 +95,7 @@ export const SeoServicesUsaContent = {
       {
         icon: "Briefcase",
         title: "US Market Sector Depth",
-        desc: "We've delivered SEO programmes across legal, healthcare, financial services, e-commerce, technology, professional services, real estate, hospitality, and education — building sector-specific knowledge that accelerates results.",
+        desc: "We've delivered SEO programmes across legal, healthcare, financial services, e-commerce, technology, professional services, real estate, hospitality, and education building sector-specific knowledge that accelerates results.",
       },
     ],
   },
@@ -103,7 +106,7 @@ export const SeoServicesUsaContent = {
       {
         icon: "TrendingUp",
         title: "Consistent, Compounding Organic Lead Generation",
-        desc: "Each page that achieves strong Google rankings generates qualified traffic continuously, without ongoing per-click spend. The SEO investment produces an asset — the ranking authority — that generates commercial returns indefinitely.",
+        desc: "Each page that achieves strong Google rankings generates qualified traffic continuously, without ongoing per-click spend. The SEO investment produces an asset the ranking authority that generates commercial returns indefinitely.",
       },
       {
         icon: "DollarSign",
@@ -123,7 +126,7 @@ export const SeoServicesUsaContent = {
       metric: "84",
       sub: "organic enquiries/month · $18K → $12K ad spend",
       title: "SEO programme generates 84 organic enquiries per month in 18 months.",
-      body: "US personal injury law firm across 3 states spending $18K/month on Google Ads generating 64 paid leads/month. No organic SEO programme — entirely dependent on paid search. Solution: comprehensive technical audit (34 priority issues), city-specific content programme (dedicated pages for 12 geographic markets), local citation programme across all markets, digital PR placing expert commentary in 8 US legal publications. Result: keyword rankings 340→2,840 within 18 months, organic enquiries 0→84/month. Paid search reduced by $6K/month as organic replaced paid coverage for terms where page 1 positions were established.",
+      body: "US personal injury law firm across 3 states spending $18K/month on Google Ads generating 64 paid leads/month. No organic SEO programme entirely dependent on paid search. Solution: comprehensive technical audit (34 priority issues), city-specific content programme (dedicated pages for 12 geographic markets), local citation programme across all markets, digital PR placing expert commentary in 8 US legal publications. Result: keyword rankings 340→2,840 within 18 months, organic enquiries 0→84/month. Paid search reduced by $6K/month as organic replaced paid coverage for terms where page 1 positions were established.",
     },
     {
       tag: "US E-Commerce Brand · Organic Growth",
@@ -144,7 +147,7 @@ export const SeoServicesUsaContent = {
     {
       icon: "MapPin",
       h: "US market expertise across all 50 states",
-      p: "We deliver SEO for US businesses across all major markets — from high-competition coastal markets (NY, LA, SF, Boston) to growth markets (Dallas, Phoenix, Austin, Denver) to regional markets of the Midwest and Southeast. Each market has unique competitive dynamics, local search landscapes, and sector-specific search behaviour.",
+      p: "We deliver SEO for US businesses across all major markets from high-competition coastal markets (NY, LA, SF, Boston) to growth markets (Dallas, Phoenix, Austin, Denver) to regional markets of the Midwest and Southeast. Each market has unique competitive dynamics, local search landscapes, and sector-specific search behaviour.",
     },
     {
       icon: "BarChart3",
@@ -154,7 +157,7 @@ export const SeoServicesUsaContent = {
     {
       icon: "ShieldCheck",
       h: "Google-compliant, algorithm-resilient programme design",
-      p: "Every SEO programme is built to produce durable results that survive Google algorithm updates — not short-term gains that collapse when quality systems catch up. Technical foundation, content quality, and link acquisition are all aligned with Google's published quality guidelines.",
+      p: "Every SEO programme is built to produce durable results that survive Google algorithm updates not short-term gains that collapse when quality systems catch up. Technical foundation, content quality, and link acquisition are all aligned with Google's published quality guidelines.",
     },
   ],
   faqs: [
@@ -164,7 +167,7 @@ export const SeoServicesUsaContent = {
     },
     {
       q: "What is the difference between local SEO and national SEO for US businesses?",
-      a: "Local SEO targets geographic search queries — 'dentist Chicago', 'personal injury attorney near me' — determined primarily by Google Business Profile signals (reviews, completeness, activity), local citation consistency, and geographic relevance signals. National SEO targets non-geographic commercial queries — 'best project management software for construction' — determined primarily by content quality, topical authority, and domain-level backlink authority. Most US businesses need both. We design integrated programmes serving both objectives.",
+      a: "Local SEO targets geographic search queries 'dentist Chicago', 'personal injury attorney near me' determined primarily by Google Business Profile signals (reviews, completeness, activity), local citation consistency, and geographic relevance signals. National SEO targets non-geographic commercial queries 'best project management software for construction' determined primarily by content quality, topical authority, and domain-level backlink authority. Most US businesses need both. We design integrated programmes serving both objectives.",
     },
     {
       q: "How much does US SEO cost?",
@@ -176,21 +179,21 @@ export const SeoServicesUsaContent = {
     },
     {
       q: "Do you work with US businesses in all industries?",
-      a: "Yes — we've delivered US SEO programmes across legal (personal injury, family law, criminal defence, commercial law), healthcare (medical practices, dental, mental health, telehealth), financial services (wealth management, fintech, insurance), e-commerce and DTC brands, B2B SaaS and technology, real estate, professional services (accounting, consulting, engineering), education, hospitality, and manufacturing. Each sector has distinct content standards, link acquisition opportunities, and competitive dynamics — and we bring sector-specific knowledge that accelerates results versus a generalist programme.",
+      a: "Yes we've delivered US SEO programmes across legal (personal injury, family law, criminal defence, commercial law), healthcare (medical practices, dental, mental health, telehealth), financial services (wealth management, fintech, insurance), e-commerce and DTC brands, B2B SaaS and technology, real estate, professional services (accounting, consulting, engineering), education, hospitality, and manufacturing. Each sector has distinct content standards, link acquisition opportunities, and competitive dynamics and we bring sector-specific knowledge that accelerates results versus a generalist programme.",
     },
     {
       q: "How is Clickmasters different from other US SEO agencies?",
-      a: "Three differences: First, commercial accountability — we report on revenue outcomes, not just rankings and traffic. Every programme has specific commercial metrics we track monthly. Second, algorithm resilience — every technique aligns with Google's quality guidelines. We don't produce short-term ranking gains through techniques that create long-term penalty risk. Third, global delivery, US market focus — our global delivery model means US clients pay significantly less than equivalent US agency rates for the same quality of work.",
+      a: "Three differences: First, commercial accountability we report on revenue outcomes, not just rankings and traffic. Every programme has specific commercial metrics we track monthly. Second, algorithm resilience every technique aligns with Google's quality guidelines. We don't produce short-term ranking gains through techniques that create long-term penalty risk. Third, global delivery, US market focus our global delivery model means US clients pay significantly less than equivalent US agency rates for the same quality of work.",
     },
     {
       q: "How do I get started?",
-      a: "Book a free US SEO consultation. We'll review your current organic search position, competitive landscape, and commercial objectives — then provide a specific assessment of the organic opportunity and a roadmap to capture it. No commitment required.",
+      a: "Book a free US SEO consultation. We'll review your current organic search position, competitive landscape, and commercial objectives then provide a specific assessment of the organic opportunity and a roadmap to capture it. No commitment required.",
     },
   ],
   cta: {
     title: "Ready to Make Organic Search Your Highest-ROI US Marketing Channel?",
     description:
-      "The US businesses generating the most consistent, lowest-cost inbound leads are not the ones spending the most on paid search — they are the ones that built the organic authority to rank on page 1 for the commercial queries their best clients use. That authority is buildable. It takes time, quality, and consistency. But once established, it generates qualified leads continuously, at a marginal cost that paid channels cannot approach. We build it.",
+      "The US businesses generating the most consistent, lowest-cost inbound leads are not the ones spending the most on paid search they are the ones that built the organic authority to rank on page 1 for the commercial queries their best clients use. That authority is buildable. It takes time, quality, and consistency. But once established, it generates qualified leads continuously, at a marginal cost that paid channels cannot approach. We build it.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     seoLink: "https://clickmastersdigitalmarketing.com/",
@@ -200,6 +203,6 @@ export const SeoServicesUsaContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | USA SEO specialist | 10+ years",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | USA SEO specialist | 10+ years",
   },
 };

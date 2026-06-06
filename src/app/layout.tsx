@@ -17,7 +17,7 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "ClickMasters — Software crafted with care",
+  title: "ClickMasters Software crafted with care",
   description: "An independent software studio designing and engineering web platforms, apps and AI products for ambitious founders.",
 };
 

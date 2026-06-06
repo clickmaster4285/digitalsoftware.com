@@ -9,12 +9,12 @@ export const OffPageSeoContent = {
     author: "Amjad Khan",
   },
   hero: {
-    tag: "[ Service · 17 ] — Off-Page SEO",
+    tag: "[ Service · 17 ] Off-Page SEO",
     title: "Link Building",
     titleHighlight: "Services",
     subtitle: "— off-page SEO authority that compounds over time.",
     description:
-      "Every page on your website competes for rankings against pages on other websites. In Google's eyes, a page's relevance is determined by what is on it — but its authority is determined by what other websites say about it. That authority is measured in backlinks: links from other websites pointing to yours. This is not a metaphor. It is the core mechanic of how Google has ranked pages since its inception, and despite 27 years of algorithm evolution, the fundamental signal has not changed.",
+      "Every page on your website competes for rankings against pages on other websites. In Google's eyes, a page's relevance is determined by what is on it but its authority is determined by what other websites say about it. That authority is measured in backlinks: links from other websites pointing to yours. This is not a metaphor. It is the core mechanic of how Google has ranked pages since its inception, and despite 27 years of algorithm evolution, the fundamental signal has not changed.",
     stats: [
       { k: "9,900/mo", v: "Search volume" },
       { k: "3,500+", v: "Businesses served" },
@@ -26,14 +26,14 @@ export const OffPageSeoContent = {
     problem: [
       { text: "In 2026, a single high-quality, contextually relevant backlink from a trusted publication in your industry is worth more than ", type: "normal" },
       { text: "five hundred links from low-authority directories or link farms", type: "highlight" },
-      { text: ". Google's link evaluation has become sophisticated enough to distinguish earned, editorial links from manipulative link schemes — and the penalties for the latter are severe and lasting. Meanwhile, the compounding nature of genuine link equity means that every legitimate link you earn today continues to ", type: "normal" },
+      { text: ". Google's link evaluation has become sophisticated enough to distinguish earned, editorial links from manipulative link schemes and the penalties for the latter are severe and lasting. Meanwhile, the compounding nature of genuine link equity means that every legitimate link you earn today continues to ", type: "normal" },
       { text: "strengthen your rankings for years", type: "highlight" },
       { text: ".", type: "normal" }
     ],
     solution: [
       { text: "At Clickmasters Digital Marketing, we have built link campaigns for more than 3,500 businesses across the USA, UK, UAE, and Pakistan. We operate exclusively in ", type: "normal" },
       { text: "white-hat territory", type: "highlight" },
-      { text: " — earning links through digital PR, original research, expert outreach, and content-led strategies that pass Google's scrutiny permanently. ", type: "normal" },
+      { text: " earning links through digital PR, original research, expert outreach, and content-led strategies that pass Google's scrutiny permanently. ", type: "normal" },
       { text: "No PBNs. No link farms. No guest post networks.", type: "highlight" },
       { text: " No schemes that work for six months and then trigger a manual penalty that costs two years of recovery.", type: "normal" }
     ],
@@ -50,12 +50,12 @@ export const OffPageSeoContent = {
       {
         icon: "ShieldCheck",
         title: "Domain Authority and Trust",
-        body: "A link from a website that Google considers authoritative — a major publication, an established industry body, a university, a government agency — passes significantly more authority than a link from a newly registered blog. Google's evaluation of domain authority is based on the quality and quantity of that domain's own link profile.",
+        body: "A link from a website that Google considers authoritative a major publication, an established industry body, a university, a government agency passes significantly more authority than a link from a newly registered blog. Google's evaluation of domain authority is based on the quality and quantity of that domain's own link profile.",
       },
       {
         icon: "Target",
         title: "Topical Relevance",
-        body: "A link from a website in your industry passes more ranking authority than a link from an unrelated website — even if the unrelated website has higher overall authority. A law firm getting a link from a legal journal is worth more than the same firm getting a link from a cooking blog.",
+        body: "A link from a website in your industry passes more ranking authority than a link from an unrelated website even if the unrelated website has higher overall authority. A law firm getting a link from a legal journal is worth more than the same firm getting a link from a cooking blog.",
       },
       {
         icon: "Link2",
@@ -74,12 +74,12 @@ export const OffPageSeoContent = {
       {
         icon: "AlertCircle",
         title: "Links from Penalized or Low-Quality Domains",
-        body: "Paid links without nofollow or sponsored attributes are a manual penalty risk — businesses can lose 60 to 80 percent of organic traffic following a manual link penalty, with recovery taking 12 to 24 months.",
+        body: "Paid links without nofollow or sponsored attributes are a manual penalty risk businesses can lose 60 to 80 percent of organic traffic following a manual link penalty, with recovery taking 12 to 24 months.",
       },
       {
         icon: "ShieldOff",
         title: "Private Blog Networks (PBNs)",
-        body: "PBNs violate Google's guidelines and, as of 2026, are routinely detected algorithmically — their consistent shelf life is 6 to 18 months before triggering a penalty.",
+        body: "PBNs violate Google's guidelines and, as of 2026, are routinely detected algorithmically their consistent shelf life is 6 to 18 months before triggering a penalty.",
       },
       {
         icon: "BarChart3",
@@ -95,11 +95,11 @@ export const OffPageSeoContent = {
       tag: "Digital PR",
       title: "Digital PR and Data-Driven Content Campaigns",
       intro:
-        "Digital PR is the highest-quality link building strategy available — and the most scalable when executed correctly.",
+        "Digital PR is the highest-quality link building strategy available and the most scalable when executed correctly.",
       blocks: [
         {
           h: "Original Research and Data Studies",
-          p: "We create original research assets using publicly available data, client-supplied industry data, or commissioned surveys — producing findings that are newsworthy in your industry. A well-designed original study earns links not just from initial coverage, but from secondary citations over subsequent months and years.",
+          p: "We create original research assets using publicly available data, client-supplied industry data, or commissioned surveys producing findings that are newsworthy in your industry. A well-designed original study earns links not just from initial coverage, but from secondary citations over subsequent months and years.",
         },
         {
           h: "Expert Commentary and Reactive PR",
@@ -107,7 +107,7 @@ export const OffPageSeoContent = {
         },
         {
           h: "Thought Leadership Content Placement",
-          p: "For established brands and executives, we develop full thought leadership articles — written in your voice, grounded in your expertise — and secure placement in relevant industry publications.",
+          p: "For established brands and executives, we develop full thought leadership articles written in your voice, grounded in your expertise and secure placement in relevant industry publications.",
         },
       ],
     },
@@ -117,7 +117,7 @@ export const OffPageSeoContent = {
       tag: "Resource Pages",
       title: "Resource Page Link Building",
       intro:
-        "Resource pages are curated lists of useful tools, guides, and references that websites maintain for their audiences — one of the most reliable link building opportunities.",
+        "Resource pages are curated lists of useful tools, guides, and references that websites maintain for their audiences one of the most reliable link building opportunities.",
       blocks: [
         {
           h: "Resource Page Discovery",
@@ -135,7 +135,7 @@ export const OffPageSeoContent = {
       tag: "Broken Links",
       title: "Broken Link Building",
       intro:
-        "Broken link building creates immediate value for the website owner — which is why it converts at higher rates than most other outreach strategies.",
+        "Broken link building creates immediate value for the website owner which is why it converts at higher rates than most other outreach strategies.",
       blocks: [
         {
           h: "Our Broken Link Process",
@@ -143,7 +143,7 @@ export const OffPageSeoContent = {
         },
         {
           h: "Effective Industries",
-          p: "This tactic is particularly effective in industries with high volumes of older, content-heavy websites — education, healthcare, finance, legal, and technology — where 404 pages accumulate as content is moved or deleted over time.",
+          p: "This tactic is particularly effective in industries with high volumes of older, content-heavy websites education, healthcare, finance, legal, and technology where 404 pages accumulate as content is moved or deleted over time.",
         },
       ],
     },
@@ -167,7 +167,7 @@ export const OffPageSeoContent = {
       tag: "Guest Posting",
       title: "Strategic Guest Posting on Relevant Publications",
       intro:
-        "Guest posting remains legitimate and effective in 2026 — but only on publications that meet strict quality criteria.",
+        "Guest posting remains legitimate and effective in 2026 but only on publications that meet strict quality criteria.",
       blocks: [
         {
           h: "Publication Qualification Criteria",
@@ -175,7 +175,7 @@ export const OffPageSeoContent = {
         },
         {
           h: "Content Quality Standards",
-          p: "Every guest post is written to the editorial standards of the target publication — not a generic template. We produce 1,200 to 2,500 word articles that a publication's audience would share and bookmark.",
+          p: "Every guest post is written to the editorial standards of the target publication not a generic template. We produce 1,200 to 2,500 word articles that a publication's audience would share and bookmark.",
         },
       ],
     },
@@ -193,7 +193,7 @@ export const OffPageSeoContent = {
         },
         {
           h: "Our Citation Process",
-          p: "We conduct a full citation audit to identify every existing mention, flag all inconsistencies, and systematically correct them. We then build new citations on the top 50-80 local directories relevant to your industry and geography — including Google Business Profile, Bing Places, Apple Maps, Yelp, and industry-specific directories.",
+          p: "We conduct a full citation audit to identify every existing mention, flag all inconsistencies, and systematically correct them. We then build new citations on the top 50-80 local directories relevant to your industry and geography including Google Business Profile, Bing Places, Apple Maps, Yelp, and industry-specific directories.",
         },
       ],
     },
@@ -204,7 +204,7 @@ export const OffPageSeoContent = {
       metric: "47",
       sub: "high-authority links · DR 28 → 41 · Position 1 in 8 months",
       title: "47 high-authority links in 4 months drive position 1 ranking in 8 months.",
-      body: "SaaS logistics software company with domain rating 28 — substantially lower than every competitor ranking for 'logistics management software' (27,100/mo). Content quality was strong; link deficit was the singular ranking obstacle. Solution: combined original data research (logistics industry trend report), resource page outreach across 200 supply chain publications, expert commentary in 3 trade publications. Result: 47 new backlinks in 4 months (avg DR 52), domain rating 28→41. 'Logistics management software' ranking 24→1 in 8 months. Organic revenue from keyword cluster increased $380,000 in 12 months post-campaign.",
+      body: "SaaS logistics software company with domain rating 28 substantially lower than every competitor ranking for 'logistics management software' (27,100/mo). Content quality was strong; link deficit was the singular ranking obstacle. Solution: combined original data research (logistics industry trend report), resource page outreach across 200 supply chain publications, expert commentary in 3 trade publications. Result: 47 new backlinks in 4 months (avg DR 52), domain rating 28→41. 'Logistics management software' ranking 24→1 in 8 months. Organic revenue from keyword cluster increased $380,000 in 12 months post-campaign.",
     },
     {
       tag: "Healthcare Practice · Medical Authority",
@@ -218,19 +218,19 @@ export const OffPageSeoContent = {
       metric: "280",
       sub: "backlinks · DR 0 → 38 · 14K monthly visitors",
       title: "Zero to 280 backlinks, category leader in 14 months.",
-      body: "Fashion e-commerce brand entering competitive US sustainable fashion market — zero domain authority, zero backlinks. Competitors had been building link profiles for 5-10 years. Solution: long-form sustainability research report ('The True Cost of Fast Fashion 2025') pitched to sustainability journalists and fashion media, broken link building across fashion and sustainability resource pages, expert commentary program placing founder in fashion industry publications. Result: 280 backlinks in 14 months, domain rating 0→38, position 1-3 for 47 long-tail target keywords, 14,000 monthly organic visitors. Research report continues earning new citations monthly without active outreach — demonstrating compounding value of quality digital PR assets.",
+      body: "Fashion e-commerce brand entering competitive US sustainable fashion market zero domain authority, zero backlinks. Competitors had been building link profiles for 5-10 years. Solution: long-form sustainability research report ('The True Cost of Fast Fashion 2025') pitched to sustainability journalists and fashion media, broken link building across fashion and sustainability resource pages, expert commentary program placing founder in fashion industry publications. Result: 280 backlinks in 14 months, domain rating 0→38, position 1-3 for 47 long-tail target keywords, 14,000 monthly organic visitors. Research report continues earning new citations monthly without active outreach demonstrating compounding value of quality digital PR assets.",
     },
   ],
   why: [
     {
       icon: "ShieldCheck",
       h: "Permanent, penalty-free methodology",
-      p: "Every link we build passes Google's guidelines — not because we claim it, but because we only use methods that produce genuinely editorial, earned links. Our client portfolio includes zero manual penalty incidents from links we have built.",
+      p: "Every link we build passes Google's guidelines not because we claim it, but because we only use methods that produce genuinely editorial, earned links. Our client portfolio includes zero manual penalty incidents from links we have built.",
     },
     {
       icon: "Star",
       h: "Quality over volume, always",
-      p: "We would rather build 5 links from DR 60+ publications than 50 links from DR 20 directories. Our monthly reporting reflects this — we report on domain authority and topical relevance, not raw link count.",
+      p: "We would rather build 5 links from DR 60+ publications than 50 links from DR 20 directories. Our monthly reporting reflects this we report on domain authority and topical relevance, not raw link count.",
     },
     {
       icon: "Eye",
@@ -246,15 +246,15 @@ export const OffPageSeoContent = {
   faqs: [
     {
       q: "How many links do I need to rank for my target keywords?",
-      a: "There's no fixed number — it depends entirely on your competitive landscape. We analyze the link profiles of the top 5 ranking pages for your target keywords and identify the authority gap between your current profile and the benchmark needed. For less competitive niches, 20-30 high-quality links may be sufficient. For competitive commercial keywords in major markets, you may need 100-200 links from authoritative sources built over 12-18 months.",
+      a: "There's no fixed number it depends entirely on your competitive landscape. We analyze the link profiles of the top 5 ranking pages for your target keywords and identify the authority gap between your current profile and the benchmark needed. For less competitive niches, 20-30 high-quality links may be sufficient. For competitive commercial keywords in major markets, you may need 100-200 links from authoritative sources built over 12-18 months.",
     },
     {
       q: "How long does it take to see ranking improvements from link building?",
-      a: "Google crawls and indexes new backlinks on a variable timeline — typically 2-6 weeks after a link goes live. Ranking impact usually becomes measurable 4-12 weeks after link acquisition. Sustained, compounding ranking improvements typically become measurable at the 3-6 month mark.",
+      a: "Google crawls and indexes new backlinks on a variable timeline typically 2-6 weeks after a link goes live. Ranking impact usually becomes measurable 4-12 weeks after link acquisition. Sustained, compounding ranking improvements typically become measurable at the 3-6 month mark.",
     },
     {
       q: "What is a PBN and why should I avoid it?",
-      a: "A Private Blog Network (PBN) is a network of websites created specifically to sell backlinks, often by purchasing expired domains with existing authority. PBNs violate Google's guidelines and, in 2026, are increasingly detectable algorithmically. Links from PBNs may produce short-term ranking improvements, but the statistical risk of a Google penalty — which can remove 60-80% of your organic traffic — makes them an irrational risk for any business that depends on organic search for revenue.",
+      a: "A Private Blog Network (PBN) is a network of websites created specifically to sell backlinks, often by purchasing expired domains with existing authority. PBNs violate Google's guidelines and, in 2026, are increasingly detectable algorithmically. Links from PBNs may produce short-term ranking improvements, but the statistical risk of a Google penalty which can remove 60-80% of your organic traffic makes them an irrational risk for any business that depends on organic search for revenue.",
     },
     {
       q: "Should I disavow toxic links in my backlink profile?",
@@ -262,15 +262,15 @@ export const OffPageSeoContent = {
     },
     {
       q: "What is the difference between white-hat and black-hat link building?",
-      a: "White-hat link building earns links through methods that comply with Google's guidelines — creating content others want to cite, outreach to relevant publishers, expert commentary, resource page inclusions, and genuine digital PR. Black-hat manipulates Google's algorithm through purchased links, PBNs, link exchanges, or automated schemes. In 2026: white-hat links compound in value with no penalty risk; black-hat carries a statistical certainty of eventually triggering a penalty.",
+      a: "White-hat link building earns links through methods that comply with Google's guidelines creating content others want to cite, outreach to relevant publishers, expert commentary, resource page inclusions, and genuine digital PR. Black-hat manipulates Google's algorithm through purchased links, PBNs, link exchanges, or automated schemes. In 2026: white-hat links compound in value with no penalty risk; black-hat carries a statistical certainty of eventually triggering a penalty.",
     },
     {
       q: "Do you guarantee specific rankings from link building?",
-      a: "No ethical link building agency can guarantee specific ranking positions — because rankings are determined by Google's algorithm weighing hundreds of signals simultaneously. What we guarantee is that the links we build are genuinely high quality, earned through compliant methods, and contribute positively to your domain's authority trajectory.",
+      a: "No ethical link building agency can guarantee specific ranking positions because rankings are determined by Google's algorithm weighing hundreds of signals simultaneously. What we guarantee is that the links we build are genuinely high quality, earned through compliant methods, and contribute positively to your domain's authority trajectory.",
     },
     {
       q: "How do you report on link building progress?",
-      a: "Monthly reporting includes: all new links acquired (with live URLs, domain rating, topical relevance classification, and anchor text), overall domain rating trend, referring domain growth chart, anchor text profile analysis, and ranking movement for your primary target keywords. We also flag new links appearing organically and any links that disappeared — link losses are as important to track as gains.",
+      a: "Monthly reporting includes: all new links acquired (with live URLs, domain rating, topical relevance classification, and anchor text), overall domain rating trend, referring domain growth chart, anchor text profile analysis, and ranking movement for your primary target keywords. We also flag new links appearing organically and any links that disappeared link losses are as important to track as gains.",
     },
     {
       q: "How do I get started?",
@@ -280,7 +280,7 @@ export const OffPageSeoContent = {
   cta: {
     title: "Ready to Build the Off-Page Authority That Ranks and Compounds?",
     description:
-      "Your organic rankings are a direct reflection of how Google perceives your authority relative to your competitors. If they outrank you, they have more of it. Link building is how you close that gap — and in 2026, a clean, high-authority link profile built through white-hat methods is a durable competitive asset that compounds in value for years. Every high-quality link we earn for your business today continues to strengthen your rankings tomorrow, next month, and next year — without any additional investment.",
+      "Your organic rankings are a direct reflection of how Google perceives your authority relative to your competitors. If they outrank you, they have more of it. Link building is how you close that gap and in 2026, a clean, high-authority link profile built through white-hat methods is a durable competitive asset that compounds in value for years. Every high-quality link we earn for your business today continues to strengthen your rankings tomorrow, next month, and next year without any additional investment.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     seoLink: "https://clickmastersdigitalmarketing.com/",
@@ -290,6 +290,6 @@ export const OffPageSeoContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Link building & off-page SEO specialist | 10+ years",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | Link building & off-page SEO specialist | 10+ years",
   },
 };

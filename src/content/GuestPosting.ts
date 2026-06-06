@@ -14,7 +14,7 @@ export const GuestPostingContent = {
     titleHighlight: "Services",
     subtitle: "— build the authority backlinks that move your rankings. Permanently.",
     description:
-      "The backlink problem is not a quantity problem. It is a quality problem. Most businesses investing in link building produce a growing number of links from directories, forum profiles, comment sections, and low-authority blog networks — links that Google's algorithm discounts heavily because they represent the exact pattern of low-effort, low-quality link acquisition that its Penguin and spam detection systems were built to devalue. The links that move competitive organic rankings in 2026 are editorial backlinks from topically relevant, genuinely authoritative websites — the kind produced by a published article on a recognised industry publication that links back to the author's website, with anchor text that contextually matches the target keyword, from a page that Google has assigned genuine authority weight to.",
+      "The backlink problem is not a quantity problem. It is a quality problem. Most businesses investing in link building produce a growing number of links from directories, forum profiles, comment sections, and low-authority blog networks links that Google's algorithm discounts heavily because they represent the exact pattern of low-effort, low-quality link acquisition that its Penguin and spam detection systems were built to devalue. The links that move competitive organic rankings in 2026 are editorial backlinks from topically relevant, genuinely authoritative websites the kind produced by a published article on a recognised industry publication that links back to the author's website, with anchor text that contextually matches the target keyword, from a page that Google has assigned genuine authority weight to.",
     stats: [
       { k: "85%+", v: "Links from PBNs get discounted" },
       { k: "DA 40-70", v: "Standard placement authority" },
@@ -24,14 +24,14 @@ export const GuestPostingContent = {
   },
   intro: {
     problem: [
-      { text: "Guest posting — when done correctly, with original high-quality content placed on genuinely relevant and authoritative publications — is the most scalable method of acquiring the ", type: "normal" },
+      { text: "Guest posting when done correctly, with original high-quality content placed on genuinely relevant and authoritative publications is the most scalable method of acquiring the ", type: "normal" },
       { text: "editorial backlinks", type: "highlight" },
       { text: " that competitive organic search rankings require. It is also one of the most commonly done incorrectly: the 'guest post' purchased from a link broker and published on a private blog network designed to look like a legitimate publication, the spun article submitted to 50 sites simultaneously, the keyword-stuffed anchor text that triggers Google's over-optimisation filters.", type: "normal" }
     ],
     solution:
-      "The guest posting market has been heavily infiltrated by link schemes — private blog networks (PBNs), link farms disguised as niche blogs, and paid placement networks where the same article gets published on 20 sites simultaneously. These links are identifiable by Google's algorithm: the footprint of shared hosting, template-identical site structure, thin editorial content, and the pattern of outbound links that marks a site as a link scheme participant.",
+      "The guest posting market has been heavily infiltrated by link schemes private blog networks (PBNs), link farms disguised as niche blogs, and paid placement networks where the same article gets published on 20 sites simultaneously. These links are identifiable by Google's algorithm: the footprint of shared hosting, template-identical site structure, thin editorial content, and the pattern of outbound links that marks a site as a link scheme participant.",
     promise:
-      "At Clickmasters Digital Marketing, we provide professional guest posting services — original content, genuine publication placements, editorial-standard writing, and the transparent link building that Google rewards rather than penalises.",
+      "At Clickmasters Digital Marketing, we provide professional guest posting services original content, genuine publication placements, editorial-standard writing, and the transparent link building that Google rewards rather than penalises.",
   },
   problem: {
     title: "Why Most Guest Posting Produces",
@@ -40,17 +40,17 @@ export const GuestPostingContent = {
       {
         icon: "Shield",
         title: "The Link Scheme Trap",
-        body: "Businesses that purchase links from PBNs and link farms are not building authority — they are accumulating a penalty risk. Google's manual actions team regularly deindexes PBN sites and penalises the sites that received links from them. The 50 links purchased from a link broker for $500 can produce a rankings crash that takes months to recover from, and the recovery requires a disavow file and a link audit that costs more to produce than the original link purchase.",
+        body: "Businesses that purchase links from PBNs and link farms are not building authority they are accumulating a penalty risk. Google's manual actions team regularly deindexes PBN sites and penalises the sites that received links from them. The 50 links purchased from a link broker for $500 can produce a rankings crash that takes months to recover from, and the recovery requires a disavow file and a link audit that costs more to produce than the original link purchase.",
       },
       {
         icon: "BarChart2",
         title: "The Quality-Volume Confusion",
-        body: "A business with 500 links from DA 15-25 blog sites is not in a stronger organic search position than a business with 50 links from DA 50-70 genuinely authoritative sites. Google's PageRank algorithm assigns link value based on the authority of the linking page and the relevance of the linking site to the content being linked to — and a single link from a DA 80 industry authority site can outweigh 50 links from DA 20 sites.",
+        body: "A business with 500 links from DA 15-25 blog sites is not in a stronger organic search position than a business with 50 links from DA 50-70 genuinely authoritative sites. Google's PageRank algorithm assigns link value based on the authority of the linking page and the relevance of the linking site to the content being linked to and a single link from a DA 80 industry authority site can outweigh 50 links from DA 20 sites.",
       },
       {
         icon: "Link",
         title: "The Anchor Text Problem",
-        body: "Over-optimised anchor text — using the exact-match target keyword as the anchor for every link — is one of the clearest signals of unnatural link building. Google's algorithm expects a natural anchor text distribution: a mix of branded anchors, generic anchors, partial-match anchors, and a proportion of exact-match anchors that reflects what natural editorial linking looks like.",
+        body: "Over-optimised anchor text using the exact-match target keyword as the anchor for every link is one of the clearest signals of unnatural link building. Google's algorithm expects a natural anchor text distribution: a mix of branded anchors, generic anchors, partial-match anchors, and a proportion of exact-match anchors that reflects what natural editorial linking looks like.",
       },
     ],
     afterTitle: "The Long-Term Cost of Low-Quality",
@@ -59,7 +59,7 @@ export const GuestPostingContent = {
       {
         icon: "AlertTriangle",
         title: "The Penalty Risk Calculation",
-        body: "A business that spends $5,000 on 100 PBN links is not just failing to build authority — it is accumulating a penalty risk that can wipe out years of organic traffic. Google's manual actions for unnatural links produce ranking drops of 50-90% that take 6-18 months to recover from. The recovery work costs £3,000-£8,000 in agency time. The $5,000 PBN link purchase has a realistic downside that is ten times its cost.",
+        body: "A business that spends $5,000 on 100 PBN links is not just failing to build authority it is accumulating a penalty risk that can wipe out years of organic traffic. Google's manual actions for unnatural links produce ranking drops of 50-90% that take 6-18 months to recover from. The recovery work costs £3,000-£8,000 in agency time. The $5,000 PBN link purchase has a realistic downside that is ten times its cost.",
       },
       {
         icon: "TrendingUp",
@@ -79,7 +79,7 @@ export const GuestPostingContent = {
       blocks: [
         {
           h: "Domain Authority and Traffic",
-          p: "We use third-party metrics (Ahrefs Domain Rating, Moz Domain Authority, Semrush Authority Score) as initial filters, but validate these with actual traffic data — a site with DR 60 but zero organic traffic is a manipulated metric site, not a genuine authority.",
+          p: "We use third-party metrics (Ahrefs Domain Rating, Moz Domain Authority, Semrush Authority Score) as initial filters, but validate these with actual traffic data a site with DR 60 but zero organic traffic is a manipulated metric site, not a genuine authority.",
         },
         {
           h: "Editorial Standards",
@@ -87,7 +87,7 @@ export const GuestPostingContent = {
         },
         {
           h: "Topical Relevance & Link Scheme Indicators",
-          p: "We prioritise placements on publications whose topic coverage overlaps meaningfully with the client's sector. We check for PBN footprints — shared hosting, excessive outbound links, template-identical structure — and exclude any site showing these indicators.",
+          p: "We prioritise placements on publications whose topic coverage overlaps meaningfully with the client's sector. We check for PBN footprints shared hosting, excessive outbound links, template-identical structure and exclude any site showing these indicators.",
         },
       ],
     },
@@ -105,7 +105,7 @@ export const GuestPostingContent = {
         },
         {
           h: "Editor Relationships",
-          p: "Our relationships with editors at the publications most relevant to our clients' sectors — built over years of professional outreach and quality content delivery — produce acceptance rates and placement quality that cold outreach to new contacts cannot match.",
+          p: "Our relationships with editors at the publications most relevant to our clients' sectors built over years of professional outreach and quality content delivery produce acceptance rates and placement quality that cold outreach to new contacts cannot match.",
         },
       ],
     },
@@ -115,7 +115,7 @@ export const GuestPostingContent = {
       tag: "Content",
       title: "Content Creation",
       intro:
-        "The content placed through a guest posting programme must meet the editorial standard of the publication it appears on — substantive, expert-level content that provides genuine value to readers.",
+        "The content placed through a guest posting programme must meet the editorial standard of the publication it appears on substantive, expert-level content that provides genuine value to readers.",
       blocks: [
         {
           h: "Editorial-Standard Articles",
@@ -123,7 +123,7 @@ export const GuestPostingContent = {
         },
         {
           h: "Contextual Link Placement",
-          p: "Link placement is a single contextual link within the article body — not a promotional mention, not a keyword-stuffed anchor, but a natural, contextually appropriate reference to the client's website from a relevant passage of the article.",
+          p: "Link placement is a single contextual link within the article body not a promotional mention, not a keyword-stuffed anchor, but a natural, contextually appropriate reference to the client's website from a relevant passage of the article.",
         },
       ],
     },
@@ -137,7 +137,7 @@ export const GuestPostingContent = {
       blocks: [
         {
           h: "Natural Anchor Distribution",
-          p: "Branded anchors using the brand name, partial-match anchors that include the target keyword within a phrase, exact-match anchors at a controlled proportion, and generic anchors ('click here', 'read more') — producing the natural anchor text distribution Google expects.",
+          p: "Branded anchors using the brand name, partial-match anchors that include the target keyword within a phrase, exact-match anchors at a controlled proportion, and generic anchors ('click here', 'read more') producing the natural anchor text distribution Google expects.",
         },
       ],
     },
@@ -147,7 +147,7 @@ export const GuestPostingContent = {
       tag: "Niche",
       title: "Niche-Specific Guest Posting Programmes",
       intro:
-        "Guest posting programmes are most commercially effective when the publications targeted are genuinely relevant to the client's sector — because topical relevance amplifies the authority signal of each link.",
+        "Guest posting programmes are most commercially effective when the publications targeted are genuinely relevant to the client's sector because topical relevance amplifies the authority signal of each link.",
       blocks: [
         {
           h: "Professional Services",
@@ -173,7 +173,7 @@ export const GuestPostingContent = {
       tag: "Reporting",
       title: "Reporting and Link Verification",
       intro:
-        "Every guest posting engagement includes transparent reporting with full link verification — publication name, URL, domain authority, live article URL, and confirmed backlink details.",
+        "Every guest posting engagement includes transparent reporting with full link verification publication name, URL, domain authority, live article URL, and confirmed backlink details.",
       blocks: [
         {
           h: "Transparent Reporting",
@@ -201,7 +201,7 @@ export const GuestPostingContent = {
   why: [
     {
       icon: "ShieldCheck",
-      h: "Genuine publications only — zero PBN tolerance",
+      h: "Genuine publications only zero PBN tolerance",
       p: "We maintain a zero-tolerance policy on private blog networks and link scheme placements. Every publication in our placement portfolio has been manually reviewed and vetted against our editorial quality standards. We will not compromise on this policy because a single PBN link creates a client problem that no placement volume justifies.",
     },
     {
@@ -218,11 +218,11 @@ export const GuestPostingContent = {
   faqs: [
     {
       q: "Is guest posting still effective for SEO in 2026?",
-      a: "High-quality guest posting on genuinely authoritative, topically relevant publications remains one of the most effective link building methods in 2026. Google has stated that guest posting purely for links violates its guidelines — but this refers specifically to low-quality, thin content on low-quality sites. Guest posting that produces genuinely valuable content on genuinely authoritative publications, with natural anchor text distribution, continues to produce strong organic ranking results. The distinction is quality and intent: editorial content that serves readers remains a legitimate and effective link building approach.",
+      a: "High-quality guest posting on genuinely authoritative, topically relevant publications remains one of the most effective link building methods in 2026. Google has stated that guest posting purely for links violates its guidelines but this refers specifically to low-quality, thin content on low-quality sites. Guest posting that produces genuinely valuable content on genuinely authoritative publications, with natural anchor text distribution, continues to produce strong organic ranking results. The distinction is quality and intent: editorial content that serves readers remains a legitimate and effective link building approach.",
     },
     {
       q: "How do you ensure the publications are not PBNs?",
-      a: "We vet every publication against a multi-factor evaluation: actual organic traffic (verified via Ahrefs or Semrush — a high DR site with no real traffic is a metric-manipulation site), editorial team and content quality, topical relevance, social engagement signals, absence of PBN footprints (shared hosting, excessive outbound links, thin editorial content), and the publication's history of editorial independence. We also maintain an exclusion list of known PBN networks.",
+      a: "We vet every publication against a multi-factor evaluation: actual organic traffic (verified via Ahrefs or Semrush a high DR site with no real traffic is a metric-manipulation site), editorial team and content quality, topical relevance, social engagement signals, absence of PBN footprints (shared hosting, excessive outbound links, thin editorial content), and the publication's history of editorial independence. We also maintain an exclusion list of known PBN networks.",
     },
     {
       q: "How many guest posts do I need per month?",
@@ -230,7 +230,7 @@ export const GuestPostingContent = {
     },
     {
       q: "What is the typical domain authority of your guest post placements?",
-      a: "Our standard guest posting programme targets placements on publications with Ahrefs Domain Rating of 40-70. Our premium placements target DR 70-90 national and trade publications. The specific DR distribution depends on the client's target keywords, the competitive landscape, and the budget — higher DR placements require more effort and command higher programme investment.",
+      a: "Our standard guest posting programme targets placements on publications with Ahrefs Domain Rating of 40-70. Our premium placements target DR 70-90 national and trade publications. The specific DR distribution depends on the client's target keywords, the competitive landscape, and the budget higher DR placements require more effort and command higher programme investment.",
     },
     {
       q: "How long does it take to see ranking improvements?",
@@ -240,7 +240,7 @@ export const GuestPostingContent = {
   cta: {
     title: "Ready to Build the Authority Backlinks Your Rankings Need?",
     description:
-      "The gap between your current organic rankings and the page 1 positions you need is, in most competitive markets, primarily an authority gap. Guest posting — done correctly, with genuine content on genuine publications — is the most scalable method of closing it.",
+      "The gap between your current organic rankings and the page 1 positions you need is, in most competitive markets, primarily an authority gap. Guest posting done correctly, with genuine content on genuine publications is the most scalable method of closing it.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     linkBuildingLink: "https://clickmastersdigitalmarketing.com/link-building-services/",
     contentMarketingLink: "https://clickmastersdigitalmarketing.com/content-marketing-services/",
@@ -250,6 +250,6 @@ export const GuestPostingContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
+    author: "Amjad Khan CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
   },
 };

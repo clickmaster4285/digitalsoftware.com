@@ -347,7 +347,7 @@ tl.to(screen1Ref.current, {
           ))}
         </div>
 
-        {/* Screen 1 — text */}
+        {/* Screen 1 text */}
       <div
   ref={screen1Ref}
   className="relative z-10 mx-auto flex h-full max-w-[90rem] flex-col justify-center px-8 lg:px-16"
@@ -389,7 +389,7 @@ tl.to(screen1Ref.current, {
 
 
         
-        {/* Screen 3 — final state */}
+        {/* Screen 3 final state */}
    <div
   ref={screen3Ref}
   className="absolute inset-0 z-10 mx-auto flex h-full max-w-[90rem] flex-col justify-center px-4 sm:px-6 lg:px-16 pt-24 sm:pt-28 overflow-y-auto"

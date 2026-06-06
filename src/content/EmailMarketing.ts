@@ -2,10 +2,10 @@ export const EmailMarketingServicesContent = {
   slug: "email-marketing-services",
   metadata: {
     url: "https://clickmastersdigitalmarketing.com/email-marketing-services/",
-    seoTitle: "Email Marketing Services — Highest ROI Channel, Done Properly | Clickmasters",
-    metaDescription: "Expert email marketing services — strategy, automation, list growth, Klaviyo & HubSpot management. Average $36 return per $1 spent. Free email audit for USA & UK businesses.",
+    seoTitle: "Email Marketing Services Highest ROI Channel, Done Properly | Clickmasters",
+    metaDescription: "Expert email marketing services strategy, automation, list growth, Klaviyo & HubSpot management. Average $36 return per $1 spent. Free email audit for USA & UK businesses.",
     schema: "Service + FAQPage + Organization + BreadcrumbList",
-    author: "Amjad Khan, CEO — Clickmasters Digital Marketing",
+    author: "Amjad Khan, CEO Clickmasters Digital Marketing",
     primaryKeyword: "email marketing services",
     volume: "12,100/mo",
     secondaryKeywords: "email marketing agency, email automation services, klaviyo agency, email campaign management 2026",
@@ -18,7 +18,7 @@ export const EmailMarketingServicesContent = {
     title: "Email Marketing Services",
     titleHighlight: "— The Highest-ROI Channel in Your Marketing Stack",
     subtitle: "",
-    description: "Your email list is the only marketing asset you truly own. Not your Google rankings — an algorithm update can eliminate them overnight. Not your social media following — a platform policy change can cut your organic reach in half. Not your paid advertising audiences — the moment you stop spending, they disappear. But the people who have given you their email address and asked to hear from you? That relationship is yours. Permanently. Platform-independently. At zero cost per contact per send.",
+    description: "Your email list is the only marketing asset you truly own. Not your Google rankings an algorithm update can eliminate them overnight. Not your social media following a platform policy change can cut your organic reach in half. Not your paid advertising audiences the moment you stop spending, they disappear. But the people who have given you their email address and asked to hear from you? That relationship is yours. Permanently. Platform-independently. At zero cost per contact per send.",
     stats: [
       { k: "$36", v: "ROI per $1 spent" },
       { k: "11% → 43%", v: "Email revenue share" },
@@ -28,13 +28,13 @@ export const EmailMarketingServicesContent = {
   },
   intro: {
     problem: [
-      { text: "Email marketing consistently delivers the highest return on investment of any digital marketing channel — ", type: "normal" },
+      { text: "Email marketing consistently delivers the highest return on investment of any digital marketing channel ", type: "normal" },
       { text: "$36 for every $1 spent", type: "highlight" },
       { text: ". Not occasionally. Not in specific industries. Consistently, across categories, in business after business that runs email marketing correctly. ", type: "normal" },
       { text: "The problem is that most businesses do not run email marketing correctly.", type: "highlight" }
     ],
-    solution: "At Clickmasters Digital Marketing, we build email marketing programs that systematically capture all the revenue that your list is capable of generating — for e-commerce brands, SaaS companies, lead generation businesses, and B2B professional services firms across the USA, UK, UAE, and Pakistan.",
-    promise: "We build revenue-generating email infrastructure from the ground up — not templates scheduled by calendar.",
+    solution: "At Clickmasters Digital Marketing, we build email marketing programs that systematically capture all the revenue that your list is capable of generating for e-commerce brands, SaaS companies, lead generation businesses, and B2B professional services firms across the USA, UK, UAE, and Pakistan.",
+    promise: "We build revenue-generating email infrastructure from the ground up not templates scheduled by calendar.",
   },
   problem: {
     title: "The Problem With",
@@ -43,17 +43,17 @@ export const EmailMarketingServicesContent = {
       {
         icon: "TrendingDown",
         title: "Why Businesses Leave Email Revenue on the Table",
-        body: "Most businesses that 'do email marketing' are operating at 10-20% of their email channel's revenue potential. No segmentation (new subscriber receives same email as repeat customer), no automation sequences (welcome, abandoned cart, post-purchase missing or underperforming), no abandoned cart recovery (70% of add-to-carts never contacted), and attribution that cannot tell which emails generate revenue. On a list of 15,000 subscribers with $75 AOV, the gap between a poorly run email program (2% monthly revenue attribution) and a well-run program (35% monthly revenue attribution) is approximately $124,000 in monthly revenue — from the same list, at no additional acquisition cost.",
+        body: "Most businesses that 'do email marketing' are operating at 10-20% of their email channel's revenue potential. No segmentation (new subscriber receives same email as repeat customer), no automation sequences (welcome, abandoned cart, post-purchase missing or underperforming), no abandoned cart recovery (70% of add-to-carts never contacted), and attribution that cannot tell which emails generate revenue. On a list of 15,000 subscribers with $75 AOV, the gap between a poorly run email program (2% monthly revenue attribution) and a well-run program (35% monthly revenue attribution) is approximately $124,000 in monthly revenue from the same list, at no additional acquisition cost.",
       },
       {
         icon: "MailWarning",
         title: "The Deliverability Problem Nobody Talks About",
-        body: "If your emails are landing in spam folders rather than inboxes, no subject line or send time optimization will save them. Deliverability problems are increasingly invisible — the emails appear to be sent successfully, open rates just quietly decline, and revenue quietly disappears. Deliverability is determined by technical configurations most businesses have never reviewed (SPF, DKIM, DMARC), list hygiene (invalid and disengaged addresses), and engagement patterns (ISPs monitor whether subscribers are opening, clicking, and responding).",
+        body: "If your emails are landing in spam folders rather than inboxes, no subject line or send time optimization will save them. Deliverability problems are increasingly invisible the emails appear to be sent successfully, open rates just quietly decline, and revenue quietly disappears. Deliverability is determined by technical configurations most businesses have never reviewed (SPF, DKIM, DMARC), list hygiene (invalid and disengaged addresses), and engagement patterns (ISPs monitor whether subscribers are opening, clicking, and responding).",
       },
       {
         icon: "ChartPie",
         title: "The Attribution Problem That Makes Email Look Bad",
-        body: "Last-click attribution — the standard in most analytics setups — credits the final touchpoint before purchase. If a customer receives an email, clicks through, browses for three days, returns via Google search, and then purchases — the Google search gets the credit. The email that initiated the journey is invisible. Properly attributed email marketing, using multi-touch or data-driven attribution models, reveals a dramatically different picture — one where email is typically driving 2-4x more revenue than last-click attribution shows.",
+        body: "Last-click attribution the standard in most analytics setups credits the final touchpoint before purchase. If a customer receives an email, clicks through, browses for three days, returns via Google search, and then purchases the Google search gets the credit. The email that initiated the journey is invisible. Properly attributed email marketing, using multi-touch or data-driven attribution models, reveals a dramatically different picture one where email is typically driving 2-4x more revenue than last-click attribution shows.",
       },
     ],
     afterTitle: "How We Build Email Marketing Programs",
@@ -62,7 +62,7 @@ export const EmailMarketingServicesContent = {
       {
         icon: "ClipboardCheck",
         title: "Email Program Audit and Strategy",
-        body: "Before building anything new, we audit what exists. Most audits reveal: technical deliverability issues quietly suppressing performance, significant automation gaps, no meaningful list segmentation, and attribution that cannot tell which emails generate revenue. The audit produces a prioritized remediation and build plan — ordered by revenue impact rather than implementation complexity. The highest-revenue automations get built first.",
+        body: "Before building anything new, we audit what exists. Most audits reveal: technical deliverability issues quietly suppressing performance, significant automation gaps, no meaningful list segmentation, and attribution that cannot tell which emails generate revenue. The audit produces a prioritized remediation and build plan ordered by revenue impact rather than implementation complexity. The highest-revenue automations get built first.",
       },
       {
         icon: "Shield",
@@ -71,8 +71,8 @@ export const EmailMarketingServicesContent = {
       },
       {
         icon: "Settings2",
-        title: "Email Automation Architecture — The Revenue Engine",
-        body: "Email automation sequences — pre-built email series triggered by specific subscriber behaviours or lifecycle events — are the highest-ROI component of any email program. They run continuously, respond to individual subscriber behaviour in real time, and generate revenue every day without requiring additional campaign work after the initial build. The core sequences include: welcome sequence, abandoned cart, browse abandonment, post-purchase, win-back, and B2B lead nurture.",
+        title: "Email Automation Architecture The Revenue Engine",
+        body: "Email automation sequences pre-built email series triggered by specific subscriber behaviours or lifecycle events are the highest-ROI component of any email program. They run continuously, respond to individual subscriber behaviour in real time, and generate revenue every day without requiring additional campaign work after the initial build. The core sequences include: welcome sequence, abandoned cart, browse abandonment, post-purchase, win-back, and B2B lead nurture.",
       },
     ],
   },
@@ -86,7 +86,7 @@ export const EmailMarketingServicesContent = {
       blocks: [
         {
           h: "What We Find in Most Email Audits",
-          p: "Technical deliverability issues quietly suppressing performance, significant automation gaps, no meaningful list segmentation, and attribution that cannot tell the business which emails are generating revenue. The audit produces a prioritized remediation and build plan — ordered by revenue impact rather than implementation complexity.",
+          p: "Technical deliverability issues quietly suppressing performance, significant automation gaps, no meaningful list segmentation, and attribution that cannot tell the business which emails are generating revenue. The audit produces a prioritized remediation and build plan ordered by revenue impact rather than implementation complexity.",
         },
         {
           h: "Platform Selection and Migration",
@@ -119,8 +119,8 @@ export const EmailMarketingServicesContent = {
       n: "03",
       icon: "Zap",
       tag: "Automation",
-      title: "Email Automation Architecture — The Revenue Engine",
-      intro: "Email automation sequences are the highest-ROI component of any email program — running continuously and generating revenue every day without requiring additional campaign work.",
+      title: "Email Automation Architecture The Revenue Engine",
+      intro: "Email automation sequences are the highest-ROI component of any email program running continuously and generating revenue every day without requiring additional campaign work.",
       blocks: [
         {
           h: "Welcome Sequence",
@@ -136,7 +136,7 @@ export const EmailMarketingServicesContent = {
         },
         {
           h: "B2B Lead Nurture Sequences",
-          p: "For B2B businesses, email automation nurtures marketing-qualified leads through extended consideration cycles — maintaining brand engagement, building trust through valuable content, and advancing prospects toward sales-readiness at the pace of their individual decision-making process.",
+          p: "For B2B businesses, email automation nurtures marketing-qualified leads through extended consideration cycles maintaining brand engagement, building trust through valuable content, and advancing prospects toward sales-readiness at the pace of their individual decision-making process.",
         },
       ],
     },
@@ -183,7 +183,7 @@ export const EmailMarketingServicesContent = {
       icon: "BarChart4",
       tag: "Analytics",
       title: "Analytics, Attribution, and Reporting",
-      intro: "We configure revenue attribution tracking that measures what email marketing actually produces — not vanity metrics.",
+      intro: "We configure revenue attribution tracking that measures what email marketing actually produces not vanity metrics.",
       blocks: [
         {
           h: "Revenue-Level Attribution",
@@ -202,28 +202,28 @@ export const EmailMarketingServicesContent = {
       metric: "11% → 43%",
       sub: "email revenue share in 14 months",
       title: "E-commerce beauty brand grows email revenue from 11% to 43% of total revenue.",
-      body: "A DTC beauty brand with 32,000 subscribers had only two monthly newsletters — no automation, no segmentation, no abandoned cart recovery. Email accounted for 11% of revenue. Our program: complete automation suite (7-email welcome, 3-email abandoned cart recovering 11%, browse abandonment, 5-email post-purchase, 4-email win-back), list segmentation by purchase history, monthly segmented campaigns, deliverability optimization (74% to 97% inbox placement). Result: Email revenue share grew to 43% within 14 months. Monthly email-attributed revenue increased from $28,000 to $112,000. Abandoned cart recovers $16,000 per month in would-have-been-lost revenue.",
+      body: "A DTC beauty brand with 32,000 subscribers had only two monthly newsletters no automation, no segmentation, no abandoned cart recovery. Email accounted for 11% of revenue. Our program: complete automation suite (7-email welcome, 3-email abandoned cart recovering 11%, browse abandonment, 5-email post-purchase, 4-email win-back), list segmentation by purchase history, monthly segmented campaigns, deliverability optimization (74% to 97% inbox placement). Result: Email revenue share grew to 43% within 14 months. Monthly email-attributed revenue increased from $28,000 to $112,000. Abandoned cart recovers $16,000 per month in would-have-been-lost revenue.",
     },
     {
       tag: "B2B · SaaS Company",
       metric: "7% → 21%",
       sub: "trial conversion rate",
       title: "B2B SaaS company improves trial conversion from 7% to 21% with email nurture.",
-      body: "A B2B project management SaaS generated 450 trial sign-ups per month but converted only 7% to paid — 93% trial churn. Our program: 12-email trial onboarding sequence (Days 1,3,5,7,10,14) with feature education, use-case demos, and social proof; behavioural trigger emails activated by specific feature engagement or non-engagement; trial expiry sequences differentiated by engagement level. Result: Trial-to-paid conversion improved from 7% to 21% — a 200% improvement. Monthly new paid customers increased from 31 to 94. Annual revenue impact: $2.3M in additional ARR. The program paid for its implementation cost in the first month.",
+      body: "A B2B project management SaaS generated 450 trial sign-ups per month but converted only 7% to paid 93% trial churn. Our program: 12-email trial onboarding sequence (Days 1,3,5,7,10,14) with feature education, use-case demos, and social proof; behavioural trigger emails activated by specific feature engagement or non-engagement; trial expiry sequences differentiated by engagement level. Result: Trial-to-paid conversion improved from 7% to 21% a 200% improvement. Monthly new paid customers increased from 31 to 94. Annual revenue impact: $2.3M in additional ARR. The program paid for its implementation cost in the first month.",
     },
     {
       tag: "Healthcare · Physiotherapy",
       metric: "72%",
       sub: "no-show reduction",
       title: "Physiotherapy practice group reduces no-shows by 72% with email reminders.",
-      body: "A multi-location UK physiotherapy group (6 clinics) had a 31% no-show rate. Their patient email list of 8,400 had no active program beyond appointment confirmation. Our program: appointment confirmation emails, pre-appointment reminder sequences (7 days, 48 hours, 2 hours), post-appointment follow-ups with treatment adherence content and re-booking prompts, seasonal health education campaigns with booking CTAs, patient loyalty programme emails. Result: No-show rate decreased from 31% to 9% — a 72% reduction representing £18,200 per month in recovered clinical revenue. Email-attributed re-booking rate improved from 34% to 61%. The programme generates £42,000 per month in recovered and incremental revenue from the existing patient list.",
+      body: "A multi-location UK physiotherapy group (6 clinics) had a 31% no-show rate. Their patient email list of 8,400 had no active program beyond appointment confirmation. Our program: appointment confirmation emails, pre-appointment reminder sequences (7 days, 48 hours, 2 hours), post-appointment follow-ups with treatment adherence content and re-booking prompts, seasonal health education campaigns with booking CTAs, patient loyalty programme emails. Result: No-show rate decreased from 31% to 9% a 72% reduction representing £18,200 per month in recovered clinical revenue. Email-attributed re-booking rate improved from 34% to 61%. The programme generates £42,000 per month in recovered and incremental revenue from the existing patient list.",
     },
   ],
   why: [
     {
       icon: "Cpu",
       h: "Automation-first architecture",
-      p: "Most email agencies focus on campaign management — ongoing broadcast emails requiring continuous production effort. We focus on automation architecture first, because well-built automations generate revenue 24 hours a day without requiring campaign production effort. The automated revenue engine is built before the campaign programme is layered on top of it.",
+      p: "Most email agencies focus on campaign management ongoing broadcast emails requiring continuous production effort. We focus on automation architecture first, because well-built automations generate revenue 24 hours a day without requiring campaign production effort. The automated revenue engine is built before the campaign programme is layered on top of it.",
     },
     {
       icon: "Shield",
@@ -237,14 +237,14 @@ export const EmailMarketingServicesContent = {
     },
     {
       icon: "Crown",
-      h: "Platform expertise — Klaviyo, HubSpot, and beyond",
-      p: "Klaviyo for e-commerce, HubSpot for B2B, ActiveCampaign for SMB automation, Salesforce Marketing Cloud for enterprise — each platform has specific capabilities, limitations, and optimisation approaches that generic email advice applied without platform knowledge fails to leverage. We bring genuine platform expertise to each engagement.",
+      h: "Platform expertise Klaviyo, HubSpot, and beyond",
+      p: "Klaviyo for e-commerce, HubSpot for B2B, ActiveCampaign for SMB automation, Salesforce Marketing Cloud for enterprise each platform has specific capabilities, limitations, and optimisation approaches that generic email advice applied without platform knowledge fails to leverage. We bring genuine platform expertise to each engagement.",
     },
   ],
   faqs: [
     {
       q: "What is a realistic ROI from email marketing?",
-      a: "Industry benchmarks consistently place email marketing ROI at $36 for every $1 spent — the highest ROI of any digital marketing channel. The actual ROI for any specific business depends on the quality and size of the existing email list, the maturity of the automation programme, the product's average order value and purchase frequency, and the quality of the email creative and strategy. Our clients typically see email generate 30-50% of total revenue within 12 months of a fully built programme.",
+      a: "Industry benchmarks consistently place email marketing ROI at $36 for every $1 spent the highest ROI of any digital marketing channel. The actual ROI for any specific business depends on the quality and size of the existing email list, the maturity of the automation programme, the product's average order value and purchase frequency, and the quality of the email creative and strategy. Our clients typically see email generate 30-50% of total revenue within 12 months of a fully built programme.",
     },
     {
       q: "How quickly can email marketing start generating revenue?",
@@ -252,7 +252,7 @@ export const EmailMarketingServicesContent = {
     },
     {
       q: "What email marketing platform do you recommend?",
-      a: "For e-commerce businesses: Klaviyo is our first choice — it has the deepest Shopify and WooCommerce integration, the most sophisticated abandoned cart and browse abandonment capabilities, predictive lifetime value analytics, and the best revenue attribution reporting available. For B2B businesses with sales teams: HubSpot is our primary recommendation — its CRM integration, lead scoring, and pipeline-aligned automation enable sales-stage-aligned nurture. For smaller businesses and content creators: ActiveCampaign and ConvertKit offer excellent automation at accessible price points.",
+      a: "For e-commerce businesses: Klaviyo is our first choice it has the deepest Shopify and WooCommerce integration, the most sophisticated abandoned cart and browse abandonment capabilities, predictive lifetime value analytics, and the best revenue attribution reporting available. For B2B businesses with sales teams: HubSpot is our primary recommendation its CRM integration, lead scoring, and pipeline-aligned automation enable sales-stage-aligned nurture. For smaller businesses and content creators: ActiveCampaign and ConvertKit offer excellent automation at accessible price points.",
     },
     {
       q: "How do you grow an email list quickly?",
@@ -264,7 +264,7 @@ export const EmailMarketingServicesContent = {
     },
     {
       q: "What is email deliverability and why does it matter?",
-      a: "Email deliverability refers to the percentage of emails you send that actually reach subscribers' inboxes rather than landing in spam folders or being rejected. Poor deliverability silently destroys email programme performance — a programme with 40% spam placement is generating 40% less revenue from every campaign regardless of creative quality. Deliverability is determined by domain authentication (SPF, DKIM, DMARC), sender IP reputation, list hygiene, and engagement rates.",
+      a: "Email deliverability refers to the percentage of emails you send that actually reach subscribers' inboxes rather than landing in spam folders or being rejected. Poor deliverability silently destroys email programme performance a programme with 40% spam placement is generating 40% less revenue from every campaign regardless of creative quality. Deliverability is determined by domain authentication (SPF, DKIM, DMARC), sender IP reputation, list hygiene, and engagement rates.",
     },
     {
       q: "How do you ensure compliance with GDPR, CAN-SPAM, and other regulations?",
@@ -281,7 +281,7 @@ export const EmailMarketingServicesContent = {
   ],
   cta: {
     title: "Ready to Make Your Email List the Most Profitable Asset in Your Business?",
-    description: "Every day your email list is not generating its full revenue potential is a day you are leaving money on the table — not hypothetically, but provably. A properly built email programme, from automations to campaigns to deliverability to attribution, generates revenue that compounds as the list grows and the programme matures. The infrastructure takes weeks to build. The revenue compounds for years.",
+    description: "Every day your email list is not generating its full revenue potential is a day you are leaving money on the table not hypothetically, but provably. A properly built email programme, from automations to campaigns to deliverability to attribution, generates revenue that compounds as the list grows and the programme matures. The infrastructure takes weeks to build. The revenue compounds for years.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     softwareLink: "https://clickmastersdigitalmarketing.com/content-marketing-services/",
@@ -291,6 +291,6 @@ export const EmailMarketingServicesContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Email marketing specialist | Klaviyo · HubSpot · ActiveCampaign",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | Email marketing specialist | Klaviyo · HubSpot · ActiveCampaign",
   },
 };
