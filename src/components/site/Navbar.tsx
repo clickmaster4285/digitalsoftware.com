@@ -30,6 +30,9 @@ import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { createPortal } from "react-dom";
 
+import logoWhite from "@/assets/logo-white.webp";
+import logoBlack from "@/assets/logo-black.webp";
+
 type Service = { name: string; desc: string; icon: any; href?: string };
 
 const slugify = (value: string) =>
@@ -44,9 +47,13 @@ const getServiceHref = (groupTitle: string, serviceHref?: string) => {
     return serviceHref ?? "#services";
   }
 
+  // Full paths (e.g. /search-engine-optimization/on-page-seo) are already correct
+  if (serviceHref.startsWith("/")) {
+    return serviceHref;
+  }
+
   const slug = serviceHref.replace(/^\/+|\/+$/g, "");
 
-  // Special handling for "&"
   const groupSlug = groupTitle.includes("&")
     ? groupTitle
         .toLowerCase()
@@ -89,12 +96,12 @@ const groups: { title: string; href?: string; items: Service[] }[] = [
       icon: MapPin,
       href: "/search-engine-optimization/local-seo",
     },
-    {
-      name: "Social Media SEO",
-      desc: "Boost social visibility",
-      icon: Share2,
-      href: "/search-engine-optimization/social-media-seo",
-    },
+    // {
+    //   name: "Social Media SEO",
+    //   desc: "Boost social visibility",
+    //   icon: Share2,
+    //   href: "/search-engine-optimization/social-media-seo",
+    // },
     {
       name: "Enterprise SEO",
       desc: "SEO for large websites",
@@ -107,30 +114,30 @@ const groups: { title: string; href?: string; items: Service[] }[] = [
       icon: ShoppingCart,
       href: "/search-engine-optimization/ecommerce-seo",
     },
-    {
-      name: "Semantic SEO",
-      desc: "Topic-focused optimization",
-      icon: Brain,
-      href: "/search-engine-optimization/semantic-seo",
-    },
-    {
-      name: "Multilingual SEO",
-      desc: "Reach multiple languages",
-      icon: Languages,
-      href: "/search-engine-optimization/multilingual-seo",
-    },
-    {
-      name: "International SEO",
-      desc: "Global search visibility",
-      icon: Globe,
-      href: "/search-engine-optimization/international-seo",
-    },
-    {
-      name: "Programmatic SEO",
-      desc: "Scale organic growth",
-      icon: Workflow,
-      href: "/search-engine-optimization/programmatic-seo",
-    },
+    // {
+    //   name: "Semantic SEO",
+    //   desc: "Topic-focused optimization",
+    //   icon: Brain,
+    //   href: "/search-engine-optimization/semantic-seo",
+    // },
+    // {
+    //   name: "Multilingual SEO",
+    //   desc: "Reach multiple languages",
+    //   icon: Languages,
+    //   href: "/search-engine-optimization/multilingual-seo",
+    // },
+    // {
+    //   name: "International SEO",
+    //   desc: "Global search visibility",
+    //   icon: Globe,
+    //   href: "/search-engine-optimization/international-seo",
+    // },
+    // {
+    //   name: "Programmatic SEO",
+    //   desc: "Scale organic growth",
+    //   icon: Workflow,
+    //   href: "/search-engine-optimization/programmatic-seo",
+    // },
     {
       name: "AI SEO",
       desc: "AI-powered optimization",
@@ -143,18 +150,18 @@ const groups: { title: string; href?: string; items: Service[] }[] = [
       icon: Youtube,
       href: "/search-engine-optimization/youtube-seo",
     },
-    {
-      name: "GEO",
-      desc: "Generative Engine Optimization",
-      icon: Sparkles,
-      href: "/search-engine-optimization/geo",
-    },
-    {
-      name: "App Store Optimization",
-      desc: "Improve app visibility",
-      icon: Smartphone,
-      href: "/search-engine-optimization/app-store-optimization-aso",
-    },
+    // {
+    //   name: "GEO",
+    //   desc: "Generative Engine Optimization",
+    //   icon: Sparkles,
+    //   href: "/search-engine-optimization/geo",
+    // },
+    // {
+    //   name: "App Store Optimization",
+    //   desc: "Improve app visibility",
+    //   icon: Smartphone,
+    //   href: "/search-engine-optimization/app-store-optimization-aso",
+    // },
     {
       name: "SEO Audit",
       desc: "Comprehensive SEO analysis",
@@ -167,12 +174,12 @@ const groups: { title: string; href?: string; items: Service[] }[] = [
       icon: Cpu,
       href: "/search-engine-optimization/seo-automation",
     },
-    {
-      name: "Google Business Profile Optimization",
-      desc: "Enhance local presence",
-      icon: MapPinned,
-      href: "/search-engine-optimization/google-business-profile-optimization",
-    },
+    // {
+    //   name: "Google Business Profile Optimization",
+    //   desc: "Enhance local presence",
+    //   icon: MapPinned,
+    //   href: "/search-engine-optimization/google-business-profile-optimization",
+    // },
     {
       name: "Keyword Research",
       desc: "Find profitable keywords",
@@ -670,6 +677,30 @@ export const Navbar = () => {
   const [megaOpen, setMegaOpen] = useState(false);
   const [drawerOpen, setDrawerOpen] = useState(false);
   const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const [isDark, setIsDark] = useState(false);
+  
+
+  useEffect(() => {
+const updateTheme = () => {
+  const theme =
+    document.documentElement.getAttribute("data-section-theme") ?? "dark";
+
+  setIsDark(theme === "dark");
+};
+
+  updateTheme();
+
+  const observer = new MutationObserver(updateTheme);
+
+  observer.observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ["data-section-theme"],
+  });
+
+  return () => observer.disconnect();
+  }, []);
+  
+
 
   const openMega = () => {
     if (closeTimer.current) clearTimeout(closeTimer.current);
@@ -698,10 +729,15 @@ export const Navbar = () => {
         <div className="max-w-5xl mx-auto flex items-center justify-between gap-2 sm:gap-4 rounded-full bg-background/80 backdrop-blur-xl border border-border px-3 sm:px-4 py-3 shadow-sm">
           {/* Logo */}
           <a href="/" className="flex items-center gap-2 font-display text-base sm:text-xl shrink-0">
-            <div className="w-7 h-7 rounded-full overflow-hidden">
-              <Image src="/favicon.ico" alt="icon" width={28} height={28} className="object-cover" />
-            </div>
-            ClickMasters
+           
+<Image
+  src={isDark ? logoWhite : logoBlack}
+  alt="ClickMasters"
+  className="w-24 sm:w-28 h-auto"
+  priority
+/>
+            
+          
           </a>
 
           {/* Desktop nav */}

@@ -5,7 +5,7 @@ import { ExternalLink } from "lucide-react";
 import { useRef } from "react";
 const cards = [
   { t: "AI-Driven Campaign Optimization", d: "Real-time machine learning algorithms that automatically adjust bids, targeting, and creatives to maximize ROI 24/7, without manual intervention.", c: "#FF2E86", rot: -14, x: -180, y: 40, delay: 0 },
-  { t: "Unified Omnichannel Analytics Dashboard", d: "A single, centralized intelligence hub tracking performance across Google, Meta, TikTok, Email, SEO, and more — with predictive insights, not just data.", c: "#9CF7E8", rot: 9, x: 60, y: -30, delay: 0.1 },
+  { t: "Unified Omnichannel Analytics Dashboard", d: "A single, centralized intelligence hub tracking performance across Google, Meta, TikTok, Email, SEO, and more with predictive insights, not just data.", c: "#9CF7E8", rot: 9, x: 60, y: -30, delay: 0.1 },
   { t: "Hyper-Precise Audience Segmentation Engine", d: "Behavioral, psychographic, and intent-based targeting that identifies and reaches your ideal customer at the exact right moment in their buying journey.", c: "#0A0A0A", rot: -4, x: 220, y: 80, delay: 0.2, dark: true },
   { t: "Automated A/B & Multivariate Testing at Scale", d: "Continuously tests hundreds of ad variations simultaneously headlines, visuals, CTAs and automatically scales what wins, killing what doesn't.", c: "#FFE27A", rot: 12, x: -60, y: 160, delay: 0.3 },
 
@@ -20,7 +20,7 @@ const cards = [
 },
 {
   t: "Advanced Conversion Tracking & Attribution Modeling",
-  d: "Multi-touch attribution technology that accurately maps every customer touchpoint — so you know exactly which channels and campaigns are driving real revenue.",
+  d: "Multi-touch attribution technology that accurately maps every customer touchpoint so you know exactly which channels and campaigns are driving real revenue.",
   c: "#2EE6A6",
   rot: 14,
   x: 280,
@@ -29,7 +29,7 @@ const cards = [
 },
 ];
 
-const marqueeText = "Clickmasters — Powered by the World's Most Advanced Digital Marketing Software • ";
+const marqueeText = "Clickmasters Powered by the World's Most Advanced Digital Marketing Software • ";
 
 export const WhyLoved = () => {
   const ref = useRef<HTMLDivElement>(null);

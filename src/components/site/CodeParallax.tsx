@@ -5,7 +5,7 @@ import { ExternalLink } from "lucide-react";
 import { useRef } from "react";
 
 const CODE_LINES = [
-  { c: "#FF2E86", t: "// lumos.studio — build log" },
+  { c: "#FF2E86", t: "// lumos.studio build log" },
   { c: "#7c7c7c", t: "import { ship } from '@lumos/core';" },
   { c: "#7c7c7c", t: "import { design, engineer } from '@lumos/team';" },
   { c: "#ffffff", t: "" },

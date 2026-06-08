@@ -9,12 +9,12 @@ export const GraphicDesignContent = {
     author: "Amjad Khan",
   },
   hero: {
-    tag: "[ Service · 10 ] — Graphic Design",
+    tag: "[ Service · 10 ] Graphic Design",
     title: "Graphic Design",
     titleHighlight: "Services",
     subtitle: "— brand visuals that work as hard as your business does.",
     description:
-      "Your visuals speak before your words do. In the fraction of a second before a prospect reads a headline, processes a value proposition, or evaluates a price — they have already formed a judgment about whether your business looks like one they want to work with. That judgment is formed by design: the typeface that communicates authority or casualness, the colour palette that signals sophistication or accessibility, the layout that demonstrates professionalism or amateur effort, the photography style that places the brand in its competitive context.",
+      "Your visuals speak before your words do. In the fraction of a second before a prospect reads a headline, processes a value proposition, or evaluates a price they have already formed a judgment about whether your business looks like one they want to work with. That judgment is formed by design: the typeface that communicates authority or casualness, the colour palette that signals sophistication or accessibility, the layout that demonstrates professionalism or amateur effort, the photography style that places the brand in its competitive context.",
     stats: [
       { k: "75%", v: "Judge credibility by design" },
       { k: "94%", v: "First impressions are design" },
@@ -32,11 +32,11 @@ export const GraphicDesignContent = {
     ],
     solution: [
       { text: "At Clickmasters Digital Marketing, our graphic design team creates brand visuals, marketing materials, digital design assets, and complete design systems for businesses across the USA, UK, UAE, and Pakistan. We design ", type: "normal" },
-      { text: "with purpose — not decoration", type: "highlight" },
-      { text: " — building visual systems that communicate consistently across every touchpoint where the brand appears.", type: "normal" }
+      { text: "with purpose not decoration", type: "highlight" },
+      { text: " building visual systems that communicate consistently across every touchpoint where the brand appears.", type: "normal" }
     ],
     promise: [
-      { text: "We design to make your business look at the level it is actually operating at — because the gap between your actual capability and your visual presentation is always filled by your competitors.", type: "normal" }
+      { text: "We design to make your business look at the level it is actually operating at because the gap between your actual capability and your visual presentation is always filled by your competitors.", type: "normal" }
     ],
   },
   problem: {
@@ -46,7 +46,7 @@ export const GraphicDesignContent = {
       {
         icon: "Eye",
         title: "The Brand Perception Gap",
-        body: "75% of consumers judge a company's credibility based on its website design, and 94% of first impressions are design-related. A visually inconsistent brand — different fonts, different colours, different quality levels across touchpoints — communicates fragmentation regardless of what the content says.",
+        body: "75% of consumers judge a company's credibility based on its website design, and 94% of first impressions are design-related. A visually inconsistent brand different fonts, different colours, different quality levels across touchpoints communicates fragmentation regardless of what the content says.",
       },
       {
         icon: "PenTool",
@@ -56,7 +56,7 @@ export const GraphicDesignContent = {
       {
         icon: "BarChart3",
         title: "The Scale Problem",
-        body: "As businesses grow, design volume grows faster than anticipated. New campaigns, markets, channels, and products require assets. Without scalable design infrastructure — a design system, brand asset library, and production process — design becomes a bottleneck that slows marketing execution.",
+        body: "As businesses grow, design volume grows faster than anticipated. New campaigns, markets, channels, and products require assets. Without scalable design infrastructure a design system, brand asset library, and production process design becomes a bottleneck that slows marketing execution.",
       },
     ],
   },
@@ -67,15 +67,15 @@ export const GraphicDesignContent = {
       tag: "Brand Identity",
       title: "Brand Identity and Logo Design",
       intro:
-        "The visual foundation that every other piece of design work builds on — logo mark, colour palette, typography system, photography style, and usage rules.",
+        "The visual foundation that every other piece of design work builds on logo mark, colour palette, typography system, photography style, and usage rules.",
       blocks: [
         {
           h: "Brand Identity as the Visual Foundation",
-          p: "We begin every brand identity engagement with brand strategy: understanding the business's positioning, target audience, competitive context, and brand personality attributes the visual system should communicate — ensuring the logo works strategically, not just aesthetically.",
+          p: "We begin every brand identity engagement with brand strategy: understanding the business's positioning, target audience, competitive context, and brand personality attributes the visual system should communicate ensuring the logo works strategically, not just aesthetically.",
         },
         {
           h: "Logo Design and Mark Development",
-          p: "Wordmarks (brand name in custom typeface), lettermarks (initials as marks), pictorial marks (graphic symbols), combination marks (symbol + wordmark), and emblems (name integrated into symbol) — the right mark type depends on brand name length, usage contexts, and positioning.",
+          p: "Wordmarks (brand name in custom typeface), lettermarks (initials as marks), pictorial marks (graphic symbols), combination marks (symbol + wordmark), and emblems (name integrated into symbol) the right mark type depends on brand name length, usage contexts, and positioning.",
         },
         {
           h: "Brand Guidelines and Usage Documentation",
@@ -89,11 +89,11 @@ export const GraphicDesignContent = {
       tag: "Collateral",
       title: "Marketing Collateral Design",
       intro:
-        "Brochures, sales presentations, pitch decks, trade show displays, packaging, and proposal documents — designed within the brand identity system.",
+        "Brochures, sales presentations, pitch decks, trade show displays, packaging, and proposal documents designed within the brand identity system.",
       blocks: [
         {
           h: "Print and Digital Marketing Materials",
-          p: "Brochures and product catalogues, sales presentations and pitch decks, direct mail and printed advertising, trade show displays and event materials, packaging design, and proposal/tender documents — each designed to inform and persuade at every stage of the consideration journey.",
+          p: "Brochures and product catalogues, sales presentations and pitch decks, direct mail and printed advertising, trade show displays and event materials, packaging design, and proposal/tender documents each designed to inform and persuade at every stage of the consideration journey.",
         },
         {
           h: "Brand Consistency Across Every Format",
@@ -107,7 +107,7 @@ export const GraphicDesignContent = {
       tag: "Digital Design",
       title: "Digital Design and Social Media Graphics",
       intro:
-        "Social media design systems, digital advertising creative, and email template design — enabling consistent, professional content at volume.",
+        "Social media design systems, digital advertising creative, and email template design enabling consistent, professional content at volume.",
       blocks: [
         {
           h: "Social Media Design Systems",
@@ -129,7 +129,7 @@ export const GraphicDesignContent = {
       tag: "Presentations",
       title: "Presentation and Document Design",
       intro:
-        "Pitch decks, investor presentations, corporate reports, and thought leadership documents — where visual quality most directly affects business outcomes.",
+        "Pitch decks, investor presentations, corporate reports, and thought leadership documents where visual quality most directly affects business outcomes.",
       blocks: [
         {
           h: "Pitch Deck and Investor Presentation Design",
@@ -137,7 +137,7 @@ export const GraphicDesignContent = {
         },
         {
           h: "Corporate Report and Publication Design",
-          p: "Annual reports, ESG reports, market research publications, and thought leadership documents — multi-page layout with consistent grid, typography, and visual hierarchy, data visualisation making quantitative information accessible, and production for both print and digital distribution.",
+          p: "Annual reports, ESG reports, market research publications, and thought leadership documents multi-page layout with consistent grid, typography, and visual hierarchy, data visualisation making quantitative information accessible, and production for both print and digital distribution.",
         },
       ],
     },
@@ -147,7 +147,7 @@ export const GraphicDesignContent = {
       tag: "Packaging",
       title: "Packaging Design",
       intro:
-        "For product businesses, packaging is the most important single design touchpoint — where brand promises are confirmed or contradicted by the physical product experience.",
+        "For product businesses, packaging is the most important single design touchpoint where brand promises are confirmed or contradicted by the physical product experience.",
       blocks: [
         {
           h: "Packaging as the Physical Brand Touchpoint",
@@ -165,19 +165,19 @@ export const GraphicDesignContent = {
       tag: "Illustration",
       title: "Illustration and Custom Visual Assets",
       intro:
-        "Custom illustration, icon sets, UI illustration libraries, and infographics — creating visual differentiation competitors cannot easily appropriate.",
+        "Custom illustration, icon sets, UI illustration libraries, and infographics creating visual differentiation competitors cannot easily appropriate.",
       blocks: [
         {
           h: "Custom Illustration",
-          p: "Flat vector illustration, editorial illustration, character illustration, or data visualisation illustration — developed specifically for the brand, impossible to replicate without significant investment, creating visual differentiation competitors cannot easily appropriate.",
+          p: "Flat vector illustration, editorial illustration, character illustration, or data visualisation illustration developed specifically for the brand, impossible to replicate without significant investment, creating visual differentiation competitors cannot easily appropriate.",
         },
         {
           h: "Icon Sets and UI Illustration",
-          p: "Custom icon sets for digital products and SaaS interfaces — the visual language of icons that communicates interface actions and states, illustration style explaining product concepts and onboarding steps, empty state and error state illustrations making the product feel crafted rather than generic.",
+          p: "Custom icon sets for digital products and SaaS interfaces the visual language of icons that communicates interface actions and states, illustration style explaining product concepts and onboarding steps, empty state and error state illustrations making the product feel crafted rather than generic.",
         },
         {
           h: "Infographic Design",
-          p: "Statistical infographics (translating quantitative data), process infographics (making multi-step workflows visually navigable), comparison infographics (presenting multi-dimensional comparisons), and concept infographics (explaining systems or ideas in visual terms) — the most shareable and link-earning content format.",
+          p: "Statistical infographics (translating quantitative data), process infographics (making multi-step workflows visually navigable), comparison infographics (presenting multi-dimensional comparisons), and concept infographics (explaining systems or ideas in visual terms) the most shareable and link-earning content format.",
         },
       ],
     },
@@ -188,33 +188,33 @@ export const GraphicDesignContent = {
       metric: "34%",
       sub: "proposal win rate increase · 31% → 41%",
       title: "Brand rebrand increases proposal win rate by 34%.",
-      body: "Management consulting firm with 12 consultants, 8-year-old brand identity from junior freelancer — generic logo, inconsistent typography, no brand guidelines. Solution: brand strategy session, logo development (3 directions, client selection, 3 refinement rounds), full brand guidelines, application design (proposal template, PowerPoint template, email signature, social templates, business card). Result: proposal win rate 31%→41% (34% improvement) in the quarter following launch. Three clients upgraded to higher-tier engagement packages, citing the firm's 'more senior' appearance as a factor in their confidence to invest further.",
+      body: "Management consulting firm with 12 consultants, 8-year-old brand identity from junior freelancer generic logo, inconsistent typography, no brand guidelines. Solution: brand strategy session, logo development (3 directions, client selection, 3 refinement rounds), full brand guidelines, application design (proposal template, PowerPoint template, email signature, social templates, business card). Result: proposal win rate 31%→41% (34% improvement) in the quarter following launch. Three clients upgraded to higher-tier engagement packages, citing the firm's 'more senior' appearance as a factor in their confidence to invest further.",
     },
     {
       tag: "Consumer Brand · Packaging Redesign",
       metric: "47%",
       sub: "retail velocity increase · 62% → 91%",
       title: "Packaging redesign increases retail velocity by 47%.",
-      body: "Premium supplement brand underperforming shelf category average — 62% sell-through vs 78% category average. Retailer feedback: packaging 'looked like a private label product.' Solution: category analysis of competitive shelf landscape, premium packaging redesign (matte finish, gold foil stamping, revised colour palette, revised typography), retail display packaging for key accounts. Result: retail sell-through 62%→91% (47% increase), 12% price increase accepted without volume impact, two additional retail chains agreed to stock the brand citing new packaging as deciding factor.",
+      body: "Premium supplement brand underperforming shelf category average 62% sell-through vs 78% category average. Retailer feedback: packaging 'looked like a private label product.' Solution: category analysis of competitive shelf landscape, premium packaging redesign (matte finish, gold foil stamping, revised colour palette, revised typography), retail display packaging for key accounts. Result: retail sell-through 62%→91% (47% increase), 12% price increase accepted without volume impact, two additional retail chains agreed to stock the brand citing new packaging as deciding factor.",
     },
     {
       tag: "Tech Startup · Design System",
       metric: "3x",
       sub: "content volume increase · 2 → 6 campaigns/month",
       title: "Design system enables marketing team to produce 3x more content.",
-      body: "B2B SaaS startup with 4-person marketing team spending 40% of hours on design production — adapting assets, resizing images, rebuilding materials from scratch. Solution: brand audit, design system development (Figma component library: social templates for 5 platforms, email templates, presentation templates, ad creative templates, document templates), brand guidelines refresh, team onboarding. Result: design production time 40%→12%, campaign velocity 2→6 per month (3x increase). CMO: 'functionally doubled the marketing team's output capacity without adding headcount.'",
+      body: "B2B SaaS startup with 4-person marketing team spending 40% of hours on design production adapting assets, resizing images, rebuilding materials from scratch. Solution: brand audit, design system development (Figma component library: social templates for 5 platforms, email templates, presentation templates, ad creative templates, document templates), brand guidelines refresh, team onboarding. Result: design production time 40%→12%, campaign velocity 2→6 per month (3x increase). CMO: 'functionally doubled the marketing team's output capacity without adding headcount.'",
     },
   ],
   why: [
     {
       icon: "Target",
       h: "Strategy before aesthetics",
-      p: "Every design engagement begins with understanding the strategic purpose — what it needs to communicate, to whom, in what context, and against what competitive landscape. Design decisions without strategic grounding are decoration. Design decisions with strategic grounding are communication infrastructure.",
+      p: "Every design engagement begins with understanding the strategic purpose what it needs to communicate, to whom, in what context, and against what competitive landscape. Design decisions without strategic grounding are decoration. Design decisions with strategic grounding are communication infrastructure.",
     },
     {
       icon: "Layers",
       h: "Brand system thinking, not individual asset production",
-      p: "We think in design systems — not individual deliverables. Every logo is designed within the context of the full brand identity it will anchor. Every marketing material within the brand system it will operate in. Individual assets not coordinated within a system produce the visual fragmentation that communicates brand inconsistency.",
+      p: "We think in design systems not individual deliverables. Every logo is designed within the context of the full brand identity it will anchor. Every marketing material within the brand system it will operate in. Individual assets not coordinated within a system produce the visual fragmentation that communicates brand inconsistency.",
     },
     {
       icon: "Grid",
@@ -224,7 +224,7 @@ export const GraphicDesignContent = {
     {
       icon: "Building",
       h: "Scalable design infrastructure",
-      p: "We don't just produce individual assets — we build the design infrastructure that makes future production faster, more consistent, and more cost-effective. Brand guidelines, design system component libraries, template systems, and brand asset libraries are infrastructure investments that pay dividends in every future piece of design work.",
+      p: "We don't just produce individual assets we build the design infrastructure that makes future production faster, more consistent, and more cost-effective. Brand guidelines, design system component libraries, template systems, and brand asset libraries are infrastructure investments that pay dividends in every future piece of design work.",
     },
   ],
   faqs: [
@@ -234,20 +234,20 @@ export const GraphicDesignContent = {
     },
     {
       q: "How long does a brand identity project take?",
-      a: "Focused brand identity (logo, colour palette, typography, core guidelines): 4-6 weeks — 1 week brand strategy, 2 weeks initial design direction and client selection, 1-2 weeks refinement, 1 week documentation and delivery. Comprehensive brand identity with full application design: 8-12 weeks.",
+      a: "Focused brand identity (logo, colour palette, typography, core guidelines): 4-6 weeks 1 week brand strategy, 2 weeks initial design direction and client selection, 1-2 weeks refinement, 1 week documentation and delivery. Comprehensive brand identity with full application design: 8-12 weeks.",
     },
     {
       q: "Do you work on individual design projects or ongoing design retainers?",
-      a: "Both. For ongoing needs, we offer monthly design retainers: set hours per month across any format — social graphics, ad creative, presentation updates, email templates, event materials. Retainers ensure reliable design production capacity without per-project sourcing. For specific project requirements, we scope and produce individual projects.",
+      a: "Both. For ongoing needs, we offer monthly design retainers: set hours per month across any format social graphics, ad creative, presentation updates, email templates, event materials. Retainers ensure reliable design production capacity without per-project sourcing. For specific project requirements, we scope and produce individual projects.",
     },
     {
       q: "What files do you deliver for logo and brand identity work?",
       p: true,
-      a: "Standard deliverables: vector source files (AI/EPS — master format in full colour, reversed/white, and single-colour variants), print-ready PDF versions, web-optimised PNG versions (transparent background, colour variants), SVG versions for web/icon use, and font files for purchased typefaces. All logo variants: primary horizontal, stacked, icon/mark, white reversed, and black/dark reversed.",
+      a: "Standard deliverables: vector source files (AI/EPS master format in full colour, reversed/white, and single-colour variants), print-ready PDF versions, web-optimised PNG versions (transparent background, colour variants), SVG versions for web/icon use, and font files for purchased typefaces. All logo variants: primary horizontal, stacked, icon/mark, white reversed, and black/dark reversed.",
     },
     {
       q: "Can you refresh an existing brand without a complete redesign?",
-      a: "Yes — brand refreshes are often preferable to complete rebrands for established businesses. A refresh evolves the existing visual identity — updating typography, refining colour palette, modernising logo execution, improving guidelines — without abandoning built equity. Decision between refresh and full rebrand depends on how well the existing brand communicates current positioning, existing equity, and strategic shift needed.",
+      a: "Yes brand refreshes are often preferable to complete rebrands for established businesses. A refresh evolves the existing visual identity updating typography, refining colour palette, modernising logo execution, improving guidelines without abandoning built equity. Decision between refresh and full rebrand depends on how well the existing brand communicates current positioning, existing equity, and strategic shift needed.",
     },
     {
       q: "Do you handle print production and supplier management?",
@@ -255,11 +255,11 @@ export const GraphicDesignContent = {
     },
     {
       q: "Can you design for both print and digital from the same brief?",
-      a: "Yes — and designing for both media from the same strategic brief is always preferable to treating them separately. Brand identity decisions must work across both media: colour decisions with screen and print reproduction in mind, typography licensed for web and print use, and design system developed with format adaptations each medium requires built in from the start.",
+      a: "Yes and designing for both media from the same strategic brief is always preferable to treating them separately. Brand identity decisions must work across both media: colour decisions with screen and print reproduction in mind, typography licensed for web and print use, and design system developed with format adaptations each medium requires built in from the start.",
     },
     {
       q: "Do you create all design assets in-house or outsource to freelancers?",
-      a: "All design work is produced by our in-house design team — not outsourced. In-house production ensures consistent quality standards across deliverables, direct accountability, institutional knowledge of each client's brand identity enabling efficient subsequent production, and direct communication between designers and strategists/account managers. We do not act as a middleman between clients and freelance designers.",
+      a: "All design work is produced by our in-house design team not outsourced. In-house production ensures consistent quality standards across deliverables, direct accountability, institutional knowledge of each client's brand identity enabling efficient subsequent production, and direct communication between designers and strategists/account managers. We do not act as a middleman between clients and freelance designers.",
     },
     {
       q: "How do I get started?",
@@ -269,7 +269,7 @@ export const GraphicDesignContent = {
   cta: {
     title: "Ready for Design That Works as Hard as Your Business Does?",
     description:
-      "The brands that look like leaders in their markets are not always the ones with the best products or the most experienced teams. They are the ones that understood early that visual communication is not decoration — it is the first message their market receives, and the message their market judges them by before any other evidence is available. We design that first message precisely, strategically, and to the standard your business deserves to be judged by.",
+      "The brands that look like leaders in their markets are not always the ones with the best products or the most experienced teams. They are the ones that understood early that visual communication is not decoration it is the first message their market receives, and the message their market judges them by before any other evidence is available. We design that first message precisely, strategically, and to the standard your business deserves to be judged by.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     brandingLink: "https://clickmastersdigitalmarketing.com/conversion-rate-optimization/branding-identity/",
@@ -279,6 +279,6 @@ export const GraphicDesignContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Graphic design specialist | 10+ years",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | Graphic design specialist | 10+ years",
   },
 };

@@ -14,7 +14,7 @@ export const RemarketingRetargetingContent = {
     titleHighlight: "Retargeting",
     subtitle: "— convert the visitors who left without buying.",
     description:
-      "Here is the uncomfortable mathematics of website traffic: 97 percent of first-time visitors to the average website leave without converting. They browsed your service pages, read your about page, perhaps even looked at your pricing — and then they left. For whatever reason — distraction, comparison shopping, not quite ready to commit — they did not take the action you wanted them to take. Without remarketing, they are gone permanently. Your marketing budget acquired them, your website earned their attention, your content built some degree of interest — and then a competitor's ad appeared in their feed an hour later, and they converted there instead.",
+      "Here is the uncomfortable mathematics of website traffic: 97 percent of first-time visitors to the average website leave without converting. They browsed your service pages, read your about page, perhaps even looked at your pricing and then they left. For whatever reason distraction, comparison shopping, not quite ready to commit they did not take the action you wanted them to take. Without remarketing, they are gone permanently. Your marketing budget acquired them, your website earned their attention, your content built some degree of interest and then a competitor's ad appeared in their feed an hour later, and they converted there instead.",
     stats: [
       { k: "97%", v: "First-time visitors leave" },
       { k: "2-5x", v: "Higher conversion rate" },
@@ -24,14 +24,14 @@ export const RemarketingRetargetingContent = {
   },
   intro: {
     problem: [
-      { text: "Remarketing is the discipline of recovering that lost potential. It is the practice of tracking users who have visited your website, engaged with your content, watched your videos, or interacted with your brand — and then serving them targeted advertising that re-engages them with precisely the right message at precisely the right moment in their consideration journey. It is not spam. It is not pestering. It is ", type: "normal" },
+      { text: "Remarketing is the discipline of recovering that lost potential. It is the practice of tracking users who have visited your website, engaged with your content, watched your videos, or interacted with your brand and then serving them targeted advertising that re-engages them with precisely the right message at precisely the right moment in their consideration journey. It is not spam. It is not pestering. It is ", type: "normal" },
       { text: "intelligent, audience-informed advertising", type: "highlight" },
       { text: " that uses what you already know about a prospect's behavior and interests to serve them more relevant, more compelling advertising than you could serve a cold stranger.", type: "normal" }
     ],
     solution:
       "The economics of remarketing are consistently compelling. Visitors who have already shown interest in your brand convert at 2 to 5 times the rate of cold audiences for equivalent ad spend. Your cost-per-acquisition for remarketed audiences is consistently 30 to 60 percent lower than for cold audiences.",
     promise:
-      "At Clickmasters Digital Marketing, our remarketing and retargeting service builds the cross-platform, multi-stage audience systems that recover the 97 percent — turning website visitors, video viewers, email subscribers, and past customers into converted leads, completed purchases, and renewed relationships.",
+      "At Clickmasters Digital Marketing, our remarketing and retargeting service builds the cross-platform, multi-stage audience systems that recover the 97 percent turning website visitors, video viewers, email subscribers, and past customers into converted leads, completed purchases, and renewed relationships.",
   },
   problem: {
     title: "Why Most Businesses Are Leaving",
@@ -40,17 +40,17 @@ export const RemarketingRetargetingContent = {
       {
         icon: "Users",
         title: "The Traffic Acquisition Problem",
-        body: "When only 3 percent of first-time visitors convert and you do nothing to recover the remaining 97 percent, every dollar spent on traffic acquisition is 97 cents wasted. A well-structured remarketing program consistently recovers 10 to 25 percent of visitors who left without converting — transforming the economics of traffic acquisition dramatically.",
+        body: "When only 3 percent of first-time visitors convert and you do nothing to recover the remaining 97 percent, every dollar spent on traffic acquisition is 97 cents wasted. A well-structured remarketing program consistently recovers 10 to 25 percent of visitors who left without converting transforming the economics of traffic acquisition dramatically.",
       },
       {
         icon: "ShoppingCart",
         title: "The Funnel Abandonment Problem",
-        body: "Cart abandonment, pricing page visitors, product viewers, and partial form completions represent particularly high-value remarketing opportunities. These users have demonstrated meaningful purchase consideration and were a button-click away from buying — making them the highest-converting remarketing segments available.",
+        body: "Cart abandonment, pricing page visitors, product viewers, and partial form completions represent particularly high-value remarketing opportunities. These users have demonstrated meaningful purchase consideration and were a button-click away from buying making them the highest-converting remarketing segments available.",
       },
       {
         icon: "RefreshCw",
         title: "The Customer Retention Opportunity",
-        body: "Past customers are the most efficient audience for future revenue generation — they know your brand, have trusted it with a previous purchase, and their acquisition cost is zero. Retention-focused remarketing produces the lowest cost-per-revenue in any paid advertising program.",
+        body: "Past customers are the most efficient audience for future revenue generation they know your brand, have trusted it with a previous purchase, and their acquisition cost is zero. Retention-focused remarketing produces the lowest cost-per-revenue in any paid advertising program.",
       },
     ],
     afterTitle: "The Clickmasters Remarketing",
@@ -59,17 +59,17 @@ export const RemarketingRetargetingContent = {
       {
         icon: "PieChart",
         title: "Audience Segmentation",
-        body: "Dividing website visitors into distinct segments based on behavior, intent signals, and funnel stage — from broad visitors to high-intent page viewers to cart abandoners to past customers — each receiving messaging calibrated to their position in the purchase journey.",
+        body: "Dividing website visitors into distinct segments based on behavior, intent signals, and funnel stage from broad visitors to high-intent page viewers to cart abandoners to past customers each receiving messaging calibrated to their position in the purchase journey.",
       },
       {
         icon: "Layout",
         title: "Cross-Platform Execution",
-        body: "Coordinated remarketing across Google Display, Google Search (RLSA), Performance Max, Meta (Facebook/Instagram), LinkedIn, and YouTube — ensuring prospects encounter your brand wherever they spend time online.",
+        body: "Coordinated remarketing across Google Display, Google Search (RLSA), Performance Max, Meta (Facebook/Instagram), LinkedIn, and YouTube ensuring prospects encounter your brand wherever they spend time online.",
       },
       {
         icon: "Target",
         title: "Sequential Creative Strategy",
-        body: "Rather than showing the same ad repeatedly, sequential remarketing evolves the message across time — brand awareness → product benefit → social proof → conversion offer — maintaining engagement that flat repetition destroys.",
+        body: "Rather than showing the same ad repeatedly, sequential remarketing evolves the message across time brand awareness → product benefit → social proof → conversion offer maintaining engagement that flat repetition destroys.",
       },
     ],
   },
@@ -78,17 +78,17 @@ export const RemarketingRetargetingContent = {
       n: "01",
       icon: "Users",
       tag: "Audience",
-      title: "Remarketing Audience Architecture — Building the Right Segments",
+      title: "Remarketing Audience Architecture Building the Right Segments",
       intro:
-        "The foundation of effective remarketing is audience segmentation — dividing visitors into distinct segments based on behavior, intent, and funnel stage.",
+        "The foundation of effective remarketing is audience segmentation dividing visitors into distinct segments based on behavior, intent, and funnel stage.",
       blocks: [
         {
           h: "All Website Visitors (Broad Remarketing)",
-          p: "The broadest segment — all users who visited the website in a specified timeframe (30-90 days). Provides general brand recall function and is most appropriate for brand awareness and consideration messaging.",
+          p: "The broadest segment all users who visited the website in a specified timeframe (30-90 days). Provides general brand recall function and is most appropriate for brand awareness and consideration messaging.",
         },
         {
           h: "High-Intent Page Visitors (Segment Remarketing)",
-          p: "Users who visited pricing pages, service pages, demo pages, and contact pages are segmented separately — demonstrating meaningful purchase consideration and warranting direct conversion-focused messaging.",
+          p: "Users who visited pricing pages, service pages, demo pages, and contact pages are segmented separately demonstrating meaningful purchase consideration and warranting direct conversion-focused messaging.",
         },
         {
           h: "Customer & Email List Audiences (CRM Remarketing)",
@@ -110,7 +110,7 @@ export const RemarketingRetargetingContent = {
         },
         {
           h: "Meta Remarketing (Facebook & Instagram)",
-          p: "Website custom audiences, catalog sales campaigns (dynamic product ads for e-commerce), video viewer audiences, and CRM-based customer and lead audiences — particularly effective for cart abandonment.",
+          p: "Website custom audiences, catalog sales campaigns (dynamic product ads for e-commerce), video viewer audiences, and CRM-based customer and lead audiences particularly effective for cart abandonment.",
         },
         {
           h: "LinkedIn & YouTube Remarketing",
@@ -122,9 +122,9 @@ export const RemarketingRetargetingContent = {
       n: "03",
       icon: "PenTool",
       tag: "Creative",
-      title: "Remarketing Creative Strategy — Right Message for Each Stage",
+      title: "Remarketing Creative Strategy Right Message for Each Stage",
       intro:
-        "Remarketing creative must differ from cold audience creative — users who have visited your pricing page do not need product introduction; they need a reason to take the next step.",
+        "Remarketing creative must differ from cold audience creative users who have visited your pricing page do not need product introduction; they need a reason to take the next step.",
       blocks: [
         {
           h: "Broad Visitor Creative",
@@ -132,11 +132,11 @@ export const RemarketingRetargetingContent = {
         },
         {
           h: "High-Intent & Cart Abandoner Creative",
-          p: "Testimonials, case studies, specific ROI claims, risk-reversal offers. Cart abandoners receive dynamic product display with scarcity, social proof, and friction reduction — typically the highest-ROAS creative.",
+          p: "Testimonials, case studies, specific ROI claims, risk-reversal offers. Cart abandoners receive dynamic product display with scarcity, social proof, and friction reduction typically the highest-ROAS creative.",
         },
         {
           h: "Customer Retention Creative",
-          p: "Loyalty acknowledgment, cross-sell suggestions based on purchase history, exclusive offers for returning customers — feeling like recognition, not advertising.",
+          p: "Loyalty acknowledgment, cross-sell suggestions based on purchase history, exclusive offers for returning customers feeling like recognition, not advertising.",
         },
       ],
     },
@@ -144,13 +144,13 @@ export const RemarketingRetargetingContent = {
       n: "04",
       icon: "Database",
       tag: "Tracking",
-      title: "Remarketing Tracking Infrastructure — Building the Data Foundation",
+      title: "Remarketing Tracking Infrastructure Building the Data Foundation",
       intro:
         "Remarketing campaigns built on poor tracking infrastructure produce poor results. We audit and correct tracking before building campaigns.",
       blocks: [
         {
           h: "Pixel and Tag Implementation Audit",
-          p: "We audit every tracking pixel — Google Ads Remarketing Tag, Meta Pixel and Conversions API, LinkedIn Insight Tag — verifying they fire correctly, key events pass proper parameters, and audiences build accurately.",
+          p: "We audit every tracking pixel Google Ads Remarketing Tag, Meta Pixel and Conversions API, LinkedIn Insight Tag verifying they fire correctly, key events pass proper parameters, and audiences build accurately.",
         },
         {
           h: "First-Party Data Strategy",
@@ -164,11 +164,11 @@ export const RemarketingRetargetingContent = {
       tag: "Frequency",
       title: "Remarketing Frequency Management and Audience Exclusions",
       intro:
-        "The most common remarketing error — showing the same ad 40 times in a week — is not remarketing, it is harassment. We implement systematic frequency controls.",
+        "The most common remarketing error showing the same ad 40 times in a week is not remarketing, it is harassment. We implement systematic frequency controls.",
       blocks: [
         {
           h: "Frequency Capping",
-          p: "We implement frequency caps on all campaigns: 3-7 impressions per user per week for display remarketing, 2-3 per week for social remarketing — maintaining visibility without annoyance.",
+          p: "We implement frequency caps on all campaigns: 3-7 impressions per user per week for display remarketing, 2-3 per week for social remarketing maintaining visibility without annoyance.",
         },
         {
           h: "Audience Exclusions & Sequential Remarketing",
@@ -180,7 +180,7 @@ export const RemarketingRetargetingContent = {
       n: "06",
       icon: "LineChart",
       tag: "Process",
-      title: "Our Remarketing Service Process — From Audit to Full Deployment",
+      title: "Our Remarketing Service Process From Audit to Full Deployment",
       intro:
         "A structured process from tracking audit through infrastructure build to campaign launch and ongoing optimization.",
       blocks: [
@@ -221,13 +221,13 @@ export const RemarketingRetargetingContent = {
   why: [
     {
       icon: "Layout",
-      h: "Cross-platform remarketing architecture — not single-platform campaigns",
-      p: "Standalone remarketing on a single platform reaches only the portion of your audience that uses that platform. Cross-platform remarketing — coordinated across Google, Meta, LinkedIn, and YouTube — ensures your brand remains visible regardless of where your prospects spend their time.",
+      h: "Cross-platform remarketing architecture not single-platform campaigns",
+      p: "Standalone remarketing on a single platform reaches only the portion of your audience that uses that platform. Cross-platform remarketing coordinated across Google, Meta, LinkedIn, and YouTube ensures your brand remains visible regardless of where your prospects spend their time.",
     },
     {
       icon: "Database",
       h: "Tracking infrastructure first",
-      p: "Remarketing campaigns built on poor tracking produce poor results. We audit and correct tracking before building campaigns — ensuring every audience segment is accurately populated, every conversion correctly attributed, and every optimization decision based on real data.",
+      p: "Remarketing campaigns built on poor tracking produce poor results. We audit and correct tracking before building campaigns ensuring every audience segment is accurately populated, every conversion correctly attributed, and every optimization decision based on real data.",
     },
     {
       icon: "PieChart",
@@ -237,45 +237,45 @@ export const RemarketingRetargetingContent = {
     {
       icon: "ShieldCheck",
       h: "Privacy-compliant first-party data strategy",
-      p: "As third-party cookies are deprecated, remarketing built exclusively on cookie-based pixels becomes less effective. Our service includes first-party data strategy — server-side tracking, CRM integration, and email-list-based Custom Audiences that maintain remarketing reach.",
+      p: "As third-party cookies are deprecated, remarketing built exclusively on cookie-based pixels becomes less effective. Our service includes first-party data strategy server-side tracking, CRM integration, and email-list-based Custom Audiences that maintain remarketing reach.",
     },
   ],
   faqs: [
     {
       q: "What is the difference between remarketing and retargeting?",
-      a: "In common usage, the terms are interchangeable — both describe advertising to audiences who have previously interacted with your brand. Technically, 'retargeting' refers specifically to pixel-based advertising to past website visitors, while 'remarketing' in Google's terminology encompasses both pixel-based advertising and list-based re-engagement (Customer Match, email marketing to past purchasers). Our service covers both mechanisms as an integrated program.",
+      a: "In common usage, the terms are interchangeable both describe advertising to audiences who have previously interacted with your brand. Technically, 'retargeting' refers specifically to pixel-based advertising to past website visitors, while 'remarketing' in Google's terminology encompasses both pixel-based advertising and list-based re-engagement (Customer Match, email marketing to past purchasers). Our service covers both mechanisms as an integrated program.",
     },
     {
       q: "Does remarketing feel intrusive to users? Can it damage our brand perception?",
-      a: "Poorly executed remarketing — too high frequency, irrelevant creative, showing ads to users who have already purchased — damages brand perception. Well-executed remarketing is simply relevant advertising. The difference is frequency management (capping ads at 3-5 per week), audience exclusions (removing converters and disinterested users), and creative relevance (matching the message to what the user actually did). We implement all three from day one.",
+      a: "Poorly executed remarketing too high frequency, irrelevant creative, showing ads to users who have already purchased damages brand perception. Well-executed remarketing is simply relevant advertising. The difference is frequency management (capping ads at 3-5 per week), audience exclusions (removing converters and disinterested users), and creative relevance (matching the message to what the user actually did). We implement all three from day one.",
     },
     {
       q: "How large does my audience need to be for remarketing to work?",
-      a: "Google Display and YouTube remarketing require minimum 100 users. Meta requires 20-100 depending on objective. LinkedIn requires 300+ matched members. For most businesses, website remarketing audiences reach thresholds quickly — even 500-1,000 monthly visitors build actionable audiences within weeks. For very low-traffic sites (<200 monthly visitors), we focus first on building audiences through content and advertising.",
+      a: "Google Display and YouTube remarketing require minimum 100 users. Meta requires 20-100 depending on objective. LinkedIn requires 300+ matched members. For most businesses, website remarketing audiences reach thresholds quickly even 500-1,000 monthly visitors build actionable audiences within weeks. For very low-traffic sites (<200 monthly visitors), we focus first on building audiences through content and advertising.",
     },
     {
       q: "Can I remarket to people who visited my site months ago?",
-      a: "Yes — remarketing membership windows can be set from 1 day to 540 days depending on platform. The value diminishes significantly with time. We typically use 30-90 day windows for high-intent remarketing and up to 180 days for broader brand awareness. We analyze conversion latency in your data to determine the most effective window for your sales cycle.",
+      a: "Yes remarketing membership windows can be set from 1 day to 540 days depending on platform. The value diminishes significantly with time. We typically use 30-90 day windows for high-intent remarketing and up to 180 days for broader brand awareness. We analyze conversion latency in your data to determine the most effective window for your sales cycle.",
     },
     {
       q: "Does remarketing work for B2B businesses?",
-      a: "Yes — and it is particularly valuable for B2B with long sales cycles. B2B prospects typically visit a vendor's website multiple times across multi-week or multi-month evaluations. Remarketing ensures your brand remains top-of-mind across that entire evaluation period — on Google Search (via RLSA), LinkedIn (via website custom audiences), and across the display web — consistently producing measurable improvements in demo request rates and pipeline conversion.",
+      a: "Yes and it is particularly valuable for B2B with long sales cycles. B2B prospects typically visit a vendor's website multiple times across multi-week or multi-month evaluations. Remarketing ensures your brand remains top-of-mind across that entire evaluation period on Google Search (via RLSA), LinkedIn (via website custom audiences), and across the display web consistently producing measurable improvements in demo request rates and pipeline conversion.",
     },
     {
       q: "How do I set up remarketing if I don't have a developer?",
-      a: "We manage remarketing infrastructure through Google Tag Manager — a tag management system that allows pixel and event tracking deployment without developer involvement, using a single GTM code snippet added to your site by your CMS. For Shopify, WooCommerce, WordPress, Wix, and most popular platforms, GTM installation typically requires 10-15 minutes and no custom coding.",
+      a: "We manage remarketing infrastructure through Google Tag Manager a tag management system that allows pixel and event tracking deployment without developer involvement, using a single GTM code snippet added to your site by your CMS. For Shopify, WooCommerce, WordPress, Wix, and most popular platforms, GTM installation typically requires 10-15 minutes and no custom coding.",
     },
     {
       q: "How do you measure the ROI of remarketing campaigns?",
-      a: "We measure remarketing ROI through: direct conversion attribution (clicks on remarketing ads), view-through conversion attribution (conversions after seeing an ad without clicking), and incrementality analysis (comparing conversion rates of remarketed vs non-remarketed audiences). For e-commerce, ROAS is the primary metric — remarketing campaigns consistently deliver 3-8x ROAS across our client portfolio.",
+      a: "We measure remarketing ROI through: direct conversion attribution (clicks on remarketing ads), view-through conversion attribution (conversions after seeing an ad without clicking), and incrementality analysis (comparing conversion rates of remarketed vs non-remarketed audiences). For e-commerce, ROAS is the primary metric remarketing campaigns consistently deliver 3-8x ROAS across our client portfolio.",
     },
     {
       q: "Can remarketing work alongside our email marketing program?",
-      a: "Yes — remarketing and email marketing are most powerful when integrated. For known contacts in your CRM, email sequences and paid remarketing can reinforce each other: a prospect who receives a re-engagement email and sees remarketing ads experiences twice the touchpoints, increasing return and conversion probability. We integrate remarketing audience building with email platforms through CRM Custom Audience uploads and coordinate messaging consistency.",
+      a: "Yes remarketing and email marketing are most powerful when integrated. For known contacts in your CRM, email sequences and paid remarketing can reinforce each other: a prospect who receives a re-engagement email and sees remarketing ads experiences twice the touchpoints, increasing return and conversion probability. We integrate remarketing audience building with email platforms through CRM Custom Audience uploads and coordinate messaging consistency.",
     },
     {
       q: "How quickly can we set up a remarketing program?",
-      a: "Basic remarketing infrastructure — pixel installation, initial audience build, first campaigns — can be operational within 2-3 weeks. Simple website remarketing with existing pixels and a product catalog already in Merchant Center can be operational in 1 week. Complex programs involving server-side tracking, CRM integration, and multi-platform builds across 4-6 audience segments typically require 3-4 weeks from audit to full deployment.",
+      a: "Basic remarketing infrastructure pixel installation, initial audience build, first campaigns can be operational within 2-3 weeks. Simple website remarketing with existing pixels and a product catalog already in Merchant Center can be operational in 1 week. Complex programs involving server-side tracking, CRM integration, and multi-platform builds across 4-6 audience segments typically require 3-4 weeks from audit to full deployment.",
     },
     {
       q: "How do I get started?",
@@ -285,7 +285,7 @@ export const RemarketingRetargetingContent = {
   cta: {
     title: "Ready to Stop Losing the 97% and Start Recovering Revenue?",
     description:
-      "Every month you run paid acquisition campaigns without remarketing is a month you are paying to bring prospects to your door and letting 97 percent of them walk away without a second chance. The visitors who left without converting were not necessarily uninterested — they were often interrupted, distracted, or not quite ready. Remarketing gives them the second chance they would have taken if the timing had been better. The audience is already there. The interest has already been demonstrated. Remarketing is the mechanism that converts that demonstrated interest into actual revenue — and it is consistently the highest-ROAS advertising investment available.",
+      "Every month you run paid acquisition campaigns without remarketing is a month you are paying to bring prospects to your door and letting 97 percent of them walk away without a second chance. The visitors who left without converting were not necessarily uninterested they were often interrupted, distracted, or not quite ready. Remarketing gives them the second chance they would have taken if the timing had been better. The audience is already there. The interest has already been demonstrated. Remarketing is the mechanism that converts that demonstrated interest into actual revenue and it is consistently the highest-ROAS advertising investment available.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     ppcLink: "https://clickmastersdigitalmarketing.com/ppc-management-services/",
@@ -295,6 +295,6 @@ export const RemarketingRetargetingContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Cross-platform remarketing specialist | 10+ years expertise",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | Cross-platform remarketing specialist | 10+ years expertise",
   },
 };

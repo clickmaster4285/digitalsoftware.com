@@ -14,7 +14,7 @@ export const BlogContent = {
     titleHighlight: "Blog",
     subtitle: "— practical digital marketing insights that drive real business growth.",
     description:
-      "The Clickmasters Digital Marketing Blog is where our team shares what we are learning from running digital marketing programmes across the USA, UK, UAE, Pakistan, Canada, and Australia — the specific tactics, the strategic frameworks, the market-specific intelligence, and the honest performance analysis that produce commercial growth for the businesses we serve.",
+      "The Clickmasters Digital Marketing Blog is where our team shares what we are learning from running digital marketing programmes across the USA, UK, UAE, Pakistan, Canada, and Australia the specific tactics, the strategic frameworks, the market-specific intelligence, and the honest performance analysis that produce commercial growth for the businesses we serve.",
     stats: [
       { k: "22,200/mo", v: "Readers" },
       { k: "6", v: "Markets covered" },
@@ -24,12 +24,12 @@ export const BlogContent = {
   },
   intro: {
     problem: [
-      { text: "This is not a content farm. We do not publish articles for the sake of keyword volume, and we do not produce generic digital marketing content that could have been written by anyone for anyone. Every article on this blog is written by the Clickmasters specialists who actually run the programmes — drawing on the ", type: "normal" },
+      { text: "This is not a content farm. We do not publish articles for the sake of keyword volume, and we do not produce generic digital marketing content that could have been written by anyone for anyone. Every article on this blog is written by the Clickmasters specialists who actually run the programmes drawing on the ", type: "normal" },
       { text: "real data, the real results, and the real challenges", type: "highlight" },
       { text: " that come from managing digital marketing for hundreds of businesses across six markets.", type: "normal" }
     ],
     solution:
-      "If you are a business owner trying to understand whether digital marketing is working for your business, a marketing director evaluating specific tactics, or a digital marketing professional looking for up-to-date, implementation-level guidance — this blog is for you.",
+      "If you are a business owner trying to understand whether digital marketing is working for your business, a marketing director evaluating specific tactics, or a digital marketing professional looking for up-to-date, implementation-level guidance this blog is for you.",
     promise: null,
   },
   categories: [
@@ -37,20 +37,20 @@ export const BlogContent = {
       title: "SEO Resources",
       icon: "Search",
       articles: [
-        { title: "How Google's Core Web Vitals Affect Your Rankings — and What to Do About Them", slug: "google-core-web-vitals-guide" },
+        { title: "How Google's Core Web Vitals Affect Your Rankings and What to Do About Them", slug: "google-core-web-vitals-guide" },
         { title: "The Complete Guide to Google Business Profile Optimisation for Local Businesses", slug: "google-business-profile-optimisation" },
         { title: "How to Fix Crawl Budget Issues on Large Websites", slug: "crawl-budget-optimisation" },
         { title: "Structured Data Implementation: The Types That Actually Affect Search Rankings", slug: "structured-data-seo-guide" },
         { title: "Site Migration SEO Checklist: 47 Steps to Protect Your Rankings", slug: "site-migration-seo-checklist" },
         { title: "What Google's E-E-A-T Framework Actually Means for Your Content Strategy", slug: "google-eeat-framework-guide" },
-        { title: "How to Produce Content That Ranks and Converts — Not Just One or the Other", slug: "content-that-ranks-and-converts" },
+        { title: "How to Produce Content That Ranks and Converts Not Just One or the Other", slug: "content-that-ranks-and-converts" },
         { title: "The YMYL Content Standard: What Healthcare, Legal, and Financial Websites Must Know", slug: "ymyl-content-standard-guide" },
         { title: "Long-Form vs Short-Form Content: When Each Wins and Why", slug: "long-form-vs-short-form-content" },
         { title: "Content Gap Analysis: Finding the Organic Traffic Your Competitors Are Capturing", slug: "content-gap-analysis-guide" },
         { title: "The Complete Google Business Profile Optimisation Guide for 2026", slug: "google-business-profile-guide-2026" },
         { title: "How to Build Local Citations That Actually Affect Your Rankings", slug: "local-citations-guide" },
         { title: "Neighbourhood-Level SEO: Why City-Level Targeting Is Not Enough", slug: "neighbourhood-level-seo" },
-        { title: "Review Acquisition Strategies That Work — and Comply With Platform Guidelines", slug: "review-acquisition-strategies" },
+        { title: "Review Acquisition Strategies That Work and Comply With Platform Guidelines", slug: "review-acquisition-strategies" },
         { title: "Local SEO for Multi-Location Businesses: Managing GBP at Scale", slug: "local-seo-multi-location" },
         { title: "Digital PR for SEO: How to Earn Links From Publications That Actually Matter", slug: "digital-pr-for-seo" },
         { title: "The Link Building Tactics That Work in 2026 (And the Ones That Don't)", slug: "link-building-tactics-2026" },
@@ -67,14 +67,14 @@ export const BlogContent = {
         { title: "Vehicle Listing Ads for Automotive Dealers: The Complete Setup Guide", slug: "vehicle-listing-ads-guide" },
         { title: "How to Structure Google Ads Campaigns for Law Firms and Professional Services", slug: "google-ads-law-firms" },
         { title: "Google Ads for Healthcare: HIPAA Compliance and Performance Optimisation", slug: "google-ads-healthcare-hipaa" },
-        { title: "Meta Ads ROAS Benchmarks by Industry — What Good Looks Like in 2026", slug: "meta-ads-roas-benchmarks-2026" },
+        { title: "Meta Ads ROAS Benchmarks by Industry What Good Looks Like in 2026", slug: "meta-ads-roas-benchmarks-2026" },
         { title: "Creative Strategy for Facebook and Instagram Ads That Actually Converts", slug: "meta-ads-creative-strategy" },
         { title: "Retargeting Architecture: Building the Funnel That Converts Warm Audiences", slug: "retargeting-architecture-guide" },
-        { title: "How to Target by Neighbourhood on Meta Ads — A Practical Guide", slug: "meta-ads-neighbourhood-targeting" },
+        { title: "How to Target by Neighbourhood on Meta Ads A Practical Guide", slug: "meta-ads-neighbourhood-targeting" },
         { title: "Meta Ads for Real Estate: International Buyer Targeting Strategies", slug: "meta-ads-real-estate" },
         { title: "LinkedIn B2B Campaign Architecture for Professional Services Firms", slug: "linkedin-b2b-campaign-architecture" },
         { title: "How to Target Specific Job Titles at Enterprise Companies on LinkedIn", slug: "linkedin-job-title-targeting" },
-        { title: "LinkedIn Thought Leadership Ads vs Sponsored Content — What Converts Better", slug: "linkedin-thought-leadership-ads" },
+        { title: "LinkedIn Thought Leadership Ads vs Sponsored Content What Converts Better", slug: "linkedin-thought-leadership-ads" },
         { title: "The LinkedIn Lead Gen Form Setup That Maximises Qualified Completion Rates", slug: "linkedin-lead-gen-forms-guide" },
       ],
     },
@@ -83,16 +83,16 @@ export const BlogContent = {
       icon: "ShoppingCart",
       articles: [
         { title: "The Klaviyo Setup Checklist Every DTC Brand Needs Before Spending on Ads", slug: "klaviyo-setup-checklist" },
-        { title: "Post-Purchase Email Sequences That Drive Repeat Revenue — With Templates", slug: "post-purchase-email-sequences" },
+        { title: "Post-Purchase Email Sequences That Drive Repeat Revenue With Templates", slug: "post-purchase-email-sequences" },
         { title: "How to Win Back Lapsed Customers: A Data-Driven Reactivation Framework", slug: "win-back-lapsed-customers" },
         { title: "Abandoned Cart Email Strategy: What Works, What Doesn't, and Why", slug: "abandoned-cart-email-strategy" },
         { title: "Email Revenue Benchmarks for DTC Brands: Are You Leaving Money on the Table?", slug: "email-revenue-benchmarks-dtc" },
         { title: "How to Rebuild Your Meta Ads Programme After Performance Decline", slug: "rebuild-meta-ads-programme" },
-        { title: "Meta Dynamic Product Ads — The Setup and Optimisation Guide", slug: "meta-dynamic-product-ads-guide" },
+        { title: "Meta Dynamic Product Ads The Setup and Optimisation Guide", slug: "meta-dynamic-product-ads-guide" },
         { title: "DTC Creative Strategy: The Ad Formats That Drive the Most Revenue in 2026", slug: "dtc-creative-strategy-2026" },
         { title: "Scaling Meta Ads From £10K to £100K Monthly Spend Without Losing ROAS", slug: "scaling-meta-ads-guide" },
         { title: "Amazon PPC Strategy for UK and US Sellers: The 2026 Guide", slug: "amazon-ppc-strategy-2026" },
-        { title: "A+ Content That Actually Drives Conversion — Examples and Templates", slug: "amazon-a-plus-content-guide" },
+        { title: "A+ Content That Actually Drives Conversion Examples and Templates", slug: "amazon-a-plus-content-guide" },
         { title: "How to Win the Amazon Buy Box: The Ranking Factors That Matter", slug: "amazon-buy-box-guide" },
         { title: "Noon.com and Amazon.ae Marketplace Strategy for UAE Brands", slug: "noon-amazon-uae-strategy" },
       ],
@@ -104,7 +104,7 @@ export const BlogContent = {
         { title: "The B2B Content Strategy That Generated £2.3M in Pipeline for a UK SaaS Company", slug: "b2b-content-strategy-case-study" },
         { title: "LinkedIn Thought Leadership: How to Write Content That Gets Decision-Maker Attention", slug: "linkedin-thought-leadership-content" },
         { title: "How to Build a Content Programme That Ranks, Converts, and Builds Authority Simultaneously", slug: "content-programme-strategy" },
-        { title: "The Editorial Calendar for B2B Technology Companies — A Practical Template", slug: "b2b-editorial-calendar-template" },
+        { title: "The Editorial Calendar for B2B Technology Companies A Practical Template", slug: "b2b-editorial-calendar-template" },
         { title: "Case Study Writing That Converts Prospects: Format, Structure, and Specificity", slug: "case-study-writing-guide" },
         { title: "Writing Healthcare Content That Complies With AHPRA, GDC, and CQC Guidelines", slug: "healthcare-content-compliance" },
         { title: "UK Legal Content That Meets SRA Advertising Standards and Ranks on Google", slug: "uk-legal-content-sra" },
@@ -138,7 +138,7 @@ export const BlogContent = {
   about: {
     title: "About the Clickmasters Blog",
     description:
-      "Every article on the Clickmasters blog is written by a member of our specialist team — the SEO practitioners who build and manage organic search programmes daily, the paid media managers who run campaigns across every major advertising platform, the content strategists who understand the specific quality standards that Google's algorithm rewards, and the market specialists who bring the geographic and regulatory knowledge that each market requires.",
+      "Every article on the Clickmasters blog is written by a member of our specialist team the SEO practitioners who build and manage organic search programmes daily, the paid media managers who run campaigns across every major advertising platform, the content strategists who understand the specific quality standards that Google's algorithm rewards, and the market specialists who bring the geographic and regulatory knowledge that each market requires.",
     points: [
       "Written by practitioners, not content producers",
       "No outsourcing to generalist content writers",
@@ -150,7 +150,7 @@ export const BlogContent = {
   newsletter: {
     title: "Subscribe to the Clickmasters Newsletter",
     description:
-      "The Clickmasters newsletter delivers the blog's most commercially significant insights to your inbox — the algorithm updates that affect rankings, the platform changes that affect advertising performance, and the case studies from our client portfolio that demonstrate what the current best practices actually produce in practice.",
+      "The Clickmasters newsletter delivers the blog's most commercially significant insights to your inbox the algorithm updates that affect rankings, the platform changes that affect advertising performance, and the case studies from our client portfolio that demonstrate what the current best practices actually produce in practice.",
     frequency: "2-4 emails per month",
     subscribeLink: "https://clickmastersdigitalmarketing.com/contact-us/",
   },
@@ -167,6 +167,6 @@ export const BlogContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
+    author: "Amjad Khan CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
   },
 };

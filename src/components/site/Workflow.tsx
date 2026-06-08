@@ -1,6 +1,64 @@
+"use client";
+
 import { motion } from "framer-motion";
 
-const code = `// clickmasters — shipping in production
+const KEYWORDS = new Set(["import", "export", "const", "await", "from", "then"]);
+
+const COLORS = {
+  comment: "#6b7280",
+  string: "#A8EFE0",
+  keyword: "#FF8FA3",
+  number: "#FFD43B",
+} as const;
+
+type TokenType = keyof typeof COLORS | "text";
+
+function tokenizeLine(line: string): { type: TokenType; value: string }[] {
+  const tokens: { type: TokenType; value: string }[] = [];
+  let i = 0;
+
+  while (i < line.length) {
+    if (line.slice(i, i + 2) === "//") {
+      tokens.push({ type: "comment", value: line.slice(i) });
+      break;
+    }
+    if (line[i] === '"') {
+      let j = i + 1;
+      while (j < line.length && line[j] !== '"') j++;
+      tokens.push({ type: "string", value: line.slice(i, j + 1) });
+      i = j + 1;
+      continue;
+    }
+    if (/\w/.test(line[i])) {
+      let j = i;
+      while (j < line.length && /\w/.test(line[j])) j++;
+      const word = line.slice(i, j);
+      if (KEYWORDS.has(word)) tokens.push({ type: "keyword", value: word });
+      else if (/^\d+$/.test(word)) tokens.push({ type: "number", value: word });
+      else tokens.push({ type: "text", value: word });
+      i = j;
+      continue;
+    }
+    tokens.push({ type: "text", value: line[i] });
+    i++;
+  }
+
+  return tokens;
+}
+
+function highlightLine(line: string) {
+  return tokenizeLine(line).map((token, j) =>
+    token.type === "text" ? (
+      <span key={j}>{token.value}</span>
+    ) : (
+      <span key={j} style={{ color: COLORS[token.type] }}>
+        {token.value}
+      </span>
+    ),
+  );
+}
+
+const code = `// clickmasters shipping in production
 import { build } from "@clickmasters";
 
 export const product = await build({
@@ -62,23 +120,17 @@ export const Workflow = () => (
           </div>
           <pre className="p-6 md:p-8 text-sm md:text-[15px] leading-relaxed font-mono">
 <code className="block whitespace-pre">
-{code.split("\n").map((line, i) => (
+{code.split("\n").map((line, lineIndex) => (
   <motion.div
-    key={i}
+    key={lineIndex}
     initial={{ opacity: 0, x: -10 }}
     whileInView={{ opacity: 1, x: 0 }}
     viewport={{ once: true }}
-    transition={{ duration: 0.4, delay: 0.2 + i * 0.08 }}
+    transition={{ duration: 0.4, delay: 0.2 + lineIndex * 0.08 }}
     className="whitespace-nowrap"
   >
-    <span className="inline-block w-6 text-zinc-600 select-none">{i + 1}</span>
-    <span dangerouslySetInnerHTML={{
-      __html: line
-        .replace(/(\/\/.*$)/g, '<span style="color:#6b7280">$1</span>')
-        .replace(/\b(import|export|const|await|from|then)\b/g, '<span style="color:#FF8FA3">$1</span>')
-        .replace(/("[^"]*")/g, '<span style="color:#A8EFE0">$1</span>')
-        .replace(/\b(\d+)\b/g, '<span style="color:#FFD43B">$1</span>')
-    }} />
+    <span className="inline-block w-6 text-zinc-600 select-none">{lineIndex + 1}</span>
+    {highlightLine(line)}
   </motion.div>
 ))}
 </code>

@@ -22,7 +22,7 @@ import { Awards } from "@/components/site/Awards";
 import { LumosSay } from "@/components/site/LumosSay";
 import { WhyLoved } from "@/components/site/WhyLoved";
 import { CeoCube } from "@/components/site/CeoCube";
-import Footer from "@/components/site/Footer";
+
 
 type Theme = { bg: string; fg: string };
 
@@ -37,7 +37,7 @@ export default function Home() {
   const themes: Theme[] = [LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, DARK, LIGHT, DARK];
 
   useEffect(() => {
-    document.title = "ClickMasters — Software crafted with care";
+    document.title = "ClickMasters Software crafted with care";
     const desc = "An independent software studio designing and engineering web platforms, apps and AI products for ambitious founders.";
     let m = document.querySelector('meta[name="description"]');
     if (!m) { m = document.createElement('meta'); m.setAttribute('name', 'description'); document.head.appendChild(m); }
@@ -59,20 +59,27 @@ export default function Home() {
 
   const t = themes[idx] ?? LIGHT;
 
-  useEffect(() => {
-    const root = document.documentElement;
-    root.style.setProperty("--background", t.bg);
-    root.style.setProperty("--foreground", t.fg);
-    root.style.setProperty("--border", t.fg === DARK.fg ? "0 0% 18%" : "0 0% 88%");
-    root.style.setProperty("--muted-foreground", t.fg === DARK.fg ? "0 0% 65%" : "0 0% 40%");
+useEffect(() => {
+  const root = document.documentElement;
 
-    return () => {
-      root.style.removeProperty("--background");
-      root.style.removeProperty("--foreground");
-      root.style.removeProperty("--border");
-      root.style.removeProperty("--muted-foreground");
-    };
-  }, [t.bg, t.fg]);
+  const isDark = t.bg === DARK.bg;
+
+  root.setAttribute(
+    "data-section-theme",
+    isDark ? "dark" : "light"
+  );
+
+  root.style.setProperty("--background", t.bg);
+  root.style.setProperty("--foreground", t.fg);
+  root.style.setProperty(
+    "--border",
+    t.fg === DARK.fg ? "0 0% 18%" : "0 0% 88%"
+  );
+  root.style.setProperty(
+    "--muted-foreground",
+    t.fg === DARK.fg ? "0 0% 65%" : "0 0% 40%"
+  );
+}, [t.bg, t.fg]);
 
   return (
     <div
@@ -88,7 +95,7 @@ export default function Home() {
     >
       
       <RoamingRobot />
-      <main>
+      <main className="relative">
         <section ref={(el) => { sections.current[0] = el; }}><Hero /></section>
         <section ref={(el) => { sections.current[1] = el; }}><Marquee /><Services /></section>
         <section ref={(el) => { sections.current[2] = el; }}><Solutions /></section>
@@ -97,7 +104,7 @@ export default function Home() {
         <section ref={(el) => { sections.current[5] = el; }}><Process /></section>
         <section ref={(el) => { sections.current[6] = el; }}><Workflow /></section>
         <section ref={(el) => { sections.current[7] = el; }}><Jiffz /></section>
-        {/* <section ref={(el) => { sections.current[8] = el; }}><Stats /></section> */}
+        <section ref={(el) => { sections.current[8] = el; }}><Stats /></section>
         <section ref={(el) => { sections.current[14] = el; }}><Awards /></section>
         <section ref={(el) => { sections.current[16] = el; }}><WhyLoved /></section>
         <section><CeoCube /></section>
@@ -110,7 +117,7 @@ export default function Home() {
         <section ref={(el) => { sections.current[12] = el; }}><FAQ /></section>
         <section ref={(el) => { sections.current[13] = el; }}><Contact /></section>
       </main>
-       <Footer />
+       {/* <Footer /> */}
     </div>
   );
 }

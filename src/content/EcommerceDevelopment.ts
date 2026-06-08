@@ -2,10 +2,10 @@ export const EcommerceDevContent = {
   slug: "ecommerce-development",
   metadata: {
     url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-development/",
-    seoTitle: "E-Commerce Development Services — Build Online Stores That Sell | Clickmasters",
+    seoTitle: "E-Commerce Development Services Build Online Stores That Sell | Clickmasters",
     metaDescription: "Expert e-commerce development for Shopify, WooCommerce & custom platforms. High-converting product pages, checkout optimization & systems integration. Free consultation today.",
     schema: "Service + FAQPage + Organization + BreadcrumbList",
-    author: "Amjad Khan, CEO — Clickmasters Digital Marketing",
+    author: "Amjad Khan, CEO Clickmasters Digital Marketing",
     primaryKeyword: "ecommerce development services (9,900/mo)",
     secondaryKeywords: "shopify development agency, woocommerce development services, custom ecommerce development, ecommerce website development company 2026",
     wordCount: "~5,100 words",
@@ -20,7 +20,7 @@ export const EcommerceDevContent = {
     title: "E-Commerce Development",
     titleHighlight: "Services",
     subtitle: "— build online stores that sell.",
-    description: "Every e-commerce website has two jobs. The first is to show products. The second — and the one that actually determines whether the business succeeds — is to convert visitors into buyers. Most e-commerce websites do the first job adequately and the second job poorly.\n\nThe gap between an e-commerce website that generates revenue and one that merely displays products is not marketing. It is development. It is the checkout flow that surfaces shipping costs before the payment step rather than at the payment step. It is the product page that answers every purchase question above the fold rather than burying answers in a description no one reads. It is the site speed that keeps mobile shoppers engaged rather than sending them to a competitor's site that loads in a second less. It is the search and filtering functionality that helps shoppers find what they want rather than browsing a catalog they give up on. It is the abandoned cart email integration that recaptures 10% of the revenue that almost happened.\n\nThese are development problems, not design problems. They require an e-commerce developer who understands conversion optimization at the code level — not just an agency that installs a Shopify theme and calls it done.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), our e-commerce development team has built and optimized online stores for businesses across the USA, UK, UAE, and Pakistan since 2015. We build on Shopify, Shopify Plus, WooCommerce, and custom platforms — and we build every store with the conversion architecture, performance standards, and technical integrations that turn traffic into revenue.",
+    description: "Every e-commerce website has two jobs. The first is to show products. The second and the one that actually determines whether the business succeeds is to convert visitors into buyers. Most e-commerce websites do the first job adequately and the second job poorly.\n\nThe gap between an e-commerce website that generates revenue and one that merely displays products is not marketing. It is development. It is the checkout flow that surfaces shipping costs before the payment step rather than at the payment step. It is the product page that answers every purchase question above the fold rather than burying answers in a description no one reads. It is the site speed that keeps mobile shoppers engaged rather than sending them to a competitor's site that loads in a second less. It is the search and filtering functionality that helps shoppers find what they want rather than browsing a catalog they give up on. It is the abandoned cart email integration that recaptures 10% of the revenue that almost happened.\n\nThese are development problems, not design problems. They require an e-commerce developer who understands conversion optimization at the code level not just an agency that installs a Shopify theme and calls it done.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), our e-commerce development team has built and optimized online stores for businesses across the USA, UK, UAE, and Pakistan since 2015. We build on Shopify, Shopify Plus, WooCommerce, and custom platforms and we build every store with the conversion architecture, performance standards, and technical integrations that turn traffic into revenue.",
     stats: [
       { k: "1.5-3%", v: "Avg conversion rate" },
       { k: "4-8%", v: "Well-optimized stores" },
@@ -37,7 +37,7 @@ export const EcommerceDevContent = {
       { text: ". That revenue difference is almost entirely determined by development decisions: the product page layout, the checkout flow, the mobile experience, the search functionality, and the page load speed.", type: "normal" }
     ],
     solution: "",
-    promise: "At Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), our e-commerce development team has built and optimized online stores for businesses across the USA, UK, UAE, and Pakistan since 2015. We build on Shopify, Shopify Plus, WooCommerce, and custom platforms — and we build every store with the conversion architecture, performance standards, and technical integrations that turn traffic into revenue.",
+    promise: "At Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), our e-commerce development team has built and optimized online stores for businesses across the USA, UK, UAE, and Pakistan since 2015. We build on Shopify, Shopify Plus, WooCommerce, and custom platforms and we build every store with the conversion architecture, performance standards, and technical integrations that turn traffic into revenue.",
   },
   problem: {
     title: "The Technical Foundation of",
@@ -51,17 +51,17 @@ export const EcommerceDevContent = {
       {
         icon: "Smartphone",
         title: "MOBILE COMMERCE IS THE PRIMARY CHANNEL",
-        body: "Over 65% of e-commerce traffic in 2026 arrives via mobile device. Mobile conversion rates are systematically lower than desktop conversion rates on most e-commerce stores — not because mobile shoppers are less intent, but because most stores are built for desktop and tolerated on mobile rather than genuinely designed and developed for mobile commerce. The stores closing the mobile-desktop conversion gap are doing so through mobile-first development: thumb-friendly navigation, single-tap checkout with Apple Pay and Google Pay, mobile-optimized product photography presentation, and touch-interaction-specific UX decisions."
+        body: "Over 65% of e-commerce traffic in 2026 arrives via mobile device. Mobile conversion rates are systematically lower than desktop conversion rates on most e-commerce stores not because mobile shoppers are less intent, but because most stores are built for desktop and tolerated on mobile rather than genuinely designed and developed for mobile commerce. The stores closing the mobile-desktop conversion gap are doing so through mobile-first development: thumb-friendly navigation, single-tap checkout with Apple Pay and Google Pay, mobile-optimized product photography presentation, and touch-interaction-specific UX decisions."
       },
       {
         icon: "Gauge",
         title: "PAGE SPEED IS A CONVERSION DRIVER, NOT JUST AN SEO FACTOR",
-        body: "Every 100ms increase in e-commerce page load time produces a measurable decrease in conversion rate. A product page that loads in 1.5 seconds converts significantly better than the same product page loading in 4 seconds — regardless of any other variable. E-commerce site speed is a development problem: image optimization, efficient code delivery, appropriate caching, CDN configuration, and third-party script management are all development deliverables that determine the speed at which a site loads for a real user on a real mobile device."
+        body: "Every 100ms increase in e-commerce page load time produces a measurable decrease in conversion rate. A product page that loads in 1.5 seconds converts significantly better than the same product page loading in 4 seconds regardless of any other variable. E-commerce site speed is a development problem: image optimization, efficient code delivery, appropriate caching, CDN configuration, and third-party script management are all development deliverables that determine the speed at which a site loads for a real user on a real mobile device."
       },
       {
         icon: "Plug",
         title: "SYSTEMS INTEGRATION IS THE BACKBONE OF OPERATIONS",
-        body: "An e-commerce store that does not integrate with inventory management, order management, accounting, shipping providers, and customer communication systems creates manual operational overhead that limits scale. Every store we build is integrated with the operational systems the business uses — not as an afterthought but as a core deliverable that determines whether the store can grow beyond what manual operations can support."
+        body: "An e-commerce store that does not integrate with inventory management, order management, accounting, shipping providers, and customer communication systems creates manual operational overhead that limits scale. Every store we build is integrated with the operational systems the business uses not as an afterthought but as a core deliverable that determines whether the store can grow beyond what manual operations can support."
       },
     ],
   },
@@ -74,15 +74,15 @@ export const EcommerceDevContent = {
       blocks: [
         {
           h: "CUSTOM SHOPIFY THEME DEVELOPMENT",
-          p: "We build custom Shopify themes using Shopify's Liquid templating language — engineered from scratch for the specific business's product catalog, brand identity, and conversion objectives. Custom themes: load only the assets the store actually uses (dramatically improving page speed vs bloated theme store purchases), are optimized for the specific product type (a clothing store requires different product page architecture than a supplement store or a home goods store), and are maintained and updated by us without dependency on third-party theme vendor support cycles.\n\nOur custom theme development includes: product page architecture designed for the specific purchase decision factors in the client's category (for fashion: size guide, styling photography, materials detail; for supplements: ingredient transparency, dosage guidance, certifications; for electronics: specification comparison, compatibility checker, warranty terms), collection page filtering and sorting optimized for the catalog structure, and a cart and checkout experience optimized for the specific friction points the category experiences."
+          p: "We build custom Shopify themes using Shopify's Liquid templating language engineered from scratch for the specific business's product catalog, brand identity, and conversion objectives. Custom themes: load only the assets the store actually uses (dramatically improving page speed vs bloated theme store purchases), are optimized for the specific product type (a clothing store requires different product page architecture than a supplement store or a home goods store), and are maintained and updated by us without dependency on third-party theme vendor support cycles.\n\nOur custom theme development includes: product page architecture designed for the specific purchase decision factors in the client's category (for fashion: size guide, styling photography, materials detail; for supplements: ingredient transparency, dosage guidance, certifications; for electronics: specification comparison, compatibility checker, warranty terms), collection page filtering and sorting optimized for the catalog structure, and a cart and checkout experience optimized for the specific friction points the category experiences."
         },
         {
           h: "SHOPIFY APP DEVELOPMENT AND INTEGRATION",
           p: "We develop custom Shopify apps for: complex product configurators (build-your-own bundles, custom engraving, made-to-order specifications), loyalty and rewards programs with specific calculation logic not served by existing apps, B2B ordering functionality (trade pricing, quote-to-order workflows, purchase order support), multi-location inventory display and management, and custom integration with specific ERP, POS, or warehouse management systems."
         },
         {
-          h: "SHOPIFY PLUS — ENTERPRISE E-COMMERCE",
-          p: "Shopify Plus provides: Checkout Extensibility (custom UI components in the checkout flow), Shopify Scripts (custom discount logic and cart transformations — percentage discounts based on quantity, product bundle pricing, tiered loyalty discounts), B2B wholesale functionality (separate B2B storefront, net payment terms, company and location management), multi-currency and multi-language storefronts, and expansion stores for regional brand variants. We develop specifically for the Shopify Plus tier's capabilities for merchants on that plan."
+          h: "SHOPIFY PLUS ENTERPRISE E-COMMERCE",
+          p: "Shopify Plus provides: Checkout Extensibility (custom UI components in the checkout flow), Shopify Scripts (custom discount logic and cart transformations percentage discounts based on quantity, product bundle pricing, tiered loyalty discounts), B2B wholesale functionality (separate B2B storefront, net payment terms, company and location management), multi-currency and multi-language storefronts, and expansion stores for regional brand variants. We develop specifically for the Shopify Plus tier's capabilities for merchants on that plan."
         },
       ],
     },
@@ -94,11 +94,11 @@ export const EcommerceDevContent = {
       blocks: [
         {
           h: "CUSTOM WOOCOMMERCE DEVELOPMENT",
-          p: "We develop WooCommerce stores as fully custom WordPress builds — not theme-and-plugin installations that accumulate technical debt and performance problems. Our WooCommerce development includes: custom product types (variable products with complex attribute matrices, subscription products with flexible billing intervals, bundled products with component-level pricing, digital download products with license key delivery), custom checkout flows (single-page checkout, field reordering and removal, conditional field display based on product type or customer type), custom account functionality (subscription management, order history with reorder capability, loyalty point balance, saved wishlist), and performance optimization specific to WooCommerce's WordPress environment."
+          p: "We develop WooCommerce stores as fully custom WordPress builds not theme-and-plugin installations that accumulate technical debt and performance problems. Our WooCommerce development includes: custom product types (variable products with complex attribute matrices, subscription products with flexible billing intervals, bundled products with component-level pricing, digital download products with license key delivery), custom checkout flows (single-page checkout, field reordering and removal, conditional field display based on product type or customer type), custom account functionality (subscription management, order history with reorder capability, loyalty point balance, saved wishlist), and performance optimization specific to WooCommerce's WordPress environment."
         },
         {
           h: "HEADLESS WOOCOMMERCE",
-          p: "For businesses requiring the maximum performance of a Next.js or React front-end while retaining WooCommerce's backend capabilities, we build headless WooCommerce implementations: WooCommerce running as a headless backend with its REST API or GraphQL consumed by a Next.js front-end that delivers statically generated category and product pages with server-side rendered cart and checkout experiences. Headless WooCommerce combines WooCommerce's unmatched flexibility with the performance characteristics of a static site — achieving LCP times under 1.5 seconds on product and category pages that typically struggle to achieve under 3 seconds in traditional WooCommerce implementations."
+          p: "For businesses requiring the maximum performance of a Next.js or React front-end while retaining WooCommerce's backend capabilities, we build headless WooCommerce implementations: WooCommerce running as a headless backend with its REST API or GraphQL consumed by a Next.js front-end that delivers statically generated category and product pages with server-side rendered cart and checkout experiences. Headless WooCommerce combines WooCommerce's unmatched flexibility with the performance characteristics of a static site achieving LCP times under 1.5 seconds on product and category pages that typically struggle to achieve under 3 seconds in traditional WooCommerce implementations."
         },
       ],
     },
@@ -126,11 +126,11 @@ export const EcommerceDevContent = {
       blocks: [
         {
           h: "FACETED SEARCH AND FILTERING",
-          p: "Effective faceted filtering — allowing shoppers to narrow a product catalog by multiple simultaneous attributes (size, color, material, price range, rating, availability) — is technically complex to implement correctly. Each filter combination must query the product catalog efficiently, update without full page reloads (AJAX-based filter updates), maintain browser history state, and reflect accurate product counts for each available filter value. We implement faceted search and filtering using native platform capabilities where they serve the requirement, and Algolia or ElasticSearch-backed search where catalog scale or filtering complexity exceeds native capability."
+          p: "Effective faceted filtering allowing shoppers to narrow a product catalog by multiple simultaneous attributes (size, color, material, price range, rating, availability) is technically complex to implement correctly. Each filter combination must query the product catalog efficiently, update without full page reloads (AJAX-based filter updates), maintain browser history state, and reflect accurate product counts for each available filter value. We implement faceted search and filtering using native platform capabilities where they serve the requirement, and Algolia or ElasticSearch-backed search where catalog scale or filtering complexity exceeds native capability."
         },
         {
           h: "INTELLIGENT SITE SEARCH",
-          p: "Users who search convert at 2 to 5 times the rate of users who do not — making on-site search one of the highest-intent user actions in any e-commerce store. We implement intelligent search with: NLP-based query understanding, synonym dictionaries, typo tolerance, trending search suggestions, recent search history, and visual search results that show product thumbnails with price and availability directly in the search dropdown."
+          p: "Users who search convert at 2 to 5 times the rate of users who do not making on-site search one of the highest-intent user actions in any e-commerce store. We implement intelligent search with: NLP-based query understanding, synonym dictionaries, typo tolerance, trending search suggestions, recent search history, and visual search results that show product thumbnails with price and availability directly in the search dropdown."
         },
       ],
     },
@@ -158,11 +158,11 @@ export const EcommerceDevContent = {
       blocks: [
         {
           h: "INVENTORY AND ORDER MANAGEMENT INTEGRATION",
-          p: "We integrate e-commerce stores with inventory management systems (NetSuite, Brightpearl, Linnworks, Cin7, Unleashed) — enabling real-time inventory sync across all selling channels, automated purchase order generation at reorder points, and order fulfillment workflow automation that routes orders to the appropriate warehouse or 3PL based on inventory location and customer geography."
+          p: "We integrate e-commerce stores with inventory management systems (NetSuite, Brightpearl, Linnworks, Cin7, Unleashed) enabling real-time inventory sync across all selling channels, automated purchase order generation at reorder points, and order fulfillment workflow automation that routes orders to the appropriate warehouse or 3PL based on inventory location and customer geography."
         },
         {
           h: "ACCOUNTING, SHIPPING, AND CRM INTEGRATION",
-          p: "We integrate with QuickBooks Online, Xero, and Sage (accounting), ShipStation, Shippo, EasyPost, and carrier-direct APIs (shipping), and HubSpot, Klaviyo, ActiveCampaign, and Salesforce (CRM and email marketing) — automatically creating sales receipts and invoices from e-commerce orders, enabling automated shipping label generation and real-time rate shopping at checkout, and routing customer and order data to the email marketing systems that power post-purchase relationship building and revenue-generating automation sequences."
+          p: "We integrate with QuickBooks Online, Xero, and Sage (accounting), ShipStation, Shippo, EasyPost, and carrier-direct APIs (shipping), and HubSpot, Klaviyo, ActiveCampaign, and Salesforce (CRM and email marketing) automatically creating sales receipts and invoices from e-commerce orders, enabling automated shipping label generation and real-time rate shopping at checkout, and routing customer and order data to the email marketing systems that power post-purchase relationship building and revenue-generating automation sequences."
         },
       ],
     },
@@ -202,23 +202,23 @@ export const EcommerceDevContent = {
       metric: "171%",
       sub: "conversion rate increase · 1.4% → 3.8%",
       title: "Shopify rebuild increases conversion rate from 1.4% to 3.8% in 90 days.",
-      body: "A premium women's fashion brand was running a Shopify store built on a purchased theme — heavily modified with 34 apps, a 7.2-second mobile page load time, and a 1.4% conversion rate. Their Google Ads and Meta Ads campaigns were generating significant traffic, but the store's conversion rate made the economics unworkable. Their ROAS on paid social was 1.6x — insufficient to sustain the ad spend.\n\nOur Shopify rebuild: custom theme reducing mobile load time from 7.2 to 1.4 seconds by eliminating 27 of 34 apps and replacing their functionality with custom development; product page redesign featuring editorial photography at full-bleed width, size guide overlay triggered from the size selector, customer review display with photo reviews prominently positioned above the fold, and a persistent sticky add-to-cart bar on mobile; Apple Pay and Google Pay integration reducing checkout to a single tap for iOS users; and Klaviyo abandoned cart integration.\n\nResult: Mobile conversion rate improved from 1.4% to 3.8% within 90 days — a 171% improvement. ROAS on paid social improved from 1.6x to 4.3x as the same traffic converted at 2.7x the rate. Annual revenue from the same traffic volume increased by $1.9 million.",
-      result: "Mobile conversion rate improved from 1.4% to 3.8% within 90 days — a 171% improvement. ROAS on paid social improved from 1.6x to 4.3x as the same traffic converted at 2.7x the rate. Annual revenue from the same traffic volume increased by $1.9 million."
+      body: "A premium women's fashion brand was running a Shopify store built on a purchased theme heavily modified with 34 apps, a 7.2-second mobile page load time, and a 1.4% conversion rate. Their Google Ads and Meta Ads campaigns were generating significant traffic, but the store's conversion rate made the economics unworkable. Their ROAS on paid social was 1.6x insufficient to sustain the ad spend.\n\nOur Shopify rebuild: custom theme reducing mobile load time from 7.2 to 1.4 seconds by eliminating 27 of 34 apps and replacing their functionality with custom development; product page redesign featuring editorial photography at full-bleed width, size guide overlay triggered from the size selector, customer review display with photo reviews prominently positioned above the fold, and a persistent sticky add-to-cart bar on mobile; Apple Pay and Google Pay integration reducing checkout to a single tap for iOS users; and Klaviyo abandoned cart integration.\n\nResult: Mobile conversion rate improved from 1.4% to 3.8% within 90 days a 171% improvement. ROAS on paid social improved from 1.6x to 4.3x as the same traffic converted at 2.7x the rate. Annual revenue from the same traffic volume increased by $1.9 million.",
+      result: "Mobile conversion rate improved from 1.4% to 3.8% within 90 days a 171% improvement. ROAS on paid social improved from 1.6x to 4.3x as the same traffic converted at 2.7x the rate. Annual revenue from the same traffic volume increased by $1.9 million."
     },
     {
       tag: "Supplement Brand · WooCommerce",
       metric: "$2.8M",
       sub: "ARR achieved · 4.8% churn · 83% ticket reduction",
       title: "Custom WooCommerce with subscription achieves $2.8M ARR in 18 months.",
-      body: "A DTC supplement brand wanted a WooCommerce store with a custom subscription system — allowing customers to select specific products, delivery frequencies, and dosage quantities in a subscriber portal that no existing subscription app could serve. Subscription revenue was their strategic goal: the lifetime value of a subscriber was 8x the lifetime value of a single-purchase customer.\n\nOur WooCommerce development: completely custom subscription engine (not a plugin), subscriber portal with product swap, frequency adjustment, pause, and cancellation self-service (reducing support burden by handling 85% of subscription management without customer service intervention), subscription box customization allowing subscribers to build their own supplement stack, and Stripe Billing integration for recurring payment management and dunning email automation for failed payment recovery.\n\nResult: Subscription MRR reached $230,000 within 18 months — representing $2.8M ARR. Subscription churn rate of 4.8% per month — below the supplement subscription category average of 7.2%. The subscriber portal's self-service functionality reduced subscription-related customer service tickets by 83%.",
-      result: "Subscription MRR reached $230,000 within 18 months — representing $2.8M ARR. Subscription churn rate of 4.8% per month — below the supplement subscription category average of 7.2%. The subscriber portal's self-service functionality reduced subscription-related customer service tickets by 83%."
+      body: "A DTC supplement brand wanted a WooCommerce store with a custom subscription system allowing customers to select specific products, delivery frequencies, and dosage quantities in a subscriber portal that no existing subscription app could serve. Subscription revenue was their strategic goal: the lifetime value of a subscriber was 8x the lifetime value of a single-purchase customer.\n\nOur WooCommerce development: completely custom subscription engine (not a plugin), subscriber portal with product swap, frequency adjustment, pause, and cancellation self-service (reducing support burden by handling 85% of subscription management without customer service intervention), subscription box customization allowing subscribers to build their own supplement stack, and Stripe Billing integration for recurring payment management and dunning email automation for failed payment recovery.\n\nResult: Subscription MRR reached $230,000 within 18 months representing $2.8M ARR. Subscription churn rate of 4.8% per month below the supplement subscription category average of 7.2%. The subscriber portal's self-service functionality reduced subscription-related customer service tickets by 83%.",
+      result: "Subscription MRR reached $230,000 within 18 months representing $2.8M ARR. Subscription churn rate of 4.8% per month below the supplement subscription category average of 7.2%. The subscriber portal's self-service functionality reduced subscription-related customer service tickets by 83%."
     },
     {
       tag: "B2B Industrial · Custom Platform",
       metric: "73%",
       sub: "order migration · 3 → 1 staff · 48h → 4min",
       title: "Custom platform replaces manual order process, reducing processing time from 48 hours to 4 minutes.",
-      body: "A B2B industrial components supplier was processing all orders through phone calls, email, and PDF price lists — an approach that required 3 full-time sales coordinators to manage order intake volume. Their customer base of 800 trade accounts required per-customer pricing agreements, credit terms, and minimum order quantities that no off-the-shelf e-commerce platform could serve.\n\nOur custom platform development: Next.js front-end with a custom Node.js and PostgreSQL backend, per-customer pricing tiers linked to account profiles, purchase order number capture at checkout with net 30/60/90 payment terms by account tier, product configurator for custom-spec component orders, bulk order upload via CSV for customers ordering from MRP outputs, and NetSuite ERP integration for order management and inventory synchronization.\n\nResult: 73% of order volume that previously required phone or email processing migrated to the self-service platform within 6 months. Sales coordinator headcount required for order intake reduced from 3 to 1. Average order processing time decreased from 48 hours to 4 minutes for standard catalog orders.",
+      body: "A B2B industrial components supplier was processing all orders through phone calls, email, and PDF price lists an approach that required 3 full-time sales coordinators to manage order intake volume. Their customer base of 800 trade accounts required per-customer pricing agreements, credit terms, and minimum order quantities that no off-the-shelf e-commerce platform could serve.\n\nOur custom platform development: Next.js front-end with a custom Node.js and PostgreSQL backend, per-customer pricing tiers linked to account profiles, purchase order number capture at checkout with net 30/60/90 payment terms by account tier, product configurator for custom-spec component orders, bulk order upload via CSV for customers ordering from MRP outputs, and NetSuite ERP integration for order management and inventory synchronization.\n\nResult: 73% of order volume that previously required phone or email processing migrated to the self-service platform within 6 months. Sales coordinator headcount required for order intake reduced from 3 to 1. Average order processing time decreased from 48 hours to 4 minutes for standard catalog orders.",
       result: "73% of order volume that previously required phone or email processing migrated to the self-service platform within 6 months. Sales coordinator headcount required for order intake reduced from 3 to 1. Average order processing time decreased from 48 hours to 4 minutes for standard catalog orders."
     },
   ],
@@ -226,22 +226,22 @@ export const EcommerceDevContent = {
     {
       icon: "Target",
       h: "CONVERSION-FIRST DEVELOPMENT",
-      p: "We optimize for revenue per visitor — not for pixel-perfect design delivery or feature completeness. Every development decision is evaluated against its likely impact on conversion rate: does this reduce a barrier to purchase, improve information quality, reduce page load time, or make the checkout faster and more trustworthy? Decisions that do not move the conversion metric are deprioritized in favor of decisions that do."
+      p: "We optimize for revenue per visitor not for pixel-perfect design delivery or feature completeness. Every development decision is evaluated against its likely impact on conversion rate: does this reduce a barrier to purchase, improve information quality, reduce page load time, or make the checkout faster and more trustworthy? Decisions that do not move the conversion metric are deprioritized in favor of decisions that do."
     },
     {
       icon: "Layers",
       h: "PLATFORM EXPERTISE WITHOUT PLATFORM BIAS",
-      p: "We have genuine expertise in Shopify, Shopify Plus, WooCommerce, and custom e-commerce development — and we do not have a financial incentive to recommend one over another. Our platform recommendations are based on the specific business's requirements, catalog complexity, integration needs, and growth trajectory."
+      p: "We have genuine expertise in Shopify, Shopify Plus, WooCommerce, and custom e-commerce development and we do not have a financial incentive to recommend one over another. Our platform recommendations are based on the specific business's requirements, catalog complexity, integration needs, and growth trajectory."
     },
     {
       icon: "Cpu",
       h: "FULL-STACK E-COMMERCE CAPABILITY",
-      p: "E-commerce development requires the full stack: front-end development, back-end development, systems integration, performance optimization, SEO technical implementation, and conversion rate optimization. We provide all of these capabilities within a single integrated team — ensuring that SEO requirements are built into development from the start, systems integrations are designed alongside the front-end, and performance optimization is embedded in development decisions."
+      p: "E-commerce development requires the full stack: front-end development, back-end development, systems integration, performance optimization, SEO technical implementation, and conversion rate optimization. We provide all of these capabilities within a single integrated team ensuring that SEO requirements are built into development from the start, systems integrations are designed alongside the front-end, and performance optimization is embedded in development decisions."
     },
     {
       icon: "BarChart3",
       h: "DATA-DRIVEN ITERATION AFTER LAUNCH",
-      p: "The launch of an e-commerce store is the beginning of an optimization program, not the end of a development project. We install the analytics, heat mapping, and A/B testing infrastructure on every store we build — ensuring that subsequent optimization decisions are made on the basis of actual user behavior rather than assumption."
+      p: "The launch of an e-commerce store is the beginning of an optimization program, not the end of a development project. We install the analytics, heat mapping, and A/B testing infrastructure on every store we build ensuring that subsequent optimization decisions are made on the basis of actual user behavior rather than assumption."
     },
   ],
   faqs: [
@@ -259,7 +259,7 @@ export const EcommerceDevContent = {
     },
     {
       q: "Can you migrate our existing e-commerce store to a new platform?",
-      a: "Yes — platform migrations are a significant portion of our e-commerce development work. We migrate from Magento, BigCommerce, Wix eCommerce, Squarespace, PrestaShop, and other platforms to Shopify or WooCommerce. Migration scope includes: product data migration (titles, descriptions, images, variants, pricing, inventory), customer data migration, order history migration, redirect implementation (301 redirects from all old URLs to new URLs, preserving organic search equity), and SEO verification post-migration."
+      a: "Yes platform migrations are a significant portion of our e-commerce development work. We migrate from Magento, BigCommerce, Wix eCommerce, Squarespace, PrestaShop, and other platforms to Shopify or WooCommerce. Migration scope includes: product data migration (titles, descriptions, images, variants, pricing, inventory), customer data migration, order history migration, redirect implementation (301 redirects from all old URLs to new URLs, preserving organic search equity), and SEO verification post-migration."
     },
     {
       q: "How do you handle product catalog management for large catalogs?",
@@ -267,15 +267,15 @@ export const EcommerceDevContent = {
     },
     {
       q: "Do you set up Google Shopping and Meta product catalog integrations?",
-      a: "Yes — Google Shopping (Google Merchant Center product feed submission) and Meta Catalog (product catalog sync for Meta Dynamic Ads) integration is a standard component of every e-commerce launch. We configure the product feed structure, implement the required schema markup for product rich results in Google Search, connect the Google Merchant Center and Meta Catalog feeds, and verify product data quality across all channels."
+      a: "Yes Google Shopping (Google Merchant Center product feed submission) and Meta Catalog (product catalog sync for Meta Dynamic Ads) integration is a standard component of every e-commerce launch. We configure the product feed structure, implement the required schema markup for product rich results in Google Search, connect the Google Merchant Center and Meta Catalog feeds, and verify product data quality across all channels."
     },
     {
       q: "What ongoing support do you provide after launch?",
-      a: "We offer monthly e-commerce development retainers covering: bug fixes and emergency support, ongoing conversion rate optimization (A/B testing, UX improvement, checkout friction reduction based on analytics data), new feature development, platform and app/plugin updates, security updates, and performance monitoring. The highest-performing e-commerce stores continuously optimize based on real customer behavior data — our retainer clients benefit from this continuous improvement as an ongoing service."
+      a: "We offer monthly e-commerce development retainers covering: bug fixes and emergency support, ongoing conversion rate optimization (A/B testing, UX improvement, checkout friction reduction based on analytics data), new feature development, platform and app/plugin updates, security updates, and performance monitoring. The highest-performing e-commerce stores continuously optimize based on real customer behavior data our retainer clients benefit from this continuous improvement as an ongoing service."
     },
     {
       q: "Can you integrate our e-commerce store with our ERP system?",
-      a: "Yes — ERP integration is one of the most valuable development investments for e-commerce businesses scaling beyond manual order management. We integrate with NetSuite, Sage 200 and 300, Microsoft Dynamics, SAP Business One, and industry-specific ERP systems through their available API interfaces. Integration scope typically includes: order sync, inventory sync, customer data sync, and price list sync for B2B price tier management."
+      a: "Yes ERP integration is one of the most valuable development investments for e-commerce businesses scaling beyond manual order management. We integrate with NetSuite, Sage 200 and 300, Microsoft Dynamics, SAP Business One, and industry-specific ERP systems through their available API interfaces. Integration scope typically includes: order sync, inventory sync, customer data sync, and price list sync for B2B price tier management."
     },
     {
       q: "How do I get started?",
@@ -284,7 +284,7 @@ export const EcommerceDevContent = {
   ],
   cta: {
     title: "Ready to Build an E-Commerce Store That Actually Converts?",
-    description: "Traffic is a solved problem for most e-commerce businesses. The unsolved problem — the one that determines whether the business is profitable — is conversion. And conversion is almost entirely a development problem.\n\nWe build the development foundation that converts your traffic into revenue. Platform selection, product page architecture, checkout optimization, mobile commerce, search and filtering, systems integration — every technical decision made with conversion as the objective.",
+    description: "Traffic is a solved problem for most e-commerce businesses. The unsolved problem the one that determines whether the business is profitable is conversion. And conversion is almost entirely a development problem.\n\nWe build the development foundation that converts your traffic into revenue. Platform selection, product page architecture, checkout optimization, mobile commerce, search and filtering, systems integration every technical decision made with conversion as the objective.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     webDevelopmentLink: "https://clickmastersdigitalmarketing.com/website-development-services/",
@@ -294,6 +294,6 @@ export const EcommerceDevContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "Serving businesses in USA · UK · UAE · Pakistan · Canada · Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | E-commerce development specialist | 10+ years",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | E-commerce development specialist | 10+ years",
   },
 };

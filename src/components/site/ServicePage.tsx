@@ -441,7 +441,7 @@ const CTA = ({ data }: { data: ServicePageData["cta"] }) => {
       <motion.div style={{ scale }} className="container relative max-w-5xl text-center">
         <Reveal>
           <p className="text-[10px] uppercase tracking-[0.4em] opacity-60 mb-8">
-            [ 08 ] — Ready when you are
+            [ 08 ] Ready when you are
           </p>
         </Reveal>
         <Reveal delay={0.1}>
@@ -476,7 +476,7 @@ const CTA = ({ data }: { data: ServicePageData["cta"] }) => {
           <p className="mt-16 text-xs uppercase tracking-[0.3em] opacity-50">
             Clickmasters Digital Marketing · Serving USA · UK · UAE · Pakistan · Canada · Australia
           </p>
-          <p className="mt-3 text-xs opacity-50">Amjad Khan — CEO, Clickmasters Digital Marketing · 2026</p>
+          <p className="mt-3 text-xs opacity-50">Amjad Khan CEO, Clickmasters Digital Marketing · 2026</p>
         </Reveal>
       </motion.div>
     </section>

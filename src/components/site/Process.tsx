@@ -15,7 +15,7 @@ const steps = [
   {
     n: "03",
     t: "Expert Execution & Campaign Launch",
-    d: "Our team launches campaigns, builds ads, and creates content — optimizing bids, targeting, and messaging daily to maximize peak performance.",
+    d: "Our team launches campaigns, builds ads, and creates content optimizing bids, targeting, and messaging daily to maximize peak performance.",
   },
   {
     n: "04",
@@ -69,7 +69,7 @@ export const Process = () => (
 
   <div className="relative max-w-3xl mx-auto">
     <p className="text-xs uppercase tracking-[0.3em] text-muted-foreground mb-4">
-      — Free Consultation
+      Free Consultation
     </p>
 
     <h3 className="font-display text-4xl md:text-6xl leading-[1.05] mb-6 text-balance">

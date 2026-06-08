@@ -26,7 +26,7 @@ const plans = [
     emoji: "🥈",
     featured: true,
     f: [
-      "Everything in Starter — Plus",
+      "Everything in Starter Plus",
       "Google & Meta Paid Ads Management",
       "Advanced SEO & Content Marketing",
       "Social Media Management (4 Platforms)",
@@ -43,7 +43,7 @@ const plans = [
     bg: "#DFF7F0",
     emoji: "🏆",
     f: [
-      "Everything in Growth — Plus",
+      "Everything in Growth Plus",
       "Fully Custom Strategy & Execution Plan",
       "Dedicated Full-Time Marketing Team",
       "Multi-Location & Multi-Market Campaigns",
@@ -117,7 +117,7 @@ export const Pricing = () => (
 
   <div className="relative max-w-3xl mx-auto">
     <p className="text-xs uppercase tracking-[0.3em] text-muted-foreground mb-4">
-      — Free Consultation
+      Free Consultation
     </p>
 
     <h3 className="font-display text-4xl md:text-6xl leading-[1.05] mb-6 text-balance">

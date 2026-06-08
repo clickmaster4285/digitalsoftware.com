@@ -1,5 +1,7 @@
 import { motion } from "framer-motion";
 import { ExternalLink } from "lucide-react";
+import servicesImg from "@/assets/services.png";
+import Image from "next/image";
 
 const services = [
   {
@@ -52,16 +54,27 @@ const services = [
 
 export const Services = () => (
   <section id="services" className="py-32 container">
-   <div className="grid md:grid-cols-12 gap-12 mb-20">
-  
-  <div className="md:col-span-4">
-    <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">
-      — Services
-    </p>
-  </div>
+  <div className="grid md:grid-cols-12 gap-12 mb-20 items-center">
 
-  {/* Wrap heading + paragraph together */}
+  {/* LEFT SIDE IMAGE */}
+<div className="md:col-span-4 flex justify-center md:justify-start">
+  <Image
+    src={servicesImg}
+    alt="Clickmasters Services"
+    width={500}
+    height={500}
+    className="w-full max-w-sm h-auto object-contain"
+    priority
+  />
+</div>
+
+  {/* RIGHT SIDE TEXT */}
   <div className="md:col-span-8">
+    
+    <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">
+      Services
+    </p>
+
     <h2 className="font-display text-5xl md:text-7xl leading-[1.05] text-balance">
       Clickmasters <em>Digital Marketing</em> Services
     </h2>
@@ -111,7 +124,7 @@ export const Services = () => (
 
   <div className="relative max-w-3xl mx-auto">
     <p className="text-xs uppercase tracking-[0.25em] text-muted-foreground mb-4">
-      — Free Consultation
+      Free Consultation
     </p>
 
     <h3 className="font-display text-4xl md:text-6xl leading-[1.05] mb-6 text-balance">

@@ -103,7 +103,7 @@ export const TechStack = () => (
         </h2>
       </div>
       <p className="md:col-span-6 md:col-start-7 self-end text-lg text-muted-foreground max-w-md">
-        We pick the right tool for the job — fast to ship, easy to maintain, and ready to scale when your product takes off.
+        We pick the right tool for the job fast to ship, easy to maintain, and ready to scale when your product takes off.
       </p>
     </div>
 

@@ -14,7 +14,7 @@ export const PpcManagementContent = {
     titleHighlight: "Services",
     subtitle: "— stop wasting ad spend, start growing revenue.",
     description:
-      "Here is an uncomfortable truth about most PPC campaigns: the majority of ad spend in the average Google Ads account is wasted. Not slightly suboptimal — wasted. Clicks from irrelevant keywords that will never convert. Ads running at 2 AM when your target audience is asleep. Broad match keywords matching queries that have nothing to do with your product. Landing pages that collect clicks and bounce visitors before they convert. Bid strategies that optimize for clicks rather than for revenue. The average business running PPC without expert management loses between 30 and 60 percent of its ad budget to this invisible waste.",
+      "Here is an uncomfortable truth about most PPC campaigns: the majority of ad spend in the average Google Ads account is wasted. Not slightly suboptimal wasted. Clicks from irrelevant keywords that will never convert. Ads running at 2 AM when your target audience is asleep. Broad match keywords matching queries that have nothing to do with your product. Landing pages that collect clicks and bounce visitors before they convert. Bid strategies that optimize for clicks rather than for revenue. The average business running PPC without expert management loses between 30 and 60 percent of its ad budget to this invisible waste.",
     stats: [
       { k: "30-60%", v: "Average wasted ad spend" },
       { k: "$40M+", v: "Managed ad spend" },
@@ -24,14 +24,14 @@ export const PpcManagementContent = {
   },
   intro: {
     problem: [
-      { text: "Professional PPC management is the discipline of finding and eliminating that waste — and redirecting every dollar toward the clicks, audiences, and conversion paths that actually generate revenue. When done correctly, PPC is not a cost of doing business. It is the ", type: "normal" },
+      { text: "Professional PPC management is the discipline of finding and eliminating that waste and redirecting every dollar toward the clicks, audiences, and conversion paths that actually generate revenue. When done correctly, PPC is not a cost of doing business. It is the ", type: "normal" },
       { text: "highest-velocity revenue channel available", type: "highlight" },
       { text: ": targeted, measurable, scalable, and immediately responsive to business goals.", type: "normal" }
     ],
     solution:
-      "In a poorly managed Google Ads account, broad match keywords consume budget on searches with no commercial intent. A business targeting 'legal services' on broad match receives clicks from people searching 'legal services definition,' 'what do legal services cost,' or 'legal services Wikipedia' — entirely irrelevant queries. Each click costs money. None convert. The keyword problem compounds silently month after month.",
+      "In a poorly managed Google Ads account, broad match keywords consume budget on searches with no commercial intent. A business targeting 'legal services' on broad match receives clicks from people searching 'legal services definition,' 'what do legal services cost,' or 'legal services Wikipedia' entirely irrelevant queries. Each click costs money. None convert. The keyword problem compounds silently month after month.",
     promise:
-      "At Clickmasters Digital Marketing, our PPC management team has managed over $40 million in paid advertising spend across Google Ads, Meta, LinkedIn, YouTube, TikTok, Amazon, and Bing for businesses across the USA, UK, UAE, and Pakistan since 2015. We do not run campaigns by gut instinct or industry benchmarks. We run campaigns by data — your specific conversion data, your specific audience data, your specific revenue attribution — and we optimize continuously until every dollar of your ad budget is working as hard as possible.",
+      "At Clickmasters Digital Marketing, our PPC management team has managed over $40 million in paid advertising spend across Google Ads, Meta, LinkedIn, YouTube, TikTok, Amazon, and Bing for businesses across the USA, UK, UAE, and Pakistan since 2015. We do not run campaigns by gut instinct or industry benchmarks. We run campaigns by data your specific conversion data, your specific audience data, your specific revenue attribution and we optimize continuously until every dollar of your ad budget is working as hard as possible.",
   },
   problem: {
     title: "The Hidden Cost of",
@@ -40,7 +40,7 @@ export const PpcManagementContent = {
       {
         icon: "Search",
         title: "The Keyword Problem",
-        body: "Broad match keywords consume budget on searches with no commercial intent. A business targeting 'legal services' on broad match receives clicks from people searching 'legal services definition' or 'what do legal services cost' — entirely irrelevant queries. Each click costs money. None convert. The problem compounds silently month after month.",
+        body: "Broad match keywords consume budget on searches with no commercial intent. A business targeting 'legal services' on broad match receives clicks from people searching 'legal services definition' or 'what do legal services cost' entirely irrelevant queries. Each click costs money. None convert. The problem compounds silently month after month.",
       },
       {
         icon: "Users",
@@ -50,7 +50,7 @@ export const PpcManagementContent = {
       {
         icon: "BarChart3",
         title: "The Quality Score Problem",
-        body: "Quality Score directly determines how much you pay per click. A low Quality Score means you pay more for the same position than a competitor with a higher Quality Score. Improving Quality Score consistently reduces cost-per-click without reducing impression volume — one of the highest-ROI optimizations in PPC management.",
+        body: "Quality Score directly determines how much you pay per click. A low Quality Score means you pay more for the same position than a competitor with a higher Quality Score. Improving Quality Score consistently reduces cost-per-click without reducing impression volume one of the highest-ROI optimizations in PPC management.",
       },
     ],
     afterTitle: "The Complete Clickmasters",
@@ -59,12 +59,12 @@ export const PpcManagementContent = {
       {
         icon: "Clipboard",
         title: "PPC Account Audit and Strategy",
-        body: "Every new engagement begins with a comprehensive account audit — analyzing keyword portfolio, campaign structure, audience targeting, ad creative performance, bidding strategy, and conversion tracking setup. For new accounts, we develop complete campaign architecture before spending a dollar.",
+        body: "Every new engagement begins with a comprehensive account audit analyzing keyword portfolio, campaign structure, audience targeting, ad creative performance, bidding strategy, and conversion tracking setup. For new accounts, we develop complete campaign architecture before spending a dollar.",
       },
       {
         icon: "Target",
         title: "Keyword Strategy and Intent Mapping",
-        body: "We build keyword portfolios organized around commercial intent — what the person searching is ready to do. We conduct weekly search term analysis, systematically building negative keyword lists that prevent budget from being consumed by non-converting queries.",
+        body: "We build keyword portfolios organized around commercial intent what the person searching is ready to do. We conduct weekly search term analysis, systematically building negative keyword lists that prevent budget from being consumed by non-converting queries.",
       },
       {
         icon: "Layout",
@@ -80,7 +80,7 @@ export const PpcManagementContent = {
       tag: "Audit",
       title: "PPC Account Audit and Strategy Development",
       intro:
-        "Every new PPC engagement begins with a comprehensive account audit — whether you are starting fresh or inheriting an existing account with months or years of history.",
+        "Every new PPC engagement begins with a comprehensive account audit whether you are starting fresh or inheriting an existing account with months or years of history.",
       blocks: [
         {
           h: "For Existing Accounts",
@@ -102,11 +102,11 @@ export const PpcManagementContent = {
       blocks: [
         {
           h: "Keyword Research and Commercial Intent Mapping",
-          p: "We build keyword portfolios organized around commercial intent — informational intent vs transactional intent. We identify every commercially relevant keyword for your business, organized by intent level, competition, and estimated conversion probability.",
+          p: "We build keyword portfolios organized around commercial intent informational intent vs transactional intent. We identify every commercially relevant keyword for your business, organized by intent level, competition, and estimated conversion probability.",
         },
         {
           h: "Match Type Strategy & Search Term Analysis",
-          p: "We design match type strategies that balance reach with precision. The single highest-ROI ongoing activity is weekly search term analysis — reviewing actual queries that triggered your ads and adding irrelevant queries to negative keyword lists, reducing wasted spend by 20-40%.",
+          p: "We design match type strategies that balance reach with precision. The single highest-ROI ongoing activity is weekly search term analysis reviewing actual queries that triggered your ads and adding irrelevant queries to negative keyword lists, reducing wasted spend by 20-40%.",
         },
       ],
     },
@@ -124,7 +124,7 @@ export const PpcManagementContent = {
         },
         {
           h: "Ad Group Tightness & Budget Allocation",
-          p: "Each ad group contains keywords sharing the same user intent, addressed by the same ad copy and landing page — producing higher Quality Scores. We allocate budgets based on performance data, concentrating spend on lowest cost-per-acquisition campaigns.",
+          p: "Each ad group contains keywords sharing the same user intent, addressed by the same ad copy and landing page producing higher Quality Scores. We allocate budgets based on performance data, concentrating spend on lowest cost-per-acquisition campaigns.",
         },
       ],
     },
@@ -138,11 +138,11 @@ export const PpcManagementContent = {
       blocks: [
         {
           h: "Responsive Search Ad Development",
-          p: "We write RSA asset sets covering primary keyword inclusion, value proposition differentiators, urgency and CTA language, social proof signals, and objection-handling language — developing multiple RSA ad sets per ad group for ongoing creative testing.",
+          p: "We write RSA asset sets covering primary keyword inclusion, value proposition differentiators, urgency and CTA language, social proof signals, and objection-handling language developing multiple RSA ad sets per ad group for ongoing creative testing.",
         },
         {
           h: "Ad Extension Strategy & Testing Framework",
-          p: "We implement every relevant extension type — sitelinks, callouts, structured snippets, call extensions — which consistently improve both CTR and conversion rate. We maintain one test running in every active ad group at any time.",
+          p: "We implement every relevant extension type sitelinks, callouts, structured snippets, call extensions which consistently improve both CTR and conversion rate. We maintain one test running in every active ad group at any time.",
         },
       ],
     },
@@ -152,11 +152,11 @@ export const PpcManagementContent = {
       tag: "Bidding",
       title: "Bidding Strategy and Budget Optimization",
       intro:
-        "Bid management in 2026 is a collaboration between human strategic judgment and Google's AI-powered Smart Bidding algorithms — consistently outperforming both fully manual and fully automated approaches.",
+        "Bid management in 2026 is a collaboration between human strategic judgment and Google's AI-powered Smart Bidding algorithms consistently outperforming both fully manual and fully automated approaches.",
       blocks: [
         {
           h: "Smart Bidding Strategy Selection",
-          p: "We select and configure the appropriate strategy for each campaign: Target CPA, Target ROAS, Maximize Conversions, or Maximize Conversion Value — based on conversion volume, business goal, and conversion tracking accuracy.",
+          p: "We select and configure the appropriate strategy for each campaign: Target CPA, Target ROAS, Maximize Conversions, or Maximize Conversion Value based on conversion volume, business goal, and conversion tracking accuracy.",
         },
         {
           h: "Target CPA/ROAS Calibration & Portfolio Strategies",
@@ -170,7 +170,7 @@ export const PpcManagementContent = {
       tag: "Tracking",
       title: "Conversion Tracking and Revenue Attribution",
       intro:
-        "Accurate conversion tracking is the foundation of everything else in PPC management — without it, Smart Bidding optimizes toward the wrong signals and you cannot measure what your campaigns are actually producing.",
+        "Accurate conversion tracking is the foundation of everything else in PPC management without it, Smart Bidding optimizes toward the wrong signals and you cannot measure what your campaigns are actually producing.",
       blocks: [
         {
           h: "Conversion Tracking Audit and Implementation",
@@ -178,7 +178,7 @@ export const PpcManagementContent = {
         },
         {
           h: "Call Tracking & Multi-Touch Attribution",
-          p: "We implement call tracking connecting inbound calls to specific keywords and ads. We implement data-driven attribution modeling for accounts with sufficient conversion volume — distributing credit across all touchpoints.",
+          p: "We implement call tracking connecting inbound calls to specific keywords and ads. We implement data-driven attribution modeling for accounts with sufficient conversion volume distributing credit across all touchpoints.",
         },
       ],
     },
@@ -196,7 +196,7 @@ export const PpcManagementContent = {
       metric: "4.8x",
       sub: "ROAS · 1.4x → 4.8x",
       title: "E-commerce fashion brand achieves 4.8x ROAS from Google Shopping in 6 months.",
-      body: "A fashion e-commerce brand had 1.4x ROAS — near-zero net profitability. Our program: product feed remediation, campaign segmentation by product margin tier, audience layering adding customer list and remarketing bid adjustments, and Performance Max campaign testing. Result: ROAS improved from 1.4x to 4.8x, monthly revenue increased from $84,000 to $240,000 on a budget that decreased from $60,000 to $50,000.",
+      body: "A fashion e-commerce brand had 1.4x ROAS near-zero net profitability. Our program: product feed remediation, campaign segmentation by product margin tier, audience layering adding customer list and remarketing bid adjustments, and Performance Max campaign testing. Result: ROAS improved from 1.4x to 4.8x, monthly revenue increased from $84,000 to $240,000 on a budget that decreased from $60,000 to $50,000.",
     },
     {
       tag: "Local Service · Plumbing",
@@ -210,22 +210,22 @@ export const PpcManagementContent = {
     {
       icon: "BarChart4",
       h: "Data-driven optimization, not vanity metrics",
-      p: "We report on what your PPC campaigns are producing for your business — cost-per-acquisition, return on ad spend, revenue contribution — not on impressions, clicks, and CTR. Every optimization decision is made based on conversion and revenue data.",
+      p: "We report on what your PPC campaigns are producing for your business cost-per-acquisition, return on ad spend, revenue contribution not on impressions, clicks, and CTR. Every optimization decision is made based on conversion and revenue data.",
     },
     {
       icon: "BadgeCheck",
       h: "Certified across all major platforms",
-      p: "Our PPC team holds active certifications from Google (Ads, Performance Max, Shopping certified), Meta Blueprint, Microsoft Advertising, and LinkedIn Marketing Solutions. Our specialists work on live campaigns every day — our knowledge is applied and current.",
+      p: "Our PPC team holds active certifications from Google (Ads, Performance Max, Shopping certified), Meta Blueprint, Microsoft Advertising, and LinkedIn Marketing Solutions. Our specialists work on live campaigns every day our knowledge is applied and current.",
     },
     {
       icon: "Eye",
-      h: "Full transparency — your accounts, your data",
-      p: "We manage your PPC accounts within accounts you own — you always have complete access. Your data, your campaigns, and your history belong to you at every stage. Monthly performance reports account for every dollar of spend.",
+      h: "Full transparency your accounts, your data",
+      p: "We manage your PPC accounts within accounts you own you always have complete access. Your data, your campaigns, and your history belong to you at every stage. Monthly performance reports account for every dollar of spend.",
     },
     {
       icon: "Link2",
       h: "Integrated with SEO and attribution",
-      p: "PPC and SEO are most powerful when integrated — sharing keyword intelligence, content insights, and attribution data. Paid search data informs organic keyword priorities; organic rankings reduce paid search cost for high-intent queries.",
+      p: "PPC and SEO are most powerful when integrated sharing keyword intelligence, content insights, and attribution data. Paid search data informs organic keyword priorities; organic rankings reduce paid search cost for high-intent queries.",
     },
   ],
   faqs: [
@@ -239,15 +239,15 @@ export const PpcManagementContent = {
     },
     {
       q: "How long does it take to see results from PPC management?",
-      a: "PPC can produce results immediately — campaigns generate impressions and clicks within hours of launch. However, optimization takes time: Smart Bidding requires 2-4 weeks of data accumulation (the 'learning phase'), and meaningful insights accumulate over 4-8 weeks. Fully optimized performance is typically achieved at the 3-4 month mark.",
+      a: "PPC can produce results immediately campaigns generate impressions and clicks within hours of launch. However, optimization takes time: Smart Bidding requires 2-4 weeks of data accumulation (the 'learning phase'), and meaningful insights accumulate over 4-8 weeks. Fully optimized performance is typically achieved at the 3-4 month mark.",
     },
     {
       q: "Do you manage Google Ads accounts or create new ones?",
-      a: "Both — we work with existing accounts and create new ones. For existing accounts, we prefer to work within the existing account to preserve conversion history (which Smart Bidding uses) and audience lists. Creating a new account loses this historical data. We only recommend new accounts when the existing account has been penalized or has uncorrectable structural issues.",
+      a: "Both we work with existing accounts and create new ones. For existing accounts, we prefer to work within the existing account to preserve conversion history (which Smart Bidding uses) and audience lists. Creating a new account loses this historical data. We only recommend new accounts when the existing account has been penalized or has uncorrectable structural issues.",
     },
     {
       q: "What is the difference between PPC management and Google Ads management?",
-      a: "Google Ads management specifically covers campaigns on Google's platforms — Search, Display, Shopping, YouTube, and Performance Max. PPC management is the broader discipline covering all platforms — Google Ads, Meta Ads, LinkedIn Ads, Bing Ads, TikTok Ads, Amazon Ads, and others. Our service covers all platforms, with the mix determined by your target audience and business type.",
+      a: "Google Ads management specifically covers campaigns on Google's platforms Search, Display, Shopping, YouTube, and Performance Max. PPC management is the broader discipline covering all platforms Google Ads, Meta Ads, LinkedIn Ads, Bing Ads, TikTok Ads, Amazon Ads, and others. Our service covers all platforms, with the mix determined by your target audience and business type.",
     },
     {
       q: "How do you report on PPC performance?",
@@ -255,11 +255,11 @@ export const PpcManagementContent = {
     },
     {
       q: "Can you take over management of an existing agency's PPC campaigns?",
-      a: "Yes — account transitions are common, and we manage them carefully to preserve performance continuity. Before making any changes, we complete the full account audit and document the current performance baseline. We then implement improvements incrementally, monitoring performance at each step to ensure improvement rather than disruption.",
+      a: "Yes account transitions are common, and we manage them carefully to preserve performance continuity. Before making any changes, we complete the full account audit and document the current performance baseline. We then implement improvements incrementally, monitoring performance at each step to ensure improvement rather than disruption.",
     },
     {
       q: "Do I own my ad accounts and data if I stop working with you?",
-      a: "Absolutely — your Google Ads, Meta Ads Manager, LinkedIn Campaign Manager, and all other advertising accounts are owned by you and remain yours regardless of our working relationship. We manage within your accounts, and you retain full admin access at all times. Your historical conversion data and audience lists are yours permanently.",
+      a: "Absolutely your Google Ads, Meta Ads Manager, LinkedIn Campaign Manager, and all other advertising accounts are owned by you and remain yours regardless of our working relationship. We manage within your accounts, and you retain full admin access at all times. Your historical conversion data and audience lists are yours permanently.",
     },
     {
       q: "How do I get started?",
@@ -269,7 +269,7 @@ export const PpcManagementContent = {
   cta: {
     title: "Ready to Make Every Dollar of Your Ad Spend Work Harder?",
     description:
-      "PPC advertising is the fastest-moving revenue channel available — when it is managed correctly. The businesses investing in professional PPC management are consistently outcompeting those running DIY campaigns or working with agencies that manage dozens of accounts without the attention that each deserves. The waste in your current campaigns is findable. The efficiency improvement is achievable. And the revenue it unlocks compounds with every month of professional management.",
+      "PPC advertising is the fastest-moving revenue channel available when it is managed correctly. The businesses investing in professional PPC management are consistently outcompeting those running DIY campaigns or working with agencies that manage dozens of accounts without the attention that each deserves. The waste in your current campaigns is findable. The efficiency improvement is achievable. And the revenue it unlocks compounds with every month of professional management.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     googleAdsLink: "https://clickmastersdigitalmarketing.com/google-ads-management/",
@@ -279,6 +279,6 @@ export const PpcManagementContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | $40M+ in managed ad spend | 10+ years PPC expertise",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | $40M+ in managed ad spend | 10+ years PPC expertise",
   },
 };

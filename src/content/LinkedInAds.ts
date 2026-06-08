@@ -14,7 +14,7 @@ export const LinkedInAdsContent = {
     titleHighlight: "Services",
     subtitle: "— reach the decision-makers who actually buy.",
     description:
-      "Every B2B marketer has the same problem. Their product or service is purchased by a specific type of person — a VP of Sales, a Chief Financial Officer, a Director of IT, a Head of HR at a company with 200 to 2,000 employees in the financial services sector. And every major advertising platform, except one, cannot reliably put their message in front of that person. LinkedIn can find them with a precision that no other platform matches — because LinkedIn's targeting is built entirely on professional profile data that users verify and maintain themselves.",
+      "Every B2B marketer has the same problem. Their product or service is purchased by a specific type of person a VP of Sales, a Chief Financial Officer, a Director of IT, a Head of HR at a company with 200 to 2,000 employees in the financial services sector. And every major advertising platform, except one, cannot reliably put their message in front of that person. LinkedIn can find them with a precision that no other platform matches because LinkedIn's targeting is built entirely on professional profile data that users verify and maintain themselves.",
     stats: [
       { k: "3-5x", v: "Higher CPC than Google" },
       { k: "$1.8M", v: "Pipeline generated" },
@@ -31,7 +31,7 @@ export const LinkedInAdsContent = {
     solution:
       "The majority of LinkedIn Ads campaigns we audit are underperforming for five specific reasons: the CPC justification failure, the wrong objective problem, the offer mismatch problem, the audience over-narrowing problem, and the creative quality gap.",
     promise:
-      "At Clickmasters Digital Marketing, our LinkedIn Ads management team specializes in B2B advertising — understanding the specific mechanics of LinkedIn's platform, the specific structure of B2B purchase decisions, and the specific creative and offer strategies that produce pipeline from LinkedIn Ads rather than impressions and click volume. We have managed LinkedIn Ads campaigns for SaaS companies, professional services firms, enterprise software vendors, recruitment firms, and B2B e-commerce businesses across the USA, UK, UAE, and Pakistan.",
+      "At Clickmasters Digital Marketing, our LinkedIn Ads management team specializes in B2B advertising understanding the specific mechanics of LinkedIn's platform, the specific structure of B2B purchase decisions, and the specific creative and offer strategies that produce pipeline from LinkedIn Ads rather than impressions and click volume. We have managed LinkedIn Ads campaigns for SaaS companies, professional services firms, enterprise software vendors, recruitment firms, and B2B e-commerce businesses across the USA, UK, UAE, and Pakistan.",
   },
   problem: {
     title: "Why Most LinkedIn Campaigns",
@@ -45,7 +45,7 @@ export const LinkedInAdsContent = {
       {
         icon: "Target",
         title: "The Wrong Objective Problem",
-        body: "The majority of underperforming campaigns are running Website Visits objectives when they need Lead Generation — optimizing for cheap clicks rather than for the actual business outcome of lead capture.",
+        body: "The majority of underperforming campaigns are running Website Visits objectives when they need Lead Generation optimizing for cheap clicks rather than for the actual business outcome of lead capture.",
       },
       {
         icon: "Gift",
@@ -78,17 +78,17 @@ export const LinkedInAdsContent = {
       n: "01",
       icon: "Image",
       tag: "Sponsored Content",
-      title: "Sponsored Content — Single Image, Carousel, and Video Ads",
+      title: "Sponsored Content Single Image, Carousel, and Video Ads",
       intro:
-        "Sponsored Content appears directly in LinkedIn members' feeds — functioning like organic LinkedIn posts but delivered to precisely targeted professional audiences.",
+        "Sponsored Content appears directly in LinkedIn members' feeds functioning like organic LinkedIn posts but delivered to precisely targeted professional audiences.",
       blocks: [
         {
           h: "Single Image Sponsored Content",
-          p: "We develop ads with an opening hook addressing a specific professional pain point, a concise value proposition, an offer matching the audience's buying journey stage, and a clear CTA — thought leadership for cold audiences, direct conversion offers for warm audiences.",
+          p: "We develop ads with an opening hook addressing a specific professional pain point, a concise value proposition, an offer matching the audience's buying journey stage, and a clear CTA thought leadership for cold audiences, direct conversion offers for warm audiences.",
         },
         {
           h: "Carousel & Video Sponsored Content",
-          p: "Carousel ads allow up to 10 swipeable cards for multi-step case studies, product feature walkthroughs, and process explanations. Video ads produce the highest engagement rates — LinkedIn videos can run 60-90 seconds effectively, allowing for more technical depth than Meta.",
+          p: "Carousel ads allow up to 10 swipeable cards for multi-step case studies, product feature walkthroughs, and process explanations. Video ads produce the highest engagement rates LinkedIn videos can run 60-90 seconds effectively, allowing for more technical depth than Meta.",
         },
       ],
     },
@@ -96,13 +96,13 @@ export const LinkedInAdsContent = {
       n: "02",
       icon: "ClipboardList",
       tag: "Lead Gen Forms",
-      title: "LinkedIn Lead Gen Forms — The Highest-Converting Format",
+      title: "LinkedIn Lead Gen Forms The Highest-Converting Format",
       intro:
-        "When a user clicks the CTA, a pre-populated form opens within LinkedIn — automatically filling their name, email, job title, and company name. Form completion rates are consistently 3-5x higher than click-to-website campaigns.",
+        "When a user clicks the CTA, a pre-populated form opens within LinkedIn automatically filling their name, email, job title, and company name. Form completion rates are consistently 3-5x higher than click-to-website campaigns.",
       blocks: [
         {
           h: "Lead Gen Form Strategy",
-          p: "We design forms for demo requests, content downloads, event registrations, and assessment requests — implementing qualification questions to filter low-quality submissions without deterring genuine inquiries.",
+          p: "We design forms for demo requests, content downloads, event registrations, and assessment requests implementing qualification questions to filter low-quality submissions without deterring genuine inquiries.",
         },
         {
           h: "Lead Delivery and CRM Integration",
@@ -114,9 +114,9 @@ export const LinkedInAdsContent = {
       n: "03",
       icon: "MessageSquare",
       tag: "Message Ads",
-      title: "Message Ads and Conversation Ads — Direct Inbox Engagement",
+      title: "Message Ads and Conversation Ads Direct Inbox Engagement",
       intro:
-        "Message Ads deliver a personalized message directly to a target professional's LinkedIn inbox — appearing as a direct message from a person (typically a company executive).",
+        "Message Ads deliver a personalized message directly to a target professional's LinkedIn inbox appearing as a direct message from a person (typically a company executive).",
       blocks: [
         {
           h: "Message Ad Strategy",
@@ -124,7 +124,7 @@ export const LinkedInAdsContent = {
         },
         {
           h: "Conversation Ads",
-          p: "Conversation Ads allow branching message flows — multiple CTA options leading to different response paths. A prospect can choose between demo, research report, pricing info, or 'not interested' — each triggering a tailored follow-up.",
+          p: "Conversation Ads allow branching message flows multiple CTA options leading to different response paths. A prospect can choose between demo, research report, pricing info, or 'not interested' each triggering a tailored follow-up.",
         },
       ],
     },
@@ -132,17 +132,17 @@ export const LinkedInAdsContent = {
       n: "04",
       icon: "Users",
       tag: "Audience",
-      title: "LinkedIn Audience Strategy — Professional Targeting Architecture",
+      title: "LinkedIn Audience Strategy Professional Targeting Architecture",
       intro:
-        "LinkedIn's targeting precision is unmatched — but effective audience architecture requires understanding how to layer criteria without over-narrowing.",
+        "LinkedIn's targeting precision is unmatched but effective audience architecture requires understanding how to layer criteria without over-narrowing.",
       blocks: [
         {
           h: "Job Title and Seniority Targeting",
-          p: "We build comprehensive job title lists covering all variations of each role — 'VP of Marketing,' 'Marketing Director,' 'Head of Marketing,' 'CMO' — combined with seniority-level filters (Director, VP, C-Level).",
+          p: "We build comprehensive job title lists covering all variations of each role 'VP of Marketing,' 'Marketing Director,' 'Head of Marketing,' 'CMO' combined with seniority-level filters (Director, VP, C-Level).",
         },
         {
           h: "Company & Skill Targeting",
-          p: "Company size and industry targeting narrows to your ICP. For ABM programs, we upload target account lists as Matched Audiences. Skill targeting reaches users who manage specific platforms — more precise than job title alone.",
+          p: "Company size and industry targeting narrows to your ICP. For ABM programs, we upload target account lists as Matched Audiences. Skill targeting reaches users who manage specific platforms more precise than job title alone.",
         },
       ],
     },
@@ -150,9 +150,9 @@ export const LinkedInAdsContent = {
       n: "05",
       icon: "RefreshCw",
       tag: "Retargeting",
-      title: "LinkedIn Retargeting — Warming Cold Audiences",
+      title: "LinkedIn Retargeting Warming Cold Audiences",
       intro:
-        "LinkedIn's Insight Tag enables retargeting of members who visited your website, watched your videos, or engaged with your content — warming cold audiences toward conversion.",
+        "LinkedIn's Insight Tag enables retargeting of members who visited your website, watched your videos, or engaged with your content warming cold audiences toward conversion.",
       blocks: [
         {
           h: "Website & Video Retargeting",
@@ -174,11 +174,11 @@ export const LinkedInAdsContent = {
       blocks: [
         {
           h: "Insight Tag and Conversion Tracking",
-          p: "We implement the Insight Tag across all website pages and configure conversion events for every meaningful touchpoint — enabling tracking, demographic reporting, and retargeting audience building.",
+          p: "We implement the Insight Tag across all website pages and configure conversion events for every meaningful touchpoint enabling tracking, demographic reporting, and retargeting audience building.",
         },
         {
           h: "CRM Pipeline Attribution",
-          p: "We configure LinkedIn conversion tracking to pass lead source attribution into your CRM — enabling tracking of LinkedIn-attributed leads through the full pipeline, from lead capture to closed revenue.",
+          p: "We configure LinkedIn conversion tracking to pass lead source attribution into your CRM enabling tracking of LinkedIn-attributed leads through the full pipeline, from lead capture to closed revenue.",
         },
       ],
     },
@@ -209,29 +209,29 @@ export const LinkedInAdsContent = {
   why: [
     {
       icon: "Briefcase",
-      h: "B2B-specialist expertise — not generalist paid social",
+      h: "B2B-specialist expertise not generalist paid social",
       p: "Most agencies manage LinkedIn Ads as a secondary service alongside Meta. Our LinkedIn Ads management is delivered by B2B marketing specialists who understand B2B purchase decisions, enterprise sales cycles, and the offer strategies that work for decision-makers at different journey stages.",
     },
     {
       icon: "Gift",
       h: "Offer strategy as a core service",
-      p: "Most agencies optimize targeting and bidding. We also optimize the offer — the single biggest determinant of lead volume and quality. The offer receives as much strategic attention as audience targeting.",
+      p: "Most agencies optimize targeting and bidding. We also optimize the offer the single biggest determinant of lead volume and quality. The offer receives as much strategic attention as audience targeting.",
     },
     {
       icon: "PieChart",
       h: "CRM-integrated pipeline reporting",
-      p: "We integrate LinkedIn Ads performance data with your CRM to measure contribution to pipeline and revenue — not just leads and clicks. For B2B businesses justifying $15k-$30k monthly spend, pipeline attribution is the only reporting that matters.",
+      p: "We integrate LinkedIn Ads performance data with your CRM to measure contribution to pipeline and revenue not just leads and clicks. For B2B businesses justifying $15k-$30k monthly spend, pipeline attribution is the only reporting that matters.",
     },
     {
       icon: "Link2",
       h: "LinkedIn Profile Targeting + Bing Ads integration",
-      p: "LinkedIn's professional profile data is available within Bing Ads through LinkedIn Profile Targeting — enabling you to reach the same professional audiences on Bing search at a fraction of LinkedIn's CPC. We integrate LinkedIn audience insights with Bing Ads campaigns.",
+      p: "LinkedIn's professional profile data is available within Bing Ads through LinkedIn Profile Targeting enabling you to reach the same professional audiences on Bing search at a fraction of LinkedIn's CPC. We integrate LinkedIn audience insights with Bing Ads campaigns.",
     },
   ],
   faqs: [
     {
       q: "Why are LinkedIn Ads so expensive compared to other platforms?",
-      a: "LinkedIn's CPCs are higher because the targeting accuracy and audience quality are superior. You are paying for verified professional profile data — job title, seniority, company, and industry data users maintain themselves. This targeting precision means you reach genuine decision-makers — a quality premium that justifies the cost for B2B businesses with meaningful deal values.",
+      a: "LinkedIn's CPCs are higher because the targeting accuracy and audience quality are superior. You are paying for verified professional profile data job title, seniority, company, and industry data users maintain themselves. This targeting precision means you reach genuine decision-makers a quality premium that justifies the cost for B2B businesses with meaningful deal values.",
     },
     {
       q: "What is the minimum budget to run effective LinkedIn Ads?",
@@ -239,27 +239,27 @@ export const LinkedInAdsContent = {
     },
     {
       q: "Does LinkedIn Ads work for B2C businesses?",
-      a: "LinkedIn Ads are primarily designed for B2B — targeting by professional profile attributes produces limited value for most consumer-facing businesses. Specific B2C use cases where LinkedIn makes sense: premium financial products targeting by income/seniority, executive education, high-ticket professional services, and employer branding. For most B2C businesses, Meta and Google Ads will produce better ROI.",
+      a: "LinkedIn Ads are primarily designed for B2B targeting by professional profile attributes produces limited value for most consumer-facing businesses. Specific B2C use cases where LinkedIn makes sense: premium financial products targeting by income/seniority, executive education, high-ticket professional services, and employer branding. For most B2C businesses, Meta and Google Ads will produce better ROI.",
     },
     {
       q: "What is a good cost-per-lead for LinkedIn Ads?",
-      a: "LinkedIn CPLs vary by industry, audience seniority, and offer type. Typical ranges: $100-200 for content downloads targeting mid-level professionals, $200-400 for demos targeting Directors, $400-700 for enterprise software demos targeting C-Suite. The key metric is cost-per-pipeline-opportunity — a $400 CPL with 20% close rate on $50K deals is more efficient than a $100 CPL with 2% close rate on $5K deals.",
+      a: "LinkedIn CPLs vary by industry, audience seniority, and offer type. Typical ranges: $100-200 for content downloads targeting mid-level professionals, $200-400 for demos targeting Directors, $400-700 for enterprise software demos targeting C-Suite. The key metric is cost-per-pipeline-opportunity a $400 CPL with 20% close rate on $50K deals is more efficient than a $100 CPL with 2% close rate on $5K deals.",
     },
     {
       q: "Should I use LinkedIn Lead Gen Forms or send traffic to my website?",
-      a: "Lead Gen Forms consistently produce 3-5x higher form completion rates than click-to-website campaigns — pre-populated fields and no navigation away from LinkedIn dramatically reduce friction. We recommend Lead Gen Forms for most lead generation campaigns, particularly for top-of-funnel content offers. Click-to-website is better for awareness objectives or retargeting where landing pages carry critical information.",
+      a: "Lead Gen Forms consistently produce 3-5x higher form completion rates than click-to-website campaigns pre-populated fields and no navigation away from LinkedIn dramatically reduce friction. We recommend Lead Gen Forms for most lead generation campaigns, particularly for top-of-funnel content offers. Click-to-website is better for awareness objectives or retargeting where landing pages carry critical information.",
     },
     {
       q: "Can LinkedIn Ads integrate with our CRM?",
-      a: "Yes — LinkedIn offers native CRM integrations with HubSpot, Salesforce, Microsoft Dynamics, Marketo, Eloqua, and others. Lead Gen Form submissions can be delivered directly into your CRM with fields mapped appropriately. We configure and test CRM integration as part of every engagement.",
+      a: "Yes LinkedIn offers native CRM integrations with HubSpot, Salesforce, Microsoft Dynamics, Marketo, Eloqua, and others. Lead Gen Form submissions can be delivered directly into your CRM with fields mapped appropriately. We configure and test CRM integration as part of every engagement.",
     },
     {
       q: "How do LinkedIn Message Ads work and are they effective?",
-      a: "Message Ads are direct messages delivered to a professional's LinkedIn inbox. LinkedIn limits sends to one per 30-day period per member — making targeting precision critical. Well-executed Message Ads with specific, relevant messaging and genuinely valuable offers can produce 15-30% response rates. Generic promotional messages to poorly matched audiences produce 1-3% and burn opportunities for 30 days.",
+      a: "Message Ads are direct messages delivered to a professional's LinkedIn inbox. LinkedIn limits sends to one per 30-day period per member making targeting precision critical. Well-executed Message Ads with specific, relevant messaging and genuinely valuable offers can produce 15-30% response rates. Generic promotional messages to poorly matched audiences produce 1-3% and burn opportunities for 30 days.",
     },
     {
       q: "How long does it take to see results from LinkedIn Ads?",
-      a: "LinkedIn's algorithm requires a learning phase of 1-2 weeks or ~50 optimization events per campaign per week. Most campaigns reach stable performance within 3-4 weeks. Because CPCs are higher, meaningful insights accumulate more slowly — budget a longer optimization period before major structural changes. Full-funnel results typically become visible at 60-90 days.",
+      a: "LinkedIn's algorithm requires a learning phase of 1-2 weeks or ~50 optimization events per campaign per week. Most campaigns reach stable performance within 3-4 weeks. Because CPCs are higher, meaningful insights accumulate more slowly budget a longer optimization period before major structural changes. Full-funnel results typically become visible at 60-90 days.",
     },
     {
       q: "How do I get started?",
@@ -269,7 +269,7 @@ export const LinkedInAdsContent = {
   cta: {
     title: "Ready to Turn LinkedIn Into Your Most Reliable B2B Pipeline Channel?",
     description:
-      "For B2B businesses selling to specific professional roles at specific company types, LinkedIn Ads is the only advertising platform that puts your message directly in front of the right decision-makers — with targeting accuracy that no other platform can match. The difference between LinkedIn Ads that drain budget and LinkedIn Ads that generate pipeline comes down to three things: the right offer, the right audience architecture, and the right attribution framework.",
+      "For B2B businesses selling to specific professional roles at specific company types, LinkedIn Ads is the only advertising platform that puts your message directly in front of the right decision-makers with targeting accuracy that no other platform can match. The difference between LinkedIn Ads that drain budget and LinkedIn Ads that generate pipeline comes down to three things: the right offer, the right audience architecture, and the right attribution framework.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     ppcLink: "https://clickmastersdigitalmarketing.com/pay-per-click/ppc-management/",
@@ -279,6 +279,6 @@ export const LinkedInAdsContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | B2B LinkedIn Ads specialist | 10+ years expertise",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | B2B LinkedIn Ads specialist | 10+ years expertise",
   },
 };

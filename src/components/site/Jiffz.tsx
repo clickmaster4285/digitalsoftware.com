@@ -18,7 +18,7 @@ const gifs = [
   {
     src: g2,
     t: "Stronger Google Rankings & Dominant Local Presence",
-    d: "We push your business to the top of Google search results and Google Maps — putting you in front of customers at the exact moment they're searching. From local service businesses to national brands, we make you the most visible and most trusted option in your market.",
+    d: "We push your business to the top of Google search results and Google Maps putting you in front of customers at the exact moment they're searching. From local service businesses to national brands, we make you the most visible and most trusted option in your market.",
     bg: "#FFE27A",
     fg: "#1a1a1a",
     rot: 2,
@@ -26,7 +26,7 @@ const gifs = [
   {
     src: g3,
     t: "More Calls, Bookings, Inquiries & Ecommerce Sales",
-    d: "Whether it's phone calls, form fills, appointment bookings, store visits, or direct online purchases — every campaign we run is built to drive real actions. Retail and ecommerce clients see consistent monthly revenue growth through Google Shopping, Meta ads, and conversion-focused SEO.",
+    d: "Whether it's phone calls, form fills, appointment bookings, store visits, or direct online purchases every campaign we run is built to drive real actions. Retail and ecommerce clients see consistent monthly revenue growth through Google Shopping, Meta ads, and conversion-focused SEO.",
     bg: "#FFC2D1",
     fg: "#1a1a1a",
     rot: -2,
@@ -34,7 +34,7 @@ const gifs = [
   {
     src: g4,
     t: "Stronger Reputation, Transparent Reporting & Long-Term Growth",
-    d: "Clients build a powerful, trusted brand through review management, consistent content, and professional messaging across every platform. And you'll always know exactly how your marketing is performing — with clear monthly reports covering traffic, leads, conversions, and ROI, backed by a team fully committed to your long-term success.",
+    d: "Clients build a powerful, trusted brand through review management, consistent content, and professional messaging across every platform. And you'll always know exactly how your marketing is performing with clear monthly reports covering traffic, leads, conversions, and ROI, backed by a team fully committed to your long-term success.",
     bg: "#A8EFE0",
     fg: "#1a1a1a",
     rot: 3,
@@ -51,7 +51,7 @@ export const Jiffz = () => (
         </h2>
       </div>
       <p className="md:col-span-5 text-muted-foreground">
-      We don't just run campaigns — we deliver outcomes that directly impact your revenue, visibility, and growth.
+      We don't just run campaigns we deliver outcomes that directly impact your revenue, visibility, and growth.
       </p>
     </div>
 

@@ -35,7 +35,7 @@ export const Solutions = () => {
       <div className="grid md:grid-cols-12 gap-12 mb-20">
         <div className="md:col-span-4">
           <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">
-            — Industries We Serve
+            Industries We Serve
           </p>
         </div>
 

@@ -32,15 +32,20 @@ import { CitationBuildingServicesContent  } from "@/content/CitationBuildingServ
 import { VoiceSearchOptimizationContent } from "@/content/VoiceSearchOptimization";
 import { SchemaMarkupContent } from "@/content/SchemaMarkup";
 import { WhiteLabelSeoContent } from "@/content/WhiteLabelSeo";
+
+import { OnPageSeoContent } from "@/content/OnPageSeo";
 import { OffPageSeoContent } from "@/content/OffPageSeo";
+
+
+
 import { SeoServicesUsaContent } from "@/content/SeoServicesUsa";
 import { EcommerceSeoContent } from "@/content/EcommerceSeo";
 import { YoutubeSeoContent } from "@/content/YoutubeSeo";
 import { SeoAutomationContent } from "@/content/SeoAutomation";
 import { SeoGlossaryContent } from "@/content/SeoGlossary";
 import { SocialMediaStrategyContent } from "@/content/SocialMediaStrategy";
-import Footer from "@/components/site/Footer";
-import { SocialMediaMarketingContent } from "@/content/main-services";
+
+import { ConversionRateOptimizationContent, SocialMediaMarketingContent } from "@/content/main-services";
 import { EmailMarketingServicesContent } from "@/content/EmailMarketing";
 import { EcommerceMarketingServicesContent } from "@/content/EcommerceMarketing";
 import { AmazonMarketingServicesContent } from "@/content/AmazonMarketing";
@@ -71,6 +76,49 @@ import { LocalSeoContent } from "@/content/LocalSeo";
 import { GuestPostingContent } from "@/content/GuestPosting";
 import { WebDevelopmentContent } from "@/content/WebDevelopment";
 import { WebAppContent } from "@/content/WebAppContent";
+import { TechnicalSeoContent } from "@/content/Technicalseocontent";
+import { EnterpriseSeoContent } from "@/content/Enterpriseseocontent";
+import { AiSeoContent } from "@/content/Aiseocontent";
+import { SeoAuditContent } from "@/content/SeoAuditContent";
+import { KeywordResearchContent } from "@/content/KeywordResearchContent";
+import { GooglePenaltyRecoveryContent } from "@/content/GooglePenaltyRecoveryContent";
+import { GoogleAdsManagementContent } from "@/content/GoogleAdsManagementContent";
+import { FacebookInstagramAdsContent } from "@/content/FacebookInstagramAdsContent";
+import { YoutubeAdsManagementContent } from "@/content/YoutubeAdsManagementContent";
+import { PodcastProductionContent } from "@/content/PodcastProductionContent";
+import { InfluencerMarketingContent } from "@/content/InfluencerMarketingContent";
+import { TikTokShopManagementContent } from "@/content/TikTokShopManagementContent";
+import { IosAppDevelopmentContent } from "@/content/IosAppDevelopmentContent";
+import { AndroidAppDevelopmentContent } from "@/content/AndroidAppDevelopmentContent";
+import { ReactNativeDevelopmentContent } from "@/content/ReactNativeDevelopmentContent";
+import { FlutterAppDevelopmentContent } from "@/content/FlutterAppDevelopmentContent";
+import { BrandingIdentityContent } from "@/content/BrandingIdentityContent";
+import { RoiCalculatorContent } from "@/content/RoiCalculatorContent";
+import { VideoMarketingContent } from "@/content/VideoMarketingContent";
+import { EcommerceDevContent } from "@/content/EcommerceDevelopment";
+import { ShopifyDevelopmentContent } from "@/content/ShopifyDevelopment";
+import { WooCommerceDevelopmentContent } from "@/content/WooCommerceDevelopment";
+import { ShopifyMarketingContent } from "@/content/Shopifymarketingcontent";
+import { WoocommerceMarketingContent } from "@/content/Woocommercemarketingcontent";
+import { EcommerceAnalyticsContent } from "@/content/Ecommerceanalyticscontent";
+import { MagentoDevContent } from "@/content/Magentodevcontent";
+import { BigCommerceMarketingContent } from "@/content/BigcommerceMarketingContent";
+import { AiContentGenerationContent } from "@/content/AiContentGenerationContent";
+import { AiMarketingServicesContent } from "@/content/AiMarketingServicesContent";
+import { ChatbotDevelopmentContent } from "@/content/ChatbotDevelopmentContent";
+import { PredictiveAnalyticsContent } from "@/content/PredictiveAnalyticsContent";
+import { ApiDevelopmentContent } from "@/content/ApiDevelopmentContent";
+import { CrmIntegrationContent } from "@/content/CrmIntegrationContent";
+import { DevopsServicesContent } from "@/content/DevopsServicesContent";
+import { CloudSolutionsContent } from "@/content/CloudSolutionsContent";
+import { IotDevelopmentContent } from "@/content/IotDevelopmentContent";
+import { ArVrDevelopmentContent } from "@/content/ArVrDevelopmentContent";
+import { BlockchainDevelopmentContent } from "@/content/BlockchainDevelopmentContent";
+import { WebsiteSpeedOptimisationContent } from "@/content/WebsiteSpeedOptimisationContent";
+import { PwaDevelopmentContent } from "@/content/PwaDevelopmentContent";
+import { HeadlessCommerceContent } from "@/content/HeadlessCommerceContent";
+import { WebsiteMaintenanceContent } from "@/content/WebsiteMaintenanceContent";
+import { AdaComplianceContent } from "@/content/AdaComplianceContent";
 
 const routedPageRegistry: Record<string, any> = {
 
@@ -85,57 +133,66 @@ const contentRegistry: Record<string, any> = {
   "ai-ml-development": AiMlDevContent,
   "ai-personalization": AiPersonalizationContent,
   "data-analytics-reporting": DataAnalyticsReportingContent, 
-  "ai-marketing": MarketingAttributionContent,
+  "marketing-attribution": MarketingAttributionContent,
     "marketing-automation": MarketingAutomationContent,
   "ai-automation": AiAutomationContent,
 
-  "web-design-services": WebDesignContent, 
-    "ui-ux-design-services": UIUXDesignContent,
-  "graphic-design-services": GraphicDesignContent,
-  "logo-design-services": LogoDesignContent,
-  "landing-page-design-services": LandingPageDesignContent,
-  "infographic-design-services": InfographicDesignContent, 
+  "web-design": WebDesignContent, 
+    "ui-ux-design": UIUXDesignContent,
+  "graphic-design": GraphicDesignContent,
+  "logo-design": LogoDesignContent,
+  "landing-page-design": LandingPageDesignContent,
+  "infographic-design": InfographicDesignContent, 
 
 
 
   "seo-services-usa": SeoServicesUsaContent,
-  "ecommerce-seo-services": EcommerceSeoContent,
-      "youtube-seo-services": YoutubeSeoContent,
-"off-page-seo-link-building": OffPageSeoContent,
+  "ecommerce-seo": EcommerceSeoContent,
+  "youtube-seo": YoutubeSeoContent,
+      "seo-audit": SeoAuditContent,
+
+  "on-page-seo": OnPageSeoContent,
+  "off-page-seo-link-building": OffPageSeoContent,
+  "technical-seo": TechnicalSeoContent,
+
+"keyword-research": KeywordResearchContent,
+"enterprise-seo": EnterpriseSeoContent,
+  "ai-seo": AiSeoContent,
+
    "white-label-seo": WhiteLabelSeoContent, 
-"schema-markup-services": SchemaMarkupContent,  
+"schema-markup": SchemaMarkupContent,  
   "voice-search-optimization": VoiceSearchOptimizationContent, 
-  "seo-automation-services": SeoAutomationContent,
-  "citation-building-services": CitationBuildingServicesContent ,
-  "local-seo-services": LocalSeoContent,
-  "guest-posting-services": GuestPostingContent,
+  "seo-automation": SeoAutomationContent,
+  "citation-building": CitationBuildingServicesContent ,
+  "local-seo": LocalSeoContent,
+  "guest-posting": GuestPostingContent,
     "seo-glossary": SeoGlossaryContent,
   
-
-    "social-media-marketing-services": SocialMediaMarketingContent,
+"google-penalty-recovery": GooglePenaltyRecoveryContent,
+    "social-media-marketing": SocialMediaMarketingContent,
     "social-media-strategy-consulting": SocialMediaStrategyContent,
 
   "social-media-content-creation": SocialMediaContentCreationContent,
      
-    "email-marketing-services": EmailMarketingServicesContent,
-  "ecommerce-marketing-services": EcommerceMarketingServicesContent,
-  "amazon-marketing-services": AmazonMarketingServicesContent,
+    "email-marketing": EmailMarketingServicesContent,
+  "ecommerce-marketing": EcommerceMarketingServicesContent,
+  "amazon-marketing": AmazonMarketingServicesContent,
   "online-reputation-management": OnlineReputationManagementContent,
-  "podcast-marketing-services": PodcastMarketingServicesContent,
- "ppc-management-services": PpcManagementContent,
+  "podcast-marketing": PodcastMarketingServicesContent,
+ "ppc-management": PpcManagementContent,
   "linkedin-ads-management": LinkedInAdsContent,
-  "content-marketing-services": ContentMarketingContent,
+  "content-marketing": ContentMarketingContent,
   "amazon-fba-marketing": AmazonFbaMarketingContent,
-  "remarketing-retargeting-services": RemarketingRetargetingContent,
-    "pr-media-outreach-services": PrMediaOutreachContent,
+  "remarketing-retargeting": RemarketingRetargetingContent,
+    "pr-media-outreach": PrMediaOutreachContent,
    "newsletter": NewsletterContent,
     
  "about-us": AboutUsContent,
      "our-team": OurTeamContent,
   "careers": CareersContent,
-  "case-study-writing-services": CaseStudyWritingContent,
+  "case-study-writing": CaseStudyWritingContent,
      "blog": BlogContent,
-  "white-paper-writing-services": WhitePaperWritingServicesContent,
+  "white-paper-writing": WhitePaperWritingServicesContent,
   "testimonials": TestimonialsContent,
      "digital-marketing-glossary": DigitalMarketingGlossaryContent,
  "clickcare-hms": ClickCareHMSContent,
@@ -144,8 +201,52 @@ const contentRegistry: Record<string, any> = {
 
 
   "industries-saas": SaasMarketingContent, 
-  "real-estate-marketing-services": RealEstateMarketingContent,
+  "real-estate-marketing": RealEstateMarketingContent,
 
+
+
+  "google-ads-management": GoogleAdsManagementContent,
+  "facebook-instagram-ads": FacebookInstagramAdsContent,
+  "youtube-ads-management": YoutubeAdsManagementContent, 
+
+  "podcast-production": PodcastProductionContent,
+  "influencer-marketing": InfluencerMarketingContent,
+  "tiktok-shop-management": TikTokShopManagementContent,
+  "ios-app-development": IosAppDevelopmentContent,
+  "android-app-development": AndroidAppDevelopmentContent,
+  "react-native-development": ReactNativeDevelopmentContent,
+  "flutter-app-development": FlutterAppDevelopmentContent,
+
+  "cro-services": ConversionRateOptimizationContent,
+  "branding-identity": BrandingIdentityContent,
+  "roi-calculator": RoiCalculatorContent,
+
+  "video-marketing": VideoMarketingContent,
+  "ecommerce-development": EcommerceDevContent,
+  "shopify-development": ShopifyDevelopmentContent,
+  "woocommerce-development": WooCommerceDevelopmentContent,
+  "shopify-marketing": ShopifyMarketingContent,
+  "woocommerce-marketing": WoocommerceMarketingContent,
+  "ecommerce-analytics": EcommerceAnalyticsContent,
+
+  "magento-development": MagentoDevContent,
+  "bigcommerce-marketing": BigCommerceMarketingContent,
+  "ai-content-generation": AiContentGenerationContent,
+  "ai-marketing": AiMarketingServicesContent,
+  "chatbot-development": ChatbotDevelopmentContent,
+  "predictive-analytics": PredictiveAnalyticsContent,
+  "api-development-integration": ApiDevelopmentContent,
+  "crm-integration": CrmIntegrationContent,
+  "devops": DevopsServicesContent,
+  "cloud-solutions": CloudSolutionsContent,
+  "iot-development": IotDevelopmentContent,
+  "ar-vr-development": ArVrDevelopmentContent,
+  "blockchain-development": BlockchainDevelopmentContent,
+  "website-speed-optimization": WebsiteSpeedOptimisationContent,
+  "pwa-development": PwaDevelopmentContent,
+  "headless-commerce-development": HeadlessCommerceContent,
+  "website-maintenance": WebsiteMaintenanceContent,
+  "ada-compliance-web-accessibility":AdaComplianceContent,
 };
 
 // 404 content for unknown slugs
@@ -612,7 +713,7 @@ const Why = ({ content }: { content: any }) => {
           </h2>
         </Reveal>
         <div className="grid md:grid-cols-2 gap-6">
-          {why.map((w: any, i: number) => {
+          {why?.map((w: any, i: number) => {
             const Icon = getIcon(w.icon);
             return (
               <motion.div
@@ -712,7 +813,7 @@ const CTA = ({ content }: { content: any }) => {
       <motion.div style={{ scale }} className="container relative max-w-5xl text-center">
         <Reveal>
           <p className="text-[10px] uppercase tracking-[0.4em] opacity-60 mb-8">
-            [ 08 ] — Ready when you are
+            [ 08 ] Ready when you are
           </p>
         </Reveal>
         <Reveal delay={0.1}>

@@ -97,7 +97,7 @@ export const LumosSay = () => {
 
         <motion.span
           style={{ x: xSay }}
-          className="font-sans font-black uppercase text-[14vw] md:text-[10vw]"
+          className="font-sans font-black uppercase text-[14vw] md:text-[10vw] mb-16"
         >
           say about
         </motion.span>

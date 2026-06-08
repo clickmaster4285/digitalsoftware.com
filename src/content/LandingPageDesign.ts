@@ -9,12 +9,12 @@ export const LandingPageDesignContent = {
     author: "Amjad Khan",
   },
   hero: {
-    tag: "[ Service · 12 ] — Landing Page Design",
+    tag: "[ Service · 12 ] Landing Page Design",
     title: "Landing Page Design",
     titleHighlight: "Services",
     subtitle: "— stop paying for traffic that doesn't convert.",
     description:
-      "You are not losing money to bad advertising. You are losing it to good advertising landing on bad pages. Most paid advertising accounts are generating clicks from the right people — the targeting is correct, the ad creative is compelling, the intent is genuine. The failure point is not the ad. It is the page the ad lands on. A generic website homepage receiving paid traffic is a conversion machine with no moving parts.",
+      "You are not losing money to bad advertising. You are losing it to good advertising landing on bad pages. Most paid advertising accounts are generating clicks from the right people the targeting is correct, the ad creative is compelling, the intent is genuine. The failure point is not the ad. It is the page the ad lands on. A generic website homepage receiving paid traffic is a conversion machine with no moving parts.",
     stats: [
       { k: "2-3%", v: "Average landing page conversion" },
       { k: "8-15%", v: "Well-designed page conversion" },
@@ -30,10 +30,10 @@ export const LandingPageDesignContent = {
       { text: "8-15%", type: "highlight" },
       { text: ". The math is simple: the same advertising budget generating ", type: "normal" },
       { text: "5x the leads", type: "highlight" },
-      { text: " at 10% conversion versus 2% is not a small improvement — it is a fundamental change in the economics of the entire marketing program.", type: "normal" }
+      { text: " at 10% conversion versus 2% is not a small improvement it is a fundamental change in the economics of the entire marketing program.", type: "normal" }
     ],
     solution: [
-      { text: "At Clickmasters Digital Marketing, we design and build landing pages that convert — for Google Ads campaigns, Meta Ads campaigns, email promotions, and any traffic source that deserves a ", type: "normal" },
+      { text: "At Clickmasters Digital Marketing, we design and build landing pages that convert for Google Ads campaigns, Meta Ads campaigns, email promotions, and any traffic source that deserves a ", type: "normal" },
       { text: "better destination than the homepage", type: "highlight" },
       { text: ".", type: "normal" }
     ],
@@ -52,7 +52,7 @@ export const LandingPageDesignContent = {
       },
       {
         icon: "Scissors",
-        title: "The Scent Trail — Matching Ad to Page",
+        title: "The Scent Trail Matching Ad to Page",
         body: "Message match is the degree to which the landing page matches the ad. A visitor who clicks an ad promising 'Free SEO Audit' expects that headline on arrival. Every deviation from the scent trail increases dropout. Maintain the promise from click to conversion.",
       },
       {
@@ -69,7 +69,7 @@ export const LandingPageDesignContent = {
       tag: "Google Ads",
       title: "Google Ads Landing Pages",
       intro:
-        "Intent-matched architecture for high-intent search traffic — matching keyword intent to page content for maximum conversion.",
+        "Intent-matched architecture for high-intent search traffic matching keyword intent to page content for maximum conversion.",
       blocks: [
         {
           h: "Intent-Matched Landing Page Architecture",
@@ -77,7 +77,7 @@ export const LandingPageDesignContent = {
         },
         {
           h: "Quality Score Optimisation",
-          p: "Google's Quality Score determines CPC and ad rank — partly determined by landing page experience (relevance, transparency, navigability). We build pages that score well on all three dimensions, improving Quality Score, reducing CPC, and improving ad rank simultaneously with conversion rate.",
+          p: "Google's Quality Score determines CPC and ad rank partly determined by landing page experience (relevance, transparency, navigability). We build pages that score well on all three dimensions, improving Quality Score, reducing CPC, and improving ad rank simultaneously with conversion rate.",
         },
       ],
     },
@@ -87,11 +87,11 @@ export const LandingPageDesignContent = {
       tag: "Meta Ads",
       title: "Meta Ads Landing Pages",
       intro:
-        "For discovery-intent traffic — more educational, more visual, and a gentler conversion ask than search landing pages.",
+        "For discovery-intent traffic more educational, more visual, and a gentler conversion ask than search landing pages.",
       blocks: [
         {
           h: "The Meta Ads Audience Difference",
-          p: "Meta visitors weren't searching — they saw the ad during passive scrolling. Lower intent requires: more educational content explaining offer value, visual content continuing ad aesthetic, gentler conversion ask (lead magnet or free trial for cold audiences), prominent social proof.",
+          p: "Meta visitors weren't searching they saw the ad during passive scrolling. Lower intent requires: more educational content explaining offer value, visual content continuing ad aesthetic, gentler conversion ask (lead magnet or free trial for cold audiences), prominent social proof.",
         },
         {
           h: "Creative Continuity From Ad to Page",
@@ -105,7 +105,7 @@ export const LandingPageDesignContent = {
       tag: "Lead Gen",
       title: "Lead Generation Landing Pages",
       intro:
-        "Pages designed to capture contact information — where offer quality often matters more than design quality.",
+        "Pages designed to capture contact information where offer quality often matters more than design quality.",
       blocks: [
         {
           h: "The Anatomy of a High-Converting Lead Generation Page",
@@ -113,7 +113,7 @@ export const LandingPageDesignContent = {
         },
         {
           h: "We Build the Offer, Not Just the Page",
-          p: "A poorly designed page with a compelling offer outperforms a beautifully designed page with a weak offer. We work on lead magnet strategy — identifying the exchange the audience is most willing to make, developing content where needed, and positioning the offer in most compelling terms.",
+          p: "A poorly designed page with a compelling offer outperforms a beautifully designed page with a weak offer. We work on lead magnet strategy identifying the exchange the audience is most willing to make, developing content where needed, and positioning the offer in most compelling terms.",
         },
       ],
     },
@@ -127,11 +127,11 @@ export const LandingPageDesignContent = {
       blocks: [
         {
           h: "Campaign-Specific Product Pages",
-          p: "Standard product pages serve all visitors. Campaign-specific pages are for specific audiences with specific intent — holiday promotions, new product launches, flash sales, retargeting. More direct, focused, and persuasive because they know exactly who is arriving.",
+          p: "Standard product pages serve all visitors. Campaign-specific pages are for specific audiences with specific intent holiday promotions, new product launches, flash sales, retargeting. More direct, focused, and persuasive because they know exactly who is arriving.",
         },
         {
           h: "Direct-to-Purchase Architecture",
-          p: "For high-intent e-commerce traffic (retargeting, email, loyalty) — full product details above fold, add-to-cart without navigation, streamlined checkout options (Apple Pay, Google Pay, one-click) minimising steps between landing and purchase.",
+          p: "For high-intent e-commerce traffic (retargeting, email, loyalty) full product details above fold, add-to-cart without navigation, streamlined checkout options (Apple Pay, Google Pay, one-click) minimising steps between landing and purchase.",
         },
       ],
     },
@@ -141,7 +141,7 @@ export const LandingPageDesignContent = {
       tag: "Events",
       title: "Event, Webinar, and Registration Landing Pages",
       intro:
-        "Pages asking for time commitment — where value communication must overcome the barrier of future attendance.",
+        "Pages asking for time commitment where value communication must overcome the barrier of future attendance.",
       blocks: [
         {
           h: "Registration Page Architecture",
@@ -163,7 +163,7 @@ export const LandingPageDesignContent = {
         },
         {
           h: "Multivariate Testing for High-Traffic Pages",
-          p: "For pages with 5,000+ monthly visitors — testing combinations of headline variations, hero image options, CTA copy, social proof positions, and form configurations to identify interaction effects between elements that A/B testing cannot detect.",
+          p: "For pages with 5,000+ monthly visitors testing combinations of headline variations, hero image options, CTA copy, social proof positions, and form configurations to identify interaction effects between elements that A/B testing cannot detect.",
         },
       ],
     },
@@ -174,33 +174,33 @@ export const LandingPageDesignContent = {
       metric: "$180 → $42",
       sub: "cost per trial · 0.8% → 4.4% conversion",
       title: "Custom landing pages reduce cost per trial from $180 to $42.",
-      body: "B2B SaaS running Google Ads to homepage — 0.8% trial conversion, $25K monthly spend, 139 trials at $180 CPA (unworkable for $149/month product). Solution: intent-matched landing pages for 6 ad groups, above-fold trial forms, ad-group-specific social proof, pricing transparency, Quality Score optimisation. Result: conversion 0.8%→4.4% (450% improvement), CPA $180→$42, trials 139→595 monthly (4x volume). Quality Score improvement reduced CPC by 22% on top of conversion gains.",
+      body: "B2B SaaS running Google Ads to homepage 0.8% trial conversion, $25K monthly spend, 139 trials at $180 CPA (unworkable for $149/month product). Solution: intent-matched landing pages for 6 ad groups, above-fold trial forms, ad-group-specific social proof, pricing transparency, Quality Score optimisation. Result: conversion 0.8%→4.4% (450% improvement), CPA $180→$42, trials 139→595 monthly (4x volume). Quality Score improvement reduced CPC by 22% on top of conversion gains.",
     },
     {
       tag: "Professional Services · Meta Ads",
       metric: "280%",
       sub: "consultation bookings increase · 1.4% → 5.3%",
       title: "Landing page redesign increases consultation bookings by 280%.",
-      body: "Financial advisory firm running Meta Ads for free consultation — 440 clicks/month at $3.20 CPC, landing on Contact page (generic form, navigation links, no offer reference). 1.4% conversion = 6 bookings/month. Solution: dedicated booking page with offer headline, 3 bullets explaining consultation, advisor credentials/photo, 4 specific testimonials, 3-field form, no navigation. Mobile-optimised. Result: conversion 1.4%→5.3% (280% improvement), bookings 6→23 monthly, new clients from paid ads 2→7-8 per month (3.5x revenue from same spend).",
+      body: "Financial advisory firm running Meta Ads for free consultation 440 clicks/month at $3.20 CPC, landing on Contact page (generic form, navigation links, no offer reference). 1.4% conversion = 6 bookings/month. Solution: dedicated booking page with offer headline, 3 bullets explaining consultation, advisor credentials/photo, 4 specific testimonials, 3-field form, no navigation. Mobile-optimised. Result: conversion 1.4%→5.3% (280% improvement), bookings 6→23 monthly, new clients from paid ads 2→7-8 per month (3.5x revenue from same spend).",
     },
     {
       tag: "E-commerce · Product Launch",
       metric: "$340K",
       sub: "in 48 hours · 11.2% email conversion",
       title: "Product launch landing page generates $340K in 48-hour launch window.",
-      body: "DTC home goods brand launching $340 premium cookware set via email (48K subscribers) + Meta retargeting. Planned to use standard product page. We recommended dedicated landing page: narrative-led story structure, editorial photography, product video, limited launch pricing with real-time counter, early access testimonials from 60-day testers, single add-to-cart directly to checkout. Result: $340K revenue in 48 hours (200 units at launch price + 780 at full price). Email click-to-purchase conversion 11.2% vs standard 3.4% — representing $220K additional launch revenue attributable to dedicated page.",
+      body: "DTC home goods brand launching $340 premium cookware set via email (48K subscribers) + Meta retargeting. Planned to use standard product page. We recommended dedicated landing page: narrative-led story structure, editorial photography, product video, limited launch pricing with real-time counter, early access testimonials from 60-day testers, single add-to-cart directly to checkout. Result: $340K revenue in 48 hours (200 units at launch price + 780 at full price). Email click-to-purchase conversion 11.2% vs standard 3.4% representing $220K additional launch revenue attributable to dedicated page.",
     },
   ],
   why: [
     {
       icon: "Target",
       h: "Conversion as the only metric that matters",
-      p: "We design landing pages to convert — not to look impressive, not to be comprehensively informative, not to represent the brand in full complexity. Every decision is evaluated against one question: does this increase the probability that the visitor takes the specific action?",
+      p: "We design landing pages to convert not to look impressive, not to be comprehensively informative, not to represent the brand in full complexity. Every decision is evaluated against one question: does this increase the probability that the visitor takes the specific action?",
     },
     {
       icon: "Link2",
       h: "Message match from brief to launch",
-      p: "We involve ourselves in the advertising brief — understanding the specific ad creative, audience targeting, and offer — so the landing page maintains the scent trail from ad click to conversion rather than receiving traffic from an ad it wasn't designed to match.",
+      p: "We involve ourselves in the advertising brief understanding the specific ad creative, audience targeting, and offer so the landing page maintains the scent trail from ad click to conversion rather than receiving traffic from an ad it wasn't designed to match.",
     },
     {
       icon: "Beaker",
@@ -210,7 +210,7 @@ export const LandingPageDesignContent = {
     {
       icon: "Gauge",
       h: "Speed as a conversion variable",
-      p: "Landing pages that load slowly lose conversions before visitors see the design. We build pages that load in under 2 seconds on mobile — because every additional second of load time reduces the conversion rate of traffic that has already been acquired.",
+      p: "Landing pages that load slowly lose conversions before visitors see the design. We build pages that load in under 2 seconds on mobile because every additional second of load time reduces the conversion rate of traffic that has already been acquired.",
     },
   ],
   process: {
@@ -225,7 +225,7 @@ export const LandingPageDesignContent = {
   faqs: [
     {
       q: "What is the difference between a landing page and a website page?",
-      a: "A website page serves multiple purposes and visitor types — it fits within site navigation, links to related content, and serves visitors at different journey stages. A landing page serves a single purpose for a specific visitor type from a specific source — single primary CTA, no navigation links, content written specifically for that audience and intent. Landing pages consistently outperform website pages for paid advertising because they're purpose-built for conversion rather than adapted from pages designed for other objectives.",
+      a: "A website page serves multiple purposes and visitor types it fits within site navigation, links to related content, and serves visitors at different journey stages. A landing page serves a single purpose for a specific visitor type from a specific source single primary CTA, no navigation links, content written specifically for that audience and intent. Landing pages consistently outperform website pages for paid advertising because they're purpose-built for conversion rather than adapted from pages designed for other objectives.",
     },
     {
       q: "How much does landing page design cost?",
@@ -241,29 +241,29 @@ export const LandingPageDesignContent = {
     },
     {
       q: "Should each ad group have its own landing page?",
-      a: "Yes — where traffic volume justifies it. Sending all traffic from multiple ad groups to a single landing page is one of the most common and costly CRO failures. Each ad group targets specific keyword intent with specific message — landing page should match precisely. Where individual ad groups have insufficient volume, grouping closely related intents on shared pages is appropriate.",
+      a: "Yes where traffic volume justifies it. Sending all traffic from multiple ad groups to a single landing page is one of the most common and costly CRO failures. Each ad group targets specific keyword intent with specific message landing page should match precisely. Where individual ad groups have insufficient volume, grouping closely related intents on shared pages is appropriate.",
     },
     {
       q: "How do you measure landing page performance?",
-      a: "Hierarchy of metrics: primary conversion rate (completion of primary action), secondary engagement metrics (scroll depth, time on page, video completion — indicators of engagement), traffic source performance (conversion rate by ad group/campaign/segment), and business outcome metrics (CPA, revenue attributed, downstream conversion rates connecting page performance to business value). GA4 event tracking configured as standard.",
+      a: "Hierarchy of metrics: primary conversion rate (completion of primary action), secondary engagement metrics (scroll depth, time on page, video completion indicators of engagement), traffic source performance (conversion rate by ad group/campaign/segment), and business outcome metrics (CPA, revenue attributed, downstream conversion rates connecting page performance to business value). GA4 event tracking configured as standard.",
     },
     {
       q: "What is the most important element of a landing page?",
-      a: "The headline is the single most important element — it's the first element visitors evaluate, the one they use to determine relevance, and the most powerful variable in A/B testing. A headline that clearly communicates specific value of specific offer to specific visitor is the foundation of a high-converting page. The most common failure is a vague or generic headline that doesn't immediately communicate specific value.",
+      a: "The headline is the single most important element it's the first element visitors evaluate, the one they use to determine relevance, and the most powerful variable in A/B testing. A headline that clearly communicates specific value of specific offer to specific visitor is the foundation of a high-converting page. The most common failure is a vague or generic headline that doesn't immediately communicate specific value.",
     },
     {
       q: "Do you write the copy as well as design the page?",
-      a: "Yes — landing page copywriting is included in all engagements. We don't separate design and copy because the relationship between visual design and copy is too important for independent development. The headline drives visual hierarchy. CTA copy determines button design. Social proof placement is informed by where copy creates highest-anxiety moments. We treat the page as a unified persuasion system.",
+      a: "Yes landing page copywriting is included in all engagements. We don't separate design and copy because the relationship between visual design and copy is too important for independent development. The headline drives visual hierarchy. CTA copy determines button design. Social proof placement is informed by where copy creates highest-anxiety moments. We treat the page as a unified persuasion system.",
     },
     {
       q: "How do I get started?",
-      a: "Share your campaign brief — advertising platform, audience targeting, offer, and what you hope the page achieves. We'll review the brief, assess the conversion opportunity, and propose the specific landing page architecture most likely to maximise conversion for your specific campaign. No commitment required.",
+      a: "Share your campaign brief advertising platform, audience targeting, offer, and what you hope the page achieves. We'll review the brief, assess the conversion opportunity, and propose the specific landing page architecture most likely to maximise conversion for your specific campaign. No commitment required.",
     },
   ],
   cta: {
     title: "Ready to Make Every Click Work Harder?",
     description:
-      "Every visitor who arrives at your landing page and does not convert represents paid advertising investment that produced no return. At 2% conversion and $5 CPC, 1,000 visitors cost $5,000 and generate 20 conversions. At 8% conversion — achievable with a purpose-built landing page — the same campaign generates 80 conversions. Same spend. Four times the outcome. The page is where the money is made or lost. We build pages that make it.",
+      "Every visitor who arrives at your landing page and does not convert represents paid advertising investment that produced no return. At 2% conversion and $5 CPC, 1,000 visitors cost $5,000 and generate 20 conversions. At 8% conversion achievable with a purpose-built landing page the same campaign generates 80 conversions. Same spend. Four times the outcome. The page is where the money is made or lost. We build pages that make it.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     ppcLink: "https://clickmastersdigitalmarketing.com/ppc-management/",
@@ -273,6 +273,6 @@ export const LandingPageDesignContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Landing page design specialist | 10+ years",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | Landing page design specialist | 10+ years",
   },
 };

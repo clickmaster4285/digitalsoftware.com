@@ -11,7 +11,7 @@ export const CitationBuildingServicesContent = {
     author: "Amjad Khan",
   },
   hero: {
-    tag: "[ Local SEO · 06 ] — Citation Management",
+    tag: "[ Local SEO · 06 ] Citation Management",
     title: "Citation Building Services",
     titleHighlight: "Citation Building",
     subtitle: "— Fix Your NAP. Own Your Local Pack.",
@@ -42,7 +42,7 @@ export const CitationBuildingServicesContent = {
     promise: [
       { text: "Bridge: ", type: "highlight" },
       {
-        text: "The difference between before and after is a professional citation building and management programme — the systematic audit, correction, and expansion of your citation profile that gives Google the consistent, authoritative NAP data it needs to rank your business prominently in local search.",
+        text: "The difference between before and after is a professional citation building and management programme the systematic audit, correction, and expansion of your citation profile that gives Google the consistent, authoritative NAP data it needs to rank your business prominently in local search.",
         type: "default",
       },
     ],
@@ -83,7 +83,7 @@ export const CitationBuildingServicesContent = {
       {
         icon: "EyeOff",
         title: "Invisible Local Presence",
-        body: "Without a consistent citation profile, your business remains invisible to Google's Local Pack algorithm — absent from the top-3 results that generate the majority of local enquiries.",
+        body: "Without a consistent citation profile, your business remains invisible to Google's Local Pack algorithm absent from the top-3 results that generate the majority of local enquiries.",
       },
       {
         icon: "BarChart3",
@@ -98,7 +98,7 @@ export const CitationBuildingServicesContent = {
       icon: "Search",
       tag: "Discovery",
       title: "Citation Audit",
-      intro: "Finding every citation — accurate and inaccurate — across 200+ directory platforms.",
+      intro: "Finding every citation accurate and inaccurate across 200+ directory platforms.",
       blocks: [
         {
           h: "Automated + Manual Discovery",
@@ -123,7 +123,7 @@ export const CitationBuildingServicesContent = {
       blocks: [
         {
           h: "Inaccurate Citations Are Damaging",
-          p: "Inaccurate citations actively introduce conflicting signals into Google's understanding of your business — they are more damaging than missing citations. Correction is the process of updating every inaccurate or incomplete listing to match your canonical NAP data.",
+          p: "Inaccurate citations actively introduce conflicting signals into Google's understanding of your business they are more damaging than missing citations. Correction is the process of updating every inaccurate or incomplete listing to match your canonical NAP data.",
         },
         {
           h: "Manual Correction Process",
@@ -186,11 +186,11 @@ export const CitationBuildingServicesContent = {
       blocks: [
         {
           h: "Location-Specific Accuracy at Scale",
-          p: "For businesses with multiple locations — dental groups with 8 practices, law firms with offices in London, Manchester, and Birmingham, restaurant chains with 12 sites — we maintain location-specific accuracy at scale. Each location gets its own citation profile with its specific address, phone number, and opening hours.",
+          p: "For businesses with multiple locations dental groups with 8 practices, law firms with offices in London, Manchester, and Birmingham, restaurant chains with 12 sites we maintain location-specific accuracy at scale. Each location gets its own citation profile with its specific address, phone number, and opening hours.",
         },
         {
           h: "Brand Name Consistency",
-          p: "We maintain consistent brand name formatting across all location citations, using specific variations that identify each location accurately (e.g., 'Green Dental — Manchester' vs 'Green Dental — Leeds').",
+          p: "We maintain consistent brand name formatting across all location citations, using specific variations that identify each location accurately (e.g., 'Green Dental Manchester' vs 'Green Dental Leeds').",
         },
         {
           h: "Ongoing Multi-Location Monitoring",
@@ -225,15 +225,15 @@ export const CitationBuildingServicesContent = {
       tag: "Healthcare · UK Multi-Site",
       metric: "84%",
       sub: "local enquiry growth in 7 months",
-      title: "UK Multi-Site Dental Group — Citation Cleanup",
-      body: "A six-location UK dental group was underperforming in local search despite a well-optimised website and active GBP management. Our citation audit revealed 186 NAP inconsistencies across the six location profiles — including three locations with incorrect phone numbers on Yell.com and two locations with previous premises addresses still active on 192.com and Thomson Local. Our programme: full audit and correction of all 186 inconsistencies, new citation building on 12 sector-specific dental directories (Doctify, NHS Choices listings, British Dental Association directory), and ongoing monthly monitoring. Result: Local Pack rankings improved from average position 4.2 to position 1.8 within 7 months. Monthly local search enquiries grew from 148 to 272 (+84%). One practice location moved from entirely absent from the Local Pack to position 1 within 4 months.",
+      title: "UK Multi-Site Dental Group Citation Cleanup",
+      body: "A six-location UK dental group was underperforming in local search despite a well-optimised website and active GBP management. Our citation audit revealed 186 NAP inconsistencies across the six location profiles including three locations with incorrect phone numbers on Yell.com and two locations with previous premises addresses still active on 192.com and Thomson Local. Our programme: full audit and correction of all 186 inconsistencies, new citation building on 12 sector-specific dental directories (Doctify, NHS Choices listings, British Dental Association directory), and ongoing monthly monitoring. Result: Local Pack rankings improved from average position 4.2 to position 1.8 within 7 months. Monthly local search enquiries grew from 148 to 272 (+84%). One practice location moved from entirely absent from the Local Pack to position 1 within 4 months.",
     },
     {
       tag: "Trades · US Expansion",
       metric: "34",
       sub: "additional leads/month from 3 new areas",
-      title: "US Plumbing Company — Citation Building in New Service Areas",
-      body: "A US plumbing company operating in one primary city was expanding into three neighbouring cities. Despite good Local Pack visibility in its original market, the company was entirely absent from local search in the three new service areas — no citations, no GBP listings, no local presence. Our programme: three new GBP listings (one per new service city) with complete optimisation, citation building across 45 directories for each new city location (including Yelp, Angi, HomeAdvisor, BBB, and 40 core local directories), and category-specific citations on plumbing directories. Result: All three new service area GBP listings achieved Local Pack positions within 12 weeks. Combined additional leads from the three new service areas: 34/month within 6 months, representing $8,400/month in additional revenue.",
+      title: "US Plumbing Company Citation Building in New Service Areas",
+      body: "A US plumbing company operating in one primary city was expanding into three neighbouring cities. Despite good Local Pack visibility in its original market, the company was entirely absent from local search in the three new service areas no citations, no GBP listings, no local presence. Our programme: three new GBP listings (one per new service city) with complete optimisation, citation building across 45 directories for each new city location (including Yelp, Angi, HomeAdvisor, BBB, and 40 core local directories), and category-specific citations on plumbing directories. Result: All three new service area GBP listings achieved Local Pack positions within 12 weeks. Combined additional leads from the three new service areas: 34/month within 6 months, representing $8,400/month in additional revenue.",
     },
   ],
   why: [
@@ -255,13 +255,13 @@ export const CitationBuildingServicesContent = {
     {
       icon: "Users",
       h: "Multi-Location Expertise",
-      p: "Each business location needs its own citation profile with location-specific NAP data. We enable dental groups, law firms, and restaurant chains to rank in Local Pack results across all their locations — not just their headquarters city.",
+      p: "Each business location needs its own citation profile with location-specific NAP data. We enable dental groups, law firms, and restaurant chains to rank in Local Pack results across all their locations not just their headquarters city.",
     },
   ],
   faqs: [
     {
       q: "How many citations does a local business need?",
-      a: "The right number is determined by the competitive landscape of your specific local market and business category. A local plumber in a regional UK town needs the 40-50 core directory citations covering the primary UK local directories. A personal injury law firm competing in London needs 80-120+ citations across core directories, legal-specific directories, and local business directories — because its competitors in that category have extensive citation profiles. We audit the competitor citation profiles in each market and calibrate the target citation volume to what the competitive landscape requires.",
+      a: "The right number is determined by the competitive landscape of your specific local market and business category. A local plumber in a regional UK town needs the 40-50 core directory citations covering the primary UK local directories. A personal injury law firm competing in London needs 80-120+ citations across core directories, legal-specific directories, and local business directories because its competitors in that category have extensive citation profiles. We audit the competitor citation profiles in each market and calibrate the target citation volume to what the competitive landscape requires.",
     },
     {
       q: "How long does citation building take to affect rankings?",
@@ -269,15 +269,15 @@ export const CitationBuildingServicesContent = {
     },
     {
       q: "Do you provide citation building for all six markets?",
-      a: "Yes — we provide market-specific citation building for UK, USA, UAE, Pakistan, Canada, and Australia, targeting the specific directories that carry the most local ranking authority in each market. Each market programme is built around the directories that Google's local algorithm values most highly in that market, not a generic global list.",
+      a: "Yes we provide market-specific citation building for UK, USA, UAE, Pakistan, Canada, and Australia, targeting the specific directories that carry the most local ranking authority in each market. Each market programme is built around the directories that Google's local algorithm values most highly in that market, not a generic global list.",
     },
     {
       q: "What is the difference between a citation and a backlink?",
-      a: "A citation is a mention of the business's NAP data (name, address, phone number) on a directory or website — it may or may not include a link to the website. A backlink is a hyperlink from another website to yours. Citations are specifically relevant to local search ranking, where Google uses NAP consistency across directories as a location verification signal. Backlinks are relevant to organic search ranking more broadly, where they signal authority and credibility. Both matter for a complete local SEO programme; citation building specifically addresses the NAP consistency signal.",
+      a: "A citation is a mention of the business's NAP data (name, address, phone number) on a directory or website it may or may not include a link to the website. A backlink is a hyperlink from another website to yours. Citations are specifically relevant to local search ranking, where Google uses NAP consistency across directories as a location verification signal. Backlinks are relevant to organic search ranking more broadly, where they signal authority and credibility. Both matter for a complete local SEO programme; citation building specifically addresses the NAP consistency signal.",
     },
     {
       q: "Can inaccurate citations actively hurt rankings?",
-      a: "Yes. Inaccurate citations — particularly old addresses, incorrect phone numbers, and duplicate listings — actively suppress local rankings by introducing conflicting NAP signals that reduce Google's confidence in your business information. Citation correction (fixing inaccuracies) typically produces ranking improvement as a direct result, not just as a consequence of new citation building.",
+      a: "Yes. Inaccurate citations particularly old addresses, incorrect phone numbers, and duplicate listings actively suppress local rankings by introducing conflicting NAP signals that reduce Google's confidence in your business information. Citation correction (fixing inaccuracies) typically produces ranking improvement as a direct result, not just as a consequence of new citation building.",
     },
   ],
   cta: {
@@ -294,6 +294,6 @@ export const CitationBuildingServicesContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author:
-      "Amjad Khan — CEO, Clickmasters Digital Marketing | Local SEO specialist | 10+ years",
+      "Amjad Khan CEO, Clickmasters Digital Marketing | Local SEO specialist | 10+ years",
   },
 };

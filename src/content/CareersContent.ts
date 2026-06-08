@@ -2,10 +2,10 @@ export const CareersContent = {
   slug: "careers",
   metadata: {
     url: "https://clickmastersdigitalmarketing.com/careers/",
-    seoTitle: "Careers at Clickmasters — Remote Digital Marketing Roles for Serious Specialists | Clickmasters",
+    seoTitle: "Careers at Clickmasters Remote Digital Marketing Roles for Serious Specialists | Clickmasters",
     metaDescription: "Remote digital marketing careers at Clickmasters. SEO, paid media, content strategy, B2B marketing, and account management roles. Work across UK, USA, UAE, Pakistan, Canada & Australia.",
     schema: "JobPosting + Organization",
-    author: "Amjad Khan, CEO — Clickmasters Digital Marketing",
+    author: "Amjad Khan, CEO Clickmasters Digital Marketing",
     primaryKeyword: "digital marketing jobs remote",
     volume: "8,100/mo",
     cpc: "$4.80",
@@ -17,7 +17,7 @@ export const CareersContent = {
     title: "Careers at Clickmasters",
     titleHighlight: "— Remote Digital Marketing Roles for Serious Specialists",
     subtitle: "",
-    description: "Clickmasters Digital Marketing is a growing digital marketing and software agency serving businesses in the USA, UK, UAE, Pakistan, Canada, and Australia. We are building a team of exceptional specialists — practitioners who have chosen digital marketing as a serious profession, who go deep in their disciplines rather than wide, and who measure their professional success by the commercial outcomes they produce for clients rather than the activity they generate.",
+    description: "Clickmasters Digital Marketing is a growing digital marketing and software agency serving businesses in the USA, UK, UAE, Pakistan, Canada, and Australia. We are building a team of exceptional specialists practitioners who have chosen digital marketing as a serious profession, who go deep in their disciplines rather than wide, and who measure their professional success by the commercial outcomes they produce for clients rather than the activity they generate.",
     stats: [
       { k: "6", v: "Markets served" },
       { k: "8,100/mo", v: "Remote job searches" },
@@ -27,11 +27,11 @@ export const CareersContent = {
   },
   intro: {
     problem: [
-      { text: "We hire fully remotely. Our team operates across multiple time zones — the UK, UAE, Pakistan, USA, and Canada — and our remote-first model is not a pandemic accommodation: ", type: "normal" },
+      { text: "We hire fully remotely. Our team operates across multiple time zones the UK, UAE, Pakistan, USA, and Canada and our remote-first model is not a pandemic accommodation: ", type: "normal" },
       { text: "it is the operational foundation that makes our global delivery model commercially viable", type: "highlight" },
       { text: " and that enables us to hire the best specialists in each discipline rather than the best specialists within commuting distance of any single office.", type: "normal" }
     ],
-    solution: "If you are an exceptional digital marketing specialist — with genuine expertise in your discipline, a commercial orientation that makes you think in terms of client outcomes, and the communication ability to explain complex performance data clearly to non-specialist audiences — we want to hear from you.",
+    solution: "If you are an exceptional digital marketing specialist with genuine expertise in your discipline, a commercial orientation that makes you think in terms of client outcomes, and the communication ability to explain complex performance data clearly to non-specialist audiences we want to hear from you.",
     promise: "",
   },
   workCulture: {
@@ -46,22 +46,22 @@ export const CareersContent = {
       {
         icon: "DollarSign",
         title: "Commercial Accountability",
-        body: "Every programme we manage is evaluated against the qualified leads it generates, the revenue it produces, and the commercial value it creates for clients. Our team members are evaluated against the same standards: not the number of articles written, campaigns launched, or reports produced — but the commercial outcomes those activities produce. This is more demanding, but more satisfying for those who want to make a commercial difference.",
+        body: "Every programme we manage is evaluated against the qualified leads it generates, the revenue it produces, and the commercial value it creates for clients. Our team members are evaluated against the same standards: not the number of articles written, campaigns launched, or reports produced but the commercial outcomes those activities produce. This is more demanding, but more satisfying for those who want to make a commercial difference.",
       },
       {
         icon: "Globe",
         title: "Multi-Market Exposure",
-        body: "Working at Clickmasters means working across multiple markets simultaneously — the UK, USA, UAE, Pakistan, Canada, and Australia. You will work on legal SEO for a New York law firm, e-commerce marketing for a UK DTC brand, B2B LinkedIn for a Dubai professional services firm, and content strategy for an Australian healthcare practice — sometimes in the same week.",
+        body: "Working at Clickmasters means working across multiple markets simultaneously the UK, USA, UAE, Pakistan, Canada, and Australia. You will work on legal SEO for a New York law firm, e-commerce marketing for a UK DTC brand, B2B LinkedIn for a Dubai professional services firm, and content strategy for an Australian healthcare practice sometimes in the same week.",
       },
       {
         icon: "Home",
         title: "Genuine Remote Culture",
-        body: "Our remote model is genuinely remote — not a hybrid arrangement where remote workers are second-class citizens. We have no office. Everyone is remote. Our communication culture is built around asynchronous-first communication: written briefs, documented decisions, and the expectation that work is understood from written communication rather than verbal instruction.",
+        body: "Our remote model is genuinely remote not a hybrid arrangement where remote workers are second-class citizens. We have no office. Everyone is remote. Our communication culture is built around asynchronous-first communication: written briefs, documented decisions, and the expectation that work is understood from written communication rather than verbal instruction.",
       },
       {
         icon: "TrendingUp",
         title: "Growth and Development",
-        body: "We invest in team development. Every team member has a professional development budget for courses, certifications, tools, and platform-specific training that keeps specialist knowledge current. The digital marketing discipline changes continuously — algorithm updates, platform changes, new channels — and we support the continuous learning that keeps our team's capabilities at the standard our clients deserve.",
+        body: "We invest in team development. Every team member has a professional development budget for courses, certifications, tools, and platform-specific training that keeps specialist knowledge current. The digital marketing discipline changes continuously algorithm updates, platform changes, new channels and we support the continuous learning that keeps our team's capabilities at the standard our clients deserve.",
       },
     ],
   },
@@ -144,7 +144,7 @@ export const CareersContent = {
     },
     {
       id: "account-manager",
-      title: "Account Manager — Client Services",
+      title: "Account Manager Client Services",
       type: "Remote",
       description: "We are looking for an account manager with commercial orientation, digital marketing knowledge, and communication skills to manage client relationships.",
       responsibilities: [
@@ -157,8 +157,8 @@ export const CareersContent = {
       requirements: [
         "Minimum 3 years of agency account management experience",
         "Genuine understanding of SEO, paid advertising, and at least two other digital marketing disciplines",
-        "Strong client communication skills — ability to explain complex performance data in commercial terms",
-        "Commercial orientation — you think in terms of client ROI, not activity delivered",
+        "Strong client communication skills ability to explain complex performance data in commercial terms",
+        "Commercial orientation you think in terms of client ROI, not activity delivered",
       ],
     },
   ],
@@ -169,12 +169,12 @@ export const CareersContent = {
       {
         step: "1",
         title: "Application Review",
-        description: "We review every application we receive. We do not use automated screening for initial review — every application is read by a member of our team. Applications that clearly demonstrate specialist expertise, commercial orientation, and strong written communication advance to the next stage.",
+        description: "We review every application we receive. We do not use automated screening for initial review every application is read by a member of our team. Applications that clearly demonstrate specialist expertise, commercial orientation, and strong written communication advance to the next stage.",
       },
       {
         step: "2",
         title: "Skills Assessment",
-        description: "Shortlisted candidates complete a discipline-specific skills assessment — a realistic task that reflects the actual work the role involves. SEO candidates conduct a mini-audit or keyword strategy exercise. Paid media candidates build a campaign structure or audit an existing account. Content candidates produce a writing sample to a brief. We pay for completed assessments that require significant time — we do not use skills assessments as a way to obtain free work.",
+        description: "Shortlisted candidates complete a discipline-specific skills assessment a realistic task that reflects the actual work the role involves. SEO candidates conduct a mini-audit or keyword strategy exercise. Paid media candidates build a campaign structure or audit an existing account. Content candidates produce a writing sample to a brief. We pay for completed assessments that require significant time we do not use skills assessments as a way to obtain free work.",
       },
       {
         step: "3",
@@ -184,13 +184,13 @@ export const CareersContent = {
       {
         step: "4",
         title: "Offer and Onboarding",
-        description: "Successful candidates receive a transparent offer that documents the role, compensation, performance expectations, and growth trajectory. Onboarding is structured around the specific tools, processes, and client contexts the new team member will work on — not a generic induction programme.",
+        description: "Successful candidates receive a transparent offer that documents the role, compensation, performance expectations, and growth trajectory. Onboarding is structured around the specific tools, processes, and client contexts the new team member will work on not a generic induction programme.",
       },
     ],
   },
   apply: {
     title: "Ready to Apply?",
-    description: "If you are a genuine specialist who wants to work in a remote-first, commercially accountable, multi-market digital marketing environment — we want to hear from you.",
+    description: "If you are a genuine specialist who wants to work in a remote-first, commercially accountable, multi-market digital marketing environment we want to hear from you.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     aboutLink: "https://clickmastersdigitalmarketing.com/about-us/",
     teamLink: "https://clickmastersdigitalmarketing.com/our-team/",
@@ -202,6 +202,6 @@ export const CareersContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     careersEmail: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
-    author: "Amjad Khan — CEO | Remote-first | 2026",
+    author: "Amjad Khan CEO | Remote-first | 2026",
   },
 };

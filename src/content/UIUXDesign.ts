@@ -9,12 +9,12 @@ export const UIUXDesignContent = {
     author: "Amjad Khan",
   },
   hero: {
-    tag: "[ Service · 09 ] — UI/UX Design",
+    tag: "[ Service · 09 ] UI/UX Design",
     title: "UI/UX Design",
     titleHighlight: "Services",
     subtitle: "— because bad design is the most expensive thing you're not measuring.",
     description:
-      "The cost of poor UX does not appear on an invoice. It appears in your analytics — as a 74% mobile bounce rate, a 3.8-minute average session that never reaches the pricing page, a 68% cart abandonment rate, a customer support ticket queue full of questions that a better-designed interface would have answered, and a churn rate that your product team cannot explain because the product works — it is just genuinely difficult to use.",
+      "The cost of poor UX does not appear on an invoice. It appears in your analytics as a 74% mobile bounce rate, a 3.8-minute average session that never reaches the pricing page, a 68% cart abandonment rate, a customer support ticket queue full of questions that a better-designed interface would have answered, and a churn rate that your product team cannot explain because the product works it is just genuinely difficult to use.",
     stats: [
       { k: "$1 → $100", v: "ROI of UX investment" },
       { k: "69%", v: "Trial conversion lift (case)" },
@@ -30,14 +30,14 @@ export const UIUXDesignContent = {
       { text: "for development convenience rather than user clarity", type: "highlight" },
       { text: ", every onboarding sequence that ", type: "normal" },
       { text: "assumes users know what they are doing", type: "highlight" },
-      { text: " — all of these accumulate into a product experience that users ", type: "normal" },
+      { text: " all of these accumulate into a product experience that users ", type: "normal" },
       { text: "tolerate rather than enjoy", type: "highlight" },
       { text: ", switch away from when alternatives improve, and never recommend to colleagues.", type: "normal" }
     ],
     solution: [
-      { text: "The businesses that invest in UI/UX design systematically — not as a one-time redesign project but as ", type: "normal" },
+      { text: "The businesses that invest in UI/UX design systematically not as a one-time redesign project but as ", type: "normal" },
       { text: "an ongoing discipline", type: "highlight" },
-      { text: " — build the product experiences that users ", type: "normal" },
+      { text: " build the product experiences that users ", type: "normal" },
       { text: "choose, stay with, and advocate for", type: "highlight" },
       { text: ".", type: "normal" }
     ],
@@ -54,17 +54,17 @@ export const UIUXDesignContent = {
       {
         icon: "DollarSign",
         title: "UX Debt That Shows Up as Business Metrics",
-        body: "Forrester estimates every $1 invested in UX returns $100 in business outcomes — through improved conversion rates, reduced development rework, reduced support costs, and improved retention. Poor UX degrades conversion rate, trial-to-paid conversion, support ticket volume, and net promoter score.",
+        body: "Forrester estimates every $1 invested in UX returns $100 in business outcomes through improved conversion rates, reduced development rework, reduced support costs, and improved retention. Poor UX degrades conversion rate, trial-to-paid conversion, support ticket volume, and net promoter score.",
       },
       {
         icon: "Brain",
         title: "The Assumption-Driven Design Problem",
-        body: "The most common source of poor UX is assumption-driven design — interfaces based on what teams believe users want, rather than what research reveals users actually do. This produces navigation structures reflecting internal categories, onboarding assuming motivation users don't have, and error messages written by developers for developers.",
+        body: "The most common source of poor UX is assumption-driven design interfaces based on what teams believe users want, rather than what research reveals users actually do. This produces navigation structures reflecting internal categories, onboarding assuming motivation users don't have, and error messages written by developers for developers.",
       },
       {
         icon: "RefreshCw",
         title: "The Redesign-Without-Research Trap",
-        body: "Organisations respond to poor UX with full redesigns — rebuilding the visual layer without understanding why the existing product fails. Redesigns without user research produce products that are visually improved but experientially similar, because structural problems were rebuilt with the same assumptions.",
+        body: "Organisations respond to poor UX with full redesigns rebuilding the visual layer without understanding why the existing product fails. Redesigns without user research produce products that are visually improved but experientially similar, because structural problems were rebuilt with the same assumptions.",
       },
     ],
     afterTitle: "What Systematically Good UX",
@@ -112,7 +112,7 @@ export const UIUXDesignContent = {
       tag: "Architecture",
       title: "Information Architecture and User Flows",
       intro:
-        "Structuring the product around what users need to do — not how the engineering team organised the code or how the product team categorised features.",
+        "Structuring the product around what users need to do not how the engineering team organised the code or how the product team categorised features.",
       blocks: [
         {
           h: "Structuring the Product Around What Users Need to Do",
@@ -133,12 +133,12 @@ export const UIUXDesignContent = {
         "Structure before style. Wireframes define what appears on each screen, in what hierarchy, in what sequence, and with what interactive capabilities.",
       blocks: [
         {
-          h: "Wireframing — Structure Before Style",
+          h: "Wireframing Structure Before Style",
           p: "Low-fidelity wireframes for early-stage exploration (validating IA and flow decisions quickly), high-fidelity wireframes for handoff and development specification (communicating every interface element with precision).",
         },
         {
-          h: "Interaction Design — How the Interface Behaves",
-          p: "Specification of how the interface responds to user actions: button clicks, form validation, loading states, error states, modal behaviour, navigation expansion. Good interaction design is invisible — users never notice because it always works as expected.",
+          h: "Interaction Design How the Interface Behaves",
+          p: "Specification of how the interface responds to user actions: button clicks, form validation, loading states, error states, modal behaviour, navigation expansion. Good interaction design is invisible users never notice because it always works as expected.",
         },
         {
           h: "Prototype Development",
@@ -152,7 +152,7 @@ export const UIUXDesignContent = {
       tag: "Visual",
       title: "Visual UI Design",
       intro:
-        "Visual design in product contexts is not decoration — it is the communication system that makes the interface's structure legible.",
+        "Visual design in product contexts is not decoration it is the communication system that makes the interface's structure legible.",
       blocks: [
         {
           h: "Visual Design as an Experience Layer",
@@ -160,11 +160,11 @@ export const UIUXDesignContent = {
         },
         {
           h: "Design System Development",
-          p: "For products at scale — component library (buttons, inputs, cards, navigation elements), token system (colour, typography, spacing, elevation values), and usage documentation enabling designers and developers to apply the system correctly and consistently.",
+          p: "For products at scale component library (buttons, inputs, cards, navigation elements), token system (colour, typography, spacing, elevation values), and usage documentation enabling designers and developers to apply the system correctly and consistently.",
         },
         {
           h: "Brand to Product Translation",
-          p: "Adapting brand visual identity to product interface requirements — balancing legibility, state communication, and functional clarity against brand expression. Ensuring WCAG accessibility compliance and readability at scale.",
+          p: "Adapting brand visual identity to product interface requirements balancing legibility, state communication, and functional clarity against brand expression. Ensuring WCAG accessibility compliance and readability at scale.",
         },
       ],
     },
@@ -174,7 +174,7 @@ export const UIUXDesignContent = {
       tag: "Mobile",
       title: "Mobile UX and App Design",
       intro:
-        "Mobile UX is not desktop UX adapted for a smaller screen — it is a fundamentally different design context with different interaction models and constraints.",
+        "Mobile UX is not desktop UX adapted for a smaller screen it is a fundamentally different design context with different interaction models and constraints.",
       blocks: [
         {
           h: "Mobile-First UX Principles",
@@ -182,7 +182,7 @@ export const UIUXDesignContent = {
         },
         {
           h: "App Design for iOS and Android",
-          p: "Following Apple HIG for iOS and Material Design guidelines for Android — adapting brand and product requirements within platform conventions that make the app feel native. Platform convention violations are a consistent source of usability friction.",
+          p: "Following Apple HIG for iOS and Material Design guidelines for Android adapting brand and product requirements within platform conventions that make the app feel native. Platform convention violations are a consistent source of usability friction.",
         },
       ],
     },
@@ -200,7 +200,7 @@ export const UIUXDesignContent = {
         },
         {
           h: "Iterative Testing Through the Design Process",
-          p: "Integrating usability testing at each major design decision point — not as a single validation event. Early testing validates IA and flow decisions. Mid-design testing validates interaction patterns. Pre-launch testing validates final visual implementation.",
+          p: "Integrating usability testing at each major design decision point not as a single validation event. Early testing validates IA and flow decisions. Mid-design testing validates interaction patterns. Pre-launch testing validates final visual implementation.",
         },
       ],
     },
@@ -211,7 +211,7 @@ export const UIUXDesignContent = {
       metric: "69%",
       sub: "trial conversion lift · 9% → 15.2%",
       title: "UX redesign reduces trial churn by 41% and support tickets by 58%.",
-      body: "B2B project management SaaS with 3,400 trial users/month, 9% conversion, 4.2 support tickets/user/month. Research revealed primary churn cause: inability to find features that justified subscription — not price sensitivity. Solution: user interviews (18 participants), card sorting (42 participants), wireframe redesign of navigation and onboarding, prototype usability testing (3 rounds), visual UI redesign. Result: trial conversion 9%→15.2% (69% improvement), support tickets 4.2→1.8 (58% reduction), NPS 22→47, estimated annual impact $2.8M.",
+      body: "B2B project management SaaS with 3,400 trial users/month, 9% conversion, 4.2 support tickets/user/month. Research revealed primary churn cause: inability to find features that justified subscription not price sensitivity. Solution: user interviews (18 participants), card sorting (42 participants), wireframe redesign of navigation and onboarding, prototype usability testing (3 rounds), visual UI redesign. Result: trial conversion 9%→15.2% (69% improvement), support tickets 4.2→1.8 (58% reduction), NPS 22→47, estimated annual impact $2.8M.",
     },
     {
       tag: "Fintech Mobile App · UX Overhaul",
@@ -225,24 +225,24 @@ export const UIUXDesignContent = {
       metric: "94%",
       sub: "training time reduction · 3 days → 4 hours",
       title: "Interface redesign cuts training time from 3 days to 4 hours.",
-      body: "Enterprise ERP software required 3 days of classroom training for new users — a significant implementation cost and sales objection. Research: contextual inquiry (8 users, revealed 67% of clicks were navigation to find tools, not productive work), task analysis (12 core tasks = 80% of daily usage vs 340 available features). Solution: interface redesign prioritising 12 core tasks with dedicated workspace surfaces, progressive disclosure of advanced features. Result: training time 3 days→4 hours (94% reduction), implementation satisfaction 4.2→8.6/10, sales team reported training time reduction resolved the most common sales objection.",
+      body: "Enterprise ERP software required 3 days of classroom training for new users a significant implementation cost and sales objection. Research: contextual inquiry (8 users, revealed 67% of clicks were navigation to find tools, not productive work), task analysis (12 core tasks = 80% of daily usage vs 340 available features). Solution: interface redesign prioritising 12 core tasks with dedicated workspace surfaces, progressive disclosure of advanced features. Result: training time 3 days→4 hours (94% reduction), implementation satisfaction 4.2→8.6/10, sales team reported training time reduction resolved the most common sales objection.",
     },
   ],
   why: [
     {
       icon: "Search",
       h: "Research-first without research-as-delay",
-      p: "We conduct user research because assumption-driven design consistently produces worse outcomes — not because research is a prerequisite for billable hours. We scope research to the decisions it informs: quick guerrilla testing for early-stage questions, structured testing for high-stakes validation, analytics review for patterns qualitative research cannot reveal.",
+      p: "We conduct user research because assumption-driven design consistently produces worse outcomes not because research is a prerequisite for billable hours. We scope research to the decisions it informs: quick guerrilla testing for early-stage questions, structured testing for high-stakes validation, analytics review for patterns qualitative research cannot reveal.",
     },
     {
       icon: "BarChart3",
       h: "Design and business outcomes as inseparable",
-      p: "We measure UX success by business outcomes — conversion rate, retention rate, support ticket volume, trial conversion, NPS — not by design quality metrics that don't connect to commercial performance. Every recommendation is framed by the business outcome it's expected to improve, followed by measurement of whether it produced the predicted improvement.",
+      p: "We measure UX success by business outcomes conversion rate, retention rate, support ticket volume, trial conversion, NPS not by design quality metrics that don't connect to commercial performance. Every recommendation is framed by the business outcome it's expected to improve, followed by measurement of whether it produced the predicted improvement.",
     },
     {
       icon: "Layers",
       h: "Full spectrum from research to delivery",
-      p: "We provide the complete UX design capability: user research, information architecture, user flows, wireframing, interaction design, visual UI design, design system development, and usability testing — in a coordinated process rather than disconnected deliverables from separate specialists.",
+      p: "We provide the complete UX design capability: user research, information architecture, user flows, wireframing, interaction design, visual UI design, design system development, and usability testing in a coordinated process rather than disconnected deliverables from separate specialists.",
     },
     {
       icon: "Code2",
@@ -253,7 +253,7 @@ export const UIUXDesignContent = {
   faqs: [
     {
       q: "What is the difference between UI design and UX design?",
-      a: "UX design (User Experience design) is the practice of designing how a product works and how users move through it — information architecture, user flows, interaction patterns, and the overall experience. UI design (User Interface design) is the practice of designing how the product looks — the visual presentation through colour, typography, spacing, iconography, and component design. In practice, the two disciplines are deeply interdependent. Most professional design practices — including ours — address both UX and UI as a unified discipline rather than treating them as independent activities.",
+      a: "UX design (User Experience design) is the practice of designing how a product works and how users move through it information architecture, user flows, interaction patterns, and the overall experience. UI design (User Interface design) is the practice of designing how the product looks the visual presentation through colour, typography, spacing, iconography, and component design. In practice, the two disciplines are deeply interdependent. Most professional design practices including ours address both UX and UI as a unified discipline rather than treating them as independent activities.",
     },
     {
       q: "How do you approach UX for a brand new product versus an existing product?",
@@ -269,11 +269,11 @@ export const UIUXDesignContent = {
     },
     {
       q: "Do you conduct user research in multiple languages?",
-      a: "Yes — for products with international user bases, we conduct user research in the languages of the specific user populations. We have research and facilitation capability in English, Arabic, and Urdu, and work with specialist research partners for other languages where required. User research in the user's native language consistently produces more authentic, more detailed, and more useful insights because barriers to articulating nuanced experience observations are lower.",
+      a: "Yes for products with international user bases, we conduct user research in the languages of the specific user populations. We have research and facilitation capability in English, Arabic, and Urdu, and work with specialist research partners for other languages where required. User research in the user's native language consistently produces more authentic, more detailed, and more useful insights because barriers to articulating nuanced experience observations are lower.",
     },
     {
       q: "Can you work with our existing design system?",
-      a: "Yes — we work within existing design systems where they exist, extending and adapting them for specific design challenges. Where an existing system has gaps, inconsistencies, or component needs, we document proposed additions and modifications and seek alignment with the team responsible for the design system before implementing changes. We do not create parallel design patterns that diverge from an existing system without deliberate agreement.",
+      a: "Yes we work within existing design systems where they exist, extending and adapting them for specific design challenges. Where an existing system has gaps, inconsistencies, or component needs, we document proposed additions and modifications and seek alignment with the team responsible for the design system before implementing changes. We do not create parallel design patterns that diverge from an existing system without deliberate agreement.",
     },
     {
       q: "How do you handle design handoff to development teams?",
@@ -292,7 +292,7 @@ export const UIUXDesignContent = {
   cta: {
     title: "Ready to Turn UX Investment Into Business Outcomes?",
     description:
-      "The businesses with the best product experiences are not the ones with the largest design teams or the most sophisticated design processes. They are the ones that decided to understand their users before designing for them — and to measure business outcomes rather than design quality metrics when evaluating whether the design investment worked. That decision is where everything changes. We help you make it effectively.",
+      "The businesses with the best product experiences are not the ones with the largest design teams or the most sophisticated design processes. They are the ones that decided to understand their users before designing for them and to measure business outcomes rather than design quality metrics when evaluating whether the design investment worked. That decision is where everything changes. We help you make it effectively.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     webDesignLink: "https://clickmastersdigitalmarketing.com/web-design-services/",
@@ -302,6 +302,6 @@ export const UIUXDesignContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | UI/UX design specialist | 10+ years",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | UI/UX design specialist | 10+ years",
   },
 };

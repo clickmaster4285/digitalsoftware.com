@@ -225,7 +225,7 @@ export default function StippleGlobe() {
     };
     window.addEventListener("resize", onResize);
 
-    // Entrance fade-in for pins/lines/avatars only — the wrapper-level
+    // Entrance fade-in for pins/lines/avatars only the wrapper-level
     // scroll choreography (half-visible → full → slide-right) lives in
     // src/routes/index.tsx so it can stay in sync with the text column.
     const ctx = gsap.context(() => {

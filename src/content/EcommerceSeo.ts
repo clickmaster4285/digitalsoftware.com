@@ -9,12 +9,12 @@ export const EcommerceSeoContent = {
     author: "Amjad Khan",
   },
   hero: {
-    tag: "[ Service · 15 ] — E-Commerce SEO",
+    tag: "[ Service · 15 ] E-Commerce SEO",
     title: "E-Commerce SEO",
     titleHighlight: "Services",
     subtitle: "— organic revenue that scales without scaling ad spend.",
     description:
-      "Here is the math that destroys most e-commerce businesses: every dollar you spend on paid ads produces traffic only while the dollar is spent. The moment you pause the campaign, the traffic stops. The revenue stops. You are on a treadmill that requires constant acceleration just to stay still. Organic search does not work that way. A category page that ranks in position one for a 40,000-search-per-month keyword generates traffic every day — whether you spend on ads or not.",
+      "Here is the math that destroys most e-commerce businesses: every dollar you spend on paid ads produces traffic only while the dollar is spent. The moment you pause the campaign, the traffic stops. The revenue stops. You are on a treadmill that requires constant acceleration just to stay still. Organic search does not work that way. A category page that ranks in position one for a 40,000-search-per-month keyword generates traffic every day whether you spend on ads or not.",
     stats: [
       { k: "89%", v: "Organic revenue increase (case)" },
       { k: "14,000", v: "Monthly organic visitors from zero" },
@@ -26,12 +26,12 @@ export const EcommerceSeoContent = {
     problem: [
       { text: "E-commerce SEO is how you break the ", type: "normal" },
       { text: "paid-ads treadmill", type: "highlight" },
-      { text: ". It is how you build an organic revenue engine that compounds over time — where the work you do in month three is still producing revenue in year three.", type: "normal" }
+      { text: ". It is how you build an organic revenue engine that compounds over time where the work you do in month three is still producing revenue in year three.", type: "normal" }
     ],
     solution: [
-      { text: "At Clickmasters Digital Marketing, our e-commerce SEO team has built organic revenue channels for online stores across the USA, UK, UAE, and Pakistan since 2015. We work across every major platform — ", type: "normal" },
+      { text: "At Clickmasters Digital Marketing, our e-commerce SEO team has built organic revenue channels for online stores across the USA, UK, UAE, and Pakistan since 2015. We work across every major platform ", type: "normal" },
       { text: "Shopify, WooCommerce, Magento, BigCommerce", type: "highlight" },
-      { text: " — and across every product category. We do not offer generic SEO with an 'e-commerce' label. We offer a methodology built specifically for the unique technical architecture, content requirements, and competitive dynamics of online retail.", type: "normal" }
+      { text: " and across every product category. We do not offer generic SEO with an 'e-commerce' label. We offer a methodology built specifically for the unique technical architecture, content requirements, and competitive dynamics of online retail.", type: "normal" }
     ],
     promise: [
       { text: "This page explains exactly what our e-commerce SEO service covers, how we approach it, what we have achieved for clients, and why Clickmasters is the right e-commerce SEO partner for your store in 2026.", type: "normal" }
@@ -54,7 +54,7 @@ export const EcommerceSeoContent = {
       {
         icon: "DollarSign",
         title: "Conversion and Revenue Attribution",
-        body: "For e-commerce businesses, organic traffic that does not convert to revenue is worthless. Our service is designed around revenue attribution from the start — tracking which pages contribute to completed purchases and at what revenue value.",
+        body: "For e-commerce businesses, organic traffic that does not convert to revenue is worthless. Our service is designed around revenue attribution from the start tracking which pages contribute to completed purchases and at what revenue value.",
       },
       {
         icon: "Cpu",
@@ -68,7 +68,7 @@ export const EcommerceSeoContent = {
       n: "01",
       icon: "Search",
       tag: "Technical",
-      title: "E-Commerce Technical SEO — Platform-Specific Foundations",
+      title: "E-Commerce Technical SEO Platform-Specific Foundations",
       intro:
         "Technical SEO for e-commerce is categorically more complex than for other website types. Resolving these issues requires platform-specific expertise.",
       blocks: [
@@ -90,9 +90,9 @@ export const EcommerceSeoContent = {
       n: "02",
       icon: "Layout",
       tag: "Categories",
-      title: "Category Page Optimization — The Highest-ROI Investment",
+      title: "Category Page Optimization The Highest-ROI Investment",
       intro:
-        "Category pages target high-volume, high-purchase-intent keywords with significant organic revenue potential — yet they are the most consistently neglected.",
+        "Category pages target high-volume, high-purchase-intent keywords with significant organic revenue potential yet they are the most consistently neglected.",
       blocks: [
         {
           h: "Category Keyword Research and Mapping",
@@ -112,13 +112,13 @@ export const EcommerceSeoContent = {
       n: "03",
       icon: "Package",
       tag: "Products",
-      title: "Product Page SEO — Converting Long-Tail Intent Into Revenue",
+      title: "Product Page SEO Converting Long-Tail Intent Into Revenue",
       intro:
-        "Product pages target lower-volume, higher-specificity queries — but they are also where purchase decisions are made.",
+        "Product pages target lower-volume, higher-specificity queries but they are also where purchase decisions are made.",
       blocks: [
         {
           h: "Product Title and Meta Data Optimization",
-          p: "Title tags optimized to include product name, key differentiating features, and brand — ranking for product-level search queries while communicating compelling purchase reasons to SERP users.",
+          p: "Title tags optimized to include product name, key differentiating features, and brand ranking for product-level search queries while communicating compelling purchase reasons to SERP users.",
         },
         {
           h: "Original Product Descriptions",
@@ -126,7 +126,7 @@ export const EcommerceSeoContent = {
         },
         {
           h: "Product Schema Implementation",
-          p: "Product schema enables price, availability, review stars, and shipping information to appear directly in search results — dramatically improving click-through rate. We implement across every product page with attention to price and availability properties used for Google Shopping.",
+          p: "Product schema enables price, availability, review stars, and shipping information to appear directly in search results dramatically improving click-through rate. We implement across every product page with attention to price and availability properties used for Google Shopping.",
         },
       ],
     },
@@ -134,21 +134,21 @@ export const EcommerceSeoContent = {
       n: "04",
       icon: "FileText",
       tag: "Content",
-      title: "E-Commerce Content Marketing — Traffic Before Purchase Decision",
+      title: "E-Commerce Content Marketing Traffic Before Purchase Decision",
       intro:
         "Most potential customers are not ready to buy when they first encounter your category. If competitors are present during research and you are not, they establish preference before purchase.",
       blocks: [
         {
           h: "Buying Guides and Category Education Content",
-          p: "Comprehensive guides targeting high-volume informational keywords that precede purchase decisions — ranking due to comprehensive coverage and E-E-A-T signals, directing readers to category and product pages with contextual internal links.",
+          p: "Comprehensive guides targeting high-volume informational keywords that precede purchase decisions ranking due to comprehensive coverage and E-E-A-T signals, directing readers to category and product pages with contextual internal links.",
         },
         {
           h: "Comparison and Best-Of Content",
-          p: "'Best [product type] for [use case]' and '[Product A] vs [Product B]' content targets buyers in the active comparison phase — among the highest-converting search queries for e-commerce.",
+          p: "'Best [product type] for [use case]' and '[Product A] vs [Product B]' content targets buyers in the active comparison phase among the highest-converting search queries for e-commerce.",
         },
         {
           h: "Seasonal and Trend Content",
-          p: "Developing seasonal content that targets search volume surges during high-demand periods — published 60-90 days before peak season to allow ranking time before demand arrives.",
+          p: "Developing seasonal content that targets search volume surges during high-demand periods published 60-90 days before peak season to allow ranking time before demand arrives.",
         },
       ],
     },
@@ -170,7 +170,7 @@ export const EcommerceSeoContent = {
         },
         {
           h: "Magento SEO",
-          p: "Magento's layered navigation is powerful — and one of the most dangerous from an SEO perspective if not properly configured. We configure with proper canonical tags, robots.txt blocking for low-value filter combinations, and URL key optimization.",
+          p: "Magento's layered navigation is powerful and one of the most dangerous from an SEO perspective if not properly configured. We configure with proper canonical tags, robots.txt blocking for low-value filter combinations, and URL key optimization.",
         },
       ],
     },
@@ -178,13 +178,13 @@ export const EcommerceSeoContent = {
       n: "06",
       icon: "Link2",
       tag: "Links",
-      title: "E-Commerce Link Building — Authority for Competitive Rankings",
+      title: "E-Commerce Link Building Authority for Competitive Rankings",
       intro:
-        "E-commerce category keywords are among the most competitive organic keywords — contested by major retailers with enormous domain authority.",
+        "E-commerce category keywords are among the most competitive organic keywords contested by major retailers with enormous domain authority.",
       blocks: [
         {
           h: "Product-Focused Digital PR",
-          p: "Creating product-related content that earns natural editorial links: original product research, gift guides pitched to publications, expert commentary on product trends — earning links that build targeted topical authority for category and product pages.",
+          p: "Creating product-related content that earns natural editorial links: original product research, gift guides pitched to publications, expert commentary on product trends earning links that build targeted topical authority for category and product pages.",
         },
         {
           h: "Influencer and Blogger Outreach",
@@ -203,28 +203,28 @@ export const EcommerceSeoContent = {
       metric: "89%",
       sub: "organic revenue increase · 11.2 → 4.7 avg rank",
       title: "Category page optimization delivers 89% organic revenue increase in 9 months.",
-      body: "Premium kitchen equipment brand with adequate domain authority but poor category page performance — pages ranking positions 8-15, product pages barely indexed due to manufacturer description duplication. Solution: rewrote all 24 category pages (600-900 words of original intent-matched content), replaced manufacturer copy with original product descriptions, added buyer's guide sections and comparison tables to 6 highest-traffic category pages, implemented Product schema across all product pages. Result: average category ranking 11.2→4.7, three category pages reached position 1 including 'best chef's knives' (40,500 searches/month), organic revenue +89% in 9 months.",
+      body: "Premium kitchen equipment brand with adequate domain authority but poor category page performance pages ranking positions 8-15, product pages barely indexed due to manufacturer description duplication. Solution: rewrote all 24 category pages (600-900 words of original intent-matched content), replaced manufacturer copy with original product descriptions, added buyer's guide sections and comparison tables to 6 highest-traffic category pages, implemented Product schema across all product pages. Result: average category ranking 11.2→4.7, three category pages reached position 1 including 'best chef's knives' (40,500 searches/month), organic revenue +89% in 9 months.",
     },
     {
       tag: "Sustainable Fashion · Zero to Authority",
       metric: "14,000",
       sub: "monthly organic visitors · $220K revenue",
       title: "Sustainable fashion e-commerce grows from zero to 14,000 monthly organic visitors in 14 months.",
-      body: "Sustainable fashion brand entering US market — zero organic presence, zero backlinks, competitors building SEO authority for 5-10 years. Solution: long-tail category keyword domination (700+ keywords with 200-2,000 monthly searches), buying guide content targeting 'best sustainable [garment]', collection page optimization for 32 categories, link building from sustainability publications, Product schema across full catalog. Result: 14,000 monthly organic visitors within 14 months, $220K attributed organic revenue, top 3 positions for 47 long-tail category keywords. Organic channel now contributes more revenue than paid social at fraction of CPA.",
+      body: "Sustainable fashion brand entering US market zero organic presence, zero backlinks, competitors building SEO authority for 5-10 years. Solution: long-tail category keyword domination (700+ keywords with 200-2,000 monthly searches), buying guide content targeting 'best sustainable [garment]', collection page optimization for 32 categories, link building from sustainability publications, Product schema across full catalog. Result: 14,000 monthly organic visitors within 14 months, $220K attributed organic revenue, top 3 positions for 47 long-tail category keywords. Organic channel now contributes more revenue than paid social at fraction of CPA.",
     },
     {
       tag: "Shopify Home Decor · Technical Sprint",
       metric: "156%",
       sub: "traffic increase · 340 → 2,890 crawled pages",
-      title: "Technical SEO sprint doubles crawled pages in 60 days — $180K organic revenue increase.",
-      body: "Shopify home decor store with 3,200 products — only 340 product pages crawled by Google due to severe crawl budget waste from unmanaged faceted navigation (180,000 URL combinations from 12 filter dimensions). Solution: robots.txt blocking faceted navigation URLs, canonical tags on filter pages pointing to parent category pages, XML sitemap rebuild (indexable pages only), Core Web Vitals optimization (LCP 4.9s→1.7s). Result: crawled pages 340→2,890 within 60 days, indexed product pages 190→2,100, organic traffic +156% within 90 days, organic revenue +$180K in subsequent 12 months.",
+      title: "Technical SEO sprint doubles crawled pages in 60 days $180K organic revenue increase.",
+      body: "Shopify home decor store with 3,200 products only 340 product pages crawled by Google due to severe crawl budget waste from unmanaged faceted navigation (180,000 URL combinations from 12 filter dimensions). Solution: robots.txt blocking faceted navigation URLs, canonical tags on filter pages pointing to parent category pages, XML sitemap rebuild (indexable pages only), Core Web Vitals optimization (LCP 4.9s→1.7s). Result: crawled pages 340→2,890 within 60 days, indexed product pages 190→2,100, organic traffic +156% within 90 days, organic revenue +$180K in subsequent 12 months.",
     },
   ],
   why: [
     {
       icon: "Cpu",
       h: "Platform-native expertise",
-      p: "Our e-commerce SEO team includes specialists who have built and optimized stores on every major platform — not generalists who have reviewed platform documentation. We know where each platform's default settings suppress rankings and exactly how to correct them.",
+      p: "Our e-commerce SEO team includes specialists who have built and optimized stores on every major platform not generalists who have reviewed platform documentation. We know where each platform's default settings suppress rankings and exactly how to correct them.",
     },
     {
       icon: "DollarSign",
@@ -234,22 +234,22 @@ export const EcommerceSeoContent = {
     {
       icon: "Layers",
       h: "Full-stack e-commerce SEO",
-      p: "Technical SEO, category optimization, product page optimization, content marketing, link building, structured data, platform configuration, analytics — we cover the complete stack. Agencies offering only content or only technical SEO produce partial results.",
+      p: "Technical SEO, category optimization, product page optimization, content marketing, link building, structured data, platform configuration, analytics we cover the complete stack. Agencies offering only content or only technical SEO produce partial results.",
     },
     {
       icon: "Globe",
       h: "Cross-market e-commerce experience",
-      p: "We've managed e-commerce SEO campaigns in the USA, UK, UAE, and Pakistan — understanding specific consumer behavior, search patterns, product terminology, and competitive dynamics of each market.",
+      p: "We've managed e-commerce SEO campaigns in the USA, UK, UAE, and Pakistan understanding specific consumer behavior, search patterns, product terminology, and competitive dynamics of each market.",
     },
   ],
   faqs: [
     {
       q: "How long does it take for e-commerce SEO to produce results?",
-      a: "Technical fixes and on-page optimizations typically show ranking improvements within 60-90 days. Content marketing assets typically rank within 90-120 days of publication. Meaningful organic revenue contribution becomes measurable at 4-6 months. Compounding returns — where rankings continue to climb and organic revenue grows without proportional additional investment — become most pronounced between months 9 and 18.",
+      a: "Technical fixes and on-page optimizations typically show ranking improvements within 60-90 days. Content marketing assets typically rank within 90-120 days of publication. Meaningful organic revenue contribution becomes measurable at 4-6 months. Compounding returns where rankings continue to climb and organic revenue grows without proportional additional investment become most pronounced between months 9 and 18.",
     },
     {
       q: "We have thousands of products. Can you optimize all of them?",
-      a: "We prioritize by revenue potential and ranking opportunity — focusing initially on your highest-revenue product categories and products with strongest ranking signals. For very large catalogs (10,000+ products), we develop scalable optimization frameworks (template-level improvements that improve all products of a type simultaneously) alongside individual optimization of highest-priority products.",
+      a: "We prioritize by revenue potential and ranking opportunity focusing initially on your highest-revenue product categories and products with strongest ranking signals. For very large catalogs (10,000+ products), we develop scalable optimization frameworks (template-level improvements that improve all products of a type simultaneously) alongside individual optimization of highest-priority products.",
     },
     {
       q: "Is SEO better than paid advertising for e-commerce?",
@@ -257,10 +257,10 @@ export const EcommerceSeoContent = {
     },
     {
       q: "Do you work with stores that sell in multiple countries?",
-      a: "Yes — international e-commerce SEO is a specific competency. We implement hreflang tags for language and geographic targeting, develop market-specific keyword research (US English search behavior differs from UK English even for the same products), and where appropriate, build market-specific sub-directory structures with localized content for each target market.",
+      a: "Yes international e-commerce SEO is a specific competency. We implement hreflang tags for language and geographic targeting, develop market-specific keyword research (US English search behavior differs from UK English even for the same products), and where appropriate, build market-specific sub-directory structures with localized content for each target market.",
     },
     {
-      q: "Our store has been penalized — can you help?",
+      q: "Our store has been penalized can you help?",
       a: "Yes. We begin with a full audit to identify penalty type (algorithmic or manual), likely cause (thin content, duplicate content, unnatural links), and full scope of affected pages. Recovery involves resolving root cause, improving content quality across affected pages, disavowing toxic links where applicable, and requesting manual action review if applicable. Recovery timeline is typically 3-6 months for algorithmic recoveries.",
     },
     {
@@ -269,11 +269,11 @@ export const EcommerceSeoContent = {
     },
     {
       q: "How do you handle seasonal e-commerce SEO?",
-      a: "Seasonal e-commerce SEO requires planning 60-90 days ahead of peak demand periods. We develop seasonal content — gift guides, seasonal buying guides, promotional landing pages — before peak season begins, allowing ranking time before demand arrives. We also monitor Google Trends data for your categories to identify emerging seasonal trends early enough to capture them before competitors.",
+      a: "Seasonal e-commerce SEO requires planning 60-90 days ahead of peak demand periods. We develop seasonal content gift guides, seasonal buying guides, promotional landing pages before peak season begins, allowing ranking time before demand arrives. We also monitor Google Trends data for your categories to identify emerging seasonal trends early enough to capture them before competitors.",
     },
     {
       q: "Do you optimize for Google Shopping as well as organic search?",
-      a: "Yes. Google Shopping optimization overlaps with organic e-commerce SEO through Product schema — the same structured data enabling rich results also feeds Google's Shopping Knowledge Graph. We ensure your Product schema is complete and accurate for all products, including GTIN, brand, price, availability, and review data that Google Shopping uses for product listing eligibility and ranking.",
+      a: "Yes. Google Shopping optimization overlaps with organic e-commerce SEO through Product schema the same structured data enabling rich results also feeds Google's Shopping Knowledge Graph. We ensure your Product schema is complete and accurate for all products, including GTIN, brand, price, availability, and review data that Google Shopping uses for product listing eligibility and ranking.",
     },
     {
       q: "How do I get started?",
@@ -283,7 +283,7 @@ export const EcommerceSeoContent = {
   cta: {
     title: "Ready to Build an Organic Revenue Engine for Your Online Store?",
     description:
-      "Paid ads will always be part of a successful e-commerce marketing mix. But stores that rely exclusively on paid traffic are building on rented ground — always one algorithm change, one iOS update, or one budget cut away from losing their revenue source. E-commerce SEO builds your own organic ground. It builds a revenue channel that compounds over time, works without ongoing ad spend, and produces an ever-improving return on every dollar invested in it. Your competitors are already building it. The question is whether you will build it faster.",
+      "Paid ads will always be part of a successful e-commerce marketing mix. But stores that rely exclusively on paid traffic are building on rented ground always one algorithm change, one iOS update, or one budget cut away from losing their revenue source. E-commerce SEO builds your own organic ground. It builds a revenue channel that compounds over time, works without ongoing ad spend, and produces an ever-improving return on every dollar invested in it. Your competitors are already building it. The question is whether you will build it faster.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
     seoLink: "https://clickmastersdigitalmarketing.com/",
@@ -293,6 +293,6 @@ export const EcommerceSeoContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | E-commerce SEO specialist | 10+ years",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing | E-commerce SEO specialist | 10+ years",
   },
 };
