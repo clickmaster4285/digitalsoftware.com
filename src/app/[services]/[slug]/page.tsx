@@ -44,7 +44,7 @@ import { YoutubeSeoContent } from "@/content/YoutubeSeo";
 import { SeoAutomationContent } from "@/content/SeoAutomation";
 import { SeoGlossaryContent } from "@/content/SeoGlossary";
 import { SocialMediaStrategyContent } from "@/content/SocialMediaStrategy";
-import Footer from "@/components/site/Footer";
+
 import { ConversionRateOptimizationContent, SocialMediaMarketingContent } from "@/content/main-services";
 import { EmailMarketingServicesContent } from "@/content/EmailMarketing";
 import { EcommerceMarketingServicesContent } from "@/content/EcommerceMarketing";
@@ -95,6 +95,30 @@ import { FlutterAppDevelopmentContent } from "@/content/FlutterAppDevelopmentCon
 import { BrandingIdentityContent } from "@/content/BrandingIdentityContent";
 import { RoiCalculatorContent } from "@/content/RoiCalculatorContent";
 import { VideoMarketingContent } from "@/content/VideoMarketingContent";
+import { EcommerceDevContent } from "@/content/EcommerceDevelopment";
+import { ShopifyDevelopmentContent } from "@/content/ShopifyDevelopment";
+import { WooCommerceDevelopmentContent } from "@/content/WooCommerceDevelopment";
+import { ShopifyMarketingContent } from "@/content/Shopifymarketingcontent";
+import { WoocommerceMarketingContent } from "@/content/Woocommercemarketingcontent";
+import { EcommerceAnalyticsContent } from "@/content/Ecommerceanalyticscontent";
+import { MagentoDevContent } from "@/content/Magentodevcontent";
+import { BigCommerceMarketingContent } from "@/content/BigcommerceMarketingContent";
+import { AiContentGenerationContent } from "@/content/AiContentGenerationContent";
+import { AiMarketingServicesContent } from "@/content/AiMarketingServicesContent";
+import { ChatbotDevelopmentContent } from "@/content/ChatbotDevelopmentContent";
+import { PredictiveAnalyticsContent } from "@/content/PredictiveAnalyticsContent";
+import { ApiDevelopmentContent } from "@/content/ApiDevelopmentContent";
+import { CrmIntegrationContent } from "@/content/CrmIntegrationContent";
+import { DevopsServicesContent } from "@/content/DevopsServicesContent";
+import { CloudSolutionsContent } from "@/content/CloudSolutionsContent";
+import { IotDevelopmentContent } from "@/content/IotDevelopmentContent";
+import { ArVrDevelopmentContent } from "@/content/ArVrDevelopmentContent";
+import { BlockchainDevelopmentContent } from "@/content/BlockchainDevelopmentContent";
+import { WebsiteSpeedOptimisationContent } from "@/content/WebsiteSpeedOptimisationContent";
+import { PwaDevelopmentContent } from "@/content/PwaDevelopmentContent";
+import { HeadlessCommerceContent } from "@/content/HeadlessCommerceContent";
+import { WebsiteMaintenanceContent } from "@/content/WebsiteMaintenanceContent";
+import { AdaComplianceContent } from "@/content/AdaComplianceContent";
 
 const routedPageRegistry: Record<string, any> = {
 
@@ -197,7 +221,32 @@ const contentRegistry: Record<string, any> = {
   "branding-identity": BrandingIdentityContent,
   "roi-calculator": RoiCalculatorContent,
 
-  "video-marketing":VideoMarketingContent,
+  "video-marketing": VideoMarketingContent,
+  "ecommerce-development": EcommerceDevContent,
+  "shopify-development": ShopifyDevelopmentContent,
+  "woocommerce-development": WooCommerceDevelopmentContent,
+  "shopify-marketing": ShopifyMarketingContent,
+  "woocommerce-marketing": WoocommerceMarketingContent,
+  "ecommerce-analytics": EcommerceAnalyticsContent,
+
+  "magento-development": MagentoDevContent,
+  "bigcommerce-marketing": BigCommerceMarketingContent,
+  "ai-content-generation": AiContentGenerationContent,
+  "ai-marketing": AiMarketingServicesContent,
+  "chatbot-development": ChatbotDevelopmentContent,
+  "predictive-analytics": PredictiveAnalyticsContent,
+  "api-development-integration": ApiDevelopmentContent,
+  "crm-integration": CrmIntegrationContent,
+  "devops": DevopsServicesContent,
+  "cloud-solutions": CloudSolutionsContent,
+  "iot-development": IotDevelopmentContent,
+  "ar-vr-development": ArVrDevelopmentContent,
+  "blockchain-development": BlockchainDevelopmentContent,
+  "website-speed-optimization": WebsiteSpeedOptimisationContent,
+  "pwa-development": PwaDevelopmentContent,
+  "headless-commerce-development": HeadlessCommerceContent,
+  "website-maintenance": WebsiteMaintenanceContent,
+  "ada-compliance-web-accessibility":AdaComplianceContent,
 };
 
 // 404 content for unknown slugs

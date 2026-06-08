@@ -36,6 +36,7 @@ export default function RootLayout({
         <Providers>
           <div className="relative w-full overflow-x-clip">{children}</div>
         </Providers>
+        <Footer/>
       </body>
     </html>
   );
