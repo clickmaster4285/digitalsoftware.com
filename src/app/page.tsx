@@ -59,20 +59,27 @@ export default function Home() {
 
   const t = themes[idx] ?? LIGHT;
 
-  useEffect(() => {
-    const root = document.documentElement;
-    root.style.setProperty("--background", t.bg);
-    root.style.setProperty("--foreground", t.fg);
-    root.style.setProperty("--border", t.fg === DARK.fg ? "0 0% 18%" : "0 0% 88%");
-    root.style.setProperty("--muted-foreground", t.fg === DARK.fg ? "0 0% 65%" : "0 0% 40%");
+useEffect(() => {
+  const root = document.documentElement;
 
-    return () => {
-      root.style.removeProperty("--background");
-      root.style.removeProperty("--foreground");
-      root.style.removeProperty("--border");
-      root.style.removeProperty("--muted-foreground");
-    };
-  }, [t.bg, t.fg]);
+  const isDark = t.bg === DARK.bg;
+
+  root.setAttribute(
+    "data-section-theme",
+    isDark ? "dark" : "light"
+  );
+
+  root.style.setProperty("--background", t.bg);
+  root.style.setProperty("--foreground", t.fg);
+  root.style.setProperty(
+    "--border",
+    t.fg === DARK.fg ? "0 0% 18%" : "0 0% 88%"
+  );
+  root.style.setProperty(
+    "--muted-foreground",
+    t.fg === DARK.fg ? "0 0% 65%" : "0 0% 40%"
+  );
+}, [t.bg, t.fg]);
 
   return (
     <div

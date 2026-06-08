@@ -30,6 +30,9 @@ import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { createPortal } from "react-dom";
 
+import logoWhite from "@/assets/logo-white.webp";
+import logoBlack from "@/assets/logo-black.webp";
+
 type Service = { name: string; desc: string; icon: any; href?: string };
 
 const slugify = (value: string) =>
@@ -674,6 +677,30 @@ export const Navbar = () => {
   const [megaOpen, setMegaOpen] = useState(false);
   const [drawerOpen, setDrawerOpen] = useState(false);
   const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const [isDark, setIsDark] = useState(false);
+  
+
+  useEffect(() => {
+const updateTheme = () => {
+  const theme =
+    document.documentElement.getAttribute("data-section-theme") ?? "dark";
+
+  setIsDark(theme === "dark");
+};
+
+  updateTheme();
+
+  const observer = new MutationObserver(updateTheme);
+
+  observer.observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ["data-section-theme"],
+  });
+
+  return () => observer.disconnect();
+  }, []);
+  
+
 
   const openMega = () => {
     if (closeTimer.current) clearTimeout(closeTimer.current);
@@ -702,10 +729,15 @@ export const Navbar = () => {
         <div className="max-w-5xl mx-auto flex items-center justify-between gap-2 sm:gap-4 rounded-full bg-background/80 backdrop-blur-xl border border-border px-3 sm:px-4 py-3 shadow-sm">
           {/* Logo */}
           <a href="/" className="flex items-center gap-2 font-display text-base sm:text-xl shrink-0">
-            <div className="w-7 h-7 rounded-full overflow-hidden">
-              <Image src="/favicon.ico" alt="icon" width={28} height={28} className="object-cover" />
-            </div>
-            ClickMasters
+           
+<Image
+  src={isDark ? logoWhite : logoBlack}
+  alt="ClickMasters"
+  className="w-24 sm:w-28 h-auto"
+  priority
+/>
+            
+          
           </a>
 
           {/* Desktop nav */}
