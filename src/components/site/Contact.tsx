@@ -1,57 +1,68 @@
 import { motion } from "framer-motion";
 
 export const Contact = () => (
-  <section id="contact" className="py-20 container text-center relative">
-    <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-8">— Let's talk</p>
+  <section id="contact" className="py-12 sm:py-20 container text-center relative px-4 sm:px-6">
+    <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-6 sm:mb-8">
+      — Let's talk
+    </p>
+    
     <motion.h2
-      initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true }} transition={{ duration: 1 }}
-      className="font-display text-[clamp(3rem,12vw,12rem)] leading-[0.9] text-balance"
+      initial={{ opacity: 0, y: 40 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true }}
+      transition={{ duration: 1 }}
+      className="font-display text-[clamp(2.5rem,10vw,12rem)] leading-[1.1] sm:leading-[0.9] text-balance"
     >
       Got a <em>vision?</em>
       <br />Let's build it.
     </motion.h2>
     
-    {/* Email */}
+    {/* Email - Mobile optimized */}
     <a
       href="mailto:sales@clickmastersdigitalmarketing.com"
-      className="mt-16 inline-flex items-center gap-3 rounded-full bg-background text-foreground px-10 py-5 text-lg font-medium hover:scale-105 transition-transform"
+      className="mt-10 sm:mt-16 inline-flex items-center gap-2 sm:gap-3 rounded-full bg-background text-foreground px-6 sm:px-10 py-3 sm:py-5 text-sm sm:text-lg font-medium hover:scale-105 transition-transform break-all sm:break-normal"
     >
       sales@clickmastersdigitalmarketing.com
-      <span aria-hidden>→</span>
+      <span aria-hidden className="flex-shrink-0">→</span>
     </a>
 
-    {/* Phone Numbers
-    <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
+    {/* Phone Numbers - Uncommented and mobile optimized */}
+    <div className="mt-6 sm:mt-8 flex flex-wrap items-center justify-center gap-3 sm:gap-4 px-2">
       <a
         href="tel:+447988576086"
-        className="inline-flex items-center gap-2 rounded-full bg-background/80 text-foreground px-6 py-3 text-sm font-medium hover:scale-105 transition-transform backdrop-blur-sm"
+        className="inline-flex items-center gap-1.5 sm:gap-2 rounded-full bg-background/80 text-foreground px-4 sm:px-6 py-2.5 sm:py-3 text-xs sm:text-sm font-medium hover:scale-105 transition-transform backdrop-blur-sm"
       >
-        🇬🇧 UK: +44 7988 576086
+        <span className="text-base sm:text-lg">🇬🇧</span>
+        <span className="hidden xs:inline">UK:</span>
+        <span>+44 7988 576086</span>
       </a>
+      
       <a
         href="tel:+13252024074"
-        className="inline-flex items-center gap-2 rounded-full bg-background/80 text-foreground px-6 py-3 text-sm font-medium hover:scale-105 transition-transform backdrop-blur-sm"
+        className="inline-flex items-center gap-1.5 sm:gap-2 rounded-full bg-background/80 text-foreground px-4 sm:px-6 py-2.5 sm:py-3 text-xs sm:text-sm font-medium hover:scale-105 transition-transform backdrop-blur-sm"
       >
-        🇺🇸 US: +1 325 202 4074
+        <span className="text-base sm:text-lg">🇺🇸</span>
+        <span className="hidden xs:inline">US:</span>
+        <span>+1 325 202 4074</span>
       </a>
+      
       <a
         href="tel:+923325394285"
-        className="inline-flex items-center gap-2 rounded-full bg-background/80 text-foreground px-6 py-3 text-sm font-medium hover:scale-105 transition-transform backdrop-blur-sm"
+        className="inline-flex items-center gap-1.5 sm:gap-2 rounded-full bg-background/80 text-foreground px-4 sm:px-6 py-2.5 sm:py-3 text-xs sm:text-sm font-medium hover:scale-105 transition-transform backdrop-blur-sm"
       >
-        🇵🇰 PK: +92 332 5394285
+        <span className="text-base sm:text-lg">🇵🇰</span>
+        <span className="hidden xs:inline">PK:</span>
+        <span>+92 332 5394285</span>
       </a>
-    </div> */}
+    </div>
 
-
-
-    {/* <footer className="mt-32 pt-10 border-t border-background/20 flex justify-between text-sm opacity-60 flex-wrap gap-4">
+    <footer className="mt-16 sm:mt-32 pt-8 sm:pt-10 border-t border-background/20 flex flex-col sm:flex-row justify-between items-center text-xs sm:text-sm opacity-60 gap-4">
       <span>© 2026 ClickMasters Digital Marketing Agency</span>
       <div className="flex gap-6">
-        <a href="#">Instagram</a>
-        <a href="#">Dribbble</a>
-        <a href="#">LinkedIn</a>
+        <a href="#" className="hover:opacity-100 transition-opacity">Instagram</a>
+        <a href="#" className="hover:opacity-100 transition-opacity">Dribbble</a>
+        <a href="#" className="hover:opacity-100 transition-opacity">LinkedIn</a>
       </div>
-    </footer> */}
+    </footer>
   </section>
 );
