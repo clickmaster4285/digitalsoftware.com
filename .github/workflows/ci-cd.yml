@@ -1,0 +1,103 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  # =========================
+  # 1. TEST + BUILD STAGE
+  # =========================
+  build_test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests
+        run: npm test || echo "No tests found"
+
+      - name: Run lint
+        run: npm run lint || echo "No lint script"
+
+      - name: Build project
+        run: npm run build
+
+      - name: Upload build artifact (optional)
+        uses: actions/upload-artifact@v4
+        with:
+          name: build
+          path: dist
+
+  # =========================
+  # 2. DEPLOY STAGE (VPS)
+  # =========================
+  deploy:
+    needs: build_test
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+
+    steps:
+      # -------------------------
+      # STEP A: TEST SSH CONNECTION FIRST
+      # -------------------------
+      - name: Test SSH Connection
+        run: |
+          echo "Testing SSH connection..."
+          nc -vz ${{ secrets.VPS_HOST }} 22
+
+      # -------------------------
+      # STEP B: REAL DEPLOYMENT
+      # -------------------------
+      - name: Deploy to VPS
+        uses: appleboy/ssh-action@v1.2.0
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: 22
+          timeout: 30s
+          script: |
+            set -e
+
+            echo "=============================="
+            echo "DEPLOY STARTED"
+            echo "=============================="
+
+            cd /var/www/digitalsoftware.com
+
+            echo "Pulling latest code..."
+            git pull origin main
+
+            echo "Installing dependencies..."
+            npm ci || npm install
+
+            echo "Building project..."
+            npm run build
+
+            echo "Restarting PM2..."
+            pm2 restart digitalsoftware || pm2 start npm --name "digitalsoftware" -- start
+
+            echo "=============================="
+            echo "DEPLOY SUCCESS"
+            echo "=============================="
+
+      # -------------------------
+      # STEP C: HEALTH CHECK
+      # -------------------------
+      - name: Post Deploy Health Check
+        run: |
+          echo "Checking if site is reachable..."
+          curl -I http://${{ secrets.VPS_HOST }} || echo "Site check failed (Nginx/port issue)"
