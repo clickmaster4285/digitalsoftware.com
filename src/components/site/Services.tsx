@@ -1,5 +1,7 @@
 import { motion } from "framer-motion";
 import { ExternalLink } from "lucide-react";
+import servicesImg from "@/assets/services.png";
+import Image from "next/image";
 
 const services = [
   {
@@ -52,16 +54,27 @@ const services = [
 
 export const Services = () => (
   <section id="services" className="py-32 container">
-   <div className="grid md:grid-cols-12 gap-12 mb-20">
-  
-  <div className="md:col-span-4">
+  <div className="grid md:grid-cols-12 gap-12 mb-20 items-center">
+
+  {/* LEFT SIDE IMAGE */}
+<div className="md:col-span-4 flex justify-center md:justify-start">
+  <Image
+    src={servicesImg}
+    alt="Clickmasters Services"
+    width={500}
+    height={500}
+    className="w-full max-w-sm h-auto object-contain"
+    priority
+  />
+</div>
+
+  {/* RIGHT SIDE TEXT */}
+  <div className="md:col-span-8">
+    
     <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">
       Services
     </p>
-  </div>
 
-  {/* Wrap heading + paragraph together */}
-  <div className="md:col-span-8">
     <h2 className="font-display text-5xl md:text-7xl leading-[1.05] text-balance">
       Clickmasters <em>Digital Marketing</em> Services
     </h2>

@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { ArrowRight } from "lucide-react";
 
 export const Contact = () => (
   <section id="contact" className="py-12 sm:py-20 container text-center relative px-4 sm:px-6">
@@ -18,13 +19,13 @@ export const Contact = () => (
     </motion.h2>
     
     {/* Email - Mobile optimized */}
-    <a
-      href="mailto:sales@clickmastersdigitalmarketing.com"
-      className="mt-10 sm:mt-16 inline-flex items-center gap-2 sm:gap-3 rounded-full bg-background text-foreground px-6 sm:px-10 py-3 sm:py-5 text-sm sm:text-lg font-medium hover:scale-105 transition-transform break-all sm:break-normal"
-    >
-      sales@clickmastersdigitalmarketing.com
-      <span aria-hidden className="flex-shrink-0">→</span>
-    </a>
+<a
+  href="mailto:sales@clickmastersdigitalmarketing.com"
+  className="group mt-10 sm:mt-16 inline-flex items-center gap-2 sm:gap-3 rounded-full bg-background text-foreground px-6 sm:px-10 py-3 sm:py-5 text-sm sm:text-lg font-medium hover:scale-105 transition-transform break-all sm:break-normal"
+>
+  sales@clickmastersdigitalmarketing.com
+  <ArrowRight className="w-4 h-4 sm:w-5 sm:h-5 flex-shrink-0 transition-transform group-hover:translate-x-1" />
+</a>
 
     {/* Phone Numbers - Uncommented and mobile optimized */}
     <div className="mt-6 sm:mt-8 flex flex-wrap items-center justify-center gap-3 sm:gap-4 px-2">
