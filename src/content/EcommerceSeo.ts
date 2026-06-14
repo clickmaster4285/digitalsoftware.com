@@ -10,11 +10,11 @@ export const EcommerceSeoContent = {
   },
   hero: {
     tag: "[ Service · 15 ] E-Commerce SEO",
-    title: "E-Commerce SEO",
+    title: "E-Commerce Analytics  ",
     titleHighlight: "Services",
-    subtitle: "— organic revenue that scales without scaling ad spend.",
+    subtitle: "— Know Exactly What Is Driving Revenue and What Is Wasting Budget.",
     description:
-      "Here is the math that destroys most e-commerce businesses: every dollar you spend on paid ads produces traffic only while the dollar is spent. The moment you pause the campaign, the traffic stops. The revenue stops. You are on a treadmill that requires constant acceleration just to stay still. Organic search does not work that way. A category page that ranks in position one for a 40,000-search-per-month keyword generates traffic every day whether you spend on ads or not.",
+      "Expert e-commerce analytics — GA4 implementation, BigQuery, multi-touch attribution, cohort analysis & CRO dashboards. Shopify & WooCommerce. Free analytics audit.",
     stats: [
       { k: "89%", v: "Organic revenue increase (case)" },
       { k: "14,000", v: "Monthly organic visitors from zero" },
@@ -295,4 +295,60 @@ export const EcommerceSeoContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | E-commerce SEO specialist | 10+ years",
   },
+  schema: {
+  Service: {
+    serviceType: "E-Commerce Analytics Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How long does it take for e-commerce SEO to produce results?",
+      "We have thousands of products. Can you optimize all of them?",
+      "Is SEO better than paid advertising for e-commerce?",
+      "Do you work with stores that sell in multiple countries?",
+      "Our store has been penalized can you help?",
+      "What platforms do you support?",
+      "How do you handle seasonal e-commerce SEO?",
+      "Do you optimize for Google Shopping as well as organic search?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "On-Page SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/on-page-seo-services/"
+      }
+    ]
+  }
+}
 };

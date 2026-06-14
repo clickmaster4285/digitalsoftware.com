@@ -14,7 +14,7 @@ export const ConversionRateOptimizationContent = {
     titleHighlight: "More Revenue",
     subtitle: "",
     description:
-      "You are already paying for the traffic. The question is whether it is converting. Most businesses with a traffic problem are not actually facing a traffic problem. They are facing a conversion problem — and treating it as a traffic problem by spending more on paid advertising, investing more in SEO, and pushing more people onto a website or landing page that converts at 1.8% when it should be converting at 5% or 6%.",
+      "Expert CRO services — A/B testing, landing page optimisation, e-commerce CRO, SaaS onboarding. Evidence-led, revenue-measured. USA, UK & UAE. Free CRO audit.",
     stats: [
       { k: "1.8% → 5%", v: "conversion rate impact" },
       { k: "$280K", v: "monthly revenue increase (client example)" },
@@ -272,5 +272,60 @@ export const ConversionRateOptimizationContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | CRO specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Conversion Rate Optimisation",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is conversion rate optimisation?",
+      "How much can CRO improve my conversion rate?",
+      "How long does CRO take to produce results?",
+      "How much traffic do I need for CRO to be effective?",
+      "What tools do you use for CRO?",
+      "Is CRO only for e-commerce, or does it apply to other business types?",
+      "What is the difference between CRO and UX design?",
+      "Do you need access to our website to implement CRO tests?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "Conversion Rate Optimisation Services",
+        url: "https://clickmastersdigitalmarketing.com/conversion-rate-optimization/"
+      }
+    ]
+  }
+}
 };

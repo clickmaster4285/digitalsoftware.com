@@ -14,7 +14,7 @@ export const IotDevelopmentContent = {
     titleHighlight: "Connect Your Devices. Unlock Your Data. Transform Your Operations.",
     subtitle: "",
     description:
-      "Before: your physical assets are generating enormous amounts of operationally significant data that you cannot see. The manufacturing equipment that is showing early signs of wear before it fails — data that a sensor and an analytics platform could surface days before the breakdown occurs, but that currently arrives as an unplanned maintenance event. The cold chain logistics operation whose temperature and humidity conditions are manually logged at check points — creating compliance documentation gaps and the occasional spoilage event that a continuous IoT monitoring system would prevent. The commercial building whose energy consumption is managed on fixed schedules that do not respond to occupancy patterns — overspending on HVAC and lighting because the building cannot see how it is being used.\n\nAfter: your physical operations are digitally connected. Sensors and edge devices capture the condition, location, and performance data of your assets continuously. That data flows to a cloud platform where it is processed, analysed, and surfaced as the operational intelligence that prevents failures, optimises resource usage, and enables the data-driven decisions that physical operations have historically been unable to make. The manufacturing line that predicts maintenance needs before they become failures. The cold chain that provides continuous regulatory-grade temperature documentation. The building that responds to occupancy in real time.\n\nBridge: the difference between before and after is an IoT development programme — the connected device architecture, the firmware development, the cloud integration, and the data platform that transforms physical assets from dumb infrastructure into intelligent, connected operational systems. At Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we design and build IoT solutions for manufacturing, healthcare, logistics, agriculture, smart building, and industrial applications.",
+      "IoT development company — firmware, cloud platforms, dashboards, predictive maintenance and cold chain monitoring. Manufacturing, healthcare, logistics, agriculture.",
     stats: [
       { k: "78%", v: "Unplanned downtime reduction" },
       { k: "£340K", v: "Annual cold chain savings" },
@@ -183,5 +183,56 @@ export const IotDevelopmentContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
+  },schema: {
+  Service: {
+    serviceType: "IoT Development",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK", "CA", "AU"]
   },
+
+  FAQPage: {
+    items: [
+      "What sectors do you develop IoT solutions for?",
+      "How long does an IoT solution take to develop?",
+      "What connectivity protocol is right for my IoT application?",
+      "How do you handle IoT security for industrial and healthcare applications?",
+      "Can you integrate IoT data with our existing ERP or SCADA systems?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Software Development",
+        url: "https://clickmastersdigitalmarketing.com/software-development-services/"
+      },
+      {
+        position: 3,
+        name: "IoT Development Services",
+        url: "https://clickmastersdigitalmarketing.com/iot-development-services/"
+      }
+    ]
+  }
+}
 };

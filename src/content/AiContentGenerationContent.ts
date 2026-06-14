@@ -14,7 +14,7 @@ export const AiContentGenerationContent = {
     titleHighlight: "Scale Your Content. Maintain Your Quality. Protect Your Rankings.",
     subtitle: "",
     description:
-      "The content production problem is one of the most commercially constraining challenges in modern digital marketing. Every business that has invested in content marketing understands the dynamic: the editorial calendar that requires 40 pieces of content per month to sustain the organic traffic momentum the programme has built, the in-house writing team that can produce 12 pieces at the quality standard the SEO programme requires, the agency quotation that makes 40 pieces per month a budget conversation rather than a content strategy conversation. The gap between content demand and content production capacity is where most content marketing programmes stall.\n\nThe testimonies from businesses that have hit this ceiling are consistent: the SEO programme that was generating 340 organic leads per month before the content production slowdown, and 180 leads per month after — because the topical coverage gaps created by insufficient content production reduced the programme's ranking surface. The B2B thought leadership programme that required 16 LinkedIn posts per month to maintain the algorithmic reach that drove pipeline, managed to produce 6, and watched the audience engagement metrics decline in direct proportion.\n\nAI content generation is the technology that addresses this production gap — enabling content teams to scale their output significantly without proportionate increase in headcount, while maintaining the editorial quality, the brand voice consistency, and the SEO effectiveness that the programme requires. At Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we provide AI content generation services — the human-directed, AI-assisted content production programmes that deliver the content volume your digital marketing requires at the quality standard it demands.",
+      "AI content generation services — SEO articles, social media, product descriptions, email and multilingual content. Human-directed, AI-assisted. Quality at scale.",
     stats: [
       { k: "280%", v: "Organic traffic growth for B2B client" },
       { k: "4x", v: "Blog output scaling" },
@@ -197,5 +197,56 @@ export const AiContentGenerationContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
+  },schema: {
+  Service: {
+    serviceType: "AI Content Generation",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK", "CA", "AU"]
   },
+
+  FAQPage: {
+    items: [
+      "Will AI-generated content hurt our search rankings?",
+      "How do you ensure AI content reflects genuine expertise?",
+      "What is the typical content production capacity of an AI content programme?",
+      "Is AI content detectable by Google?",
+      "What AI tools do you use?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "AI Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ai-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "AI Content Generation Services",
+        url: "https://clickmastersdigitalmarketing.com/ai-content-generation-services/"
+      }
+    ]
+  }
+}
 };

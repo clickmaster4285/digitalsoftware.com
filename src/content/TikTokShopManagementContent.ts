@@ -14,7 +14,7 @@ export const TikTokShopManagementContent = {
     titleHighlight: "Fastest-Growing Commerce Platform",
     subtitle: "",
     description:
-      "TikTok has fundamentally changed how consumer products are discovered, evaluated, and purchased. What started as a short-form video entertainment platform has become a full-stack commerce engine: 1.5 billion monthly active users, the highest engagement rates of any social platform, and in-app shopping that converts content viewers into buyers without ever leaving the app. TikTok Shop — the in-app marketplace that enables brands to list products, process payments, and fulfil orders entirely within TikTok — generated over $20 billion in gross merchandise value in 2023 and is growing faster than any other social commerce platform.",
+      "Expert TikTok Shop management — account setup, creator affiliates, live shopping, Shop Ads & Spark Ads. USA, UK & UAE. Free TikTok Shop consultation.",
     stats: [
       { k: "1.5B", v: "monthly active users" },
       { k: "£280K", v: "GMV in first 6 months (client example)" },
@@ -257,4 +257,59 @@ export const TikTokShopManagementContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | TikTok Shop specialist | 10+ years",
   },
+  schema: {
+  Service: {
+    serviceType: "TikTok Shop Management",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "What is TikTok Shop and how does it work?",
+      "How much does it cost to sell on TikTok Shop?",
+      "What products sell best on TikTok Shop?",
+      "How long does it take to set up TikTok Shop?",
+      "Do I need a large following on TikTok to use TikTok Shop?",
+      "How do TikTok Shop creator affiliates work?",
+      "Is TikTok Shop available in my country?",
+      "How do I get started with TikTok Shop?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "E-Commerce Marketing",
+        url: "https://clickmastersdigitalmarketing.com/e-commerce-marketing/"
+      },
+      {
+        position: 3,
+        name: "TikTok Shop Management",
+        url: "https://clickmastersdigitalmarketing.com/tiktok-shop-management/"
+      }
+    ]
+  }
+}
 };

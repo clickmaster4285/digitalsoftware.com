@@ -12,9 +12,9 @@ export const SeoAutomationContent = {
     tag: "[ Service · 21 ] SEO Automation",
     title: "SEO Automation",
     titleHighlight: "Services",
-    subtitle: "— stop doing manually what machines can do better and faster.",
+    subtitle: "Stop Doing Manually What Machines Can Do Better and Faster.",
     description:
-      "Every SEO programme at scale contains a set of repeating, time-consuming processes that are fundamentally mechanical: the weekly rank tracking that requires checking 500 keywords across 12 clients, recording movements, and identifying positions that need attention. The monthly technical audit that crawls a 50,000-page site, compares results to last month, and flags new issues. These processes are not where SEO expertise creates value. They are where SEO time disappears.",
+      "SEO automation services — rank tracking automation, technical audit pipelines, content brief generation, internal linking and competitor monitoring for agencies and in-house teams.",
     stats: [
       { k: "17-27h", v: "Weekly manual SEO time" },
       { k: "2-4h", v: "After automation" },
@@ -252,4 +252,57 @@ export const SeoAutomationContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | SEO automation specialist | 10+ years",
   },
+
+  schema: {
+  Service: {
+    serviceType: "SEO Automation",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "Which SEO tasks are best suited to automation?",
+      "What tools do you use for SEO automation?",
+      "How long does it take to implement SEO automation?",
+      "Will SEO automation work for my CMS and existing toolset?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "SEO Automation Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-automation-services/"
+      }
+    ]
+  }
+}
 };

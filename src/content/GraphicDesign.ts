@@ -14,7 +14,7 @@ export const GraphicDesignContent = {
     titleHighlight: "Services",
     subtitle: "— brand visuals that work as hard as your business does.",
     description:
-      "Your visuals speak before your words do. In the fraction of a second before a prospect reads a headline, processes a value proposition, or evaluates a price they have already formed a judgment about whether your business looks like one they want to work with. That judgment is formed by design: the typeface that communicates authority or casualness, the colour palette that signals sophistication or accessibility, the layout that demonstrates professionalism or amateur effort, the photography style that places the brand in its competitive context.",
+      "Expert graphic design — brand identity, marketing collateral, social media, packaging, illustration & design systems. USA, UK & UAE. Get your design quote today.",
     stats: [
       { k: "75%", v: "Judge credibility by design" },
       { k: "94%", v: "First impressions are design" },
@@ -280,5 +280,60 @@ export const GraphicDesignContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Graphic design specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Graphic Design Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "How much does a professional logo and brand identity cost?",
+      "How long does a brand identity project take?",
+      "Do you work on individual design projects or ongoing design retainers?",
+      "What files do you deliver for logo and brand identity work?",
+      "Can you refresh an existing brand without a complete redesign?",
+      "Do you handle print production and supplier management?",
+      "Can you design for both print and digital from the same brief?",
+      "Do you create all design assets in-house or outsource to freelancers?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "Graphic Design Services",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/graphic-design/"
+      }
+    ]
+  }
+}
 };

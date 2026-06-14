@@ -10,11 +10,11 @@ export const YoutubeAdsManagementContent = {
   },
   hero: {
     tag: "[ Service · 07 ] YOUTUBE ADS",
-    title: "YouTube Ads Management Services — Video Advertising That",
-    titleHighlight: "Converts",
-    subtitle: "",
+    title: "YouTube Ads Management",
+    titleHighlight: "Services",
+    subtitle: "Video Advertising That Converts | Clickmasters.",
     description:
-      "YouTube is the world's second largest search engine. With over 2.7 billion monthly active users watching more than a billion hours of video every day, it is not a social media platform. It is the world's largest on-demand video library — and for advertisers, it is the most powerful combination of search intent, audience targeting, and creative storytelling available in digital advertising. More importantly, YouTube is where your prospects go before they buy. They watch product reviews before purchasing. They watch tutorial videos to understand how software works before booking a demo. They watch comparison videos between competing brands before making their final decision.",
+      "Expert YouTube Ads management for brand awareness, lead generation & e-commerce. TrueView, bumper & Performance Max video campaigns. Free YouTube Ads audit.",
     stats: [
       { k: "2.7B+", v: "monthly active users" },
       { k: "38%", v: "demo requests from YouTube (client example)" },
@@ -299,4 +299,60 @@ export const YoutubeAdsManagementContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | YouTube Ads specialist | 10+ years video advertising expertise",
   },
+  schema: {
+  Service: {
+    serviceType: "YouTube Ads Management",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How much does YouTube advertising cost?",
+      "What kind of video do I need to run YouTube Ads?",
+      "Can YouTube Ads target specific audiences the way Google and Meta can?",
+      "How does YouTube Ads differ from running ads on TikTok?",
+      "How do I measure whether YouTube Ads are actually driving revenue?",
+      "We have never produced video content before. Can we still run YouTube Ads?",
+      "How long does it take for YouTube Ads to start producing results?",
+      "Should YouTube Ads be part of my strategy if I'm already running Google Search Ads?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "PPC / Paid Ads",
+        url: "https://clickmastersdigitalmarketing.com/ppc-paid-ads/"
+      },
+      {
+        position: 3,
+        name: "YouTube Ads Management",
+        url: "https://clickmastersdigitalmarketing.com/youtube-ads-management/"
+      }
+    ]
+  }
+}
 };

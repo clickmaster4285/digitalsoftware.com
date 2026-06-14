@@ -18,7 +18,7 @@ export const AmazonMarketingServicesContent = {
     title: "Amazon Marketing Agency",
     titleHighlight: "— Rank Higher. Convert Better. Sell More on Amazon.",
     subtitle: "",
-    description: "Amazon is the largest product search engine in the world. More than 63% of all online product searches now begin on Amazon not on Google. For consumer product brands, Amazon is not an optional sales channel. It is where the majority of purchase-intent search happens, and the question is not whether to be on Amazon but how to win there.",
+    description: "Expert Amazon marketing agency — listing optimisation, Sponsored Ads, A+ Content, Amazon SEO & Vine. FBA brand specialists. USA, UK & UAE. Free Amazon audit.",
     stats: [
       { k: "218%", v: "Revenue increase (electronics)" },
       { k: "41%", v: "ACoS reduction (home & kitchen)" },
@@ -289,5 +289,59 @@ export const AmazonMarketingServicesContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Amazon marketing specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Amazon Marketing Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is Amazon marketing and what does an Amazon marketing agency do?",
+      "How does Amazon SEO differ from Google SEO?",
+      "How much does Amazon advertising management cost?",
+      "What is ACoS and what is a good Amazon advertising ACoS?",
+      "Do I need Amazon Brand Registry to sell effectively on Amazon?",
+      "How long does it take to rank on Amazon?",
+      "Can you help with Amazon FBA and fulfilment strategy?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "E-Commerce Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-marketing/"
+      },
+      {
+        position: 3,
+        name: "Amazon Marketing Services",
+        url: "https://clickmastersdigitalmarketing.com/ecommerce-services/amazon-marketing/"
+      }
+    ]
+  }
+}
 };

@@ -14,7 +14,7 @@ export const CloudSolutionsContent = {
     titleHighlight: "The Infrastructure That Scales With Your Business",
     subtitle: "",
     description:
-      "Every business running on-premises servers or unoptimised cloud infrastructure is paying a tax on growth. The tax appears in different line items depending on the specific situation: the capital expenditure of hardware that depreciates while sitting underutilised at 20% capacity, the emergency credit card charges when a traffic spike takes down infrastructure that was not designed to scale, the engineering hours spent managing servers instead of building product, the regulatory exposure from data stored on infrastructure without the security controls and compliance certifications that enterprise customers and auditors require.\n\nCloud infrastructure, designed correctly, eliminates these costs and replaces them with a different economic model: pay for what you use, scale in seconds rather than weeks, access enterprise-grade security and compliance infrastructure without building it yourself, and free the engineering team from infrastructure operations to focus on the product and business capabilities that generate revenue.\n\nThe challenge is not that cloud is complex — it is that cloud is easy to do expensively. Organisations that lift-and-shift on-premises workloads to cloud VMs without re-architecting for cloud-native patterns pay cloud prices for on-premises economics. Organisations that over-provision cloud resources to avoid outages pay for capacity they never use. Organisations that deploy without cost monitoring discover their cloud bill growing faster than their revenue.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we design, implement, and optimise cloud solutions for businesses across the USA, UK, UAE, and Pakistan — from first cloud migrations to multi-cloud architectures, serverless transformations, and the FinOps programmes that bring cloud costs under commercial control.",
+      "Expert cloud solutions — AWS, GCP, Azure, Kubernetes, serverless & FinOps. Cloud migration, re-architecture & cost optimisation. USA, UK & UAE. Free consultation.",
     stats: [
       { k: "62%", v: "Infrastructure cost reduction" },
       { k: "99.97%", v: "Post-migration availability" },
@@ -241,5 +241,59 @@ export const CloudSolutionsContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Cloud solutions architect | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Cloud Solutions",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "How do I know if my business is ready to move to the cloud?",
+      "How much can cloud migration reduce my infrastructure costs?",
+      "What is the difference between cloud migration and cloud-native development?",
+      "How long does a cloud migration take?",
+      "Which cloud provider should I use — AWS, GCP, or Azure?",
+      "What is FinOps and why does my business need it?",
+      "Do you provide ongoing cloud management after migration?",
+      "How do you ensure cloud security during and after migration?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "App & Software Development",
+        url: "https://clickmastersdigitalmarketing.com/app-software-development/"
+      },
+      {
+        position: 3,
+        name: "Cloud Solutions",
+        url: "https://clickmastersdigitalmarketing.com/cloud-solutions-services/"
+      }
+    ]
+  }
+}
 };

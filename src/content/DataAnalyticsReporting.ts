@@ -13,7 +13,7 @@ export const DataAnalyticsReportingContent = {
     title: "Data Analytics &",
     titleHighlight: "Reporting Services",
     subtitle: "— turn your business data into decisions that drive growth.",
-    description: "Every business is generating more data than it has ever generated. Website traffic. CRM records. Email engagement. Ad spend. Sales pipeline. Customer transactions. Product usage. Support tickets. Social media metrics. The data exists across a dozen systems, reported in a dozen dashboards, assembled in a dozen spreadsheets that someone in the marketing or analytics team rebuilds every week.\n\nAnd yet, at the end of every month, the question the CEO asks in the management meeting \"what is working and what is not, and what should we do differently?\" takes three hours to answer partially, instead of three seconds to answer completely.",
+    description: "Expert data analytics — BigQuery, dbt, Looker, GA4, unified dashboards & modern data stack. USA, UK & UAE. Free analytics consultation.",
     stats: [
       { k: "87%", v: "Reporting time reduction" },
       { k: "28h → 3.5h", v: "Weekly report time" },
@@ -284,5 +284,59 @@ export const DataAnalyticsReportingContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "Serving businesses in USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Data analytics specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Data Analytics Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is the difference between reporting and analytics?",
+      "What is a data warehouse and do I need one?",
+      "Which BI tool should I use Looker, Tableau, or Power BI?",
+      "How long does it take to implement analytics infrastructure?",
+      "How much does data analytics implementation cost?",
+      "What is dbt and why is it used in modern analytics?",
+      "How do I get my team to actually use the analytics dashboards?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "AI Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ai-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Data Analytics & Reporting",
+        url: "https://clickmastersdigitalmarketing.com/data-analytics-reporting/"
+      }
+    ]
+  }
+}
 };

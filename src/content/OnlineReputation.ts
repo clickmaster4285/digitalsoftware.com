@@ -18,7 +18,7 @@ export const OnlineReputationManagementContent = {
     title: "Online Reputation Management Services",
     titleHighlight: "— Control the Narrative. Protect What You Have Built.",
     subtitle: "",
-    description: "A single Google search is now the first touchpoint in almost every significant commercial decision. Before a prospect signs the contract, the patient books the appointment, the jobseeker accepts the offer, or the investor wires the funds they search. What they find in those first ten results determines whether the conversation continues or ends before it starts.",
+    description: "Expert online reputation management — review management, Google ORM, counter-content & crisis response. USA, UK & UAE. Free reputation audit.",
     stats: [
       { k: "3.1 → 4.4", v: "Google rating improvement" },
       { k: "38%", v: "Patient bookings increase" },
@@ -282,5 +282,59 @@ export const OnlineReputationManagementContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Online reputation management specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Online Reputation Management Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is online reputation management and why does it matter?",
+      "Can you remove negative Google reviews?",
+      "How long does online reputation management take?",
+      "How much does online reputation management cost?",
+      "What is the difference between ORM and SEO?",
+      "How do you handle fake or malicious review attacks?",
+      "Do you work with personal reputation management as well as business reputation?",
+      "What monitoring tools do you use?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Services",
+        url: "https://clickmastersdigitalmarketing.com/services/"
+      },
+      {
+        position: 3,
+        name: "Online Reputation Management",
+        url: "https://clickmastersdigitalmarketing.com/online-reputation-management/"
+      }
+    ]
+  }
+}
 };

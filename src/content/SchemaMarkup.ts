@@ -12,9 +12,9 @@ export const SchemaMarkupContent = {
     tag: "[ Service · 19 ] Schema Markup",
     title: "Schema Markup",
     titleHighlight: "Services",
-    subtitle: "— get the rich results your competitors are already using.",
+    subtitle: "Get the Rich Results Your Competitors Are Already Using.",
     description:
-      "Open Google and search for your primary service category. Look at the results. Some listings show star ratings with review counts. Some show FAQ dropdowns that expand directly in the search results. Some show breadcrumbs, pricing information, event dates, or product availability. Others show just a plain blue link and a description. The difference between a result with rich features and a plain result is not the quality of the website. It is schema markup the structured data code that tells Google specifically what your page contains.",
+      "Schema markup services — JSON-LD implementation for FAQ, Review, Product, LocalBusiness, Service and specialist healthcare/legal/financial schema. Rich results and AI search visibility.",
     stats: [
       { k: "30+", v: "Schema types for rich results" },
       { k: "4,400/mo", v: "Search volume" },
@@ -260,4 +260,59 @@ export const SchemaMarkupContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Schema markup specialist | 10+ years",
   },
+
+
+  schema: {
+  Service: {
+    serviceType: "Schema Markup Implementation",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How quickly do rich results appear after schema implementation?",
+      "Does schema markup directly improve ranking positions?",
+      "What is the difference between JSON-LD and Microdata schema?",
+      "Can incorrect schema markup hurt rankings?",
+      "Do you maintain schema markup after implementation?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Technical SEO",
+        url: "https://clickmastersdigitalmarketing.com/technical-seo-services/"
+      },
+      {
+        position: 3,
+        name: "Schema Markup Services",
+        url: "https://clickmastersdigitalmarketing.com/schema-markup-services/"
+      }
+    ]
+  }
+}
 };

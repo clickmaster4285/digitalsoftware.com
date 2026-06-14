@@ -19,8 +19,8 @@ export const EcommerceDevContent = {
     tag: "[ Service · 06 ] E-Commerce Development",
     title: "E-Commerce Development",
     titleHighlight: "Services",
-    subtitle: "— build online stores that sell.",
-    description: "Every e-commerce website has two jobs. The first is to show products. The second and the one that actually determines whether the business succeeds is to convert visitors into buyers. Most e-commerce websites do the first job adequately and the second job poorly.\n\nThe gap between an e-commerce website that generates revenue and one that merely displays products is not marketing. It is development. It is the checkout flow that surfaces shipping costs before the payment step rather than at the payment step. It is the product page that answers every purchase question above the fold rather than burying answers in a description no one reads. It is the site speed that keeps mobile shoppers engaged rather than sending them to a competitor's site that loads in a second less. It is the search and filtering functionality that helps shoppers find what they want rather than browsing a catalog they give up on. It is the abandoned cart email integration that recaptures 10% of the revenue that almost happened.\n\nThese are development problems, not design problems. They require an e-commerce developer who understands conversion optimization at the code level not just an agency that installs a Shopify theme and calls it done.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), our e-commerce development team has built and optimized online stores for businesses across the USA, UK, UAE, and Pakistan since 2015. We build on Shopify, Shopify Plus, WooCommerce, and custom platforms and we build every store with the conversion architecture, performance standards, and technical integrations that turn traffic into revenue.",
+    subtitle: "— Build Online Stores That Sell | Clickmasters",
+    description: "Expert e-commerce development for Shopify, WooCommerce & custom platforms. High-converting product pages, checkout optimization & systems integration.",
     stats: [
       { k: "1.5-3%", v: "Avg conversion rate" },
       { k: "4-8%", v: "Well-optimized stores" },
@@ -295,5 +295,60 @@ export const EcommerceDevContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "Serving businesses in USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | E-commerce development specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "E-Commerce Development",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "Should I build on Shopify or WooCommerce?",
+      "How much does e-commerce development cost?",
+      "How long does e-commerce development take?",
+      "Can you migrate our existing e-commerce store to a new platform?",
+      "How do you handle product catalog management for large catalogs?",
+      "Do you set up Google Shopping and Meta product catalog integrations?",
+      "What ongoing support do you provide after launch?",
+      "Can you integrate our e-commerce store with our ERP system?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "E-Commerce Development",
+        url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-development/"
+      }
+    ]
+  }
+}
 };

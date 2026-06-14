@@ -13,7 +13,7 @@ export const CustomSoftwareContent = {
     title: "Custom Software Development",
     titleHighlight: "Company",
     subtitle: "— software built for the way your business actually works.",
-    description: "Every off-the-shelf software product was built for the average business. The one with standard processes, standard data structures, standard integration requirements, and standard reporting needs. The one that does not exist.\n\nYour business is not the average business. Your operational processes have evolved over years of real-world refinement to serve your specific market, your specific clients, and your specific team's working methods. The software you have tried to use those processes in has not fit because it was designed for the imaginary average, not for the specific reality of how your business creates value.\n\nThe cost of this misfit is paid every day: manual workarounds that exist because the software cannot do what the process requires, duplicate data entry because the software cannot connect to the other systems the business uses, reporting that requires hours of spreadsheet manipulation because the software cannot produce the views the management team needs, and the productivity ceiling that comes from having a team that spends significant time working around their tools rather than with them.\n\nCustom software development is the decision to build the software that fits your business not to fit your business into software that was built for someone else. It is a larger investment than subscribing to another SaaS product. It is the investment that eliminates the workarounds, the manual processes, the integration friction, and the reporting limitations that accumulated SaaS subscriptions cannot resolve and that builds the operational capability that becomes a genuine competitive advantage.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we design and develop custom software web applications, business management systems, workflow automation platforms, integration layers, and bespoke operational tools for enterprises, SMBs, and growth-stage businesses across the USA, UK, UAE, and Pakistan who have outgrown off-the-shelf solutions.",
+    description: "Expert custom software development — business management systems, workflow automation, integrations & SaaS products. USA, UK & UAE. Free discovery consultation.",
     stats: [
       { k: "58%", v: "Admin overhead reduction" },
       { k: "73%", v: "Late deliveries reduced" },
@@ -266,5 +266,59 @@ export const CustomSoftwareContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "Serving businesses in USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Custom software development specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Custom Software Development",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "How do I know if I need custom software or if an off-the-shelf product would serve my needs?",
+      "How much does custom software development cost?",
+      "How long does custom software development take?",
+      "What happens if requirements change during development?",
+      "How do you ensure the software will be maintainable after delivery?",
+      "Can you take over maintenance of custom software built by another company?",
+      "Do you sign NDAs and protect our intellectual property?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "App & Software Development",
+        url: "https://clickmastersdigitalmarketing.com/app-software-development/"
+      },
+      {
+        position: 3,
+        name: "Custom Software Development",
+        url: "https://clickmastersdigitalmarketing.com/custom-software-development/"
+      }
+    ]
+  }
+}
 };

@@ -10,10 +10,10 @@ export const OnPageSeoContent = {
   },
   hero: {
     tag: "[ Service · 03 ] On-Page SEO",
-    title: "On-Page SEO",
+    title: "On-Page SEO  ",
     titleHighlight: "Services",
-    subtitle: "-- turn optimized pages into revenue.",
-    description: "You can have the fastest website on the internet. You can have hundreds of backlinks from high-authority domains. You can have a flawless technical setup with no crawl errors, perfect Core Web Vitals, and schema markup on every page. And you can still rank on page two. Why? Because on-page SEO — the optimization of the actual content and structure of each individual page — is what tells Google which query a page should rank for, how authoritatively it covers the topic, and whether it deserves to be shown to the user who typed that specific search. Without it, all of your other SEO investment is an engine without direction. On-page SEO is also where most businesses are quietly losing the ranking battles they do not even realize they are fighting. Title tags that stuff keywords instead of earning clicks. Content that targets the wrong intent. Pages with thin coverage competing against comprehensive guides. Author bylines missing in an era when Google explicitly weights identified expertise. These are the hidden revenue leaks that our on-page SEO audits consistently uncover. At Clickmasters Digital Marketing, our on-page SEO team has optimized more than 12,000 individual pages across every major industry since 2015. We do not apply a checklist and move on. We analyze what is suppressing each page's performance, identify the gap between where it is and where it should rank, and implement precise optimizations that move it up the search results and convert the traffic it earns.",
+    subtitle: "— Optimize Every Page for Revenue",
+    description: "On-page SEO services that match intent, build E-E-A-T, and convert. Title tags, content optimization, schema & more for USA, UK, UAE & Pakistan. Get your free analysis today.",
     stats: [
       { k: "12,000+", v: "Pages optimized" },
       { k: "18-45%", v: "CTR improvement" },
@@ -302,5 +302,64 @@ export const OnPageSeoContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | 10+ years on-page SEO expertise"
+  },
+
+  schema: {
+  Service: {
+    serviceType: "On-Page SEO Optimization",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How many pages can you optimize at once?",
+      "How long does it take to see results from on-page SEO?",
+      "Do you write the content or do we need to provide it?",
+      "What is the difference between on-page SEO and content marketing?",
+      "Where do you start with a large site?",
+      "Can on-page SEO fix a penalized site?",
+      "Do you work with WordPress, Shopify, and other CMS platforms?",
+      "How does on-page SEO work with AI Overviews?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "On-Page SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/on-page-seo-services/"
+      }
+    ]
   }
+}
 };
+
+

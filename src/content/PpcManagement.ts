@@ -12,9 +12,9 @@ export const PpcManagementContent = {
     tag: "[ Service · 05 ] PPC Management",
     title: "PPC Management",
     titleHighlight: "Services",
-    subtitle: "— stop wasting ad spend, start growing revenue.",
+    subtitle: "— Stop Wasting Ad Spend, Start Growing Revenue.",
     description:
-      "Here is an uncomfortable truth about most PPC campaigns: the majority of ad spend in the average Google Ads account is wasted. Not slightly suboptimal wasted. Clicks from irrelevant keywords that will never convert. Ads running at 2 AM when your target audience is asleep. Broad match keywords matching queries that have nothing to do with your product. Landing pages that collect clicks and bounce visitors before they convert. Bid strategies that optimize for clicks rather than for revenue. The average business running PPC without expert management loses between 30 and 60 percent of its ad budget to this invisible waste.",
+      "Expert PPC management services for Google, Meta, LinkedIn & more. Data-driven campaigns that reduce wasted spend & maximize ROAS. Free PPC audit for USA, UK & UAE.",
     stats: [
       { k: "30-60%", v: "Average wasted ad spend" },
       { k: "$40M+", v: "Managed ad spend" },
@@ -281,4 +281,65 @@ export const PpcManagementContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | $40M+ in managed ad spend | 10+ years PPC expertise",
   },
+
+
+
+
+  schema: {
+  Service: {
+    serviceType: "PPC Management",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How much should I budget for PPC advertising?",
+      "What is a good ROAS (Return on Ad Spend) for PPC?",
+      "How long does it take to see results from PPC management?",
+      "Do you manage Google Ads accounts or create new ones?",
+      "What is the difference between PPC management and Google Ads management?",
+      "How do you report on PPC performance?",
+      "Can you take over management of an existing agency's PPC campaigns?",
+      "Do I own my ad accounts and data if I stop working with you?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "PPC / Paid Ads",
+        url: "https://clickmastersdigitalmarketing.com/ppc-paid-ads/"
+      },
+      {
+        position: 3,
+        name: "PPC Management Services",
+        url: "https://clickmastersdigitalmarketing.com/ppc-management-services/"
+      }
+    ]
+  }
+  }
+  
 };

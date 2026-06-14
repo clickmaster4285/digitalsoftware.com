@@ -14,7 +14,7 @@ export const PodcastProductionContent = {
     titleHighlight: "Leave the Production to Us.",
     subtitle: "",
     description:
-      "There are now more than 4 million podcasts in existence. The brands, founders, and thought leaders who are growing audiences, building authority, and generating commercial pipeline through podcasting are not doing so because they have more interesting things to say than everyone else — they are doing so because they have the production infrastructure that transforms a conversation or a monologue into a professional audio product that listeners choose to spend time with, subscribe to, and recommend to others.",
+      "Podcast production services — strategy, editing, show notes, distribution across 20+ platforms and social media promotion. B2B brands and thought leaders.",
     stats: [
       { k: "4M+", v: "podcasts in existence" },
       { k: "34", v: "qualified inbound enquiries (client example)" },
@@ -205,5 +205,56 @@ export const PodcastProductionContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
+  },schema: {
+  Service: {
+    serviceType: "Podcast Production",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK", "CA", "AU"]
   },
+
+  FAQPage: {
+    items: [
+      "Do I need specialist equipment to start a podcast?",
+      "How long does it take to launch a podcast?",
+      "How many episodes does it take to build a meaningful audience?",
+      "Can you produce video podcasts as well as audio?",
+      "What podcast hosting platform do you recommend?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Content Marketing",
+        url: "https://clickmastersdigitalmarketing.com/content-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Podcast Production Services",
+        url: "https://clickmastersdigitalmarketing.com/podcast-production-services/"
+      }
+    ]
+  }
+}
 };

@@ -14,7 +14,7 @@ export const ReactNativeDevelopmentContent = {
     titleHighlight: "Full Business Value.",
     subtitle: "",
     description:
-      "Building separate iOS and Android apps is the correct approach when the business has the budget, timeline, and engineering team to support two parallel native development programmes. Most businesses do not. Before: two separate native app projects — an iOS codebase in Swift, an Android codebase in Kotlin — each requiring dedicated developers, separate QA cycles, separate release processes, and separate maintenance programmes. Two codebases to maintain as each platform's operating system evolves. A timeline that stretches from 16 weeks to 32+ weeks, and a budget that doubles. After: a single React Native codebase — maintained by a unified team, released simultaneously to both the App Store and Google Play, tested once across both platforms. Users on iOS receive the native iOS experience they expect. Users on Android receive the native Android experience they expect. The business maintains a single codebase that produces both.",
+      "Expert React Native development — iOS & Android from one codebase. New Architecture, Expo EAS, OTA updates. USA, UK & UAE. Free cross-platform consultation.",
     stats: [
       { k: "14 weeks", v: "dual-platform launch (client example)" },
       { k: "$95K", v: "MVP cost vs $180K native estimate" },
@@ -256,5 +256,60 @@ export const ReactNativeDevelopmentContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | React Native development specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "React Native Development",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is React Native and how does it differ from Flutter?",
+      "How close is React Native's performance to native apps?",
+      "Can React Native access all iOS and Android features?",
+      "How do over-the-air updates work and what are their limitations?",
+      "How long does a React Native app take to build?",
+      "How much does React Native development cost compared to native?",
+      "Do you provide ongoing React Native maintenance and updates?",
+      "When would you recommend native development over React Native?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "App & Software Development",
+        url: "https://clickmastersdigitalmarketing.com/app-software-development/"
+      },
+      {
+        position: 3,
+        name: "React Native Development",
+        url: "https://clickmastersdigitalmarketing.com/react-native-development/"
+      }
+    ]
+  }
+}
 };

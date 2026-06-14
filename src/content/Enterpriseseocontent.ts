@@ -26,11 +26,11 @@ export const EnterpriseSeoContent = {
   },
   hero: {
     tag: "[ Service ] Enterprise SEO Services",
-    title: "Enterprise SEO Services —",
-    titleHighlight: "Organic Growth at the Scale Your Business Demands",
-    subtitle: "— SEO rebuilt from the ground for organizations where scale changes everything.",
+    title: "Enterprise SEO Services — Revenue-Attributed Organic ",
+    titleHighlight: "Growth | Clickmasters",
+  
     description:
-      "Enterprise SEO is not SEO scaled up. It is SEO rebuilt from the ground for a fundamentally different operating environment — one where a single canonical tag misconfiguration can suppress 50,000 pages simultaneously, where content governance across multiple teams and regions requires centralized strategy and decentralized execution, and where the business stakeholders who approve SEO investment require attribution models that connect organic search performance directly to revenue, not just to rankings and traffic.",
+      "Enterprise SEO for large websites, multi-location brands & Fortune 500 companies. Custom scope, dedicated management & revenue attribution. Book your enterprise consultation.",
     stats: [
       { k: "$2.4M", v: "organic pipeline in 18 months" },
       { k: "96%", v: "traffic preserved through migration" },
@@ -372,4 +372,62 @@ export const EnterpriseSeoContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | 10+ years enterprise SEO expertise",
   },
+
+schema: {
+  Service: {
+    serviceType: "Enterprise SEO",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How is enterprise SEO priced differently from standard SEO?",
+      "How do you integrate with our existing marketing and development teams?",
+      "How do you handle SEO for websites with hundreds of thousands of pages?",
+      "Can you work with our existing SEO tool stack?",
+      "How do you manage SEO across multiple international markets?",
+      "What does the first 90 days of an enterprise SEO engagement look like?",
+      "How do you measure and report enterprise SEO success?",
+      "What is the minimum commitment for an enterprise SEO engagement?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "Enterprise SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/enterprise-seo-services/"
+      }
+    ]
+  }
+  }
+
 };

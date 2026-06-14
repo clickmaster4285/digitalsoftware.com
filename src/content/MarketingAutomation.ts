@@ -13,7 +13,7 @@ export const MarketingAutomationContent = {
     title: "Marketing Automation",
     titleHighlight: "Services",
     subtitle: "— stop losing leads while your team sleeps.",
-    description: "Your lead fills out a form at 11pm. They are evaluating three competitors. Their intent is at its highest point in the buying journey they have just raised their hand and asked for information.\n\nIf your team responds at 9am the next morning, the research has concluded. The competitor who responded within five minutes has already had a demo call. The lead that was yours to lose has been lost.\n\nThis is not a hypothetical.",
+    description: "Expert marketing automation — HubSpot, Klaviyo, Salesforce MC, lead nurturing, e-commerce flows & CRM integration. USA, UK & UAE. Free automation consultation.",
     stats: [
       { k: "9x", v: "Higher conversion (5 min response)" },
       { k: "3.2x", v: "Pipeline velocity increase" },
@@ -288,5 +288,60 @@ export const MarketingAutomationContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "Serving businesses in USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Marketing automation specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Marketing Automation Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is marketing automation and how does it differ from email marketing?",
+      "Which marketing automation platform is best for my business?",
+      "How long does it take to set up marketing automation?",
+      "How much does marketing automation improve conversion rates?",
+      "Do I need a large contact database to benefit from marketing automation?",
+      "What is lead scoring and should I implement it?",
+      "Can marketing automation feel impersonal?",
+      "How do I measure the ROI of marketing automation?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "AI Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ai-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Marketing Automation Services",
+        url: "https://clickmastersdigitalmarketing.com/marketing-automation/"
+      }
+    ]
+  }
+}
 };

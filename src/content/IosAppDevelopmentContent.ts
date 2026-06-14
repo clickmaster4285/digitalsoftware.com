@@ -14,7 +14,7 @@ export const IosAppDevelopmentContent = {
     titleHighlight: "Apple's Standard",
     subtitle: "",
     description:
-      "Apple's App Store has one bar. It is high. And it is not optional. The 1.8 billion active Apple devices in the world represent the most valuable user base in mobile — users who pay for apps, spend more per in-app purchase than their Android counterparts, and whose expectations for design quality, performance, and platform integration have been set by Apple's own applications. These users delete apps that feel slow. They leave one-star reviews for apps that do not follow iOS conventions. They abandon apps that do not respect the interaction patterns, the typography standards, and the attention to detail that Apple's Human Interface Guidelines define.",
+      "Expert iOS app development — native Swift/SwiftUI for iPhone and iPad. Face ID, Apple Pay, HealthKit, StoreKit 2. App Store ready. USA, UK & UAE. Free iOS consultation.",
     stats: [
       { k: "1.8B", v: "active Apple devices" },
       { k: "4.8", v: "App Store rating (client example)" },
@@ -299,5 +299,59 @@ export const IosAppDevelopmentContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | iOS app development specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "iOS App Development",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "When should I build a native iOS app rather than a cross-platform app?",
+      "What is the difference between SwiftUI and UIKit and which do you use?",
+      "How long does iOS app development take?",
+      "What does the App Store review process involve?",
+      "How much does iOS app development cost?",
+      "Do you build Apple Watch and Apple TV apps as well as iPhone and iPad?",
+      "Can you update and maintain an existing iOS app?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "App & Software Development",
+        url: "https://clickmastersdigitalmarketing.com/app-software-development/"
+      },
+      {
+        position: 3,
+        name: "iOS App Development",
+        url: "https://clickmastersdigitalmarketing.com/ios-app-development/"
+      }
+    ]
+  }
+}
 };

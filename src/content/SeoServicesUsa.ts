@@ -15,9 +15,9 @@ export const SeoServicesUsaContent = {
     tag: "[ Service · 14 ] SEO Services",
     title: "SEO Services",
     titleHighlight: "USA",
-    subtitle: "— dominate US search. Grow revenue. Rank where it counts.",
+    subtitle: "— Dominate US Search. Grow Revenue. Rank Where It Counts.",
     description:
-      "American businesses spend over $80 billion on digital marketing annually and the largest single driver of that spend is organic search. The US businesses generating the highest return on marketing investment are almost universally those with strong Google rankings for the commercial search terms that represent their highest-value buyer intent. Not paid rankings that disappear when the budget is paused organic rankings that generate qualified traffic, qualified leads, and qualified revenue continuously, compounding in authority over time.",
+      "Expert USA SEO services — technical SEO, content strategy, link building & local SEO for US businesses. Revenue-connected reporting. Free US SEO quote.",
     stats: [
       { k: "$80B+", v: "US digital marketing spend" },
       { k: "22,200/mo", v: "Search volume" },
@@ -205,4 +205,75 @@ export const SeoServicesUsaContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | USA SEO specialist | 10+ years",
   },
+  schema: {
+  Service: {
+    serviceType: "SEO Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: "United States"
+  },
+
+  LocalBusiness: {
+    "@type": "MarketingAgency",
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    email: "marketing@clickmastersdigitalmarketing.com",
+    address: {
+      "@type": "PostalAddress",
+      addressCountry: "US"
+    },
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  FAQPage: {
+    items: [
+      "How long does US SEO take to produce results?",
+      "What is the difference between local SEO and national SEO for US businesses?",
+      "How much does US SEO cost?",
+      "What SEO results can we realistically expect in 12 months?",
+      "Do you work with US businesses in all industries?",
+      "How is Clickmasters different from other US SEO agencies?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Services",
+        url: "https://clickmastersdigitalmarketing.com/services/"
+      },
+      {
+        position: 3,
+        name: "SEO Services USA",
+        url: "https://clickmastersdigitalmarketing.com/seo-services-usa/"
+      }
+    ]
+  }
+}
 };

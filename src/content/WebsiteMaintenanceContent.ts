@@ -13,7 +13,7 @@ export const WebsiteMaintenanceContent = {
     title: "Website Maintenance",
     titleHighlight: "Services",
     subtitle: "— keep your website fast, secure, and always working.",
-    description: "Most businesses invest significantly in building their website. Very few invest in maintaining it.\n\nThat gap between launch and ongoing care is where most website problems originate. The WordPress core update that breaks a plugin. The SSL certificate that expires and marks the website as \"Not Secure\" in every visitor's browser. The contact form that fails silently for three weeks before someone notices. The page load time that degrades from 1.8 seconds to 6.4 seconds as plugins accumulate and images remain uncompressed. The security vulnerability in an outdated plugin that an automated bot exploits before a human ever notices.\n\nNone of these failures announce themselves in advance. They accumulate quietly, and they are discovered at the worst possible times when a prospect goes to the website during a sales conversation, when a journalist follows up on a press release, when a major advertising campaign starts driving traffic to a broken landing page.\n\nWebsite maintenance is not a luxury for businesses that care about their online presence. It is the operational responsibility of running a website-dependent business and the cost of ignoring it is always higher than the cost of doing it properly.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we provide managed website maintenance services for businesses across the USA, UK, UAE, and Pakistan who want their website to keep performing at the standard it was built to reliably, securely, and without requiring them to think about it.",
+    description: "Expert website maintenance — staged updates, security monitoring, uptime monitoring, backups & performance optimisation. USA, UK & UAE. Set up your maintenance plan.",
     stats: [
       { k: "4h", v: "Failure detection window" },
       { k: "100x", v: "Prevention vs remediation cost" },
@@ -286,5 +286,60 @@ export const WebsiteMaintenanceContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "Serving businesses in USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Website maintenance specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Website Maintenance Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "How often should a WordPress website be updated?",
+      "What is a staging environment and why does it matter?",
+      "What happens if my website gets hacked?",
+      "Do you maintain websites built by other agencies?",
+      "What is included in the content update hours in your maintenance plans?",
+      "How are backups stored and can I access them?",
+      "What is your response time for urgent issues?",
+      "Can I cancel my maintenance plan if I am not satisfied?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "Website Maintenance Services",
+        url: "https://clickmastersdigitalmarketing.com/website-maintenance-services/"
+      }
+    ]
+  }
+}
 };

@@ -14,7 +14,7 @@ export const ChatbotDevelopmentContent = {
     titleHighlight: "Engage Every Visitor. Qualify Every Lead. 24 Hours a Day.",
     subtitle: "",
     description:
-      "Your website receives visitors at 2am, at weekends, during bank holidays, and in every time zone your marketing reaches. The majority of those visitors — especially the highest-intent ones, who are doing competitive research outside business hours — leave without a conversation. They visit your pricing page. They read your case studies. They evaluate you against three competitors. And then they either fill out a form and wait for a response, or they move on.\n\nA chatbot is the difference between a website that watches visitors leave and a website that starts conversations with them. Not the scripted, frustrating chatbots that force visitors through rigid decision trees until they give up — but intelligent conversational experiences that engage visitors in the way they actually want to be engaged: immediately, relevantly, and in a way that understands what they are asking and responds usefully.\n\nThe business case is not abstract. Chatbots that are designed well — with genuine conversation design, appropriate AI integration, and clear commercial objectives — capture leads that forms miss, qualify prospects that would otherwise wait in a generic inbox, and resolve customer queries that would otherwise generate support tickets. Done correctly, a chatbot is not a cost reduction exercise. It is a revenue generation system that runs at full capacity every hour your sales and support teams are not available.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we design and build chatbots for e-commerce brands, service businesses, and SaaS companies across the USA, UK, UAE, and Pakistan — conversational experiences that serve the specific commercial objectives of each business, built on the appropriate technology for each use case.",
+      "Expert chatbot development — AI chatbots, lead qualification, e-commerce, customer support & booking. WhatsApp & web. USA, UK & UAE. Free chatbot consultation.",
     stats: [
       { k: "64%", v: "Demo request increase" },
       { k: "22%", v: "Average order value lift" },
@@ -245,5 +245,59 @@ export const ChatbotDevelopmentContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Chatbot development specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Chatbot Development Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What types of chatbots do you build?",
+      "What is the difference between a rule-based chatbot and an AI chatbot?",
+      "Which platforms do you build chatbots for?",
+      "How long does chatbot development take?",
+      "How much does chatbot development cost?",
+      "Can a chatbot replace my customer support team?",
+      "Do chatbots work on mobile?",
+      "How do I measure chatbot ROI?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "AI Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ai-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Chatbot Development Services",
+        url: "https://clickmastersdigitalmarketing.com/chatbot-development-services/"
+      }
+    ]
+  }
+}
 };

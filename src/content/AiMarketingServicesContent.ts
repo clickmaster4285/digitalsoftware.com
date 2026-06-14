@@ -14,7 +14,7 @@ export const AiMarketingServicesContent = {
     titleHighlight: "The Intelligence Layer Your Marketing Has Been Missing",
     subtitle: "",
     description:
-      "Every marketing team in 2026 is collecting more data than it can analyse, running more campaigns than it can optimise manually, and producing more content than its team can create at the quality and volume the channels demand. The bottleneck is not strategy. It is execution capacity — the gap between what the data reveals and what the team can act on at the speed and personalisation level that modern marketing channels require.\n\nAI marketing closes that gap. Not by replacing human marketing judgment, but by giving human marketers the analytical leverage and execution capability that transforms strategic decisions into personalised, data-driven campaigns running at machine speed. The marketing team that deploys AI well does not work harder — it works at a scale and precision that was previously impossible without a team ten times its size.\n\nThe difference between AI marketing that generates genuine ROI and AI marketing that produces impressive dashboards but disappointing results is the same difference as in any other technology deployment: specificity. AI applied to specific, high-value marketing problems — predicting which leads will convert, personalising which message each user sees, optimising which bid to place on which keyword at which moment — generates measurable commercial outcomes. AI applied generically, as a productivity wrapper around existing processes, generates activity without proportionally greater returns.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we design and deploy AI marketing systems for CMOs, digital marketing teams, and growth-focused businesses across the USA, UK, UAE, and Pakistan — the specific AI applications, applied to the specific marketing problems where AI's analytical and execution capabilities generate the most measurable commercial impact.",
+      "Expert AI marketing — lead scoring, personalisation, churn prediction, MMM & AI content. Measurable ROI. USA, UK & UAE. Free AI marketing consultation.",
     stats: [
       { k: "44%", v: "Sales qualified lead rate increase" },
       { k: "82%", v: "Email revenue growth" },
@@ -242,5 +242,59 @@ export const AiMarketingServicesContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | AI marketing specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "AI Marketing Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is AI marketing and how is it different from marketing automation?",
+      "Which AI marketing applications generate the most ROI?",
+      "How much data do I need to implement AI marketing?",
+      "How long does AI marketing implementation take?",
+      "Will AI replace my marketing team?",
+      "What marketing technology stack do you work with?",
+      "How do you measure the ROI of AI marketing?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "AI Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ai-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "AI Marketing Services",
+        url: "https://clickmastersdigitalmarketing.com/ai-marketing-services/"
+      }
+    ]
+  }
+}
 };

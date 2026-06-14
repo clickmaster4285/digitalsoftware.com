@@ -10,11 +10,11 @@ export const RemarketingRetargetingContent = {
   },
   hero: {
     tag: "[ Service · 09 ] Remarketing & Retargeting",
-    title: "Remarketing &",
-    titleHighlight: "Retargeting",
-    subtitle: "— convert the visitors who left without buying.",
+    title: "Remarketing & Retargeting",
+    titleHighlight: "Services ",
+    subtitle: "Convert the Visitors Who Left | Clickmasters",
     description:
-      "Here is the uncomfortable mathematics of website traffic: 97 percent of first-time visitors to the average website leave without converting. They browsed your service pages, read your about page, perhaps even looked at your pricing and then they left. For whatever reason distraction, comparison shopping, not quite ready to commit they did not take the action you wanted them to take. Without remarketing, they are gone permanently. Your marketing budget acquired them, your website earned their attention, your content built some degree of interest and then a competitor's ad appeared in their feed an hour later, and they converted there instead.",
+      "Expert remarketing & retargeting for Google, Meta, LinkedIn & YouTube. Re-engage warm audiences with precision targeting to cut CAC and boost ROAS.",
     stats: [
       { k: "97%", v: "First-time visitors leave" },
       { k: "2-5x", v: "Higher conversion rate" },
@@ -297,4 +297,61 @@ export const RemarketingRetargetingContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Cross-platform remarketing specialist | 10+ years expertise",
   },
+  schema: {
+  Service: {
+    serviceType: "Remarketing / Retargeting",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "What is the difference between remarketing and retargeting?",
+      "Does remarketing feel intrusive to users? Can it damage our brand perception?",
+      "How large does my audience need to be for remarketing to work?",
+      "Can I remarket to people who visited my site months ago?",
+      "Does remarketing work for B2B businesses?",
+      "How do I set up remarketing if I don't have a developer?",
+      "How do you measure the ROI of remarketing campaigns?",
+      "Can remarketing work alongside our email marketing program?",
+      "How quickly can we set up a remarketing program?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "PPC / Paid Ads",
+        url: "https://clickmastersdigitalmarketing.com/ppc-paid-ads/"
+      },
+      {
+        position: 3,
+        name: "Remarketing & Retargeting Services",
+        url: "https://clickmastersdigitalmarketing.com/remarketing-retargeting-services/"
+      }
+    ]
+  }
+}
 };

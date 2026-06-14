@@ -12,9 +12,9 @@ export const LinkedInAdsContent = {
     tag: "[ Service · 06 ] LinkedIn Ads Management",
     title: "LinkedIn Ads Management",
     titleHighlight: "Services",
-    subtitle: "— reach the decision-makers who actually buy.",
+    subtitle: "— B2B Leads at Scale | Clickmasters",
     description:
-      "Every B2B marketer has the same problem. Their product or service is purchased by a specific type of person a VP of Sales, a Chief Financial Officer, a Director of IT, a Head of HR at a company with 200 to 2,000 employees in the financial services sector. And every major advertising platform, except one, cannot reliably put their message in front of that person. LinkedIn can find them with a precision that no other platform matches because LinkedIn's targeting is built entirely on professional profile data that users verify and maintain themselves.",
+      "Expert LinkedIn Ads management for B2B companies targeting decision-makers by job title, industry & seniority. Lead gen forms, sponsored content & message ads.",
     stats: [
       { k: "3-5x", v: "Higher CPC than Google" },
       { k: "$1.8M", v: "Pipeline generated" },
@@ -281,4 +281,61 @@ export const LinkedInAdsContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | B2B LinkedIn Ads specialist | 10+ years expertise",
   },
+
+  schema: {
+  Service: {
+    serviceType: "LinkedIn Ads Management",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "Why are LinkedIn Ads so expensive compared to other platforms?",
+      "What is the minimum budget to run effective LinkedIn Ads?",
+      "Does LinkedIn Ads work for B2C businesses?",
+      "What is a good cost-per-lead for LinkedIn Ads?",
+      "Should I use LinkedIn Lead Gen Forms or send traffic to my website?",
+      "Can LinkedIn Ads integrate with our CRM?",
+      "How do LinkedIn Message Ads work and are they effective?",
+      "How long does it take to see results from LinkedIn Ads?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "PPC / Paid Ads",
+        url: "https://clickmastersdigitalmarketing.com/ppc-paid-ads/"
+      },
+      {
+        position: 3,
+        name: "LinkedIn Ads Management",
+        url: "https://clickmastersdigitalmarketing.com/linkedin-ads-management/"
+      }
+    ]
+  }
+}
 };

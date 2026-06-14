@@ -10,11 +10,11 @@ export const KeywordResearchContent = {
   },
   hero: {
     tag: "[ Service · 03 ] KEYWORD RESEARCH",
-    title: "Keyword Research Services — Stop Guessing. Start Ranking for Terms That",
-    titleHighlight: "Actually Generate Revenue.",
-    subtitle: "",
+    title: "Keyword Research Services",
+    titleHighlight: "Stop Guessing.",
+    subtitle: "— Start Ranking for Terms That Actually Generate Revenue.",
     description:
-      "The problem that defeats most SEO investments before they start is invisible. It is not the technical issues, the thin content, or the weak backlink profile — though all of those matter. It is the keyword strategy: the decision about which search terms to target, which determines everything that follows. Target the wrong terms and the entire programme — the content, the links, the technical work — is built on the wrong foundation.",
+      "Professional keyword research services — commercial keyword mapping, competitor gap analysis, local & e-commerce keyword research. UK, USA, UAE, Canada, Australia.",
     stats: [
       { k: "9,900/mo", v: "primary keyword volume" },
       { k: "34", v: "untargeted commercial terms found" },
@@ -232,4 +232,58 @@ export const KeywordResearchContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
   },
+
+schema: {
+  Service: {
+    serviceType: "Keyword Research",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK", "CA", "AU"]
+  },
+
+  FAQPage: {
+    items: [
+      "How is professional keyword research different from using a free tool?",
+      "How long does keyword research take?",
+      "Do you provide keyword research as a standalone service or only as part of an SEO programme?",
+      "How often should keyword research be refreshed?",
+      "Can you do keyword research for non-English languages?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "Keyword Research Services",
+        url: "https://clickmastersdigitalmarketing.com/keyword-research-services/"
+      }
+    ]
+  }
+}
+
 };

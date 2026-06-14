@@ -14,7 +14,7 @@ export const PwaDevelopmentContent = {
     titleHighlight: "App-Like Experience. Web-Like Reach. No App Store Required.",
     subtitle: "",
     description:
-      "A Progressive Web App (PWA) is the answer to a specific question that businesses with strong mobile web audiences ask: how do we get the engagement, the offline capability, and the push notification access of a native mobile app — without the App Store friction, the cross-platform development cost, and the installation barrier that keeps mobile app adoption below potential?\n\nPWAs are websites enhanced with modern web APIs that give them native app capabilities: they install directly from the browser to the device home screen, they work offline using cached content, they send push notifications without requiring App Store opt-in, they load in under a second on repeat visits, and they behave like native apps in every interaction while running on the open web.\n\nThe businesses that have deployed PWAs at scale have discovered a specific advantage: the installation barrier is lower than native apps (no App Store visit, no app store rating concerns, no 100MB download) and higher than mobile web (the installed PWA lives on the home screen, launches in full screen, and receives push notifications). For e-commerce brands, publishers, and service businesses where the mobile web audience is large but the native app adoption rate is low, the PWA occupies a commercially valuable middle ground.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we design and build Progressive Web Apps for e-commerce brands, media companies, service businesses, and enterprises across the USA, UK, UAE, and Pakistan who want app-like engagement from their existing web audience without the development overhead of a separate native app programme.",
+      "Expert PWA development — Service Workers, Web Push, offline capability, e-commerce & media PWAs. USA, UK & UAE. Free PWA consultation.",
     stats: [
       { k: "65%", v: "Mobile revenue increase" },
       { k: "38%", v: "Bounce rate reduction" },
@@ -240,5 +240,59 @@ export const PwaDevelopmentContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | PWA development specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "PWA Development",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What exactly is a Progressive Web App?",
+      "Are PWAs supported on iOS?",
+      "How does a PWA differ from a native app?",
+      "Can a PWA send push notifications?",
+      "How much does PWA development cost?",
+      "How long does PWA development take?",
+      "Can a PWA appear in the App Store or Google Play?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "App & Software Development",
+        url: "https://clickmastersdigitalmarketing.com/app-software-development/"
+      },
+      {
+        position: 3,
+        name: "PWA Development",
+        url: "https://clickmastersdigitalmarketing.com/pwa-development-services/"
+      }
+    ]
+  }
+}
 };

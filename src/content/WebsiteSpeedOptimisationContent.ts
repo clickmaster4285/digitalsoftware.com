@@ -14,7 +14,7 @@ export const WebsiteSpeedOptimisationContent = {
     titleHighlight: "Because Every Second Costs You",
     subtitle: "",
     description:
-      "Your website is losing money right now. Not hypothetically. Not eventually. Right now, as you read this.\n\nAt 3 seconds of load time, 53% of mobile visitors abandon before the page finishes loading. At 4 seconds, it is 80%. Google's own data shows that as page load time goes from 1 second to 3 seconds, the probability of a mobile visitor bouncing increases by 32%. From 1 second to 5 seconds, the probability increases by 90%. From 1 second to 10 seconds, the probability increases by 123%.\n\nMost business websites load in 5-8 seconds on mobile. Most business owners do not know this, because they check their websites on fast desktop connections from familiar browser tabs where the page is cached. Their mobile visitors — more than 65% of all website traffic in 2026 — are encountering a completely different, and significantly worse, experience.\n\nThe cost of this gap is not theoretical. It appears in your conversion rate, your bounce rate, your paid advertising ROAS, and your Google search rankings — where Core Web Vitals are an explicit ranking factor and slow websites rank below fast ones for equivalent queries.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we identify exactly why your website is slow and implement the specific technical interventions that make it fast — for businesses across the USA, UK, UAE, and Pakistan who are losing revenue to page speed problems they have not yet identified.",
+      "Expert website speed optimisation — PageSpeed 90+, Core Web Vitals, image optimisation, caching, CDN & WordPress performance. USA, UK & UAE. Free speed audit.",
     stats: [
       { k: "53%", v: "Abandon at 3 seconds" },
       { k: "80%", v: "Abandon at 4 seconds" },
@@ -258,5 +258,59 @@ export const WebsiteSpeedOptimisationContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Website speed optimisation specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Website Speed Optimisation",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is a good PageSpeed score?",
+      "What are Core Web Vitals and why do they affect my Google rankings?",
+      "How long does a speed optimisation engagement take?",
+      "How much does website speed optimisation cost?",
+      "Will speed optimisation break my website?",
+      "How do I know if my website is slow?",
+      "Does website speed affect mobile more than desktop?",
+      "Can you improve the speed of any website, or only WordPress?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "Website Speed Optimisation",
+        url: "https://clickmastersdigitalmarketing.com/website-speed-optimization/"
+      }
+    ]
+  }
+}
 };

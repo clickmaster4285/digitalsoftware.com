@@ -12,9 +12,9 @@ export const InfographicDesignContent = {
     tag: "[ Service · 13 ] Infographic Design",
     title: "Infographic Design",
     titleHighlight: "Services",
-    subtitle: "— turn complex data into content that gets read, shared, and linked.",
+    subtitle: "— Data Into Content That Gets Shared | Clickmasters",
     description:
-      "Most content gets ignored. Long-form articles require sustained attention. Data tables require interpretation. Dense reports require effort. And in a content environment where the average human attention span for online content is measured in seconds, most of the content businesses invest in producing is never meaningfully consumed.",
+      "Expert infographic design — data visualisation, process infographics, statistical graphics & branded templates. Content that earns backlinks and drives shares.",
     stats: [
       { k: "60,000x", v: "Faster visual vs text processing" },
       { k: "64", v: "Backlinks earned (case study)" },
@@ -274,5 +274,60 @@ export const InfographicDesignContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Infographic design specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Infographic Design",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What types of content work best as infographics?",
+      "How long does it take to design an infographic?",
+      "How do infographics earn backlinks?",
+      "What file formats do you deliver?",
+      "Can you work with our data or do we need to provide research?",
+      "How many revisions are included?",
+      "Can infographics work for social media as well as for link building?",
+      "Can you design infographics that match our brand guidelines?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Content Marketing",
+        url: "https://clickmastersdigitalmarketing.com/content-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Infographic Design Services",
+        url: "https://clickmastersdigitalmarketing.com/infographic-design-services/"
+      }
+    ]
+  }
+}
 };

@@ -2,7 +2,7 @@ export const ShopifyMarketingContent = {
   slug: "shopify-marketing-services",
   metadata: {
     url: "/shopify-marketing-services/",
-    seoTitle: "Shopify Marketing Agency — Scale Your Shopify Store to Its Full Revenue Potential | Clickmasters",
+    seoTitle: "Shopify Marketing Agency — Scale Your Shopify Store to Its Full Revenue Potential",
     keyword: "shopify marketing agency",
     volume: "6,600/mo",
     cpc: "$32.80",
@@ -12,11 +12,11 @@ export const ShopifyMarketingContent = {
   },
   hero: {
     tag: "[ Service ] Shopify Marketing Agency",
-    title: "Shopify Marketing Agency —",
-    titleHighlight: "Scale Your Shopify Store to Its Full Revenue Potential",
-    subtitle: "— the acquisition, retention, conversion, and analytics system your Shopify store needs to scale.",
+    title: "Shopify Marketing Agency — Scale Your ",
+    titleHighlight: "Shopify Store ",
+    subtitle: "to Its Full Revenue Potential.",
     description:
-      "Shopify makes it easy to launch an online store. It does not make it easy to grow one. The 2.1 million Shopify stores active globally are all competing for the same finite pool of consumer attention, advertising inventory, and Google search real estate. The stores that grow are not the ones with the most aesthetically impressive themes. They are the ones that have solved the three commercial problems that determine whether a Shopify store scales: getting the right traffic at an economically viable acquisition cost, converting that traffic at a rate that makes the economics work, and retaining customers long enough to generate the lifetime value that justifies the acquisition investment.",
+      "Expert Shopify marketing agency — Google Shopping, Meta Ads, Klaviyo, Shopify SEO & CRO. DTC brand specialists. USA, UK & UAE. Free Shopify marketing audit.",
     stats: [
       { k: "422%", v: "revenue increase in 24 months" },
       { k: "$28K", v: "automated email revenue per month" },
@@ -277,5 +277,59 @@ export const ShopifyMarketingContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Shopify marketing specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Shopify Marketing Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What does a Shopify marketing agency do?",
+      "How much does Shopify marketing cost?",
+      "How long does it take to see results from Shopify marketing?",
+      "Do you work with all types of Shopify stores?",
+      "What is the difference between Shopify Plus and standard Shopify for marketing purposes?",
+      "Can you work with our existing Shopify apps and theme?",
+      "How do you measure the success of Shopify marketing?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "E-Commerce Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-marketing/"
+      },
+      {
+        position: 3,
+        name: "Shopify Marketing Services",
+        url: "https://clickmastersdigitalmarketing.com/shopify-marketing-services/"
+      }
+    ]
+  }
+}
 };

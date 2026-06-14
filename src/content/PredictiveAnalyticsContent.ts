@@ -14,7 +14,7 @@ export const PredictiveAnalyticsContent = {
     titleHighlight: "Stop Reacting to What Happened. Start Deciding on What Will.",
     subtitle: "",
     description:
-      "Before: your marketing and business decisions are made on historical data. You look at last month's sales to understand last month. You analyse last quarter's campaign results to understand last quarter. You review last year's churn data to understand last year. Every insight is a description of the past, and every decision you make from it is a bet that the past will repeat — without knowing whether the conditions that produced the past are still in place.\n\nAfter: your decisions are informed by forward-looking models. You know which leads are most likely to convert before your sales team calls them. You know which customers are most likely to churn before they cancel. You know which products will spike in demand before inventory decisions need to be made. You know which marketing campaigns will perform before you commit the budget. The past is still relevant — but it is the training data for models that tell you what comes next, not the destination of your analysis.\n\nBridge: predictive analytics is the discipline that transforms historical business data into forward-looking models — the statistical and machine learning systems that process everything a business knows about its customers, its products, and its market to produce actionable predictions about what will happen next. At Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we build and deploy predictive analytics systems for data-driven marketing teams and enterprises across the USA, UK, UAE, and Pakistan who have the data and need the intelligence it can generate.",
+      "Expert predictive analytics — lead scoring, churn prediction, demand forecasting, MMM & attribution modelling. USA, UK & UAE. Free consultation.",
     stats: [
       { k: "$3.2M", v: "Incremental annual revenue from same pipeline" },
       { k: "34%", v: "Subscription churn reduction" },
@@ -246,5 +246,59 @@ export const PredictiveAnalyticsContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Predictive analytics specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Predictive Analytics Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is predictive analytics and how does it differ from traditional business intelligence?",
+      "How much historical data do I need for predictive analytics?",
+      "What is the difference between predictive analytics and AI/ML?",
+      "How long does it take to build and deploy a predictive model?",
+      "How do I know if a predictive model is working?",
+      "Do I need a data science team to use predictive analytics?",
+      "How do you handle data privacy in predictive analytics?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "AI Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ai-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Predictive Analytics Services",
+        url: "https://clickmastersdigitalmarketing.com/predictive-analytics-services/"
+      }
+    ]
+  }
+}
 };

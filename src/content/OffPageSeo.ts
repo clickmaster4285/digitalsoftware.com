@@ -10,11 +10,11 @@ export const OffPageSeoContent = {
   },
   hero: {
     tag: "[ Service · 17 ] Off-Page SEO",
-    title: "Link Building",
+    title: "Link Building ",
     titleHighlight: "Services",
-    subtitle: "— off-page SEO authority that compounds over time.",
+    subtitle: "— Authority That Compounds | Clickmasters",
     description:
-      "Every page on your website competes for rankings against pages on other websites. In Google's eyes, a page's relevance is determined by what is on it but its authority is determined by what other websites say about it. That authority is measured in backlinks: links from other websites pointing to yours. This is not a metaphor. It is the core mechanic of how Google has ranked pages since its inception, and despite 27 years of algorithm evolution, the fundamental signal has not changed.",
+      "White-hat link building services via digital PR, resource pages & expert outreach. No PBNs. No penalties. Real domain authority for USA, UK, UAE & Pakistan.",
     stats: [
       { k: "9,900/mo", v: "Search volume" },
       { k: "3,500+", v: "Businesses served" },
@@ -292,4 +292,60 @@ export const OffPageSeoContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Link building & off-page SEO specialist | 10+ years",
   },
+
+  schema: {
+  Service: {
+    serviceType: "Link Building / Off-Page SEO",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How many links do I need to rank for my target keywords?",
+      "How long does it take to see ranking improvements from link building?",
+      "What is a PBN and why should I avoid it?",
+      "Should I disavow toxic links in my backlink profile?",
+      "What is the difference between white-hat and black-hat link building?",
+      "Do you guarantee specific rankings from link building?",
+      "How do you report on link building progress?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "Off-Page SEO & Link Building",
+        url: "https://clickmastersdigitalmarketing.com/off-page-seo-link-building/"
+      }
+    ]
+  }
+}
 };

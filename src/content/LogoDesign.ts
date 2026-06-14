@@ -14,7 +14,7 @@ export const LogoDesignContent = {
     titleHighlight: "Services",
     subtitle: "— your business deserves a mark worth remembering.",
     description:
-      "Right now, your business is making a first impression every time someone sees your name. On your website. On a business card. In an email signature. On a proposal document. On social media. On a product. On a sign. That first impression is shaped by your logo more than by any other single visual element. Your logo is the anchor of your brand's visual identity the mark that, over time, becomes synonymous with your reputation.",
+      "Expert logo design — strategic, original, professionally executed. Full variant set, complete file package, every industry. USA, UK & UAE. Free logo consultation.",
     stats: [
       { k: "22,200/mo", v: "Search volume" },
       { k: "$12.80", v: "Avg CPC" },
@@ -264,5 +264,60 @@ export const LogoDesignContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Logo design specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Logo Design Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "How much does a professional logo design cost?",
+      "How long does logo design take?",
+      "How many logo concepts do you present?",
+      "What file formats do you deliver?",
+      "Can you redesign a logo I had made on Fiverr or Canva?",
+      "Do you offer logo design as part of a complete brand identity package?",
+      "What do you need from me to start?",
+      "Can you create logos for businesses in any industry?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "Logo Design Services",
+        url: "https://clickmastersdigitalmarketing.com/logo-design-services/"
+      }
+    ]
+  }
+}
 };

@@ -10,11 +10,11 @@ export const SeoAuditContent = {
   },
   hero: {
     tag: "[ Service · 01 ] SEO AUDIT",
-    title: "SEO Audit Service — Know Exactly What's",
-    titleHighlight: "Suppressing Your Rankings",
+    title: "SEO Audit Service — Know Exactly What's Costing You Rankings ",
+    titleHighlight: "| Clickmasters",
     subtitle: "",
     description:
-      "Every business with a website that is not ranking where it should be is in the same position: they know something is wrong, but they do not know what. They have tried content. They have tried new pages. They have spent money on ads to compensate for the organic traffic they are not getting. And yet the rankings stay flat, the organic traffic stays flat, and the gap between their site and their competitors' sites keeps growing. The answer is almost always findable — through a thorough, expert SEO audit.",
+      "48-point SEO audit covering technical, on-page, off-page & content. Prioritized action plan included. Free SEO audit for businesses in USA, UK, UAE & Pakistan.",
     stats: [
       { k: "48-point", v: "diagnostic framework" },
       { k: "1,400+", v: "audits completed since 2015" },
@@ -439,4 +439,61 @@ export const SeoAuditContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | 10+ years SEO audit expertise | 1,400+ audits completed",
   },
+
+  schema: {
+  Service: {
+    serviceType: "SEO Audit",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How is a Clickmasters SEO audit different from an automated tool report?",
+      "How long does an SEO audit take?",
+      "What access do you need to conduct the audit?",
+      "Do I have to use Clickmasters for ongoing SEO after the audit?",
+      "What if the audit reveals issues my developer cannot fix?",
+      "Will the audit identify the reason our traffic dropped?",
+      "How much does an SEO audit cost?",
+      "Is there a free SEO audit available?",
+      "How long will it take to see results after implementing audit recommendations?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "SEO Audit Service",
+        url: "https://clickmastersdigitalmarketing.com/seo-audit-service/"
+      }
+    ]
+  }
+}
 };
