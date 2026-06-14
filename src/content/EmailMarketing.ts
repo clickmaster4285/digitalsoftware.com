@@ -16,9 +16,9 @@ export const EmailMarketingServicesContent = {
   hero: {
     tag: "Email Marketing",
     title: "Email Marketing Services",
-    titleHighlight: "— The Highest-ROI Channel in Your Marketing Stack",
+    titleHighlight: "— Highest ROI Channel, Done Properly | Clickmasters",
     subtitle: "",
-    description: "Your email list is the only marketing asset you truly own. Not your Google rankings an algorithm update can eliminate them overnight. Not your social media following a platform policy change can cut your organic reach in half. Not your paid advertising audiences the moment you stop spending, they disappear. But the people who have given you their email address and asked to hear from you? That relationship is yours. Permanently. Platform-independently. At zero cost per contact per send.",
+    description: "Expert email marketing services — strategy, automation, list growth, Klaviyo & HubSpot management. Average $36 return per $1 spent. Free email audit.",
     stats: [
       { k: "$36", v: "ROI per $1 spent" },
       { k: "11% → 43%", v: "Email revenue share" },
@@ -293,4 +293,60 @@ export const EmailMarketingServicesContent = {
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Email marketing specialist | Klaviyo · HubSpot · ActiveCampaign",
   },
+  schema: {
+  Service: {
+    serviceType: "Email Marketing Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "What is a realistic ROI from email marketing?",
+      "How quickly can email marketing start generating revenue?",
+      "What email marketing platform do you recommend?",
+      "How do you grow an email list quickly?",
+      "How often should we email our list?",
+      "What is email deliverability and why does it matter?",
+      "How do you ensure compliance with GDPR, CAN-SPAM, and other regulations?",
+      "Can email marketing work for a small list?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Content Marketing",
+        url: "https://clickmastersdigitalmarketing.com/content-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Email Marketing Services",
+        url: "https://clickmastersdigitalmarketing.com/email-marketing-services/"
+      }
+    ]
+  }
+}
 };

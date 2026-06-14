@@ -27,11 +27,11 @@ export const AiSeoContent = {
   },
   hero: {
     tag: "[ Service ] AI SEO, AEO & GEO Services",
-    title: "AI SEO, AEO & GEO Services —",
-    titleHighlight: "Be Cited by ChatGPT, Google AI Overviews & Perplexity",
-    subtitle: "— be the authoritative source AI systems choose to cite in your category.",
+    title: "AI SEO, AEO & GEO Services — Be Cited by ChatGPT ",
+    titleHighlight: "& Google AI | Clickmasters",
+   
     description:
-      "Something has changed in how your customers find you — and most businesses have not caught up yet. In 2026, a growing percentage of search behavior never produces a click at all. Google's AI Overviews answer the question directly on the search results page. ChatGPT, Perplexity, Gemini, and Claude respond to research queries with synthesized, cited answers — drawing from a web of authoritative sources that their models have indexed, ranked, and trust. If your brand is not being cited by AI search engines, you are invisible to the fastest-growing segment of the search audience.",
+      "Optimize for AI Overviews, ChatGPT, Perplexity & Gemini. Answer Engine Optimization & Generative Engine Optimization services for USA, UK & UAE.",
     stats: [
       { k: "15–20%", v: "of Google searches trigger AI Overviews" },
       { k: "34%", v: "AI Overview citation rate achieved" },
@@ -349,4 +349,64 @@ export const AiSeoContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | AI SEO pioneer | 10+ years organic search expertise",
   },
+
+
+  schema: {
+  Service: {
+    serviceType: "AI SEO / AEO / GEO",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "What is the difference between AI SEO, AEO, and GEO?",
+      "How do I know if my business is being cited by AI search engines?",
+      "Does AI SEO replace traditional SEO?",
+      "How long does it take to see AI citation results?",
+      "Will AI SEO work for my industry?",
+      "Can you optimize my existing content for AI search without rewriting it entirely?",
+      "How do you measure the ROI of AI SEO?",
+      "Do you help businesses that have never done traditional SEO start with AI SEO?",
+      "How is Clickmasters different from other agencies offering AI SEO?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "AI SEO / AEO / GEO",
+        url: "https://clickmastersdigitalmarketing.com/ai-seo-aeo-geo/"
+      }
+    ]
+  }
+  }
+  
+
 };

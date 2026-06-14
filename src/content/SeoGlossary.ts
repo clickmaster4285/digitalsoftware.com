@@ -13,7 +13,7 @@ export const SeoGlossaryContent = {
     title: "SEO Glossary",
     titleHighlight: "— Every Term You Need to Understand Search Engine Optimisation",
     subtitle: "",
-    description: "Search engine optimisation has a vocabulary problem. The discipline is built on technical concepts, algorithmic processes, and platform-specific terminology that practitioners use fluently but that confuses anyone trying to understand what their SEO agency is actually doing and whether it is working.",
+    description: "Complete SEO glossary — clear definitions of every search engine optimisation term from algorithm to white hat SEO. For beginners and experienced marketers.",
     stats: [
       { k: "36+", v: "Defined terms" },
       { k: "14,800/mo", v: "Search volume" },
@@ -334,4 +334,290 @@ export const SeoGlossaryContent = {
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO | 2026",
   },
+
+  schema: {
+  Article: {
+    "@type": "Article",
+    headline: "SEO Glossary — Every Term You Need to Understand Search Engine Optimisation",
+    description: "Complete SEO glossary — clear definitions of every search engine optimisation term from algorithm to white hat SEO. For beginners and experienced marketers.",
+    author: {
+      "@type": "Person",
+      name: "Amjad Khan"
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://clickmastersdigitalmarketing.com/logo.png"
+      }
+    },
+    datePublished: "2026-01-01",
+    dateModified: "2026-06-14",
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": "https://clickmastersdigitalmarketing.com/seo-glossary/"
+    }
+  },
+
+  DefinedTermSet: {
+    "@type": "DefinedTermSet",
+    name: "SEO Glossary",
+    description: "Complete SEO terminology reference covering algorithm, backlinks, canonical tags, E-E-A-T, featured snippets, and all essential search engine optimisation terms.",
+    url: "https://clickmastersdigitalmarketing.com/seo-glossary/",
+    hasDefinedTerm: [
+      {
+        "@type": "DefinedTerm",
+        name: "Above the Fold",
+        description: "The portion of a webpage visible without scrolling. In SEO, placing primary content, target keywords in headings, and clear calls-to-action above the fold improves both user experience signals (lower bounce rate, longer time on page) and content relevance signalling to search engines."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Algorithm",
+        description: "The set of rules, factors, and calculations that a search engine uses to determine the order in which pages appear in search results for a given query. Google's core algorithm evaluates hundreds of signals including relevance, authority, and user experience to rank pages."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Alt Text (Alt Attribute)",
+        description: "A text description of an image added within the image's HTML tag. Alt text serves two purposes in SEO: it provides context to search engines that cannot read images (helping pages rank for image searches and contributing to the page's topical relevance), and it provides accessibility context for screen readers used by visually impaired visitors."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Anchor Text",
+        description: "The visible, clickable text in a hyperlink. Anchor text is a significant signal to Google about the topic of the page being linked to. When many high-quality websites use specific anchor text to link to a page, it signals strongly to Google that the linked page is relevant to that term."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Authority (Domain Authority, Page Authority)",
+        description: "A measure of how much trust and credibility a website or individual page has in Google's estimation, based primarily on the quality and quantity of backlinks pointing to it. Domain Authority and Page Authority are metrics created by third-party tools as proxies for Google's internal authority signals."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Backlink (Inbound Link)",
+        description: "A link from an external website to your website. Backlinks are one of the most important ranking signals in Google's algorithm they function as votes of confidence from one website to another, indicating to Google that the linked-to content is valuable enough to reference."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Bounce Rate",
+        description: "The percentage of visitors who leave a website after viewing only one page, without clicking through to any other page. In the context of SEO, high bounce rates on landing pages may indicate a mismatch between what searchers expected to find and what the page actually delivers."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Breadcrumb Navigation",
+        description: "A secondary navigation system that shows a user's position within the website hierarchy typically displayed as a horizontal list near the top of the page: Home > Category > Subcategory > Page. Breadcrumbs improve user experience and help Google understand the website's structure."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Canonical Tag (rel=canonical)",
+        description: "An HTML tag that tells search engines which version of a URL is the 'master' version when multiple URLs with similar or duplicate content exist. Correct canonical implementation is a fundamental technical SEO requirement."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Click-Through Rate (CTR)",
+        description: "The percentage of users who click on a search result after seeing it in the search engine results page (SERP). CTR is calculated as clicks ÷ impressions. Higher CTR signals to Google that a result is relevant and appealing to searchers."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Core Web Vitals",
+        description: "Google's set of page experience metrics that measure the loading performance, interactivity, and visual stability of webpages. The three Core Web Vitals are: Largest Contentful Paint (LCP) under 2.5 seconds, Interaction to Next Paint (INP) under 200 milliseconds, and Cumulative Layout Shift (CLS) under 0.1."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Crawlability",
+        description: "The ability of search engine crawlers (bots) to access and navigate a website's pages. A page that cannot be crawled cannot be indexed and therefore cannot rank."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Crawl Budget",
+        description: "The number of pages a search engine crawler will crawl on a website within a given time period. Optimising crawl budget by blocking low-value pages and ensuring efficient internal linking helps ensure crawlers spend their allocation on the most commercially important pages."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Domain Authority (DA)",
+        description: "A score (1-100) developed by Moz that estimates a website's ability to rank in search engines, based on the quality and quantity of its backlink profile. Domain Authority is a third-party metric that correlates broadly with ranking performance."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Duplicate Content",
+        description: "Content that appears at multiple URLs, either within the same website or across different websites. Duplicate content creates confusion for search engines about which version to index and rank. Most duplicate content issues are resolved with canonical tags or 301 redirects."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness)",
+        description: "Google's framework for evaluating the quality of content, described in its Search Quality Rater Guidelines. E-E-A-T stands for Experience, Expertise, Authoritativeness, and Trustworthiness. It is especially important for YMYL (Your Money, Your Life) topics."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Featured Snippet",
+        description: "A selected search result that Google displays at the top of the SERP in a special 'Position 0' box, above the standard organic results. Featured snippets typically display a paragraph, list, or table that directly answers the search query."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Google Business Profile (GBP)",
+        description: "Google's free business listing tool that allows businesses to manage how they appear in Google Search and Google Maps. GBP is the primary asset for local SEO the listing that appears in the Local Pack for location-specific searches."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Google Search Console (GSC)",
+        description: "Google's free tool for monitoring, maintaining, and troubleshooting a website's presence in Google Search results. GSC provides data on search queries, indexation, Core Web Vitals, structured data issues, and manual actions."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Hreflang",
+        description: "An HTML attribute that tells search engines which version of a page to show to users in different languages or regions. Correct hreflang implementation is critical for international websites serving content in multiple languages."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Indexation",
+        description: "The process by which search engines add pages to their database (index) after crawling them. A page that is indexed is eligible to appear in search results; a page that is not indexed cannot rank."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Internal Linking",
+        description: "Hyperlinks that connect one page on a website to another page on the same website. Internal links help search engine crawlers discover pages and pass 'link equity' (ranking authority) between pages."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Keyword",
+        description: "A word or phrase that users type into a search engine when looking for information, products, or services. Keywords are the fundamental unit of SEO strategy."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Keyword Cannibalism",
+        description: "When multiple pages on the same website target the same keyword, causing them to compete with each other in search results rather than consolidating ranking authority on a single page."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Keyword Density",
+        description: "The percentage of times a keyword appears in a piece of content relative to the total word count. Google's algorithm penalises keyword stuffing; modern best practice focuses on natural keyword usage."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Landing Page",
+        description: "In the SEO context, any page on a website that a visitor arrives at directly from a search result. Landing page optimisation ensures visitors find content matching their search intent."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Link Building",
+        description: "The process of acquiring backlinks from external websites to your website. High-quality link building earns links from authoritative, topically relevant sources; low-quality link building can trigger algorithmic penalties."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Link Equity (Link Juice)",
+        description: "The ranking authority that is passed from one page to another through hyperlinks. A link from a high-authority page passes more link equity than a link from a low-authority page."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Local Pack",
+        description: "The section of Google Search results that displays a map and three local business listings for location-specific searches. Local Pack ranking is determined by GBP signals, citation consistency, and proximity."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Meta Description",
+        description: "An HTML tag that provides a brief description of a page's content for display in search engine results. The meta description is a primary factor in click-through rate."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Noindex",
+        description: "A meta robots tag or HTTP response header that instructs search engines not to include a specific page in their index. Noindex is used for pages that should not appear in search results."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Off-Page SEO",
+        description: "The SEO activities that occur outside the website itself, primarily focused on building authority signals. The most significant off-page SEO activity is link building."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "On-Page SEO",
+        description: "The optimisation of elements within a webpage itself to improve its relevance and visibility for target search queries. On-page SEO factors include title tags, headings, content, and internal linking."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Organic Search",
+        description: "Search results that appear because of their relevance to the search query, as determined by Google's algorithm, rather than because they have been paid for. Organic search traffic is the goal of SEO investment."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Page Speed",
+        description: "The time it takes for a webpage to fully load and become interactive for a user. Page speed is both a user experience factor and a ranking factor through Core Web Vitals."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Redirect (301, 302)",
+        description: "A server-side instruction that automatically sends users (and search engine crawlers) from one URL to another. 301 redirects indicate permanent changes and pass link equity; 302 redirects indicate temporary changes."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Robots.txt",
+        description: "A text file in the root directory of a website that instructs search engine crawlers which pages or sections of the site they should not crawl. Robots.txt blocks crawling but not indexing."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Schema Markup (Structured Data)",
+        description: "Code added to webpages (typically in JSON-LD format) that provides explicit context to search engines about the content of the page. Schema markup enables rich results in Google search."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Search Intent (User Intent)",
+        description: "The underlying purpose behind a search query what the user is actually trying to accomplish. Search intent categories include Informational, Navigational, Commercial Investigation, and Transactional."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "SERP (Search Engine Results Page)",
+        description: "The page displayed by a search engine in response to a user's query. The SERP includes paid results, rich results (Local Pack, Featured Snippets), and organic results."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Sitemap (XML Sitemap)",
+        description: "A file that lists all the pages on a website that should be indexed by search engines. Submitting an XML sitemap to Google Search Console helps ensure important pages are discovered."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Technical SEO",
+        description: "The aspect of SEO concerned with the technical configuration of a website ensuring that search engines can efficiently crawl, index, and understand its content. Technical SEO is the prerequisite for all other SEO activities."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "Title Tag",
+        description: "An HTML element that specifies the title of a webpage the text that appears as the clickable headline in search results. The title tag is one of the most important on-page SEO elements."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "URL Structure",
+        description: "The format and organisation of web addresses. SEO-friendly URL structure is descriptive, short, consistent, and includes the target keyword where natural."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "User Experience (UX)",
+        description: "The overall quality of a user's interaction with a website including ease of navigation, page load speed, mobile responsiveness, and content clarity. Google incorporates UX signals into its ranking algorithm."
+      },
+      {
+        "@type": "DefinedTerm",
+        name: "White Hat SEO",
+        description: "SEO practices that comply with Google's Webmaster Guidelines focused on producing genuinely valuable content, earning authoritative links, and providing excellent user experience. White hat SEO produces durable, penalty-resistant results."
+      }
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Resources",
+        url: "https://clickmastersdigitalmarketing.com/resources/"
+      },
+      {
+        position: 3,
+        name: "SEO Glossary",
+        url: "https://clickmastersdigitalmarketing.com/seo-glossary/"
+      }
+    ]
+  }
+}
 };

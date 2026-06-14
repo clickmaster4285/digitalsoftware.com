@@ -12,11 +12,11 @@ export const EcommerceAnalyticsContent = {
   },
   hero: {
     tag: "[ Service ] E-Commerce Analytics Services",
-    title: "E-Commerce Analytics Services —",
-    titleHighlight: "Know Exactly What Is Driving Revenue and What Is Wasting Budget",
-    subtitle: "— the unified, cross-channel measurement infrastructure that answers the questions your business needs to grow profitably.",
+    title: "E-Commerce Analytics ",
+    titleHighlight: "Services —",
+    subtitle: "Know Exactly What Is Driving Revenue and What Is Wasting Budget",
     description:
-      "Your e-commerce store is generating data every second. Every session, every product view, every add-to-cart, every abandoned checkout, every completed purchase — all of it is recorded somewhere, across your Shopify or WooCommerce analytics, your Google Analytics 4 account, your email platform, your Meta Ads manager, your Google Ads account, and your CRM. The problem is that none of these systems talks to the others. Each one reports performance from its own perspective, using its own attribution model, crediting itself with the conversions it can see from its vantage point.",
+      "Expert e-commerce analytics — GA4 implementation, BigQuery, multi-touch attribution, cohort analysis & CRO dashboards. Shopify & WooCommerce. Free analytics audit.",
     stats: [
       { k: "£340K", v: "budget reallocation opportunity identified" },
       { k: "3x", v: "higher LTV customers revealed by cohort analysis" },
@@ -280,5 +280,59 @@ export const EcommerceAnalyticsContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | E-commerce analytics specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "E-Commerce Analytics Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is e-commerce analytics and why does it matter?",
+      "What is the difference between GA4 and Shopify Analytics for e-commerce?",
+      "How do I know if my GA4 e-commerce tracking is accurate?",
+      "What is BigQuery and why would an e-commerce store need it?",
+      "What is customer lifetime value and why does it matter for marketing?",
+      "How long does e-commerce analytics implementation take?",
+      "How much does e-commerce analytics implementation cost?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "E-Commerce Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-marketing/"
+      },
+      {
+        position: 3,
+        name: "E-Commerce Analytics Services",
+        url: "https://clickmastersdigitalmarketing.com/ecommerce-analytics-services/"
+      }
+    ]
+  }
+}
 };

@@ -12,11 +12,11 @@ export const CitationBuildingServicesContent = {
   },
   hero: {
     tag: "[ Local SEO · 06 ] Citation Management",
-    title: "Citation Building Services",
-    titleHighlight: "Citation Building",
-    subtitle: "— Fix Your NAP. Own Your Local Pack.",
+    title: "Citation Building ",
+    titleHighlight: "Services",
+    subtitle: "— Fix Your NAP. Own Your Local Pack. Dominate Nearby Search.",
     description:
-      "Consistent Name, Address, and Phone number (NAP) citations across authoritative directories are the foundation of local search rankings. We audit, correct, and build your citation profile to give Google the trusted signals it needs to rank your business prominently in the Local Pack.",
+      "Local citation building services — NAP audit, correction, directory building and multi-location management. UK, USA, UAE, Canada, Australia. Local Pack ranking improvement.",
     stats: [
       { k: "186+", v: "inconsistencies found per audit" },
       { k: "4-8", v: "weeks to ranking improvement" },
@@ -295,5 +295,56 @@ export const CitationBuildingServicesContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author:
       "Amjad Khan CEO, Clickmasters Digital Marketing | Local SEO specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Citation Building",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK", "CA", "AU"]
   },
+
+  FAQPage: {
+    items: [
+      "How many citations does a local business need?",
+      "How long does citation building take to affect rankings?",
+      "Do you provide citation building for all six markets?",
+      "What is the difference between a citation and a backlink?",
+      "Can inaccurate citations actively hurt rankings?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Local SEO",
+        url: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/"
+      },
+      {
+        position: 3,
+        name: "Citation Building Services",
+        url: "https://clickmastersdigitalmarketing.com/content-marketing/citation-building/"
+      }
+    ]
+  }
+}
 };

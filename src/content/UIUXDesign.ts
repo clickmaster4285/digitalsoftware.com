@@ -14,7 +14,7 @@ export const UIUXDesignContent = {
     titleHighlight: "Services",
     subtitle: "— because bad design is the most expensive thing you're not measuring.",
     description:
-      "The cost of poor UX does not appear on an invoice. It appears in your analytics as a 74% mobile bounce rate, a 3.8-minute average session that never reaches the pricing page, a 68% cart abandonment rate, a customer support ticket queue full of questions that a better-designed interface would have answered, and a churn rate that your product team cannot explain because the product works it is just genuinely difficult to use.",
+      "Expert UI/UX design — user research, information architecture, wireframing, visual design, design systems & usability testing. Measurable business outcomes. Free audit.",
     stats: [
       { k: "$1 → $100", v: "ROI of UX investment" },
       { k: "69%", v: "Trial conversion lift (case)" },
@@ -303,5 +303,60 @@ export const UIUXDesignContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | UI/UX design specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "UI/UX Design Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is the difference between UI design and UX design?",
+      "How do you approach UX for a brand new product versus an existing product?",
+      "How long does a UX design engagement take?",
+      "What tools do you use for UI/UX design?",
+      "Do you conduct user research in multiple languages?",
+      "Can you work with our existing design system?",
+      "How do you handle design handoff to development teams?",
+      "How do you prioritise what to design or redesign first?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "UI/UX Design Services",
+        url: "https://clickmastersdigitalmarketing.com/ui-ux-design-services/"
+      }
+    ]
+  }
+}
 };

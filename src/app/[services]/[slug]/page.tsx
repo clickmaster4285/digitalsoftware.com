@@ -119,6 +119,7 @@ import { PwaDevelopmentContent } from "@/content/PwaDevelopmentContent";
 import { HeadlessCommerceContent } from "@/content/HeadlessCommerceContent";
 import { WebsiteMaintenanceContent } from "@/content/WebsiteMaintenanceContent";
 import { AdaComplianceContent } from "@/content/AdaComplianceContent";
+import SchemaMarkup from "@/components/landingPage/SchemaMarkup";
 
 const routedPageRegistry: Record<string, any> = {
 
@@ -891,6 +892,7 @@ export default function ServicesPage() {
 
   return (
     <div className="theme-light w-full overflow-x-clip bg-background text-foreground">
+          <SchemaMarkup schema={content.schema} slug={slug} />
       <main>
         <Hero content={content} />
         <Intro content={content} />

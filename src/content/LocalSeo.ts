@@ -3,7 +3,7 @@ export const LocalSeoContent = {
   metadata: {
     url: "https://clickmastersdigitalmarketing.com/local-seo-services/",
     seoTitle: "Local SEO Services Dominate Your Geographic Market | Clickmasters",
-    metaDescription: "Local SEO services that put you #1 in Google Maps and local search. GBP optimization, citations, review strategy & localized content for USA, UK & UAE. Get your free local audit today.",
+    metaDescription: "Local SEO services that put you #1 in Google Maps and local search. GBP optimization, citations, review strategy & localized content for USA, UK & UAE.",
     schema: "Service + LocalBusiness + FAQPage + Organization + BreadcrumbList",
     author: "Amjad Khan, CEO Clickmasters Digital Marketing",
     primaryKeyword: "local seo services",
@@ -14,10 +14,10 @@ export const LocalSeoContent = {
   },
   hero: {
     tag: "Local SEO",
-    title: "Local SEO Services",
-    titleHighlight: "— Dominate Your Geographic Market in 2026",
+    title: "Local SEO Services — Dominate Your Geographic  ",
+    titleHighlight: "Market | Clickmasters",
     subtitle: "",
-    description: "When someone in your city searches for what you sell, three things happen. One of your competitors shows up in the Google Maps pack. Another appears in the top three organic results. And somewhere on page two, or not at all is your business. That gap is not a content problem. It is not a website design problem. It is a local SEO problem. And it is costing you customers every single day.",
+    description: "Local SEO services that put you #1 in Google Maps and local search. GBP optimization, citations, review strategy & localized content for USA, UK & UAE.",
     stats: [
       { k: "1,200+", v: "Local businesses served" },
       { k: "312%", v: "Increase in appointments" },
@@ -307,4 +307,85 @@ export const LocalSeoContent = {
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | 10+ years local SEO expertise across 4 markets",
   },
+
+  schema: {
+  Service: {
+    serviceType: "Local SEO Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  LocalBusiness: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    telephone: "",
+    openingHours: "",
+    address: {
+      streetAddress: "",
+      addressLocality: "",
+      addressRegion: "",
+      postalCode: "",
+      addressCountry: ""
+    },
+    geo: {
+      latitude: "",
+      longitude: ""
+    },
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  FAQPage: {
+    items: [
+      "How long does it take to rank in the Google Maps local pack?",
+      "Do I need a physical address in every city I want to rank in?",
+      "Can you help with a new business that has no online presence at all?",
+      "How important are online reviews for local SEO rankings?",
+      "What is the difference between local SEO and regular SEO?",
+      "We have multiple locations. Do you handle all of them?",
+      "How do you handle negative reviews?",
+      "What happens to our local rankings if we move locations?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "Local SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/local-seo-services/"
+      }
+    ]
+  }
+}
 };

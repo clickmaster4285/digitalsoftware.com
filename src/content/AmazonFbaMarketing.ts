@@ -14,7 +14,7 @@ export const AmazonFbaMarketingContent = {
     titleHighlight: "Marketing",
     subtitle: "— dominate your category. Scale your private label. Protect your margins.",
     description:
-      "Amazon's marketplace generated over $500 billion in gross merchandise value in 2024. The FBA sellers sharing that revenue are not competing on an equal footing. The top 10% of sellers in every product category capture a disproportionate share of sales the sellers who have mastered the specific combination of listing optimisation, sponsored advertising, review strategy, and inventory management that Amazon's A10 algorithm rewards with category dominance. The remaining 90% are generating thin revenue against increasing FBA fees and PPC spend that climbs without proportionate return.",
+      "Amazon FBA marketing services — listing optimisation, Amazon PPC, review strategy, A+ content and off-Amazon traffic for FBA private label sellers.",
     stats: [
       { k: "$500B+", v: "Amazon GMV 2024" },
       { k: "10%", v: "Sellers capture most sales" },
@@ -252,4 +252,56 @@ export const AmazonFbaMarketingContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
   },
+  schema: {
+  Service: {
+    serviceType: "Amazon FBA Marketing",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE"]
+  },
+
+  FAQPage: {
+    items: [
+      "How long does it take to improve Amazon rankings?",
+      "What is a sustainable ACoS for Amazon FBA?",
+      "Do you work with sellers on Amazon UK, Amazon US, and Amazon UAE?",
+      "What is the minimum monthly revenue for your Amazon FBA services to be worthwhile?",
+      "How do you handle the transition from existing PPC campaigns?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "PPC Services",
+        url: "https://clickmastersdigitalmarketing.com/pay-per-click/ppc-management/"
+      },
+      {
+        position: 3,
+        name: "Amazon FBA Marketing",
+        url: "https://clickmastersdigitalmarketing.com/amazon-fba-marketing/"
+      }
+    ]
+  }
+}
 };

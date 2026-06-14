@@ -10,11 +10,11 @@ export const InfluencerMarketingContent = {
   },
   hero: {
     tag: "[ Service · 10 ] INFLUENCER MARKETING",
-    title: "Influencer Marketing Services — Authentic Reach That",
-    titleHighlight: "Paid Advertising Cannot Buy",
-    subtitle: "",
+    title: "Influencer Marketing Services — Authentic Reach ",
+    titleHighlight: "at Scale ",
+    subtitle: "| Clickmasters",
     description:
-      "There is a reason consumers trust influencers more than they trust brands. Brands speak about themselves with obvious self-interest. They control their own narrative, curate their own image, and select the information they present. Consumers know this. They discount brand claims accordingly — applying skepticism to advertising that they suspend for a recommendation from someone they have chosen to follow because they genuinely find that person's perspective valuable. When a creator their audience has followed for three years says they use your product, that recommendation carries a weight of social trust that no amount of paid advertising budget can replicate. It is the digital equivalent of a personal referral — and personal referrals have always been the highest-converting form of marketing.",
+      "Influencer marketing services for e-commerce, lifestyle & B2B brands. Micro, macro & nano influencer campaigns with ROI tracking. Free consultation today.",
     stats: [
       { k: "820", v: "influencer posts (client example)" },
       { k: "$380K", v: "attributed revenue (client example)" },
@@ -314,4 +314,61 @@ export const InfluencerMarketingContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Influencer marketing specialist | 10+ years",
   },
+
+  schema: {
+  Service: {
+    serviceType: "Influencer Marketing",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "What is the difference between macro-influencers and micro-influencers?",
+      "How do you measure the ROI of influencer marketing?",
+      "How many influencers do I need to see results?",
+      "How do you handle creators who don't deliver or produce poor content?",
+      "Can influencer content be repurposed for paid advertising?",
+      "How long does an influencer marketing campaign take from start to results?",
+      "What is the typical cost of influencer marketing?",
+      "Do you work with influencers in specific industries only?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Social Media Marketing",
+        url: "https://clickmastersdigitalmarketing.com/social-media-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Influencer Marketing Services",
+        url: "https://clickmastersdigitalmarketing.com/influencer-marketing-services/"
+      }
+    ]
+  }
+}
 };

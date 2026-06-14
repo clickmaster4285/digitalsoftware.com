@@ -17,8 +17,8 @@ export const PodcastMarketingServicesContent = {
     tag: "Podcast Marketing",
     title: "Podcast Marketing Services",
     titleHighlight: "— Grow Your Audience, Build Authority, Generate Revenue",
-    subtitle: "",
-    description: "There are over five million podcasts registered on Apple Podcasts. Fewer than 20% of them have published more than ten episodes. Fewer still are consistently growing their audience, building brand authority for their business, and converting listeners into customers. The gap between a podcast that compounds in value over time and one that stalls at the same 200 downloads per episode for years is almost never the quality of the content. It is the quality of the marketing.",
+    subtitle: "| Clickmasters",
+    description: "Expert podcast marketing — launch strategy, SEO, repurposing, paid growth & monetisation. Grow listeners, build brand authority & generate leads. Free audit.",
     stats: [
       { k: "800 → 12K", v: "Downloads per episode" },
       { k: "$112K", v: "Podcast-generated revenue" },
@@ -281,4 +281,61 @@ export const PodcastMarketingServicesContent = {
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Podcast marketing specialist | 10+ years",
   },
+
+  schema: {
+  Service: {
+    serviceType: "Podcast Marketing",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How many downloads does a podcast need to be successful?",
+      "How long does it take for a podcast to grow meaningfully?",
+      "What equipment do I need to start a podcast?",
+      "Should I interview guests or record solo episodes?",
+      "How do we generate business leads from our podcast?",
+      "How do you repurpose podcast content effectively?",
+      "Is video podcasting worth the additional production effort?",
+      "Do you help with podcast monetisation?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Content Marketing",
+        url: "https://clickmastersdigitalmarketing.com/content-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Podcast Marketing Services",
+        url: "https://clickmastersdigitalmarketing.com/podcast-marketing-services/"
+      }
+    ]
+  }
+}
 };

@@ -12,9 +12,9 @@ export const VoiceSearchOptimizationContent = {
     tag: "[ Service · 20 ] Voice Search",
     title: "Voice Search",
     titleHighlight: "Optimization",
-    subtitle: "— be the answer when customers speak their search.",
+    subtitle: "Be the Answer When Customers Speak Their Search",
     description:
-      "More than a billion voice searches are conducted every month. People ask Google Assistant, Siri, Alexa, and Cortana for directions to the nearest coffee shop, the best plumber in their neighbourhood, what hours a dental practice is open, and which law firm handles personal injury cases nearby. These searches happen on smartphones, smart speakers, in cars, and through smart TVs and they share one critical characteristic that distinguishes them from typed search: they expect a single, specific answer, not a list of ten results.",
+      "Voice search optimization services — schema markup, featured snippet, local voice SEO, Siri/Alexa/Google Assistant visibility. UK, USA, UAE, Canada, Australia.",
     stats: [
       { k: "1B+", v: "Voice searches monthly" },
       { k: "35%", v: "US adults own smart speakers" },
@@ -300,13 +300,57 @@ export const VoiceSearchOptimizationContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Voice search optimization specialist | 10+ years",
   },
-  // EMPTY problem section to prevent crash in ServicesPage.tsx - NO CONTENT ADDED
-  problem: {
-    title: "",
-    titleHighlight: "",
-    items: [],
-    afterTitle: "",
-    afterHighlight: "",
-    afterItems: [],
+  schema: {
+  Service: {
+    serviceType: "Voice Search Optimization",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK", "CA", "AU"]
   },
+
+  FAQPage: {
+    items: [
+      "Is voice search optimisation different from regular SEO?",
+      "Which businesses benefit most from voice search optimisation?",
+      "How long does voice search optimisation take to produce results?",
+      "How do you measure voice search results?",
+      "Does voice search optimisation work in Arabic and other languages?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "Voice Search Optimization",
+        url: "https://clickmastersdigitalmarketing.com/voice-search-optimization/"
+      }
+    ]
+  }
+}
 };

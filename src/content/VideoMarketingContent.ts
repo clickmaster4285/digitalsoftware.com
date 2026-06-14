@@ -14,7 +14,7 @@ export const VideoMarketingContent = {
     titleHighlight: "Drives Revenue",
     subtitle: "",
     description:
-      "Video is not the future of marketing. Video is the present of marketing — the dominant content format across every major digital platform in 2026, the format that earns the highest organic reach algorithmically, the format that produces the highest engagement rates, the format that drives the strongest brand recall, and the format that most effectively builds the trust that converts prospects into customers.",
+      "Expert video marketing services — brand videos, explainer videos, social media video & YouTube strategy. End-to-end video production and distribution.",
     stats: [
       { k: "2.7B", v: "YouTube monthly users" },
       { k: "135%", v: "more organic reach for video on Facebook" },
@@ -306,5 +306,60 @@ export const VideoMarketingContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Video marketing specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Video Marketing",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "How much does video marketing cost?",
+      "Do we need professional filming equipment or can we use our smartphone?",
+      "How long should our videos be?",
+      "How do we measure the ROI of video marketing?",
+      "Can you help with video content if we are camera-shy or don't have a spokesperson?",
+      "How quickly can you produce a video?",
+      "Do you handle YouTube channel management, not just video production?",
+      "What industries do you have video marketing experience in?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Content Marketing",
+        url: "https://clickmastersdigitalmarketing.com/content-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Video Marketing Services",
+        url: "https://clickmastersdigitalmarketing.com/video-marketing-services/"
+      }
+    ]
+  }
+}
 };

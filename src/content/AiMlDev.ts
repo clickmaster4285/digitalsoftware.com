@@ -14,7 +14,7 @@ export const AiMlDevContent = {
     titleHighlight: "Company",
     subtitle: "— build intelligence into your products and processes.",
     description:
-      "Artificial intelligence in 2026 is no longer a research discipline or a competitive differentiator reserved for companies with billion-dollar R&D budgets. It is production infrastructure deployed in the products that users interact with daily, embedded in the operational processes that determine how efficiently businesses run, and generating measurable commercial outcomes in every industry from healthcare and finance to retail and manufacturing.",
+      "Expert AI & ML development — custom models, LLM apps, RAG, computer vision, MLOps & predictive analytics. USA, UK & UAE. Free AI consultation.",
     stats: [
       { k: "85-90%", v: "AI projects fail to ship" },
       { k: "74%", v: "Processing time reduction" },
@@ -283,5 +283,59 @@ export const AiMlDevContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | AI & ML development specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "AI & ML Development",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What business problems are most suitable for AI and machine learning?",
+      "How much training data do I need to build an ML model?",
+      "What is the difference between using an AI API and building a custom model?",
+      "How long does AI and ML development take?",
+      "How do you handle data privacy and security in AI development?",
+      "What is MLOps and why does it matter?",
+      "Can you build AI into an existing product or system?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "App & Software Development",
+        url: "https://clickmastersdigitalmarketing.com/app-software-development/"
+      },
+      {
+        position: 3,
+        name: "AI & ML Development",
+        url: "https://clickmastersdigitalmarketing.com/ai-ml-development/"
+      }
+    ]
+  }
+}
 };

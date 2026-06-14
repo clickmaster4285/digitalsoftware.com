@@ -11,10 +11,10 @@ export const SocialMediaStrategyContent = {
   },
   hero: {
     tag: "[ Consulting ] Social Media Strategy",
-    title: "Social Media Strategy Consulting",
-    titleHighlight: "— Build the Social Media Programme That Produces Commercial Results, Not Just Content",
-    subtitle: "",
-    description: "Most businesses are not lacking social media activity. They are lacking a social media strategy and the difference between the two is the difference between a content calendar and a commercial growth programme. The activity is visible: posts published consistently across two or three platforms, a content team producing graphics, videos, and captions. What is missing is the coherent answer to the commercial question: what is each social media platform specifically doing for the business, for which audience, with what objective, measured against which commercial metric?",
+    title: "Social Media ",
+    titleHighlight: "Strategy Consulting",
+    subtitle: "— Build the Social Media Programme That Produces Commercial Results, Not Just Content",
+    description: "Social media strategy consultant — platform strategy, content pillars, LinkedIn B2B, DTC Instagram/TikTok, measurement framework and commercial attribution.",
     stats: [
       { k: "42", v: "Qualified leads/quarter" },
       { k: "31%", v: "Revenue from social (from 8%)" },
@@ -197,4 +197,56 @@ export const SocialMediaStrategyContent = {
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO | 2026",
   },
+  schema: {
+  Service: {
+    serviceType: "Social Media Strategy Consulting",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How is strategy consulting different from social media management?",
+      "How long does a social media strategy engagement take?",
+      "Do you specialise in particular platforms or sectors?",
+      "Can you work with our existing in-house team?",
+      "How do you measure social media ROI?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Social Media",
+        url: "https://clickmastersdigitalmarketing.com/social-media-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Social Media Strategy Consulting",
+        url: "https://clickmastersdigitalmarketing.com/social-media-strategy-consulting/"
+      }
+    ]
+  }
+}
 };

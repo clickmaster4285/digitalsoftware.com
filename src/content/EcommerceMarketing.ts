@@ -18,7 +18,7 @@ export const EcommerceMarketingServicesContent = {
     title: "E-Commerce Marketing Services",
     titleHighlight: "— Turn Traffic Into Revenue That Grows Month After Month",
     subtitle: "",
-    description: "Traffic without conversion is advertising spend without return. Conversion without retention is a business that acquires customers once and watches them leave. Retention without lifetime value optimisation is a business that keeps customers but never realises their full commercial potential. E-commerce marketing is the complete system that connects each of these stages from the first paid search click to the fifth repeat purchase to the product review that brings the next customer.",
+    description: "Expert e-commerce marketing — Google Shopping, Meta Ads, email/SMS, SEO, CRO & Amazon. Full-funnel for DTC brands. USA, UK & UAE. Free consultation.",
     stats: [
       { k: "216%", v: "Revenue growth (skincare brand)" },
       { k: "£520k", v: "Incremental email revenue (fashion)" },
@@ -278,5 +278,58 @@ export const EcommerceMarketingServicesContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | E-commerce marketing specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "E-Commerce Marketing Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is e-commerce marketing and what does it cover?",
+      "What is the most important marketing channel for e-commerce?",
+      "How much does e-commerce marketing cost?",
+      "How long does it take to see results from e-commerce marketing?",
+      "What e-commerce platforms do you work with?",
+      "How do you approach international e-commerce expansion?",
+      "What is the typical e-commerce marketing ROI?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "E-Commerce Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-marketing/"
+      },
+      {
+        position: 3,
+        name: "E-Commerce Marketing Services",
+        url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-marketing/"
+      }
+    ]
+  }
+}
 };

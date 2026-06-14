@@ -14,7 +14,7 @@ export const BigCommerceMarketingContent = {
     titleHighlight: "Unlock the Revenue Your BigCommerce Store Is Built to Deliver",
     subtitle: "",
     description:
-          "Before: your BigCommerce store is generating revenue — enough to justify the platform investment, enough to validate the product market fit — but not growing at the rate the platform's enterprise capabilities were chosen to support. The traffic is inconsistent. The organic search presence is thin. The email programme is generating a fraction of the revenue that comparable stores in the category are reporting. The paid acquisition is either absent or generating ROAS that makes scaling unprofitable. The store is functional. It is not yet performing.\n\nAfter: a systematic, channel-diversified marketing programme is in place. Google Shopping is capturing the high-intent product searches that represent the category's most commercially valuable traffic. The SEO programme is building the organic authority that generates compounding traffic at zero marginal cost per visitor. The email flows — welcome series, abandoned cart, post-purchase, win-back — are running continuously, generating revenue from the customer lifecycle events that happen whether or not anyone on your team is at their desk. The conversion rate is higher because the specific friction points that were preventing purchase completion have been identified and resolved. Revenue is growing month-on-month in a way that the business can plan around.\n\nBridge: the difference between the before and the after is a systematic, BigCommerce-specific marketing programme executed by an agency that understands BigCommerce's specific SEO architecture, its native integrations, its headless commerce capabilities, and the marketing stack configurations that produce the best commercial outcomes on the platform. At Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we are that agency — serving BigCommerce merchants across the USA, UK, UAE, and Pakistan who are ready to grow beyond their current trajectory.",
+          "Expert BigCommerce marketing agency — Google Shopping, Klaviyo, BigCommerce SEO, CRO, headless & B2B. USA, UK & UAE. Free BigCommerce marketing audit.",
      stats: [
     { k: "186%", v: "Revenue increase in 16 months" },
     { k: "5.4x", v: "Google Shopping ROAS" },
@@ -242,5 +242,59 @@ export const BigCommerceMarketingContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | BigCommerce marketing specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "BigCommerce Marketing Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is BigCommerce and who should use it?",
+      "How does BigCommerce SEO compare to Shopify and WooCommerce?",
+      "What email marketing platform works best with BigCommerce?",
+      "Does BigCommerce work well for headless commerce?",
+      "How much does BigCommerce marketing cost?",
+      "How long does BigCommerce marketing take to show results?",
+      "Can you help migrate from Shopify or WooCommerce to BigCommerce?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "E-Commerce Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-marketing/"
+      },
+      {
+        position: 3,
+        name: "BigCommerce Marketing Services",
+        url: "https://clickmastersdigitalmarketing.com/bigcommerce-marketing-services/"
+      }
+    ]
+  }
+}
 };

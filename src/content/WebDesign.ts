@@ -19,7 +19,7 @@ export const WebDesignContent = {
     titleHighlight: "Services",
     subtitle: "— websites that win customers before you say a word.",
     description:
-      "Your website is your most important salesperson. It works 24 hours a day, seven days a week, across every time zone your customers are in. It is the first impression the vast majority of your prospective customers will ever have of your business and it forms that impression in less than 50 milliseconds, before a single word has been read or a single piece of content has been consumed. Research consistently shows that 94% of first impressions of a website are design-related not content, not brand, not value proposition, but the visual and structural quality of the design itself.",
+      "Expert web design services — custom websites that convert visitors into customers. Mobile-first, SEO-integrated, conversion-optimised. USA, UK and UAE. Free website audit.",
     stats: [
       { k: "94%", v: "First impressions are design" },
       { k: "50ms", v: "To form a judgment" },
@@ -292,5 +292,60 @@ export const WebDesignContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Web design specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Web Design Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "How much does a professional website design cost?",
+      "How long does it take to design and build a website?",
+      "What platform do you recommend WordPress, Shopify, Webflow, or custom?",
+      "Do you handle content writing as well as design?",
+      "What does mobile-first design mean in practice?",
+      "How do you approach website redesigns without losing existing SEO rankings?",
+      "Do you provide ongoing website maintenance and support?",
+      "Can you redesign my website without disrupting the existing site while we build?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "Web Design Services",
+        url: "https://clickmastersdigitalmarketing.com/web-design-services/"
+      }
+    ]
+  }
+}
 };

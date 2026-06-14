@@ -12,9 +12,9 @@ export const WhiteLabelSeoContent = {
     tag: "[ Service · 18 ] White Label SEO",
     title: "White Label SEO",
     titleHighlight: "Services",
-    subtitle: "— professional SEO delivery under your brand.",
+    subtitle: "— Scalable Delivery for Agencies | Clickmasters",
     description:
-      "Your clients want SEO. You want to offer it. But hiring, training, and retaining a full in-house SEO team is expensive, time-consuming, and distracts your agency from the work it does best. Freelancers while cheap on paper are unreliable at scale, inconsistent in quality, and impossible to manage across multiple client accounts simultaneously. Neither option builds the reliable, profitable SEO service line your agency needs to compete and grow in 2026.",
+      "White label SEO services for marketing agencies & web design firms. Deliver professional SEO under your brand. No client contact. Transparent reporting. Partner today.",
     stats: [
       { k: "6,600/mo", v: "Search volume" },
       { k: "200+", v: "Agency partners" },
@@ -319,4 +319,61 @@ export const WhiteLabelSeoContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | White label SEO specialist | 10+ years",
   },
+
+  schema: {
+  Service: {
+    serviceType: "White Label SEO",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "Will my clients ever find out you are doing the work?",
+      "How quickly can we onboard a new client after winning an SEO account?",
+      "What information do you need from us to run a white label campaign?",
+      "Do you sign NDAs and white label agreements?",
+      "What happens if a client is unhappy with their SEO results?",
+      "How many white label SEO clients can you manage for a single agency?",
+      "Can I offer white label SEO for clients in any industry?",
+      "What is the minimum number of clients required to start a white label partnership?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "White Label SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/white-label-seo/"
+      }
+    ]
+  }
+}
 };

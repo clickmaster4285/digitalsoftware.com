@@ -14,9 +14,9 @@ export const WoocommerceMarketingContent = {
     tag: "[ Service ] WooCommerce Marketing Services",
     title: "WooCommerce Marketing Services —",
     titleHighlight: "Turn Your WordPress Store Into a Revenue-Generating Machine",
-    subtitle: "— the technical depth and full-stack marketing expertise WooCommerce stores require to scale.",
+    subtitle: "",
     description:
-      "WooCommerce powers 39% of all online stores — making it the most widely deployed e-commerce platform in the world. Brands choose WooCommerce because it gives them something Shopify does not: complete ownership of their platform, unlimited customisation capability, deep WordPress integration, and the flexibility to build the exact e-commerce experience their specific business requires without platform constraints or escalating subscription costs.",
+      "Expert WooCommerce marketing — SEO, Google Shopping, Klaviyo, checkout CRO & performance optimisation. WordPress specialists. USA, UK & UAE. Free consultation.",
     stats: [
       { k: "284%", v: "revenue growth in 18 months" },
       { k: "62%", v: "conversion rate improvement" },
@@ -292,5 +292,58 @@ export const WoocommerceMarketingContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | WooCommerce marketing specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "WooCommerce Marketing Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is WooCommerce marketing and how does it differ from Shopify marketing?",
+      "What are the most impactful WooCommerce marketing improvements for a store not yet marketing properly?",
+      "Which email platform is best for WooCommerce?",
+      "How does WooCommerce SEO compare to Shopify SEO?",
+      "How much does WooCommerce marketing cost?",
+      "Can you help migrate from Shopify to WooCommerce or vice versa?",
+      "What WooCommerce hosting do you recommend?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "E-Commerce Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-marketing/"
+      },
+      {
+        position: 3,
+        name: "WooCommerce Marketing Services",
+        url: "https://clickmastersdigitalmarketing.com/woocommerce-marketing-services/"
+      }
+    ]
+  }
+}
 };

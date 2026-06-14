@@ -14,7 +14,7 @@ export const WebAppContent = {
     title: "Web Application",
     titleHighlight: "Development",
     subtitle: "— custom web apps that solve the problem no off-the-shelf software can.",
-    description: "Every growing business eventually encounters the software ceiling. The moment when the combination of spreadsheets, legacy systems, and the SaaS tools that were not quite designed for your specific process creates more operational friction than it removes.",
+    description: "Custom web application development — React, Next.js, Node.js, Python. Internal tools, SaaS products, client portals. Full-stack development from discovery to deployment.",
     stats: [
       { k: "22h", v: "Weekly time saved (case study)" },
       { k: "$1.8M", v: "ARR generated (case study)" },
@@ -245,5 +245,56 @@ export const WebAppContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Web application development specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Web Application Development",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK", "CA", "AU"]
   },
+
+  FAQPage: {
+    items: [
+      "How long does web application development take?",
+      "What does web application development cost?",
+      "Should I build a web app or a native mobile app?",
+      "How do you handle security for applications handling sensitive business data?",
+      "Do you provide ongoing maintenance after launch?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Development",
+        url: "https://clickmastersdigitalmarketing.com/web-development-services/"
+      },
+      {
+        position: 3,
+        name: "Web Application Development",
+        url: "https://clickmastersdigitalmarketing.com/web-application-development/"
+      }
+    ]
+  }
+}
 };

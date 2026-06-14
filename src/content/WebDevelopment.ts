@@ -13,7 +13,7 @@ export const WebDevelopmentContent = {
     title: "Web Development",
     titleHighlight: "Services",
     subtitle: "— the technical foundation your business deserves.",
-    description: "A beautiful design is a promise. Development is whether that promise is kept.\n\nThe website your customers experience is not a design file. It is code running on servers, rendering in browsers, processing form submissions, synchronising with your CRM, serving images at the right resolution for each device, calculating checkout totals, triggering email sequences, and doing all of this within the 2.5 seconds that Google and your customers consider acceptable page load time. Every part of that experience is a development decision.",
+    description: "Expert web development — WordPress, Shopify, Next.js, custom web applications. Core Web Vitals compliant, security hardened, integration-ready. Free consultation.",
     stats: [
       { k: "53%", v: "Mobile visits abandoned after 3s" },
       { k: "1.4s", v: "Post-rebuild load time (was 8.2s)" },
@@ -279,5 +279,60 @@ export const WebDevelopmentContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "Serving businesses in USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Web development specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Web Development Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is the difference between web design and web development?",
+      "How long does web development take?",
+      "What platform should we build our website on?",
+      "What are Core Web Vitals and why do they matter?",
+      "How do you approach website security?",
+      "Can you take over development of a website that was built by another developer?",
+      "Do you handle website hosting as well as development?",
+      "What is included in a website maintenance retainer?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "Web Development Services",
+        url: "https://clickmastersdigitalmarketing.com/web-development/"
+      }
+    ]
+  }
+}
 };

@@ -25,11 +25,11 @@ export const TechnicalSeoContent = {
   },
   hero: {
     tag: "[ Service ] Technical SEO Services",
-    title: "Technical SEO Services That Fix",
-    titleHighlight: "What's Killing Your Rankings",
-    subtitle: "— fix the infrastructure that determines whether Google can find, trust, and rank your content at all.",
+    title: "Technical SEO Services       ",
+    titleHighlight: "That Fix What's ",
+    subtitle: "Killing Your Rankings",
     description:
-      "You have invested in content. You have built backlinks. You have spent months doing everything the SEO blogs tell you to do. Yet your pages still are not ranking where they should be, your competitors keep outranking you, and Google's Search Console is showing errors you do not fully understand. The problem is almost certainly technical.",
+      "Expert technical SEO services for businesses in the USA, UK, UAE & Pakistan. 48-point audits, Core Web Vitals, crawl fixes, schema markup. Book your free technical audit today.",
     stats: [
       { k: "800+", v: "websites audited since 2015" },
       { k: "67%", v: "organic traffic increase in 90 days" },
@@ -430,4 +430,61 @@ export const TechnicalSeoContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | 10+ years technical SEO expertise",
   },
+
+  schema: {
+  Service: {
+    serviceType: "Technical SEO",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["USA", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How long does a technical SEO audit take?",
+      "Do I need a developer to implement technical SEO fixes?",
+      "How quickly will I see results after technical fixes?",
+      "Our site was built by a developer years ago and no one knows how it works. Can you still audit it?",
+      "What platforms do you support for technical SEO?",
+      "Is technical SEO a one-time project or ongoing?",
+      "We recently migrated our website. How does technical SEO apply?",
+      "What is the difference between technical SEO and on-page SEO?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "Technical SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/technical-seo-services/"
+      }
+    ]
+  }
+}
 };

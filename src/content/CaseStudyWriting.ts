@@ -12,9 +12,9 @@ export const CaseStudyWritingContent = {
     tag: "[ Service · 11 ] Case Study Writing",
     title: "Case Study Writing",
     titleHighlight: "Services",
-    subtitle: "— the proof that closes deals.",
+    subtitle: "— Proof That Closes Deals | Clickmasters",
     description:
-      "Prospects do not believe your claims. They believe your clients. No matter how well-written your website copy is, no matter how compelling your value proposition, no matter how polished your sales deck there is a credibility ceiling that self-promotional marketing cannot break through. The gap between what a business claims it does and what a prospect believes it actually delivers is bridged by one thing more effectively than anything else in the entire content marketing arsenal: a well-written case study that documents a real client's real results in specific, verifiable, credible terms.",
+      "Expert case study writing — interview-based, results-driven client success stories that build trust, support sales and earn backlinks. USA, UK and UAE.",
     stats: [
       { k: "79%", v: "B2B buyers use case studies" },
       { k: "38%", v: "Proposal win rate increase" },
@@ -274,5 +274,60 @@ export const CaseStudyWritingContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Case study writing specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Case Study Writing",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What makes a great case study?",
+      "How do we get clients to agree to participate in a case study?",
+      "Do you interview the clients directly or do we need to?",
+      "How long does it take to produce a case study?",
+      "How many case studies do we need?",
+      "Can you write case studies from existing information without a new client interview?",
+      "How should case studies be used in the sales process?",
+      "Can case studies help with SEO as well as sales?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Content Marketing",
+        url: "https://clickmastersdigitalmarketing.com/content-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Case Study Writing Services",
+        url: "https://clickmastersdigitalmarketing.com/content-marketing/case-study-writing/"
+      }
+    ]
+  }
+}
 };

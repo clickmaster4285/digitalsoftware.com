@@ -14,7 +14,7 @@ export const DevopsServicesContent = {
     titleHighlight: "Ship Faster, Break Less, Recover Instantly",
     subtitle: "",
     description:
-      "Software delivery speed is a competitive variable. The engineering teams that deploy multiple times per day operate with a feedback loop that teams deploying weekly or monthly cannot replicate — they learn faster, correct course faster, and accumulate product improvements at a rate that compounds into market position over months and years.\n\nThe difference between a team deploying daily and a team deploying monthly is rarely the talent of the engineers. It is the infrastructure. The CI/CD pipeline that catches regressions before they reach production. The containerisation and orchestration that makes deployments predictable and reversible. The infrastructure-as-code that ensures every environment is identical and every infrastructure change is version-controlled. The monitoring and observability stack that makes production problems visible within seconds of their occurrence. The on-call automation that routes the right alert to the right person at the right time.\n\nMost engineering teams know this infrastructure is the bottleneck. Most have not built it — because building it takes the engineering time that the product roadmap is competing for, because the team's expertise is in application code rather than platform engineering, and because the investment in DevOps infrastructure is invisible to the users who see only the features it enables.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we design and implement DevOps infrastructure for engineering teams across the USA, UK, UAE, and Pakistan — from CI/CD pipeline modernisation and Kubernetes adoption to full platform engineering engagements that transform how teams build, test, and ship software.",
+      "Expert DevOps services — CI/CD pipelines, Kubernetes, Terraform IaC, observability & DevSecOps. USA, UK & UAE. Free DevOps assessment.",
     stats: [
       { k: "30x", v: "Deployment frequency increase" },
       { k: "42%", v: "Infrastructure cost reduction" },
@@ -250,5 +250,59 @@ export const DevopsServicesContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | DevOps specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "DevOps Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What are DevOps services and what do they include?",
+      "What are the DORA metrics and why do they matter?",
+      "Should we use Kubernetes or is it overkill for our team?",
+      "How do you approach secrets management?",
+      "What is GitOps and how does it differ from traditional CD?",
+      "How long does a DevOps transformation engagement take?",
+      "Can you help an existing engineering team upskill in DevOps practices?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "App & Software Development",
+        url: "https://clickmastersdigitalmarketing.com/app-software-development/"
+      },
+      {
+        position: 3,
+        name: "DevOps Services",
+        url: "https://clickmastersdigitalmarketing.com/devops-services/"
+      }
+    ]
+  }
+}
 };

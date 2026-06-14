@@ -13,7 +13,7 @@ export const AiPersonalizationContent = {
     title: "AI Personalisation",
     titleHighlight: "at Scale",
     subtitle: "— stop treating every customer like they are the same person.",
-    description: "Your website shows the same homepage to the first-time visitor and the loyal customer who has purchased six times. Your email campaign goes to every subscriber with the same subject line, the same hero image, and the same call to action. Your paid advertising shows the same creative to the cold prospect who has never heard of you and the warm lead who visited the pricing page three times last week.\n\nEvery customer who receives a generic experience knows, on some level, that the brand does not know them. And businesses that do not know their customers that serve the same mass-market message to individuals with distinct needs, histories, and intentions are leaving a measurable and specific revenue gap on the table.",
+    description: "Expert AI personalisation — website, email, product recommendations, ad creative & in-app. E-commerce, SaaS, media. USA, UK & UAE. Free consultation.",
     stats: [
       { k: "35%", v: "Amazon revenue from recs" },
       { k: "80%", v: "Netflix from personalisation" },
@@ -256,5 +256,59 @@ export const AiPersonalizationContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "Serving businesses in USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | AI personalisation specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "AI Personalisation Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is personalisation marketing and how does it differ from segmentation?",
+      "How much data do I need to start personalising?",
+      "What personalisation platforms do you work with?",
+      "How long does it take to see results from personalisation?",
+      "How do you handle personalisation and data privacy?",
+      "Can personalisation work for B2B companies or is it primarily for e-commerce?",
+      "How do I measure the ROI of personalisation?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "AI Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ai-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "AI Personalisation at Scale",
+        url: "https://clickmastersdigitalmarketing.com/ai-personalization/"
+      }
+    ]
+  }
+}
 };

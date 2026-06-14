@@ -15,9 +15,9 @@ export const MagentoDevContent = {
     tag: "[ Service ] Magento Development Services",
     title: "Magento Development Services —",
     titleHighlight: "Enterprise E-Commerce Architecture for Businesses That Have Outgrown Shopify",
-    subtitle: "— the architecture, development, integration, and ongoing technical management that makes Magento deliver on its commercial promise.",
+    subtitle: "",
     description:
-      "You are running a mid-market or enterprise e-commerce business. You have been on Shopify or WooCommerce and you have hit the ceiling — the catalogue size, the transaction volume, the multi-store requirements, the B2B pricing complexity, or the custom integration demands of your specific operation exceed what your current platform was designed to handle. Every workaround you implement to extend the platform's capability adds technical debt, creates performance issues, or introduces costs that do not scale.",
+      "Magento 2 / Adobe Commerce development — implementation, migration, B2B commerce, ERP integration and performance optimisation for mid-market and enterprise e-commerce.",
     stats: [
       { k: "64%", v: "conversion rate improvement post-migration" },
       { k: "62%", v: "order processing cost reduction" },
@@ -253,4 +253,57 @@ export const MagentoDevContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | 2026",
   },
+
+  schema: {
+  Service: {
+    serviceType: "Magento Development",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK", "CA", "AU"]
+  },
+
+  FAQPage: {
+    items: [
+      "How long does a Magento implementation take?",
+      "What does a Magento implementation cost?",
+      "Magento Open Source vs Adobe Commerce — which is right for my business?",
+      "Can you migrate our existing Shopify or WooCommerce store to Magento?",
+      "How do you handle Magento security patches?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Development",
+        url: "https://clickmastersdigitalmarketing.com/web-development-services/"
+      },
+      {
+        position: 3,
+        name: "Magento Development Services",
+        url: "https://clickmastersdigitalmarketing.com/magento-development-services/"
+      }
+    ]
+  }
+}
 };

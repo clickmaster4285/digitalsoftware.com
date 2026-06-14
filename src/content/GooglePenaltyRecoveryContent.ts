@@ -10,11 +10,11 @@ export const GooglePenaltyRecoveryContent = {
   },
   hero: {
     tag: "[ Service · 04 ] PENALTY RECOVERY",
-    title: "Google Penalty Recovery — Restore Your Rankings and",
-    titleHighlight: "Rebuild Your Organic Revenue",
+    title: "Google Penalty Recovery — Restore Your Rankings",
+    titleHighlight: " | Clickmasters",
     subtitle: "",
     description:
-      "You woke up one morning and your traffic was gone. Not down a little — gone. A site generating 8,000 organic visitors a month is now generating 400. Revenue that depended on that traffic has collapsed. Your team is panicking. Your board wants answers. Or perhaps it happened more slowly: a steady, quiet erosion of rankings over three to six months following a Google algorithm update, until you realized that the organic channel you depended on had quietly deteriorated to a fraction of its former output. Both scenarios are Google penalties — and both are recoverable.",
+      "Google penalty recovery for manual actions & algorithmic penalties. Expert diagnosis, link disavow, content remediation & reconsideration requests. Free penalty audit.",
     stats: [
       { k: "180+", v: "penalty recoveries since 2015" },
       { k: "72%", v: "traffic drop reversed (client example)" },
@@ -275,4 +275,62 @@ export const GooglePenaltyRecoveryContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | 180+ penalty recoveries | 10+ years SEO expertise",
   },
+
+
+  schema: {
+  Service: {
+    serviceType: "Google Penalty Recovery",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How do I know if I have a Google penalty vs a normal ranking fluctuation?",
+      "Can you guarantee that my traffic will be fully restored?",
+      "My previous SEO agency caused the penalty by building bad links. Is recovery still possible?",
+      "How much does penalty recovery cost?",
+      "We received a manual action notification months ago and ignored it. Can we still recover?",
+      "What is a disavow file and do I need to submit one?",
+      "Can a competitor cause a Google penalty for my site by building bad links to it?",
+      "How quickly will my traffic recover after the manual action is revoked?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "Google Penalty Recovery",
+        url: "https://clickmastersdigitalmarketing.com/google-penalty-recovery/"
+      }
+    ]
+  }
+}
 };

@@ -10,11 +10,11 @@ export const MarketingAttributionContent = {
   },
   hero: {
     tag: "[ Service · 08 ] ATTRIBUTION",
-    title: "Marketing Attribution Services — Know Exactly Which Marketing",
-    titleHighlight: "Drives Revenue",
-    subtitle: "",
+    title: "Marketing Attribution ",
+    titleHighlight: "Services",
+    subtitle: "Know Exactly Which Marketing Drives Revenue",
     description:
-      "You are spending money on marketing every month. Paid search, social media, email, SEO, content, display, influencers, events — or some combination of these. And at the end of every month, you are looking at a revenue number and a set of marketing reports that cannot definitively tell you which of those investments produced the revenue you are looking at. Last-click attribution says paid search drove it. First-click attribution says organic search drove it. Your Facebook Ads dashboard says Facebook drove it. Your Google Ads dashboard says Google drove it. All of them are right about something. None of them is right about everything.",
+      "Expert marketing attribution — multi-touch attribution, MMM, server-side tracking & unified measurement. USA, UK & UAE. Free attribution audit.",
     stats: [
       { k: "15-20%", v: "average ROI increase from MTA" },
       { k: "34%", v: "conversions recovered (client example)" },
@@ -261,4 +261,59 @@ export const MarketingAttributionContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Marketing attribution specialist | 10+ years",
   },
+  schema: {
+  Service: {
+    serviceType: "Marketing Attribution Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "What is marketing attribution and why does it matter?",
+      "What is the difference between last-click, first-click, and multi-touch attribution?",
+      "What is Marketing Mix Modelling and how is it different from multi-touch attribution?",
+      "How do I deal with the duplicate attribution problem across platforms?",
+      "How does iOS 14+ affect marketing attribution?",
+      "How long does it take to implement improved attribution?",
+      "How much does marketing attribution cost?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "AI Marketing",
+        url: "https://clickmastersdigitalmarketing.com/ai-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Marketing Attribution Services",
+        url: "https://clickmastersdigitalmarketing.com/marketing-attribution-services/"
+      }
+    ]
+  }
+}
 };

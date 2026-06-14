@@ -14,9 +14,9 @@ export const NewsletterContent = {
   hero: {
     tag: "[ Free ] Weekly Newsletter",
     title: "The Clickmasters Newsletter",
-    titleHighlight: "— Digital Marketing Intelligence, Delivered Weekly.",
-    subtitle: "",
-    description: "Digital marketing changes faster than any other commercial discipline. Algorithm updates reshape SEO rankings overnight. Platform policy changes alter the advertising landscape before agencies can update their client programmes. New AI tools emerge and render established workflows obsolete. The gap between the marketer who is current and the marketer who is six months behind is the gap between programmes that produce results and programmes that used to.",
+    titleHighlight: "— Digital Marketing Intelligence, ",
+    subtitle: "Delivered Weekly.",
+    description: "Subscribe to the Clickmasters weekly newsletter — algorithm updates, AI marketing intelligence, paid advertising developments and e-commerce insights. Free. No noise.",
     stats: [
       { k: "Weekly", v: "Delivery frequency" },
       { k: "6", v: "Markets covered" },
@@ -153,4 +153,53 @@ export const NewsletterContent = {
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO | Published weekly | Written by Amjad Khan and the Clickmasters team",
   },
+  schema: {
+  WebPage: {
+    "@type": "WebPage",
+    name: "The Clickmasters Newsletter — Digital Marketing Intelligence, Delivered Weekly",
+    description: "Weekly digital marketing intelligence from active programmes across SEO, paid advertising, AI, and e-commerce. Written by practitioners for practitioners. Subscribe free.",
+    url: "https://clickmastersdigitalmarketing.com/newsletter/",
+    publisher: {
+      "@type": "Organization",
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    author: {
+      "@type": "Person",
+      name: "Amjad Khan"
+    }
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Resources",
+        url: "https://clickmastersdigitalmarketing.com/resources/"
+      },
+      {
+        position: 3,
+        name: "Newsletter",
+        url: "https://clickmastersdigitalmarketing.com/newsletter/"
+      }
+    ]
+  }
+}
 };

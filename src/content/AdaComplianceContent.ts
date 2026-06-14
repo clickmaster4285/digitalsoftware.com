@@ -14,7 +14,7 @@ export const AdaComplianceContent = {
     titleHighlight: "Protect Your Business, Include Every User",
     subtitle: "",
     description:
-      "Web accessibility lawsuits under the Americans with Disabilities Act (ADA) have become one of the fastest-growing categories of federal litigation. In 2023, more than 4,600 ADA web accessibility lawsuits were filed in federal court — a 300% increase over 2018. The targets are not only large corporations. Small businesses, mid-sized companies, e-commerce brands, and professional services firms are all being sued — often by serial plaintiffs whose legal teams systematically identify websites with accessibility failures and file demand letters before litigation.\n\nThe legal risk is real. The remediation is achievable. And the window between receiving a demand letter and being named in a lawsuit is typically 30-60 days — not enough time to conduct a proper accessibility audit and implement comprehensive remediations if you have not already started.\n\nBut web accessibility is not only about legal protection. It is about inclusion — ensuring that the 26% of American adults living with a disability, the 2.2 billion people globally with a vision impairment, and the hundreds of millions of users who rely on screen readers, keyboard navigation, voice control, and other assistive technologies can access, understand, and use your website. An inaccessible website excludes those users entirely. An accessible website serves them as well as any other visitor — and in doing so, captures the customer and revenue potential that inaccessible competitors cannot.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we audit websites for ADA and WCAG 2.1 AA compliance, implement the technical and content remediations that close accessibility gaps, and provide the documentation and ongoing monitoring that protects businesses from accessibility-related legal exposure — for clients across the USA, UK, UAE, and Pakistan.",
+      "Expert ADA compliance & WCAG 2.1 AA accessibility — audit, remediation, ARIA, monitoring & VPAT. Legal protection + inclusive design. USA, UK & UAE. Free consultation.",
     stats: [
       { k: "4,600+", v: "ADA web lawsuits in 2023" },
       { k: "300%", v: "Increase since 2018" },
@@ -238,5 +238,59 @@ export const AdaComplianceContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Web accessibility specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "ADA Compliance & Web Accessibility",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "Does the ADA apply to all websites, or only certain types of businesses?",
+      "What are the most common ADA web accessibility failures?",
+      "How much does an accessibility audit and remediation cost?",
+      "How long does accessibility remediation take?",
+      "What is the difference between WCAG 2.1 AA and ADA compliance?",
+      "What is a VPAT and do I need one?",
+      "Can I be sued for ADA web accessibility even if my website is only partially inaccessible?",
+      "Do accessibility improvements affect my website's SEO?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "ADA Compliance & Web Accessibility",
+        url: "https://clickmastersdigitalmarketing.com/ada-compliance-web-accessibility/"
+      }
+    ]
+  }
+}
 };

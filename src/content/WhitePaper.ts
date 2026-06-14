@@ -16,9 +16,9 @@ export const WhitePaperWritingServicesContent = {
   hero: {
     tag: "White Paper Writing",
     title: "White Paper Writing Services",
-    titleHighlight: "— Establish Authority, Generate Leads, Win Complex Deals",
+    titleHighlight: "— Establish Authority, Generate Leads | Clickmasters",
     subtitle: "",
-    description: "Your competitors are publishing opinions. You should be publishing evidence. In B2B markets where purchasing decisions are complex, high-value, and made by committees rather than individuals, content that merely expresses views does not move deals. Content that synthesises original research, expert insight, and rigorous analysis into a definitive resource on a topic that matters to your buyers that is the content that earns the authority position that makes being chosen the natural conclusion of a well-conducted prospect's evaluation.",
+    description: "Expert white paper writing — research-based, analytically rigorous white papers for B2B authority and lead generation. USA, UK and UAE. Free consultation.",
     stats: [
       { k: "340", v: "Qualified leads in 90 days" },
       { k: "47", v: "Industry publications" },
@@ -284,5 +284,60 @@ export const WhitePaperWritingServicesContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | White paper writing specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "White Paper Writing",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is the difference between a white paper and a long blog post?",
+      "How long should a white paper be?",
+      "How do we identify the right topic for a white paper?",
+      "How much does white paper writing cost?",
+      "How long does it take to produce a white paper?",
+      "How should we promote and distribute our white paper once it is produced?",
+      "Can white papers be used for purposes other than lead generation?",
+      "Do you handle the research or do we need to provide it?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Content Marketing",
+        url: "https://clickmastersdigitalmarketing.com/content-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "White Paper Writing Services",
+        url: "https://clickmastersdigitalmarketing.com/white-paper-writing-services/"
+      }
+    ]
+  }
+}
 };

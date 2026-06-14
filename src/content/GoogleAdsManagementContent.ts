@@ -12,9 +12,9 @@ export const GoogleAdsManagementContent = {
     tag: "[ Service · 05 ] GOOGLE ADS",
     title: "Google Ads Management Services — More Leads,",
     titleHighlight: "Lower Cost-Per-Click",
-    subtitle: "",
+    subtitle: "| Clickmasters",
     description:
-      "Google Ads is the most powerful paid advertising platform on the planet — and one of the easiest to waste money on. The platform gives you access to 8.5 billion daily searches. It allows you to show your ad at the precise moment someone searches for exactly what you sell. It also allows you to burn through $10,000 in 30 days targeting the wrong searches, paying too much per click, sending traffic to a landing page that does not convert, and receiving monthly reports that measure impressions and clicks rather than the revenue those clicks produced.",
+      "Expert Google Ads management for Search, Shopping, Display & Performance Max. Data-driven optimization that cuts wasted spend & scales revenue. Free audit today.",
     stats: [
       { k: "$28M+", v: "managed Google Ads spend" },
       { k: "58%", v: "cost-per-lead reduction (client example)" },
@@ -301,4 +301,61 @@ export const GoogleAdsManagementContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | $28M+ Google Ads managed | 10+ years expertise",
   },
+
+  schema: {
+  Service: {
+    serviceType: "Google Ads Management",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "What is the minimum budget required to run effective Google Ads?",
+      "How does Google decide which ads to show and in what order?",
+      "What is Performance Max and should I be using it?",
+      "How do you prevent my ads from showing for irrelevant searches?",
+      "Can you take over my existing Google Ads account without disrupting performance?",
+      "How do you report on Google Ads performance?",
+      "What happens to my Google Ads account if I stop working with Clickmasters?",
+      "We tried Google Ads before and it did not work. Why would it work now?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "PPC / Paid Ads",
+        url: "https://clickmastersdigitalmarketing.com/ppc-paid-ads/"
+      },
+      {
+        position: 3,
+        name: "Google Ads Management",
+        url: "https://clickmastersdigitalmarketing.com/google-ads-management/"
+      }
+    ]
+  }
+}
 };

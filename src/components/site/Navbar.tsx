@@ -69,7 +69,7 @@ const getServiceHref = (groupTitle: string, serviceHref?: string) => {
 
 const groups: { title: string; href?: string; items: Service[] }[] = [
 {
-  title: "SEO SERVICES",
+  title: "Seo Services",
   href: "/search-engine-optimization",
   items: [
     {

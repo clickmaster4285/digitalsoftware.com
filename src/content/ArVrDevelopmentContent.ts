@@ -14,7 +14,7 @@ export const ArVrDevelopmentContent = {
     titleHighlight: "Build Immersive Experiences That Transform How Your Customers Engage",
     subtitle: "",
     description:
-      "The gap between describing something and experiencing it is the gap that augmented and virtual reality closes. The furniture retailer whose customers abandon their carts because they cannot visualise how a sofa will look in their living room. The industrial training programme whose new technicians take six months to develop the hands-on competency that a VR simulation can accelerate to six weeks. The real estate developer whose international buyers are committed to purchasing off-plan but want to walk through a building that does not yet exist. The medical device company whose surgeons need to practice a complex procedure before performing it on patients.\n\nIn each of these contexts, the limitations of two-dimensional content — photographs, videos, PDFs — are not a presentation problem. They are a commercial problem: the cart abandonment that costs the retailer revenue, the extended training ramp that costs the manufacturer productivity, the unconverted international buyer who needed an experience that a brochure could not provide.\n\nAugmented reality (AR) overlays digital content onto the physical world through a smartphone, tablet, or AR headset — allowing customers to see how a product looks in their environment, allowing technicians to see step-by-step repair instructions overlaid on the equipment they are working on, allowing architects to overlay a building design on the physical site it will occupy. Virtual reality (VR) immerses the user in a fully digital environment — the training simulation, the virtual property tour, the product configuration experience that places the customer inside the product.\n\nAt Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), we design and build AR and VR applications across the commercial contexts where immersive technology produces measurable business outcomes — retail, real estate, training and education, manufacturing, and the specific B2B applications where the gap between description and experience is commercially significant.",
+      "AR/VR development company — WebXR, iOS ARKit, Android ARCore, Unity VR, HoloLens MR. Retail product visualisation, VR training, virtual property tours.",
     stats: [
       { k: "32%", v: "Product return reduction" },
       { k: "28%", v: "International buyer conversion lift" },
@@ -184,5 +184,56 @@ export const ArVrDevelopmentContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
+  },schema: {
+  Service: {
+    serviceType: "AR/VR Development",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is the difference between AR, VR, and MR?",
+      "Which platform is right for my AR application — WebXR or native app?",
+      "How long does AR/VR development take?",
+      "What are the hardware requirements for the end user?",
+      "What does AR/VR development cost?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Software Development",
+        url: "https://clickmastersdigitalmarketing.com/software-development-services/"
+      },
+      {
+        position: 3,
+        name: "AR/VR Development Services",
+        url: "https://clickmastersdigitalmarketing.com/ar-vr-development-services/"
+      }
+    ]
+  }
+}
 };

@@ -11,10 +11,10 @@ export const PrMediaOutreachContent = {
   hero: {
     tag: "[ Service · 10 ] PR & Media Outreach",
     title: "Digital PR & Media",
-    titleHighlight: "Outreach",
-    subtitle: "— earn the coverage that builds the authority no paid ad can buy.",
+    titleHighlight: "Outreach Services ",
+    subtitle: "— Earn the Coverage That Builds the Authority No Paid Ad Can Buy.",
     description:
-      "The authority problem in digital marketing is one that paid advertising cannot solve. You can buy impressions, clicks, and traffic. You cannot buy the trust signal that a feature in The Guardian, Forbes, TechCrunch, or The Times represents. You cannot pay for the backlink from a DA 90 national publication that tells Google your brand is an authority worth surfacing for competitive searches. You cannot purchase the credibility that a journalist's independent decision to cover your business communicates to the audience that reads it.",
+      "Digital PR services — press coverage, high-authority backlinks, thought leadership and media outreach for UK, USA, UAE, Canada and Australian brands.",
     stats: [
       { k: "DA 70-90", v: "Editorial backlinks" },
       { k: "22", v: "High-authority links in 12 months" },
@@ -236,5 +236,56 @@ export const PrMediaOutreachContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
+  },schema: {
+  Service: {
+    serviceType: "Digital PR / Media Outreach",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK", "CA", "AU"]
   },
+
+  FAQPage: {
+    items: [
+      "How long does digital PR take to produce results?",
+      "How do you measure digital PR ROI?",
+      "Can you guarantee press coverage?",
+      "What sectors do you provide PR for?",
+      "What is the difference between digital PR and traditional PR?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Content Marketing",
+        url: "https://clickmastersdigitalmarketing.com/content-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "PR & Media Outreach Services",
+        url: "https://clickmastersdigitalmarketing.com/pr-media-outreach-services/"
+      }
+    ]
+  }
+}
 };

@@ -14,7 +14,7 @@ export const RoiCalculatorContent = {
     titleHighlight: "Before You Invest",
     subtitle: "",
     description:
-      "The question every business owner asks before committing to a digital marketing programme is the same: will the return justify the investment? It is the right question. Digital marketing investment is not guaranteed to produce positive ROI — it depends on the channels, the programme quality, the competitive landscape, the starting position, and the commercial context of the specific business. Generic claims about '10x ROI' or 'average returns of 300%' are meaningless without the specific inputs that determine the return for a specific business in a specific market.",
+      "Free digital marketing ROI calculator — estimate returns from SEO, Google Ads, Meta Ads and email marketing. Includes ROI benchmarks and worked examples.",
     stats: [
       { k: "400-800%", v: "3-year SEO ROI (competitive markets)" },
       { k: "3x to 8x", v: "Google Ads ROI range" },
@@ -226,5 +226,93 @@ export const RoiCalculatorContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
+  },schema: {
+  WebApplication: {
+    "@type": "WebApplication",
+    name: "Digital Marketing ROI Calculator",
+    description: "Free digital marketing ROI calculator — estimate returns from SEO, Google Ads, Meta Ads and email marketing. Includes ROI benchmarks and worked examples.",
+    applicationCategory: "BusinessApplication",
+    offers: {
+      "@type": "Offer",
+      price: "0",
+      priceCurrency: "USD"
+    },
+    url: "https://clickmastersdigitalmarketing.com/roi-calculator/",
+    provider: {
+      "@type": "Organization",
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com"
+    }
   },
+
+  HowTo: {
+    "@type": "HowTo",
+    name: "How to Calculate Digital Marketing ROI",
+    description: "A step-by-step guide to estimating your digital marketing ROI using the calculator inputs.",
+    step: [
+      {
+        "@type": "HowToStep",
+        position: 1,
+        name: "Enter monthly digital marketing investment",
+        text: "Enter the total monthly spend on the digital marketing programme — including management fees and advertising spend."
+      },
+      {
+        "@type": "HowToStep",
+        position: 2,
+        name: "Enter average client or customer value",
+        text: "Enter the annual revenue a typical new client or customer generates for your business."
+      },
+      {
+        "@type": "HowToStep",
+        position: 3,
+        name: "Enter current monthly digital leads",
+        text: "Enter the number of qualified leads or enquiries your business currently receives through digital channels per month."
+      },
+      {
+        "@type": "HowToStep",
+        position: 4,
+        name: "Enter current lead-to-client conversion rate",
+        text: "Enter the percentage of your digital leads that convert to paying clients or customers."
+      },
+      {
+        "@type": "HowToStep",
+        position: 5,
+        name: "Enter target monthly digital leads after programme",
+        text: "Enter the monthly lead volume you would expect from the new programme."
+      }
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Resources",
+        url: "https://clickmastersdigitalmarketing.com/resources/"
+      },
+      {
+        position: 3,
+        name: "ROI Calculator",
+        url: "https://clickmastersdigitalmarketing.com/roi-calculator/"
+      }
+    ]
+  }
+  }
+  
 };

@@ -10,11 +10,11 @@ export const YoutubeSeoContent = {
   },
   hero: {
     tag: "[ Service · 16 ] YouTube SEO",
-    title: "YouTube SEO",
-    titleHighlight: "Services",
-    subtitle: "— stop publishing videos nobody finds. Start ranking on the world's second-largest search engine.",
+    title: "YouTube SEO Services — Stop Publishing Videos Nobody Finds. Start Ranking on the World's Second-Largest",
+    titleHighlight: "Search Engine.",
+  
     description:
-      "Your YouTube videos are not getting views. Not because they are bad because nobody can find them. You are publishing into an empty room while your competitors' videos appear first in search, dominate suggested feeds, and capture the audience that should be yours. YouTube is the world's second-largest search engine with over 3 billion searches per day. But search engines only surface content that is optimised for discovery. Yours is not.",
+      "YouTube SEO services — channel audit, title optimisation, keyword research, content strategy and analytics. Turn videos into compounding search assets.",
     stats: [
       { k: "2.7B", v: "Monthly logged-in users" },
       { k: "3B+", v: "Daily searches" },
@@ -276,4 +276,59 @@ export const YoutubeSeoContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | YouTube SEO specialist | 10+ years",
   },
+
+  schema: {
+  Service: {
+    serviceType: "YouTube SEO",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK", "CA", "AU"]
+  },
+
+  FAQPage: {
+    items: [
+      "How long does YouTube SEO take to produce results?",
+      "Is YouTube SEO relevant for B2B businesses?",
+      "Do you optimise existing video libraries or only new content?",
+      "What is the difference between YouTube SEO and YouTube advertising?",
+      "How do you measure YouTube SEO ROI?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+      },
+      {
+        position: 3,
+        name: "YouTube SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/youtube-seo-services/"
+      }
+    ]
+  }
+  },
+  
 };

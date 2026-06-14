@@ -14,10 +14,10 @@ export const SocialMediaContentCreationContent = {
   },
   hero: {
     tag: "Content Creation",
-    title: "Social Media Content Creation Services",
-    titleHighlight: "— Content That Earns Attention and Builds Brands",
-    subtitle: "",
-    description: "Most businesses know they need to post on social media consistently. Most businesses do not do it or they do it badly and wonder why it is not working. The gap between knowing and doing almost always comes down to the same problem: content creation. Creating genuinely good content the kind that stops the scroll, earns the comment, gets shared, builds the brand, and contributes to actual business goals is difficult, time-consuming, and requires skills that span copywriting, design, video production, platform psychology, and brand strategy simultaneously.",
+    title: "Social Media Content Creation ",
+    titleHighlight: "Services",
+    subtitle: "— Content That Earns Attention | Clickmasters",
+    description: "Professional social media content creation for Instagram, TikTok, LinkedIn & Facebook. Copywriting, graphic design, video editing & brand-consistent creative.",
     stats: [
       { k: "0.4% → 5.8%", v: "Engagement increase" },
       { k: "340%", v: "Reservation increase" },
@@ -305,4 +305,60 @@ export const SocialMediaContentCreationContent = {
     regions: "USA · UK · UAE · Pakistan · Canada · Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Social media content creation specialist | 10+ years",
   },
+  schema: {
+  Service: {
+    serviceType: "Social Media Content Creation",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "What types of content do you create?",
+      "Do you need to film video or can you work with footage we provide?",
+      "How many posts per month do you create?",
+      "Do we need to provide photography and video footage?",
+      "How does the content approval process work?",
+      "What is your revision policy?",
+      "How do you ensure the content fits our brand?",
+      "Can you produce content in languages other than English?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Social Media Marketing",
+        url: "https://clickmastersdigitalmarketing.com/social-media-marketing-services/"
+      },
+      {
+        position: 3,
+        name: "Social Media Content Creation",
+        url: "https://clickmastersdigitalmarketing.com/social-media-content-creation/"
+      }
+    ]
+  }
+}
 };

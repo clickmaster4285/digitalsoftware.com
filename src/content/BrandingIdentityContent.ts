@@ -14,7 +14,7 @@ export const BrandingIdentityContent = {
     titleHighlight: "Every Business Needs",
     subtitle: "",
     description:
-      "A logo is not a brand. A colour palette is not a brand. A tagline is not a brand. A brand is the sum of what people believe about your business — the specific position your organisation holds in the minds of the people who have encountered it, the emotions they associate with it, the quality they expect from it, the values they attribute to it, and the difference they perceive between you and your closest alternative. A brand is not what you say about yourself. It is what others say about you when you are not in the room.",
+      "Expert branding services — brand strategy, visual identity, naming, messaging & guidelines for startups and growing businesses. USA, UK & UAE. Free brand consultation.",
     stats: [
       { k: "$1.8M → $7.2M", v: "revenue growth (client example)" },
       { k: "$15M", v: "Series A raised (client example)" },
@@ -252,5 +252,60 @@ export const BrandingIdentityContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | Brand strategy and identity specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Branding Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is the difference between branding services and logo design?",
+      "How much do branding services cost?",
+      "How long does a branding engagement take?",
+      "How do you approach brand strategy for a startup versus an established business?",
+      "Do you work with businesses across all industries?",
+      "Can you rebrand us without losing the equity in our existing brand?",
+      "What happens to our brand guidelines after the engagement ends?",
+      "How do you handle brand strategy for businesses with multiple audiences?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "Branding & Identity Services",
+        url: "https://clickmastersdigitalmarketing.com/branding-identity-services/"
+      }
+    ]
+  }
+}
 };

@@ -14,7 +14,7 @@ export const LandingPageDesignContent = {
     titleHighlight: "Services",
     subtitle: "— stop paying for traffic that doesn't convert.",
     description:
-      "You are not losing money to bad advertising. You are losing it to good advertising landing on bad pages. Most paid advertising accounts are generating clicks from the right people the targeting is correct, the ad creative is compelling, the intent is genuine. The failure point is not the ad. It is the page the ad lands on. A generic website homepage receiving paid traffic is a conversion machine with no moving parts.",
+      "Expert landing page design — conversion-optimised pages for Google Ads, Meta Ads, lead gen & e-commerce. 8-15% conversion vs 2-3% average. Free consultation.",
     stats: [
       { k: "2-3%", v: "Average landing page conversion" },
       { k: "8-15%", v: "Well-designed page conversion" },
@@ -274,5 +274,60 @@ export const LandingPageDesignContent = {
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan CEO, Clickmasters Digital Marketing | Landing page design specialist | 10+ years",
+  },schema: {
+  Service: {
+    serviceType: "Landing Page Design",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
   },
+
+  FAQPage: {
+    items: [
+      "What is the difference between a landing page and a website page?",
+      "How much does landing page design cost?",
+      "How quickly can a landing page be produced?",
+      "What platform should landing pages be built on?",
+      "Should each ad group have its own landing page?",
+      "How do you measure landing page performance?",
+      "What is the most important element of a landing page?",
+      "Do you write the copy as well as design the page?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "Landing Page Design Services",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/landing-page-design/"
+      }
+    ]
+  }
+}
 };

@@ -14,7 +14,7 @@ export const FacebookInstagramAdsContent = {
     titleHighlight: "Actually Convert",
     subtitle: "",
     description:
-      "Meta's advertising platform — spanning Facebook, Instagram, Messenger, and the Audience Network — is the most powerful audience targeting system ever built for marketers. Two platforms. Three billion monthly active users. Targeting by age, gender, location, income, interests, behaviors, job title, relationship status, life events, purchase behavior, and hundreds of other signals. And the ability to reach people who look exactly like your best existing customers, at whatever scale your budget allows. It is also one of the most common sources of wasted marketing spend for businesses in 2026.",
+      "Expert Facebook & Instagram Ads management for e-commerce, lead gen & local businesses. Creative-first campaigns, audience strategy & ROAS reporting.",
     stats: [
       { k: "$12M+", v: "Meta Ads spend managed" },
       { k: "4.1x", v: "ROAS achieved (client example)" },
@@ -271,4 +271,61 @@ export const FacebookInstagramAdsContent = {
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
     author: "Amjad Khan — CEO, Clickmasters Digital Marketing | $12M+ Meta Ads managed | 10+ years expertise",
   },
+
+  schema: {
+  Service: {
+    serviceType: "Facebook Ads / Instagram Ads Management",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "What is the difference between Facebook Ads and Instagram Ads?",
+      "How much should I budget for Facebook and Instagram Ads?",
+      "How do I know if my Facebook Ads are actually working after iOS privacy changes?",
+      "What type of creative works best on Facebook and Instagram in 2026?",
+      "Should I use Meta's automated tools like Advantage+ Audience?",
+      "How long does it take for Facebook Ads campaigns to start performing efficiently?",
+      "We ran Facebook Ads before and got poor results. Why would it work this time?",
+      "Do you handle creative production or do we need to provide it?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "PPC / Paid Ads",
+        url: "https://clickmastersdigitalmarketing.com/ppc-paid-ads/"
+      },
+      {
+        position: 3,
+        name: "Facebook & Instagram Ads Management",
+        url: "https://clickmastersdigitalmarketing.com/facebook-instagram-ads/"
+      }
+    ]
+  }
+}
 };
