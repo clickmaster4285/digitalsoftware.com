@@ -14,6 +14,9 @@ import {
   WebDesignServicesContent,
 } from "@/content/main-services";
 import Footer from "@/components/site/Footer";
+import SchemaMarkup from "@/components/landingPage/SchemaMarkup";
+import { EcommerceDevContent } from "@/content/EcommerceDevelopment";
+import { PpcManagementContent } from "@/content/PpcManagement";
 const contentMap: Record<string, any> = {
   "search-engine-optimization": SeoServicesContent,
   "social-media-marketing": SocialMediaMarketingContent,
@@ -22,6 +25,8 @@ const contentMap: Record<string, any> = {
   "content-marketing": ContentMarketingServicesContent,
   "ai-automation": AIAutomationServicesContent,
   "web-design-development": WebDesignServicesContent,
+  "ecommerce-services": EcommerceDevContent,
+  "pay-per-click": PpcManagementContent,
 };
 
 const Reveal = ({ children, delay = 0, y = 30 }: any) => (
@@ -453,6 +458,7 @@ export default function ServicesPage() {
 
   return (
     <div className="theme-light w-full overflow-x-clip bg-background text-foreground">
+        <SchemaMarkup schema={content.schema} slug={slug} />
       <main>
         <Hero content={content} />
         <Intro content={content} />
