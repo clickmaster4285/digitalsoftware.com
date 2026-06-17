@@ -14,11 +14,11 @@ export const SeoServicesContent = {
 	},
 	hero: {
 		tag: "SEO Services",
-		title: "SEO Services That Actually Grow Revenue",
-		titleHighlight: "Not Just Rankings",
-		subtitle: "",
+		title: "SEO Services That Drive",
+		titleHighlight: "Real Revenue",
+		subtitle: "— Clickmasters",
 		description:
-			"Most businesses hire an SEO agency and wait. Six months later they have keyword movement but zero additional revenue. At Clickmasters we measure SEO by commercial outcomes more customers, more revenue, measurable ROI.",
+			"Data-driven SEO services across USA, UK, UAE & Pakistan. 3,500+ businesses grown. Get your free SEO audit today and see exactly what's suppressing your rankings.",
 		stats: [
 			{ k: "3,500+", v: "businesses helped" },
 			{ k: "110,000/mo", v: "primary keyword volume (seo services)" },
@@ -103,6 +103,7 @@ export const SeoServicesContent = {
 			},
 		],
 	},
+	
 	cases: [
 		{
 			tag: "Healthcare Practice",
@@ -158,6 +159,54 @@ export const SeoServicesContent = {
 		{ q: "Will my rankings drop if I stop SEO?", a: "Yes over time. A well-built foundation can sustain traffic 6–18 months without active investment." },
 		{ q: "Do you work internationally?", a: "Yes primary markets: USA, UK, UAE, Pakistan, Canada, Australia." },
 	],
+	schema: {
+  Service: {
+    serviceType: "SEO Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How long does SEO take to show results?",
+      "What is the difference between SEO and PPC?",
+      "How do you measure SEO success?",
+      "Can you guarantee rankings?",
+      "Will my rankings drop if I stop SEO?",
+      "Do you work internationally?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "SEO Services",
+        url: "https://clickmastersdigitalmarketing.com/search-engine-optimization"
+      }
+    ]
+  }
+},
 	cta: {
 		title: "Ready to Turn Search Visibility Into Business Revenue?",
 		description:
@@ -195,10 +244,10 @@ export const SocialMediaMarketingContent = {
 	hero: {
 		tag: "Social Media Marketing",
 		title: "Social Media Marketing Services Build Audience, Drive Revenue",
-		titleHighlight: "",
+		titleHighlight: "| Clickmasters",
 		subtitle: "",
 		description:
-			"Social media is where your audience discovers brands, forms opinions, and converts. Our approach combines platform-specific strategy, creative content, and measurable business outcomes for USA, UK, UAE, and Pakistan clients.",
+			"Expert social media marketing for Facebook, Instagram, LinkedIn, TikTok & X. Content strategy, community management & paid integration. Free audit.",
 		stats: [
 			{ k: "5B+", v: "social media users globally" },
 			{ k: "27,100/mo", v: "primary keyword volume" },
@@ -399,6 +448,62 @@ export const SocialMediaMarketingContent = {
 		contactLink: "/contact-us/",
 		whatsappLink: "https://wa.me/",
 	},
+	schema: {
+  Service: {
+    serviceType: "Social Media Marketing",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How many social media platforms should my business be on?",
+      "How long does it take to see results from social media marketing?",
+      "How often should we post on social media?",
+      "What type of content performs best on social media in 2026?",
+      "How do you measure the ROI of social media marketing?",
+      "Can you manage social media for businesses in regulated industries?",
+      "Do you create the content or do we need to provide it?",
+      "What makes a good social media strategy?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Social Media Marketing",
+        url: "https://clickmastersdigitalmarketing.com/social-media-marketing/"
+      },
+      {
+        position: 3,
+        name: "Social Media Marketing Services",
+        url: "https://clickmastersdigitalmarketing.com/social-media-marketing"
+      }
+    ]
+  }
+},
 	footer: {
 		company: "Clickmasters Digital Marketing",
 		email: "marketing@clickmastersdigitalmarketing.com",
@@ -430,10 +535,10 @@ export const MobileAppDevelopmentContent = {
 	hero: {
 		tag: "Mobile App Development",
 		title: "Mobile App Development Company",
-		titleHighlight: "Build the App Your Business Needs",
-		subtitle: "Your customers are on their phones. Not occasionally constantly.",
+		titleHighlight: "— Build the App",
+		subtitle: "Your Business Needs",
 		description:
-			"A mobile app is not a luxury for large organisations. It is the channel that reduces friction for your most engaged customers the ones who want to order again, check a status, book a session, track a delivery, access a service, or engage with a community without navigating a mobile browser, remembering a URL, or going through a login flow designed for desktop.",
+			"Expert mobile app development — iOS, Android, React Native & Flutter. Strategy-led, design-first, post-launch partnership. USA, UK & UAE. Get your free app estimate.",
 		stats: [
 			{ k: "96x", v: "average daily phone checks" },
 			{ k: "92%", v: "of mobile usage in apps" },
@@ -724,7 +829,61 @@ export const MobileAppDevelopmentContent = {
 				desc: "Complex marketplace, fintech, healthcare or enterprise apps with backend integrations and compliance requirements.",
 			},
 		],
-	},
+	},schema: {
+  Service: {
+    serviceType: "Mobile App Development",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How much does it cost to build a mobile app?",
+      "How long does it take to build a mobile app?",
+      "Should I build a native app or a cross-platform app?",
+      "What is an MVP and should I start with one?",
+      "Do you handle App Store submission?",
+      "What happens after the app launches?",
+      "Can you rebuild an existing app that is not performing?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "App & Software Development",
+        url: "https://clickmastersdigitalmarketing.com/app-software-development/"
+      },
+      {
+        position: 3,
+        name: "Mobile App Development",
+        url: "https://clickmastersdigitalmarketing.com/mobile-app-development"
+      }
+    ]
+  }
+},
 	faqs: [
 		{
 			q: "How much does it cost to build a mobile app?",
@@ -1250,7 +1409,7 @@ export const AIAutomationServicesContent = {
 		titleHighlight: "Intelligent Systems That Work While You Sleep",
 		subtitle: "",
 		description:
-			"Every business has work that should not require a human being to do it. AI and automation services are the discipline of identifying which parts of a business's operations are consuming human time that technology can handle more efficiently, building the systems that handle those operations automatically, and freeing humans to focus on the work that creates genuine value.",
+			"Expert AI & automation services — workflow automation, AI chatbots, custom AI tools & process automation. Cut costs, scale operations & eliminate manual work.",
 		stats: [
 			{ k: "5,400/mo", v: "primary keyword demand" },
 			{ k: "10+", v: "years building AI systems" },
@@ -1545,7 +1704,62 @@ export const AIAutomationServicesContent = {
 				desc: "Custom AI tools, multi-agent systems, and full automation governance for complex businesses.",
 			},
 		],
-	},
+	},schema: {
+  Service: {
+    serviceType: "AI & Automation Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How do I know which processes in my business are good candidates for automation?",
+      "How much does business process automation cost?",
+      "What is the difference between RPA and AI automation?",
+      "Can you automate tasks that involve documents, emails, and unstructured data?",
+      "How do you ensure AI automation makes correct decisions?",
+      "How long does it take to implement business process automation?",
+      "Will automation replace our employees?",
+      "Can AI automation work with our existing software stack?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "AI & Software Development",
+        url: "https://clickmastersdigitalmarketing.com/ai-software-development/"
+      },
+      {
+        position: 3,
+        name: "AI & Automation Services",
+        url: "https://clickmastersdigitalmarketing.com/ai-automation"
+      }
+    ]
+  }
+},
 	faqs: [
 		{
 			q: "How do I know which processes in my business are good candidates for automation?",
@@ -1630,11 +1844,11 @@ export const ContentMarketingServicesContent = {
 	},
 	hero: {
 		tag: "Content Marketing Services",
-		title: "Content Marketing Services Content That Ranks, Converts, and Compounds",
-		titleHighlight: "",
-		subtitle: "",
+		title: "Content Marketing Services  ",
+		titleHighlight: "Content That Ranks,",
+		subtitle: "Converts, and Compounds | Clickmasters",
 		description:
-			"Content marketing is one of the most frequently misunderstood investments in digital marketing. Businesses invest in content blog posts, case studies, videos, guides and when the leads do not arrive immediately, they conclude that content marketing does not work. They stop publishing, the content sits on the website unread, and they return to paying for paid advertising that requires constant reinvestment to maintain results.",
+			"Expert content marketing services — SEO blog content, pillar pages, case studies & lead magnets. Strategy-first content that builds authority and drives revenue.",
 		stats: [
 			{ k: "12,100/mo", v: "primary keyword demand" },
 			{ k: "5,200+", v: "words of content strategy" },
@@ -1951,7 +2165,62 @@ export const ContentMarketingServicesContent = {
 				desc: "Full content system with research reports, lead magnets, multi-channel distribution, and revenue attribution.",
 			},
 		],
-	},
+	},schema: {
+  Service: {
+    serviceType: "Content Marketing",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How long does it take to see results from content marketing?",
+      "How much content do we need to publish to see results?",
+      "Should we use AI to write our content?",
+      "What is the difference between content marketing and SEO?",
+      "How do you measure content marketing ROI?",
+      "Can content marketing work for local businesses?",
+      "Do you write content for regulated industries like healthcare, legal, and financial services?",
+      "Can you work with our existing in-house content team?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Content Marketing",
+        url: "https://clickmastersdigitalmarketing.com/content-marketing"
+      },
+      {
+        position: 3,
+        name: "Content Marketing Services",
+        url: "https://clickmastersdigitalmarketing.com/content-marketing"
+      }
+    ]
+  }
+},
 	faqs: [
 		{
 			q: "How long does it take to see results from content marketing?",
@@ -2036,11 +2305,11 @@ export const WebDesignServicesContent = {
 	},
 	hero: {
 		tag: "Web Design Services",
-		title: "Web Design Services Websites That Win Customers Before You Say a Word",
-		titleHighlight: "",
+		title: "Web Design Services ",
+		titleHighlight: "— Websites That Win Customers Before You Say a Word",
 		subtitle: "",
 		description:
-			"Your website is your most important salesperson. It works 24 hours a day, seven days a week, across every time zone your customers are in. It is the first impression the vast majority of your prospective customers will ever have of your business and it forms that impression in less than 50 milliseconds.",
+			"Expert web design services — custom websites that convert visitors into customers. Mobile-first, SEO-integrated, conversion-optimised. USA, UK and UAE. Free website audit.",
 		stats: [
 			{ k: "49,500/mo", v: "keyword demand" },
 			{ k: "94%", v: "first impression design-related" },
@@ -2303,7 +2572,62 @@ export const WebDesignServicesContent = {
 			body:
 				"Local schema, appointment booking, and physician profile pages made the website the primary patient acquisition channel.",
 		},
-	],
+	],schema: {
+  Service: {
+    serviceType: "Web Design Services",
+    provider: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+    },
+    areaServed: ["US", "UK", "UAE", "PK"]
+  },
+
+  FAQPage: {
+    items: [
+      "How much does a professional website design cost?",
+      "How long does it take to design and build a website?",
+      "What platform do you recommend WordPress, Shopify, Webflow, or custom?",
+      "Do you handle content writing as well as design?",
+      "What does mobile-first design mean in practice?",
+      "How do you approach website redesigns without losing existing SEO rankings?",
+      "Do you provide ongoing website maintenance and support?",
+      "Can you redesign my website without disrupting the existing site while we build?",
+      "How do I get started?"
+    ]
+  },
+
+  Organization: {
+    name: "Clickmasters Digital Marketing",
+    url: "https://clickmastersdigitalmarketing.com",
+    logo: "https://clickmastersdigitalmarketing.com/logo.png",
+    sameAs: [
+      "https://www.facebook.com/clickmasters",
+      "https://www.instagram.com/clickmasters",
+      "https://www.linkedin.com/company/clickmasters"
+    ]
+  },
+
+  BreadcrumbList: {
+    items: [
+      {
+        position: 1,
+        name: "Home",
+        url: "https://clickmastersdigitalmarketing.com"
+      },
+      {
+        position: 2,
+        name: "Web Design & Development",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+      },
+      {
+        position: 3,
+        name: "Web Design Services",
+        url: "https://clickmastersdigitalmarketing.com/web-design-development"
+      }
+    ]
+  }
+},
 	why: [
 		{
 			h: "Conversion-first philosophy",
