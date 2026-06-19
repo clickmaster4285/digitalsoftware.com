@@ -1,0 +1,83 @@
+// Auto-generated from XLSX file: T3-DigitalMarketing-Jacksonville.xlsx
+// Service: DigitalMarketing
+// City: Jacksonville
+// Generated: 2026-06-19T12:50:25.717Z
+
+export const DigitalMarketing_Jacksonville = {
+  service: "DigitalMarketing",
+  serviceSlug: "digital-marketing",
+  city: "Jacksonville",
+  citySlug: "jacksonville",
+  slug: "/locations/digital-marketing/jacksonville",
+  
+  h1: `Digital Marketing Agency Jacksonville — FIS Global Revenue, Florida Blue Insurance Tech, Baptist Health YMYL, and First Coast Commercial Growth`,
+  primaryKw: `digital marketing agency jacksonville`,
+  formula: `BAB — Jacksonville FIS Global/Florida Blue fintech vendors invisible + Baptist Health/Nemours health IT unreached + NAS Jacksonville/Mayport military community unaddressed + Landstar/Fidelity National Fortune 500 unaddressed → CLICK Growth System for the First Coast's fintech and healthcare capital`,
+  seoTitle: `Digital Marketing Agency Jacksonville | FIS Global Revenue & Baptist Health Growth | Clickmasters`,
+  meta: `Clickmasters digital marketing in Jacksonville. FIS Global FINRA fintech revenue, Florida Blue insurance technology, Baptist Health/Nemours YMYL, and NAS Jacksonville military community. Free audit.`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Jacksonville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-jacksonville/","address":{"@type":"PostalAddress","addressLocality":"Jacksonville","addressRegion":"FL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  wordCount: NaN,
+  geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN JACKSONVILLE?
+
+A Jacksonville digital marketing agency manages digital channels for First Coast businesses across four commercially distinct sectors that define Jacksonville's evolving commercial identity.
+
+FIS GLOBAL FINANCIAL TECHNOLOGY VENDOR DIGITAL MARKETING: FIS Global — the world's largest financial technology company by revenue, headquartered in downtown Jacksonville — creates the most commercially significant financial technology B2B digital marketing opportunity in Florida. FIS Global's payment processing platforms, core banking systems, wealth management technology, and capital markets infrastructure create B2B procurement demand for hundreds of vendor categories. Technology vendors and professional services businesses competing for FIS Global procurement need digital marketing demonstrating FIS's specific operational vocabulary at FINRA compliance standards. This is Jacksonville's most underaddressed commercial digital marketing opportunity — FIS Global is the most commercially significant technology company in Northeast Florida, yet most Jacksonville digital marketing agencies can't calibrate content to FIS's operational vocabulary.
+
+FLORIDA BLUE INSURANCE TECHNOLOGY DIGITAL MARKETING: Florida Blue — Blue Cross Blue Shield of Florida, headquartered in Jacksonville with 10 million+ members — creates insurance technology B2B digital marketing opportunities for health IT and insurance technology vendors demonstrating Florida Blue's specific managed care and insurance administration vocabulary: HEDIS quality measures, utilisation management operational specifics, provider network management technology, and the insurance administration technology that Florida Blue's Jacksonville technology procurement evaluates.
+
+BAPTIST HEALTH AND NEMOURS WOLFSON ACADEMIC HEALTHCARE DIGITAL MARKETING: Baptist Health Jacksonville — the region's largest not-for-profit health system — and Nemours Wolfson Children's Hospital (nationally ranked paediatric) create YMYL health technology and patient acquisition digital marketing opportunities.
+
+NAS JACKSONVILLE MILITARY PROFESSIONAL SERVICES: Naval Air Station Jacksonville and Mayport Naval Station create a 35,000+ military professional community generating professional services demand for FINRA-compliant financial advisory, VA healthcare navigation, legal services, and SCRA-aware mortgage services — identical to Tampa's MacDill community structure.`,
+  features: ``,
+  caseStudies: `Case Study 1: Jacksonville Fintech — FIS Global/Florida Blue Full Digital Programme
+Client: Banking technology SaaS, Jacksonville (\$6.8M ARR). Challenge: New FIS VP/Florida Blue CTO without connections — invisible. Zero FIS vocabulary.
+Programme: SEO (FIS payment/core banking vocabulary) + LinkedIn (FIS fintech community) + email (FIS/Florida Blue named pipeline) + content (FIS authority) + SB 262
+Results (12 months): Page 1 for 10 Jacksonville fintech queries | FIS VP: digital discovery | Florida Blue CTO: LinkedIn before first meeting | SB 262: compliant | Fintech pipeline: \$1.4M
+
+Case Study 2: Jacksonville Health IT — Baptist Health/Nemours Full Programme
+Client: Clinical analytics, Jacksonville (\$5.4M ARR). Challenge: Baptist Health/Nemours vocabulary absent. Non-HIPAA. Non-SB 262.
+Programme: SEO (Baptist/Nemours YMYL vocabulary) + HIPAA rebuild + SB 262-native + content (Baptist Health authority)
+Results (11 months): Page 1 for 10 Jacksonville health IT queries | Baptist Health: evaluation | Nemours Wolfson: evaluation | HIPAA/SB 262: clean | Pipeline: \$1.2M
+
+Case Study 3: Jacksonville Financial Advisory — NAS Jax/Mayport Military Full Programme
+Client: Fee-only RIA, Jacksonville (\$160M AUM). Challenge: NAS Jax military vocabulary absent. 35,000+ naval community unreached.
+Programme: SEO (TSP/SCRA/VA) + Google Ads (military community) + email (NAS Jax military onboarding) + SB 262
+Results (11 months): Military organic leads: +3x | New military AUM: \$12M | FINRA: clean | SB 262: compliant`,
+  faq: `FAQs — Digital Marketing Jacksonville`,
+  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Jacksonville?","acceptedAnswer":{"@type":"Answer","text":"Jacksonville digital marketing: \$1,100/month (single channel) to \$12,000+/month (enterprise). FIS Global FINRA payment/banking vocabulary. Florida Blue insurance tech HEDIS. Baptist Health/Nemours YMYL. NAS Jacksonville military. SB 262-compliant. Florida retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What makes FIS Global digital marketing unique for Jacksonville businesses?","acceptedAnswer":{"@type":"Answer","text":"FIS Global is the world's largest financial technology company by revenue — headquartered in downtown Jacksonville — creating the most commercially significant fintech B2B digital marketing opportunity in Florida. FIS's payment processing platforms, core banking systems, wealth management technology, and capital markets infrastructure vocabulary represent a first-mover digital marketing opportunity that most Jacksonville agencies entirely overlook."}},{"@type":"Question","name":"Does Clickmasters serve Ponte Vedra Beach, Orange Park, St. Johns, and Greater Jacksonville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Jacksonville MSA: Duval, St. Johns, Clay, Nassau, and Baker Counties."}},{"@type":"Question","name":"How quickly does Jacksonville FIS Global digital marketing produce results?","acceptedAnswer":{"@type":"Answer","text":"FIS payment/banking vocabulary SEO rankings: 4-7 months. FIS LinkedIn connections: 2-4 months. FIS Google Ads leads: 7-14 days. First FIS/Florida Blue evaluation from integrated programme: 4-7 months."}},{"@type":"Question","name":"What is Florida Blue HEDIS insurance technology digital marketing for Jacksonville?","acceptedAnswer":{"@type":"Answer","text":"Florida Blue HEDIS digital marketing demonstrates managed care quality measure vocabulary: HEDIS quality measures, utilisation management operational specifics, provider network management technology, and the insurance administration technology that Florida Blue's 10 million+ member Jacksonville operation evaluates for technology vendor consideration."}},{"@type":"Question","name":"How does GEO/AEO affect Jacksonville digital marketing?","acceptedAnswer":{"@type":"Answer","text":"FIS Global's fintech community and Baptist Health's clinical IT community use AI search for vendor research. First-mover GEO/AEO for Jacksonville FIS Global and Baptist Health vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
+  cta: `Get Your Free Jacksonville Digital Marketing Audit`,
+  internalLinks: ["/seo-services-jacksonville/","/digital-marketing-agency-usa/","/digital-marketing-agency-orlando/","/digital-marketing-agency-miami/"],
+  
+  publishingChecklist: {
+    onPageSeo: {
+      title: { requirement: "Max 60 chars", status: false },
+      meta: { requirement: "Max 155 chars", status: false },
+      h1: { requirement: "Primary KW", status: false },
+      url: { requirement: "Exact URL", status: false },
+    },
+    schema: {
+      localBusiness: { requirement: "schema.org validated", status: false },
+      faqPage: { requirement: "Rich Results Test", status: false },
+    },
+    geoAeo: {
+      aeoBlock: { requirement: "First screen", status: false },
+      faqs: { requirement: "AI citation format", status: false },
+    },
+    eeat: {
+      author: { requirement: "Amjad Khan", status: false },
+      caseStudies: { requirement: "Real metrics", status: false },
+    },
+    technical: {
+      cwv: { requirement: "LCP<2.5s", status: false },
+      mobile: { requirement: "Full test", status: false },
+    },
+    postPublish: {
+      gsc: { requirement: "Submitted", status: false },
+      ga4: { requirement: "Events", status: false },
+      links: { requirement: "Hub+service+2 related", status: false },
+      tracker: { requirement: "LIVE", status: false },
+    },
+  },
+};
+
+export default DigitalMarketing_Jacksonville;

@@ -7,9 +7,9 @@ import {
   ContentMarketingServicesContent,
   AIAutomationServicesContent,
   WebDesignServicesContent,
-} from "@/content/main-services";
-import { EcommerceDevContent } from "@/content/EcommerceDevelopment";
-import { PpcManagementContent } from "@/content/PpcManagement";
+} from "@/content/services/main-services";
+import { EcommerceDevContent } from "@/content/services/EcommerceDevelopment";
+import { PpcManagementContent } from "@/content/services/PpcManagement";
 
 const contentMap: Record<string, any> = {
   "search-engine-optimization": SeoServicesContent,

@@ -8,7 +8,8 @@
     "dev:clean": "npm run clean && next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "convert:xlsx": "tsx scripts/convert-xlsx-to-ts.ts"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
@@ -72,9 +73,10 @@
     "@eslint/eslintrc": "^3.3.5",
     "@eslint/js": "^9.39.4",
     "@tailwindcss/typography": "^0.5.16",
-    "@types/node": "^22.16.5",
+    "@types/node": "^22.19.21",
     "@types/react": "^18.3.23",
     "@types/react-dom": "^18.3.7",
+    "@types/xlsx": "^0.0.35",
     "autoprefixer": "^10.4.21",
     "eslint": "^9.32.0",
     "eslint-config-next": "15.1.6",
@@ -83,6 +85,9 @@
     "globals": "^17.6.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.17",
+    "tsx": "^4.22.4",
+    "typescript": "^5.8.3",
+    "xlsx": "^0.18.5"
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.60.1"
   }
