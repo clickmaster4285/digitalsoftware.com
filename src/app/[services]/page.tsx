@@ -12,11 +12,11 @@ import {
   ContentMarketingServicesContent,
   AIAutomationServicesContent,
   WebDesignServicesContent,
-} from "@/content/main-services";
+} from "@/content/services/main-services";
 import Footer from "@/components/site/Footer";
 import SchemaMarkup from "@/components/landingPage/SchemaMarkup";
-import { EcommerceDevContent } from "@/content/EcommerceDevelopment";
-import { PpcManagementContent } from "@/content/PpcManagement";
+import { EcommerceDevContent } from "@/content/services/EcommerceDevelopment";
+import { PpcManagementContent } from "@/content/services/PpcManagement";
 const contentMap: Record<string, any> = {
   "search-engine-optimization": SeoServicesContent,
   "social-media-marketing": SocialMediaMarketingContent,
