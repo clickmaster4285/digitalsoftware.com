@@ -1,0 +1,90 @@
+// Auto-generated from XLSX file: T3-WebDesign-Dallas.xlsx
+// Service: WebDesign
+// City: Dallas
+// Generated: 2026-06-19T11:58:16.856Z
+
+export const WebDesign_Dallas = {
+  service: "WebDesign",
+  serviceSlug: "web-design",
+  city: "Dallas",
+  citySlug: "dallas",
+  slug: "/locations/web-design/dallas",
+  
+  h1: `Web Design Agency Dallas — Fortune 500-Vendor-Credible Websites for Texas' Corporate Commercial Capital`,
+  primaryKw: `web design agency dallas`,
+  formula: `FAB — Features (Fortune 500 DFW vendor credibility, Telecom Corridor enterprise B2B, FINRA financial services, Texas commercial directness, Core Web Vitals), Advantages (Fortune 500 procurement trust + institutional credibility), Benefits (AT&T/Toyota evaluation + Schwab advisory + professional conversions)`,
+  seoTitle: `Web Design Agency Dallas | Fortune 500 DFW Vendor Credibility | Clickmasters`,
+  meta: `Clickmasters web design in Dallas. Fortune 500-vendor-credible websites for AT&T, Toyota, Schwab ecosystem and Telecom Corridor enterprise B2B in DFW. Free audit.`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Dallas Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-dallas/","address":{"@type":"PostalAddress","addressLocality":"Dallas","addressRegion":"TX","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  wordCount: NaN,
+  geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN DALLAS?
+
+A Dallas web design agency builds websites for DFW-area businesses combining the Fortune 500 vendor credibility architecture that AT&T, Toyota, and Schwab procurement teams evaluate, the Telecom Corridor enterprise B2B technical precision, and the Texas commercial directness that characterises DFW's evolving corporate culture.
+
+FORTUNE 500 DFW VENDOR WEBSITE STANDARD: Dallas's Fortune 500 corporate relocation wave has imported the vendor evaluation standards of New York, Chicago, and San Jose. The Schwab procurement director from San Francisco who joined the Westlake campus evaluates vendor websites against the same standard she applied at her previous employer — ISO/SOC 2 certifications displayed and verified, named executive LinkedIn-verifiable credentials, Fortune 500-scale case study metrics, and the institutional visual quality that communicates serious enterprise vendor status. A DFW vendor website without these signals communicates to the relocated Fortune 500 professional community exactly what a New York or Chicago vendor website without them would communicate — commercial inadequacy.
+
+TELECOM CORRIDOR ENTERPRISE PRECISION: AT&T's operational headquarters, Ericsson's US campus, and Nokia's DFW presence create an enterprise technology vendor community whose websites must communicate at the technical precision that telecommunications procurement engineers evaluate. OSS/BSS system integration capability pages, carrier-grade reliability documentation, and the 5G deployment vocabulary that AT&T's procurement team evaluates during vendor qualification — these are the web design content requirements that most Dallas web agencies can't calibrate to.
+
+TEXAS COMMERCIAL DIRECTNESS: DFW's evolving corporate culture combines Fortune 500 institutional standards with Texas commercial directness. Website content that gets to the value proposition within 10 seconds, leads with specific commercial metrics rather than aspirational brand language, and communicates capability with direct evidence rather than narrative positioning performs above average in DFW's commercially direct professional community.`,
+  features: `FEATURES — CLICKMASTERS DALLAS WEBSITE:
+
+Fortune 500 Vendor Credibility Architecture:
+ISO/SOC 2/IATF certification display — linked to certification authority, not just logo badges. Named executive credentials with LinkedIn verification links. Fortune 500-scale case studies with client-permission metrics at the depth that AT&T/Toyota/Schwab procurement evaluate. Texas commercial directness in service descriptions — specific capabilities, specific timelines, specific evidence. The website that passes DFW's relocated Fortune 500 professional community's digital due diligence.
+
+Telecom Corridor Enterprise B2B Architecture:
+For the enterprise technology companies competing in the AT&T Telecom Corridor. OSS/BSS capability pages with systems integration methodology. Carrier-grade reliability documentation (five-nines uptime, SLA frameworks). 5G deployment vocabulary and network architecture pages. AT&T, Ericsson, and Nokia ecosystem partnership credential display. The B2B website that earns Telecom Corridor enterprise evaluation.
+
+FINRA-Compliant Financial Services Architecture:
+For Uptown and Plano investment advisory, wealth management, and financial technology companies. FINRA Rule 2210 compliance throughout. SEC Marketing Rule (2022) testimonials. GIPS-compliant performance display. ADV Part 2 integration. Texas State Securities Board awareness.`,
+  caseStudies: `Case Study 1: Plano Enterprise Software — Telecom Corridor Credibility Redesign
+Client: OSS/BSS integration software, Plano (\$9.4M ARR). Challenge: Website without Telecom vocabulary, no AT&T capability documentation. Procurement teams dismissing during digital due diligence.
+Programme: OSS/BSS capability pages + carrier-grade reliability docs + AT&T ecosystem display + CWV (4.2s to 1.4s)
+Results: AT&T evaluation: re-entered and progressed | Telecom vocabulary pages: 14 queries page 1 | Enterprise demo conversion: 0.4% to 2.4% | Website credibility: procurement explicitly cited
+
+Case Study 2: Uptown Dallas Financial Advisory — FINRA Institutional Redesign
+Client: RIA, Uptown Dallas (\$900M AUM). Challenge: FINRA-violating performance claims on website. Below Fortune 500 employee community standard.
+Programme: FINRA compliance redesign + SEC Marketing Rule testimonials + GIPS display + ADV Part 2 + Texas institutional visual
+Results: FINRA examination: clean | Fortune 500 employee enquiries: +3x | Website conversion (consultation request): 0.4% to 2.2% | New AUM from website: \$88M
+
+Case Study 3: Las Colinas Technology Company — Fortune 500 Campus Credibility
+Client: IT managed services, Las Colinas Irving (\$6.8M). Challenge: Website below Fortune 500 campus standard. ISO/SOC 2 not displayed. 4.8s LCP.
+Programme: ISO/SOC 2 display + Fortune 500 case studies + Texas commercial directness + CWV (4.8s to 1.6s)
+Results: Fortune 500 campus evaluations: +3x | ISO display: procurement cited | LCP: 4.8s to 1.6s | Demo conversion: +220%`,
+  faq: `FAQs — Web Design Dallas`,
+  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Dallas?","acceptedAnswer":{"@type":"Answer","text":"Dallas web design: \$7,000-\$20,000 (Fortune 500 vendor/Telecom Corridor/FINRA financial), \$30,000-\$80,000+ (enterprise). Fortune 500 vendor credibility architecture. WCAG 2.1 AA. Fixed-price contracts."}},{"@type":"Question","name":"What makes a Dallas website Fortune 500-vendor-credible?","acceptedAnswer":{"@type":"Answer","text":"Dallas's relocated Fortune 500 procurement community — from New York, Chicago, and San Jose — applies the same vendor website evaluation standards as their previous cities: ISO/SOC 2 certifications displayed with verification links (not just logo badges), LinkedIn-verifiable executive credentials, Fortune 500-scale case study metrics with commercial specificity, and institutional visual quality. Without these signals, DFW vendors are categorised as below-threshold by the most commercially sophisticated procurement community in Texas."}},{"@type":"Question","name":"Does Clickmasters build FINRA-compliant websites for Dallas financial services?","acceptedAnswer":{"@type":"Answer","text":"Yes. FINRA Rule 2210 compliance throughout, SEC Marketing Rule (2022) testimonial architecture, GIPS-compliant performance display, ADV Part 2 integration, and Texas State Securities Board awareness. DFW's growing financial services community from Schwab's Westlake campus brings FINRA examination awareness that was less prevalent in pre-relocation DFW."}},{"@type":"Question","name":"Does Clickmasters serve Fort Worth, Plano, Frisco, and DFW suburbs?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of DFW metro including Fort Worth, Plano, Frisco, McKinney, Allen, Richardson (Telecom Corridor), Irving (Las Colinas), and all of the Metroplex."}},{"@type":"Question","name":"How long does a Dallas web design project take?","acceptedAnswer":{"@type":"Answer","text":"Fortune 500 vendor: 8-14 weeks. Telecom Corridor enterprise (OSS/BSS documentation adds time): 10-16 weeks. FINRA financial (compliance review): 10-16 weeks. Enterprise: 16-26 weeks."}},{"@type":"Question","name":"What is Texas commercial directness in Dallas web design?","acceptedAnswer":{"@type":"Answer","text":"Texas commercial directness means website content that gets to the commercial value proposition within 10 seconds, leads with specific metrics rather than aspirational brand language, and communicates capability with direct evidence. DFW's evolved corporate culture rewards websites that respect the professional's time by stating specific value immediately — not after 3 paragraphs of brand narrative."}}]}`,
+  cta: `Get Your Free Dallas Website Audit`,
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-dallas/","/seo-services-dallas/","/web-design-agency-houston/","/industries/technology/","/tools/website-grader/"],
+  
+  publishingChecklist: {
+    onPageSeo: {
+      title: { requirement: "Max 60 chars", status: false },
+      meta: { requirement: "Max 155 chars", status: false },
+      h1: { requirement: "Primary KW", status: false },
+      url: { requirement: "Exact URL", status: false },
+    },
+    schema: {
+      localBusiness: { requirement: "schema.org validated", status: false },
+      faqPage: { requirement: "Rich Results Test", status: false },
+    },
+    geoAeo: {
+      aeoBlock: { requirement: "First screen", status: false },
+      faqs: { requirement: "AI citation format", status: false },
+    },
+    eeat: {
+      author: { requirement: "Amjad Khan", status: false },
+      caseStudies: { requirement: "Real metrics", status: false },
+    },
+    technical: {
+      cwv: { requirement: "LCP<2.5s", status: false },
+      mobile: { requirement: "Full test", status: false },
+    },
+    postPublish: {
+      gsc: { requirement: "Submitted", status: false },
+      ga4: { requirement: "Events", status: false },
+      links: { requirement: "Hub+service+2 related", status: false },
+      tracker: { requirement: "LIVE", status: false },
+    },
+  },
+};
+
+export default WebDesign_Dallas;
