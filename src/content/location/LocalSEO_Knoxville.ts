@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Knoxville.xlsx
 // Service: LocalSEO
 // City: Knoxville
-// Generated: 2026-06-19T11:58:14.999Z
+// Generated: 2026-06-19T12:50:27.503Z
 
 export const LocalSEO_Knoxville = {
   service: "LocalSEO",

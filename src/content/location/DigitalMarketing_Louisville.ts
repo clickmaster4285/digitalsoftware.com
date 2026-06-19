@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Louisville.xlsx
 // Service: DigitalMarketing
 // City: Louisville
-// Generated: 2026-06-19T11:58:13.136Z
+// Generated: 2026-06-19T12:50:25.767Z
 
 export const DigitalMarketing_Louisville = {
   service: "DigitalMarketing",

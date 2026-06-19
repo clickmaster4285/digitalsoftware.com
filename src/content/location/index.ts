@@ -1,5 +1,5 @@
 // Auto-generated master index for all location pages
-// Generated: 2026-06-19T11:58:17.287Z
+// Generated: 2026-06-19T12:50:29.261Z
 // Total files: 387
 // Total services: 8
 
@@ -1291,7 +1291,7 @@ export const getLocationBySlug = (slug: string) => {
     "digital-marketing/san-francisco": DigitalMarketing_SanFrancisco,
     "digital-marketing/seattle": DigitalMarketing_Seattle,
     "digital-marketing/st-louis": DigitalMarketing_StLouis,
-    "digital-marketing-agency-in-tampa": DigitalMarketing_Tampa,
+    "digital-marketing/tampa": DigitalMarketing_Tampa,
     "digital-marketing/tulsa": DigitalMarketing_Tulsa,
     "digital-marketing/wichita": DigitalMarketing_Wichita,
     "email-marketing/albuquerque": EmailMarketing_Albuquerque,

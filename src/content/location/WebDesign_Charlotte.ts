@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Charlotte.xlsx
 // Service: WebDesign
 // City: Charlotte
-// Generated: 2026-06-19T11:58:16.792Z
+// Generated: 2026-06-19T12:50:28.906Z
 
 export const WebDesign_Charlotte = {
   service: "WebDesign",

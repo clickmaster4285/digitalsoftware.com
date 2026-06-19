@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Chicago.xlsx
 // Service: SocialMedia
 // City: Chicago
-// Generated: 2026-06-19T11:58:16.229Z
+// Generated: 2026-06-19T12:50:28.410Z
 
 export const SocialMedia_Chicago = {
   service: "SocialMedia",

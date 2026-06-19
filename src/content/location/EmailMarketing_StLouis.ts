@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-StLouis.xlsx
 // Service: EmailMarketing
 // City: StLouis
-// Generated: 2026-06-19T11:58:14.113Z
+// Generated: 2026-06-19T12:50:26.770Z
 
 export const EmailMarketing_StLouis = {
   service: "EmailMarketing",

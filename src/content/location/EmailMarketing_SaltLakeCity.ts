@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-SaltLakeCity.xlsx
 // Service: EmailMarketing
 // City: SaltLakeCity
-// Generated: 2026-06-19T11:58:14.040Z
+// Generated: 2026-06-19T12:50:26.705Z
 
 export const EmailMarketing_SaltLakeCity = {
   service: "EmailMarketing",

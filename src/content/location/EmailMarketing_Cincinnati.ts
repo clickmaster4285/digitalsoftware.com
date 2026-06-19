@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Cincinnati.xlsx
 // Service: EmailMarketing
 // City: Cincinnati
-// Generated: 2026-06-19T11:58:13.548Z
+// Generated: 2026-06-19T12:50:26.362Z
 
 export const EmailMarketing_Cincinnati = {
   service: "EmailMarketing",

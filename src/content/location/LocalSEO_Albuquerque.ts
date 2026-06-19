@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Albuquerque.xlsx
 // Service: LocalSEO
 // City: Albuquerque
-// Generated: 2026-06-19T11:58:14.791Z
+// Generated: 2026-06-19T12:50:27.323Z
 
 export const LocalSEO_Albuquerque = {
   service: "LocalSEO",

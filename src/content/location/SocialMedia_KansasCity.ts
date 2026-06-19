@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-SocialMedia-KansasCity.xlsx
 // Service: SocialMedia
 // City: KansasCity
-// Generated: 2026-06-19T11:58:16.361Z
+// Generated: 2026-06-19T12:50:28.516Z
 
 export const SocialMedia_KansasCity = {
   service: "SocialMedia",

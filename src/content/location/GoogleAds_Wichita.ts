@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Wichita.xlsx
 // Service: GoogleAds
 // City: Wichita
-// Generated: 2026-06-19T11:58:14.780Z
+// Generated: 2026-06-19T12:50:27.310Z
 
 export const GoogleAds_Wichita = {
   service: "GoogleAds",

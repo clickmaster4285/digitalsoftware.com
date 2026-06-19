@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Albuquerque.xlsx
 // Service: GoogleAds
 // City: Albuquerque
-// Generated: 2026-06-19T11:58:14.156Z
+// Generated: 2026-06-19T12:50:26.809Z
 
 export const GoogleAds_Albuquerque = {
   service: "GoogleAds",

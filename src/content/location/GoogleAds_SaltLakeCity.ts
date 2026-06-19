@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-GoogleAds-SaltLakeCity.xlsx
 // Service: GoogleAds
 // City: SaltLakeCity
-// Generated: 2026-06-19T11:58:14.679Z
+// Generated: 2026-06-19T12:50:27.229Z
 
 export const GoogleAds_SaltLakeCity = {
   service: "GoogleAds",

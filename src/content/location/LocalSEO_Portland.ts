@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Portland.xlsx
 // Service: LocalSEO
 // City: Portland
-// Generated: 2026-06-19T11:58:15.209Z
+// Generated: 2026-06-19T12:50:27.646Z
 
 export const LocalSEO_Portland = {
   service: "LocalSEO",

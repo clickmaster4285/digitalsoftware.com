@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Minneapolis.xlsx
 // Service: EmailMarketing
 // City: Minneapolis
-// Generated: 2026-06-19T11:58:13.748Z
+// Generated: 2026-06-19T12:50:26.538Z
 
 export const EmailMarketing_Minneapolis = {
   service: "EmailMarketing",

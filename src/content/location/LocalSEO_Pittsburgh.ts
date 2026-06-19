@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Pittsburgh.xlsx
 // Service: LocalSEO
 // City: Pittsburgh
-// Generated: 2026-06-19T11:58:15.198Z
+// Generated: 2026-06-19T12:50:27.636Z
 
 export const LocalSEO_Pittsburgh = {
   service: "LocalSEO",

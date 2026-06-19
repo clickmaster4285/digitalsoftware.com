@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Sacramento.xlsx
 // Service: LocalSEO
 // City: Sacramento
-// Generated: 2026-06-19T11:58:15.261Z
+// Generated: 2026-06-19T12:50:27.694Z
 
 export const LocalSEO_Sacramento = {
   service: "LocalSEO",

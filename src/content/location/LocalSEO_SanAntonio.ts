@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-SanAntonio.xlsx
 // Service: LocalSEO
 // City: SanAntonio
-// Generated: 2026-06-19T11:58:15.297Z
+// Generated: 2026-06-19T12:50:27.713Z
 
 export const LocalSEO_SanAntonio = {
   service: "LocalSEO",

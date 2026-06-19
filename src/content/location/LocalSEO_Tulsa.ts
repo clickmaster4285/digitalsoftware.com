@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Tulsa.xlsx
 // Service: LocalSEO
 // City: Tulsa
-// Generated: 2026-06-19T11:58:15.373Z
+// Generated: 2026-06-19T12:50:27.760Z
 
 export const LocalSEO_Tulsa = {
   service: "LocalSEO",

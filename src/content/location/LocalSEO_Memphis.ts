@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Memphis.xlsx
 // Service: LocalSEO
 // City: Memphis
-// Generated: 2026-06-19T11:58:15.052Z
+// Generated: 2026-06-19T12:50:27.536Z
 
 export const LocalSEO_Memphis = {
   service: "LocalSEO",

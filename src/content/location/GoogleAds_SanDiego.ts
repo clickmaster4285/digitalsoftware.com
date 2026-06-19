@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-GoogleAds-SanDiego.xlsx
 // Service: GoogleAds
 // City: SanDiego
-// Generated: 2026-06-19T11:58:14.701Z
+// Generated: 2026-06-19T12:50:27.253Z
 
 export const GoogleAds_SanDiego = {
   service: "GoogleAds",

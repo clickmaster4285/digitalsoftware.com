@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Louisville.xlsx
 // Service: LocalSEO
 // City: Louisville
-// Generated: 2026-06-19T11:58:15.039Z
+// Generated: 2026-06-19T12:50:27.527Z
 
 export const LocalSEO_Louisville = {
   service: "LocalSEO",

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Cincinnati.xlsx
 // Service: LocalSEO
 // City: Cincinnati
-// Generated: 2026-06-19T11:58:14.900Z
+// Generated: 2026-06-19T12:50:27.402Z
 
 export const LocalSEO_Cincinnati = {
   service: "LocalSEO",

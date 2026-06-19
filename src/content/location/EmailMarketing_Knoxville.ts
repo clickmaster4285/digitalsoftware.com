@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Knoxville.xlsx
 // Service: EmailMarketing
 // City: Knoxville
-// Generated: 2026-06-19T11:58:13.663Z
+// Generated: 2026-06-19T12:50:26.469Z
 
 export const EmailMarketing_Knoxville = {
   service: "EmailMarketing",

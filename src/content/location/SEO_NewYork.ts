@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-SEO-NewYork.xlsx
 // Service: SEO
 // City: NewYork
-// Generated: 2026-06-19T11:58:15.807Z
+// Generated: 2026-06-19T12:50:28.071Z
 
 export const SEO_NewYork = {
   service: "SEO",

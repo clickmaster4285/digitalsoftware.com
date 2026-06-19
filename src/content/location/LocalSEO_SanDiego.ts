@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-SanDiego.xlsx
 // Service: LocalSEO
 // City: SanDiego
-// Generated: 2026-06-19T11:58:15.318Z
+// Generated: 2026-06-19T12:50:27.722Z
 
 export const LocalSEO_SanDiego = {
   service: "LocalSEO",

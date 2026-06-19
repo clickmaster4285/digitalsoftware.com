@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Omaha.xlsx
 // Service: WebDesign
 // City: Omaha
-// Generated: 2026-06-19T11:58:17.100Z
+// Generated: 2026-06-19T12:50:29.087Z
 
 export const WebDesign_Omaha = {
   service: "WebDesign",

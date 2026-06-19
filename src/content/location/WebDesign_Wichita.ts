@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Wichita.xlsx
 // Service: WebDesign
 // City: Wichita
-// Generated: 2026-06-19T11:58:17.269Z
+// Generated: 2026-06-19T12:50:29.255Z
 
 export const WebDesign_Wichita = {
   service: "WebDesign",

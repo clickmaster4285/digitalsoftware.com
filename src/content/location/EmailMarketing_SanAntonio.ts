@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-SanAntonio.xlsx
 // Service: EmailMarketing
 // City: SanAntonio
-// Generated: 2026-06-19T11:58:14.059Z
+// Generated: 2026-06-19T12:50:26.718Z
 
 export const EmailMarketing_SanAntonio = {
   service: "EmailMarketing",

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Seattle.xlsx
 // Service: DigitalMarketing
 // City: Seattle
-// Generated: 2026-06-19T11:58:13.391Z
+// Generated: 2026-06-19T12:50:26.242Z
 
 export const DigitalMarketing_Seattle = {
   service: "DigitalMarketing",

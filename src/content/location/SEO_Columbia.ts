@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-SEO-Columbia.xlsx
 // Service: SEO
 // City: Columbia
-// Generated: 2026-06-19T11:58:15.570Z
+// Generated: 2026-06-19T12:50:27.886Z
 
 export const SEO_Columbia = {
   service: "SEO",

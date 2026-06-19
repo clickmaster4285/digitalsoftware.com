@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Portland.xlsx
 // Service: GoogleAds
 // City: Portland
-// Generated: 2026-06-19T11:58:14.635Z
+// Generated: 2026-06-19T12:50:27.168Z
 
 export const GoogleAds_Portland = {
   service: "GoogleAds",

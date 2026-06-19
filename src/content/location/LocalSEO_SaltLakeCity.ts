@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-SaltLakeCity.xlsx
 // Service: LocalSEO
 // City: SaltLakeCity
-// Generated: 2026-06-19T11:58:15.273Z
+// Generated: 2026-06-19T12:50:27.705Z
 
 export const LocalSEO_SaltLakeCity = {
   service: "LocalSEO",

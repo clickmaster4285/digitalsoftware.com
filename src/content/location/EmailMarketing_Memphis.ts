@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Memphis.xlsx
 // Service: EmailMarketing
 // City: Memphis
-// Generated: 2026-06-19T11:58:13.713Z
+// Generated: 2026-06-19T12:50:26.503Z
 
 export const EmailMarketing_Memphis = {
   service: "EmailMarketing",

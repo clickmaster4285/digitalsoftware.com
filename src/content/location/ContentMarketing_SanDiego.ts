@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-SanDiego.xlsx
 // Service: ContentMarketing
 // City: SanDiego
-// Generated: 2026-06-19T11:58:12.700Z
+// Generated: 2026-06-19T12:50:25.436Z
 
 export const ContentMarketing_SanDiego = {
   service: "ContentMarketing",

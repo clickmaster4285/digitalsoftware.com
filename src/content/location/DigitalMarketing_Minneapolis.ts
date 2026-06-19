@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Minneapolis.xlsx
 // Service: DigitalMarketing
 // City: Minneapolis
-// Generated: 2026-06-19T11:58:13.171Z
+// Generated: 2026-06-19T12:50:25.794Z
 
 export const DigitalMarketing_Minneapolis = {
   service: "DigitalMarketing",

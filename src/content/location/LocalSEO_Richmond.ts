@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Richmond.xlsx
 // Service: LocalSEO
 // City: Richmond
-// Generated: 2026-06-19T11:58:15.245Z
+// Generated: 2026-06-19T12:50:27.680Z
 
 export const LocalSEO_Richmond = {
   service: "LocalSEO",

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Cincinnati.xlsx
 // Service: SocialMedia
 // City: Cincinnati
-// Generated: 2026-06-19T11:58:16.239Z
+// Generated: 2026-06-19T12:50:28.420Z
 
 export const SocialMedia_Cincinnati = {
   service: "SocialMedia",

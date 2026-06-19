@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-DesMoines.xlsx
 // Service: LocalSEO
 // City: DesMoines
-// Generated: 2026-06-19T11:58:14.942Z
+// Generated: 2026-06-19T12:50:27.447Z
 
 export const LocalSEO_DesMoines = {
   service: "LocalSEO",

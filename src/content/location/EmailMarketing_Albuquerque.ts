@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Albuquerque.xlsx
 // Service: EmailMarketing
 // City: Albuquerque
-// Generated: 2026-06-19T11:58:13.450Z
+// Generated: 2026-06-19T12:50:26.290Z
 
 export const EmailMarketing_Albuquerque = {
   service: "EmailMarketing",

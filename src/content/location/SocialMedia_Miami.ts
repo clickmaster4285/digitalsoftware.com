@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Miami.xlsx
 // Service: SocialMedia
 // City: Miami
-// Generated: 2026-06-19T11:58:16.439Z
+// Generated: 2026-06-19T12:50:28.578Z
 
 export const SocialMedia_Miami = {
   service: "SocialMedia",

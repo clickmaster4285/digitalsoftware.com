@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-Wichita.xlsx
 // Service: ContentMarketing
 // City: Wichita
-// Generated: 2026-06-19T11:58:12.777Z
+// Generated: 2026-06-19T12:50:25.491Z
 
 export const ContentMarketing_Wichita = {
   service: "ContentMarketing",

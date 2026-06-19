@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-LocalSEO-KansasCity.xlsx
 // Service: LocalSEO
 // City: KansasCity
-// Generated: 2026-06-19T11:58:14.992Z
+// Generated: 2026-06-19T12:50:27.492Z
 
 export const LocalSEO_KansasCity = {
   service: "LocalSEO",

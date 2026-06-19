@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-SEO-Wichita.xlsx
 // Service: SEO
 // City: Wichita
-// Generated: 2026-06-19T11:58:16.131Z
+// Generated: 2026-06-19T12:50:28.334Z
 
 export const SEO_Wichita = {
   service: "SEO",

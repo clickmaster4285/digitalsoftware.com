@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Richmond.xlsx
 // Service: EmailMarketing
 // City: Richmond
-// Generated: 2026-06-19T11:58:13.977Z
+// Generated: 2026-06-19T12:50:26.660Z
 
 export const EmailMarketing_Richmond = {
   service: "EmailMarketing",
