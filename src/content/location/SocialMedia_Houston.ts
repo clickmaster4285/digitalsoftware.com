@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Houston.xlsx
 // Service: SocialMedia
 // City: Houston
-// Generated: 2026-06-19T12:50:28.477Z
+// URL: /social-media-marketing-houston/
+// Generated: 2026-06-20T04:42:14.103Z
 
 export const SocialMedia_Houston = {
   service: "SocialMedia",
   serviceSlug: "social-media",
   city: "Houston",
   citySlug: "houston",
-  slug: "/locations/social-media/houston",
+  slug: "/social-media-marketing-houston/",
   
   h1: `Social Media Marketing Houston — Energy Corridor LinkedIn, Bilingual Consumer Social, and TMC Healthcare Authority`,
   primaryKw: `social media marketing houston`,
@@ -16,7 +17,7 @@ export const SocialMedia_Houston = {
   seoTitle: `Social Media Marketing Houston | Energy LinkedIn & Bilingual Consumer | Clickmasters`,
   meta: `Clickmasters social media marketing in Houston. Energy Corridor LinkedIn authority, bilingual Spanish/English consumer social, and Texas Medical Center healthcare community for Texas' commercial capital. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Houston Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-houston/","address":{"@type":"PostalAddress","addressLocality":"Houston","addressRegion":"TX","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN HOUSTON?
 
 Social media marketing in Houston is the strategic management of social platforms for Houston-area businesses across three commercially distinct audiences: the Energy Corridor LinkedIn professional community, Houston's 44% bilingual Spanish/English consumer market, and the Texas Medical Center healthcare professional network.
@@ -41,7 +42,33 @@ Case Study 3: TMC Health Technology Vendor — Healthcare LinkedIn Authority
 Client: Clinical informatics SaaS, Houston (\$7.4M ARR). Challenge: TMC procurement not seeing health IT expertise on LinkedIn.
 Programme: TMC community LinkedIn + UT Health content + clinical informatics vocabulary + HIPAA-aware content
 Results (7 months): TMC professional connections: +28 | TMC procurement conversations from LinkedIn: 6/quarter | LinkedIn TMC vendor evaluation invitations: +3x | Pipeline: \$1.8M`,
-  faq: `FAQs — Social Media Marketing Houston`,
+  faqTitle: `FAQs — Social Media Marketing Houston`,
+  faqs: [
+  {
+    "question": "How much does social media marketing cost in Houston?",
+    "answer": "Houston social media: $1,600/month (LinkedIn growth) to $18,000+/month (enterprise). API/HSE technical accuracy for energy sector. Bilingual English/Spanish consumer social. HIPAA-aware for healthcare. 90-day performance guarantee."
+  },
+  {
+    "question": "What is API/HSE-technical LinkedIn for Houston energy companies?",
+    "answer": "Energy LinkedIn content demonstrating genuine operational depth: API certification references (API Spec 6A, 6D, 17D specific citations), TRIR/LTIR safety performance data in the format operators use, GOM deepwater operational specifics (HPHT wells, subsea tree configurations, umbilical management). Generic 'energy expertise' LinkedIn content earns the same engagement from ExxonMobil and Shell procurement as generic marketing copy — which is none."
+  },
+  {
+    "question": "Does Clickmasters manage bilingual English/Spanish social media for Houston businesses?",
+    "answer": "Yes. Genuine bilingual social media — South Texas Spanish content (not translated English), Spanish community management, HIPAA-aware bilingual healthcare social content, and authentic Houston Mexican-American and Central American cultural content that earns genuine Spanish-speaking community engagement."
+  },
+  {
+    "question": "Does Clickmasters serve The Woodlands, Sugar Land, and Greater Houston?",
+    "answer": "Yes — all of Greater Houston including The Woodlands, Sugar Land, Katy, Pearland, and the full Houston MSA."
+  },
+  {
+    "question": "How does TMC healthcare LinkedIn differ from general healthcare LinkedIn?",
+    "answer": "TMC's 106,000-employee professional community evaluates vendor LinkedIn content with clinical institutional precision: UT Health Houston and UTHealth affiliation display, clinical credential attribution, evidence-based clinical informatics content. Generic 'healthcare technology' LinkedIn content earns no engagement from TMC's medically sophisticated professional community."
+  },
+  {
+    "question": "How does Clickmasters measure Houston social media commercial outcomes?",
+    "answer": "By channel: Energy LinkedIn — ExxonMobil/Shell procurement connections and vendor evaluation invitations. Bilingual consumer social — Spanish-language community engagement and bilingual referral rate. TMC LinkedIn — health system procurement conversations and evaluation invitations."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Houston?","acceptedAnswer":{"@type":"Answer","text":"Houston social media: \$1,600/month (LinkedIn growth) to \$18,000+/month (enterprise). API/HSE technical accuracy for energy sector. Bilingual English/Spanish consumer social. HIPAA-aware for healthcare. 90-day performance guarantee."}},{"@type":"Question","name":"What is API/HSE-technical LinkedIn for Houston energy companies?","acceptedAnswer":{"@type":"Answer","text":"Energy LinkedIn content demonstrating genuine operational depth: API certification references (API Spec 6A, 6D, 17D specific citations), TRIR/LTIR safety performance data in the format operators use, GOM deepwater operational specifics (HPHT wells, subsea tree configurations, umbilical management). Generic 'energy expertise' LinkedIn content earns the same engagement from ExxonMobil and Shell procurement as generic marketing copy — which is none."}},{"@type":"Question","name":"Does Clickmasters manage bilingual English/Spanish social media for Houston businesses?","acceptedAnswer":{"@type":"Answer","text":"Yes. Genuine bilingual social media — South Texas Spanish content (not translated English), Spanish community management, HIPAA-aware bilingual healthcare social content, and authentic Houston Mexican-American and Central American cultural content that earns genuine Spanish-speaking community engagement."}},{"@type":"Question","name":"Does Clickmasters serve The Woodlands, Sugar Land, and Greater Houston?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Houston including The Woodlands, Sugar Land, Katy, Pearland, and the full Houston MSA."}},{"@type":"Question","name":"How does TMC healthcare LinkedIn differ from general healthcare LinkedIn?","acceptedAnswer":{"@type":"Answer","text":"TMC's 106,000-employee professional community evaluates vendor LinkedIn content with clinical institutional precision: UT Health Houston and UTHealth affiliation display, clinical credential attribution, evidence-based clinical informatics content. Generic 'healthcare technology' LinkedIn content earns no engagement from TMC's medically sophisticated professional community."}},{"@type":"Question","name":"How does Clickmasters measure Houston social media commercial outcomes?","acceptedAnswer":{"@type":"Answer","text":"By channel: Energy LinkedIn — ExxonMobil/Shell procurement connections and vendor evaluation invitations. Bilingual consumer social — Spanish-language community engagement and bilingual referral rate. TMC LinkedIn — health system procurement conversations and evaluation invitations."}}]}`,
   cta: `Get Your Free Houston Social Media Audit`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-houston/","/seo-services-houston/","/social-media-marketing-dallas/","/industries/oil-gas/","/industries/healthcare/"],
@@ -51,7 +78,7 @@ Results (7 months): TMC professional connections: +28 | TMC procurement conversa
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /social-media-marketing-houston/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

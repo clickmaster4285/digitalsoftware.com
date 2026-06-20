@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-SaltLakeCity.xlsx
 // Service: EmailMarketing
 // City: SaltLakeCity
-// Generated: 2026-06-19T12:50:26.705Z
+// URL: /email-marketing-salt-lake-city/
+// Generated: 2026-06-20T04:42:12.094Z
 
 export const EmailMarketing_SaltLakeCity = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "SaltLakeCity",
   citySlug: "salt-lake-city",
-  slug: "/locations/email-marketing/salt-lake-city",
+  slug: "/email-marketing-salt-lake-city/",
   
   h1: `Email Marketing Salt Lake City — Silicon Slopes Pipeline, Goldman FINRA Nurture, and California In-Migration Utah Professional Onboarding`,
   primaryKw: `email marketing agency salt lake city`,
@@ -16,7 +17,7 @@ export const EmailMarketing_SaltLakeCity = {
   seoTitle: `Email Marketing Salt Lake City | Silicon Slopes Pipeline & Goldman FINRA | Clickmasters`,
   meta: `Clickmasters email marketing in Salt Lake City. Silicon Slopes Qualtrics/Domo enterprise pipeline, Goldman Sachs FINRA-compliant institutional nurture, and California in-migration Utah professional onboarding. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Salt Lake City Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-salt-lake-city/","address":{"@type":"PostalAddress","addressLocality":"Salt Lake City","addressRegion":"UT","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN SALT LAKE CITY?
 
 Email marketing in Salt Lake City is the strategic management of email as a Silicon Slopes enterprise technology procurement pipeline, Goldman Sachs FINRA-compliant institutional investment nurture, and California-to-Utah professional in-migration onboarding channel.
@@ -50,7 +51,33 @@ Case Study 3: Salt Lake City Financial Advisory — CA-to-Utah In-Migration Onbo
 Client: Fee-only RIA, Salt Lake City (\$200M AUM). Challenge: CA transplants cold after initial inquiry. Generic welcome email. Utah tax advantage not highlighted.
 Programme: CA-to-UT 5-stage onboarding + 4.65% vs 13.3% tax analysis + SLC healthcare navigation + FINRA + UCPA
 Results: CA in-migration engagement: 3.8x above generic | Conversion within 90 days: 40% | New CA-to-UT AUM: \$18M | FINRA/UCPA: clean`,
-  faq: `FAQs — Email Marketing Salt Lake City`,
+  faqTitle: `FAQs — Email Marketing Salt Lake City`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Salt Lake City?",
+    "answer": "Salt Lake City email marketing: $750/month (Foundation) to $8,000+/month (Enterprise). Silicon Slopes Qualtrics/Domo enterprise pipeline. Goldman Sachs FINRA-compliant institutional. CA in-migration Utah professional onboarding. UCPA-compliant. Utah retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is the California-to-Utah 5-stage professional in-migration onboarding email programme?",
+    "answer": "Stage 1: CA-to-UT Wasatch Front welcome. Stage 2: Utah 4.65% flat income tax vs California 13.3% top rate — personalised annual tax savings analysis. Stage 3: Salt Lake City healthcare navigation — University of Utah Health, Primary Children's Hospital, Intermountain Health. Stage 4: Wasatch Front neighbourhood guide — Sugar House, The Avenues, Draper, South Jordan, Lehi. Stage 5: Silicon Slopes and Utah professional community connection — Utah Technology Council, Silicon Slopes Summit, Utah Bankers Association."
+  },
+  {
+    "question": "What is Silicon Slopes enterprise pipeline email for Salt Lake City technology vendors?",
+    "answer": "Qualtrics XM driver analysis methodology updates, Domo BI cloud data pipeline architecture intelligence, Pluralsight Skill IQ enterprise assessment insights — maintaining Qualtrics, Domo, and Pluralsight procurement contact relationships through 60-150 day Silicon Slopes enterprise evaluation cycles with UCPA-compliant email data handling throughout."
+  },
+  {
+    "question": "Does Clickmasters serve Lehi, Draper, South Jordan, and Greater Salt Lake City?",
+    "answer": "Yes — all of Greater Salt Lake City and the Wasatch Front."
+  },
+  {
+    "question": "How long does Silicon Slopes enterprise pipeline email produce results?",
+    "answer": "Qualtrics/Domo re-engagement from enterprise precision email: 21-30 days. Silicon Slopes evaluation invitations: 60-120 days. Full Silicon Slopes pipeline: 5-9 months."
+  },
+  {
+    "question": "What makes California in-migration Utah email marketing unique in Salt Lake City?",
+    "answer": "California's 13.3% top income tax rate creates mathematically significant annual savings for high-income professionals relocating to Utah's 4.65% flat income tax state. Financial advisory businesses that lead with a personalised California-to-Utah tax savings calculation in their in-migration email Stage 2 earn 3-4x above-average engagement from California transplants whose primary financial planning motivation is the documented Utah tax efficiency advantage."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Salt Lake City email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). Silicon Slopes Qualtrics/Domo enterprise pipeline. Goldman Sachs FINRA-compliant institutional. CA in-migration Utah professional onboarding. UCPA-compliant. Utah retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is the California-to-Utah 5-stage professional in-migration onboarding email programme?","acceptedAnswer":{"@type":"Answer","text":"Stage 1: CA-to-UT Wasatch Front welcome. Stage 2: Utah 4.65% flat income tax vs California 13.3% top rate — personalised annual tax savings analysis. Stage 3: Salt Lake City healthcare navigation — University of Utah Health, Primary Children's Hospital, Intermountain Health. Stage 4: Wasatch Front neighbourhood guide — Sugar House, The Avenues, Draper, South Jordan, Lehi. Stage 5: Silicon Slopes and Utah professional community connection — Utah Technology Council, Silicon Slopes Summit, Utah Bankers Association."}},{"@type":"Question","name":"What is Silicon Slopes enterprise pipeline email for Salt Lake City technology vendors?","acceptedAnswer":{"@type":"Answer","text":"Qualtrics XM driver analysis methodology updates, Domo BI cloud data pipeline architecture intelligence, Pluralsight Skill IQ enterprise assessment insights — maintaining Qualtrics, Domo, and Pluralsight procurement contact relationships through 60-150 day Silicon Slopes enterprise evaluation cycles with UCPA-compliant email data handling throughout."}},{"@type":"Question","name":"Does Clickmasters serve Lehi, Draper, South Jordan, and Greater Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Salt Lake City and the Wasatch Front."}},{"@type":"Question","name":"How long does Silicon Slopes enterprise pipeline email produce results?","acceptedAnswer":{"@type":"Answer","text":"Qualtrics/Domo re-engagement from enterprise precision email: 21-30 days. Silicon Slopes evaluation invitations: 60-120 days. Full Silicon Slopes pipeline: 5-9 months."}},{"@type":"Question","name":"What makes California in-migration Utah email marketing unique in Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"California's 13.3% top income tax rate creates mathematically significant annual savings for high-income professionals relocating to Utah's 4.65% flat income tax state. Financial advisory businesses that lead with a personalised California-to-Utah tax savings calculation in their in-migration email Stage 2 earn 3-4x above-average engagement from California transplants whose primary financial planning motivation is the documented Utah tax efficiency advantage."}}]}`,
   cta: `Get Your Free Salt Lake City Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-salt-lake-city/","/seo-services-salt-lake-city/","/email-marketing-denver/"],
@@ -60,7 +87,7 @@ Results: CA in-migration engagement: 3.8x above generic | Conversion within 90 d
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-salt-lake-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

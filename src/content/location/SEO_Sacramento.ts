@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Sacramento.xlsx
 // Service: SEO
 // City: Sacramento
-// Generated: 2026-06-19T12:50:28.221Z
+// URL: /seo-services-sacramento/
+// Generated: 2026-06-20T04:42:13.868Z
 
 export const SEO_Sacramento = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Sacramento",
   citySlug: "sacramento",
-  slug: "/locations/seo/sacramento",
+  slug: "/seo-services-sacramento/",
   
   h1: `SEO Services Sacramento — California State Government Tech B2B, CalPERS/CalSTRS FINRA, UC Davis Health YMYL, and CCPA-Native`,
   primaryKw: `seo services sacramento`,
@@ -16,7 +17,7 @@ export const SEO_Sacramento = {
   seoTitle: `SEO Services Sacramento | CA State Government Tech & CalPERS FINRA | Clickmasters`,
   meta: `Clickmasters SEO in Sacramento. California state government technology B2B authority, CalPERS/CalSTRS FINRA institutional investment, UC Davis Health YMYL, Intel Folsom enterprise, and CCPA-native analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Sacramento SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-sacramento/","address":{"@type":"PostalAddress","addressLocality":"Sacramento","addressRegion":"CA","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS SEO IN SACRAMENTO?
 
 SEO in Sacramento is the practice of earning organic search authority in California's capital city — home to the largest state government technology procurement market in the US, CalPERS and CalSTRS (the two largest public pension funds in the US), UC Davis Health (one of California's leading academic medical centres), and Intel's significant Folsom campus — all within a CCPA/CPRA compliance environment that must be native throughout all digital marketing measurement.
@@ -43,7 +44,33 @@ Case Study 3: Sacramento Healthcare Practice — UC Davis Health YMYL SEO
 Client: Oncology (UC Davis NCI-affiliated). Challenge: Generic content below UC Davis YMYL standard. Non-CCPA analytics.
 Programme: UC Davis NCI Cancer Center vocabulary + YMYL E-E-A-T + HIPAA/CCPA-native + GEO/AEO
 Results (10 months): Page 1 for 10 Sacramento oncology queries | YMYL: E-E-A-T | UC Davis NCI: cited | CCPA/HIPAA: clean | New patients: +3x`,
-  faq: `FAQs — SEO Sacramento`,
+  faqTitle: `FAQs — SEO Sacramento`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Sacramento?",
+    "answer": "Sacramento SEO: $1,000/month (Foundation) to $10,000+/month (Enterprise). California state government IT vocabulary. CalPERS/CalSTRS FINRA institutional investment. UC Davis Health YMYL. Intel Folsom enterprise. CCPA/CPRA-native analytics. California retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is California state government technology B2B SEO for Sacramento businesses?",
+    "answer": "California state government IT SEO builds organic authority in the largest state government technology procurement vocabulary in the US: California CDT, CHHS, CDPH procurement processes, CalATERS and FI$Cal system familiarity, digital government service delivery methodology, and California IT procurement operational specifics — earning organic discovery from Sacramento's most commercially significant B2B procurement market."
+  },
+  {
+    "question": "What is CalPERS/CalSTRS FINRA institutional investment SEO for Sacramento businesses?",
+    "answer": "CalPERS/CalSTRS institutional pension SEO builds FINRA-compliant organic authority in pension fund vocabulary: alternative investment analytics, ESG investment integration methodology, public equity portfolio management technology, and the institutional pension fund operational specifics that CalPERS ($500B+ AUM) and CalSTRS ($350B+ AUM) procurement evaluates for technology vendor consideration."
+  },
+  {
+    "question": "Does Clickmasters serve Folsom, Roseville, Elk Grove, and Greater Sacramento?",
+    "answer": "Yes — all of Greater Sacramento: Sacramento County, Placer County, El Dorado County, Yolo County, and the full Sacramento MSA."
+  },
+  {
+    "question": "How does CCPA/CPRA affect Sacramento SEO analytics?",
+    "answer": "CCPA/CPRA applies identically to Sacramento as to San Diego and Los Angeles. Sacramento businesses with non-CCPA-compliant analytics overstate organic sessions 15-25%. CCPA-native analytics produce accurate performance measurement and protect from California AG enforcement."
+  },
+  {
+    "question": "How does GEO/AEO affect Sacramento SEO?",
+    "answer": "California state government technology decision-makers and CalPERS/CalSTRS investment technology teams use AI search for vendor research. First-mover GEO/AEO for Sacramento government tech and CalPERS/CalSTRS vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Sacramento?","acceptedAnswer":{"@type":"Answer","text":"Sacramento SEO: \$1,000/month (Foundation) to \$10,000+/month (Enterprise). California state government IT vocabulary. CalPERS/CalSTRS FINRA institutional investment. UC Davis Health YMYL. Intel Folsom enterprise. CCPA/CPRA-native analytics. California retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is California state government technology B2B SEO for Sacramento businesses?","acceptedAnswer":{"@type":"Answer","text":"California state government IT SEO builds organic authority in the largest state government technology procurement vocabulary in the US: California CDT, CHHS, CDPH procurement processes, CalATERS and FI\$Cal system familiarity, digital government service delivery methodology, and California IT procurement operational specifics — earning organic discovery from Sacramento's most commercially significant B2B procurement market."}},{"@type":"Question","name":"What is CalPERS/CalSTRS FINRA institutional investment SEO for Sacramento businesses?","acceptedAnswer":{"@type":"Answer","text":"CalPERS/CalSTRS institutional pension SEO builds FINRA-compliant organic authority in pension fund vocabulary: alternative investment analytics, ESG investment integration methodology, public equity portfolio management technology, and the institutional pension fund operational specifics that CalPERS (\$500B+ AUM) and CalSTRS (\$350B+ AUM) procurement evaluates for technology vendor consideration."}},{"@type":"Question","name":"Does Clickmasters serve Folsom, Roseville, Elk Grove, and Greater Sacramento?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Sacramento: Sacramento County, Placer County, El Dorado County, Yolo County, and the full Sacramento MSA."}},{"@type":"Question","name":"How does CCPA/CPRA affect Sacramento SEO analytics?","acceptedAnswer":{"@type":"Answer","text":"CCPA/CPRA applies identically to Sacramento as to San Diego and Los Angeles. Sacramento businesses with non-CCPA-compliant analytics overstate organic sessions 15-25%. CCPA-native analytics produce accurate performance measurement and protect from California AG enforcement."}},{"@type":"Question","name":"How does GEO/AEO affect Sacramento SEO?","acceptedAnswer":{"@type":"Answer","text":"California state government technology decision-makers and CalPERS/CalSTRS investment technology teams use AI search for vendor research. First-mover GEO/AEO for Sacramento government tech and CalPERS/CalSTRS vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Sacramento SEO Audit`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-sacramento/","/seo-services-san-diego/","/seo-services-los-angeles/"],
@@ -53,7 +80,7 @@ Results (10 months): Page 1 for 10 Sacramento oncology queries | YMYL: E-E-A-T |
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-sacramento/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-Knoxville.xlsx
 // Service: WebDesign
 // City: Knoxville
-// Generated: 2026-06-19T12:50:29.005Z
+// URL: /web-design-agency-knoxville/
+// Generated: 2026-06-20T04:42:14.692Z
 
 export const WebDesign_Knoxville = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Knoxville",
   citySlug: "knoxville",
-  slug: "/locations/web-design/knoxville",
+  slug: "/web-design-agency-knoxville/",
   
   h1: `Web Design Agency Knoxville — TVA Utility Institutional, ORNL ITAR-Adjacent, UT Medical YMYL HIPAA TIPA, and Authentic Tennessee Valley Brand`,
   primaryKw: `web design agency knoxville`,
@@ -16,7 +17,7 @@ export const WebDesign_Knoxville = {
   seoTitle: `Web Design Agency Knoxville | TVA Utility Institutional & UT Medical YMYL HIPAA | Clickmasters`,
   meta: `Clickmasters web design in Knoxville. TVA utility institutional credibility, ORNL ITAR-adjacent quality, UT Medical/Covenant YMYL HIPAA TIPA, and authentic Market Square/Old City Knoxville brand. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Knoxville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-knoxville/","address":{"@type":"PostalAddress","addressLocality":"Knoxville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3200,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN KNOXVILLE?
 
 A Knoxville web design agency builds websites for three requirements: TVA/ORNL utility and nuclear energy institutional credibility, UT Medical/Covenant YMYL HIPAA TIPA academic healthcare design, and authentic Tennessee Valley consumer brand design.
@@ -50,7 +51,33 @@ Case Study 3: Market Square Consumer Brand — Authentic Knoxville Redesign
 Client: Hospitality brand, Market Square (\$1.0M). Challenge: Generic 'Knoxville' below Market Square/Smoky Mountain authentic identity.
 Programme: Market Square downtown vocabulary + Great Smoky Mountains lifestyle + Old City arts
 Results: Market Square: visits +40% | Tennessee media: editorial | Revenue: +\$70K`,
-  faq: `FAQs — Web Design Knoxville`,
+  faqTitle: `FAQs — Web Design Knoxville`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Knoxville?",
+    "answer": "Knoxville web design: $5,000-$13,000 (TVA utility/UT Medical YMYL/authentic Tennessee Valley), $22,000-$55,000+ (enterprise). ITAR documentation included. HIPAA/TIPA-native. Fixed-price."
+  },
+  {
+    "question": "What is TVA utility institutional credibility for Knoxville web design?",
+    "answer": "TVA nuclear plant operations service pages (publicly available vocabulary), grid reliability management descriptions, renewable energy integration specifics, and Tennessee utility enterprise quality — earning TVA technology procurement consideration."
+  },
+  {
+    "question": "What is ORNL ITAR-adjacent documentation for Knoxville web design?",
+    "answer": "ITAR vocabulary review applied to all ORNL-community website pages with documentation provided at launch — confirming only publicly available ORNL research community vocabulary appears in all website pages."
+  },
+  {
+    "question": "Does Clickmasters serve Farragut, Maryville, Oak Ridge, and Greater Knoxville?",
+    "answer": "Yes — all of Greater Knoxville MSA."
+  },
+  {
+    "question": "What is authentic Tennessee Valley consumer brand design for Knoxville?",
+    "answer": "Market Square's downtown energy, the Old City's arts district, Sequoyah Hills' Tennessee River residential elegance, and the Great Smoky Mountains' outdoor lifestyle proximity — the specific Knoxville identities distinguishing genuinely locally-rooted Tennessee Valley brands."
+  },
+  {
+    "question": "How long does Knoxville web design take?",
+    "answer": "TVA utility (ITAR review): 8-14 weeks. UT Medical YMYL HIPAA TIPA: 8-14 weeks. Authentic Tennessee Valley brand: 6-10 weeks."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Knoxville web design: \$5,000-\$13,000 (TVA utility/UT Medical YMYL/authentic Tennessee Valley), \$22,000-\$55,000+ (enterprise). ITAR documentation included. HIPAA/TIPA-native. Fixed-price."}},{"@type":"Question","name":"What is TVA utility institutional credibility for Knoxville web design?","acceptedAnswer":{"@type":"Answer","text":"TVA nuclear plant operations service pages (publicly available vocabulary), grid reliability management descriptions, renewable energy integration specifics, and Tennessee utility enterprise quality — earning TVA technology procurement consideration."}},{"@type":"Question","name":"What is ORNL ITAR-adjacent documentation for Knoxville web design?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review applied to all ORNL-community website pages with documentation provided at launch — confirming only publicly available ORNL research community vocabulary appears in all website pages."}},{"@type":"Question","name":"Does Clickmasters serve Farragut, Maryville, Oak Ridge, and Greater Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Knoxville MSA."}},{"@type":"Question","name":"What is authentic Tennessee Valley consumer brand design for Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Market Square's downtown energy, the Old City's arts district, Sequoyah Hills' Tennessee River residential elegance, and the Great Smoky Mountains' outdoor lifestyle proximity — the specific Knoxville identities distinguishing genuinely locally-rooted Tennessee Valley brands."}},{"@type":"Question","name":"How long does Knoxville web design take?","acceptedAnswer":{"@type":"Answer","text":"TVA utility (ITAR review): 8-14 weeks. UT Medical YMYL HIPAA TIPA: 8-14 weeks. Authentic Tennessee Valley brand: 6-10 weeks."}}]}`,
   cta: `Get Your Free Knoxville Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-knoxville/","/seo-services-knoxville/","/web-design-agency-nashville/"],
@@ -60,7 +87,7 @@ Results: Market Square: visits +40% | Tennessee media: editorial | Revenue: +\$7
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-knoxville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

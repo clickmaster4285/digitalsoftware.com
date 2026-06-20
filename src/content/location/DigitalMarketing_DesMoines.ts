@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-DesMoines.xlsx
 // Service: DigitalMarketing
 // City: DesMoines
-// Generated: 2026-06-19T12:50:25.674Z
+// URL: /digital-marketing-agency-des-moines/
+// Generated: 2026-06-20T04:42:11.240Z
 
 export const DigitalMarketing_DesMoines = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "DesMoines",
   citySlug: "des-moines",
-  slug: "/locations/digital-marketing/des-moines",
+  slug: "/digital-marketing-agency-des-moines/",
   
   h1: `Digital Marketing Agency Des Moines — Principal Financial Revenue, EMC Insurance B2B, UnityPoint YMYL, and Iowa Insurance Capital Commercial Growth`,
   primaryKw: `digital marketing agency des moines`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_DesMoines = {
   seoTitle: `Digital Marketing Agency Des Moines | Principal Financial Revenue & EMC Insurance | Clickmasters`,
   meta: `Clickmasters digital marketing in Des Moines. Principal Financial FINRA/SEC revenue, EMC Insurance B2B, UnityPoint/MercyOne YMYL, and Iowa CDPA-native analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Des Moines Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-des-moines/","address":{"@type":"PostalAddress","addressLocality":"Des Moines","addressRegion":"IA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN DES MOINES?
 
 A Des Moines digital marketing agency manages digital channels for the Iowa capital's businesses across four commercially distinct sectors that define Des Moines as the insurance and financial services capital of the US Midwest.
@@ -43,7 +44,33 @@ Case Study 3: Des Moines Healthcare Technology — UnityPoint/MercyOne Full Prog
 Client: Clinical analytics, Des Moines (\$5.4M ARR). Challenge: UnityPoint vocabulary absent. Non-HIPAA. Non-CDPA.
 Programme: SEO (UnityPoint/MercyOne vocabulary) + HIPAA/CDPA rebuild + content (Iowa YMYL)
 Results (11 months): Page 1 for 9 Des Moines health IT queries | UnityPoint: evaluation | YMYL: E-E-A-T | Pipeline: \$1.2M`,
-  faq: `FAQs — Digital Marketing Des Moines`,
+  faqTitle: `FAQs — Digital Marketing Des Moines`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Des Moines?",
+    "answer": "Des Moines digital marketing: $1,100/month (single channel) to $12,000+/month (enterprise). Principal Financial FINRA/SEC investment/insurance vocabulary. EMC/Farm Bureau insurance. UnityPoint/MercyOne YMYL. Iowa CDPA-native. Iowa retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What makes Des Moines the US insurance capital for digital marketing?",
+    "answer": "Des Moines is, per capita, the most insurance and investment company-concentrated metropolitan area in the US — home to Principal Financial Group ($700+ billion AUM), EMC Insurance, Farm Bureau Financial Services, Athene (Apollo's retirement company), Global Atlantic, and dozens of insurance technology companies. Digital marketing demonstrating Iowa insurance capital vocabulary earns organic discovery from the most commercially concentrated insurance and investment B2B community in the US Midwest."
+  },
+  {
+    "question": "What is Iowa CDPA compliance for Des Moines digital marketing?",
+    "answer": "Iowa Consumer Data Protection Act (CDPA, effective January 1, 2025) creates data privacy compliance requirements for Des Moines businesses. CDPA-native analytics with consent management protect from Iowa AG enforcement while producing accurate Des Moines performance measurement."
+  },
+  {
+    "question": "Does Clickmasters serve West Des Moines, Ankeny, Urbandale, and Greater Des Moines?",
+    "answer": "Yes — all of Greater Des Moines: Polk, Dallas, Warren, and Madison Counties."
+  },
+  {
+    "question": "What is the Iowa State Fair digital marketing opportunity for Des Moines consumer brands?",
+    "answer": "The Iowa State Fair (August, Iowa State Fairgrounds, 1 million+ annual visitors over 11 days) is the largest state fair in the US by some metrics and Iowa's most commercially significant annual consumer event. Des Moines consumer brands whose digital marketing authentically engages Iowa State Fair seasonal vocabulary earn above-average organic engagement during August's peak Iowa community event."
+  },
+  {
+    "question": "How does GEO/AEO affect Des Moines digital marketing?",
+    "answer": "Principal Financial's technology community and UnityPoint's clinical IT community use AI search. First-mover GEO/AEO for Des Moines Principal FINRA and UnityPoint vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Des Moines?","acceptedAnswer":{"@type":"Answer","text":"Des Moines digital marketing: \$1,100/month (single channel) to \$12,000+/month (enterprise). Principal Financial FINRA/SEC investment/insurance vocabulary. EMC/Farm Bureau insurance. UnityPoint/MercyOne YMYL. Iowa CDPA-native. Iowa retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What makes Des Moines the US insurance capital for digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Des Moines is, per capita, the most insurance and investment company-concentrated metropolitan area in the US — home to Principal Financial Group (\$700+ billion AUM), EMC Insurance, Farm Bureau Financial Services, Athene (Apollo's retirement company), Global Atlantic, and dozens of insurance technology companies. Digital marketing demonstrating Iowa insurance capital vocabulary earns organic discovery from the most commercially concentrated insurance and investment B2B community in the US Midwest."}},{"@type":"Question","name":"What is Iowa CDPA compliance for Des Moines digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Iowa Consumer Data Protection Act (CDPA, effective January 1, 2025) creates data privacy compliance requirements for Des Moines businesses. CDPA-native analytics with consent management protect from Iowa AG enforcement while producing accurate Des Moines performance measurement."}},{"@type":"Question","name":"Does Clickmasters serve West Des Moines, Ankeny, Urbandale, and Greater Des Moines?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Des Moines: Polk, Dallas, Warren, and Madison Counties."}},{"@type":"Question","name":"What is the Iowa State Fair digital marketing opportunity for Des Moines consumer brands?","acceptedAnswer":{"@type":"Answer","text":"The Iowa State Fair (August, Iowa State Fairgrounds, 1 million+ annual visitors over 11 days) is the largest state fair in the US by some metrics and Iowa's most commercially significant annual consumer event. Des Moines consumer brands whose digital marketing authentically engages Iowa State Fair seasonal vocabulary earn above-average organic engagement during August's peak Iowa community event."}},{"@type":"Question","name":"How does GEO/AEO affect Des Moines digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Principal Financial's technology community and UnityPoint's clinical IT community use AI search. First-mover GEO/AEO for Des Moines Principal FINRA and UnityPoint vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Des Moines Digital Marketing Audit`,
   internalLinks: ["/seo-services-des-moines/","/digital-marketing-agency-usa/","/digital-marketing-agency-omaha/","/digital-marketing-agency-kansas-city/"],
@@ -53,7 +80,7 @@ Results (11 months): Page 1 for 9 Des Moines health IT queries | UnityPoint: eva
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-des-moines/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

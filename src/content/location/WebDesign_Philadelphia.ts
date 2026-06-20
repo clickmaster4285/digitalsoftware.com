@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-Philadelphia.xlsx
 // Service: WebDesign
 // City: Philadelphia
-// Generated: 2026-06-19T12:50:29.102Z
+// URL: /web-design-agency-philadelphia/
+// Generated: 2026-06-20T04:42:14.825Z
 
 export const WebDesign_Philadelphia = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Philadelphia",
   citySlug: "philadelphia",
-  slug: "/locations/web-design/philadelphia",
+  slug: "/web-design-agency-philadelphia/",
   
   h1: `Web Design Agency Philadelphia — YMYL Academic Medical, PA RPC-Compliant Legal, and Main Line Institutional Quality`,
   primaryKw: `web design agency philadelphia`,
@@ -16,7 +17,7 @@ export const WebDesign_Philadelphia = {
   seoTitle: `Web Design Agency Philadelphia | YMYL Academic Medical & PA RPC | Clickmasters`,
   meta: `Clickmasters web design in Philadelphia. YMYL Penn/Jefferson academic medical standard, Pennsylvania RPC-compliant legal, and Main Line institutional quality for the Delaware Valley. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Philadelphia Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-philadelphia/","address":{"@type":"PostalAddress","addressLocality":"Philadelphia","addressRegion":"PA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN PHILADELPHIA?
 
 A Philadelphia web design agency builds websites for Philadelphia-area businesses combining the YMYL E-E-A-T standard set by Penn Medicine, Jefferson Health, and CHOP in the academic medical market, the Pennsylvania RPC compliance requirements that govern attorney advertising across all digital platforms, and the Main Line institutional quality that Philadelphia's most commercially demanding professional community evaluates.
@@ -50,7 +51,33 @@ Case Study 3: Wayne PA Main Line Financial Advisory — Institutional Quality Re
 Client: RIA, Wayne PA Main Line (\$480M AUM). Challenge: Website below Main Line institutional standard. FINRA violations present. Below-CWV performance.
 Programme: FINRA compliance + GIPS display + CFA/CFP/NAPFA credentials + Main Line institutional visual + CWV (4.6s to 1.6s)
 Results: FINRA examination: clean | HNW professional enquiries: +3x | New AUM from website: \$68M | Main Line institutional visual: clients cited in onboarding surveys | LCP: 4.6s to 1.6s`,
-  faq: `FAQs — Web Design Philadelphia`,
+  faqTitle: `FAQs — Web Design Philadelphia`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Philadelphia?",
+    "answer": "Philadelphia web design: $7,000-$22,000 (academic healthcare/law firm/Main Line professional services), $36,000-$90,000+ (enterprise). YMYL standard for healthcare. PA RPC compliance for legal. FINRA for financial services. WCAG 2.1 AA. Fixed-price contracts."
+  },
+  {
+    "question": "Does Clickmasters build YMYL-compliant websites for Philadelphia academic healthcare?",
+    "answer": "Yes. YMYL E-E-A-T architecture at the Penn Medicine/Jefferson Health institutional standard: named MD/DO-authored clinical pages with Perelman School faculty appointments and Penn Medicine/Jefferson system affiliations, NEJM/JAMA/Annals peer-reviewed citation architecture, NIH grant attribution, and HIPAA-compliant data handling. The YMYL website that earns Google E-E-A-T recognition in the most academically credentialled healthcare market between New York and Washington."
+  },
+  {
+    "question": "Does Clickmasters build Pennsylvania RPC-compliant websites for Philadelphia law firms?",
+    "answer": "Yes. Pennsylvania Rules of Professional Conduct 7.1-7.3 compliance throughout website design: truthful and non-misleading practice area descriptions, appropriately contextualised case result presentations, no unjustified outcome expectation language, and compliant testimonial architecture. Pennsylvania Bar Disciplinary Counsel advertising compliance standards respected throughout design and content decisions."
+  },
+  {
+    "question": "Does Clickmasters serve the Main Line, King of Prussia, and Delaware Valley?",
+    "answer": "Yes — all of the Delaware Valley: Philadelphia city, Delaware County (Main Line), Montgomery County (King of Prussia, Lansdale), Bucks County, Chester County, New Jersey (Cherry Hill, Camden), and Delaware (Wilmington)."
+  },
+  {
+    "question": "How long does a Philadelphia web design project take?",
+    "answer": "Academic healthcare (YMYL/HIPAA physician review adds time): 10-16 weeks. Law firm (PA RPC compliance review): 8-14 weeks. Main Line professional services (FINRA review): 8-14 weeks. Enterprise: 16-28 weeks."
+  },
+  {
+    "question": "What makes the Main Line institutional visual standard distinctive?",
+    "answer": "The Philadelphia Main Line's Ivy-educated professional community evaluates service provider websites against the institutional visual quality of Bryn Mawr College, Haverford College, and Swarthmore College — clean, understated, specific, and credentialled. The Main Line professional expects to find the physician's Perelman School faculty appointment, the attorney's Martindale-Hubbell AV Preeminent rating, and the financial adviser's CFA charter displayed prominently — not buried below hero imagery and marketing copy."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Philadelphia?","acceptedAnswer":{"@type":"Answer","text":"Philadelphia web design: \$7,000-\$22,000 (academic healthcare/law firm/Main Line professional services), \$36,000-\$90,000+ (enterprise). YMYL standard for healthcare. PA RPC compliance for legal. FINRA for financial services. WCAG 2.1 AA. Fixed-price contracts."}},{"@type":"Question","name":"Does Clickmasters build YMYL-compliant websites for Philadelphia academic healthcare?","acceptedAnswer":{"@type":"Answer","text":"Yes. YMYL E-E-A-T architecture at the Penn Medicine/Jefferson Health institutional standard: named MD/DO-authored clinical pages with Perelman School faculty appointments and Penn Medicine/Jefferson system affiliations, NEJM/JAMA/Annals peer-reviewed citation architecture, NIH grant attribution, and HIPAA-compliant data handling. The YMYL website that earns Google E-E-A-T recognition in the most academically credentialled healthcare market between New York and Washington."}},{"@type":"Question","name":"Does Clickmasters build Pennsylvania RPC-compliant websites for Philadelphia law firms?","acceptedAnswer":{"@type":"Answer","text":"Yes. Pennsylvania Rules of Professional Conduct 7.1-7.3 compliance throughout website design: truthful and non-misleading practice area descriptions, appropriately contextualised case result presentations, no unjustified outcome expectation language, and compliant testimonial architecture. Pennsylvania Bar Disciplinary Counsel advertising compliance standards respected throughout design and content decisions."}},{"@type":"Question","name":"Does Clickmasters serve the Main Line, King of Prussia, and Delaware Valley?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Delaware Valley: Philadelphia city, Delaware County (Main Line), Montgomery County (King of Prussia, Lansdale), Bucks County, Chester County, New Jersey (Cherry Hill, Camden), and Delaware (Wilmington)."}},{"@type":"Question","name":"How long does a Philadelphia web design project take?","acceptedAnswer":{"@type":"Answer","text":"Academic healthcare (YMYL/HIPAA physician review adds time): 10-16 weeks. Law firm (PA RPC compliance review): 8-14 weeks. Main Line professional services (FINRA review): 8-14 weeks. Enterprise: 16-28 weeks."}},{"@type":"Question","name":"What makes the Main Line institutional visual standard distinctive?","acceptedAnswer":{"@type":"Answer","text":"The Philadelphia Main Line's Ivy-educated professional community evaluates service provider websites against the institutional visual quality of Bryn Mawr College, Haverford College, and Swarthmore College — clean, understated, specific, and credentialled. The Main Line professional expects to find the physician's Perelman School faculty appointment, the attorney's Martindale-Hubbell AV Preeminent rating, and the financial adviser's CFA charter displayed prominently — not buried below hero imagery and marketing copy."}}]}`,
   cta: `Get Your Free Philadelphia Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-philadelphia/","/seo-services-philadelphia/","/web-design-agency-boston/","/industries/healthcare/","/industries/legal/"],
@@ -60,7 +87,7 @@ Results: FINRA examination: clean | HNW professional enquiries: +3x | New AUM fr
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-philadelphia/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-StLouis.xlsx
 // Service: LocalSEO
 // City: StLouis
-// Generated: 2026-06-19T12:50:27.742Z
+// URL: /local-seo-services-st-louis/
+// Generated: 2026-06-20T04:42:13.458Z
 
 export const LocalSEO_StLouis = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "StLouis",
   citySlug: "st-louis",
-  slug: "/locations/local-seo/st-louis",
+  slug: "/local-seo-services-st-louis/",
   
   h1: `Local SEO St. Louis — Boeing BDS Proximity GBP, BJC/WashU Academic Medical, and Clayton Professional Quality Local Pack`,
   primaryKw: `local seo services st louis`,
@@ -16,7 +17,7 @@ export const LocalSEO_StLouis = {
   seoTitle: `Local SEO St. Louis | Boeing BDS Proximity GBP & BJC/WashU Academic Medical | Clickmasters`,
   meta: `Clickmasters Local SEO in St. Louis. Boeing BDS aerospace proximity GBP, BJC/Washington University academic medical credential, and Clayton/Creve Coeur professional quality standard. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — St. Louis Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-st-louis/","address":{"@type":"PostalAddress","addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS LOCAL SEO IN ST. LOUIS?
 
 Local SEO in St. Louis is the practice of optimising Google Business Profiles for the top 3 of Greater St. Louis's Local Pack — in a market where Boeing Defense, Space & Security's Hazelwood proximity creates defence aerospace B2B GBP commercial value, BJC HealthCare and Washington University define the YMYL academic medical credential standard, and Clayton and Creve Coeur represent the highest-income professional communities in Missouri.
@@ -41,7 +42,33 @@ Case Study 3: Hazelwood Professional Services — Boeing BDS Proximity B2B GBP
 Client: Aerospace consulting, Hazelwood. Challenge: No ITAR-bounded defence vocabulary in GBP. Generic professional services.
 Programme: ITAR-bounded AS9100D vocabulary in GBP + Boeing BDS proximity signals + defence community photography
 Results (3 months): Top 3 Local Pack Hazelwood aerospace consulting | Boeing BDS community near-me: +3x`,
-  faq: `FAQs — Local SEO St. Louis`,
+  faqTitle: `FAQs — Local SEO St. Louis`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in St. Louis?",
+    "answer": "St. Louis Local SEO: $900/month (single) to $9,000+/month (enterprise). Boeing BDS aerospace proximity GBP. BJC/WashU academic medical credential. Clayton/Creve Coeur professional quality standard. HIPAA/FINRA review management. Midwest retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is Boeing BDS aerospace proximity GBP for St. Louis businesses?",
+    "answer": "ITAR-bounded AS9100D/DCAA defence vocabulary in GBP service descriptions, Boeing BDS community proximity signals in Hazelwood/North County GBPs, defence prime contractor community professional photography — earning above-average B2B near-me consideration from Boeing Defense, Space & Security's most commercially significant procurement and engineering community."
+  },
+  {
+    "question": "Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?",
+    "answer": "Yes — all of Greater St. Louis MSA including bi-state Illinois communities."
+  },
+  {
+    "question": "How many reviews for St. Louis Local Pack?",
+    "answer": "St. Louis Local Pack benchmarks: Clayton/Creve Coeur professional services: 4.5+ stars, 70-120+ reviews. BJC/WashU-adjacent healthcare: 4.4+, 60-110+. Hazelwood aerospace B2B: 4.3+, 30-60+."
+  },
+  {
+    "question": "How long does St. Louis Local SEO take?",
+    "answer": "Clayton/Creve Coeur professional services: 3-4 months. BJC/WashU academic medical: 3-5 months. Hazelwood Boeing BDS proximity B2B: 2-4 months."
+  },
+  {
+    "question": "What is the Clayton/Creve Coeur professional quality GBP standard for St. Louis?",
+    "answer": "Edward Jones Creve Coeur and Centene Clayton professional community evaluates GBPs with Midwest Fortune 500 institutional precision: CFA/CFP with CFP Board/CFA Institute verification links for financial advisory, BJC/WashU affiliation for healthcare, and professional photography communicating the institutional quality of the Edward Jones, Centene, and Boeing BDS professional ecosystem."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in St. Louis?","acceptedAnswer":{"@type":"Answer","text":"St. Louis Local SEO: \$900/month (single) to \$9,000+/month (enterprise). Boeing BDS aerospace proximity GBP. BJC/WashU academic medical credential. Clayton/Creve Coeur professional quality standard. HIPAA/FINRA review management. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Boeing BDS aerospace proximity GBP for St. Louis businesses?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded AS9100D/DCAA defence vocabulary in GBP service descriptions, Boeing BDS community proximity signals in Hazelwood/North County GBPs, defence prime contractor community professional photography — earning above-average B2B near-me consideration from Boeing Defense, Space & Security's most commercially significant procurement and engineering community."}},{"@type":"Question","name":"Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater St. Louis MSA including bi-state Illinois communities."}},{"@type":"Question","name":"How many reviews for St. Louis Local Pack?","acceptedAnswer":{"@type":"Answer","text":"St. Louis Local Pack benchmarks: Clayton/Creve Coeur professional services: 4.5+ stars, 70-120+ reviews. BJC/WashU-adjacent healthcare: 4.4+, 60-110+. Hazelwood aerospace B2B: 4.3+, 30-60+."}},{"@type":"Question","name":"How long does St. Louis Local SEO take?","acceptedAnswer":{"@type":"Answer","text":"Clayton/Creve Coeur professional services: 3-4 months. BJC/WashU academic medical: 3-5 months. Hazelwood Boeing BDS proximity B2B: 2-4 months."}},{"@type":"Question","name":"What is the Clayton/Creve Coeur professional quality GBP standard for St. Louis?","acceptedAnswer":{"@type":"Answer","text":"Edward Jones Creve Coeur and Centene Clayton professional community evaluates GBPs with Midwest Fortune 500 institutional precision: CFA/CFP with CFP Board/CFA Institute verification links for financial advisory, BJC/WashU affiliation for healthcare, and professional photography communicating the institutional quality of the Edward Jones, Centene, and Boeing BDS professional ecosystem."}}]}`,
   cta: `Get Your Free St. Louis Local SEO Audit`,
   internalLinks: ["/local-seo-services/","/seo-services-st-louis/","/digital-marketing-agency-st-louis/","/local-seo-services-chicago/"],
@@ -51,7 +78,7 @@ Results (3 months): Top 3 Local Pack Hazelwood aerospace consulting | Boeing BDS
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-st-louis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

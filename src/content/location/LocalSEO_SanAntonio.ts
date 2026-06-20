@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-SanAntonio.xlsx
 // Service: LocalSEO
 // City: SanAntonio
-// Generated: 2026-06-19T12:50:27.713Z
+// URL: /local-seo-services-san-antonio/
+// Generated: 2026-06-20T04:42:13.424Z
 
 export const LocalSEO_SanAntonio = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "SanAntonio",
   citySlug: "san-antonio",
-  slug: "/locations/local-seo/san-antonio",
+  slug: "/local-seo-services-san-antonio/",
   
   h1: `Local SEO San Antonio — JBSA Military Trust Signals, Bilingual GBP, and STMC Professional Local Pack`,
   primaryKw: `local seo services san antonio`,
@@ -16,7 +17,7 @@ export const LocalSEO_SanAntonio = {
   seoTitle: `Local SEO San Antonio | JBSA Military Trust Signals & Bilingual GBP | Clickmasters`,
   meta: `Clickmasters Local SEO in San Antonio. JBSA military trust signal display, bilingual English/Spanish GBP, and South Texas Medical Center proximity credential for Texas' military capital. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Antonio Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-san-antonio/","address":{"@type":"PostalAddress","addressLocality":"San Antonio","addressRegion":"TX","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS LOCAL SEO IN SAN ANTONIO?
 
 Local SEO in San Antonio is the practice of optimising a business's Google Business Profile to appear in the top 3 of Google's Local Pack for geographically specific searches across San Antonio's 2.7 million person metropolitan area — in a market defined by three commercially distinct GBP credibility requirements: JBSA military trust signal display, bilingual English/Spanish GBP content, and South Texas Medical Center professional credential architecture.
@@ -41,7 +42,33 @@ Case Study 3: San Antonio Dental Practice — Tejano Bilingual GBP Programme
 Client: Dental practice, South San Antonio (2 dentists, 70% Spanish-speaking). Challenge: English-only GBP missing majority Spanish-speaking patient community.
 Programme: Tejano bilingual GBP + Spanish HIPAA-compliant review responses + Fiesta SA seasonal Posts + bilingual patient education
 Results (4 months): Top 3 Local Pack South SA and Lackland bilingual dental | Spanish-speaking patient enquiries: +3x | Fiesta SA seasonal Posts: highest community engagement | Reviews: 18 to 108`,
-  faq: `FAQs — Local SEO San Antonio`,
+  faqTitle: `FAQs — Local SEO San Antonio`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in San Antonio?",
+    "answer": "San Antonio Local SEO: $1,000/month (single location) to $11,000+/month (enterprise). Bilingual English/Spanish standard. JBSA military trust signal display. HIPAA for healthcare. FINRA for financial. 90-day performance guarantee."
+  },
+  {
+    "question": "What are JBSA military trust signals for San Antonio Local SEO?",
+    "answer": "JBSA military trust signals in GBP management include: TRICARE insurance acceptance display, SCRA interest rate protection acknowledgment in service descriptions, VA benefits awareness language, PCS cycle-aware seasonal Post content (spring/summer military family arrival season), and military-community-calibrated photography showing genuine military service awareness. These signals earn above-average trust and loyalty from San Antonio's 250,000+ military community members."
+  },
+  {
+    "question": "Does Clickmasters provide bilingual English/Spanish GBP management for San Antonio?",
+    "answer": "Yes. Native bilingual GBP management — Tejano-authentic South Texas Spanish (not translated English). Bilingual GBP descriptions, Spanish-language review responses, Tejano cultural calendar Post content (Fiesta SA, community events). HIPAA-compliant bilingual review management for San Antonio's healthcare practices serving the majority Spanish-speaking patient population."
+  },
+  {
+    "question": "Does Clickmasters serve Schertz, New Braunfels, and Greater San Antonio?",
+    "answer": "Yes — all of the San Antonio metropolitan area: Bexar County, Comal County (New Braunfels, Canyon Lake), Guadalupe County (Schertz, Seguin), Atascosa County, and the full San Antonio MSA."
+  },
+  {
+    "question": "How many reviews does a San Antonio business need for Local Pack?",
+    "answer": "San Antonio Local Pack review benchmarks: Healthcare (Medical Center, Northwest SA): 4.5+ stars with 80-130+ reviews. Financial advisory: 4.4+ stars with 60-110+ reviews. Consumer/hospitality: 4.4+ stars with 50-90+ reviews. Bilingual practices benefit from Spanish-language review volume that typically earns above-average community trust signals disproportionate to total review count."
+  },
+  {
+    "question": "How long does San Antonio Local SEO take?",
+    "answer": "San Antonio Local Pack timelines: Bilingual healthcare: 2-4 months. JBSA military financial advisory: 2-4 months. STMC professional proximity: 3-5 months. San Antonio is faster than Dallas or Austin because bilingual Local Pack competition remains below the level that San Antonio's 63% Spanish-preference market share would suggest."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in San Antonio?","acceptedAnswer":{"@type":"Answer","text":"San Antonio Local SEO: \$1,000/month (single location) to \$11,000+/month (enterprise). Bilingual English/Spanish standard. JBSA military trust signal display. HIPAA for healthcare. FINRA for financial. 90-day performance guarantee."}},{"@type":"Question","name":"What are JBSA military trust signals for San Antonio Local SEO?","acceptedAnswer":{"@type":"Answer","text":"JBSA military trust signals in GBP management include: TRICARE insurance acceptance display, SCRA interest rate protection acknowledgment in service descriptions, VA benefits awareness language, PCS cycle-aware seasonal Post content (spring/summer military family arrival season), and military-community-calibrated photography showing genuine military service awareness. These signals earn above-average trust and loyalty from San Antonio's 250,000+ military community members."}},{"@type":"Question","name":"Does Clickmasters provide bilingual English/Spanish GBP management for San Antonio?","acceptedAnswer":{"@type":"Answer","text":"Yes. Native bilingual GBP management — Tejano-authentic South Texas Spanish (not translated English). Bilingual GBP descriptions, Spanish-language review responses, Tejano cultural calendar Post content (Fiesta SA, community events). HIPAA-compliant bilingual review management for San Antonio's healthcare practices serving the majority Spanish-speaking patient population."}},{"@type":"Question","name":"Does Clickmasters serve Schertz, New Braunfels, and Greater San Antonio?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the San Antonio metropolitan area: Bexar County, Comal County (New Braunfels, Canyon Lake), Guadalupe County (Schertz, Seguin), Atascosa County, and the full San Antonio MSA."}},{"@type":"Question","name":"How many reviews does a San Antonio business need for Local Pack?","acceptedAnswer":{"@type":"Answer","text":"San Antonio Local Pack review benchmarks: Healthcare (Medical Center, Northwest SA): 4.5+ stars with 80-130+ reviews. Financial advisory: 4.4+ stars with 60-110+ reviews. Consumer/hospitality: 4.4+ stars with 50-90+ reviews. Bilingual practices benefit from Spanish-language review volume that typically earns above-average community trust signals disproportionate to total review count."}},{"@type":"Question","name":"How long does San Antonio Local SEO take?","acceptedAnswer":{"@type":"Answer","text":"San Antonio Local Pack timelines: Bilingual healthcare: 2-4 months. JBSA military financial advisory: 2-4 months. STMC professional proximity: 3-5 months. San Antonio is faster than Dallas or Austin because bilingual Local Pack competition remains below the level that San Antonio's 63% Spanish-preference market share would suggest."}}]}`,
   cta: `Get Your Free San Antonio Local SEO Audit`,
   internalLinks: ["/local-seo-services/","/seo-services-san-antonio/","/digital-marketing-agency-san-antonio/","/local-seo-services-houston/","/tools/local-seo-audit/","/industries/healthcare/"],
@@ -51,7 +78,7 @@ Results (4 months): Top 3 Local Pack South SA and Lackland bilingual dental | Sp
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-san-antonio/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

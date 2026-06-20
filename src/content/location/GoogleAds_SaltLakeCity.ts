@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-SaltLakeCity.xlsx
 // Service: GoogleAds
 // City: SaltLakeCity
-// Generated: 2026-06-19T12:50:27.229Z
+// URL: /google-ads-management-salt-lake-city/
+// Generated: 2026-06-20T04:42:12.838Z
 
 export const GoogleAds_SaltLakeCity = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "SaltLakeCity",
   citySlug: "salt-lake-city",
-  slug: "/locations/google-ads/salt-lake-city",
+  slug: "/google-ads-management-salt-lake-city/",
   
   h1: `Google Ads Management Salt Lake City — Silicon Slopes Enterprise PPC, Goldman Sachs FINRA, and University of Utah Health HIPAA UCPA`,
   primaryKw: `google ads agency salt lake city`,
@@ -16,7 +17,7 @@ export const GoogleAds_SaltLakeCity = {
   seoTitle: `Google Ads Agency Salt Lake City | Silicon Slopes Enterprise & Goldman FINRA PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Salt Lake City. Silicon Slopes enterprise Qualtrics/Domo PPC, Goldman Sachs FINRA institutional, and University of Utah/Primary Children's HIPAA UCPA campaigns. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Salt Lake City Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-salt-lake-city/","address":{"@type":"PostalAddress","addressLocality":"Salt Lake City","addressRegion":"UT","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN SALT LAKE CITY?
 
 Google Ads management in Salt Lake City is the professional management of PPC advertising across three commercially distinct categories: Silicon Slopes enterprise technology B2B, Goldman Sachs/Zions FINRA-compliant financial services, and University of Utah Health/Primary Children's HIPAA UCPA-compliant patient acquisition.
@@ -41,7 +42,33 @@ Case Study 3: Salt Lake City Healthcare — University of Utah HIPAA UCPA PPC
 Client: Internal medicine (U of U Health-affiliated). Challenge: Non-HIPAA. Non-UCPA. Generic 'Salt Lake City doctor' keywords.
 Programme: HIPAA server-side + UCPA Consent Mode + U of U Health vocabulary + SLC family audience
 Results: HIPAA/UCPA: Utah AG pre-audit passed | U of U CPL: \$120 vs \$320 generic | New patients: +3x`,
-  faq: `FAQs — Google Ads Salt Lake City`,
+  faqTitle: `FAQs — Google Ads Salt Lake City`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Salt Lake City?",
+    "answer": "Salt Lake City Google Ads: $950/month (Growth) to $9,500+/month (Enterprise). Silicon Slopes Qualtrics/Domo/Pluralsight vocabulary. Goldman/Zions FINRA-compliant. U of U Health HIPAA UCPA. Utah CPCs below SF/LA. 90-day guarantee."
+  },
+  {
+    "question": "What is Silicon Slopes enterprise technology Google Ads for Salt Lake City businesses?",
+    "answer": "Silicon Slopes vocabulary campaigns target Utah's most commercially significant enterprise software procurement: 'Qualtrics XM platform integration consulting Utah,' 'Domo BI cloud analytics vendor Salt Lake City,' 'Pluralsight skills platform enterprise consulting Lehi.' Utah CPCs 30-40% below San Francisco for equivalent enterprise technology vocabulary."
+  },
+  {
+    "question": "What is Goldman Sachs FINRA Google Ads for Salt Lake City businesses?",
+    "answer": "FINRA-compliant Goldman Sachs Salt Lake City vocabulary campaigns: 'investment technology vendor Goldman Sachs Salt Lake City,' 'institutional trading systems consulting Utah,' 'fintech platform Goldman SLC.' Utah CPCs significantly below New York financial services equivalents."
+  },
+  {
+    "question": "Does Clickmasters serve Lehi, Draper, South Jordan, and Greater Salt Lake City?",
+    "answer": "Yes — all of Greater Salt Lake City and the Wasatch Front: Salt Lake, Utah, Davis, and Weber Counties."
+  },
+  {
+    "question": "What is Utah UCPA Consent Mode for Salt Lake City Google Ads?",
+    "answer": "UCPA Consent Mode implements Utah Consumer Privacy Act-compliant consent for Google Ads conversion tracking. Salt Lake City businesses without UCPA Consent Mode overstate Google Ads conversions 10-15% through Utah opt-out user data. UCPA-compliant campaigns produce accurate Utah performance measurement."
+  },
+  {
+    "question": "How do Utah Google Ads CPCs compare to coastal markets?",
+    "answer": "Utah CPCs 30-40% below San Francisco for enterprise technology vocabulary. 20-30% below Los Angeles for financial services. Goldman Sachs Utah vocabulary CPCs significantly below New York institutional financial equivalents — a compelling first-mover efficiency advantage for Salt Lake City technology and financial vendors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Salt Lake City Google Ads: \$950/month (Growth) to \$9,500+/month (Enterprise). Silicon Slopes Qualtrics/Domo/Pluralsight vocabulary. Goldman/Zions FINRA-compliant. U of U Health HIPAA UCPA. Utah CPCs below SF/LA. 90-day guarantee."}},{"@type":"Question","name":"What is Silicon Slopes enterprise technology Google Ads for Salt Lake City businesses?","acceptedAnswer":{"@type":"Answer","text":"Silicon Slopes vocabulary campaigns target Utah's most commercially significant enterprise software procurement: 'Qualtrics XM platform integration consulting Utah,' 'Domo BI cloud analytics vendor Salt Lake City,' 'Pluralsight skills platform enterprise consulting Lehi.' Utah CPCs 30-40% below San Francisco for equivalent enterprise technology vocabulary."}},{"@type":"Question","name":"What is Goldman Sachs FINRA Google Ads for Salt Lake City businesses?","acceptedAnswer":{"@type":"Answer","text":"FINRA-compliant Goldman Sachs Salt Lake City vocabulary campaigns: 'investment technology vendor Goldman Sachs Salt Lake City,' 'institutional trading systems consulting Utah,' 'fintech platform Goldman SLC.' Utah CPCs significantly below New York financial services equivalents."}},{"@type":"Question","name":"Does Clickmasters serve Lehi, Draper, South Jordan, and Greater Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Salt Lake City and the Wasatch Front: Salt Lake, Utah, Davis, and Weber Counties."}},{"@type":"Question","name":"What is Utah UCPA Consent Mode for Salt Lake City Google Ads?","acceptedAnswer":{"@type":"Answer","text":"UCPA Consent Mode implements Utah Consumer Privacy Act-compliant consent for Google Ads conversion tracking. Salt Lake City businesses without UCPA Consent Mode overstate Google Ads conversions 10-15% through Utah opt-out user data. UCPA-compliant campaigns produce accurate Utah performance measurement."}},{"@type":"Question","name":"How do Utah Google Ads CPCs compare to coastal markets?","acceptedAnswer":{"@type":"Answer","text":"Utah CPCs 30-40% below San Francisco for enterprise technology vocabulary. 20-30% below Los Angeles for financial services. Goldman Sachs Utah vocabulary CPCs significantly below New York institutional financial equivalents — a compelling first-mover efficiency advantage for Salt Lake City technology and financial vendors."}}]}`,
   cta: `Get Your Free Salt Lake City Google Ads Audit`,
   internalLinks: ["/digital-marketing-agency-salt-lake-city/","/seo-services-salt-lake-city/","/google-ads-management-services/","/google-ads-management-denver/"],
@@ -51,7 +78,7 @@ Results: HIPAA/UCPA: Utah AG pre-audit passed | U of U CPL: \$120 vs \$320 gener
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-salt-lake-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

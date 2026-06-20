@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Albuquerque.xlsx
 // Service: SEO
 // City: Albuquerque
-// Generated: 2026-06-19T12:50:27.777Z
+// URL: /seo-services-albuquerque/
+// Generated: 2026-06-20T04:42:13.491Z
 
 export const SEO_Albuquerque = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Albuquerque",
   citySlug: "albuquerque",
-  slug: "/locations/seo/albuquerque",
+  slug: "/seo-services-albuquerque/",
   
   h1: `SEO Services Albuquerque — Sandia National Labs ITAR-Bounded B2B, Intel Rio Rancho Enterprise, Kirtland AFB Military, and UNM Health YMYL`,
   primaryKw: `seo services albuquerque`,
@@ -16,7 +17,7 @@ export const SEO_Albuquerque = {
   seoTitle: `SEO Services Albuquerque | Sandia Labs ITAR-Bounded & Intel Rio Rancho | Clickmasters`,
   meta: `Clickmasters SEO in Albuquerque. Sandia National Labs ITAR-bounded B2B authority, Intel Rio Rancho enterprise, Kirtland AFB military community, and UNM Health/Presbyterian YMYL. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Albuquerque SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-albuquerque/","address":{"@type":"PostalAddress","addressLocality":"Albuquerque","addressRegion":"NM","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS SEO IN ALBUQUERQUE?
 
 SEO in Albuquerque is the practice of earning organic search authority in the Duke City — where Sandia National Laboratories and Los Alamos National Laboratory create the most concentrated national security research and ITAR-bounded defence B2B commercial environment in the Mountain West, Intel's significant Rio Rancho campus creates semiconductor enterprise B2B opportunities, Kirtland Air Force Base generates a substantial military professional community, and the University of New Mexico Health Sciences Center defines the YMYL academic medical standard for New Mexico.
@@ -43,7 +44,33 @@ Case Study 3: Albuquerque Healthcare — UNM Health YMYL SEO
 Client: Oncology (UNM Cancer Center-affiliated). Challenge: Generic content below UNM NCI YMYL standard. Non-HIPAA.
 Programme: UNM Health/NCI Cancer Center vocabulary + YMYL E-E-A-T + HIPAA
 Results (10 months): Page 1 for 9 Albuquerque oncology queries | YMYL: E-E-A-T | UNM: cited | Pipeline: \$900K`,
-  faq: `FAQs — SEO Albuquerque`,
+  faqTitle: `FAQs — SEO Albuquerque`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Albuquerque?",
+    "answer": "Albuquerque SEO: $950/month (Foundation) to $9,500+/month (Enterprise). Sandia/Los Alamos ITAR-bounded publicly releasable vocabulary. Intel Rio Rancho semiconductor enterprise. Kirtland AFB military community. UNM Health YMYL. New Mexico retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is Sandia National Labs ITAR-bounded B2B SEO for Albuquerque businesses?",
+    "answer": "Sandia/Los Alamos ITAR-bounded SEO builds organic authority using exclusively publicly releasable national security research vocabulary: nuclear deterrence operational methodology (publicly releasable), advanced manufacturing and materials science, cybersecurity and systems engineering, and AFRL research community content. Every content piece undergoes ITAR vocabulary review before publication — ensuring publicly releasable content only, while earning genuine Sandia and Los Alamos community organic discovery."
+  },
+  {
+    "question": "What is Intel Rio Rancho semiconductor enterprise SEO for Albuquerque businesses?",
+    "answer": "Intel Rio Rancho SEO builds organic authority in semiconductor manufacturing vocabulary: Intel fab operations technology, semiconductor equipment B2B content, and enterprise technology vocabulary that earns Intel Rio Rancho engineering and procurement community consideration from one of Intel's largest US manufacturing campuses."
+  },
+  {
+    "question": "Does Clickmasters serve Rio Rancho, Corrales, and Greater Albuquerque?",
+    "answer": "Yes — all of Greater Albuquerque: Bernalillo County, Sandoval County (Rio Rancho), Valencia County, and the full Albuquerque MSA."
+  },
+  {
+    "question": "How does ITAR compliance affect Albuquerque digital marketing?",
+    "answer": "Sandia National Labs and Los Alamos are ITAR-restricted facilities whose unclassified but controlled technical information cannot appear in commercial marketing content. Clickmasters applies ITAR vocabulary review to every content piece — producing only publicly releasable national security research community vocabulary that earns Sandia/Los Alamos organic discovery without export control exposure."
+  },
+  {
+    "question": "How does GEO/AEO affect Albuquerque SEO?",
+    "answer": "Sandia's computing and cybersecurity community and Intel Rio Rancho's engineering community use AI search for vendor research. First-mover GEO/AEO for Albuquerque Sandia ITAR-bounded and Intel Rio Rancho vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Albuquerque?","acceptedAnswer":{"@type":"Answer","text":"Albuquerque SEO: \$950/month (Foundation) to \$9,500+/month (Enterprise). Sandia/Los Alamos ITAR-bounded publicly releasable vocabulary. Intel Rio Rancho semiconductor enterprise. Kirtland AFB military community. UNM Health YMYL. New Mexico retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Sandia National Labs ITAR-bounded B2B SEO for Albuquerque businesses?","acceptedAnswer":{"@type":"Answer","text":"Sandia/Los Alamos ITAR-bounded SEO builds organic authority using exclusively publicly releasable national security research vocabulary: nuclear deterrence operational methodology (publicly releasable), advanced manufacturing and materials science, cybersecurity and systems engineering, and AFRL research community content. Every content piece undergoes ITAR vocabulary review before publication — ensuring publicly releasable content only, while earning genuine Sandia and Los Alamos community organic discovery."}},{"@type":"Question","name":"What is Intel Rio Rancho semiconductor enterprise SEO for Albuquerque businesses?","acceptedAnswer":{"@type":"Answer","text":"Intel Rio Rancho SEO builds organic authority in semiconductor manufacturing vocabulary: Intel fab operations technology, semiconductor equipment B2B content, and enterprise technology vocabulary that earns Intel Rio Rancho engineering and procurement community consideration from one of Intel's largest US manufacturing campuses."}},{"@type":"Question","name":"Does Clickmasters serve Rio Rancho, Corrales, and Greater Albuquerque?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Albuquerque: Bernalillo County, Sandoval County (Rio Rancho), Valencia County, and the full Albuquerque MSA."}},{"@type":"Question","name":"How does ITAR compliance affect Albuquerque digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Sandia National Labs and Los Alamos are ITAR-restricted facilities whose unclassified but controlled technical information cannot appear in commercial marketing content. Clickmasters applies ITAR vocabulary review to every content piece — producing only publicly releasable national security research community vocabulary that earns Sandia/Los Alamos organic discovery without export control exposure."}},{"@type":"Question","name":"How does GEO/AEO affect Albuquerque SEO?","acceptedAnswer":{"@type":"Answer","text":"Sandia's computing and cybersecurity community and Intel Rio Rancho's engineering community use AI search for vendor research. First-mover GEO/AEO for Albuquerque Sandia ITAR-bounded and Intel Rio Rancho vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Albuquerque SEO Audit`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-albuquerque/","/seo-services-denver/","/seo-services-salt-lake-city/"],
@@ -53,7 +80,7 @@ Results (10 months): Page 1 for 9 Albuquerque oncology queries | YMYL: E-E-A-T |
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-albuquerque/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

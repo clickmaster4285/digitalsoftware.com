@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-SanAntonio.xlsx
 // Service: WebDesign
 // City: SanAntonio
-// Generated: 2026-06-19T12:50:29.176Z
+// URL: /web-design-agency-san-antonio/
+// Generated: 2026-06-20T04:42:14.919Z
 
 export const WebDesign_SanAntonio = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "SanAntonio",
   citySlug: "san-antonio",
-  slug: "/locations/web-design/san-antonio",
+  slug: "/web-design-agency-san-antonio/",
   
   h1: `Web Design Agency San Antonio — Military Community Credibility, Bilingual Design, and South Texas Commercial Quality`,
   primaryKw: `web design agency san antonio`,
@@ -16,7 +17,7 @@ export const WebDesign_SanAntonio = {
   seoTitle: `Web Design Agency San Antonio | Military Community, Bilingual & STMC | Clickmasters`,
   meta: `Clickmasters web design in San Antonio. JBSA military community credibility, bilingual Spanish/English HIPAA healthcare, and South Texas Medical Center vendor design. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Antonio Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-san-antonio/","address":{"@type":"PostalAddress","addressLocality":"San Antonio","addressRegion":"TX","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN SAN ANTONIO?
 
 A San Antonio web design agency builds websites for San Antonio-area businesses calibrated to America's most militarily concentrated city's commercial requirements — the JBSA military community credibility architecture, the bilingual English/Spanish design standard for San Antonio's 65% Hispanic/Latino market, and the South Texas Medical Center institutional quality standard.
@@ -50,7 +51,33 @@ Case Study 3: STMC-Adjacent Specialist Practice — Institutional Credibility Re
 Client: Cardiology group, STMC San Antonio (3 cardiologists, UT Health-affiliated). Challenge: Website below STMC institutional standard. UT Health affiliation not displayed. Non-HIPAA data handling.
 Programme: STMC institutional quality redesign + UT Health affiliation display + HIPAA compliance + clinical credential depth + CWV
 Results: STMC-adjacent patient enquiries: +3x | UT Health affiliation: patient surveys cite as selection factor | HIPAA: clean | New patient appointments: +140/month`,
-  faq: `FAQs — Web Design San Antonio`,
+  faqTitle: `FAQs — Web Design San Antonio`,
+  faqs: [
+  {
+    "question": "How much does web design cost in San Antonio?",
+    "answer": "San Antonio web design: $5,500-$18,000 (bilingual/healthcare/STMC), $28,000-$70,000+ (enterprise). Among the most affordable major-city web design markets in Texas. Bilingual English/Spanish included. WCAG 2.1 AA. Fixed-price contracts."
+  },
+  {
+    "question": "Does Clickmasters build bilingual English/Spanish websites for San Antonio?",
+    "answer": "Yes. Native bilingual design — not translated English. Spanish navigation, service descriptions, patient intake forms, and CTAs calibrated to South Texas Spanish vocabulary (Tejano and Mexican-American community specific). HIPAA-compliant bilingual forms with BAA-covered processors for healthcare. San Antonio's 65% Hispanic population makes bilingual design the commercial baseline."
+  },
+  {
+    "question": "What is JBSA military community web design?",
+    "answer": "JBSA military community web design incorporates specific trust signals for San Antonio's active duty and veteran population: VA benefits navigation content on relevant service pages, SCRA-aware service descriptions for financial and legal services, PCS-transition welcome messaging, and the operational precision and institutional credibility communication that military professional culture expects from service providers."
+  },
+  {
+    "question": "Does Clickmasters serve New Braunfels, Boerne, and Greater San Antonio?",
+    "answer": "Yes — all of the San Antonio metropolitan area: Bexar County, Comal County (New Braunfels), Kendall County (Boerne), Guadalupe County, and the full San Antonio-New Braunfels MSA."
+  },
+  {
+    "question": "How long does a San Antonio web design project take?",
+    "answer": "Bilingual business website: 8-14 weeks (bilingual content localisation adds 15-20% to timeline). Healthcare HIPAA + bilingual: 10-16 weeks. STMC institutional: 10-16 weeks. Enterprise: 16-28 weeks."
+  },
+  {
+    "question": "Does Clickmasters build HIPAA-compliant bilingual websites for San Antonio healthcare?",
+    "answer": "Yes. HIPAA-native bilingual architecture: Spanish-language HIPAA-compliant forms with BAA-covered processors, bilingual analytics excluding PHI, Spanish appointment booking meeting OCR standards, and the Texas Medical Board advertising compliance awareness throughout the bilingual content."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in San Antonio?","acceptedAnswer":{"@type":"Answer","text":"San Antonio web design: \$5,500-\$18,000 (bilingual/healthcare/STMC), \$28,000-\$70,000+ (enterprise). Among the most affordable major-city web design markets in Texas. Bilingual English/Spanish included. WCAG 2.1 AA. Fixed-price contracts."}},{"@type":"Question","name":"Does Clickmasters build bilingual English/Spanish websites for San Antonio?","acceptedAnswer":{"@type":"Answer","text":"Yes. Native bilingual design — not translated English. Spanish navigation, service descriptions, patient intake forms, and CTAs calibrated to South Texas Spanish vocabulary (Tejano and Mexican-American community specific). HIPAA-compliant bilingual forms with BAA-covered processors for healthcare. San Antonio's 65% Hispanic population makes bilingual design the commercial baseline."}},{"@type":"Question","name":"What is JBSA military community web design?","acceptedAnswer":{"@type":"Answer","text":"JBSA military community web design incorporates specific trust signals for San Antonio's active duty and veteran population: VA benefits navigation content on relevant service pages, SCRA-aware service descriptions for financial and legal services, PCS-transition welcome messaging, and the operational precision and institutional credibility communication that military professional culture expects from service providers."}},{"@type":"Question","name":"Does Clickmasters serve New Braunfels, Boerne, and Greater San Antonio?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the San Antonio metropolitan area: Bexar County, Comal County (New Braunfels), Kendall County (Boerne), Guadalupe County, and the full San Antonio-New Braunfels MSA."}},{"@type":"Question","name":"How long does a San Antonio web design project take?","acceptedAnswer":{"@type":"Answer","text":"Bilingual business website: 8-14 weeks (bilingual content localisation adds 15-20% to timeline). Healthcare HIPAA + bilingual: 10-16 weeks. STMC institutional: 10-16 weeks. Enterprise: 16-28 weeks."}},{"@type":"Question","name":"Does Clickmasters build HIPAA-compliant bilingual websites for San Antonio healthcare?","acceptedAnswer":{"@type":"Answer","text":"Yes. HIPAA-native bilingual architecture: Spanish-language HIPAA-compliant forms with BAA-covered processors, bilingual analytics excluding PHI, Spanish appointment booking meeting OCR standards, and the Texas Medical Board advertising compliance awareness throughout the bilingual content."}}]}`,
   cta: `Get Your Free San Antonio Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-san-antonio/","/seo-services-san-antonio/","/web-design-agency-houston/","/industries/healthcare/","/tools/website-grader/"],
@@ -60,7 +87,7 @@ Results: STMC-adjacent patient enquiries: +3x | UT Health affiliation: patient s
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-san-antonio/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

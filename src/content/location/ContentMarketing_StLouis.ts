@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-StLouis.xlsx
 // Service: ContentMarketing
 // City: StLouis
-// Generated: 2026-06-19T12:50:25.460Z
+// URL: /content-marketing-st-louis/
+// Generated: 2026-06-20T04:42:10.963Z
 
 export const ContentMarketing_StLouis = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "StLouis",
   citySlug: "st-louis",
-  slug: "/locations/content-marketing/st-louis",
+  slug: "/content-marketing-st-louis/",
   
   h1: `Content Marketing St. Louis — Boeing BDS ITAR-Bounded Authority, Edward Jones FINRA Financial, and BJC/WashU YMYL`,
   primaryKw: `content marketing agency st louis`,
@@ -16,7 +17,7 @@ export const ContentMarketing_StLouis = {
   seoTitle: `Content Marketing St. Louis | Boeing BDS Authority & Edward Jones FINRA | Clickmasters`,
   meta: `Clickmasters content marketing in St. Louis. ITAR-bounded Boeing Defence authority, FINRA-compliant Edward Jones financial, and BJC/Washington University YMYL academic medical. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — St. Louis Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-st-louis/","address":{"@type":"PostalAddress","addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN ST. LOUIS?
 
 Content marketing in St. Louis is the strategic creation of ITAR-bounded Boeing Defence aerospace authority content, FINRA-compliant Edward Jones financial technology content, and BJC/Washington University YMYL academic medical content for Gateway City businesses.
@@ -50,7 +51,33 @@ Case Study 3: Clayton Health IT Vendor — BJC/WashU YMYL Content
 Client: Managed care analytics, Clayton (\$6.4M ARR). Challenge: Non-YMYL content. BJC/WashU vocabulary absent.
 Programme: BJC/WashU vocabulary + YMYL E-E-A-T + Centene HEDIS content + GEO/AEO
 Results (10 months): Page 1 for 10 St. Louis health IT queries | YMYL: E-E-A-T recognised | Centene evaluation: content cited | Pipeline: \$1.4M`,
-  faq: `FAQs — Content Marketing St. Louis`,
+  faqTitle: `FAQs — Content Marketing St. Louis`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in St. Louis?",
+    "answer": "St. Louis content marketing: $1,100/month (Foundation) to $10,000+/month (Full Programme). ITAR-bounded Boeing BDS authority. FINRA-compliant Edward Jones financial. Centene managed care. BJC/WashU YMYL. Midwest retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is ITAR-bounded Boeing BDS content marketing for St. Louis businesses?",
+    "answer": "ITAR-bounded Boeing BDS content builds organic authority using publicly releasable defence aerospace vocabulary: AS9100D Revision D gap assessment methodology, DCAA provisional indirect cost rate compliance guides, DoD supply chain resilience analysis. Every content piece undergoes ITAR vocabulary review before publication — ensuring publicly releasable content exclusively, enabling genuine Boeing BDS organic authority without export control exposure."
+  },
+  {
+    "question": "What is FINRA-compliant Edward Jones content for St. Louis financial technology companies?",
+    "answer": "FINRA Rule 2210 compliance review integrated into every content piece: no investment performance guarantees, SEC Marketing Rule-compliant case studies, compliant testimonial presentation. Edward Jones financial advisor productivity content, wealth management platform operational insights, and financial services vocabulary that builds genuine organic authority in the Creve Coeur financial technology community within FINRA compliance boundaries."
+  },
+  {
+    "question": "Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?",
+    "answer": "Yes — all of Greater St. Louis MSA."
+  },
+  {
+    "question": "How long does St. Louis Boeing BDS content marketing produce results?",
+    "answer": "ITAR-bounded vocabulary rankings: 5-8 months. NDIA/AIA editorial programme: 3-5 months. Boeing BDS organic discovery: 7-12 months. GEO/AEO defence AI citations: 4-7 months."
+  },
+  {
+    "question": "How does GEO/AEO affect St. Louis content marketing?",
+    "answer": "Boeing BDS aerospace engineering community and Edward Jones financial technology community use AI search for vendor research. First-mover GEO/AEO content in St. Louis Boeing defence and Edward Jones financial vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in St. Louis?","acceptedAnswer":{"@type":"Answer","text":"St. Louis content marketing: \$1,100/month (Foundation) to \$10,000+/month (Full Programme). ITAR-bounded Boeing BDS authority. FINRA-compliant Edward Jones financial. Centene managed care. BJC/WashU YMYL. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is ITAR-bounded Boeing BDS content marketing for St. Louis businesses?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded Boeing BDS content builds organic authority using publicly releasable defence aerospace vocabulary: AS9100D Revision D gap assessment methodology, DCAA provisional indirect cost rate compliance guides, DoD supply chain resilience analysis. Every content piece undergoes ITAR vocabulary review before publication — ensuring publicly releasable content exclusively, enabling genuine Boeing BDS organic authority without export control exposure."}},{"@type":"Question","name":"What is FINRA-compliant Edward Jones content for St. Louis financial technology companies?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210 compliance review integrated into every content piece: no investment performance guarantees, SEC Marketing Rule-compliant case studies, compliant testimonial presentation. Edward Jones financial advisor productivity content, wealth management platform operational insights, and financial services vocabulary that builds genuine organic authority in the Creve Coeur financial technology community within FINRA compliance boundaries."}},{"@type":"Question","name":"Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater St. Louis MSA."}},{"@type":"Question","name":"How long does St. Louis Boeing BDS content marketing produce results?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded vocabulary rankings: 5-8 months. NDIA/AIA editorial programme: 3-5 months. Boeing BDS organic discovery: 7-12 months. GEO/AEO defence AI citations: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect St. Louis content marketing?","acceptedAnswer":{"@type":"Answer","text":"Boeing BDS aerospace engineering community and Edward Jones financial technology community use AI search for vendor research. First-mover GEO/AEO content in St. Louis Boeing defence and Edward Jones financial vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free St. Louis Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-st-louis/","/seo-services-st-louis/","/content-marketing-chicago/"],
@@ -60,7 +87,7 @@ Results (10 months): Page 1 for 10 St. Louis health IT queries | YMYL: E-E-A-T r
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-st-louis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-Atlanta.xlsx
 // Service: WebDesign
 // City: Atlanta
-// Generated: 2026-06-19T12:50:28.854Z
+// URL: /web-design-agency-atlanta/
+// Generated: 2026-06-20T04:42:14.527Z
 
 export const WebDesign_Atlanta = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Atlanta",
   citySlug: "atlanta",
-  slug: "/locations/web-design/atlanta",
+  slug: "/web-design-agency-atlanta/",
   
   h1: `Web Design Agency Atlanta — Fortune 500-Vendor-Credible Websites for Georgia's Commercial Capital`,
   primaryKw: `web design agency atlanta`,
@@ -16,7 +17,7 @@ export const WebDesign_Atlanta = {
   seoTitle: `Web Design Agency Atlanta | Fortune 500-Credible & Transaction Alley | Clickmasters`,
   meta: `Clickmasters web design in Atlanta. Fortune 500-vendor-credible websites, Transaction Alley PCI-DSS fintech design, and LA-standard entertainment for Georgia's commercial capital. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Atlanta Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-atlanta/","address":{"@type":"PostalAddress","addressLocality":"Atlanta","addressRegion":"GA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN ATLANTA?
 
 An Atlanta web design agency builds websites for Atlanta-area businesses combining Fortune 500 vendor credibility architecture, Transaction Alley fintech compliance design, LA-standard entertainment visual quality, and the Core Web Vitals performance that earns organic search rankings in Georgia's commercial capital.
@@ -53,7 +54,33 @@ Case Study 3: Atlanta Film Production Company — LA-Standard Website
 Client: Commercial production company, Atlanta Film District (\$3.2M revenue). Challenge: Generic website below Netflix/Amazon studio evaluation standard.
 Programme: LA-standard redesign + Vimeo premium showreel + IMDB production history + Georgia Film Tax Credit documentation + award display
 Results: Netflix-affiliated production: first contracted | LA studio evaluation invitations: +3x | Showreel watch-through: 20% to 66% | Georgia Film Tax Credit enquiries from LA studios: +3x`,
-  faq: `FAQs — Web Design Atlanta`,
+  faqTitle: `FAQs — Web Design Atlanta`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Atlanta?",
+    "answer": "Atlanta web design: $7,000-$16,000 (business/entertainment), $8,000-$20,000 (Transaction Alley fintech), $34,000-$88,000+ (enterprise). WCAG 2.1 AA and Core Web Vitals included. Fixed-price contracts."
+  },
+  {
+    "question": "What makes an Atlanta website Fortune 500-vendor-credible?",
+    "answer": "Atlanta's Fortune 500 procurement teams apply formal vendor due diligence to website evaluation: ISO/SOC 2 certifications displayed and linked, named and LinkedIn-verifiable executive credentials, Fortune 500-scale case study metrics (not just client logos), and the institutional visual quality that communicates credibility at the Coca-Cola, Delta, and Home Depot procurement standard. Websites without these signals are categorised as 'not a serious vendor' before formal evaluation begins."
+  },
+  {
+    "question": "Does Clickmasters build PCI-DSS-compliant fintech websites for Atlanta Transaction Alley?",
+    "answer": "Yes. PCI-DSS compliance documentation architecture, SOC 2 Type II and ISO 27001 certification display, enterprise security capability pages. The financial technology institutional credibility that NCR Voyix, Global Payments, and Fiserv ecosystem buyers evaluate during vendor qualification."
+  },
+  {
+    "question": "Does Clickmasters build entertainment websites for Atlanta film industry companies?",
+    "answer": "Yes. LA-standard production company websites, talent agency platforms, and entertainment technology vendor sites. Vimeo premium showreel integration, IMDB-linked production history, award recognition display, and Georgia Film Tax Credit documentation for out-of-state studio clients."
+  },
+  {
+    "question": "Does Clickmasters serve Buckhead, Sandy Springs, and Metro Atlanta?",
+    "answer": "Yes — all of Metro Atlanta including Buckhead, Sandy Springs, Alpharetta, Roswell, Marietta, Decatur, and the full Atlanta metropolitan area."
+  },
+  {
+    "question": "How long does an Atlanta web design project take?",
+    "answer": "Business: 8-14 weeks. Transaction Alley fintech (compliance documentation adds time): 10-16 weeks. Entertainment/production: 8-14 weeks. Enterprise: 16-28 weeks."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Atlanta?","acceptedAnswer":{"@type":"Answer","text":"Atlanta web design: \$7,000-\$16,000 (business/entertainment), \$8,000-\$20,000 (Transaction Alley fintech), \$34,000-\$88,000+ (enterprise). WCAG 2.1 AA and Core Web Vitals included. Fixed-price contracts."}},{"@type":"Question","name":"What makes an Atlanta website Fortune 500-vendor-credible?","acceptedAnswer":{"@type":"Answer","text":"Atlanta's Fortune 500 procurement teams apply formal vendor due diligence to website evaluation: ISO/SOC 2 certifications displayed and linked, named and LinkedIn-verifiable executive credentials, Fortune 500-scale case study metrics (not just client logos), and the institutional visual quality that communicates credibility at the Coca-Cola, Delta, and Home Depot procurement standard. Websites without these signals are categorised as 'not a serious vendor' before formal evaluation begins."}},{"@type":"Question","name":"Does Clickmasters build PCI-DSS-compliant fintech websites for Atlanta Transaction Alley?","acceptedAnswer":{"@type":"Answer","text":"Yes. PCI-DSS compliance documentation architecture, SOC 2 Type II and ISO 27001 certification display, enterprise security capability pages. The financial technology institutional credibility that NCR Voyix, Global Payments, and Fiserv ecosystem buyers evaluate during vendor qualification."}},{"@type":"Question","name":"Does Clickmasters build entertainment websites for Atlanta film industry companies?","acceptedAnswer":{"@type":"Answer","text":"Yes. LA-standard production company websites, talent agency platforms, and entertainment technology vendor sites. Vimeo premium showreel integration, IMDB-linked production history, award recognition display, and Georgia Film Tax Credit documentation for out-of-state studio clients."}},{"@type":"Question","name":"Does Clickmasters serve Buckhead, Sandy Springs, and Metro Atlanta?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Metro Atlanta including Buckhead, Sandy Springs, Alpharetta, Roswell, Marietta, Decatur, and the full Atlanta metropolitan area."}},{"@type":"Question","name":"How long does an Atlanta web design project take?","acceptedAnswer":{"@type":"Answer","text":"Business: 8-14 weeks. Transaction Alley fintech (compliance documentation adds time): 10-16 weeks. Entertainment/production: 8-14 weeks. Enterprise: 16-28 weeks."}}]}`,
   cta: `Get Your Free Atlanta Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-atlanta/","/seo-services-atlanta/","/web-design-agency-dallas/","/industries/fintech/","/tools/website-grader/"],
@@ -63,7 +90,7 @@ Results: Netflix-affiliated production: first contracted | LA studio evaluation 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-atlanta/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

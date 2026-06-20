@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-NewOrleans.xlsx
 // Service: ContentMarketing
 // City: NewOrleans
-// Generated: 2026-06-19T12:50:25.328Z
+// URL: /content-marketing-new-orleans/
+// Generated: 2026-06-20T04:42:10.843Z
 
 export const ContentMarketing_NewOrleans = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "NewOrleans",
   citySlug: "new-orleans",
-  slug: "/locations/content-marketing/new-orleans",
+  slug: "/content-marketing-new-orleans/",
   
   h1: `Content Marketing New Orleans — Ochsner/Tulane YMYL Clinical Authority, Entergy Grid Content, and Crescent City Convention Voice`,
   primaryKw: `content marketing agency new orleans`,
@@ -16,7 +17,7 @@ export const ContentMarketing_NewOrleans = {
   seoTitle: `Content Marketing New Orleans | Ochsner/Tulane YMYL Authority & Entergy Grid | Clickmasters`,
   meta: `Clickmasters content marketing in New Orleans. Ochsner/Tulane YMYL academic clinical authority, Entergy grid modernisation content, Port of New Orleans maritime logistics, and Crescent City convention hospitality. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New Orleans Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-new-orleans/","address":{"@type":"PostalAddress","addressLocality":"New Orleans","addressRegion":"LA","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN NEW ORLEANS?
 
 Content marketing in New Orleans is the strategic creation of Ochsner/Tulane academic YMYL clinical research authority content, Entergy Corporation grid modernisation operational content, Port of New Orleans maritime logistics content, and authentic Crescent City convention hospitality seasonal content.
@@ -52,7 +53,33 @@ Case Study 3: New Orleans Convention Hospitality — Mardi Gras/Jazz Fest Season
 Client: Event technology SaaS, New Orleans (\$3.8M ARR). Challenge: Generic event content. Mardi Gras/Jazz Fest seasonal timing unaddressed.
 Programme: Mardi Gras/Jazz Fest seasonal content calendar + Morial Convention Center vocabulary + NOLA hospitality community
 Results (10 months): Page 1 for 9 New Orleans event tech queries | Morial Convention: evaluation | Jazz Fest season content: 4.2x above average engagement | Pipeline: \$900K`,
-  faq: `FAQs — Content Marketing New Orleans`,
+  faqTitle: `FAQs — Content Marketing New Orleans`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in New Orleans?",
+    "answer": "New Orleans content marketing: $1,000/month (Foundation) to $9,500+/month (Full Programme). Ochsner/Tulane YMYL clinical research authority. Entergy grid modernisation. Port maritime logistics. Convention hospitality seasonal. Louisiana retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is Ochsner/Tulane YMYL clinical research content authority for New Orleans businesses?",
+    "answer": "Ochsner Health cardiac and oncology clinical outcome analytics methodology, Tulane School of Medicine (established 1834) academic research community, LSU Health Sciences Center clinical programme operational intelligence, at NEJM/JAMA editorial precision — the YMYL content library that earns Ochsner and Tulane procurement organic discovery at Louisiana CPCs well below Houston and Atlanta academic medical equivalents."
+  },
+  {
+    "question": "What is Entergy Corporation grid modernisation content for New Orleans businesses?",
+    "answer": "Entergy utility grid modernisation methodology articles, rate case regulatory intelligence, integrated resource planning analysis, and transmission and distribution technology operational content — earning organic discovery from Entergy New Orleans' technology procurement community for Louisiana's most commercially significant regulated utility."
+  },
+  {
+    "question": "Does Clickmasters serve Metairie, Baton Rouge, Covington, and Greater New Orleans?",
+    "answer": "Yes — all of Greater New Orleans MSA."
+  },
+  {
+    "question": "What is the New Orleans Mardi Gras/Jazz Fest seasonal content calendar?",
+    "answer": "Mardi Gras pre-season content (January-February): highest organic engagement window for NOLA hospitality and convention brands; Jazz Fest season (late April-May): second highest engagement window; French Quarter Festival (April): visitor economy peak; Essence Festival (July): summer visitor peak. Hospitality technology content vendors who align content production to these NOLA seasonal windows earn 3-4x above-average organic engagement."
+  },
+  {
+    "question": "How long does New Orleans Ochsner/Tulane content produce health IT results?",
+    "answer": "Ochsner/Tulane YMYL vocabulary rankings: 4-7 months. AAMC/Society of Hospital Medicine community: 3-5 months. Ochsner organic discovery: 6-10 months. GEO/AEO Ochsner/Tulane AI citations: 4-7 months."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in New Orleans?","acceptedAnswer":{"@type":"Answer","text":"New Orleans content marketing: \$1,000/month (Foundation) to \$9,500+/month (Full Programme). Ochsner/Tulane YMYL clinical research authority. Entergy grid modernisation. Port maritime logistics. Convention hospitality seasonal. Louisiana retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Ochsner/Tulane YMYL clinical research content authority for New Orleans businesses?","acceptedAnswer":{"@type":"Answer","text":"Ochsner Health cardiac and oncology clinical outcome analytics methodology, Tulane School of Medicine (established 1834) academic research community, LSU Health Sciences Center clinical programme operational intelligence, at NEJM/JAMA editorial precision — the YMYL content library that earns Ochsner and Tulane procurement organic discovery at Louisiana CPCs well below Houston and Atlanta academic medical equivalents."}},{"@type":"Question","name":"What is Entergy Corporation grid modernisation content for New Orleans businesses?","acceptedAnswer":{"@type":"Answer","text":"Entergy utility grid modernisation methodology articles, rate case regulatory intelligence, integrated resource planning analysis, and transmission and distribution technology operational content — earning organic discovery from Entergy New Orleans' technology procurement community for Louisiana's most commercially significant regulated utility."}},{"@type":"Question","name":"Does Clickmasters serve Metairie, Baton Rouge, Covington, and Greater New Orleans?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater New Orleans MSA."}},{"@type":"Question","name":"What is the New Orleans Mardi Gras/Jazz Fest seasonal content calendar?","acceptedAnswer":{"@type":"Answer","text":"Mardi Gras pre-season content (January-February): highest organic engagement window for NOLA hospitality and convention brands; Jazz Fest season (late April-May): second highest engagement window; French Quarter Festival (April): visitor economy peak; Essence Festival (July): summer visitor peak. Hospitality technology content vendors who align content production to these NOLA seasonal windows earn 3-4x above-average organic engagement."}},{"@type":"Question","name":"How long does New Orleans Ochsner/Tulane content produce health IT results?","acceptedAnswer":{"@type":"Answer","text":"Ochsner/Tulane YMYL vocabulary rankings: 4-7 months. AAMC/Society of Hospital Medicine community: 3-5 months. Ochsner organic discovery: 6-10 months. GEO/AEO Ochsner/Tulane AI citations: 4-7 months."}}]}`,
   cta: `Get Your Free New Orleans Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-new-orleans/","/seo-services-new-orleans/","/content-marketing-houston/"],
@@ -62,7 +89,7 @@ Results (10 months): Page 1 for 9 New Orleans event tech queries | Morial Conven
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-new-orleans/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

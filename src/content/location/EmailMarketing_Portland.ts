@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Portland.xlsx
 // Service: EmailMarketing
 // City: Portland
-// Generated: 2026-06-19T12:50:26.626Z
+// URL: /email-marketing-portland/
+// Generated: 2026-06-20T04:42:12.066Z
 
 export const EmailMarketing_Portland = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "Portland",
   citySlug: "portland",
-  slug: "/locations/email-marketing/portland",
+  slug: "/email-marketing-portland/",
   
   h1: `Email Marketing Portland — Authentic-Values Pipeline Nurture for Nike Ecosystem and Pacific Northwest Businesses`,
   primaryKw: `email marketing agency portland`,
@@ -16,7 +17,7 @@ export const EmailMarketing_Portland = {
   seoTitle: `Email Marketing Agency Portland | Authentic-Values & Nike Ecosystem | Clickmasters`,
   meta: `Clickmasters email marketing in Portland. Authentic-values B2B nurture for Nike/Adidas ecosystem vendors, Intel Hillsboro pipeline, and Pacific Northwest consumer Klaviyo. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Portland Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-portland/","address":{"@type":"PostalAddress","addressLocality":"Portland","addressRegion":"OR","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN PORTLAND?
 
 Email marketing in Portland is the strategic management of email as a pipeline and revenue channel for Portland-area businesses — calibrated to the Pacific Northwest's above-average authenticity standard, the Nike and Adidas ecosystem's commercial culture, and the Intel Hillsboro corridor's engineering-precision professional community.
@@ -50,7 +51,33 @@ Case Study 3: Portland Outdoor Brand — Authentic-Values Klaviyo Programme
 Client: Outdoor apparel DTC, Pearl District (\$4.2M revenue, Shopify). Challenge: Generic Klaviyo template below Portland authentic standard. Email revenue 8% of total.
 Programme: Authentic-values Klaviyo rebuild + B Corp specific data content + Oregon trail community calendar + genuine outdoor culture content
 Results: Email revenue: 8% to 28% of total | Absolute email revenue: \$336K to \$1.18M | B Corp content: 3.2x engagement vs generic sustainability content | Pacific NW community content: highest organic share rate in email programme`,
-  faq: `FAQs — Email Marketing Portland`,
+  faqTitle: `FAQs — Email Marketing Portland`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Portland?",
+    "answer": "Portland email marketing: $800/month (Foundation) to $8,500+/month (Enterprise). Authentic-values content standard. Nike/Adidas ecosystem pipeline nurture. Oregon advertising compliance. 90-day performance guarantee."
+  },
+  {
+    "question": "What is authentic-values email marketing in Portland?",
+    "answer": "Portland's commercial culture applies the same evidence standard to email as to every other channel. Authentic-values email means: specific certification metrics (bluesign score 82→94) over generic 'sustainable' claims, actual environmental performance data over aspirational net-zero commitments, honest timeline communications over marketing promises. Portland's professionally discerning audience responds to specific evidence with genuine trust and responds to generic claims with commercial scepticism."
+  },
+  {
+    "question": "How does Nike ecosystem email marketing work?",
+    "answer": "Nike ecosystem vendor email requires brand values calibration: bluesign/OEKO-TEX/HIGG metrics in technical communications, environmental performance data in capability updates, sustainable supply chain transparency reports, and the 6-stage vendor development sequence designed for Nike's 90-120 day procurement evaluation timeline. Nike's procurement culture values specific sustainability evidence that demonstrates genuine brand values alignment."
+  },
+  {
+    "question": "Does Clickmasters manage HubSpot email for Portland B2B companies?",
+    "answer": "Yes. HubSpot Marketing Hub for Portland's Nike/Adidas ecosystem vendors, Intel Hillsboro B2B companies, and Pacific Northwest professional services. Pipeline attribution, named account ABM sequences, deal-stage automation."
+  },
+  {
+    "question": "Does Clickmasters serve Beaverton, Hillsboro, and Greater Portland?",
+    "answer": "Yes — all of the Portland metropolitan area including Beaverton, Hillsboro, Lake Oswego, Tigard, Oregon City, and Clark County WA (Vancouver, Camas)."
+  },
+  {
+    "question": "How long does Portland B2B email marketing produce Nike ecosystem results?",
+    "answer": "Portland Nike ecosystem email timelines: first brand values engagement responses within 21-30 days. Nike procurement evaluation invitations from nurture: 60-90 days. Full 6-stage pipeline completion for Nike evaluation: 90-150 days — accounting for Nike's formal procurement evaluation timeline."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Portland?","acceptedAnswer":{"@type":"Answer","text":"Portland email marketing: \$800/month (Foundation) to \$8,500+/month (Enterprise). Authentic-values content standard. Nike/Adidas ecosystem pipeline nurture. Oregon advertising compliance. 90-day performance guarantee."}},{"@type":"Question","name":"What is authentic-values email marketing in Portland?","acceptedAnswer":{"@type":"Answer","text":"Portland's commercial culture applies the same evidence standard to email as to every other channel. Authentic-values email means: specific certification metrics (bluesign score 82→94) over generic 'sustainable' claims, actual environmental performance data over aspirational net-zero commitments, honest timeline communications over marketing promises. Portland's professionally discerning audience responds to specific evidence with genuine trust and responds to generic claims with commercial scepticism."}},{"@type":"Question","name":"How does Nike ecosystem email marketing work?","acceptedAnswer":{"@type":"Answer","text":"Nike ecosystem vendor email requires brand values calibration: bluesign/OEKO-TEX/HIGG metrics in technical communications, environmental performance data in capability updates, sustainable supply chain transparency reports, and the 6-stage vendor development sequence designed for Nike's 90-120 day procurement evaluation timeline. Nike's procurement culture values specific sustainability evidence that demonstrates genuine brand values alignment."}},{"@type":"Question","name":"Does Clickmasters manage HubSpot email for Portland B2B companies?","acceptedAnswer":{"@type":"Answer","text":"Yes. HubSpot Marketing Hub for Portland's Nike/Adidas ecosystem vendors, Intel Hillsboro B2B companies, and Pacific Northwest professional services. Pipeline attribution, named account ABM sequences, deal-stage automation."}},{"@type":"Question","name":"Does Clickmasters serve Beaverton, Hillsboro, and Greater Portland?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Portland metropolitan area including Beaverton, Hillsboro, Lake Oswego, Tigard, Oregon City, and Clark County WA (Vancouver, Camas)."}},{"@type":"Question","name":"How long does Portland B2B email marketing produce Nike ecosystem results?","acceptedAnswer":{"@type":"Answer","text":"Portland Nike ecosystem email timelines: first brand values engagement responses within 21-30 days. Nike procurement evaluation invitations from nurture: 60-90 days. Full 6-stage pipeline completion for Nike evaluation: 90-150 days — accounting for Nike's formal procurement evaluation timeline."}}]}`,
   cta: `Get Your Free Portland Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-portland/","/seo-services-portland/","/email-marketing-seattle/","/integrations/hubspot-marketing/","/industries/outdoor-apparel/"],
@@ -60,7 +87,7 @@ Results: Email revenue: 8% to 28% of total | Absolute email revenue: \$336K to \
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-portland/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

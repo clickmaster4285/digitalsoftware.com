@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-StLouis.xlsx
 // Service: DigitalMarketing
 // City: StLouis
-// Generated: 2026-06-19T12:50:26.253Z
+// URL: /digital-marketing-agency-st-louis/
+// Generated: 2026-06-20T04:42:11.607Z
 
 export const DigitalMarketing_StLouis = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "StLouis",
   citySlug: "st-louis",
-  slug: "/locations/digital-marketing/st-louis",
+  slug: "/digital-marketing-agency-st-louis/",
   
   h1: `Digital Marketing Agency St. Louis — Boeing Defence Revenue, Edward Jones FINRA Financial, and Gateway City Commercial Growth`,
   primaryKw: `digital marketing agency st louis`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_StLouis = {
   seoTitle: `Digital Marketing Agency St. Louis | Boeing Defence & Edward Jones Financial | Clickmasters`,
   meta: `Clickmasters digital marketing in St. Louis. Boeing Defence Space & Security vendor revenue, Edward Jones FINRA financial technology, and BJC/Washington University YMYL healthcare. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — St. Louis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-st-louis/","address":{"@type":"PostalAddress","addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3900,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN ST. LOUIS?
 
 A St. Louis digital marketing agency manages digital channels for Gateway City businesses across four commercially distinct sectors that define the St. Louis commercial landscape.
@@ -43,7 +44,33 @@ Case Study 3: St. Louis Health Technology — Centene/BJC Full Programme
 Client: Managed care analytics, Clayton (\$6.4M ARR). Challenge: Centene HEDIS/managed care vocabulary absent. Non-HIPAA analytics.
 Programme: SEO (Centene HEDIS vocabulary) + content (managed care) + HIPAA analytics rebuild + BJC/WashU community
 Results (11 months): Page 1 for 10 St. Louis health IT queries | Centene evaluation: entered | BJC: evaluation | HIPAA: clean | Pipeline: \$1.6M`,
-  faq: `FAQs — Digital Marketing St. Louis`,
+  faqTitle: `FAQs — Digital Marketing St. Louis`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in St. Louis?",
+    "answer": "St. Louis digital marketing: $1,300/month (single channel) to $14,000+/month (enterprise). Boeing BDS ITAR-bounded vocabulary. Edward Jones FINRA-compliant. Centene managed care. BJC/WashU YMYL. Midwest retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What makes Boeing BDS digital marketing unique for St. Louis?",
+    "answer": "Boeing Defense, Space & Security's Hazelwood headquarters manages major defence programmes (F/A-18, Apache, SLS) creating a defence procurement community that evaluates vendor digital presence with the same rigour as other major defence prime contractors. ITAR-bounded publicly releasable vocabulary (AS9100D, DCAA, DoD supply chain) — content that is commercially relevant to Boeing BDS procurement but publicly releasable under ITAR — is the core differentiator of effective St. Louis defence digital marketing."
+  },
+  {
+    "question": "Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?",
+    "answer": "Yes — all of Greater St. Louis: St. Louis City, St. Louis County, St. Charles County, Jefferson County, and the full bi-state St. Louis MSA including O'Fallon, Belleville, and Edwardsville."
+  },
+  {
+    "question": "How quickly does St. Louis Boeing BDS digital marketing produce results?",
+    "answer": "ITAR-bounded vocabulary SEO rankings: 5-8 months. Boeing BDS LinkedIn connections: 2-4 months. Boeing BDS Google Ads leads: 7-14 days. First Boeing BDS evaluation from integrated programme: 5-8 months."
+  },
+  {
+    "question": "What is Centene managed care digital marketing for St. Louis?",
+    "answer": "Centene Corporation manages one of the largest Medicaid managed care programmes in the US from Clayton headquarters. Digital marketing demonstrating Medicaid managed care operational vocabulary — HEDIS quality measures, risk adjustment methodology, Medicaid programme compliance, and population health management specifics — earns above-average procurement consideration from Centene's St. Louis technology evaluation team."
+  },
+  {
+    "question": "How does GEO/AEO affect St. Louis digital marketing?",
+    "answer": "Boeing BDS aerospace engineering and Edward Jones financial technology communities use AI search tools for vendor research. First-mover GEO/AEO content for St. Louis Boeing defence and Edward Jones financial vocabulary earns ChatGPT/Perplexity citation before competitors build equivalent content authority."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in St. Louis?","acceptedAnswer":{"@type":"Answer","text":"St. Louis digital marketing: \$1,300/month (single channel) to \$14,000+/month (enterprise). Boeing BDS ITAR-bounded vocabulary. Edward Jones FINRA-compliant. Centene managed care. BJC/WashU YMYL. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What makes Boeing BDS digital marketing unique for St. Louis?","acceptedAnswer":{"@type":"Answer","text":"Boeing Defense, Space & Security's Hazelwood headquarters manages major defence programmes (F/A-18, Apache, SLS) creating a defence procurement community that evaluates vendor digital presence with the same rigour as other major defence prime contractors. ITAR-bounded publicly releasable vocabulary (AS9100D, DCAA, DoD supply chain) — content that is commercially relevant to Boeing BDS procurement but publicly releasable under ITAR — is the core differentiator of effective St. Louis defence digital marketing."}},{"@type":"Question","name":"Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater St. Louis: St. Louis City, St. Louis County, St. Charles County, Jefferson County, and the full bi-state St. Louis MSA including O'Fallon, Belleville, and Edwardsville."}},{"@type":"Question","name":"How quickly does St. Louis Boeing BDS digital marketing produce results?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded vocabulary SEO rankings: 5-8 months. Boeing BDS LinkedIn connections: 2-4 months. Boeing BDS Google Ads leads: 7-14 days. First Boeing BDS evaluation from integrated programme: 5-8 months."}},{"@type":"Question","name":"What is Centene managed care digital marketing for St. Louis?","acceptedAnswer":{"@type":"Answer","text":"Centene Corporation manages one of the largest Medicaid managed care programmes in the US from Clayton headquarters. Digital marketing demonstrating Medicaid managed care operational vocabulary — HEDIS quality measures, risk adjustment methodology, Medicaid programme compliance, and population health management specifics — earns above-average procurement consideration from Centene's St. Louis technology evaluation team."}},{"@type":"Question","name":"How does GEO/AEO affect St. Louis digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Boeing BDS aerospace engineering and Edward Jones financial technology communities use AI search tools for vendor research. First-mover GEO/AEO content for St. Louis Boeing defence and Edward Jones financial vocabulary earns ChatGPT/Perplexity citation before competitors build equivalent content authority."}}]}`,
   cta: `Get Your Free St. Louis Digital Marketing Audit`,
   internalLinks: ["/seo-services-st-louis/","/digital-marketing-agency-usa/","/digital-marketing-agency-chicago/","/digital-marketing-agency-indianapolis/"],
@@ -53,7 +80,7 @@ Results (11 months): Page 1 for 10 St. Louis health IT queries | Centene evaluat
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-st-louis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

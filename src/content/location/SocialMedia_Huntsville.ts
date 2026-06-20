@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Huntsville.xlsx
 // Service: SocialMedia
 // City: Huntsville
-// Generated: 2026-06-19T12:50:28.492Z
+// URL: /social-media-marketing-huntsville/
+// Generated: 2026-06-20T04:42:14.114Z
 
 export const SocialMedia_Huntsville = {
   service: "SocialMedia",
   serviceSlug: "social-media",
   city: "Huntsville",
   citySlug: "huntsville",
-  slug: "/locations/social-media/huntsville",
+  slug: "/social-media-marketing-huntsville/",
   
   h1: `Social Media Marketing Huntsville — NASA Marshall Aerospace LinkedIn, Redstone Arsenal Defence Community, and Authentic Rocket City Brand Social`,
   primaryKw: `social media marketing huntsville`,
@@ -16,7 +17,7 @@ export const SocialMedia_Huntsville = {
   seoTitle: `Social Media Marketing Huntsville | NASA Marshall Aerospace LinkedIn & Five Points Brand | Clickmasters`,
   meta: `Clickmasters social media in Huntsville. NASA Marshall ITAR-bounded aerospace LinkedIn, Redstone Arsenal defence community, and authentic Five Points South/Monte Sano Rocket City brand social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Huntsville Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-huntsville/","address":{"@type":"PostalAddress","addressLocality":"Huntsville","addressRegion":"AL","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3500,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN HUNTSVILLE?
 
 Social media marketing in Huntsville is the strategic management of social platforms across three communities: the NASA Marshall/Cummings Research Park ITAR-bounded aerospace LinkedIn ecosystem, the Redstone Arsenal US Army defence professional community, and the authentic Rocket City consumer brand community in Five Points South, Monte Sano, and Hampton Cove.
@@ -50,7 +51,33 @@ Case Study 3: Five Points South Consumer Brand — Rocket City Space Heritage So
 Client: Restaurant, Five Points South (\$1.0M). Challenge: Generic 'Huntsville restaurant' missing US Space & Rocket Center heritage and Rocket City identity.
 Programme: US Space & Rocket Center community + Five Points South arts vocabulary + Monte Sano scenic
 Results (5 months): Instagram engagement: 1.4% to 5.4% | Huntsville media: editorial | Revenue: +\$80K`,
-  faq: `FAQs — Social Media Marketing Huntsville`,
+  faqTitle: `FAQs — Social Media Marketing Huntsville`,
+  faqs: [
+  {
+    "question": "How much does social media marketing cost in Huntsville?",
+    "answer": "Huntsville social media: $1,000/month (LinkedIn growth) to $10,000+/month (enterprise). NASA Marshall ITAR-bounded aerospace precision. Redstone Arsenal Army defence. Authentic Rocket City brand. Alabama retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is NASA Marshall ITAR-bounded LinkedIn for Huntsville aerospace businesses?",
+    "answer": "ITAR vocabulary review applied to every LinkedIn content piece, followed by SLS vehicle integration publicly available community intelligence, Artemis mission support publicly available content, and Boeing/Lockheed/Northrop Grumman Cummings Research Park community engagement — earning genuine NASA Marshall and prime contractor Huntsville LinkedIn engagement without ITAR export control exposure."
+  },
+  {
+    "question": "What is authentic Rocket City consumer brand social for Huntsville?",
+    "answer": "Five Points South arts and dining district vocabulary, Monte Sano State Park scenic mountain community, Hampton Cove golf and residential identity, US Space & Rocket Center space heritage community, and Space Camp — Huntsville's globally unique space heritage identity that no other US city can replicate in consumer brand social content."
+  },
+  {
+    "question": "Does Clickmasters serve Madison, Athens, Decatur, and Greater Huntsville?",
+    "answer": "Yes — all of Greater Huntsville MSA."
+  },
+  {
+    "question": "How does ITAR compliance apply to Huntsville social media?",
+    "answer": "ITAR vocabulary review is applied to every LinkedIn content piece and social post before publication. ITAR-controlled technical vocabulary inadvertently appearing in social media posts creates export control exposure. Clickmasters' ITAR vocabulary review eliminates this risk while preserving genuine NASA Marshall and Redstone Arsenal community LinkedIn engagement."
+  },
+  {
+    "question": "What is the US Space & Rocket Center social opportunity for Huntsville consumer brands?",
+    "answer": "The US Space & Rocket Center — home to Space Camp, housing the only full-scale Space Shuttle stack display in the world — is Huntsville's most globally recognised cultural landmark. Consumer brands whose social content authentically engages Space Camp and space heritage vocabulary earn above-average engagement from Huntsville's most passionately civic aerospace community."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Huntsville?","acceptedAnswer":{"@type":"Answer","text":"Huntsville social media: \$1,000/month (LinkedIn growth) to \$10,000+/month (enterprise). NASA Marshall ITAR-bounded aerospace precision. Redstone Arsenal Army defence. Authentic Rocket City brand. Alabama retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is NASA Marshall ITAR-bounded LinkedIn for Huntsville aerospace businesses?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review applied to every LinkedIn content piece, followed by SLS vehicle integration publicly available community intelligence, Artemis mission support publicly available content, and Boeing/Lockheed/Northrop Grumman Cummings Research Park community engagement — earning genuine NASA Marshall and prime contractor Huntsville LinkedIn engagement without ITAR export control exposure."}},{"@type":"Question","name":"What is authentic Rocket City consumer brand social for Huntsville?","acceptedAnswer":{"@type":"Answer","text":"Five Points South arts and dining district vocabulary, Monte Sano State Park scenic mountain community, Hampton Cove golf and residential identity, US Space & Rocket Center space heritage community, and Space Camp — Huntsville's globally unique space heritage identity that no other US city can replicate in consumer brand social content."}},{"@type":"Question","name":"Does Clickmasters serve Madison, Athens, Decatur, and Greater Huntsville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Huntsville MSA."}},{"@type":"Question","name":"How does ITAR compliance apply to Huntsville social media?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review is applied to every LinkedIn content piece and social post before publication. ITAR-controlled technical vocabulary inadvertently appearing in social media posts creates export control exposure. Clickmasters' ITAR vocabulary review eliminates this risk while preserving genuine NASA Marshall and Redstone Arsenal community LinkedIn engagement."}},{"@type":"Question","name":"What is the US Space & Rocket Center social opportunity for Huntsville consumer brands?","acceptedAnswer":{"@type":"Answer","text":"The US Space & Rocket Center — home to Space Camp, housing the only full-scale Space Shuttle stack display in the world — is Huntsville's most globally recognised cultural landmark. Consumer brands whose social content authentically engages Space Camp and space heritage vocabulary earn above-average engagement from Huntsville's most passionately civic aerospace community."}}]}`,
   cta: `Get Your Free Huntsville Social Media Audit`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-huntsville/","/seo-services-huntsville/","/social-media-marketing-birmingham/"],
@@ -60,7 +87,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.4% | Huntsville media: edito
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /social-media-marketing-huntsville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

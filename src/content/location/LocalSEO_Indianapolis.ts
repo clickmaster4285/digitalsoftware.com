@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Indianapolis.xlsx
 // Service: LocalSEO
 // City: Indianapolis
-// Generated: 2026-06-19T12:50:27.476Z
+// URL: /local-seo-services-indianapolis/
+// Generated: 2026-06-20T04:42:13.095Z
 
 export const LocalSEO_Indianapolis = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "Indianapolis",
   citySlug: "indianapolis",
-  slug: "/locations/local-seo/indianapolis",
+  slug: "/local-seo-services-indianapolis/",
   
   h1: `Local SEO Indianapolis — Eli Lilly Proximity GBP, IU Health Academic Medical, and Carmel/Fishers Professional Quality Local Pack`,
   primaryKw: `local seo services indianapolis`,
@@ -16,7 +17,7 @@ export const LocalSEO_Indianapolis = {
   seoTitle: `Local SEO Indianapolis | Eli Lilly Proximity GBP & IU Health Academic Medical | Clickmasters`,
   meta: `Clickmasters Local SEO in Indianapolis. Eli Lilly/Corteva pharmaceutical proximity GBP, IU Health academic medical credential, and Carmel/Fishers Midwest professional quality standard. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Indianapolis Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-indianapolis/","address":{"@type":"PostalAddress","addressLocality":"Indianapolis","addressRegion":"IN","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS LOCAL SEO IN INDIANAPOLIS?
 
 Local SEO in Indianapolis is the practice of optimising Google Business Profiles for the top 3 of Greater Indianapolis's Local Pack — in a market where Eli Lilly/Corteva pharmaceutical proximity creates B2B GBP commercial value, IU Health defines the academic medical credential standard, and Carmel/Fishers represent the highest-income suburban professional communities in Indiana.
@@ -41,7 +42,33 @@ Case Study 3: Indianapolis Professional Services — Eli Lilly Proximity B2B GBP
 Client: Business consulting, Indianapolis (Lilly-adjacent). Challenge: Generic GBP missing pharmaceutical proximity signals.
 Programme: Lilly/Corteva pharmaceutical community vocabulary + FDA/GMP proximity signals + ISPE community photography
 Results (3 months): Top 3 Local Pack Indianapolis pharma consulting | Lilly community near-me enquiries: +3x`,
-  faq: `FAQs — Local SEO Indianapolis`,
+  faqTitle: `FAQs — Local SEO Indianapolis`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in Indianapolis?",
+    "answer": "Indianapolis Local SEO: $900/month (single) to $9,000+/month (enterprise). Eli Lilly/Corteva pharma proximity GBP. IU Health academic medical credential. Carmel/Fishers Midwest professional quality standard. HIPAA/FINRA review management. Midwest retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is Eli Lilly/Corteva pharmaceutical proximity GBP for Indianapolis businesses?",
+    "answer": "Lilly/Corteva pharmaceutical community vocabulary in GBP service descriptions, FDA/GMP operational service proximity signals, ISPE/PDA community awareness in GBP content, and pharmaceutical professional community photography — earning above-average B2B near-me consideration from Indianapolis's most commercially significant pharmaceutical enterprise community."
+  },
+  {
+    "question": "What is the Carmel/Fishers Midwest professional quality GBP standard?",
+    "answer": "Carmel and Fishers represent the most affluent Indianapolis suburbs, whose professional community evaluates GBPs with Midwest Fortune 500 precision: CFA/CFP with CFP Board/CFA Institute verification links for financial advisory, IU Health/IU SOM affiliation for healthcare, and professional photography communicating the institutional quality of the Eli Lilly, Cummins, and Simon Property professional community."
+  },
+  {
+    "question": "Does Clickmasters serve Carmel, Fishers, Zionsville, and Greater Indianapolis?",
+    "answer": "Yes — all of Greater Indianapolis MSA including Hamilton County (Carmel, Fishers, Westfield, Noblesville) and Boone County (Zionsville)."
+  },
+  {
+    "question": "How many reviews for Indianapolis Local Pack?",
+    "answer": "Greater Indianapolis benchmarks: Carmel/Fishers professional services: 4.5+ stars, 70-120+ reviews. Healthcare (IU Health-adjacent): 4.4+, 60-110+. Indianapolis professional services: 4.4+, 50-90+."
+  },
+  {
+    "question": "How long does Indianapolis Local SEO take?",
+    "answer": "Carmel/Fishers professional services: 3-4 months. IU Health academic medical: 3-5 months. Eli Lilly pharmaceutical proximity B2B: 2-4 months."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Indianapolis Local SEO: \$900/month (single) to \$9,000+/month (enterprise). Eli Lilly/Corteva pharma proximity GBP. IU Health academic medical credential. Carmel/Fishers Midwest professional quality standard. HIPAA/FINRA review management. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Eli Lilly/Corteva pharmaceutical proximity GBP for Indianapolis businesses?","acceptedAnswer":{"@type":"Answer","text":"Lilly/Corteva pharmaceutical community vocabulary in GBP service descriptions, FDA/GMP operational service proximity signals, ISPE/PDA community awareness in GBP content, and pharmaceutical professional community photography — earning above-average B2B near-me consideration from Indianapolis's most commercially significant pharmaceutical enterprise community."}},{"@type":"Question","name":"What is the Carmel/Fishers Midwest professional quality GBP standard?","acceptedAnswer":{"@type":"Answer","text":"Carmel and Fishers represent the most affluent Indianapolis suburbs, whose professional community evaluates GBPs with Midwest Fortune 500 precision: CFA/CFP with CFP Board/CFA Institute verification links for financial advisory, IU Health/IU SOM affiliation for healthcare, and professional photography communicating the institutional quality of the Eli Lilly, Cummins, and Simon Property professional community."}},{"@type":"Question","name":"Does Clickmasters serve Carmel, Fishers, Zionsville, and Greater Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Indianapolis MSA including Hamilton County (Carmel, Fishers, Westfield, Noblesville) and Boone County (Zionsville)."}},{"@type":"Question","name":"How many reviews for Indianapolis Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Indianapolis benchmarks: Carmel/Fishers professional services: 4.5+ stars, 70-120+ reviews. Healthcare (IU Health-adjacent): 4.4+, 60-110+. Indianapolis professional services: 4.4+, 50-90+."}},{"@type":"Question","name":"How long does Indianapolis Local SEO take?","acceptedAnswer":{"@type":"Answer","text":"Carmel/Fishers professional services: 3-4 months. IU Health academic medical: 3-5 months. Eli Lilly pharmaceutical proximity B2B: 2-4 months."}}]}`,
   cta: `Get Your Free Indianapolis Local SEO Audit`,
   internalLinks: ["/local-seo-services/","/seo-services-indianapolis/","/digital-marketing-agency-indianapolis/","/local-seo-services-chicago/"],
@@ -51,7 +78,7 @@ Results (3 months): Top 3 Local Pack Indianapolis pharma consulting | Lilly comm
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-indianapolis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

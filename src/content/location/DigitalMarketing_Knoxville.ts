@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Knoxville.xlsx
 // Service: DigitalMarketing
 // City: Knoxville
-// Generated: 2026-06-19T12:50:25.738Z
+// URL: /digital-marketing-agency-knoxville/
+// Generated: 2026-06-20T04:42:11.324Z
 
 export const DigitalMarketing_Knoxville = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Knoxville",
   citySlug: "knoxville",
-  slug: "/locations/digital-marketing/knoxville",
+  slug: "/digital-marketing-agency-knoxville/",
   
   h1: `Digital Marketing Agency Knoxville — TVA Energy Revenue, ORNL ITAR-Adjacent Nuclear, Pilot Flying J Fleet, and Tennessee Valley Commercial Growth`,
   primaryKw: `digital marketing agency knoxville`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_Knoxville = {
   seoTitle: `Digital Marketing Agency Knoxville | TVA Energy Revenue & Pilot Flying J Logistics | Clickmasters`,
   meta: `Clickmasters digital marketing in Knoxville. TVA utility/energy revenue, ORNL ITAR-adjacent nuclear, Pilot Flying J trucking/fleet logistics, UT Medical YMYL, and Tennessee TIPA-native. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Knoxville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-knoxville/","address":{"@type":"PostalAddress","addressLocality":"Knoxville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN KNOXVILLE?
 
 A Knoxville digital marketing agency manages digital channels for Tennessee Valley businesses across four commercially distinct sectors.
@@ -43,7 +44,33 @@ Case Study 3: Knoxville Healthcare Technology — UT Medical/Covenant Full Progr
 Client: Clinical analytics, Knoxville (\$4.8M). Challenge: UT Medical/Covenant vocabulary absent. Non-HIPAA. Non-TIPA.
 Programme: SEO + HIPAA/TIPA rebuild + content (East Tennessee YMYL)
 Results (11 months): Page 1 for 9 Knoxville health IT queries | UT Medical: evaluation | YMYL: E-E-A-T | Pipeline: \$1.0M`,
-  faq: `FAQs — Digital Marketing Knoxville`,
+  faqTitle: `FAQs — Digital Marketing Knoxville`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Knoxville?",
+    "answer": "Knoxville digital marketing: $1,000/month (single channel) to $11,000+/month (enterprise). TVA utility/nuclear vocabulary. ORNL ITAR-adjacent. Pilot Flying J fleet. UT Medical YMYL. Tennessee TIPA-native. Tennessee retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What makes TVA digital marketing unique for Knoxville businesses?",
+    "answer": "TVA — the US's largest public power utility, generating electricity for 10 million people across 7 states — creates a utility and nuclear energy B2B digital marketing vocabulary unique to the Tennessee Valley. Nuclear plant operations technology, renewable energy integration, and grid reliability management vocabulary earns organic discovery from TVA's Knoxville operations at Tennessee CPCs below Atlanta and Charlotte utility equivalents."
+  },
+  {
+    "question": "What is ORNL ITAR-adjacent digital marketing for Knoxville businesses?",
+    "answer": "ORNL digital marketing applies ITAR vocabulary review to all ORNL-community content, then uses publicly available ORNL research community vocabulary — nuclear energy research community content, advanced materials science publications, and computational science intelligence — earning organic discovery from ORNL's East Tennessee research community without ITAR export control exposure."
+  },
+  {
+    "question": "Does Clickmasters serve Farragut, Maryville, Oak Ridge, and Greater Knoxville?",
+    "answer": "Yes — all of Greater Knoxville: Knox County, Blount County, Anderson County (Oak Ridge), and the full Knoxville MSA."
+  },
+  {
+    "question": "What is Tennessee TIPA compliance for Knoxville digital marketing?",
+    "answer": "Tennessee Information Protection Act (TIPA, effective July 1, 2025) creates data privacy compliance requirements for Knoxville businesses. TIPA-native analytics with consent management across all channels protect from Tennessee AG enforcement."
+  },
+  {
+    "question": "How does GEO/AEO affect Knoxville digital marketing?",
+    "answer": "TVA's utility technology community and Pilot Flying J's fleet analytics community use AI search. First-mover GEO/AEO for Knoxville TVA utility and Pilot Flying J vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Knoxville digital marketing: \$1,000/month (single channel) to \$11,000+/month (enterprise). TVA utility/nuclear vocabulary. ORNL ITAR-adjacent. Pilot Flying J fleet. UT Medical YMYL. Tennessee TIPA-native. Tennessee retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What makes TVA digital marketing unique for Knoxville businesses?","acceptedAnswer":{"@type":"Answer","text":"TVA — the US's largest public power utility, generating electricity for 10 million people across 7 states — creates a utility and nuclear energy B2B digital marketing vocabulary unique to the Tennessee Valley. Nuclear plant operations technology, renewable energy integration, and grid reliability management vocabulary earns organic discovery from TVA's Knoxville operations at Tennessee CPCs below Atlanta and Charlotte utility equivalents."}},{"@type":"Question","name":"What is ORNL ITAR-adjacent digital marketing for Knoxville businesses?","acceptedAnswer":{"@type":"Answer","text":"ORNL digital marketing applies ITAR vocabulary review to all ORNL-community content, then uses publicly available ORNL research community vocabulary — nuclear energy research community content, advanced materials science publications, and computational science intelligence — earning organic discovery from ORNL's East Tennessee research community without ITAR export control exposure."}},{"@type":"Question","name":"Does Clickmasters serve Farragut, Maryville, Oak Ridge, and Greater Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Knoxville: Knox County, Blount County, Anderson County (Oak Ridge), and the full Knoxville MSA."}},{"@type":"Question","name":"What is Tennessee TIPA compliance for Knoxville digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Tennessee Information Protection Act (TIPA, effective July 1, 2025) creates data privacy compliance requirements for Knoxville businesses. TIPA-native analytics with consent management across all channels protect from Tennessee AG enforcement."}},{"@type":"Question","name":"How does GEO/AEO affect Knoxville digital marketing?","acceptedAnswer":{"@type":"Answer","text":"TVA's utility technology community and Pilot Flying J's fleet analytics community use AI search. First-mover GEO/AEO for Knoxville TVA utility and Pilot Flying J vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Knoxville Digital Marketing Audit`,
   internalLinks: ["/seo-services-knoxville/","/digital-marketing-agency-usa/","/digital-marketing-agency-nashville/","/digital-marketing-agency-chattanooga/"],
@@ -53,7 +80,7 @@ Results (11 months): Page 1 for 9 Knoxville health IT queries | UT Medical: eval
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-knoxville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

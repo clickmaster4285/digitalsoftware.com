@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-NewYork.xlsx
 // Service: SEO
 // City: NewYork
-// Generated: 2026-06-19T12:50:28.071Z
+// URL: /seo-services-new-york/
+// Generated: 2026-06-20T04:42:13.766Z
 
 export const SEO_NewYork = {
   service: "SEO",
   serviceSlug: "seo",
   city: "NewYork",
   citySlug: "new-york",
-  slug: "/locations/seo/new-york",
+  slug: "/seo-services-new-york/",
   
   h1: `SEO Services New York — Organic Growth Measured in Revenue, Not Rankings`,
   primaryKw: ``,
@@ -16,7 +17,7 @@ export const SEO_NewYork = {
   seoTitle: `SEO Services New York | Rank for Revenue, Not Rankings | Clickmasters`,
   meta: ``,
   schema: null,
-  wordCount: NaN,
+  wordCount: 5100,
   geoAeoBlock: ``,
   features: ``,
   caseStudies: `**Case Study 1: New York B2B SaaS — 312% Increase in Organic Qualified Leads**
@@ -55,7 +56,33 @@ Results (12 months):
 - Page load time: 6.8s → 1.9s (Core Web Vitals now green)
 - Organic revenue as % of total: 12% → 38%
 - Paid Meta Ads budget: reduced 30% (organic handling volume that required paid)`,
-  faq: `Frequently Asked Questions`,
+  faqTitle: `Frequently Asked Questions`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in New York?",
+    "answer": "New York SEO retainers range from $3,200/month for growth-stage businesses to $35,000+/month for enterprise programmes. Clickmasters New York SEO retainers start at $3,200/month. All retainers include a 90-day performance guarantee — if agreed KPI targets are not met in the first 90 days, you do not pay for month 4. No long-term lock-in contracts. New York SEO retainers are priced higher than mid-market US cities because the competitive intensity of New York SERPs requires proportionally greater investment in content, links, and technical resources to achieve and sustain commercial rankings."
+  },
+  {
+    "question": "How long does SEO take to produce results in New York?",
+    "answer": "New York SEO timelines vary by competition level and starting point. For less competitive verticals (niche B2B, specialist professional services): meaningful ranking improvements in 3-5 months, organic lead contribution growing to 20%+ in 8-12 months. For highly competitive verticals (financial services, legal, healthcare, general B2B technology): meaningful rankings in 6-10 months, full organic compound in 14-20 months. The competitive nature of New York's search landscape means timeline expectations should be set higher than for mid-market US cities. All Clickmasters New York SEO programmes include 90-day milestone reviews with specific KPI benchmarks."
+  },
+  {
+    "question": "What makes New York SEO different from other US markets?",
+    "answer": "New York SEO has specific characteristics that differentiate it from other US markets: (1) Competition density — New York hosts the highest concentration of professional services, financial institutions, and technology companies of any US city, making commercial keyword competition significantly more intense. (2) YMYL content standards — financial services, legal, and healthcare content in New York must meet Google's highest E-E-A-T standards, requiring named expert authors and evidence-backed claims. (3) Buyer sophistication — New York's professional audience evaluates content quality at a higher standard, meaning thin or generic content fails to earn rankings or convert traffic. (4) Link profile expectations — New York domains that rank well in competitive verticals typically have backlinks from major national and international publications, requiring a different link building approach than local citation building."
+  },
+  {
+    "question": "Does Clickmasters serve businesses across all of New York City?",
+    "answer": "Yes. Clickmasters serves businesses across all five boroughs (Manhattan, Brooklyn, Queens, the Bronx, Staten Island) and the greater New York metropolitan area including New Jersey, Westchester County, Long Island, and Connecticut. We build multi-location SEO programmes for New York businesses with presences in multiple boroughs or suburban markets, and national programmes for New York companies seeking organic growth beyond the metropolitan area."
+  },
+  {
+    "question": "How does AI search (GEO/AEO) affect SEO for New York businesses?",
+    "answer": "AI search engines (ChatGPT, Perplexity, Google AI Overviews) are now answering a significant and growing proportion of commercial research queries. For New York businesses, this creates both risk (AI summaries capture the research phase without the searcher visiting your site) and opportunity (businesses that establish entity recognition and AI citation authority now are building competitive advantages that will compound as AI search adoption grows). Clickmasters builds GEO (Generative Engine Optimisation) and AEO (Answer Engine Optimisation) into every New York SEO programme — structured data for AI citation, entity-rich content, direct-answer FAQ formats, and the authoritative content that earns AI engine citation over competitors."
+  },
+  {
+    "question": "What industries does Clickmasters specialise in for New York SEO?",
+    "answer": "Our New York SEO client base spans the city's commercial character: financial services and fintech (Wall Street, Midtown financial district — with understanding of FINRA/SEC content restrictions), B2B technology and SaaS (Silicon Alley / Flatiron / Hudson Yards — including Series A and B companies building organic as part of their growth stack), e-commerce and DTC (Brooklyn, SoHo, and emerging New York consumer brands), professional services (consulting, legal, accounting — with bar/regulatory compliance in content), healthcare (NYU Langone, Weill Cornell ecosystem and private practice — with HIPAA-compliant tracking as standard), media and publishing (the New York media ecosystem's unique understanding of content quality), and real estate (New York's residential and commercial property market)."
+  }
+],
   faqSchema: `{
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -118,7 +145,7 @@ Results (12 months):
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-new-york/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

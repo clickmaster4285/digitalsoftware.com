@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Sacramento.xlsx
 // Service: EmailMarketing
 // City: Sacramento
-// Generated: 2026-06-19T12:50:26.688Z
+// URL: /email-marketing-sacramento/
+// Generated: 2026-06-20T04:42:12.089Z
 
 export const EmailMarketing_Sacramento = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "Sacramento",
   citySlug: "sacramento",
-  slug: "/locations/email-marketing/sacramento",
+  slug: "/email-marketing-sacramento/",
   
   h1: `Email Marketing Sacramento — California State Government Pipeline, CalPERS/CalSTRS Nurture, and CCPA-Compliant Revenue`,
   primaryKw: `email marketing agency sacramento`,
@@ -16,7 +17,7 @@ export const EmailMarketing_Sacramento = {
   seoTitle: `Email Marketing Sacramento | CA State Government Pipeline & CalPERS Nurture | Clickmasters`,
   meta: `Clickmasters email marketing in Sacramento. California state government IT pipeline, CalPERS/CalSTRS FINRA-compliant institutional investment nurture, and CCPA-compliant professional revenue. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Sacramento Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-sacramento/","address":{"@type":"PostalAddress","addressLocality":"Sacramento","addressRegion":"CA","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN SACRAMENTO?
 
 Email marketing in Sacramento is the strategic management of email as a California state government IT procurement pipeline, CalPERS/CalSTRS FINRA-compliant institutional investment nurture channel, and CCPA-compliant professional revenue channel.
@@ -50,7 +51,33 @@ Case Study 3: Sacramento Healthcare — UC Davis HIPAA CCPA Email
 Client: Oncology (UC Davis NCI-affiliated). Challenge: UC Davis contacts cold. Generic newsletter. Non-HIPAA. Non-CCPA.
 Programme: UC Davis NCI/MIND vocabulary + HIPAA/CCPA-compliant + 120-day academic medical triggers
 Results: UC Davis re-engagement: 42% | Sutter Health: 38% | HIPAA/CCPA: California AG pre-audit passed | Pipeline: \$1.0M`,
-  faq: `FAQs — Email Marketing Sacramento`,
+  faqTitle: `FAQs — Email Marketing Sacramento`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Sacramento?",
+    "answer": "Sacramento email marketing: $750/month (Foundation) to $8,000+/month (Enterprise). CA state government IT budget-cycle-aware pipeline. CalPERS/CalSTRS FINRA-compliant institutional. UC Davis Health HIPAA CCPA. CCPA-compliant all channels. California retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is the California state government budget-cycle-aware email strategy for Sacramento?",
+    "answer": "California's annual IT procurement calendar creates specific email activation windows: January (Governor's Budget — IT vendor review begins), May (May Budget Revision — IT budget confirmation), June-July (Budget Act — IT procurement contracts activated), September-December (SIMM 45 IT project approval submissions). Government IT vendors who align email cadence to these California fiscal calendar windows earn 3-4x above-average engagement from CDT and CHHS procurement staff vs generic quarterly newsletter email."
+  },
+  {
+    "question": "What is CalPERS/CalSTRS FINRA-compliant institutional investment email for Sacramento?",
+    "answer": "FINRA Rule 2210-compliant email with CalPERS alternative investment due diligence operational intelligence, CalSTRS ESG factor integration updates, and total portfolio management content — maintaining CalPERS and CalSTRS investment officer and technology procurement relationships through 90-180 day pension fund evaluation cycles with CCPA-compliant email data handling throughout."
+  },
+  {
+    "question": "Does Clickmasters serve Folsom, Roseville, Elk Grove, and Greater Sacramento?",
+    "answer": "Yes — all of Greater Sacramento MSA."
+  },
+  {
+    "question": "How long does Sacramento CA state government IT pipeline email produce results?",
+    "answer": "CA state government re-engagement from budget-cycle-aware email: 14-30 days. Government IT evaluation invitations: 120-240 days (SIMM 45 cycle). Full CA state IT pipeline contribution: 8-14 months."
+  },
+  {
+    "question": "What makes California state government email marketing uniquely long-cycle?",
+    "answer": "California's SIMM 45 IT project approval process requires multi-stage state government IT approval — Stage 1 through Stage 4 — with timelines of 120-360 days for major IT procurements. Email nurture maintaining vendor relationships through this extended California-specific IT approval process requires sustained operational content investment that shorter-cycle B2B email programmes cannot sustain."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Sacramento?","acceptedAnswer":{"@type":"Answer","text":"Sacramento email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). CA state government IT budget-cycle-aware pipeline. CalPERS/CalSTRS FINRA-compliant institutional. UC Davis Health HIPAA CCPA. CCPA-compliant all channels. California retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is the California state government budget-cycle-aware email strategy for Sacramento?","acceptedAnswer":{"@type":"Answer","text":"California's annual IT procurement calendar creates specific email activation windows: January (Governor's Budget — IT vendor review begins), May (May Budget Revision — IT budget confirmation), June-July (Budget Act — IT procurement contracts activated), September-December (SIMM 45 IT project approval submissions). Government IT vendors who align email cadence to these California fiscal calendar windows earn 3-4x above-average engagement from CDT and CHHS procurement staff vs generic quarterly newsletter email."}},{"@type":"Question","name":"What is CalPERS/CalSTRS FINRA-compliant institutional investment email for Sacramento?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210-compliant email with CalPERS alternative investment due diligence operational intelligence, CalSTRS ESG factor integration updates, and total portfolio management content — maintaining CalPERS and CalSTRS investment officer and technology procurement relationships through 90-180 day pension fund evaluation cycles with CCPA-compliant email data handling throughout."}},{"@type":"Question","name":"Does Clickmasters serve Folsom, Roseville, Elk Grove, and Greater Sacramento?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Sacramento MSA."}},{"@type":"Question","name":"How long does Sacramento CA state government IT pipeline email produce results?","acceptedAnswer":{"@type":"Answer","text":"CA state government re-engagement from budget-cycle-aware email: 14-30 days. Government IT evaluation invitations: 120-240 days (SIMM 45 cycle). Full CA state IT pipeline contribution: 8-14 months."}},{"@type":"Question","name":"What makes California state government email marketing uniquely long-cycle?","acceptedAnswer":{"@type":"Answer","text":"California's SIMM 45 IT project approval process requires multi-stage state government IT approval — Stage 1 through Stage 4 — with timelines of 120-360 days for major IT procurements. Email nurture maintaining vendor relationships through this extended California-specific IT approval process requires sustained operational content investment that shorter-cycle B2B email programmes cannot sustain."}}]}`,
   cta: `Get Your Free Sacramento Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-sacramento/","/seo-services-sacramento/","/email-marketing-san-diego/"],
@@ -60,7 +87,7 @@ Results: UC Davis re-engagement: 42% | Sutter Health: 38% | HIPAA/CCPA: Californ
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-sacramento/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

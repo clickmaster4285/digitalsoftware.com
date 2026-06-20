@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-SanDiego.xlsx
 // Service: ContentMarketing
 // City: SanDiego
-// Generated: 2026-06-19T12:50:25.436Z
+// URL: /content-marketing-san-diego/
+// Generated: 2026-06-20T04:42:10.938Z
 
 export const ContentMarketing_SanDiego = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "SanDiego",
   citySlug: "san-diego",
-  slug: "/locations/content-marketing/san-diego",
+  slug: "/content-marketing-san-diego/",
   
   h1: `Content Marketing San Diego — CMMC Defence Authority, FDA-Aware Life Science YMYL, and CCPA-Native Analytics`,
   primaryKw: `content marketing agency san diego`,
@@ -16,7 +17,7 @@ export const ContentMarketing_SanDiego = {
   seoTitle: `Content Marketing San Diego | CMMC Defence Authority & Torrey Pines YMYL | Clickmasters`,
   meta: `Clickmasters content marketing in San Diego. CMMC/AS9100D defence content authority, Torrey Pines FDA-aware life science YMYL, and CCPA-native analytics for San Diego. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Diego Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-san-diego/","address":{"@type":"PostalAddress","addressLocality":"San Diego","addressRegion":"CA","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3800,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN SAN DIEGO?
 
 Content marketing in San Diego is the strategic creation of ITAR-bounded defence content authority, FDA-aware Torrey Pines life science YMYL content, and CCPA-native California analytics — for San Diego-area businesses in America's largest defence contractor concentration and Southern California's life science capital.
@@ -50,7 +51,33 @@ Case Study 3: La Jolla Healthcare Practice — UCSD YMYL CCPA Content Programme
 Client: Internal medicine, La Jolla (UCSD Health). Challenge: Non-CCPA content analytics overstating performance 32%. Below-YMYL content.
 Programme: UCSD affiliation content + YMYL E-E-A-T architecture + CCPA-native content analytics + HIPAA-compliant analytics
 Results (10 months): CCPA-accurate content baseline: first established | Page 1 for 11 La Jolla healthcare queries | YMYL E-E-A-T recognition: Google certified | New patients from content: +3x`,
-  faq: `FAQs — Content Marketing San Diego`,
+  faqTitle: `FAQs — Content Marketing San Diego`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in San Diego?",
+    "answer": "San Diego content marketing: $1,600/month (Foundation) to $14,000+/month (Full Programme). ITAR-bounded defence content precision. FDA-aware life science YMYL. CCPA-native analytics. California CPCs below Bay Area. 90-day guarantee."
+  },
+  {
+    "question": "What is ITAR-bounded content marketing for San Diego defence companies?",
+    "answer": "ITAR-bounded content marketing builds organic authority using publicly releasable defence vocabulary: CMMC Level 2/Level 3 implementation insights, AS9100D quality management operational intelligence, DCAA compliance content, and defence supply chain resilience analysis. This vocabulary is commercially relevant to NAVWAR and Northrop procurement staff and publicly releasable under ITAR — distinguishing it from controlled technical specifications that create export control exposure."
+  },
+  {
+    "question": "What is FDA-aware life science content for San Diego?",
+    "answer": "FDA-aware content avoids pre-approval clinical efficacy claims, maintains balanced evidence presentation in all clinical data content, uses IRB-aware clinical research service descriptions, and demonstrates CLIA/CAP credentialling depth. The content precision that earns Pfizer, J&J Janssen, and Illumina San Diego pre-engagement credibility from Torrey Pines Mesa content marketing."
+  },
+  {
+    "question": "Does Clickmasters serve La Jolla, Chula Vista, and Greater San Diego?",
+    "answer": "Yes — all of San Diego County."
+  },
+  {
+    "question": "How long does San Diego defence content marketing produce NAVWAR results?",
+    "answer": "ITAR-bounded defence vocabulary rankings: 5-8 months. LinkedIn NAVWAR/Northrop community engagement: 2-4 months. GEO/AEO defence AI search citation: 4-7 months. Full NAVWAR organic discovery from integrated programme: 7-10 months."
+  },
+  {
+    "question": "How does GEO/AEO affect San Diego content marketing?",
+    "answer": "San Diego's defence and life science professional communities use AI search tools for vendor research. When NAVWAR procurement asks ChatGPT for CMMC Level 2 compliance consultants in San Diego, or Pfizer asks Perplexity for Phase I CROs in Torrey Pines, companies with GEO/AEO signals appear — making first-mover content architecture a significant competitive advantage in San Diego's commercially specialised market."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in San Diego?","acceptedAnswer":{"@type":"Answer","text":"San Diego content marketing: \$1,600/month (Foundation) to \$14,000+/month (Full Programme). ITAR-bounded defence content precision. FDA-aware life science YMYL. CCPA-native analytics. California CPCs below Bay Area. 90-day guarantee."}},{"@type":"Question","name":"What is ITAR-bounded content marketing for San Diego defence companies?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded content marketing builds organic authority using publicly releasable defence vocabulary: CMMC Level 2/Level 3 implementation insights, AS9100D quality management operational intelligence, DCAA compliance content, and defence supply chain resilience analysis. This vocabulary is commercially relevant to NAVWAR and Northrop procurement staff and publicly releasable under ITAR — distinguishing it from controlled technical specifications that create export control exposure."}},{"@type":"Question","name":"What is FDA-aware life science content for San Diego?","acceptedAnswer":{"@type":"Answer","text":"FDA-aware content avoids pre-approval clinical efficacy claims, maintains balanced evidence presentation in all clinical data content, uses IRB-aware clinical research service descriptions, and demonstrates CLIA/CAP credentialling depth. The content precision that earns Pfizer, J&J Janssen, and Illumina San Diego pre-engagement credibility from Torrey Pines Mesa content marketing."}},{"@type":"Question","name":"Does Clickmasters serve La Jolla, Chula Vista, and Greater San Diego?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of San Diego County."}},{"@type":"Question","name":"How long does San Diego defence content marketing produce NAVWAR results?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded defence vocabulary rankings: 5-8 months. LinkedIn NAVWAR/Northrop community engagement: 2-4 months. GEO/AEO defence AI search citation: 4-7 months. Full NAVWAR organic discovery from integrated programme: 7-10 months."}},{"@type":"Question","name":"How does GEO/AEO affect San Diego content marketing?","acceptedAnswer":{"@type":"Answer","text":"San Diego's defence and life science professional communities use AI search tools for vendor research. When NAVWAR procurement asks ChatGPT for CMMC Level 2 compliance consultants in San Diego, or Pfizer asks Perplexity for Phase I CROs in Torrey Pines, companies with GEO/AEO signals appear — making first-mover content architecture a significant competitive advantage in San Diego's commercially specialised market."}}]}`,
   cta: `Get Your Free San Diego Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-san-diego/","/seo-services-san-diego/","/content-marketing-los-angeles/"],
@@ -60,7 +87,7 @@ Results (10 months): CCPA-accurate content baseline: first established | Page 1 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-san-diego/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

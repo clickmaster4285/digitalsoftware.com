@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Seattle.xlsx
 // Service: SEO
 // City: Seattle
-// Generated: 2026-06-19T12:50:28.287Z
+// URL: /seo-services-seattle/
+// Generated: 2026-06-20T04:42:13.931Z
 
 export const SEO_Seattle = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Seattle",
   citySlug: "seattle",
-  slug: "/locations/seo/seattle",
+  slug: "/seo-services-seattle/",
   
   h1: `SEO Services Seattle — Amazon-Standard Organic Attribution for the Pacific Northwest's Technology Capital`,
   primaryKw: `seo services seattle`,
@@ -16,7 +17,7 @@ export const SEO_Seattle = {
   seoTitle: `SEO Services Seattle | Amazon-Standard Attribution & MHMD Healthcare | Clickmasters`,
   meta: `Clickmasters SEO in Seattle. Amazon-standard pipeline attribution for AWS/Azure ecosystem B2B, MHMD-compliant healthcare, and Pacific Northwest businesses. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Seattle SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-seattle/","address":{"@type":"PostalAddress","addressLocality":"Seattle","addressRegion":"WA","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS SEO IN SEATTLE?
 
 SEO in Seattle is the practice of building organic search authority for Seattle-area businesses — with Amazon-standard attribution that connects organic search investment to CRM pipeline, MHMD-compliant analytics for Washington healthcare businesses, and the Pacific Northwest authentic authority that earns genuine trust from Seattle's discerning professional community.
@@ -41,7 +42,33 @@ Case Study 3: Bellevue Microsoft Ecosystem Vendor — Azure Partnership Authorit
 Client: Azure-native SaaS, Bellevue (\$9.4M ARR). Challenge: Competing against Databricks, Snowflake for Azure ecosystem searches. Zero content authority.
 Programme: Azure architecture content programme + Microsoft Tech Community editorial + MHMD-aware analytics + CRM attribution
 Results (11 months): Page 1 for 14 Azure ecosystem queries | Microsoft Tech Community editorial: 2 | Organic enterprise leads: 28/month | Azure Partner evaluation invitations: +3x`,
-  faq: `FAQs — SEO Seattle`,
+  faqTitle: `FAQs — SEO Seattle`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Seattle?",
+    "answer": "Seattle SEO: $2,000/month (growth) to $20,000+/month (enterprise). Amazon-standard pipeline attribution included. MHMD compliance for healthcare. Below San Francisco equivalents. 90-day performance guarantee."
+  },
+  {
+    "question": "What is Amazon-standard SEO attribution?",
+    "answer": "Amazon-standard attribution connects organic search investment to CRM pipeline with documented methodology: UTM framework tracking content-to-CRM paths, organic content contribution model showing how specific pages participate in multi-touch conversion paths, and attribution methodology documentation presenting the commercial case for SEO investment in the pipeline-value language that Amazon-trained executives accept. The SEO report that ends with 'organic generated $2.4M in pipeline this quarter,' not 'domain authority improved to 48.'"
+  },
+  {
+    "question": "Does Clickmasters provide MHMD-compliant SEO analytics for Seattle healthcare?",
+    "answer": "Yes. Washington's MHMD Act requires consumer health data consent management for healthcare analytics. Clickmasters rebuilds Seattle healthcare SEO analytics to exclude consumer health data from standard tracking events, implements MHMD-compliant condition-specific page analytics, and ensures the SEO measurement infrastructure passes Washington AG compliance review."
+  },
+  {
+    "question": "Does Clickmasters serve Bellevue, Redmond, and Greater Seattle?",
+    "answer": "Yes — all of Greater Seattle including Bellevue (Microsoft campus), Redmond, Kirkland, Issaquah, Bothell, Tacoma, Olympia, and the full Puget Sound region."
+  },
+  {
+    "question": "How long does Seattle SEO take?",
+    "answer": "Seattle AWS/Azure ecosystem B2B content: meaningful category rankings at 4-7 months. Amazon-standard attribution pipeline contribution measurable at 6-9 months. MHMD-compliant healthcare patient acquisition: 3-5 months. Pacific NW clean tech sustainability content: 4-7 months."
+  },
+  {
+    "question": "How does GEO/AEO affect Seattle SEO in 2026?",
+    "answer": "Seattle's technology professional community has among the highest AI search adoption rates in the US. When an Amazon AWS architect asks ChatGPT for recommended data infrastructure platforms, or a Microsoft Azure engineer asks Perplexity for the best Azure-native SaaS solutions, the companies with GEO and AEO signals appear in those answers. Clickmasters builds GEO/AEO into every Seattle SEO programme."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Seattle?","acceptedAnswer":{"@type":"Answer","text":"Seattle SEO: \$2,000/month (growth) to \$20,000+/month (enterprise). Amazon-standard pipeline attribution included. MHMD compliance for healthcare. Below San Francisco equivalents. 90-day performance guarantee."}},{"@type":"Question","name":"What is Amazon-standard SEO attribution?","acceptedAnswer":{"@type":"Answer","text":"Amazon-standard attribution connects organic search investment to CRM pipeline with documented methodology: UTM framework tracking content-to-CRM paths, organic content contribution model showing how specific pages participate in multi-touch conversion paths, and attribution methodology documentation presenting the commercial case for SEO investment in the pipeline-value language that Amazon-trained executives accept. The SEO report that ends with 'organic generated \$2.4M in pipeline this quarter,' not 'domain authority improved to 48.'"}},{"@type":"Question","name":"Does Clickmasters provide MHMD-compliant SEO analytics for Seattle healthcare?","acceptedAnswer":{"@type":"Answer","text":"Yes. Washington's MHMD Act requires consumer health data consent management for healthcare analytics. Clickmasters rebuilds Seattle healthcare SEO analytics to exclude consumer health data from standard tracking events, implements MHMD-compliant condition-specific page analytics, and ensures the SEO measurement infrastructure passes Washington AG compliance review."}},{"@type":"Question","name":"Does Clickmasters serve Bellevue, Redmond, and Greater Seattle?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Seattle including Bellevue (Microsoft campus), Redmond, Kirkland, Issaquah, Bothell, Tacoma, Olympia, and the full Puget Sound region."}},{"@type":"Question","name":"How long does Seattle SEO take?","acceptedAnswer":{"@type":"Answer","text":"Seattle AWS/Azure ecosystem B2B content: meaningful category rankings at 4-7 months. Amazon-standard attribution pipeline contribution measurable at 6-9 months. MHMD-compliant healthcare patient acquisition: 3-5 months. Pacific NW clean tech sustainability content: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect Seattle SEO in 2026?","acceptedAnswer":{"@type":"Answer","text":"Seattle's technology professional community has among the highest AI search adoption rates in the US. When an Amazon AWS architect asks ChatGPT for recommended data infrastructure platforms, or a Microsoft Azure engineer asks Perplexity for the best Azure-native SaaS solutions, the companies with GEO and AEO signals appear in those answers. Clickmasters builds GEO/AEO into every Seattle SEO programme."}}]}`,
   cta: `Get Your Free Seattle SEO Audit`,
   internalLinks: ["/digital-marketing-agency-seattle/","/seo-services/","/seo-services-san-francisco/","/seo-services-portland/","/industries/technology/","/local-seo-services-seattle/"],
@@ -51,7 +78,7 @@ Results (11 months): Page 1 for 14 Azure ecosystem queries | Microsoft Tech Comm
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-seattle/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

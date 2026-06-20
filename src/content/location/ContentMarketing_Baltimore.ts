@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-Baltimore.xlsx
 // Service: ContentMarketing
 // City: Baltimore
-// Generated: 2026-06-19T12:50:25.046Z
+// URL: /content-marketing-baltimore/
+// Generated: 2026-06-20T04:42:10.573Z
 
 export const ContentMarketing_Baltimore = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "Baltimore",
   citySlug: "baltimore",
-  slug: "/locations/content-marketing/baltimore",
+  slug: "/content-marketing-baltimore/",
   
   h1: `Content Marketing Baltimore — Johns Hopkins World-Class YMYL Authority, T. Rowe Price Investment, and Charm City Commercial Voice`,
   primaryKw: `content marketing agency baltimore`,
@@ -16,7 +17,7 @@ export const ContentMarketing_Baltimore = {
   seoTitle: `Content Marketing Baltimore | Johns Hopkins World-Class Authority & T. Rowe Price | Clickmasters`,
   meta: `Clickmasters content marketing in Baltimore. Johns Hopkins #1 world-class YMYL authority, T. Rowe Price FINRA-compliant investment management content, and Under Armour sports brand. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Baltimore Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-baltimore/","address":{"@type":"PostalAddress","addressLocality":"Baltimore","addressRegion":"MD","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN BALTIMORE?
 
 Content marketing in Baltimore is the strategic creation of Johns Hopkins #1 world-class YMYL clinical research authority content, T. Rowe Price FINRA-compliant institutional investment content, and authentic Charm City commercial voice content for Baltimore-area businesses.
@@ -50,7 +51,33 @@ Case Study 3: Baltimore Creative Technology — Under Armour Sports Brand Conten
 Client: Retail analytics, Baltimore (\$5.4M). Challenge: Generic retail analytics. UA sports brand vocabulary absent.
 Programme: Sports performance brand lifecycle + UA seasonal planning intelligence + athletic apparel analytics + GEO/AEO
 Results (10 months): Page 1 for 9 Baltimore brand analytics queries | Under Armour VP: organic discovery | Pipeline: \$1.0M`,
-  faq: `FAQs — Content Marketing Baltimore`,
+  faqTitle: `FAQs — Content Marketing Baltimore`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in Baltimore?",
+    "answer": "Baltimore content marketing: $1,100/month (Foundation) to $10,000+/month (Full Programme). Johns Hopkins #1 world-class YMYL authority. T. Rowe Price FINRA-compliant institutional investment. Under Armour sports brand. Maryland retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is Johns Hopkins #1 world-class YMYL content authority for Baltimore health IT vendors?",
+    "answer": "Armstrong Institute for Patient Safety Zero Harm methodology articles, Bloomberg School epidemiology and biostatistics research community content, Johns Hopkins Medicine clinical trial innovation, Johns Hopkins Technology Ventures partnership vocabulary, at NEJM and JAMA editorial precision — the #1 YMYL content library that earns Johns Hopkins Medicine and Bloomberg School procurement organic discovery at Maryland CPCs below Boston academic medical equivalents."
+  },
+  {
+    "question": "What is T. Rowe Price FINRA-compliant institutional investment content for Baltimore businesses?",
+    "answer": "FINRA Rule 2210-compliant equity research methodology content, quantitative investment strategies operational intelligence, global fixed income portfolio analytics — within FINRA advertising rule boundaries. The institutional investment content library that earns T. Rowe Price's $1.3 trillion AUM research community organic discovery."
+  },
+  {
+    "question": "Does Clickmasters serve Towson, Columbia, Annapolis, and Greater Baltimore?",
+    "answer": "Yes — all of Greater Baltimore MSA."
+  },
+  {
+    "question": "How long does Baltimore Johns Hopkins #1 YMYL content produce results?",
+    "answer": "#1 YMYL vocabulary rankings: 5-8 months. AHRQ/NEJM community engagement: 3-5 months. Johns Hopkins Medicine organic discovery: 7-12 months. GEO/AEO JHM AI citations: 4-7 months."
+  },
+  {
+    "question": "How does GEO/AEO affect Baltimore content marketing?",
+    "answer": "Johns Hopkins Medicine's digital health community and T. Rowe Price's investment technology research teams use AI search for vendor research. First-mover GEO/AEO for Baltimore Johns Hopkins #1 YMYL and T. Rowe Price vocabulary earns ChatGPT/Perplexity citation before competitors build equivalent content authority in Baltimore's most commercially prestigious enterprise markets."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Baltimore?","acceptedAnswer":{"@type":"Answer","text":"Baltimore content marketing: \$1,100/month (Foundation) to \$10,000+/month (Full Programme). Johns Hopkins #1 world-class YMYL authority. T. Rowe Price FINRA-compliant institutional investment. Under Armour sports brand. Maryland retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Johns Hopkins #1 world-class YMYL content authority for Baltimore health IT vendors?","acceptedAnswer":{"@type":"Answer","text":"Armstrong Institute for Patient Safety Zero Harm methodology articles, Bloomberg School epidemiology and biostatistics research community content, Johns Hopkins Medicine clinical trial innovation, Johns Hopkins Technology Ventures partnership vocabulary, at NEJM and JAMA editorial precision — the #1 YMYL content library that earns Johns Hopkins Medicine and Bloomberg School procurement organic discovery at Maryland CPCs below Boston academic medical equivalents."}},{"@type":"Question","name":"What is T. Rowe Price FINRA-compliant institutional investment content for Baltimore businesses?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210-compliant equity research methodology content, quantitative investment strategies operational intelligence, global fixed income portfolio analytics — within FINRA advertising rule boundaries. The institutional investment content library that earns T. Rowe Price's \$1.3 trillion AUM research community organic discovery."}},{"@type":"Question","name":"Does Clickmasters serve Towson, Columbia, Annapolis, and Greater Baltimore?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Baltimore MSA."}},{"@type":"Question","name":"How long does Baltimore Johns Hopkins #1 YMYL content produce results?","acceptedAnswer":{"@type":"Answer","text":"#1 YMYL vocabulary rankings: 5-8 months. AHRQ/NEJM community engagement: 3-5 months. Johns Hopkins Medicine organic discovery: 7-12 months. GEO/AEO JHM AI citations: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect Baltimore content marketing?","acceptedAnswer":{"@type":"Answer","text":"Johns Hopkins Medicine's digital health community and T. Rowe Price's investment technology research teams use AI search for vendor research. First-mover GEO/AEO for Baltimore Johns Hopkins #1 YMYL and T. Rowe Price vocabulary earns ChatGPT/Perplexity citation before competitors build equivalent content authority in Baltimore's most commercially prestigious enterprise markets."}}]}`,
   cta: `Get Your Free Baltimore Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-baltimore/","/seo-services-baltimore/","/content-marketing-pittsburgh/"],
@@ -60,7 +87,7 @@ Results (10 months): Page 1 for 9 Baltimore brand analytics queries | Under Armo
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-baltimore/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

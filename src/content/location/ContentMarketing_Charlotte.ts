@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-Charlotte.xlsx
 // Service: ContentMarketing
 // City: Charlotte
-// Generated: 2026-06-19T12:50:25.104Z
+// URL: /content-marketing-charlotte/
+// Generated: 2026-06-20T04:42:10.622Z
 
 export const ContentMarketing_Charlotte = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "Charlotte",
   citySlug: "charlotte",
-  slug: "/locations/content-marketing/charlotte",
+  slug: "/content-marketing-charlotte/",
   
   h1: `Content Marketing Charlotte — Banking Capital B2B Authority, NASCAR Motorsports Technical Content, and Queen City Commercial Voice`,
   primaryKw: `content marketing agency charlotte`,
@@ -16,7 +17,7 @@ export const ContentMarketing_Charlotte = {
   seoTitle: `Content Marketing Charlotte | Banking Capital Authority & NASCAR Motorsports | Clickmasters`,
   meta: `Clickmasters content marketing in Charlotte. BofA/Truist FINRA-compliant banking operational authority, NASCAR motorsports technical content, and Atrium/Novant YMYL healthcare. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Charlotte Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-charlotte/","address":{"@type":"PostalAddress","addressLocality":"Charlotte","addressRegion":"NC","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN CHARLOTTE?
 
 Content marketing in Charlotte is the strategic creation of FINRA-compliant banking capital operational authority content, NASCAR motorsports technical community content, and Atrium Health/Novant YMYL healthcare content for Greater Charlotte businesses.
@@ -50,7 +51,33 @@ Case Study 3: Charlotte Health IT Vendor — Atrium/Novant YMYL Content
 Client: Clinical analytics SaaS, Charlotte (\$6.8M ARR). Challenge: Non-YMYL content. Atrium/Novant vocabulary absent. HIPAA non-compliant analytics.
 Programme: Atrium/Novant HCAHPS/VBP content + YMYL E-E-A-T + HIPAA analytics + GEO/AEO
 Results (10 months): Page 1 for 11 Charlotte health IT queries | Atrium Health: evaluation from content | YMYL: E-E-A-T recognised | Pipeline: \$2.0M`,
-  faq: `FAQs — Content Marketing Charlotte`,
+  faqTitle: `FAQs — Content Marketing Charlotte`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in Charlotte?",
+    "answer": "Charlotte content marketing: $1,300/month (Foundation) to $12,000+/month (Full Programme). FINRA-compliant banking capital authority. NASCAR motorsports technical community. Atrium/Novant YMYL healthcare. North Carolina retainers below NYC and Atlanta. 90-day guarantee."
+  },
+  {
+    "question": "What is FINRA-compliant banking capital content marketing for Charlotte businesses?",
+    "answer": "FINRA-compliant banking capital content integrates FINRA Rule 2210 compliance review into every content piece before publication — no guaranteed return language, no misleading performance representations, SEC Marketing Rule-compliant case study content. Banking operational vocabulary content tracks: treasury management methodology, commercial lending technology, capital markets analytics. The banking content library that earns BofA/Truist pre-engagement organic authority within FINRA compliance boundaries."
+  },
+  {
+    "question": "What is NASCAR motorsports technical content marketing for Charlotte businesses?",
+    "answer": "NASCAR motorsports technical content demonstrates genuine racing operational knowledge through race engineering methodology articles, motorsports supply chain management insights, and pit stop engineering precision content — the specific technical vocabulary that earns organic authority from Charlotte's 200+ motorsports supplier community and Team Penske/Hendrick procurement staff."
+  },
+  {
+    "question": "Does Clickmasters serve Concord, Huntersville, Mooresville, and Greater Charlotte?",
+    "answer": "Yes — all of Greater Charlotte MSA."
+  },
+  {
+    "question": "How long does Charlotte banking capital content marketing produce BofA/Truist results?",
+    "answer": "FINRA-compliant banking vocabulary rankings: 5-8 months. American Banker editorial relationships: 3-5 months. BofA/Truist organic discovery from banking content: 7-11 months. NASCAR motorsports content: 4-7 months."
+  },
+  {
+    "question": "How does GEO/AEO affect Charlotte content marketing?",
+    "answer": "Charlotte's banking and motorsports professional communities use AI search tools for vendor research. When Bank of America procurement asks ChatGPT for treasury management technology vendors in Charlotte, or Hendrick Motorsports asks Perplexity for racing engineering services suppliers in Concord, companies with first-mover GEO/AEO content signals appear in those answers."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Charlotte content marketing: \$1,300/month (Foundation) to \$12,000+/month (Full Programme). FINRA-compliant banking capital authority. NASCAR motorsports technical community. Atrium/Novant YMYL healthcare. North Carolina retainers below NYC and Atlanta. 90-day guarantee."}},{"@type":"Question","name":"What is FINRA-compliant banking capital content marketing for Charlotte businesses?","acceptedAnswer":{"@type":"Answer","text":"FINRA-compliant banking capital content integrates FINRA Rule 2210 compliance review into every content piece before publication — no guaranteed return language, no misleading performance representations, SEC Marketing Rule-compliant case study content. Banking operational vocabulary content tracks: treasury management methodology, commercial lending technology, capital markets analytics. The banking content library that earns BofA/Truist pre-engagement organic authority within FINRA compliance boundaries."}},{"@type":"Question","name":"What is NASCAR motorsports technical content marketing for Charlotte businesses?","acceptedAnswer":{"@type":"Answer","text":"NASCAR motorsports technical content demonstrates genuine racing operational knowledge through race engineering methodology articles, motorsports supply chain management insights, and pit stop engineering precision content — the specific technical vocabulary that earns organic authority from Charlotte's 200+ motorsports supplier community and Team Penske/Hendrick procurement staff."}},{"@type":"Question","name":"Does Clickmasters serve Concord, Huntersville, Mooresville, and Greater Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Charlotte MSA."}},{"@type":"Question","name":"How long does Charlotte banking capital content marketing produce BofA/Truist results?","acceptedAnswer":{"@type":"Answer","text":"FINRA-compliant banking vocabulary rankings: 5-8 months. American Banker editorial relationships: 3-5 months. BofA/Truist organic discovery from banking content: 7-11 months. NASCAR motorsports content: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect Charlotte content marketing?","acceptedAnswer":{"@type":"Answer","text":"Charlotte's banking and motorsports professional communities use AI search tools for vendor research. When Bank of America procurement asks ChatGPT for treasury management technology vendors in Charlotte, or Hendrick Motorsports asks Perplexity for racing engineering services suppliers in Concord, companies with first-mover GEO/AEO content signals appear in those answers."}}]}`,
   cta: `Get Your Free Charlotte Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-charlotte/","/seo-services-charlotte/","/content-marketing-atlanta/"],
@@ -60,7 +87,7 @@ Results (10 months): Page 1 for 11 Charlotte health IT queries | Atrium Health: 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-charlotte/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-SanDiego.xlsx
 // Service: DigitalMarketing
 // City: SanDiego
-// Generated: 2026-06-19T12:50:26.224Z
+// URL: /digital-marketing-agency-san-diego/
+// Generated: 2026-06-20T04:42:11.574Z
 
 export const DigitalMarketing_SanDiego = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "SanDiego",
   citySlug: "san-diego",
-  slug: "/locations/digital-marketing/san-diego",
+  slug: "/digital-marketing-agency-san-diego/",
   
   h1: `Digital Marketing Agency San Diego — Defence Contractor Revenue, Torrey Pines Life Science, and CCPA-Native Commercial Growth`,
   primaryKw: `digital marketing agency san diego`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_SanDiego = {
   seoTitle: `Digital Marketing Agency San Diego | Defence Contractor & Torrey Pines Life Science | Clickmasters`,
   meta: `Clickmasters digital marketing in San Diego. Defence contractor vendor revenue growth, Torrey Pines life science organic authority, and CCPA-native analytics for America's largest military city. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Diego Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-san-diego/","address":{"@type":"PostalAddress","addressLocality":"San Diego","addressRegion":"CA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN SAN DIEGO?
 
 A San Diego digital marketing agency manages digital channels for San Diego-area businesses in a market defined by two commercially distinct ecosystems: America's largest defence contractor concentration and the Torrey Pines Mesa life science capital of Southern California.
@@ -41,7 +42,33 @@ Case Study 3: La Jolla Healthcare Practice — UCSD YMYL Full Programme
 Client: Specialty medicine, La Jolla (2 physicians, UCSD Health). Challenge: Non-CCPA analytics. UCSD affiliation not visible in digital. Below-YMYL content.
 Programme: SEO + website (UCSD affiliation) + Google Ads (HIPAA) + content (YMYL) + CCPA-native analytics
 Results (10 months): CCPA-accurate measurement established | Page 1 for 11 La Jolla specialty queries | New patients from digital: +3x | UCSD display: cited in patient surveys`,
-  faq: `FAQs — Digital Marketing San Diego`,
+  faqTitle: `FAQs — Digital Marketing San Diego`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in San Diego?",
+    "answer": "San Diego digital marketing: $1,800/month (single channel) to $20,000+/month (enterprise). ITAR-bounded defence vocabulary. FDA-aware life science. CCPA-native analytics. HIPAA healthcare. 90-day guarantee."
+  },
+  {
+    "question": "Which digital channels work best for San Diego defence contractor vendors?",
+    "answer": "(1) SEO — ITAR-bounded CMMC/AS9100D/DCAA vocabulary for new DoD procurement managers arriving without existing vendor relationships. (2) LinkedIn — NAVWAR/Northrop/Leidos community defence professional thought leadership. (3) Email — named account pipeline nurture for NAVWAR/Northrop/Leidos procurement contacts. (4) Google Ads — CMMC/NIST vocabulary defence procurement PPC."
+  },
+  {
+    "question": "Does Clickmasters serve La Jolla, Chula Vista, Oceanside, and Greater San Diego?",
+    "answer": "Yes — all of San Diego County and the full San Diego MSA."
+  },
+  {
+    "question": "How quickly does San Diego defence contractor digital marketing produce results?",
+    "answer": "ITAR-bounded defence SEO vocabulary rankings: 5-8 months. LinkedIn NAVWAR/Northrop community connections: 2-4 months. CMMC Google Ads leads: 7-14 days. First defence evaluation invitation from integrated programme: 4-6 months."
+  },
+  {
+    "question": "What is CCPA-native measurement for San Diego digital marketing?",
+    "answer": "CCPA-native analytics excludes California opt-out data from all channel performance measurement — organic sessions, Google Ads conversions, email open rates — producing accurate commercial performance data. San Diego businesses with non-CCPA analytics systematically overreport performance by 25-35%, creating false confidence in underperforming programmes."
+  },
+  {
+    "question": "How does GEO/AEO affect San Diego digital marketing?",
+    "answer": "San Diego's defence contractor and life science professional communities use AI search tools for professional research. When NAVWAR procurement asks ChatGPT for CMMC Level 2 cybersecurity vendors in San Diego, or Pfizer asks Perplexity for Phase I CROs in Torrey Pines, companies with GEO/AEO signals appear in those answers."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in San Diego?","acceptedAnswer":{"@type":"Answer","text":"San Diego digital marketing: \$1,800/month (single channel) to \$20,000+/month (enterprise). ITAR-bounded defence vocabulary. FDA-aware life science. CCPA-native analytics. HIPAA healthcare. 90-day guarantee."}},{"@type":"Question","name":"Which digital channels work best for San Diego defence contractor vendors?","acceptedAnswer":{"@type":"Answer","text":"(1) SEO — ITAR-bounded CMMC/AS9100D/DCAA vocabulary for new DoD procurement managers arriving without existing vendor relationships. (2) LinkedIn — NAVWAR/Northrop/Leidos community defence professional thought leadership. (3) Email — named account pipeline nurture for NAVWAR/Northrop/Leidos procurement contacts. (4) Google Ads — CMMC/NIST vocabulary defence procurement PPC."}},{"@type":"Question","name":"Does Clickmasters serve La Jolla, Chula Vista, Oceanside, and Greater San Diego?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of San Diego County and the full San Diego MSA."}},{"@type":"Question","name":"How quickly does San Diego defence contractor digital marketing produce results?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded defence SEO vocabulary rankings: 5-8 months. LinkedIn NAVWAR/Northrop community connections: 2-4 months. CMMC Google Ads leads: 7-14 days. First defence evaluation invitation from integrated programme: 4-6 months."}},{"@type":"Question","name":"What is CCPA-native measurement for San Diego digital marketing?","acceptedAnswer":{"@type":"Answer","text":"CCPA-native analytics excludes California opt-out data from all channel performance measurement — organic sessions, Google Ads conversions, email open rates — producing accurate commercial performance data. San Diego businesses with non-CCPA analytics systematically overreport performance by 25-35%, creating false confidence in underperforming programmes."}},{"@type":"Question","name":"How does GEO/AEO affect San Diego digital marketing?","acceptedAnswer":{"@type":"Answer","text":"San Diego's defence contractor and life science professional communities use AI search tools for professional research. When NAVWAR procurement asks ChatGPT for CMMC Level 2 cybersecurity vendors in San Diego, or Pfizer asks Perplexity for Phase I CROs in Torrey Pines, companies with GEO/AEO signals appear in those answers."}}]}`,
   cta: `Get Your Free San Diego Digital Marketing Audit`,
   internalLinks: ["/seo-services-san-diego/","/digital-marketing-agency-usa/","/digital-marketing-agency-los-angeles/","/digital-marketing-agency-san-francisco/"],
@@ -51,7 +78,7 @@ Results (10 months): CCPA-accurate measurement established | Page 1 for 11 La Jo
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-san-diego/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

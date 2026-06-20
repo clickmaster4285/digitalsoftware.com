@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Tampa.xlsx
 // Service: GoogleAds
 // City: Tampa
-// Generated: 2026-06-19T12:50:27.290Z
+// URL: /google-ads-management-tampa/
+// Generated: 2026-06-20T04:42:12.917Z
 
 export const GoogleAds_Tampa = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "Tampa",
   citySlug: "tampa",
-  slug: "/locations/google-ads/tampa",
+  slug: "/google-ads-management-tampa/",
   
   h1: `Google Ads Management Tampa — Moffitt/TGH HIPAA Healthcare PPC, MacDill Military, and Florida SB 262-Compliant Campaigns`,
   primaryKw: `google ads agency tampa`,
@@ -16,7 +17,7 @@ export const GoogleAds_Tampa = {
   seoTitle: `Google Ads Agency Tampa | Moffitt HIPAA Healthcare & MacDill Military PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Tampa. Moffitt Cancer Centre HIPAA healthcare PPC, MacDill AFB military community, and Florida SB 262 Consent Mode v2 campaigns for Tampa Bay. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tampa Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-tampa/","address":{"@type":"PostalAddress","addressLocality":"Tampa","addressRegion":"FL","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN TAMPA?
 
 Google Ads management in Tampa is the professional management of PPC advertising across three commercially distinct campaign categories: Moffitt Cancer Center/Tampa General Hospital HIPAA-compliant healthcare, MacDill AFB military community professional services, and Florida SB 262-compliant consumer and professional services campaigns.
@@ -41,7 +42,33 @@ Case Study 3: Tampa Healthcare Practice — SB 262 HIPAA Patient Acquisition
 Client: Internal medicine, South Tampa (TGH-affiliated). Challenge: Non-SB 262 Consent Mode. Non-HIPAA tracking. Non-TGH vocabulary.
 Programme: SB 262 Consent Mode v2 + HIPAA server-side + TGH vocabulary + South Tampa audience
 Results: HIPAA/SB 262: Florida AG pre-audit passed | Accurate conversion tracking: established | New patients from paid: +3x`,
-  faq: `FAQs — Google Ads Tampa`,
+  faqTitle: `FAQs — Google Ads Tampa`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Tampa?",
+    "answer": "Tampa Google Ads: $1,100/month (Growth) to $10,000+/month (Enterprise). Moffitt/TGH NCI healthcare vocabulary. MacDill military TSP/SCRA/VA. Florida SB 262 Consent Mode v2. HIPAA-compliant. Florida CPCs 15-20% below NYC. 90-day guarantee."
+  },
+  {
+    "question": "What is MacDill military community Google Ads for Tampa businesses?",
+    "answer": "MacDill military Google Ads targets CENTCOM and SOCOM military professionals in South Tampa and Tampa Bay using military-specific vocabulary: 'fee-only financial adviser Tampa military TSP,' 'SCRA-aware mortgage specialist MacDill,' 'VA loan specialist South Tampa.' These searches have above-average conversion intent and below-average competition — creating a first-mover opportunity for Tampa professional services businesses calibrated to the MacDill military community vocabulary."
+  },
+  {
+    "question": "What is Florida SB 262 Consent Mode v2 for Tampa Google Ads?",
+    "answer": "SB 262 Consent Mode v2 implements Florida-compliant consent management for Google Ads conversion tracking, producing accurate conversion counts that avoid Florida AG enforcement exposure. Tampa businesses without SB 262 Consent Mode v2 overstate Google Ads conversions 10-20% due to Florida opt-out rates."
+  },
+  {
+    "question": "Does Clickmasters serve St. Petersburg, Clearwater, and Greater Tampa Bay?",
+    "answer": "Yes — all of Tampa Bay: Hillsborough, Pinellas, Pasco, and Sarasota Counties."
+  },
+  {
+    "question": "How quickly does Tampa MacDill military Google Ads produce professional results?",
+    "answer": "MacDill military vocabulary clicks: 7-14 days. Military community qualified leads: 14-30 days. Military community professional client conversion: 30-90 days."
+  },
+  {
+    "question": "How do Tampa Google Ads CPCs compare to NYC and Atlanta?",
+    "answer": "Florida CPCs 15-20% below New York equivalents. Tampa CPCs competitive with Atlanta for professional services. MacDill military vocabulary CPCs significantly below national defence community averages due to low advertiser competition for Florida military-specific vocabulary."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Tampa?","acceptedAnswer":{"@type":"Answer","text":"Tampa Google Ads: \$1,100/month (Growth) to \$10,000+/month (Enterprise). Moffitt/TGH NCI healthcare vocabulary. MacDill military TSP/SCRA/VA. Florida SB 262 Consent Mode v2. HIPAA-compliant. Florida CPCs 15-20% below NYC. 90-day guarantee."}},{"@type":"Question","name":"What is MacDill military community Google Ads for Tampa businesses?","acceptedAnswer":{"@type":"Answer","text":"MacDill military Google Ads targets CENTCOM and SOCOM military professionals in South Tampa and Tampa Bay using military-specific vocabulary: 'fee-only financial adviser Tampa military TSP,' 'SCRA-aware mortgage specialist MacDill,' 'VA loan specialist South Tampa.' These searches have above-average conversion intent and below-average competition — creating a first-mover opportunity for Tampa professional services businesses calibrated to the MacDill military community vocabulary."}},{"@type":"Question","name":"What is Florida SB 262 Consent Mode v2 for Tampa Google Ads?","acceptedAnswer":{"@type":"Answer","text":"SB 262 Consent Mode v2 implements Florida-compliant consent management for Google Ads conversion tracking, producing accurate conversion counts that avoid Florida AG enforcement exposure. Tampa businesses without SB 262 Consent Mode v2 overstate Google Ads conversions 10-20% due to Florida opt-out rates."}},{"@type":"Question","name":"Does Clickmasters serve St. Petersburg, Clearwater, and Greater Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Tampa Bay: Hillsborough, Pinellas, Pasco, and Sarasota Counties."}},{"@type":"Question","name":"How quickly does Tampa MacDill military Google Ads produce professional results?","acceptedAnswer":{"@type":"Answer","text":"MacDill military vocabulary clicks: 7-14 days. Military community qualified leads: 14-30 days. Military community professional client conversion: 30-90 days."}},{"@type":"Question","name":"How do Tampa Google Ads CPCs compare to NYC and Atlanta?","acceptedAnswer":{"@type":"Answer","text":"Florida CPCs 15-20% below New York equivalents. Tampa CPCs competitive with Atlanta for professional services. MacDill military vocabulary CPCs significantly below national defence community averages due to low advertiser competition for Florida military-specific vocabulary."}}]}`,
   cta: `Get Your Free Tampa Google Ads Audit`,
   internalLinks: ["/digital-marketing-agency-tampa/","/seo-services-tampa/","/google-ads-management-services/","/google-ads-management-miami/"],
@@ -51,7 +78,7 @@ Results: HIPAA/SB 262: Florida AG pre-audit passed | Accurate conversion trackin
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-tampa/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

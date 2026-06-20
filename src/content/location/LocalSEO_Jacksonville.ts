@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Jacksonville.xlsx
 // Service: LocalSEO
 // City: Jacksonville
-// Generated: 2026-06-19T12:50:27.486Z
+// URL: /local-seo-services-jacksonville/
+// Generated: 2026-06-20T04:42:13.102Z
 
 export const LocalSEO_Jacksonville = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "Jacksonville",
   citySlug: "jacksonville",
-  slug: "/locations/local-seo/jacksonville",
+  slug: "/local-seo-services-jacksonville/",
   
   h1: `Local SEO Jacksonville — FIS Global Proximity GBP, Baptist Health/Nemours Academic Medical, and Ponte Vedra/St. Johns Professional Quality`,
   primaryKw: `local seo services jacksonville`,
@@ -16,7 +17,7 @@ export const LocalSEO_Jacksonville = {
   seoTitle: `Local SEO Jacksonville | FIS Global Proximity GBP & Baptist Health/Nemours YMYL | Clickmasters`,
   meta: `Clickmasters Local SEO in Jacksonville. FIS Global world-largest-fintech proximity GBP, Baptist Health/Nemours academic medical credential, and Ponte Vedra/St. Johns professional quality standard. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Jacksonville Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-jacksonville/","address":{"@type":"PostalAddress","addressLocality":"Jacksonville","addressRegion":"FL","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3500,
   geoAeoBlock: `WHAT IS LOCAL SEO IN JACKSONVILLE?
 
 Local SEO in Jacksonville is the practice of optimising Google Business Profiles for the top 3 of Greater Jacksonville's Local Pack — in a market where FIS Global's downtown Jacksonville campus creates world-largest-fintech B2B proximity GBP commercial value, Baptist Health and Nemours Wolfson define the academic YMYL healthcare standard, and Ponte Vedra Beach and St. Johns represent the highest-income professional communities in Northeast Florida.
@@ -41,7 +42,33 @@ Case Study 3: Downtown Jacksonville Professional Services — FIS Proximity GBP
 Client: Banking consulting, downtown Jacksonville. Challenge: No FIS fintech vocabulary. Generic professional services GBP.
 Programme: FIS payment/banking vocabulary + world-largest-fintech proximity + financial technology photography + SB 262-native
 Results (3 months): Top 3 Local Pack Jacksonville fintech consulting | FIS community near-me: +3x`,
-  faq: `FAQs — Local SEO Jacksonville`,
+  faqTitle: `FAQs — Local SEO Jacksonville`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in Jacksonville?",
+    "answer": "Jacksonville Local SEO: $900/month (single) to $9,000+/month (enterprise). FIS Global world-largest-fintech proximity GBP. Baptist Health/Nemours YMYL academic medical. Ponte Vedra/St. Johns professional quality. HIPAA/FINRA/SB 262 review management. Florida retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is FIS Global world-largest-fintech proximity GBP for Jacksonville businesses?",
+    "answer": "FIS payment/banking/wealth vocabulary in GBP service descriptions, FIS Global downtown Jacksonville campus proximity signals, and financial technology professional photography — earning above-average B2B near-me consideration from the world's largest fintech company's 130-country Jacksonville headquarters community."
+  },
+  {
+    "question": "Does Clickmasters serve Ponte Vedra Beach, Orange Park, St. Johns, and Greater Jacksonville?",
+    "answer": "Yes — all of Greater Jacksonville MSA."
+  },
+  {
+    "question": "How many reviews for Jacksonville Local Pack?",
+    "answer": "Northeast Florida benchmarks: Ponte Vedra Beach/St. Johns professional services: 4.5+ stars, 60-110+ reviews. Baptist Health/Nemours-adjacent healthcare: 4.4+, 50-100+. Downtown Jacksonville fintech B2B: 4.3+, 35-65+."
+  },
+  {
+    "question": "What is the Ponte Vedra Beach professional quality GBP standard for Jacksonville?",
+    "answer": "Ponte Vedra Beach — home to many FIS Global SVPs, Florida Blue executives, and Landstar senior management — evaluates GBPs with the Northeast Florida Fortune 500 executive precision: CFA Institute-verified credentials for financial advisory, Baptist Health affiliation for healthcare, and the coastal professional photography quality that internationally-recruited FIS Global executives from London, Sydney, and Singapore expect from Jacksonville's most affluent coastal community."
+  },
+  {
+    "question": "What is Florida SB 262-native review management for Jacksonville Local SEO?",
+    "answer": "SB 262-compliant consent management for review request email data collection and SB 262-accurate GBP review analytics — protecting Jacksonville businesses from Florida AG enforcement exposure on every review request sent to Florida residents."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Jacksonville?","acceptedAnswer":{"@type":"Answer","text":"Jacksonville Local SEO: \$900/month (single) to \$9,000+/month (enterprise). FIS Global world-largest-fintech proximity GBP. Baptist Health/Nemours YMYL academic medical. Ponte Vedra/St. Johns professional quality. HIPAA/FINRA/SB 262 review management. Florida retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is FIS Global world-largest-fintech proximity GBP for Jacksonville businesses?","acceptedAnswer":{"@type":"Answer","text":"FIS payment/banking/wealth vocabulary in GBP service descriptions, FIS Global downtown Jacksonville campus proximity signals, and financial technology professional photography — earning above-average B2B near-me consideration from the world's largest fintech company's 130-country Jacksonville headquarters community."}},{"@type":"Question","name":"Does Clickmasters serve Ponte Vedra Beach, Orange Park, St. Johns, and Greater Jacksonville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Jacksonville MSA."}},{"@type":"Question","name":"How many reviews for Jacksonville Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Northeast Florida benchmarks: Ponte Vedra Beach/St. Johns professional services: 4.5+ stars, 60-110+ reviews. Baptist Health/Nemours-adjacent healthcare: 4.4+, 50-100+. Downtown Jacksonville fintech B2B: 4.3+, 35-65+."}},{"@type":"Question","name":"What is the Ponte Vedra Beach professional quality GBP standard for Jacksonville?","acceptedAnswer":{"@type":"Answer","text":"Ponte Vedra Beach — home to many FIS Global SVPs, Florida Blue executives, and Landstar senior management — evaluates GBPs with the Northeast Florida Fortune 500 executive precision: CFA Institute-verified credentials for financial advisory, Baptist Health affiliation for healthcare, and the coastal professional photography quality that internationally-recruited FIS Global executives from London, Sydney, and Singapore expect from Jacksonville's most affluent coastal community."}},{"@type":"Question","name":"What is Florida SB 262-native review management for Jacksonville Local SEO?","acceptedAnswer":{"@type":"Answer","text":"SB 262-compliant consent management for review request email data collection and SB 262-accurate GBP review analytics — protecting Jacksonville businesses from Florida AG enforcement exposure on every review request sent to Florida residents."}}]}`,
   cta: `Get Your Free Jacksonville Local SEO Audit`,
   internalLinks: ["/local-seo-services/","/seo-services-jacksonville/","/digital-marketing-agency-jacksonville/","/local-seo-services-orlando/"],
@@ -51,7 +78,7 @@ Results (3 months): Top 3 Local Pack Jacksonville fintech consulting | FIS commu
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-jacksonville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

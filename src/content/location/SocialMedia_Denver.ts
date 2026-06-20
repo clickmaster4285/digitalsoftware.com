@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Denver.xlsx
 // Service: SocialMedia
 // City: Denver
-// Generated: 2026-06-19T12:50:28.456Z
+// URL: /social-media-marketing-denver/
+// Generated: 2026-06-20T04:42:14.091Z
 
 export const SocialMedia_Denver = {
   service: "SocialMedia",
   serviceSlug: "social-media",
   city: "Denver",
   citySlug: "denver",
-  slug: "/locations/social-media/denver",
+  slug: "/social-media-marketing-denver/",
   
   h1: `Social Media Marketing Denver — Aerospace LinkedIn, NREL Clean Energy Community, and Colorado Authentic Social`,
   primaryKw: `social media marketing denver`,
@@ -16,7 +17,7 @@ export const SocialMedia_Denver = {
   seoTitle: `Social Media Marketing Denver | Aerospace LinkedIn & NREL Clean Energy | Clickmasters`,
   meta: `Clickmasters social media marketing in Denver. ITAR-aware aerospace LinkedIn authority, NREL clean energy community engagement, and Colorado in-migration professional social programmes. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Denver Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-denver/","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN DENVER?
 
 Social media marketing in Denver is the strategic management of social platforms for Denver-area businesses — with LinkedIn as the primary B2B commercial channel in a market shaped by defence aerospace precision, clean energy authenticity, and the in-migration professionals who have brought Pacific Coast and Texas commercial social standards to Colorado.
@@ -41,7 +42,33 @@ Case Study 3: Cherry Creek Financial Advisory — CA In-Migration Professional L
 Client: RIA, Cherry Creek (\$380M AUM). Challenge: CA in-migrant HNW professionals not finding Cherry Creek advisers via social.
 Programme: CA-to-CO content + Cherry Creek authentic neighbourhood LinkedIn + FINRA-compliant + in-migration community
 Results (6 months): CA in-migrant professional connections: +3x | FINRA compliance: clean throughout | LinkedIn HNW enquiries: +3x | New AUM from LinkedIn-attributed: \$44M`,
-  faq: `FAQs — Social Media Marketing Denver`,
+  faqTitle: `FAQs — Social Media Marketing Denver`,
+  faqs: [
+  {
+    "question": "How much does social media marketing cost in Denver?",
+    "answer": "Denver social media: $1,600/month (LinkedIn growth) to $18,000+/month (enterprise). ITAR-aware aerospace content review. NREL citation accuracy for clean energy. FINRA-compliant for financial services. 90-day performance guarantee."
+  },
+  {
+    "question": "What is ITAR-aware LinkedIn for Denver aerospace companies?",
+    "answer": "ITAR-aware LinkedIn content uses publicly releasable defence vocabulary: AS9100D programme management insights, DCAA compliance commentary, defence supply chain resilience analysis. It does not reference specific classified programme names, performance parameters for active defence systems, or technical details about export-controlled equipment. The ITAR-aware LinkedIn content that builds Lockheed Martin and Ball Aerospace credibility without creating export control exposure."
+  },
+  {
+    "question": "What is NREL clean energy LinkedIn for Denver companies?",
+    "answer": "NREL clean energy LinkedIn content cites specific NREL Technical Reports with accuracy (not generic 'NREL research' attributions), references DOE programme outcomes with specific programme names, and demonstrates genuine operational knowledge of Colorado's clean energy ecosystem. Denver's clean energy LinkedIn community is technically sophisticated and recognises the difference between NREL-evidenced content and aspirational green brand messaging."
+  },
+  {
+    "question": "Does Clickmasters serve Boulder, Colorado Springs, and Greater Denver?",
+    "answer": "Yes — all of Colorado including Boulder (University of Colorado, clean tech), Colorado Springs (Space Force, defence contractors), Fort Collins, Aurora, and the full state."
+  },
+  {
+    "question": "How does Colorado in-migration affect Denver social media strategy?",
+    "answer": "Denver's 20%+ in-migration from California, Texas, and New York has imported professional social media standards from those markets. Cherry Creek financial advisory and professional services firms benefit from LinkedIn content addressing specific California-to-Colorado transition topics (state income tax, RSU taxation, healthcare provider selection) — the in-migration professional vocabulary that earns above-average engagement from Denver's newly arrived professional community."
+  },
+  {
+    "question": "How does Clickmasters measure Denver social media commercial outcomes?",
+    "answer": "By commercial sector: Aerospace LinkedIn — Ball/Lockheed programme manager connections and vendor evaluation invitations. Clean energy LinkedIn — NREL community connections and investor enquiries. In-migration professional — CA/TX in-migrant professional connections and HNW advisory enquiries."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Denver?","acceptedAnswer":{"@type":"Answer","text":"Denver social media: \$1,600/month (LinkedIn growth) to \$18,000+/month (enterprise). ITAR-aware aerospace content review. NREL citation accuracy for clean energy. FINRA-compliant for financial services. 90-day performance guarantee."}},{"@type":"Question","name":"What is ITAR-aware LinkedIn for Denver aerospace companies?","acceptedAnswer":{"@type":"Answer","text":"ITAR-aware LinkedIn content uses publicly releasable defence vocabulary: AS9100D programme management insights, DCAA compliance commentary, defence supply chain resilience analysis. It does not reference specific classified programme names, performance parameters for active defence systems, or technical details about export-controlled equipment. The ITAR-aware LinkedIn content that builds Lockheed Martin and Ball Aerospace credibility without creating export control exposure."}},{"@type":"Question","name":"What is NREL clean energy LinkedIn for Denver companies?","acceptedAnswer":{"@type":"Answer","text":"NREL clean energy LinkedIn content cites specific NREL Technical Reports with accuracy (not generic 'NREL research' attributions), references DOE programme outcomes with specific programme names, and demonstrates genuine operational knowledge of Colorado's clean energy ecosystem. Denver's clean energy LinkedIn community is technically sophisticated and recognises the difference between NREL-evidenced content and aspirational green brand messaging."}},{"@type":"Question","name":"Does Clickmasters serve Boulder, Colorado Springs, and Greater Denver?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Colorado including Boulder (University of Colorado, clean tech), Colorado Springs (Space Force, defence contractors), Fort Collins, Aurora, and the full state."}},{"@type":"Question","name":"How does Colorado in-migration affect Denver social media strategy?","acceptedAnswer":{"@type":"Answer","text":"Denver's 20%+ in-migration from California, Texas, and New York has imported professional social media standards from those markets. Cherry Creek financial advisory and professional services firms benefit from LinkedIn content addressing specific California-to-Colorado transition topics (state income tax, RSU taxation, healthcare provider selection) — the in-migration professional vocabulary that earns above-average engagement from Denver's newly arrived professional community."}},{"@type":"Question","name":"How does Clickmasters measure Denver social media commercial outcomes?","acceptedAnswer":{"@type":"Answer","text":"By commercial sector: Aerospace LinkedIn — Ball/Lockheed programme manager connections and vendor evaluation invitations. Clean energy LinkedIn — NREL community connections and investor enquiries. In-migration professional — CA/TX in-migrant professional connections and HNW advisory enquiries."}}]}`,
   cta: `Get Your Free Denver Social Media Audit`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-denver/","/seo-services-denver/","/social-media-marketing-seattle/","/industries/manufacturing/","/industries/clean-energy/"],
@@ -51,7 +78,7 @@ Results (6 months): CA in-migrant professional connections: +3x | FINRA complian
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /social-media-marketing-denver/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Indianapolis.xlsx
 // Service: GoogleAds
 // City: Indianapolis
-// Generated: 2026-06-19T12:50:26.962Z
+// URL: /google-ads-management-indianapolis/
+// Generated: 2026-06-20T04:42:12.375Z
 
 export const GoogleAds_Indianapolis = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "Indianapolis",
   citySlug: "indianapolis",
-  slug: "/locations/google-ads/indianapolis",
+  slug: "/google-ads-management-indianapolis/",
   
   h1: `Google Ads Management Indianapolis — Eli Lilly GMP Pharma PPC, Cummins Enterprise, and Indiana Commercial Capital Campaigns`,
   primaryKw: `google ads agency indianapolis`,
@@ -16,7 +17,7 @@ export const GoogleAds_Indianapolis = {
   seoTitle: `Google Ads Agency Indianapolis | Eli Lilly GMP Pharma & Cummins Enterprise PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Indianapolis. Eli Lilly GMP pharmaceutical B2B PPC, Cummins commercial power enterprise, and IU Health HIPAA healthcare at Indiana CPC efficiency. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Indianapolis Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-indianapolis/","address":{"@type":"PostalAddress","addressLocality":"Indianapolis","addressRegion":"IN","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN INDIANAPOLIS?
 
 Google Ads management in Indianapolis is the professional management of PPC advertising across three commercially distinct campaign categories: Eli Lilly pharmaceutical GMP/FDA vocabulary, Cummins/Simon Property Fortune 500 enterprise, and IU Health HIPAA-compliant healthcare.
@@ -41,7 +42,33 @@ Case Study 3: Carmel Healthcare Practice — IU Health HIPAA Patient Acquisition
 Client: Internal medicine, Carmel (IU Health-adjacent). Challenge: Non-HIPAA conversion tracking. Generic 'Carmel doctor' PPC.
 Programme: HIPAA server-side + IU Health community vocabulary + Carmel professional audience
 Results: HIPAA: clean | IU community CPL: \$130 vs \$360 generic Carmel | New patients from paid: +3x`,
-  faq: `FAQs — Google Ads Indianapolis`,
+  faqTitle: `FAQs — Google Ads Indianapolis`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Indianapolis?",
+    "answer": "Indianapolis Google Ads: $1,100/month (Growth) to $10,000+/month (Enterprise). Eli Lilly GMP/FDA pharmaceutical vocabulary. Cummins enterprise commercial power. IU Health HIPAA. FINRA financial. Indiana CPCs 20-30% below Boston/Chicago. 90-day guarantee."
+  },
+  {
+    "question": "What is Eli Lilly GMP pharmaceutical Google Ads for Indianapolis businesses?",
+    "answer": "Eli Lilly GMP Google Ads targets pharmaceutical manufacturing operational vocabulary: 'GMP API manufacturing consultant Indianapolis,' 'CMC regulatory consulting Lilly vendor Indiana,' 'IND/NDA submission consultant Indianapolis pharma.' These searches earn above-average conversion intent from Lilly's Indianapolis headquarters procurement community at Indiana CPCs significantly below equivalent Boston and San Francisco pharmaceutical vocabulary searches."
+  },
+  {
+    "question": "What is Cummins enterprise commercial power Google Ads for Indianapolis?",
+    "answer": "Cummins enterprise campaigns target commercial engine and power solutions operational vocabulary: fleet management technology for Cummins engines, commercial diesel analytics software, clean transportation fleet optimisation, and Cummins distribution network technology. The specific Cummins operational vocabulary that reaches Indianapolis's most commercially significant manufacturing enterprise procurement community."
+  },
+  {
+    "question": "Does Clickmasters serve Carmel, Fishers, Zionsville, and Greater Indianapolis?",
+    "answer": "Yes — all of Greater Indianapolis MSA."
+  },
+  {
+    "question": "How quickly does Indianapolis Eli Lilly pharmaceutical Google Ads produce results?",
+    "answer": "GMP vocabulary clicks: 7-14 days. Lilly-qualified evaluation leads: 30-60 days. CRM-attributed pharmaceutical pipeline: 90-150 days."
+  },
+  {
+    "question": "How do Indianapolis Google Ads CPCs compare to Chicago and Boston?",
+    "answer": "Indiana CPCs 20-30% below Boston for pharmaceutical vocabulary equivalents. 10-15% below Chicago for professional services equivalents. Eli Lilly pharmaceutical vocabulary CPCs are competitive in Indianapolis but significantly below Boston and San Francisco pharmaceutical consulting equivalents."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Indianapolis Google Ads: \$1,100/month (Growth) to \$10,000+/month (Enterprise). Eli Lilly GMP/FDA pharmaceutical vocabulary. Cummins enterprise commercial power. IU Health HIPAA. FINRA financial. Indiana CPCs 20-30% below Boston/Chicago. 90-day guarantee."}},{"@type":"Question","name":"What is Eli Lilly GMP pharmaceutical Google Ads for Indianapolis businesses?","acceptedAnswer":{"@type":"Answer","text":"Eli Lilly GMP Google Ads targets pharmaceutical manufacturing operational vocabulary: 'GMP API manufacturing consultant Indianapolis,' 'CMC regulatory consulting Lilly vendor Indiana,' 'IND/NDA submission consultant Indianapolis pharma.' These searches earn above-average conversion intent from Lilly's Indianapolis headquarters procurement community at Indiana CPCs significantly below equivalent Boston and San Francisco pharmaceutical vocabulary searches."}},{"@type":"Question","name":"What is Cummins enterprise commercial power Google Ads for Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Cummins enterprise campaigns target commercial engine and power solutions operational vocabulary: fleet management technology for Cummins engines, commercial diesel analytics software, clean transportation fleet optimisation, and Cummins distribution network technology. The specific Cummins operational vocabulary that reaches Indianapolis's most commercially significant manufacturing enterprise procurement community."}},{"@type":"Question","name":"Does Clickmasters serve Carmel, Fishers, Zionsville, and Greater Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Indianapolis MSA."}},{"@type":"Question","name":"How quickly does Indianapolis Eli Lilly pharmaceutical Google Ads produce results?","acceptedAnswer":{"@type":"Answer","text":"GMP vocabulary clicks: 7-14 days. Lilly-qualified evaluation leads: 30-60 days. CRM-attributed pharmaceutical pipeline: 90-150 days."}},{"@type":"Question","name":"How do Indianapolis Google Ads CPCs compare to Chicago and Boston?","acceptedAnswer":{"@type":"Answer","text":"Indiana CPCs 20-30% below Boston for pharmaceutical vocabulary equivalents. 10-15% below Chicago for professional services equivalents. Eli Lilly pharmaceutical vocabulary CPCs are competitive in Indianapolis but significantly below Boston and San Francisco pharmaceutical consulting equivalents."}}]}`,
   cta: `Get Your Free Indianapolis Google Ads Audit`,
   internalLinks: ["/digital-marketing-agency-indianapolis/","/seo-services-indianapolis/","/google-ads-management-services/","/google-ads-management-chicago/"],
@@ -51,7 +78,7 @@ Results: HIPAA: clean | IU community CPL: \$130 vs \$360 generic Carmel | New pa
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-indianapolis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

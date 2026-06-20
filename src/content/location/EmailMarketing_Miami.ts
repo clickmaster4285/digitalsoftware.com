@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Miami.xlsx
 // Service: EmailMarketing
 // City: Miami
-// Generated: 2026-06-19T12:50:26.513Z
+// URL: /email-marketing-miami/
+// Generated: 2026-06-20T04:42:11.978Z
 
 export const EmailMarketing_Miami = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "Miami",
   citySlug: "miami",
-  slug: "/locations/email-marketing/miami",
+  slug: "/email-marketing-miami/",
   
   h1: `Email Marketing Miami — Bilingual LATAM Pipeline, Florida SB 262 Compliance, and Brickell Financial Relationship Nurture`,
   primaryKw: `email marketing agency miami`,
@@ -16,7 +17,7 @@ export const EmailMarketing_Miami = {
   seoTitle: `Email Marketing Agency Miami | Bilingual LATAM & Florida SB 262 | Clickmasters`,
   meta: `Clickmasters email marketing in Miami. Bilingual English/Spanish LATAM pipeline nurture, Florida SB 262-compliant Klaviyo, and Brickell financial HubSpot for South Florida. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Miami Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-miami/","address":{"@type":"PostalAddress","addressLocality":"Miami","addressRegion":"FL","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN MIAMI?
 
 Email marketing in Miami is the strategic management of email as a bilingual English/Spanish LATAM pipeline, Florida SB 262-compliant consumer revenue, and Brickell FINRA-aware financial services channel — calibrated to Miami's commercial imperative as America's most commercially bilingual major city.
@@ -50,7 +51,33 @@ Case Study 3: Wynwood DTC Brand — SB 262-Compliant Bilingual Klaviyo
 Client: Lifestyle DTC, Wynwood (\$4.8M Shopify). Challenge: Non-SB 262 Klaviyo. English-only email below Miami bilingual consumer standard.
 Programme: SB 262-compliant Klaviyo + bilingual English/Spanish automation + server-side Shopify + bilingual Miami consumer content
 Results: SB 262: Florida AG pre-audit passed | Spanish email engagement: 3.4x above English for Spanish-preference subscribers | Email revenue: 8% to 24% of total | Total email revenue: +\$280K`,
-  faq: `FAQs — Email Marketing Miami`,
+  faqTitle: `FAQs — Email Marketing Miami`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Miami?",
+    "answer": "Miami email marketing: $900/month (Foundation) to $9,500+/month (Enterprise). Bilingual English/Spanish standard. Florida SB 262 compliance. FINRA for financial. HIPAA for healthcare. 90-day performance guarantee."
+  },
+  {
+    "question": "What is bilingual LATAM pipeline email marketing for Miami businesses?",
+    "answer": "Bilingual LATAM pipeline email uses HubSpot language-conditional automation: English-language professional communications for English-preference contacts, Spanish-language for Spanish-preference — automatically triggered by language preference data. Community-specific content tracks for Venezuelan estate planning, Colombian corporate structures, Argentine currency hedging, and Brazilian FBAR reporting. FINRA-compliant bilingual investment email for Brickell financial advisory clients."
+  },
+  {
+    "question": "What is Florida SB 262-compliant email marketing in Miami?",
+    "answer": "Florida SB 262 (effective July 2024) requires consumer data consent management for email subscriber data collection, marketing automation data handling, and email analytics. SB 262-compliant email architecture implements consent management for subscriber data, appropriate data minimisation in email analytics events, and SB 262-reviewed unsubscribe and data rights management. Non-SB 262 email programmes create Florida AG enforcement exposure with every subscriber interaction."
+  },
+  {
+    "question": "Does Clickmasters provide FINRA-compliant bilingual email for Brickell financial services?",
+    "answer": "Yes. FINRA Rule 2210-compliant bilingual investment email: English and Spanish investment commentary both FINRA-reviewed before distribution. Bilingual GIPS-compliant performance communication. Bilingual LATAM estate and tax planning content. ADV Part 2 bilingual annual update email. The bilingual investment email programme that maintains Brickell's LATAM HNW client relationships while meeting FINRA standards in both languages."
+  },
+  {
+    "question": "Does Clickmasters serve Coral Gables, Doral, Aventura, and South Florida?",
+    "answer": "Yes — all of Miami-Dade and Broward Counties including Coral Gables, Doral, Aventura, Hialeah, Fort Lauderdale, Boca Raton."
+  },
+  {
+    "question": "How long does Miami bilingual email produce LATAM results?",
+    "answer": "Miami bilingual email timelines: first LATAM client engagement uplift from language-conditional email: 14-30 days. LATAM referral introductions from bilingual programme: 60-90 days. Full LATAM client retention improvement measurable: 3-5 months. Florida SB 262 compliance implementation: 2-3 weeks."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Miami?","acceptedAnswer":{"@type":"Answer","text":"Miami email marketing: \$900/month (Foundation) to \$9,500+/month (Enterprise). Bilingual English/Spanish standard. Florida SB 262 compliance. FINRA for financial. HIPAA for healthcare. 90-day performance guarantee."}},{"@type":"Question","name":"What is bilingual LATAM pipeline email marketing for Miami businesses?","acceptedAnswer":{"@type":"Answer","text":"Bilingual LATAM pipeline email uses HubSpot language-conditional automation: English-language professional communications for English-preference contacts, Spanish-language for Spanish-preference — automatically triggered by language preference data. Community-specific content tracks for Venezuelan estate planning, Colombian corporate structures, Argentine currency hedging, and Brazilian FBAR reporting. FINRA-compliant bilingual investment email for Brickell financial advisory clients."}},{"@type":"Question","name":"What is Florida SB 262-compliant email marketing in Miami?","acceptedAnswer":{"@type":"Answer","text":"Florida SB 262 (effective July 2024) requires consumer data consent management for email subscriber data collection, marketing automation data handling, and email analytics. SB 262-compliant email architecture implements consent management for subscriber data, appropriate data minimisation in email analytics events, and SB 262-reviewed unsubscribe and data rights management. Non-SB 262 email programmes create Florida AG enforcement exposure with every subscriber interaction."}},{"@type":"Question","name":"Does Clickmasters provide FINRA-compliant bilingual email for Brickell financial services?","acceptedAnswer":{"@type":"Answer","text":"Yes. FINRA Rule 2210-compliant bilingual investment email: English and Spanish investment commentary both FINRA-reviewed before distribution. Bilingual GIPS-compliant performance communication. Bilingual LATAM estate and tax planning content. ADV Part 2 bilingual annual update email. The bilingual investment email programme that maintains Brickell's LATAM HNW client relationships while meeting FINRA standards in both languages."}},{"@type":"Question","name":"Does Clickmasters serve Coral Gables, Doral, Aventura, and South Florida?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Miami-Dade and Broward Counties including Coral Gables, Doral, Aventura, Hialeah, Fort Lauderdale, Boca Raton."}},{"@type":"Question","name":"How long does Miami bilingual email produce LATAM results?","acceptedAnswer":{"@type":"Answer","text":"Miami bilingual email timelines: first LATAM client engagement uplift from language-conditional email: 14-30 days. LATAM referral introductions from bilingual programme: 60-90 days. Full LATAM client retention improvement measurable: 3-5 months. Florida SB 262 compliance implementation: 2-3 weeks."}}]}`,
   cta: `Get Your Free Miami Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-miami/","/seo-services-miami/","/email-marketing-houston/","/integrations/hubspot-marketing/","/industries/financial-services/"],
@@ -60,7 +87,7 @@ Results: SB 262: Florida AG pre-audit passed | Spanish email engagement: 3.4x ab
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-miami/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

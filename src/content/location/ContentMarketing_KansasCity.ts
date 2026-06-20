@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-KansasCity.xlsx
 // Service: ContentMarketing
 // City: KansasCity
-// Generated: 2026-06-19T12:50:25.218Z
+// URL: /content-marketing-kansas-city/
+// Generated: 2026-06-20T04:42:10.755Z
 
 export const ContentMarketing_KansasCity = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "KansasCity",
   citySlug: "kansas-city",
-  slug: "/locations/content-marketing/kansas-city",
+  slug: "/content-marketing-kansas-city/",
   
   h1: `Content Marketing Kansas City — Oracle Health/Cerner Authority, Hallmark Brand Content, and Children's Mercy/KU Medical YMYL`,
   primaryKw: `content marketing agency kansas city`,
@@ -16,7 +17,7 @@ export const ContentMarketing_KansasCity = {
   seoTitle: `Content Marketing Kansas City | Oracle Health/Cerner Authority & Hallmark Brand | Clickmasters`,
   meta: `Clickmasters content marketing in Kansas City. Oracle Health/Cerner FHIR/Millennium authority, Hallmark consumer brand seasonal content, and Children's Mercy/KU Medical YMYL. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Kansas City Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-kansas-city/","address":{"@type":"PostalAddress","addressLocality":"Kansas City","addressRegion":"MO","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN KANSAS CITY?
 
 Content marketing in Kansas City is the strategic creation of Oracle Health (Cerner) FHIR/Millennium authority content, Hallmark Cards consumer brand operational content, and Children's Mercy/KU Medical YMYL academic paediatric content for Heart of America businesses.
@@ -50,7 +51,33 @@ Case Study 3: KC Health IT — Children's Mercy/KU Medical YMYL Content
 Client: Paediatric health tech, KC (\$5.4M ARR). Challenge: Non-YMYL content. Children's Mercy vocabulary absent.
 Programme: Children's Mercy/KU YMYL vocabulary + E-E-A-T + HIPAA analytics + GEO/AEO
 Results (10 months): Page 1 for 9 KC paediatric health IT queries | YMYL: E-E-A-T | CM evaluation: content cited | Pipeline: \$1.2M`,
-  faq: `FAQs — Content Marketing Kansas City`,
+  faqTitle: `FAQs — Content Marketing Kansas City`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in Kansas City?",
+    "answer": "Kansas City content marketing: $1,100/month (Foundation) to $10,000+/month (Full Programme). Oracle Health/Cerner FHIR/Millennium authority. Hallmark consumer brand operational. Children's Mercy/KU Medical YMYL. HIPAA-compliant. Midwest retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is Oracle Health/Cerner content authority for Kansas City health IT vendors?",
+    "answer": "Cerner PowerChart ClinDoc workflow optimisation methodology, FHIR R4 interoperability implementation guides, Oracle Health Millennium revenue cycle operational insights, and CMS HCAHPS/MIPS quality measure integration content — the Oracle Health operational vocabulary that earns genuine organic discovery from the world's largest health IT company's Kansas City community."
+  },
+  {
+    "question": "What is Hallmark consumer brand content marketing for Kansas City?",
+    "answer": "Consumer brand lifecycle management content, greeting card retail category management methodology, seasonal gifting market timing analysis (Christmas, Valentine's Day, Mother's Day, graduation market timing), and DTC-to-retail consumer brand strategy content — the specific Hallmark operational vocabulary that earns Crown Center procurement engagement from the only major greeting card company headquartered outside coastal markets."
+  },
+  {
+    "question": "Does Clickmasters serve Overland Park, Leawood, Olathe, and Greater Kansas City?",
+    "answer": "Yes — all of Greater Kansas City bi-state MSA."
+  },
+  {
+    "question": "How long does Kansas City Oracle Health/Cerner content produce results?",
+    "answer": "FHIR/Millennium vocabulary rankings: 4-7 months. HIMSS/ONC editorial community: 3-5 months. Oracle Health organic discovery: 6-10 months. GEO/AEO Oracle Health AI citations: 4-7 months."
+  },
+  {
+    "question": "How does GEO/AEO affect Kansas City content marketing?",
+    "answer": "Oracle Health's health IT engineering community uses AI search tools for vendor research. First-mover GEO/AEO content for KC Oracle Health Cerner vocabulary earns ChatGPT/Perplexity citation before competitors build equivalent content authority in the world's largest health IT company's home market."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Kansas City content marketing: \$1,100/month (Foundation) to \$10,000+/month (Full Programme). Oracle Health/Cerner FHIR/Millennium authority. Hallmark consumer brand operational. Children's Mercy/KU Medical YMYL. HIPAA-compliant. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Oracle Health/Cerner content authority for Kansas City health IT vendors?","acceptedAnswer":{"@type":"Answer","text":"Cerner PowerChart ClinDoc workflow optimisation methodology, FHIR R4 interoperability implementation guides, Oracle Health Millennium revenue cycle operational insights, and CMS HCAHPS/MIPS quality measure integration content — the Oracle Health operational vocabulary that earns genuine organic discovery from the world's largest health IT company's Kansas City community."}},{"@type":"Question","name":"What is Hallmark consumer brand content marketing for Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Consumer brand lifecycle management content, greeting card retail category management methodology, seasonal gifting market timing analysis (Christmas, Valentine's Day, Mother's Day, graduation market timing), and DTC-to-retail consumer brand strategy content — the specific Hallmark operational vocabulary that earns Crown Center procurement engagement from the only major greeting card company headquartered outside coastal markets."}},{"@type":"Question","name":"Does Clickmasters serve Overland Park, Leawood, Olathe, and Greater Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Kansas City bi-state MSA."}},{"@type":"Question","name":"How long does Kansas City Oracle Health/Cerner content produce results?","acceptedAnswer":{"@type":"Answer","text":"FHIR/Millennium vocabulary rankings: 4-7 months. HIMSS/ONC editorial community: 3-5 months. Oracle Health organic discovery: 6-10 months. GEO/AEO Oracle Health AI citations: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect Kansas City content marketing?","acceptedAnswer":{"@type":"Answer","text":"Oracle Health's health IT engineering community uses AI search tools for vendor research. First-mover GEO/AEO content for KC Oracle Health Cerner vocabulary earns ChatGPT/Perplexity citation before competitors build equivalent content authority in the world's largest health IT company's home market."}}]}`,
   cta: `Get Your Free Kansas City Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-kansas-city/","/seo-services-kansas-city/","/content-marketing-st-louis/"],
@@ -60,7 +87,7 @@ Results (10 months): Page 1 for 9 KC paediatric health IT queries | YMYL: E-E-A-
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-kansas-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Omaha.xlsx
 // Service: DigitalMarketing
 // City: Omaha
-// Generated: 2026-06-19T12:50:25.857Z
+// URL: /digital-marketing-agency-omaha/
+// Generated: 2026-06-20T04:42:11.464Z
 
 export const DigitalMarketing_Omaha = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Omaha",
   citySlug: "omaha",
-  slug: "/locations/digital-marketing/omaha",
+  slug: "/digital-marketing-agency-omaha/",
   
   h1: `Digital Marketing Agency Omaha — Berkshire Hathaway Revenue, Union Pacific Rail Logistics, Nebraska Medicine YMYL, and Gate City Commercial Growth`,
   primaryKw: `digital marketing agency omaha`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_Omaha = {
   seoTitle: `Digital Marketing Agency Omaha | Berkshire Hathaway Revenue & Union Pacific Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Omaha. Berkshire Hathaway FINRA/SEC investment revenue, Union Pacific rail logistics, ConAgra food manufacturing, Nebraska Medicine YMYL, and NDPA-native analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Omaha Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-omaha/","address":{"@type":"PostalAddress","addressLocality":"Omaha","addressRegion":"NE","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3800,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN OMAHA?
 
 An Omaha digital marketing agency manages digital channels for Gate City businesses across four commercially distinct sectors that define Omaha's remarkable commercial identity.
@@ -43,7 +44,33 @@ Case Study 3: Omaha Healthcare Technology — Nebraska Medicine Full Programme
 Client: Clinical analytics, Omaha (\$5.4M ARR). Challenge: Nebraska Medicine/UNMC vocabulary absent. Non-HIPAA. Non-NDPA.
 Programme: SEO (Nebraska Medicine/UNMC NCI vocabulary) + HIPAA/NDPA rebuild + content (NCI YMYL)
 Results (11 months): Page 1 for 9 Omaha health IT queries | Nebraska Medicine: evaluation | YMYL: E-E-A-T | NDPA/HIPAA: clean | Pipeline: \$1.2M`,
-  faq: `FAQs — Digital Marketing Omaha`,
+  faqTitle: `FAQs — Digital Marketing Omaha`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Omaha?",
+    "answer": "Omaha digital marketing: $1,100/month (single channel) to $12,000+/month (enterprise). Berkshire Hathaway FINRA/SEC investment vocabulary. Union Pacific rail logistics. ConAgra food manufacturing. Nebraska Medicine YMYL. NDPA-native. Nebraska retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What makes Berkshire Hathaway digital marketing unique for Omaha businesses?",
+    "answer": "Berkshire Hathaway's Omaha headquarters manages $900+ billion in assets — the world's most recognisable investment holding company, whose Annual Meeting ('Woodstock for Capitalists') brings 40,000+ institutional investment and insurance professionals to Omaha every May. Value investing methodology, GEICO insurance float analytics, BNSF Railway operational intelligence, and Berkshire subsidiary management vocabulary create a FINRA/SEC-compliant investment B2B digital marketing community with no equivalent outside New York and Boston."
+  },
+  {
+    "question": "What is the Berkshire Hathaway Annual Meeting seasonal digital marketing opportunity for Omaha?",
+    "answer": "The Berkshire Hathaway Annual Meeting ('Woodstock for Capitalists,' May, CHI Health Center Omaha) brings 40,000+ attendees from 130+ countries — representing the highest annual concentration of institutional investment and insurance professionals in any US city. Omaha financial technology, investment analytics, and professional services businesses whose digital marketing demonstrates Berkshire community vocabulary earn above-average organic discovery during May's peak Berkshire community engagement window."
+  },
+  {
+    "question": "Does Clickmasters serve Bellevue, Papillion, Elkhorn, and Greater Omaha?",
+    "answer": "Yes — all of Greater Omaha MSA: Douglas, Sarpy, Washington Counties (Nebraska) and Pottawattamie County (Iowa)."
+  },
+  {
+    "question": "What is Nebraska NDPA compliance for Omaha digital marketing?",
+    "answer": "Nebraska Data Privacy Act (NDPA, effective January 1, 2025) creates data privacy compliance requirements for Omaha businesses serving Nebraska consumers. NDPA-native analytics with consent management protect from Nebraska AG enforcement while producing accurate Omaha performance measurement."
+  },
+  {
+    "question": "How does GEO/AEO affect Omaha digital marketing?",
+    "answer": "Berkshire Hathaway's investment technology community and Union Pacific's logistics technology community use AI search for vendor research. First-mover GEO/AEO for Omaha Berkshire FINRA/SEC and Union Pacific rail vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Omaha?","acceptedAnswer":{"@type":"Answer","text":"Omaha digital marketing: \$1,100/month (single channel) to \$12,000+/month (enterprise). Berkshire Hathaway FINRA/SEC investment vocabulary. Union Pacific rail logistics. ConAgra food manufacturing. Nebraska Medicine YMYL. NDPA-native. Nebraska retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What makes Berkshire Hathaway digital marketing unique for Omaha businesses?","acceptedAnswer":{"@type":"Answer","text":"Berkshire Hathaway's Omaha headquarters manages \$900+ billion in assets — the world's most recognisable investment holding company, whose Annual Meeting ('Woodstock for Capitalists') brings 40,000+ institutional investment and insurance professionals to Omaha every May. Value investing methodology, GEICO insurance float analytics, BNSF Railway operational intelligence, and Berkshire subsidiary management vocabulary create a FINRA/SEC-compliant investment B2B digital marketing community with no equivalent outside New York and Boston."}},{"@type":"Question","name":"What is the Berkshire Hathaway Annual Meeting seasonal digital marketing opportunity for Omaha?","acceptedAnswer":{"@type":"Answer","text":"The Berkshire Hathaway Annual Meeting ('Woodstock for Capitalists,' May, CHI Health Center Omaha) brings 40,000+ attendees from 130+ countries — representing the highest annual concentration of institutional investment and insurance professionals in any US city. Omaha financial technology, investment analytics, and professional services businesses whose digital marketing demonstrates Berkshire community vocabulary earn above-average organic discovery during May's peak Berkshire community engagement window."}},{"@type":"Question","name":"Does Clickmasters serve Bellevue, Papillion, Elkhorn, and Greater Omaha?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Omaha MSA: Douglas, Sarpy, Washington Counties (Nebraska) and Pottawattamie County (Iowa)."}},{"@type":"Question","name":"What is Nebraska NDPA compliance for Omaha digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Nebraska Data Privacy Act (NDPA, effective January 1, 2025) creates data privacy compliance requirements for Omaha businesses serving Nebraska consumers. NDPA-native analytics with consent management protect from Nebraska AG enforcement while producing accurate Omaha performance measurement."}},{"@type":"Question","name":"How does GEO/AEO affect Omaha digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Berkshire Hathaway's investment technology community and Union Pacific's logistics technology community use AI search for vendor research. First-mover GEO/AEO for Omaha Berkshire FINRA/SEC and Union Pacific rail vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Omaha Digital Marketing Audit`,
   internalLinks: ["/seo-services-omaha/","/digital-marketing-agency-usa/","/digital-marketing-agency-kansas-city/","/digital-marketing-agency-des-moines/"],
@@ -53,7 +80,7 @@ Results (11 months): Page 1 for 9 Omaha health IT queries | Nebraska Medicine: e
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-omaha/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

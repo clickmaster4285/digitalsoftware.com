@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Charlotte.xlsx
 // Service: GoogleAds
 // City: Charlotte
-// Generated: 2026-06-19T12:50:26.869Z
+// URL: /google-ads-management-charlotte/
+// Generated: 2026-06-20T04:42:12.277Z
 
 export const GoogleAds_Charlotte = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "Charlotte",
   citySlug: "charlotte",
-  slug: "/locations/google-ads/charlotte",
+  slug: "/google-ads-management-charlotte/",
   
   h1: `Google Ads Management Charlotte — Banking Capital PPC, NASCAR Motorsports, and Queen City Commercial Campaigns`,
   primaryKw: `google ads agency charlotte`,
@@ -16,7 +17,7 @@ export const GoogleAds_Charlotte = {
   seoTitle: `Google Ads Agency Charlotte | Banking Capital & NASCAR Motorsports PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Charlotte. Bank of America/Truist banking capital PPC, NASCAR motorsports community, and Atrium/Novant HIPAA healthcare at below-NYC efficiency. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Charlotte Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-charlotte/","address":{"@type":"PostalAddress","addressLocality":"Charlotte","addressRegion":"NC","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN CHARLOTTE?
 
 Google Ads management in Charlotte is the professional management of PPC advertising for Charlotte-area businesses across three commercially distinct campaign categories: Bank of America/Truist banking capital vocabulary, NASCAR motorsports B2B, and Atrium/Novant HIPAA-compliant healthcare.
@@ -41,7 +42,33 @@ Case Study 3: Charlotte Healthcare Practice — Atrium HIPAA Patient Acquisition
 Client: Cardiology, Charlotte (Atrium Health-adjacent). Challenge: Non-HIPAA conversion tracking. Generic 'Charlotte cardiologist' PPC.
 Programme: HIPAA server-side + Atrium community vocabulary + Charlotte professional audience + clinical landing pages
 Results: HIPAA: clean | Atrium community CPL: \$140 vs \$380 generic Charlotte | New patients: +3x`,
-  faq: `FAQs — Google Ads Charlotte`,
+  faqTitle: `FAQs — Google Ads Charlotte`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Charlotte?",
+    "answer": "Charlotte Google Ads: $1,200/month (Growth) to $11,000+/month (Enterprise). BofA/Truist banking vocabulary. NASCAR motorsports community. FINRA-compliant financial. HIPAA healthcare. North Carolina CPCs 20-25% below NYC. 90-day guarantee."
+  },
+  {
+    "question": "What is Charlotte banking capital Google Ads vocabulary?",
+    "answer": "BofA/Truist banking vocabulary campaigns target banking enterprise procurement using operational language: commercial treasury management SaaS, capital markets analytics, commercial lending technology, banking infrastructure systems. Generic 'financial technology Charlotte' misses every BofA/Truist banking-operational procurement search from Charlotte's banking capital enterprise community."
+  },
+  {
+    "question": "What is NASCAR motorsports B2B Google Ads for Charlotte businesses?",
+    "answer": "NASCAR motorsports B2B campaigns target Team Penske, Hendrick Motorsports, and Joe Gibbs Racing procurement using racing-specific vocabulary: NASCAR engineering services, racing supply chain management, motorsports technical services. These motorsports-vocabulary campaigns reach Charlotte's uniquely concentrated motorsports enterprise community at above-average conversion intent."
+  },
+  {
+    "question": "Does Clickmasters serve Concord, Huntersville, Mooresville, and Greater Charlotte?",
+    "answer": "Yes — all of Greater Charlotte MSA."
+  },
+  {
+    "question": "How quickly does Charlotte banking capital Google Ads produce BofA/Truist results?",
+    "answer": "Banking vocabulary clicks: 7-14 days. BofA/Truist banking enterprise-qualified leads: 30-45 days. CRM-attributed banking capital pipeline: 90-120 days."
+  },
+  {
+    "question": "How do Charlotte Google Ads CPCs compare to New York and Atlanta?",
+    "answer": "North Carolina CPCs 20-25% below New York financial services equivalents. Charlotte CPCs 10-15% below Atlanta for comparable professional services and financial vocabulary. Banking operational vocabulary (treasury management, commercial lending) CPCs are competitive in Charlotte but significantly below Wall Street equivalent."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Charlotte Google Ads: \$1,200/month (Growth) to \$11,000+/month (Enterprise). BofA/Truist banking vocabulary. NASCAR motorsports community. FINRA-compliant financial. HIPAA healthcare. North Carolina CPCs 20-25% below NYC. 90-day guarantee."}},{"@type":"Question","name":"What is Charlotte banking capital Google Ads vocabulary?","acceptedAnswer":{"@type":"Answer","text":"BofA/Truist banking vocabulary campaigns target banking enterprise procurement using operational language: commercial treasury management SaaS, capital markets analytics, commercial lending technology, banking infrastructure systems. Generic 'financial technology Charlotte' misses every BofA/Truist banking-operational procurement search from Charlotte's banking capital enterprise community."}},{"@type":"Question","name":"What is NASCAR motorsports B2B Google Ads for Charlotte businesses?","acceptedAnswer":{"@type":"Answer","text":"NASCAR motorsports B2B campaigns target Team Penske, Hendrick Motorsports, and Joe Gibbs Racing procurement using racing-specific vocabulary: NASCAR engineering services, racing supply chain management, motorsports technical services. These motorsports-vocabulary campaigns reach Charlotte's uniquely concentrated motorsports enterprise community at above-average conversion intent."}},{"@type":"Question","name":"Does Clickmasters serve Concord, Huntersville, Mooresville, and Greater Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Charlotte MSA."}},{"@type":"Question","name":"How quickly does Charlotte banking capital Google Ads produce BofA/Truist results?","acceptedAnswer":{"@type":"Answer","text":"Banking vocabulary clicks: 7-14 days. BofA/Truist banking enterprise-qualified leads: 30-45 days. CRM-attributed banking capital pipeline: 90-120 days."}},{"@type":"Question","name":"How do Charlotte Google Ads CPCs compare to New York and Atlanta?","acceptedAnswer":{"@type":"Answer","text":"North Carolina CPCs 20-25% below New York financial services equivalents. Charlotte CPCs 10-15% below Atlanta for comparable professional services and financial vocabulary. Banking operational vocabulary (treasury management, commercial lending) CPCs are competitive in Charlotte but significantly below Wall Street equivalent."}}]}`,
   cta: `Get Your Free Charlotte Google Ads Audit`,
   internalLinks: ["/digital-marketing-agency-charlotte/","/seo-services-charlotte/","/google-ads-management-services/","/google-ads-management-atlanta/"],
@@ -51,7 +78,7 @@ Results: HIPAA: clean | Atrium community CPL: \$140 vs \$380 generic Charlotte |
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-charlotte/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

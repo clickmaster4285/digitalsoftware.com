@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Houston.xlsx
 // Service: SEO
 // City: Houston
-// Generated: 2026-06-19T12:50:27.942Z
+// URL: /seo-services-houston/
+// Generated: 2026-06-20T04:42:13.626Z
 
 export const SEO_Houston = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Houston",
   citySlug: "houston",
-  slug: "/locations/seo/houston",
+  slug: "/seo-services-houston/",
   
   h1: `SEO Services Houston — API/HSE Technical Authority for Energy Corridor and Bilingual Organic Growth`,
   primaryKw: `seo services houston`,
@@ -16,7 +17,7 @@ export const SEO_Houston = {
   seoTitle: `SEO Services Houston | Energy Sector Authority & Bilingual Healthcare | Clickmasters`,
   meta: `Clickmasters SEO in Houston. API/HSE technical authority for Energy Corridor B2B, bilingual Spanish/English healthcare, and organic growth for Texas' commercial capital. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Houston SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-houston/","address":{"@type":"PostalAddress","addressLocality":"Houston","addressRegion":"TX","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS SEO IN HOUSTON?
 
 SEO in Houston is the practice of building organic search authority for Houston-area businesses in America's energy capital and fourth-largest city — where ExxonMobil, Shell, Halliburton, and the Energy Corridor define the B2B content standard, and where 44% bilingual Spanish/English commercial demand creates the largest bilingual SEO opportunity of any major Texas city.
@@ -41,7 +42,33 @@ Case Study 3: Houston Management Consulting — Energy Sector B2B Authority
 Client: Management consulting, Greenway Plaza (\$6.8M). Challenge: McKinsey and Accenture dominating energy sector consulting searches. Zero Houston-specific content authority.
 Programme: Energy sector operations vocabulary + Houston Business Journal editorial + Texas executive content
 Results (9 months): Page 1 for 11 Houston energy consulting queries | Fortune 500 energy enquiries: +3x | HBJ editorial: 2 features | Pipeline: \$2.4M`,
-  faq: `FAQs — SEO Houston`,
+  faqTitle: `FAQs — SEO Houston`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Houston?",
+    "answer": "Houston SEO: $1,800/month (growth) to $18,000+/month (enterprise). API technical accuracy review for energy sector. HIPAA for healthcare. Bilingual English/Spanish option. Below San Francisco and New York equivalent costs. 90-day performance guarantee."
+  },
+  {
+    "question": "What makes Houston energy sector SEO different?",
+    "answer": "Houston's energy procurement community evaluates SEO content against API engineering standards: API certification references must cite specific standards with their full designation (API Q1, API Q2, API Spec 6D). HSE content must include TRIR/LTIR data in the format operators use for vendor safety evaluation. Gulf of Mexico operational content must reference specific water depth, formation type, and equipment specifications. Generic 'energy expertise' content earns the same response from Houston procurement engineers as a generic RFP."
+  },
+  {
+    "question": "Does Clickmasters provide bilingual Spanish/English SEO for Houston businesses?",
+    "answer": "Yes. Houston's 44% Hispanic/Latino population creates a significant bilingual SEO market. Spanish-language content calibrated to Houston's Mexican-American and Central American communities. HIPAA-compliant bilingual healthcare content. Medical Spanish vocabulary reviewed for Houston-community accuracy."
+  },
+  {
+    "question": "Does Clickmasters serve The Woodlands, Sugar Land, and Greater Houston?",
+    "answer": "Yes — all of the Houston metropolitan area: Harris County, Fort Bend County (Sugar Land, Katy), Montgomery County (The Woodlands, Conroe), Brazoria County, Galveston County, and the full Houston MSA."
+  },
+  {
+    "question": "How long does Houston SEO take?",
+    "answer": "Houston energy sector B2B: first API vocabulary rankings 5-8 months. Bilingual healthcare patient acquisition: 3-6 months. Professional services B2B: 4-7 months. GEO/AEO citation for Houston energy queries: 3-6 months."
+  },
+  {
+    "question": "How does GEO/AEO affect Houston energy sector SEO?",
+    "answer": "Houston's Energy Corridor engineering and procurement professionals are increasing AI search tool usage for vendor research. When a Shell procurement engineer asks ChatGPT for recommended API Q1-certified pipeline service companies in Houston, or an ExxonMobil operations manager asks Perplexity for subsea inspection vendors with Gulf of Mexico experience, the companies with GEO and AEO signals appear in those answers."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Houston?","acceptedAnswer":{"@type":"Answer","text":"Houston SEO: \$1,800/month (growth) to \$18,000+/month (enterprise). API technical accuracy review for energy sector. HIPAA for healthcare. Bilingual English/Spanish option. Below San Francisco and New York equivalent costs. 90-day performance guarantee."}},{"@type":"Question","name":"What makes Houston energy sector SEO different?","acceptedAnswer":{"@type":"Answer","text":"Houston's energy procurement community evaluates SEO content against API engineering standards: API certification references must cite specific standards with their full designation (API Q1, API Q2, API Spec 6D). HSE content must include TRIR/LTIR data in the format operators use for vendor safety evaluation. Gulf of Mexico operational content must reference specific water depth, formation type, and equipment specifications. Generic 'energy expertise' content earns the same response from Houston procurement engineers as a generic RFP."}},{"@type":"Question","name":"Does Clickmasters provide bilingual Spanish/English SEO for Houston businesses?","acceptedAnswer":{"@type":"Answer","text":"Yes. Houston's 44% Hispanic/Latino population creates a significant bilingual SEO market. Spanish-language content calibrated to Houston's Mexican-American and Central American communities. HIPAA-compliant bilingual healthcare content. Medical Spanish vocabulary reviewed for Houston-community accuracy."}},{"@type":"Question","name":"Does Clickmasters serve The Woodlands, Sugar Land, and Greater Houston?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Houston metropolitan area: Harris County, Fort Bend County (Sugar Land, Katy), Montgomery County (The Woodlands, Conroe), Brazoria County, Galveston County, and the full Houston MSA."}},{"@type":"Question","name":"How long does Houston SEO take?","acceptedAnswer":{"@type":"Answer","text":"Houston energy sector B2B: first API vocabulary rankings 5-8 months. Bilingual healthcare patient acquisition: 3-6 months. Professional services B2B: 4-7 months. GEO/AEO citation for Houston energy queries: 3-6 months."}},{"@type":"Question","name":"How does GEO/AEO affect Houston energy sector SEO?","acceptedAnswer":{"@type":"Answer","text":"Houston's Energy Corridor engineering and procurement professionals are increasing AI search tool usage for vendor research. When a Shell procurement engineer asks ChatGPT for recommended API Q1-certified pipeline service companies in Houston, or an ExxonMobil operations manager asks Perplexity for subsea inspection vendors with Gulf of Mexico experience, the companies with GEO and AEO signals appear in those answers."}}]}`,
   cta: `Get Your Free Houston SEO Audit`,
   internalLinks: ["/digital-marketing-agency-houston/","/seo-services/","/seo-services-dallas/","/seo-services-austin/","/industries/oil-gas/","/industries/healthcare/"],
@@ -51,7 +78,7 @@ Results (9 months): Page 1 for 11 Houston energy consulting queries | Fortune 50
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-houston/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

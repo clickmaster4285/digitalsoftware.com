@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-Minneapolis.xlsx
 // Service: WebDesign
 // City: Minneapolis
-// Generated: 2026-06-19T12:50:29.048Z
+// URL: /web-design-agency-minneapolis/
+// Generated: 2026-06-20T04:42:14.746Z
 
 export const WebDesign_Minneapolis = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Minneapolis",
   citySlug: "minneapolis",
-  slug: "/locations/web-design/minneapolis",
+  slug: "/web-design-agency-minneapolis/",
   
   h1: `Web Design Agency Minneapolis — Medical Alley FDA-Credible Websites and Fortune 500 Minnesota Vendor Standard`,
   primaryKw: `web design agency minneapolis`,
@@ -16,7 +17,7 @@ export const WebDesign_Minneapolis = {
   seoTitle: `Web Design Agency Minneapolis | Medical Alley Clinical & Fortune 500 MN | Clickmasters`,
   meta: `Clickmasters web design in Minneapolis. Medical Alley FDA-credible websites, Fortune 500 Minnesota vendor architecture, and HIPAA-compliant healthcare for the Twin Cities. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Minneapolis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-minneapolis/","address":{"@type":"PostalAddress","addressLocality":"Minneapolis","addressRegion":"MN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN MINNEAPOLIS?
 
 A Minneapolis web design agency builds websites for Twin Cities businesses combining Medical Alley FDA and KLAS clinical credibility architecture, Fortune 500 Minnesota vendor visual standards, and the Scandinavian-heritage design precision that Minnesota's commercially discerning professional community evaluates.
@@ -53,7 +54,33 @@ Case Study 3: Minneapolis Multi-Location Healthcare — HIPAA Scandinavian Redes
 Client: Internal medicine group, Minneapolis metro (4 locations). Challenge: Non-HIPAA website. Clinical photography below Minnesota professional standard. Mobile load 5.8s.
 Programme: HIPAA redesign + Scandinavian clinical design + mobile CWV (5.8s to 1.6s) + appointment booking + WCAG 2.1 AA
 Results: HIPAA compliance: clean | Online booking: 0 to 38% of all appointments | Mobile LCP: 5.8s to 1.6s | New patient digital enquiries: +220/month`,
-  faq: `FAQs — Web Design Minneapolis`,
+  faqTitle: `FAQs — Web Design Minneapolis`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Minneapolis?",
+    "answer": "Minneapolis web design: $6,500-$20,000 (Medical Alley/Fortune 500/healthcare), $30,000-$80,000+ (enterprise). WCAG 2.1 AA and Core Web Vitals. HIPAA for healthcare. FDA/KLAS credibility for Medical Alley. Fixed-price contracts."
+  },
+  {
+    "question": "What is Medical Alley FDA/KLAS credibility web design?",
+    "answer": "Medical Alley clinical credibility architecture means displaying: FDA clearance status with specific 510(k) number or PMA designation and cleared indication, KLAS rating with specific score and category measurement year, peer-reviewed clinical evidence citations from NEJM/JAMA/CHEST, and the institutional clinical credibility signals that IDN supply chain directors use during digital vendor due diligence. Websites without this architecture lose health system evaluations before the RFP is issued."
+  },
+  {
+    "question": "What is Scandinavian design precision in Minneapolis web design?",
+    "answer": "Minneapolis's Scandinavian heritage influences commercial design preferences toward clean minimalism, functional clarity, and evidence-grounded specificity over decorative marketing design. Websites calibrated to this aesthetic — clean, specific, institutionally grounded — earn more trust from Minnesota's professionally discerning commercial community than aspirational or ornamental design styles."
+  },
+  {
+    "question": "Does Clickmasters serve St. Paul, Eden Prairie, Plymouth, and the Twin Cities metro?",
+    "answer": "Yes — all of Minneapolis-St. Paul metropolitan area including Hennepin County, Ramsey County, Washington County, and the Medical Alley corridor."
+  },
+  {
+    "question": "How long does a Minneapolis web design project take?",
+    "answer": "Medical Alley (FDA/KLAS review adds time): 10-16 weeks. Fortune 500 vendor: 8-14 weeks. Healthcare (HIPAA review): 8-14 weeks. Enterprise: 16-28 weeks."
+  },
+  {
+    "question": "Does Clickmasters build HIPAA-compliant websites for Minneapolis healthcare?",
+    "answer": "Yes. HIPAA-native architecture: secure forms with BAA-covered processors, analytics excluding PHI events, appointment booking meeting OCR technical standards. Minnesota Medical Board advertising compliance awareness. Standard for all Minneapolis healthcare website projects."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Minneapolis?","acceptedAnswer":{"@type":"Answer","text":"Minneapolis web design: \$6,500-\$20,000 (Medical Alley/Fortune 500/healthcare), \$30,000-\$80,000+ (enterprise). WCAG 2.1 AA and Core Web Vitals. HIPAA for healthcare. FDA/KLAS credibility for Medical Alley. Fixed-price contracts."}},{"@type":"Question","name":"What is Medical Alley FDA/KLAS credibility web design?","acceptedAnswer":{"@type":"Answer","text":"Medical Alley clinical credibility architecture means displaying: FDA clearance status with specific 510(k) number or PMA designation and cleared indication, KLAS rating with specific score and category measurement year, peer-reviewed clinical evidence citations from NEJM/JAMA/CHEST, and the institutional clinical credibility signals that IDN supply chain directors use during digital vendor due diligence. Websites without this architecture lose health system evaluations before the RFP is issued."}},{"@type":"Question","name":"What is Scandinavian design precision in Minneapolis web design?","acceptedAnswer":{"@type":"Answer","text":"Minneapolis's Scandinavian heritage influences commercial design preferences toward clean minimalism, functional clarity, and evidence-grounded specificity over decorative marketing design. Websites calibrated to this aesthetic — clean, specific, institutionally grounded — earn more trust from Minnesota's professionally discerning commercial community than aspirational or ornamental design styles."}},{"@type":"Question","name":"Does Clickmasters serve St. Paul, Eden Prairie, Plymouth, and the Twin Cities metro?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Minneapolis-St. Paul metropolitan area including Hennepin County, Ramsey County, Washington County, and the Medical Alley corridor."}},{"@type":"Question","name":"How long does a Minneapolis web design project take?","acceptedAnswer":{"@type":"Answer","text":"Medical Alley (FDA/KLAS review adds time): 10-16 weeks. Fortune 500 vendor: 8-14 weeks. Healthcare (HIPAA review): 8-14 weeks. Enterprise: 16-28 weeks."}},{"@type":"Question","name":"Does Clickmasters build HIPAA-compliant websites for Minneapolis healthcare?","acceptedAnswer":{"@type":"Answer","text":"Yes. HIPAA-native architecture: secure forms with BAA-covered processors, analytics excluding PHI events, appointment booking meeting OCR technical standards. Minnesota Medical Board advertising compliance awareness. Standard for all Minneapolis healthcare website projects."}}]}`,
   cta: `Get Your Free Minneapolis Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-minneapolis/","/seo-services-minneapolis/","/web-design-agency-chicago/","/industries/medical-devices/","/tools/website-grader/"],
@@ -63,7 +90,7 @@ Results: HIPAA compliance: clean | Online booking: 0 to 38% of all appointments 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-minneapolis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-Denver.xlsx
 // Service: ContentMarketing
 // City: Denver
-// Generated: 2026-06-19T12:50:25.162Z
+// URL: /content-marketing-denver/
+// Generated: 2026-06-20T04:42:10.695Z
 
 export const ContentMarketing_Denver = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "Denver",
   citySlug: "denver",
-  slug: "/locations/content-marketing/denver",
+  slug: "/content-marketing-denver/",
   
   h1: `Content Marketing Denver — ITAR-Bounded Aerospace Authority, NREL Citation Credibility, and Colorado In-Migration Thought Leadership`,
   primaryKw: `content marketing agency denver`,
@@ -16,7 +17,7 @@ export const ContentMarketing_Denver = {
   seoTitle: `Content Marketing Agency Denver | ITAR Aerospace & NREL Clean Energy Authority | Clickmasters`,
   meta: `Clickmasters content marketing in Denver. ITAR-bounded aerospace authority, NREL Technical Report citation credibility, and Colorado in-migration thought leadership. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Denver Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-denver/","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN DENVER?
 
 Content marketing in Denver is the strategic creation and distribution of ITAR-bounded, NREL-evidenced, Colorado-culturally-calibrated content for Denver-area businesses — in a market shaped by three commercially distinct content requirements that most Denver businesses have not yet systematically addressed.
@@ -50,7 +51,33 @@ Case Study 3: Cherry Creek Financial Advisory — CA In-Migration Content Progra
 Client: RIA, Cherry Creek (\$380M AUM). Challenge: CA in-migrants not finding Colorado-specific tax planning content.
 Programme: CA-to-CO tax content + RSU Colorado planning + FINRA-compliant + Cherry Creek neighbourhood guides
 Results (9 months): Page 1 for 14 CA in-migration Colorado financial planning queries | In-migration HNW enquiries: +3x | New AUM from content: \$94M | CA in-migrant average client AUM: \$1.6M`,
-  faq: `FAQs — Content Marketing Denver`,
+  faqTitle: `FAQs — Content Marketing Denver`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in Denver?",
+    "answer": "Denver content marketing: $1,800/month (Foundation) to $16,000+/month (Full Programme). ITAR compliance review for aerospace. NREL citation accuracy for clean energy. FINRA-compliant for financial services. Colorado retainers below coastal. 90-day performance guarantee."
+  },
+  {
+    "question": "What is ITAR-bounded content marketing for Denver aerospace companies?",
+    "answer": "ITAR-bounded content marketing means every content piece is reviewed against ITAR export control standards before publication: publicly releasable defence vocabulary only (AS9100D operational insights, DCAA accounting systems, defence supply chain resilience). It never references classified programme names, controlled performance parameters, or export-restricted technical specifications. The ITAR-bounded content library that builds organic authority from publicly available defence information."
+  },
+  {
+    "question": "What is NREL citation content marketing for Denver clean energy companies?",
+    "answer": "NREL citation content marketing references specific NREL Technical Reports with DOI citations, NREL Solar Radiation Data Manual measurements, and DOE EERE programme outcomes with specific programme names — not generic 'NREL research shows' attributions. Denver's technically sophisticated clean energy community evaluates content authority based on the specificity and accuracy of NREL citations."
+  },
+  {
+    "question": "Does Clickmasters serve Boulder, Colorado Springs, and all of Colorado?",
+    "answer": "Yes — all of Colorado including Boulder (University of Colorado, clean tech), Colorado Springs (Space Force, defence contractors), Fort Collins, Aurora, and the full state."
+  },
+  {
+    "question": "How long does Denver aerospace content marketing produce defence RFQ results?",
+    "answer": "Denver ITAR-bounded aerospace content: first meaningful defence procurement vocabulary rankings at 5-8 months. AIAA and Aviation Week editorial placements: 3-5 months of relationship development. Full defence procurement organic visibility and RFQ invitation improvement: 9-14 months."
+  },
+  {
+    "question": "What CA in-migration content topics generate the highest Denver engagement?",
+    "answer": "The highest-performing Denver in-migration content topics: (1) California vs Colorado state income tax comparison (13.3% vs 4.55% — the most commercially resonant difference for CA in-migrants); (2) RSU and equity compensation Colorado tax planning (high HHI professionals with unvested RSUs); (3) Colorado estate planning vs California probate; (4) Denver neighbourhood guides for in-migration professionals (Cherry Creek, Highlands Ranch, Park Meadows comparisons)."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Denver?","acceptedAnswer":{"@type":"Answer","text":"Denver content marketing: \$1,800/month (Foundation) to \$16,000+/month (Full Programme). ITAR compliance review for aerospace. NREL citation accuracy for clean energy. FINRA-compliant for financial services. Colorado retainers below coastal. 90-day performance guarantee."}},{"@type":"Question","name":"What is ITAR-bounded content marketing for Denver aerospace companies?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded content marketing means every content piece is reviewed against ITAR export control standards before publication: publicly releasable defence vocabulary only (AS9100D operational insights, DCAA accounting systems, defence supply chain resilience). It never references classified programme names, controlled performance parameters, or export-restricted technical specifications. The ITAR-bounded content library that builds organic authority from publicly available defence information."}},{"@type":"Question","name":"What is NREL citation content marketing for Denver clean energy companies?","acceptedAnswer":{"@type":"Answer","text":"NREL citation content marketing references specific NREL Technical Reports with DOI citations, NREL Solar Radiation Data Manual measurements, and DOE EERE programme outcomes with specific programme names — not generic 'NREL research shows' attributions. Denver's technically sophisticated clean energy community evaluates content authority based on the specificity and accuracy of NREL citations."}},{"@type":"Question","name":"Does Clickmasters serve Boulder, Colorado Springs, and all of Colorado?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Colorado including Boulder (University of Colorado, clean tech), Colorado Springs (Space Force, defence contractors), Fort Collins, Aurora, and the full state."}},{"@type":"Question","name":"How long does Denver aerospace content marketing produce defence RFQ results?","acceptedAnswer":{"@type":"Answer","text":"Denver ITAR-bounded aerospace content: first meaningful defence procurement vocabulary rankings at 5-8 months. AIAA and Aviation Week editorial placements: 3-5 months of relationship development. Full defence procurement organic visibility and RFQ invitation improvement: 9-14 months."}},{"@type":"Question","name":"What CA in-migration content topics generate the highest Denver engagement?","acceptedAnswer":{"@type":"Answer","text":"The highest-performing Denver in-migration content topics: (1) California vs Colorado state income tax comparison (13.3% vs 4.55% — the most commercially resonant difference for CA in-migrants); (2) RSU and equity compensation Colorado tax planning (high HHI professionals with unvested RSUs); (3) Colorado estate planning vs California probate; (4) Denver neighbourhood guides for in-migration professionals (Cherry Creek, Highlands Ranch, Park Meadows comparisons)."}}]}`,
   cta: `Get Your Free Denver Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-denver/","/seo-services-denver/","/content-marketing-seattle/","/industries/manufacturing/","/industries/clean-energy/"],
@@ -60,7 +87,7 @@ Results (9 months): Page 1 for 14 CA in-migration Colorado financial planning qu
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-denver/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

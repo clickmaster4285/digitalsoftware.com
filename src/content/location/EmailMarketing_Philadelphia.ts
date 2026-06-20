@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Philadelphia.xlsx
 // Service: EmailMarketing
 // City: Philadelphia
-// Generated: 2026-06-19T12:50:26.602Z
+// URL: /email-marketing-philadelphia/
+// Generated: 2026-06-20T04:42:12.044Z
 
 export const EmailMarketing_Philadelphia = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "Philadelphia",
   citySlug: "philadelphia",
-  slug: "/locations/email-marketing/philadelphia",
+  slug: "/email-marketing-philadelphia/",
   
   h1: `Email Marketing Philadelphia — HIPAA Patient Retention, Pennsylvania RPC-Compliant Legal, and Eds and Meds Pipeline Nurture`,
   primaryKw: `email marketing agency philadelphia`,
@@ -16,7 +17,7 @@ export const EmailMarketing_Philadelphia = {
   seoTitle: `Email Marketing Agency Philadelphia | HIPAA, PA RPC & Eds and Meds | Clickmasters`,
   meta: `Clickmasters email marketing in Philadelphia. HIPAA patient retention, Pennsylvania RPC-compliant legal email, and Eds and Meds B2B pipeline nurture for the Delaware Valley. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Philadelphia Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-philadelphia/","address":{"@type":"PostalAddress","addressLocality":"Philadelphia","addressRegion":"PA","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN PHILADELPHIA?
 
 Email marketing in Philadelphia is the strategic management of email as a patient retention, client relationship, and B2B pipeline channel for Philadelphia-area businesses — across the Delaware Valley's three most commercially significant and compliance-intensive sectors: Eds and Meds healthcare, legal services, and the King of Prussia FDA pharmaceutical corridor.
@@ -50,7 +51,33 @@ Case Study 3: King of Prussia CRO — FDA-Aware Pharma Pipeline Nurture
 Client: CRO, King of Prussia PA (\$18M). Challenge: GSK and AstraZeneca procurement contacts going cold between conference seasons. Generic email nurture failing FDA review.
 Programme: FDA-aware pharma nurture + AACR/ASCO conference follow-up + HubSpot pharma tracking + IRB-aware clinical updates
 Results: Pharma prospect re-engagement: 44% in 6 months | GSK evaluation: re-entered | AstraZeneca evaluation: new | Pipeline from email: \$2.4M | FDA content: clean review`,
-  faq: `FAQs — Email Marketing Philadelphia`,
+  faqTitle: `FAQs — Email Marketing Philadelphia`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Philadelphia?",
+    "answer": "Philadelphia email marketing: $900/month (Foundation) to $9,500+/month (Enterprise). HIPAA compliance for healthcare. Pennsylvania RPC compliance for law firms. FDA-aware for pharmaceutical. 90-day performance guarantee."
+  },
+  {
+    "question": "Does Clickmasters provide HIPAA-compliant patient email for Philadelphia healthcare?",
+    "answer": "Yes. HIPAA-covered ESP (HubSpot with BAA or Salesforce Health Cloud) for all Philadelphia healthcare email programmes. PHI-safe appointment reminder design. HIPAA minimum-necessary post-care follow-up. Lapsed patient reactivation without condition-specific references. OCR-compliant patient communication architecture throughout."
+  },
+  {
+    "question": "Does Clickmasters provide Pennsylvania RPC-compliant email for Philadelphia law firms?",
+    "answer": "Yes. Pennsylvania Rules of Professional Conduct compliance review for every email before sending. No improper client solicitation in newsletter content, appropriate fee discussion protocols, no matter-specific information in general distribution lists. Pennsylvania Bar-reviewed templates. Zero RPC findings for law firm email clients post-implementation."
+  },
+  {
+    "question": "Does Clickmasters manage HubSpot email for Philadelphia B2B companies?",
+    "answer": "Yes. HubSpot Marketing Hub management for Philadelphia's healthcare technology, pharmaceutical, and professional services B2B companies. HIPAA-covered HubSpot BAA for healthcare clients. Deal-stage-triggered automation, named account sequences for GSK and AstraZeneca targets."
+  },
+  {
+    "question": "Does Clickmasters serve the Main Line, King of Prussia, and Delaware Valley?",
+    "answer": "Yes — all of the Delaware Valley: Philadelphia city, Delaware County (Main Line), Montgomery County (King of Prussia), Bucks County, Chester County, New Jersey, and Delaware."
+  },
+  {
+    "question": "How long does Philadelphia healthcare patient email produce results?",
+    "answer": "Philadelphia HIPAA patient email: lapsed patient reactivation measurable within 30-60 days. Appointment no-show rate reduction: measurable within 60-90 days. Annual revenue from reactivated patients: fully measurable at 6-12 months. Law firm PA RPC rebuild: first compliant emails sending within 21-30 days (RPC review adds time)."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Philadelphia?","acceptedAnswer":{"@type":"Answer","text":"Philadelphia email marketing: \$900/month (Foundation) to \$9,500+/month (Enterprise). HIPAA compliance for healthcare. Pennsylvania RPC compliance for law firms. FDA-aware for pharmaceutical. 90-day performance guarantee."}},{"@type":"Question","name":"Does Clickmasters provide HIPAA-compliant patient email for Philadelphia healthcare?","acceptedAnswer":{"@type":"Answer","text":"Yes. HIPAA-covered ESP (HubSpot with BAA or Salesforce Health Cloud) for all Philadelphia healthcare email programmes. PHI-safe appointment reminder design. HIPAA minimum-necessary post-care follow-up. Lapsed patient reactivation without condition-specific references. OCR-compliant patient communication architecture throughout."}},{"@type":"Question","name":"Does Clickmasters provide Pennsylvania RPC-compliant email for Philadelphia law firms?","acceptedAnswer":{"@type":"Answer","text":"Yes. Pennsylvania Rules of Professional Conduct compliance review for every email before sending. No improper client solicitation in newsletter content, appropriate fee discussion protocols, no matter-specific information in general distribution lists. Pennsylvania Bar-reviewed templates. Zero RPC findings for law firm email clients post-implementation."}},{"@type":"Question","name":"Does Clickmasters manage HubSpot email for Philadelphia B2B companies?","acceptedAnswer":{"@type":"Answer","text":"Yes. HubSpot Marketing Hub management for Philadelphia's healthcare technology, pharmaceutical, and professional services B2B companies. HIPAA-covered HubSpot BAA for healthcare clients. Deal-stage-triggered automation, named account sequences for GSK and AstraZeneca targets."}},{"@type":"Question","name":"Does Clickmasters serve the Main Line, King of Prussia, and Delaware Valley?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Delaware Valley: Philadelphia city, Delaware County (Main Line), Montgomery County (King of Prussia), Bucks County, Chester County, New Jersey, and Delaware."}},{"@type":"Question","name":"How long does Philadelphia healthcare patient email produce results?","acceptedAnswer":{"@type":"Answer","text":"Philadelphia HIPAA patient email: lapsed patient reactivation measurable within 30-60 days. Appointment no-show rate reduction: measurable within 60-90 days. Annual revenue from reactivated patients: fully measurable at 6-12 months. Law firm PA RPC rebuild: first compliant emails sending within 21-30 days (RPC review adds time)."}}]}`,
   cta: `Get Your Free Philadelphia Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-philadelphia/","/seo-services-philadelphia/","/email-marketing-boston/","/integrations/hubspot-marketing/","/industries/healthcare/"],
@@ -60,7 +87,7 @@ Results: Pharma prospect re-engagement: 44% in 6 months | GSK evaluation: re-ent
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-philadelphia/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

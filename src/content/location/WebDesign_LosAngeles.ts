@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-LosAngeles.xlsx
 // Service: WebDesign
 // City: LosAngeles
-// Generated: 2026-06-19T12:50:29.021Z
+// URL: /web-design-agency-los-angeles/
+// Generated: 2026-06-20T04:42:14.709Z
 
 export const WebDesign_LosAngeles = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "LosAngeles",
   citySlug: "los-angeles",
-  slug: "/locations/web-design/los-angeles",
+  slug: "/web-design-agency-los-angeles/",
   
   h1: `Web Design Agency Los Angeles — Creator Economy Visual Standard, Entertainment B2B Credibility, and CCPA-Native Design`,
   primaryKw: `web design agency los angeles`,
@@ -16,7 +17,7 @@ export const WebDesign_LosAngeles = {
   seoTitle: `Web Design Agency Los Angeles | Creator Economy & Entertainment B2B | Clickmasters`,
   meta: `Clickmasters web design in Los Angeles. Creator economy visual standard, entertainment B2B credibility design, and CCPA-native Silicon Beach technical precision for America's content capital. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Los Angeles Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-los-angeles/","address":{"@type":"PostalAddress","addressLocality":"Los Angeles","addressRegion":"CA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN LOS ANGELES?
 
 A Los Angeles web design agency builds websites for LA-area businesses combining the creator economy visual quality standard that the world's most socially sophisticated consumer audience expects, the entertainment B2B vendor credibility architecture that Netflix, Disney+, and Warner Bros. technical teams evaluate, and the CCPA-native privacy architecture that California's legal environment and data-driven commercial culture both demand.
@@ -50,7 +51,33 @@ Case Study 3: Playa Vista Silicon Beach Enterprise SaaS — Technical Precision 
 Client: Enterprise AI SaaS, Playa Vista (\$18M ARR). Challenge: Non-CCPA website. Below Silicon Beach engineering precision standard. 5.2s load time.
 Programme: AI/ML technical credibility pages + CCPA-native analytics + SOC 2 display + sub-1.2s LCP + WCAG 2.1 AA
 Results: CCPA: California AG pre-audit passed | Enterprise demo conversion: 0.4% to 2.2% | LCP: 5.2s to 1.0s | SOC 2 display: enterprise buyer cited as evaluation factor | Series B \$28M raised`,
-  faq: `FAQs — Web Design Los Angeles`,
+  faqTitle: `FAQs — Web Design Los Angeles`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Los Angeles?",
+    "answer": "LA web design: $8,000-$22,000 (DTC/entertainment B2B/Silicon Beach enterprise), $42,000-$110,000+ (enterprise). Creator economy visual standard. CCPA-native privacy architecture. WCAG 2.1 AA. Fixed-price contracts."
+  },
+  {
+    "question": "What is the creator economy web design standard in Los Angeles?",
+    "answer": "Creator economy web design means professional creative direction at the quality level that LA's design-literate consumer community evaluates — calibrated by a decade of proximity to Hollywood's visual storytelling precision and the advertising industry's commercial design sophistication. Editorial-quality photography, platform-native design language, authentic visual voice. Not commercial template design — the creator economy standard that earns genuine community trust from LA's most discerning consumer audience."
+  },
+  {
+    "question": "What is entertainment B2B credential architecture for LA web design?",
+    "answer": "Entertainment B2B credential architecture includes: Vimeo premium showreel integration at Netflix/Disney technical team evaluation standard, IATSE union-standard workflow and capability documentation, production credit display with IMDB reference links, festival award recognition display, and streaming platform technical specification compliance pages. The website architecture that earns studio technical team evaluation invitation."
+  },
+  {
+    "question": "Does Clickmasters build CCPA-native websites for Los Angeles businesses?",
+    "answer": "Yes. CCPA and CPRA compliance built into every LA website from the design specification stage: CPRA-compliant consent management infrastructure, privacy-by-design analytics data minimisation, server-side tracking for consent-tier adaptation, third-party script consent management. The CCPA-native website that protects LA businesses from California AG enforcement while communicating genuine privacy values."
+  },
+  {
+    "question": "Does Clickmasters serve Long Beach, Burbank, and Greater Los Angeles?",
+    "answer": "Yes — all of Greater Los Angeles: LA County, Orange County, Ventura County, and the full 88-incorporated-city metropolitan area."
+  },
+  {
+    "question": "How long does an LA web design project take?",
+    "answer": "DTC/consumer brand: 8-14 weeks (photography creative direction adds time). Entertainment B2B (production credit clearances and showreel integration add time): 10-16 weeks. Silicon Beach enterprise: 10-16 weeks. Enterprise: 16-32 weeks. LA projects typically include more creative direction time than equivalent projects in other markets due to the creator economy visual standard requirement."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Los Angeles?","acceptedAnswer":{"@type":"Answer","text":"LA web design: \$8,000-\$22,000 (DTC/entertainment B2B/Silicon Beach enterprise), \$42,000-\$110,000+ (enterprise). Creator economy visual standard. CCPA-native privacy architecture. WCAG 2.1 AA. Fixed-price contracts."}},{"@type":"Question","name":"What is the creator economy web design standard in Los Angeles?","acceptedAnswer":{"@type":"Answer","text":"Creator economy web design means professional creative direction at the quality level that LA's design-literate consumer community evaluates — calibrated by a decade of proximity to Hollywood's visual storytelling precision and the advertising industry's commercial design sophistication. Editorial-quality photography, platform-native design language, authentic visual voice. Not commercial template design — the creator economy standard that earns genuine community trust from LA's most discerning consumer audience."}},{"@type":"Question","name":"What is entertainment B2B credential architecture for LA web design?","acceptedAnswer":{"@type":"Answer","text":"Entertainment B2B credential architecture includes: Vimeo premium showreel integration at Netflix/Disney technical team evaluation standard, IATSE union-standard workflow and capability documentation, production credit display with IMDB reference links, festival award recognition display, and streaming platform technical specification compliance pages. The website architecture that earns studio technical team evaluation invitation."}},{"@type":"Question","name":"Does Clickmasters build CCPA-native websites for Los Angeles businesses?","acceptedAnswer":{"@type":"Answer","text":"Yes. CCPA and CPRA compliance built into every LA website from the design specification stage: CPRA-compliant consent management infrastructure, privacy-by-design analytics data minimisation, server-side tracking for consent-tier adaptation, third-party script consent management. The CCPA-native website that protects LA businesses from California AG enforcement while communicating genuine privacy values."}},{"@type":"Question","name":"Does Clickmasters serve Long Beach, Burbank, and Greater Los Angeles?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Los Angeles: LA County, Orange County, Ventura County, and the full 88-incorporated-city metropolitan area."}},{"@type":"Question","name":"How long does an LA web design project take?","acceptedAnswer":{"@type":"Answer","text":"DTC/consumer brand: 8-14 weeks (photography creative direction adds time). Entertainment B2B (production credit clearances and showreel integration add time): 10-16 weeks. Silicon Beach enterprise: 10-16 weeks. Enterprise: 16-32 weeks. LA projects typically include more creative direction time than equivalent projects in other markets due to the creator economy visual standard requirement."}}]}`,
   cta: `Get Your Free Los Angeles Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-los-angeles/","/seo-services-los-angeles/","/web-design-agency-san-francisco/","/industries/entertainment/","/tools/website-grader/"],
@@ -60,7 +87,7 @@ Results: CCPA: California AG pre-audit passed | Enterprise demo conversion: 0.4%
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-los-angeles/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

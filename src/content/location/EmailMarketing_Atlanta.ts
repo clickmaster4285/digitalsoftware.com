@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Atlanta.xlsx
 // Service: EmailMarketing
 // City: Atlanta
-// Generated: 2026-06-19T12:50:26.299Z
+// URL: /email-marketing-atlanta/
+// Generated: 2026-06-20T04:42:11.686Z
 
 export const EmailMarketing_Atlanta = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "Atlanta",
   citySlug: "atlanta",
-  slug: "/locations/email-marketing/atlanta",
+  slug: "/email-marketing-atlanta/",
   
   h1: `Email Marketing Atlanta — Fortune 500 Vendor Pipeline, Transaction Alley Fintech, and Georgia Commercial Capital Nurture`,
   primaryKw: `email marketing agency atlanta`,
@@ -16,7 +17,7 @@ export const EmailMarketing_Atlanta = {
   seoTitle: `Email Marketing Agency Atlanta | Fortune 500 & Transaction Alley Pipeline | Clickmasters`,
   meta: `Clickmasters email marketing in Atlanta. Fortune 500 vendor pipeline for Coca-Cola, Delta, Home Depot ecosystem and Transaction Alley PCI-DSS-aware fintech nurture. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Atlanta Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-atlanta/","address":{"@type":"PostalAddress","addressLocality":"Atlanta","addressRegion":"GA","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN ATLANTA?
 
 Email marketing in Atlanta is the strategic management of email as a Fortune 500 vendor pipeline, Transaction Alley fintech relationship, and Georgia commercial capital nurture channel — calibrated to the Coca-Cola, Delta Air Lines, and Home Depot commercial culture that defines Southeast's largest metropolitan economy.
@@ -50,7 +51,33 @@ Case Study 3: Buckhead Healthcare Practice — HIPAA Patient Retention
 Client: Specialist practice, Buckhead Atlanta (3 physicians, 4,800 active patients). Challenge: Non-HIPAA ESP. 780 lapsed patients. High switching to Emory Healthcare specialists.
 Programme: HIPAA migration (HubSpot BAA) + lapsed reactivation + post-care follow-up + annual preventive
 Results: HIPAA compliance: clean | Lapsed reactivation: 36% in 5 months | Revenue from reactivated: \$820K | Switching rate: -32%`,
-  faq: `FAQs — Email Marketing Atlanta`,
+  faqTitle: `FAQs — Email Marketing Atlanta`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Atlanta?",
+    "answer": "Atlanta email marketing: $900/month (Foundation) to $9,500+/month (Enterprise). Fortune 500 operational vocabulary precision. PCI-DSS-aware for Transaction Alley fintech. HIPAA for healthcare. 90-day performance guarantee."
+  },
+  {
+    "question": "What is Fortune 500 Atlanta vendor email marketing?",
+    "answer": "Fortune 500 Atlanta vendor email maintains commercial relationship continuity through Atlanta's 90-180 day procurement cycles with company-specific operational vocabulary content: Delta IDG (Irregular Departures per Gate) operations management, Coca-Cola supply chain velocity, Home Depot Pro segment operational content. The email that demonstrates genuine Fortune 500 operational knowledge earns fundamentally different engagement than generic 'digital transformation newsletter' content."
+  },
+  {
+    "question": "What is PCI-DSS-aware email for Atlanta Transaction Alley fintech?",
+    "answer": "PCI-DSS-aware Transaction Alley email communicates payment technology operational intelligence without cardholder data exposure: no PAN (Primary Account Number) in email examples, appropriate scope framing for sensitive financial data discussion, tokenisation and EMV processing vocabulary calibrated to the enterprise payment industry's specific operational language."
+  },
+  {
+    "question": "Does Clickmasters manage HubSpot email for Atlanta B2B companies?",
+    "answer": "Yes. HubSpot Marketing Hub for Atlanta's Fortune 500 vendor development and Transaction Alley fintech companies. Salesforce integration for Fortune 500 pipeline attribution. Delta/Coca-Cola/Home Depot named account sequences. Deal-stage-triggered automation for Atlanta's 90-180 day procurement cycles."
+  },
+  {
+    "question": "Does Clickmasters serve Sandy Springs, Alpharetta, and Metro Atlanta?",
+    "answer": "Yes — all of Metro Atlanta including Buckhead, Sandy Springs, Alpharetta, Roswell, Marietta, Decatur, and the full Atlanta metropolitan area."
+  },
+  {
+    "question": "How long does Atlanta Fortune 500 email produce pipeline results?",
+    "answer": "Atlanta Fortune 500 email timelines: First Fortune 500 prospect re-engagement from operational vocabulary nurture: 14-30 days. Delta/Coca-Cola RFP evaluation invitations from email-nurtured contacts: 60-90 days. Full Fortune 500 pipeline contribution: 5-8 months — accounting for Atlanta's 90-180 day Fortune 500 procurement cycles."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Atlanta?","acceptedAnswer":{"@type":"Answer","text":"Atlanta email marketing: \$900/month (Foundation) to \$9,500+/month (Enterprise). Fortune 500 operational vocabulary precision. PCI-DSS-aware for Transaction Alley fintech. HIPAA for healthcare. 90-day performance guarantee."}},{"@type":"Question","name":"What is Fortune 500 Atlanta vendor email marketing?","acceptedAnswer":{"@type":"Answer","text":"Fortune 500 Atlanta vendor email maintains commercial relationship continuity through Atlanta's 90-180 day procurement cycles with company-specific operational vocabulary content: Delta IDG (Irregular Departures per Gate) operations management, Coca-Cola supply chain velocity, Home Depot Pro segment operational content. The email that demonstrates genuine Fortune 500 operational knowledge earns fundamentally different engagement than generic 'digital transformation newsletter' content."}},{"@type":"Question","name":"What is PCI-DSS-aware email for Atlanta Transaction Alley fintech?","acceptedAnswer":{"@type":"Answer","text":"PCI-DSS-aware Transaction Alley email communicates payment technology operational intelligence without cardholder data exposure: no PAN (Primary Account Number) in email examples, appropriate scope framing for sensitive financial data discussion, tokenisation and EMV processing vocabulary calibrated to the enterprise payment industry's specific operational language."}},{"@type":"Question","name":"Does Clickmasters manage HubSpot email for Atlanta B2B companies?","acceptedAnswer":{"@type":"Answer","text":"Yes. HubSpot Marketing Hub for Atlanta's Fortune 500 vendor development and Transaction Alley fintech companies. Salesforce integration for Fortune 500 pipeline attribution. Delta/Coca-Cola/Home Depot named account sequences. Deal-stage-triggered automation for Atlanta's 90-180 day procurement cycles."}},{"@type":"Question","name":"Does Clickmasters serve Sandy Springs, Alpharetta, and Metro Atlanta?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Metro Atlanta including Buckhead, Sandy Springs, Alpharetta, Roswell, Marietta, Decatur, and the full Atlanta metropolitan area."}},{"@type":"Question","name":"How long does Atlanta Fortune 500 email produce pipeline results?","acceptedAnswer":{"@type":"Answer","text":"Atlanta Fortune 500 email timelines: First Fortune 500 prospect re-engagement from operational vocabulary nurture: 14-30 days. Delta/Coca-Cola RFP evaluation invitations from email-nurtured contacts: 60-90 days. Full Fortune 500 pipeline contribution: 5-8 months — accounting for Atlanta's 90-180 day Fortune 500 procurement cycles."}}]}`,
   cta: `Get Your Free Atlanta Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-atlanta/","/seo-services-atlanta/","/email-marketing-dallas/","/integrations/hubspot-marketing/","/industries/fintech/"],
@@ -60,7 +87,7 @@ Results: HIPAA compliance: clean | Lapsed reactivation: 36% in 5 months | Revenu
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-atlanta/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Pittsburgh.xlsx
 // Service: SocialMedia
 // City: Pittsburgh
-// Generated: 2026-06-19T12:50:28.678Z
+// URL: /social-media-marketing-pittsburgh/
+// Generated: 2026-06-20T04:42:14.349Z
 
 export const SocialMedia_Pittsburgh = {
   service: "SocialMedia",
   serviceSlug: "social-media",
   city: "Pittsburgh",
   citySlug: "pittsburgh",
-  slug: "/locations/social-media/pittsburgh",
+  slug: "/social-media-marketing-pittsburgh/",
   
   h1: `Social Media Marketing Pittsburgh — UPMC Clinical LinkedIn, CMU AI Corridor Engineering, and Authentic Steel City Brand Social`,
   primaryKw: `social media marketing pittsburgh`,
@@ -16,7 +17,7 @@ export const SocialMedia_Pittsburgh = {
   seoTitle: `Social Media Marketing Pittsburgh | UPMC Clinical LinkedIn & CMU AI Corridor | Clickmasters`,
   meta: `Clickmasters social media marketing in Pittsburgh. UPMC world-class clinical professional LinkedIn, CMU AI Corridor engineering community, and authentic Lawrenceville/South Side/Squirrel Hill brand social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Pittsburgh Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-pittsburgh/","address":{"@type":"PostalAddress","addressLocality":"Pittsburgh","addressRegion":"PA","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN PITTSBURGH?
 
 Social media marketing in Pittsburgh is the strategic management of social platforms across three commercially distinct communities: the UPMC world-class clinical professional LinkedIn ecosystem, the CMU AI Corridor applied AI and autonomous vehicle engineering community, and the authentic Steel City consumer brand community in Lawrenceville, South Side, and Squirrel Hill.
@@ -41,7 +42,33 @@ Case Study 3: Lawrenceville Creative Brand — Authentic Pittsburgh Social
 Client: Artisan design brand, Lawrenceville (\$1.4M DTC). Challenge: Generic 'Pittsburgh arts' Instagram below Lawrenceville authentic community standard.
 Programme: Butler Street community vocabulary + South Side Flats authentic food community + Squirrel Hill neighbourhood character
 Results (5 months): Instagram engagement: 1.4% to 5.2% | Lawrenceville community editorial: 2 | DTC revenue from social: +\$100K`,
-  faq: `FAQs — Social Media Marketing Pittsburgh`,
+  faqTitle: `FAQs — Social Media Marketing Pittsburgh`,
+  faqs: [
+  {
+    "question": "How much does social media marketing cost in Pittsburgh?",
+    "answer": "Pittsburgh social media: $1,200/month (LinkedIn growth) to $13,000+/month (enterprise). UPMC world-class clinical precision. CMU AI Corridor autonomous vehicle engineering. Authentic Steel City brand. Pennsylvania retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is CMU AI Corridor LinkedIn for Pittsburgh AI businesses?",
+    "answer": "CMU AI Corridor LinkedIn demonstrates autonomous vehicle engineering precision (LiDAR-camera sensor fusion pipeline, safety-critical autonomy methodology, HD map generation operational specifics), transformer model architecture application methodology, and CMU NREC robotics perception field deployment intelligence — the AI Corridor vocabulary that earns genuine Aurora Innovation, Google AI Pittsburgh, and CMU community LinkedIn engagement."
+  },
+  {
+    "question": "What is authentic Steel City consumer brand social for Pittsburgh?",
+    "answer": "Lawrenceville's Butler Street community vocabulary (the most dramatically revitalised Rust Belt neighbourhood), South Side Flats' authentic bar and food community character, and Squirrel Hill's culturally vibrant neighbourhood identity — the specific Pittsburgh neighbourhood identities that distinguish genuinely locally-rooted Steel City brands from generic Pennsylvania commercial approximations."
+  },
+  {
+    "question": "Does Clickmasters serve Shadyside, Squirrel Hill, Robinson Township, and Greater Pittsburgh?",
+    "answer": "Yes — all of Greater Pittsburgh MSA."
+  },
+  {
+    "question": "What is UPMC world-class internationally-oriented clinical LinkedIn for Pittsburgh health IT vendors?",
+    "answer": "UPMC clinical LinkedIn at world-class UPMC International precision: UPMC Hillman Cancer Center oncology research community, UPMC Presbyterian cardiothoracic surgery operational intelligence, UPMC Transplantation analytics, and University of Pittsburgh School of Medicine clinical research — LinkedIn content that earns UPMC engagement from Pittsburgh to Rome and Singapore."
+  },
+  {
+    "question": "How does Clickmasters measure Pittsburgh social media outcomes?",
+    "answer": "CMU AI Corridor LinkedIn: Aurora/Google AI/CMU connections and AI Corridor evaluation invitations. UPMC LinkedIn: UPMC/UPMC International connections and health IT evaluation invitations. Steel City brand: engagement vs Pittsburgh community benchmark, editorial features, DTC revenue attribution."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Pittsburgh?","acceptedAnswer":{"@type":"Answer","text":"Pittsburgh social media: \$1,200/month (LinkedIn growth) to \$13,000+/month (enterprise). UPMC world-class clinical precision. CMU AI Corridor autonomous vehicle engineering. Authentic Steel City brand. Pennsylvania retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is CMU AI Corridor LinkedIn for Pittsburgh AI businesses?","acceptedAnswer":{"@type":"Answer","text":"CMU AI Corridor LinkedIn demonstrates autonomous vehicle engineering precision (LiDAR-camera sensor fusion pipeline, safety-critical autonomy methodology, HD map generation operational specifics), transformer model architecture application methodology, and CMU NREC robotics perception field deployment intelligence — the AI Corridor vocabulary that earns genuine Aurora Innovation, Google AI Pittsburgh, and CMU community LinkedIn engagement."}},{"@type":"Question","name":"What is authentic Steel City consumer brand social for Pittsburgh?","acceptedAnswer":{"@type":"Answer","text":"Lawrenceville's Butler Street community vocabulary (the most dramatically revitalised Rust Belt neighbourhood), South Side Flats' authentic bar and food community character, and Squirrel Hill's culturally vibrant neighbourhood identity — the specific Pittsburgh neighbourhood identities that distinguish genuinely locally-rooted Steel City brands from generic Pennsylvania commercial approximations."}},{"@type":"Question","name":"Does Clickmasters serve Shadyside, Squirrel Hill, Robinson Township, and Greater Pittsburgh?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Pittsburgh MSA."}},{"@type":"Question","name":"What is UPMC world-class internationally-oriented clinical LinkedIn for Pittsburgh health IT vendors?","acceptedAnswer":{"@type":"Answer","text":"UPMC clinical LinkedIn at world-class UPMC International precision: UPMC Hillman Cancer Center oncology research community, UPMC Presbyterian cardiothoracic surgery operational intelligence, UPMC Transplantation analytics, and University of Pittsburgh School of Medicine clinical research — LinkedIn content that earns UPMC engagement from Pittsburgh to Rome and Singapore."}},{"@type":"Question","name":"How does Clickmasters measure Pittsburgh social media outcomes?","acceptedAnswer":{"@type":"Answer","text":"CMU AI Corridor LinkedIn: Aurora/Google AI/CMU connections and AI Corridor evaluation invitations. UPMC LinkedIn: UPMC/UPMC International connections and health IT evaluation invitations. Steel City brand: engagement vs Pittsburgh community benchmark, editorial features, DTC revenue attribution."}}]}`,
   cta: `Get Your Free Pittsburgh Social Media Audit`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-pittsburgh/","/seo-services-pittsburgh/","/social-media-marketing-cleveland/"],
@@ -51,7 +78,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.2% | Lawrenceville community
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /social-media-marketing-pittsburgh/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-LosAngeles.xlsx
 // Service: EmailMarketing
 // City: LosAngeles
-// Generated: 2026-06-19T12:50:26.487Z
+// URL: /email-marketing-los-angeles/
+// Generated: 2026-06-20T04:42:11.958Z
 
 export const EmailMarketing_LosAngeles = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "LosAngeles",
   citySlug: "los-angeles",
-  slug: "/locations/email-marketing/los-angeles",
+  slug: "/email-marketing-los-angeles/",
   
   h1: `Email Marketing Los Angeles — Entertainment B2B Pipeline, CCPA-Native DTC, and Silicon Beach Enterprise Nurture`,
   primaryKw: `email marketing agency los angeles`,
@@ -16,7 +17,7 @@ export const EmailMarketing_LosAngeles = {
   seoTitle: `Email Marketing Agency Los Angeles | Entertainment B2B & CCPA-Native | Clickmasters`,
   meta: `Clickmasters email marketing in Los Angeles. Entertainment B2B pipeline nurture, CCPA-native Klaviyo DTC, and Silicon Beach enterprise email for America's content capital. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Los Angeles Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-los-angeles/","address":{"@type":"PostalAddress","addressLocality":"Los Angeles","addressRegion":"CA","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN LOS ANGELES?
 
 Email marketing in Los Angeles is the strategic management of email as an entertainment B2B pipeline, CCPA-accurate DTC revenue, and Silicon Beach enterprise nurture channel for LA-area businesses — with CCPA and CPRA compliance as the non-negotiable legal and measurement accuracy baseline for all LA email programmes.
@@ -50,7 +51,33 @@ Case Study 3: West Hollywood DTC Beauty Brand — CCPA-Native Klaviyo Programme
 Client: Beauty DTC, West Hollywood (\$6.8M Shopify). Challenge: Non-CPRA Klaviyo. Email revenue overreported by 33%. Creator economy aesthetic below LA standard.
 Programme: CPRA-native Klaviyo rebuild + creator economy aesthetic templates + server-side Shopify attribution + 12-flow automation
 Results: Actual email revenue: corrected from inflated \$480K to \$320K accurate then optimised to \$720K | Email revenue: 9% to 28% of total | Creator economy aesthetic: 4.1x above previous generic templates | CPRA: clean`,
-  faq: `FAQs — Email Marketing Los Angeles`,
+  faqTitle: `FAQs — Email Marketing Los Angeles`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Los Angeles?",
+    "answer": "LA email marketing: $1,200/month (Foundation) to $12,000+/month (Enterprise). CCPA/CPRA-native measurement accuracy. Entertainment production vocabulary for B2B. Creator economy aesthetic for DTC. 90-day performance guarantee."
+  },
+  {
+    "question": "What is CCPA-native email marketing in Los Angeles?",
+    "answer": "CPRA-native email marketing implements consent management for subscriber data collection, email preference management meeting California AG standards, and server-side attribution connecting email engagement to CRM/Shopify without consent-denied data loss. LA's above-average opt-out rates make CPRA compliance both a California AG enforcement requirement and a measurement accuracy necessity — non-CPRA email programmes overstate performance by 30-40%."
+  },
+  {
+    "question": "How does entertainment B2B email marketing work for LA vendors?",
+    "answer": "Entertainment B2B email maintains vendor relationships through LA's 90-180 day entertainment procurement cycles with production vocabulary content: IMF/DCP workflow updates, streaming platform technical specification updates, SVOD acquisition economics intelligence. Named studio sequences for Netflix/Disney+/WB/A24 procurement development. HubSpot deal-stage triggers calibrated to entertainment production evaluation timelines."
+  },
+  {
+    "question": "Does Clickmasters manage CPRA-compliant Klaviyo for LA DTC brands?",
+    "answer": "Yes. CPRA-native Klaviyo: consent management for subscriber data collection, server-side Shopify revenue attribution without consent-denied data loss, and email preference management meeting California AG standards. 12-flow automation at the creator economy production aesthetic standard that LA's design-sophisticated consumer community evaluates."
+  },
+  {
+    "question": "Does Clickmasters serve Long Beach, Burbank, and Greater Los Angeles?",
+    "answer": "Yes — all of Greater Los Angeles: LA County, Orange County, Ventura County, and the full metropolitan area."
+  },
+  {
+    "question": "How quickly does LA entertainment B2B email produce studio pipeline results?",
+    "answer": "LA entertainment B2B email timelines: first studio prospect re-engagement from production vocabulary nurture: 14-30 days. Named studio evaluation invitations from email: 60-90 days. Full entertainment B2B pipeline contribution from email nurture: 5-8 months — accounting for LA's 90-180 day entertainment procurement evaluation cycles."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Los Angeles?","acceptedAnswer":{"@type":"Answer","text":"LA email marketing: \$1,200/month (Foundation) to \$12,000+/month (Enterprise). CCPA/CPRA-native measurement accuracy. Entertainment production vocabulary for B2B. Creator economy aesthetic for DTC. 90-day performance guarantee."}},{"@type":"Question","name":"What is CCPA-native email marketing in Los Angeles?","acceptedAnswer":{"@type":"Answer","text":"CPRA-native email marketing implements consent management for subscriber data collection, email preference management meeting California AG standards, and server-side attribution connecting email engagement to CRM/Shopify without consent-denied data loss. LA's above-average opt-out rates make CPRA compliance both a California AG enforcement requirement and a measurement accuracy necessity — non-CPRA email programmes overstate performance by 30-40%."}},{"@type":"Question","name":"How does entertainment B2B email marketing work for LA vendors?","acceptedAnswer":{"@type":"Answer","text":"Entertainment B2B email maintains vendor relationships through LA's 90-180 day entertainment procurement cycles with production vocabulary content: IMF/DCP workflow updates, streaming platform technical specification updates, SVOD acquisition economics intelligence. Named studio sequences for Netflix/Disney+/WB/A24 procurement development. HubSpot deal-stage triggers calibrated to entertainment production evaluation timelines."}},{"@type":"Question","name":"Does Clickmasters manage CPRA-compliant Klaviyo for LA DTC brands?","acceptedAnswer":{"@type":"Answer","text":"Yes. CPRA-native Klaviyo: consent management for subscriber data collection, server-side Shopify revenue attribution without consent-denied data loss, and email preference management meeting California AG standards. 12-flow automation at the creator economy production aesthetic standard that LA's design-sophisticated consumer community evaluates."}},{"@type":"Question","name":"Does Clickmasters serve Long Beach, Burbank, and Greater Los Angeles?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Los Angeles: LA County, Orange County, Ventura County, and the full metropolitan area."}},{"@type":"Question","name":"How quickly does LA entertainment B2B email produce studio pipeline results?","acceptedAnswer":{"@type":"Answer","text":"LA entertainment B2B email timelines: first studio prospect re-engagement from production vocabulary nurture: 14-30 days. Named studio evaluation invitations from email: 60-90 days. Full entertainment B2B pipeline contribution from email nurture: 5-8 months — accounting for LA's 90-180 day entertainment procurement evaluation cycles."}}]}`,
   cta: `Get Your Free Los Angeles Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-los-angeles/","/seo-services-los-angeles/","/email-marketing-san-francisco/","/integrations/klaviyo-email-marketing/","/industries/entertainment/"],
@@ -60,7 +87,7 @@ Results: Actual email revenue: corrected from inflated \$480K to \$320K accurate
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-los-angeles/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

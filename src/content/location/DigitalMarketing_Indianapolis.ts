@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Indianapolis.xlsx
 // Service: DigitalMarketing
 // City: Indianapolis
-// Generated: 2026-06-19T12:50:25.707Z
+// URL: /digital-marketing-agency-indianapolis/
+// Generated: 2026-06-20T04:42:11.292Z
 
 export const DigitalMarketing_Indianapolis = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Indianapolis",
   citySlug: "indianapolis",
-  slug: "/locations/digital-marketing/indianapolis",
+  slug: "/digital-marketing-agency-indianapolis/",
   
   h1: `Digital Marketing Agency Indianapolis — Eli Lilly Pharma Revenue, Cummins/Simon Fortune 500, and Crossroads of America Commercial Growth`,
   primaryKw: `digital marketing agency indianapolis`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_Indianapolis = {
   seoTitle: `Digital Marketing Agency Indianapolis | Eli Lilly Pharma & Fortune 500 Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Indianapolis. Eli Lilly pharmaceutical vendor revenue, Cummins/Simon Property Fortune 500, and IU Health academic medical for the Crossroads of America. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Indianapolis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-indianapolis/","address":{"@type":"PostalAddress","addressLocality":"Indianapolis","addressRegion":"IN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN INDIANAPOLIS?
 
 A Indianapolis digital marketing agency manages digital channels for businesses in a market that hosts Eli Lilly's global pharmaceutical headquarters, Cummins' commercial engine empire, Simon Property Group's global real estate operations, and the Indianapolis Motor Speedway — four commercially distinct B2B opportunities that define the Crossroads of America's commercial identity.
@@ -43,7 +44,33 @@ Case Study 3: Carmel Financial Advisory — IU Health/Lilly Professional Communi
 Client: Fee-only RIA, Carmel (\$220M AUM). Challenge: IU Health/Lilly professional community vocabulary absent. Generic Indy content.
 Programme: SEO + Google Ads (IU Health/Lilly community) + email (Carmel professional onboarding) + Local SEO (Carmel quality GBP)
 Results (11 months): In-migration professional leads: +3x | Lilly/IU Health community organic: +3x | New AUM: \$24M | FINRA: clean`,
-  faq: `FAQs — Digital Marketing Indianapolis`,
+  faqTitle: `FAQs — Digital Marketing Indianapolis`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Indianapolis?",
+    "answer": "Indianapolis digital marketing: $1,300/month (single channel) to $14,000+/month (enterprise). Eli Lilly GMP/FDA pharmaceutical vocabulary. Cummins/Simon Fortune 500. IU Health YMYL. HIPAA healthcare. FINRA financial. Midwest retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "Which digital channels work best for Indianapolis Eli Lilly pharmaceutical vendors?",
+    "answer": "(1) SEO — GMP/CMC/FDA vocabulary for new Lilly/Corteva executives without existing vendor relationships. (2) LinkedIn — Indianapolis pharmaceutical manufacturing community thought leadership. (3) Email — Lilly/Corteva/Elanco named account HubSpot pipeline nurture. (4) Google Ads — GMP pharmaceutical manufacturing vocabulary PPC at Indianapolis CPCs below Boston/San Francisco equivalents."
+  },
+  {
+    "question": "Does Clickmasters serve Carmel, Fishers, Zionsville, and Greater Indianapolis?",
+    "answer": "Yes — all of Greater Indianapolis MSA."
+  },
+  {
+    "question": "How quickly does Indianapolis Eli Lilly digital marketing produce pharmaceutical results?",
+    "answer": "GMP/FDA vocabulary SEO rankings: 5-8 months. Lilly LinkedIn connections: 2-4 months. GMP vocabulary Google Ads leads: 7-14 days. First Lilly/Corteva evaluation from integrated programme: 5-8 months."
+  },
+  {
+    "question": "What is Indianapolis motorsports B2B digital marketing?",
+    "answer": "Indy 500, Brickyard 400, and F1 US Grand Prix create a motorsports B2B digital marketing community: IndyCar technology vendors, motorsports engineering services, Penske Entertainment operations, and racing supply chain companies whose buyer community uses motorsports technical vocabulary in vendor procurement research."
+  },
+  {
+    "question": "How does GEO/AEO affect Indianapolis digital marketing?",
+    "answer": "Eli Lilly's pharmaceutical procurement community and Cummins/Simon Fortune 500 professional communities use AI search tools for vendor research. First-mover GEO/AEO content in Indianapolis pharmaceutical and Fortune 500 manufacturing queries earns ChatGPT/Perplexity citation before competitors build equivalent content authority."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Indianapolis digital marketing: \$1,300/month (single channel) to \$14,000+/month (enterprise). Eli Lilly GMP/FDA pharmaceutical vocabulary. Cummins/Simon Fortune 500. IU Health YMYL. HIPAA healthcare. FINRA financial. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"Which digital channels work best for Indianapolis Eli Lilly pharmaceutical vendors?","acceptedAnswer":{"@type":"Answer","text":"(1) SEO — GMP/CMC/FDA vocabulary for new Lilly/Corteva executives without existing vendor relationships. (2) LinkedIn — Indianapolis pharmaceutical manufacturing community thought leadership. (3) Email — Lilly/Corteva/Elanco named account HubSpot pipeline nurture. (4) Google Ads — GMP pharmaceutical manufacturing vocabulary PPC at Indianapolis CPCs below Boston/San Francisco equivalents."}},{"@type":"Question","name":"Does Clickmasters serve Carmel, Fishers, Zionsville, and Greater Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Indianapolis MSA."}},{"@type":"Question","name":"How quickly does Indianapolis Eli Lilly digital marketing produce pharmaceutical results?","acceptedAnswer":{"@type":"Answer","text":"GMP/FDA vocabulary SEO rankings: 5-8 months. Lilly LinkedIn connections: 2-4 months. GMP vocabulary Google Ads leads: 7-14 days. First Lilly/Corteva evaluation from integrated programme: 5-8 months."}},{"@type":"Question","name":"What is Indianapolis motorsports B2B digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Indy 500, Brickyard 400, and F1 US Grand Prix create a motorsports B2B digital marketing community: IndyCar technology vendors, motorsports engineering services, Penske Entertainment operations, and racing supply chain companies whose buyer community uses motorsports technical vocabulary in vendor procurement research."}},{"@type":"Question","name":"How does GEO/AEO affect Indianapolis digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Eli Lilly's pharmaceutical procurement community and Cummins/Simon Fortune 500 professional communities use AI search tools for vendor research. First-mover GEO/AEO content in Indianapolis pharmaceutical and Fortune 500 manufacturing queries earns ChatGPT/Perplexity citation before competitors build equivalent content authority."}}]}`,
   cta: `Get Your Free Indianapolis Digital Marketing Audit`,
   internalLinks: ["/seo-services-indianapolis/","/digital-marketing-agency-usa/","/digital-marketing-agency-chicago/","/digital-marketing-agency-nashville/"],
@@ -53,7 +80,7 @@ Results (11 months): In-migration professional leads: +3x | Lilly/IU Health comm
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-indianapolis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

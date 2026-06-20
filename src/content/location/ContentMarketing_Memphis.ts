@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-Memphis.xlsx
 // Service: ContentMarketing
 // City: Memphis
-// Generated: 2026-06-19T12:50:25.275Z
+// URL: /content-marketing-memphis/
+// Generated: 2026-06-20T04:42:10.799Z
 
 export const ContentMarketing_Memphis = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "Memphis",
   citySlug: "memphis",
-  slug: "/locations/content-marketing/memphis",
+  slug: "/content-marketing-memphis/",
   
   h1: `Content Marketing Memphis — FedEx Logistics Authority, St. Jude World-Class Paediatric Oncology, and Bluff City Commercial Voice`,
   primaryKw: `content marketing agency memphis`,
@@ -16,7 +17,7 @@ export const ContentMarketing_Memphis = {
   seoTitle: `Content Marketing Memphis | FedEx Logistics Authority & St. Jude World-Class YMYL | Clickmasters`,
   meta: `Clickmasters content marketing in Memphis. FedEx logistics/supply chain authority, St. Jude world-class paediatric oncology research content, and AutoZone automotive retail analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Memphis Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-memphis/","address":{"@type":"PostalAddress","addressLocality":"Memphis","addressRegion":"TN","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN MEMPHIS?
 
 Content marketing in Memphis is the strategic creation of FedEx world headquarters logistics and supply chain authority content, St. Jude Children's Research Hospital world-class paediatric oncology research content, and AutoZone automotive retail analytics content.
@@ -50,7 +51,33 @@ Case Study 3: Memphis Automotive Analytics — AutoZone Retail Content
 Client: Retail analytics, Memphis (\$4.8M). Challenge: Generic retail content. AutoZone retail analytics vocabulary absent.
 Programme: AutoZone automotive retail analytics content + TIPA-native + GEO/AEO
 Results (10 months): Page 1 for 9 Memphis retail analytics queries | AutoZone VP: organic discovery | Pipeline: \$900K`,
-  faq: `FAQs — Content Marketing Memphis`,
+  faqTitle: `FAQs — Content Marketing Memphis`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in Memphis?",
+    "answer": "Memphis content marketing: $1,000/month (Foundation) to $9,500+/month (Full Programme). FedEx logistics/supply chain authority. St. Jude world-class paediatric oncology research. AutoZone automotive retail analytics. Tennessee TIPA-native. Tennessee retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is FedEx logistics content authority for Memphis businesses?",
+    "answer": "FedEx Ground sortation optimisation methodology, last-mile delivery analytics operational intelligence, supply chain visibility platform integration specifics, and FedEx Express Memphis International Airport hub operational content — earning organic discovery from FedEx World Technology Center procurement at Tennessee CPCs significantly below Atlanta and Chicago logistics technology equivalents."
+  },
+  {
+    "question": "What is St. Jude world-class paediatric oncology research content for Memphis health IT vendors?",
+    "answer": "Childhood cancer genomics research community content, clinical trial programme intelligence, computational biology and bioinformatics methodology, and world-class philanthropic-academic YMYL E-E-A-T content at ASCO/AACR research precision — earning organic discovery from St. Jude's globally recognised paediatric oncology research community."
+  },
+  {
+    "question": "Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?",
+    "answer": "Yes — all of Greater Memphis MSA."
+  },
+  {
+    "question": "How long does Memphis FedEx logistics content produce supply chain technology results?",
+    "answer": "FedEx logistics vocabulary rankings: 4-7 months. CSCMP/Gartner Supply Chain editorial engagement: 3-5 months. FedEx WTC organic discovery: 6-10 months. GEO/AEO FedEx logistics AI citations: 4-7 months."
+  },
+  {
+    "question": "How does GEO/AEO affect Memphis content marketing?",
+    "answer": "FedEx's logistics technology community and St. Jude's computational biology community use AI search for vendor research. First-mover GEO/AEO for Memphis FedEx logistics and St. Jude world-class paediatric oncology vocabulary earns ChatGPT/Perplexity citation before competitors build equivalent content authority in Tennessee's most commercially underaddressed B2B markets."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Memphis?","acceptedAnswer":{"@type":"Answer","text":"Memphis content marketing: \$1,000/month (Foundation) to \$9,500+/month (Full Programme). FedEx logistics/supply chain authority. St. Jude world-class paediatric oncology research. AutoZone automotive retail analytics. Tennessee TIPA-native. Tennessee retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is FedEx logistics content authority for Memphis businesses?","acceptedAnswer":{"@type":"Answer","text":"FedEx Ground sortation optimisation methodology, last-mile delivery analytics operational intelligence, supply chain visibility platform integration specifics, and FedEx Express Memphis International Airport hub operational content — earning organic discovery from FedEx World Technology Center procurement at Tennessee CPCs significantly below Atlanta and Chicago logistics technology equivalents."}},{"@type":"Question","name":"What is St. Jude world-class paediatric oncology research content for Memphis health IT vendors?","acceptedAnswer":{"@type":"Answer","text":"Childhood cancer genomics research community content, clinical trial programme intelligence, computational biology and bioinformatics methodology, and world-class philanthropic-academic YMYL E-E-A-T content at ASCO/AACR research precision — earning organic discovery from St. Jude's globally recognised paediatric oncology research community."}},{"@type":"Question","name":"Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Memphis MSA."}},{"@type":"Question","name":"How long does Memphis FedEx logistics content produce supply chain technology results?","acceptedAnswer":{"@type":"Answer","text":"FedEx logistics vocabulary rankings: 4-7 months. CSCMP/Gartner Supply Chain editorial engagement: 3-5 months. FedEx WTC organic discovery: 6-10 months. GEO/AEO FedEx logistics AI citations: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect Memphis content marketing?","acceptedAnswer":{"@type":"Answer","text":"FedEx's logistics technology community and St. Jude's computational biology community use AI search for vendor research. First-mover GEO/AEO for Memphis FedEx logistics and St. Jude world-class paediatric oncology vocabulary earns ChatGPT/Perplexity citation before competitors build equivalent content authority in Tennessee's most commercially underaddressed B2B markets."}}]}`,
   cta: `Get Your Free Memphis Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-memphis/","/seo-services-memphis/","/content-marketing-nashville/"],
@@ -60,7 +87,7 @@ Results (10 months): Page 1 for 9 Memphis retail analytics queries | AutoZone VP
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-memphis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

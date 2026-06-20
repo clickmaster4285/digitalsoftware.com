@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Knoxville.xlsx
 // Service: GoogleAds
 // City: Knoxville
-// Generated: 2026-06-19T12:50:26.989Z
+// URL: /google-ads-management-knoxville/
+// Generated: 2026-06-20T04:42:12.400Z
 
 export const GoogleAds_Knoxville = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "Knoxville",
   citySlug: "knoxville",
-  slug: "/locations/google-ads/knoxville",
+  slug: "/google-ads-management-knoxville/",
   
   h1: `Google Ads Management Knoxville — TVA Utility PPC, Pilot Flying J Fleet Logistics, and UT Medical/Covenant HIPAA TIPA`,
   primaryKw: `google ads agency knoxville`,
@@ -16,7 +17,7 @@ export const GoogleAds_Knoxville = {
   seoTitle: `Google Ads Agency Knoxville | TVA Utility PPC & Pilot Flying J Fleet Logistics | Clickmasters`,
   meta: `Clickmasters Google Ads in Knoxville. TVA utility/nuclear community PPC, Pilot Flying J trucking/fleet, UT Medical/Covenant HIPAA TIPA patient acquisition, and Tennessee TIPA consent management. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Knoxville Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-knoxville/","address":{"@type":"PostalAddress","addressLocality":"Knoxville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3200,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN KNOXVILLE?
 
 Google Ads management in Knoxville is PPC advertising across three categories: TVA utility/nuclear technology, Pilot Flying J fleet management and trucking analytics, and UT Medical/Covenant HIPAA TIPA patient acquisition.
@@ -41,7 +42,33 @@ Case Study 3: Knoxville Healthcare — UT Medical/Covenant HIPAA TIPA PPC
 Client: Internal medicine. Challenge: Non-HIPAA. Non-TIPA.
 Programme: HIPAA server-side + TIPA consent management + UT Medical/Covenant vocabulary
 Results: HIPAA/TIPA: clean | UT Medical CPL: \$110 vs \$290 generic | New patients: +3x`,
-  faq: `FAQs — Google Ads Knoxville`,
+  faqTitle: `FAQs — Google Ads Knoxville`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Knoxville?",
+    "answer": "Knoxville Google Ads: $900/month (Growth) to $9,000+/month (Enterprise). TVA utility/nuclear vocabulary. Pilot Flying J fleet. UT Medical HIPAA TIPA. Tennessee CPCs below Nashville/Atlanta. 90-day guarantee."
+  },
+  {
+    "question": "What is TVA utility Google Ads for Knoxville businesses?",
+    "answer": "TVA vocabulary campaigns: 'nuclear plant operations technology TVA Knoxville,' 'grid reliability management Tennessee Valley.' Tennessee CPCs significantly below Nashville and Atlanta utility advertising markets."
+  },
+  {
+    "question": "What is Pilot Flying J fleet Google Ads for Knoxville businesses?",
+    "answer": "Pilot Flying J campaigns: 'fleet fuel management technology Pilot Flying J Knoxville,' 'trucking analytics Tennessee.' Tennessee CPCs below Atlanta logistics advertising markets."
+  },
+  {
+    "question": "Does Clickmasters serve Farragut, Maryville, Oak Ridge, and Greater Knoxville?",
+    "answer": "Yes — all of Greater Knoxville MSA."
+  },
+  {
+    "question": "What is Tennessee TIPA consent management for Knoxville Google Ads?",
+    "answer": "Tennessee TIPA (effective July 1, 2025) consent management implements TIPA-compliant consent for Google Ads conversion tracking — protecting from Tennessee AG enforcement while producing accurate Knoxville performance measurement."
+  },
+  {
+    "question": "How do Knoxville CPCs compare to Nashville and Atlanta for utility?",
+    "answer": "Tennessee CPCs 15-20% below Nashville for utility technology vocabulary. 25-30% below Atlanta. TVA-specific Knoxville utility vocabulary has lower competition than major Southeastern utility advertising markets."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Knoxville Google Ads: \$900/month (Growth) to \$9,000+/month (Enterprise). TVA utility/nuclear vocabulary. Pilot Flying J fleet. UT Medical HIPAA TIPA. Tennessee CPCs below Nashville/Atlanta. 90-day guarantee."}},{"@type":"Question","name":"What is TVA utility Google Ads for Knoxville businesses?","acceptedAnswer":{"@type":"Answer","text":"TVA vocabulary campaigns: 'nuclear plant operations technology TVA Knoxville,' 'grid reliability management Tennessee Valley.' Tennessee CPCs significantly below Nashville and Atlanta utility advertising markets."}},{"@type":"Question","name":"What is Pilot Flying J fleet Google Ads for Knoxville businesses?","acceptedAnswer":{"@type":"Answer","text":"Pilot Flying J campaigns: 'fleet fuel management technology Pilot Flying J Knoxville,' 'trucking analytics Tennessee.' Tennessee CPCs below Atlanta logistics advertising markets."}},{"@type":"Question","name":"Does Clickmasters serve Farragut, Maryville, Oak Ridge, and Greater Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Knoxville MSA."}},{"@type":"Question","name":"What is Tennessee TIPA consent management for Knoxville Google Ads?","acceptedAnswer":{"@type":"Answer","text":"Tennessee TIPA (effective July 1, 2025) consent management implements TIPA-compliant consent for Google Ads conversion tracking — protecting from Tennessee AG enforcement while producing accurate Knoxville performance measurement."}},{"@type":"Question","name":"How do Knoxville CPCs compare to Nashville and Atlanta for utility?","acceptedAnswer":{"@type":"Answer","text":"Tennessee CPCs 15-20% below Nashville for utility technology vocabulary. 25-30% below Atlanta. TVA-specific Knoxville utility vocabulary has lower competition than major Southeastern utility advertising markets."}}]}`,
   cta: `Get Your Free Knoxville Google Ads Audit`,
   internalLinks: ["/digital-marketing-agency-knoxville/","/seo-services-knoxville/","/google-ads-management-services/","/google-ads-management-nashville/"],
@@ -51,7 +78,7 @@ Results: HIPAA/TIPA: clean | UT Medical CPL: \$110 vs \$290 generic | New patien
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-knoxville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

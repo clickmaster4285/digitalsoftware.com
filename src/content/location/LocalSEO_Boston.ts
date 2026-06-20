@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Boston.xlsx
 // Service: LocalSEO
 // City: Boston
-// Generated: 2026-06-19T12:50:27.376Z
+// URL: /local-seo-services-boston/
+// Generated: 2026-06-20T04:42:13.015Z
 
 export const LocalSEO_Boston = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "Boston",
   citySlug: "boston",
-  slug: "/locations/local-seo/boston",
+  slug: "/local-seo-services-boston/",
   
   h1: `Local SEO Boston — HMS Academic Medical GBP, Kendall Square Pharma Proximity, and CDPA-Compliant Review Management`,
   primaryKw: `local seo services boston`,
@@ -16,7 +17,7 @@ export const LocalSEO_Boston = {
   seoTitle: `Local SEO Boston | HMS Academic Medical & Kendall Square Proximity | Clickmasters`,
   meta: `Clickmasters Local SEO in Boston. HMS academic medical credential GBP, Kendall Square pharma proximity, and Massachusetts CDPA-compliant review management. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boston Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-boston/","address":{"@type":"PostalAddress","addressLocality":"Boston","addressRegion":"MA","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3800,
   geoAeoBlock: `WHAT IS LOCAL SEO IN BOSTON?
 
 Local SEO in Boston is the practice of optimising Google Business Profiles for the top 3 of Boston's Local Pack — in the most academically credentialled professional community between New York and Washington, where HMS/Partners academic authority defines the healthcare GBP standard, Kendall Square pharma proximity is a commercial B2B GBP signal, and Massachusetts CDPA creates a review analytics compliance requirement.
@@ -41,7 +42,33 @@ Case Study 3: Back Bay Wealth Management — FINRA CDPA GBP Programme
 Client: RIA, Back Bay (\$1.4B AUM). Challenge: 24 reviews, no CFA verification. CDPA non-compliant review analytics.
 Programme: CFA verification links + FINRA-aware reviews + CDPA consent management + institutional Back Bay photography
 Results (4 months): Top 3 Local Pack Back Bay wealth management | Reviews: 24 to 118 | CFA verification: HNW cited | New AUM from GBP: \$28M | CDPA: compliant`,
-  faq: `FAQs — Local SEO Boston`,
+  faqTitle: `FAQs — Local SEO Boston`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in Boston?",
+    "answer": "Boston Local SEO: $1,200/month (single location) to $12,000+/month (enterprise). HMS academic medical credential standard. FINRA for financial. CDPA-compliant analytics. 90-day guarantee."
+  },
+  {
+    "question": "What is the HMS academic medical GBP credential standard?",
+    "answer": "Boston's HMS/Partners healthcare community evaluates GBP content through academic medical precision: HMS faculty appointment, Mass General Brigham or Dana-Farber system affiliation, and clinical credential depth communicating genuine academic medical authority. Without these signals, an independent Boston healthcare practice communicates inadequacy to the most academically credentialled healthcare consumer community in the US."
+  },
+  {
+    "question": "What is Massachusetts CDPA-compliant review management?",
+    "answer": "CDPA (January 2025) requires consent management for review acquisition email data collection and CDPA-compliant analytics for GBP performance measurement. Boston review programmes without CDPA compliance create Massachusetts AG enforcement exposure."
+  },
+  {
+    "question": "Does Clickmasters serve Cambridge, Waltham, and Greater Boston?",
+    "answer": "Yes — all of Greater Boston including Cambridge, Brookline, Newton, Waltham, Burlington, and the full Greater Boston MSA."
+  },
+  {
+    "question": "How many reviews for Boston Local Pack?",
+    "answer": "Healthcare (HMS-community neighbourhoods): 4.5+ stars, 100-160+ reviews. Financial advisory: 4.5+, 80-130+. Professional services: 4.4+, 60-110+."
+  },
+  {
+    "question": "How long does Boston Local SEO take?",
+    "answer": "HMS academic medical: 4-6 months (credential verification adds time). Kendall Square proximity: 3-5 months. Back Bay financial: 3-5 months. Boston is slower than Dallas but faster than NYC."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Boston?","acceptedAnswer":{"@type":"Answer","text":"Boston Local SEO: \$1,200/month (single location) to \$12,000+/month (enterprise). HMS academic medical credential standard. FINRA for financial. CDPA-compliant analytics. 90-day guarantee."}},{"@type":"Question","name":"What is the HMS academic medical GBP credential standard?","acceptedAnswer":{"@type":"Answer","text":"Boston's HMS/Partners healthcare community evaluates GBP content through academic medical precision: HMS faculty appointment, Mass General Brigham or Dana-Farber system affiliation, and clinical credential depth communicating genuine academic medical authority. Without these signals, an independent Boston healthcare practice communicates inadequacy to the most academically credentialled healthcare consumer community in the US."}},{"@type":"Question","name":"What is Massachusetts CDPA-compliant review management?","acceptedAnswer":{"@type":"Answer","text":"CDPA (January 2025) requires consent management for review acquisition email data collection and CDPA-compliant analytics for GBP performance measurement. Boston review programmes without CDPA compliance create Massachusetts AG enforcement exposure."}},{"@type":"Question","name":"Does Clickmasters serve Cambridge, Waltham, and Greater Boston?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Boston including Cambridge, Brookline, Newton, Waltham, Burlington, and the full Greater Boston MSA."}},{"@type":"Question","name":"How many reviews for Boston Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Healthcare (HMS-community neighbourhoods): 4.5+ stars, 100-160+ reviews. Financial advisory: 4.5+, 80-130+. Professional services: 4.4+, 60-110+."}},{"@type":"Question","name":"How long does Boston Local SEO take?","acceptedAnswer":{"@type":"Answer","text":"HMS academic medical: 4-6 months (credential verification adds time). Kendall Square proximity: 3-5 months. Back Bay financial: 3-5 months. Boston is slower than Dallas but faster than NYC."}}]}`,
   cta: `Get Your Free Boston Local SEO Audit`,
   internalLinks: ["/local-seo-services/","/seo-services-boston/","/digital-marketing-agency-boston/","/local-seo-services-new-york/"],
@@ -51,7 +78,7 @@ Results (4 months): Top 3 Local Pack Back Bay wealth management | Reviews: 24 to
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-boston/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

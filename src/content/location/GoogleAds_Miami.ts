@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Miami.xlsx
 // Service: GoogleAds
 // City: Miami
-// Generated: 2026-06-19T12:50:27.037Z
+// URL: /google-ads-management-miami/
+// Generated: 2026-06-20T04:42:12.624Z
 
 export const GoogleAds_Miami = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "Miami",
   citySlug: "miami",
-  slug: "/locations/google-ads/miami",
+  slug: "/google-ads-management-miami/",
   
   h1: `Google Ads Management Miami — Bilingual LATAM PPC, Florida SB 262 Compliance, and South Florida Enterprise Campaigns`,
   primaryKw: `google ads agency miami`,
@@ -16,7 +17,7 @@ export const GoogleAds_Miami = {
   seoTitle: `Google Ads Agency Miami | Bilingual LATAM & Florida SB 262-Compliant | Clickmasters`,
   meta: `Clickmasters Google Ads in Miami. Bilingual English/Spanish LATAM PPC, Florida SB 262-compliant conversion tracking, and South Florida enterprise campaigns. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Miami Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-miami/","address":{"@type":"PostalAddress","addressLocality":"Miami","addressRegion":"FL","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN MIAMI?
 
 Google Ads management in Miami is the professional management of PPC advertising for Miami-area businesses — with bilingual English/Spanish LATAM campaign architecture as the commercial baseline, Florida SB 262-compliant conversion tracking as the legal standard, and the specific LATAM B2B gateway targeting that captures Miami's highest-value commercial audience.
@@ -41,7 +42,33 @@ Case Study 3: Coral Gables Legal Services — PA RPC-Equivalent Florida Bar Comp
 Client: International law firm, Coral Gables (22 attorneys). Challenge: Florida Bar advertising violations in existing Google Ads. LATAM B2B clients not reached in Spanish.
 Programme: Florida Bar-compliant ad rebuild + bilingual Spanish/English campaigns + LATAM B2B vocabulary + SB 262
 Results: Florida Bar review: zero violations | LATAM B2B case enquiries: +3x | Spanish legal CPL: 28% below English | SB 262: compliant`,
-  faq: `FAQs — Google Ads Miami`,
+  faqTitle: `FAQs — Google Ads Miami`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Miami?",
+    "answer": "Miami Google Ads management: $1,400/month (Growth) to $13,000+/month (Enterprise). Bilingual English/Spanish campaign standard. Florida SB 262 consent management. FINRA for financial services. HIPAA for healthcare. 90-day performance guarantee."
+  },
+  {
+    "question": "Why are Spanish Google Ads CPLs lower than English in Miami?",
+    "answer": "Miami's Spanish-language Google Ads market for financial services, healthcare, and legal services is significantly less competitive than the English-language equivalent — fewer advertisers are running Spanish campaigns despite the Spanish-preference audience representing 45% of Miami's commercial search volume. Spanish CPLs are typically 20-30% below English equivalents for comparable commercial-intent searches."
+  },
+  {
+    "question": "What is Florida SB 262 Google Ads compliance?",
+    "answer": "Florida's SB 262 (effective July 2024) requires consumer data consent management for Google Ads conversion tracking. Standard Google tag configuration for Miami businesses may collect consumer health data, financial data, or personally identifying data through conversion events without SB 262-compliant consent management — creating Florida AG enforcement exposure. Clickmasters implements SB 262-compliant conversion tracking for all Miami Google Ads clients."
+  },
+  {
+    "question": "Does Clickmasters serve Coral Gables, Doral, Aventura, and South Florida?",
+    "answer": "Yes — all of Miami-Dade and Broward Counties including Coral Gables, Doral, Aventura, Hialeah, Fort Lauderdale, Boca Raton, and the full South Florida metropolitan area."
+  },
+  {
+    "question": "How quickly does Miami bilingual Google Ads produce LATAM results?",
+    "answer": "Miami bilingual Google Ads: English campaign first qualified clicks 7-14 days. Spanish campaign setup adds 3-5 days for Spanish landing page preparation. SB 262 consent management adds 2-3 days. LATAM HNW audience data accumulation: 30-45 days. Meaningful bilingual pipeline contribution: 60-90 days."
+  },
+  {
+    "question": "What is LATAM B2B gateway Google Ads targeting for Miami?",
+    "answer": "LATAM B2B gateway targeting reaches Venezuelan family offices, Colombian corporate entities, and Brazilian market entry researchers through Spanish and Portuguese search campaigns with LATAM commercial vocabulary: 'asesor financiero Brickell Miami Venezuela,' 'firma legal internacional Miami Colombia,' 'consultor empresas Miami Brasil.' These represent the highest-value B2B leads in South Florida at lower CPLs than comparable English searches."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Miami?","acceptedAnswer":{"@type":"Answer","text":"Miami Google Ads management: \$1,400/month (Growth) to \$13,000+/month (Enterprise). Bilingual English/Spanish campaign standard. Florida SB 262 consent management. FINRA for financial services. HIPAA for healthcare. 90-day performance guarantee."}},{"@type":"Question","name":"Why are Spanish Google Ads CPLs lower than English in Miami?","acceptedAnswer":{"@type":"Answer","text":"Miami's Spanish-language Google Ads market for financial services, healthcare, and legal services is significantly less competitive than the English-language equivalent — fewer advertisers are running Spanish campaigns despite the Spanish-preference audience representing 45% of Miami's commercial search volume. Spanish CPLs are typically 20-30% below English equivalents for comparable commercial-intent searches."}},{"@type":"Question","name":"What is Florida SB 262 Google Ads compliance?","acceptedAnswer":{"@type":"Answer","text":"Florida's SB 262 (effective July 2024) requires consumer data consent management for Google Ads conversion tracking. Standard Google tag configuration for Miami businesses may collect consumer health data, financial data, or personally identifying data through conversion events without SB 262-compliant consent management — creating Florida AG enforcement exposure. Clickmasters implements SB 262-compliant conversion tracking for all Miami Google Ads clients."}},{"@type":"Question","name":"Does Clickmasters serve Coral Gables, Doral, Aventura, and South Florida?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Miami-Dade and Broward Counties including Coral Gables, Doral, Aventura, Hialeah, Fort Lauderdale, Boca Raton, and the full South Florida metropolitan area."}},{"@type":"Question","name":"How quickly does Miami bilingual Google Ads produce LATAM results?","acceptedAnswer":{"@type":"Answer","text":"Miami bilingual Google Ads: English campaign first qualified clicks 7-14 days. Spanish campaign setup adds 3-5 days for Spanish landing page preparation. SB 262 consent management adds 2-3 days. LATAM HNW audience data accumulation: 30-45 days. Meaningful bilingual pipeline contribution: 60-90 days."}},{"@type":"Question","name":"What is LATAM B2B gateway Google Ads targeting for Miami?","acceptedAnswer":{"@type":"Answer","text":"LATAM B2B gateway targeting reaches Venezuelan family offices, Colombian corporate entities, and Brazilian market entry researchers through Spanish and Portuguese search campaigns with LATAM commercial vocabulary: 'asesor financiero Brickell Miami Venezuela,' 'firma legal internacional Miami Colombia,' 'consultor empresas Miami Brasil.' These represent the highest-value B2B leads in South Florida at lower CPLs than comparable English searches."}}]}`,
   cta: `Get Your Free Miami Google Ads Audit`,
   internalLinks: ["/digital-marketing-agency-miami/","/seo-services-miami/","/google-ads-management-services/","/google-ads-management-houston/","/industries/financial-services/","/industries/healthcare/"],
@@ -51,7 +78,7 @@ Results: Florida Bar review: zero violations | LATAM B2B case enquiries: +3x | S
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-miami/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

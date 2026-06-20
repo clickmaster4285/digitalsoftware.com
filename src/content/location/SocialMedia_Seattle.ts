@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Seattle.xlsx
 // Service: SocialMedia
 // City: Seattle
-// Generated: 2026-06-19T12:50:28.787Z
+// URL: /social-media-marketing-seattle/
+// Generated: 2026-06-20T04:42:14.468Z
 
 export const SocialMedia_Seattle = {
   service: "SocialMedia",
   serviceSlug: "social-media",
   city: "Seattle",
   citySlug: "seattle",
-  slug: "/locations/social-media/seattle",
+  slug: "/social-media-marketing-seattle/",
   
   h1: `Social Media Marketing Seattle — Amazon-Standard LinkedIn, MHMD Healthcare, and Authentic Pacific Northwest Brand Social`,
   primaryKw: `social media marketing seattle`,
@@ -16,7 +17,7 @@ export const SocialMedia_Seattle = {
   seoTitle: `Social Media Marketing Seattle | Amazon-Standard LinkedIn & MHMD | Clickmasters`,
   meta: `Clickmasters social media marketing in Seattle. Amazon-standard analytical precision LinkedIn, MHMD-aware healthcare social, and authentic Pacific Northwest consumer brand programmes. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Seattle Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-seattle/","address":{"@type":"PostalAddress","addressLocality":"Seattle","addressRegion":"WA","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3900,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN SEATTLE?
 
 Social media marketing in Seattle is the strategic management of social platforms for Seattle-area businesses — with Amazon-standard analytical precision LinkedIn that earns genuine South Lake Union engineering-community engagement, MHMD-aware healthcare social that protects Washington practices from AG enforcement, and the authentic Pacific Northwest brand social that Portland and Seattle's most commercially engaged consumer communities reward.
@@ -41,7 +42,33 @@ Case Study 3: Capitol Hill Outdoor Brand — Authentic Pacific NW Consumer Socia
 Client: Outdoor apparel DTC, Capitol Hill (\$3.8M). Challenge: Generic outdoor lifestyle Instagram below Seattle authentic standard.
 Programme: Cascade Range specific vocabulary + B Corp score specificity + Puget Sound conservation community + authentic Seattle neighbourhood
 Results (6 months): Instagram engagement: 2.2% to 5.8% | Pacific NW outdoor community editorial features: 2 | DTC revenue from social: +\$180K`,
-  faq: `FAQs — Social Media Marketing Seattle`,
+  faqTitle: `FAQs — Social Media Marketing Seattle`,
+  faqs: [
+  {
+    "question": "How much does social media marketing cost in Seattle?",
+    "answer": "Seattle social media: $1,800/month (LinkedIn growth) to $18,000+/month (enterprise). Amazon-standard analytical precision. MHMD-aware healthcare. Pacific NW authentic-values. 90-day guarantee."
+  },
+  {
+    "question": "What is Amazon-standard LinkedIn for Seattle businesses?",
+    "answer": "Amazon-standard LinkedIn content demonstrates specific performance benchmarks with reproducible testing methodology, documented deployment timelines with client-permission case study context, and precise operational vocabulary that Amazon's engineering-culture professional community recognises as genuine enterprise depth — not aspirational brand language or general thought leadership."
+  },
+  {
+    "question": "What is MHMD-aware healthcare social media for Seattle?",
+    "answer": "MHMD-aware healthcare social excludes health condition signals from standard social media analytics events, implements HIPAA dual-compliance social content review, and configures patient engagement on Instagram and Facebook without MHMD-regulated consumer health data collection. Washington AG pre-audit readiness as a standard outcome."
+  },
+  {
+    "question": "Does Clickmasters serve Bellevue, Redmond, and Greater Seattle?",
+    "answer": "Yes — all of Greater Seattle and Puget Sound region."
+  },
+  {
+    "question": "What is authentic Pacific NW consumer social for Seattle brands?",
+    "answer": "Cascade Range and Puget Sound specific vocabulary (by name, not generic 'Pacific Northwest mountains'), B Corp score specificity rather than B Corp badge, named Pacific NW conservation communities (Washington Conservation Action, Cascade Bicycle Club), and authentic Seattle neighbourhood vocabulary distinguishing Capitol Hill creative community from Queen Anne family professional from Ballard Scandinavian maritime."
+  },
+  {
+    "question": "How does Clickmasters measure Seattle social media outcomes?",
+    "answer": "Amazon-standard: specific performance benchmark content engagement vs generic product announcement, enterprise evaluation invitations from LinkedIn. MHMD healthcare: compliance clean throughout, MHMD-safe patient engagement rate. Pacific NW consumer: engagement vs PNW authentic benchmark, community editorial features, DTC revenue."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Seattle?","acceptedAnswer":{"@type":"Answer","text":"Seattle social media: \$1,800/month (LinkedIn growth) to \$18,000+/month (enterprise). Amazon-standard analytical precision. MHMD-aware healthcare. Pacific NW authentic-values. 90-day guarantee."}},{"@type":"Question","name":"What is Amazon-standard LinkedIn for Seattle businesses?","acceptedAnswer":{"@type":"Answer","text":"Amazon-standard LinkedIn content demonstrates specific performance benchmarks with reproducible testing methodology, documented deployment timelines with client-permission case study context, and precise operational vocabulary that Amazon's engineering-culture professional community recognises as genuine enterprise depth — not aspirational brand language or general thought leadership."}},{"@type":"Question","name":"What is MHMD-aware healthcare social media for Seattle?","acceptedAnswer":{"@type":"Answer","text":"MHMD-aware healthcare social excludes health condition signals from standard social media analytics events, implements HIPAA dual-compliance social content review, and configures patient engagement on Instagram and Facebook without MHMD-regulated consumer health data collection. Washington AG pre-audit readiness as a standard outcome."}},{"@type":"Question","name":"Does Clickmasters serve Bellevue, Redmond, and Greater Seattle?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Seattle and Puget Sound region."}},{"@type":"Question","name":"What is authentic Pacific NW consumer social for Seattle brands?","acceptedAnswer":{"@type":"Answer","text":"Cascade Range and Puget Sound specific vocabulary (by name, not generic 'Pacific Northwest mountains'), B Corp score specificity rather than B Corp badge, named Pacific NW conservation communities (Washington Conservation Action, Cascade Bicycle Club), and authentic Seattle neighbourhood vocabulary distinguishing Capitol Hill creative community from Queen Anne family professional from Ballard Scandinavian maritime."}},{"@type":"Question","name":"How does Clickmasters measure Seattle social media outcomes?","acceptedAnswer":{"@type":"Answer","text":"Amazon-standard: specific performance benchmark content engagement vs generic product announcement, enterprise evaluation invitations from LinkedIn. MHMD healthcare: compliance clean throughout, MHMD-safe patient engagement rate. Pacific NW consumer: engagement vs PNW authentic benchmark, community editorial features, DTC revenue."}}]}`,
   cta: `Get Your Free Seattle Social Media Audit`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-seattle/","/seo-services-seattle/","/social-media-marketing-san-francisco/"],
@@ -51,7 +78,7 @@ Results (6 months): Instagram engagement: 2.2% to 5.8% | Pacific NW outdoor comm
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /social-media-marketing-seattle/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

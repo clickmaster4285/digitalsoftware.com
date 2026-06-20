@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Nashville.xlsx
 // Service: SEO
 // City: Nashville
-// Generated: 2026-06-19T12:50:28.049Z
+// URL: /seo-services-nashville/
+// Generated: 2026-06-20T04:42:13.743Z
 
 export const SEO_Nashville = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Nashville",
   citySlug: "nashville",
-  slug: "/locations/seo/nashville",
+  slug: "/seo-services-nashville/",
   
   h1: `SEO Services Nashville — Healthcare Capital Organic Authority and Amazon East Bank B2B Growth`,
   primaryKw: `seo services nashville`,
@@ -16,7 +17,7 @@ export const SEO_Nashville = {
   seoTitle: `SEO Services Nashville | Healthcare Capital & Amazon East Bank B2B | Clickmasters`,
   meta: `Clickmasters SEO in Nashville. Healthcare capital organic authority for HCA/Envision ecosystem, Amazon East Bank B2B, and Music City commercial growth. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Nashville SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-nashville/","address":{"@type":"PostalAddress","addressLocality":"Nashville","addressRegion":"TN","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS SEO IN NASHVILLE?
 
 SEO in Nashville is the practice of building organic search authority for Nashville-area businesses in a market that has transformed from a mid-South regional economy into a nationally significant corporate commercial hub — where HCA Healthcare, Amazon's East Bank campus, and the music and entertainment industry have created three commercially distinct organic search opportunities that most Nashville businesses have not yet systematically captured.
@@ -41,7 +42,33 @@ Case Study 3: Nashville Entertainment Business Services — Music Row Authority
 Client: Entertainment business management, Music Row (\$3.4M revenue). Challenge: LA firms dominating Nashville entertainment business searches online.
 Programme: Music Row vocabulary + Pollstar HARO + entertainment business authority content + Nashville visitor economy content
 Results (8 months): Page 1 for 11 Nashville entertainment business queries | Pollstar editorial: 1 | Entertainment business enquiries from organic: +3x | Revenue from content-originated: +\$480K`,
-  faq: `FAQs — SEO Nashville`,
+  faqTitle: `FAQs — SEO Nashville`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Nashville?",
+    "answer": "Nashville SEO: $1,600/month (growth) to $16,000+/month (enterprise). Healthcare capital vocabulary standard. HIPAA for healthcare. Below Chicago and Atlanta equivalent costs. 90-day performance guarantee."
+  },
+  {
+    "question": "What is Nashville healthcare capital SEO?",
+    "answer": "Healthcare capital SEO targets the specific operational vocabulary that HCA Healthcare, Envision Healthcare, and Community Health Systems procurement teams use in commercial research: HCAHPS and value-based purchasing (VBP) analytics, ACO episode-based payment programme vocabulary, population health management platforms, readmission reduction analytics. Generic 'healthcare technology Nashville' content reaches none of Nashville's healthcare capital commercial buyers."
+  },
+  {
+    "question": "How does Amazon's East Bank campus affect Nashville SEO?",
+    "answer": "Amazon's 5,000-employee East Bank Nashville campus has imported analytically rigorous commercial standards from Seattle. Nashville vendors need SEO content calibrated to Amazon's commercial precision: specific evidence, documented methodology, measurable outcomes. Amazon East Bank professionals conducting vendor research expect the same SEO content quality standard as in Seattle or San Jose."
+  },
+  {
+    "question": "Does Clickmasters serve Brentwood, Franklin, and Greater Nashville?",
+    "answer": "Yes — all of Middle Tennessee including Davidson County, Williamson County (Brentwood, Franklin), Rutherford County, and the full Nashville MSA."
+  },
+  {
+    "question": "How long does Nashville healthcare capital SEO take?",
+    "answer": "Nashville healthcare capital content: first HCA/Envision vocabulary rankings at 4-7 months. Nashville Health Council editorial programme: 2-4 months. Full healthcare capital procurement organic visibility: 7-12 months — below the timeline of comparable programmes in Boston or Chicago because Nashville organic competition is lower."
+  },
+  {
+    "question": "How does GEO/AEO affect Nashville SEO in 2026?",
+    "answer": "Nashville's healthcare executive community and Amazon East Bank professional population are increasing AI search usage. When an HCA VP asks ChatGPT for HCAHPS analytics vendors in Nashville, or an Amazon East Bank programme manager asks Perplexity for recommended SaaS vendors in Nashville, the companies with GEO and AEO signals appear in those answers."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Nashville?","acceptedAnswer":{"@type":"Answer","text":"Nashville SEO: \$1,600/month (growth) to \$16,000+/month (enterprise). Healthcare capital vocabulary standard. HIPAA for healthcare. Below Chicago and Atlanta equivalent costs. 90-day performance guarantee."}},{"@type":"Question","name":"What is Nashville healthcare capital SEO?","acceptedAnswer":{"@type":"Answer","text":"Healthcare capital SEO targets the specific operational vocabulary that HCA Healthcare, Envision Healthcare, and Community Health Systems procurement teams use in commercial research: HCAHPS and value-based purchasing (VBP) analytics, ACO episode-based payment programme vocabulary, population health management platforms, readmission reduction analytics. Generic 'healthcare technology Nashville' content reaches none of Nashville's healthcare capital commercial buyers."}},{"@type":"Question","name":"How does Amazon's East Bank campus affect Nashville SEO?","acceptedAnswer":{"@type":"Answer","text":"Amazon's 5,000-employee East Bank Nashville campus has imported analytically rigorous commercial standards from Seattle. Nashville vendors need SEO content calibrated to Amazon's commercial precision: specific evidence, documented methodology, measurable outcomes. Amazon East Bank professionals conducting vendor research expect the same SEO content quality standard as in Seattle or San Jose."}},{"@type":"Question","name":"Does Clickmasters serve Brentwood, Franklin, and Greater Nashville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Middle Tennessee including Davidson County, Williamson County (Brentwood, Franklin), Rutherford County, and the full Nashville MSA."}},{"@type":"Question","name":"How long does Nashville healthcare capital SEO take?","acceptedAnswer":{"@type":"Answer","text":"Nashville healthcare capital content: first HCA/Envision vocabulary rankings at 4-7 months. Nashville Health Council editorial programme: 2-4 months. Full healthcare capital procurement organic visibility: 7-12 months — below the timeline of comparable programmes in Boston or Chicago because Nashville organic competition is lower."}},{"@type":"Question","name":"How does GEO/AEO affect Nashville SEO in 2026?","acceptedAnswer":{"@type":"Answer","text":"Nashville's healthcare executive community and Amazon East Bank professional population are increasing AI search usage. When an HCA VP asks ChatGPT for HCAHPS analytics vendors in Nashville, or an Amazon East Bank programme manager asks Perplexity for recommended SaaS vendors in Nashville, the companies with GEO and AEO signals appear in those answers."}}]}`,
   cta: `Get Your Free Nashville SEO Audit`,
   internalLinks: ["/digital-marketing-agency-nashville/","/seo-services/","/seo-services-atlanta/","/seo-services-houston/","/industries/healthcare-tech/","/industries/technology/"],
@@ -51,7 +78,7 @@ Results (8 months): Page 1 for 11 Nashville entertainment business queries | Pol
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-nashville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

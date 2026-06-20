@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SocialMedia-KansasCity.xlsx
 // Service: SocialMedia
 // City: KansasCity
-// Generated: 2026-06-19T12:50:28.516Z
+// URL: /social-media-marketing-kansas-city/
+// Generated: 2026-06-20T04:42:14.161Z
 
 export const SocialMedia_KansasCity = {
   service: "SocialMedia",
   serviceSlug: "social-media",
   city: "KansasCity",
   citySlug: "kansas-city",
-  slug: "/locations/social-media/kansas-city",
+  slug: "/social-media-marketing-kansas-city/",
   
   h1: `Social Media Marketing Kansas City — Oracle Health Clinical IT LinkedIn, Hallmark Brand Community, and Authentic KC Crossroads Social`,
   primaryKw: `social media marketing kansas city`,
@@ -16,7 +17,7 @@ export const SocialMedia_KansasCity = {
   seoTitle: `Social Media Marketing Kansas City | Oracle Health LinkedIn & Hallmark Brand | Clickmasters`,
   meta: `Clickmasters social media marketing in Kansas City. Oracle Health/Cerner clinical IT LinkedIn, Hallmark consumer brand community, and authentic 18th & Vine/Crossroads brand social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Kansas City Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-kansas-city/","address":{"@type":"PostalAddress","addressLocality":"Kansas City","addressRegion":"MO","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN KANSAS CITY?
 
 Social media marketing in Kansas City is the strategic management of social platforms across three commercially distinct communities: the Oracle Health (Cerner) clinical IT LinkedIn ecosystem, the Hallmark Cards consumer brand creative community, and the authentic Kansas City consumer brand community in the 18th & Vine Jazz District, Crossroads Arts District, and River Market.
@@ -41,7 +42,33 @@ Case Study 3: Crossroads Arts Brand — Authentic KC Consumer Social
 Client: Artisan lifestyle brand, Crossroads KC (\$1.4M DTC). Challenge: Generic 'Kansas City arts' Instagram below Crossroads authentic community standard.
 Programme: Crossroads First Friday vocabulary + 18th & Vine jazz heritage community + River Market seasonal content
 Results (5 months): Instagram engagement: 1.4% to 5.0% | Crossroads editorial features: 2 | DTC revenue from social: +\$100K`,
-  faq: `FAQs — Social Media Marketing Kansas City`,
+  faqTitle: `FAQs — Social Media Marketing Kansas City`,
+  faqs: [
+  {
+    "question": "How much does social media marketing cost in Kansas City?",
+    "answer": "Kansas City social media: $1,200/month (LinkedIn growth) to $12,000+/month (enterprise). Oracle Health/Cerner clinical IT precision. Hallmark consumer brand creative community. Authentic KC neighbourhood brand. Midwest retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is Oracle Health/Cerner clinical LinkedIn for Kansas City businesses?",
+    "answer": "Oracle Health clinical LinkedIn demonstrates EHR operational precision: Cerner PowerChart ClinDoc workflow specifics, FHIR R4 patient data portability implementation methodology, HCAHPS/CMS quality measure integration operational intelligence, and Oracle Health Millennium revenue cycle vocabulary — the clinical IT precision that earns genuine Oracle Health community engagement from Kansas City's most commercially concentrated health IT enterprise."
+  },
+  {
+    "question": "What is authentic Kansas City brand social media?",
+    "answer": "18th & Vine Jazz District heritage vocabulary (Kansas City's historic jazz community), Crossroads Arts District First Friday arts economy content, River Market farmers market community — the specific Kansas City neighbourhood identities that distinguish genuinely locally-rooted KC brands from generic Midwest commercial approximations."
+  },
+  {
+    "question": "Does Clickmasters serve Overland Park, Leawood, Olathe, and Greater Kansas City?",
+    "answer": "Yes — all of Greater Kansas City bi-state MSA."
+  },
+  {
+    "question": "What is Hallmark Cards consumer brand LinkedIn for Kansas City?",
+    "answer": "Hallmark consumer brand LinkedIn demonstrates consumer brand lifecycle management vocabulary, seasonal retail marketing calendar specifics (greeting card, gift, and seasonal product market timing), and DTC-to-retail brand strategy operational content that earns genuine engagement from Hallmark's Crown Center creative technology and brand analytics procurement community."
+  },
+  {
+    "question": "How does Clickmasters measure Kansas City social media commercial outcomes?",
+    "answer": "Oracle Health LinkedIn: Cerner/Oracle Health connections and health IT evaluation invitations. Hallmark brand LinkedIn: Crown Center connections and consumer brand evaluation invitations. Authentic KC brand: engagement vs KC community benchmark, editorial features, DTC revenue attribution."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Kansas City social media: \$1,200/month (LinkedIn growth) to \$12,000+/month (enterprise). Oracle Health/Cerner clinical IT precision. Hallmark consumer brand creative community. Authentic KC neighbourhood brand. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Oracle Health/Cerner clinical LinkedIn for Kansas City businesses?","acceptedAnswer":{"@type":"Answer","text":"Oracle Health clinical LinkedIn demonstrates EHR operational precision: Cerner PowerChart ClinDoc workflow specifics, FHIR R4 patient data portability implementation methodology, HCAHPS/CMS quality measure integration operational intelligence, and Oracle Health Millennium revenue cycle vocabulary — the clinical IT precision that earns genuine Oracle Health community engagement from Kansas City's most commercially concentrated health IT enterprise."}},{"@type":"Question","name":"What is authentic Kansas City brand social media?","acceptedAnswer":{"@type":"Answer","text":"18th & Vine Jazz District heritage vocabulary (Kansas City's historic jazz community), Crossroads Arts District First Friday arts economy content, River Market farmers market community — the specific Kansas City neighbourhood identities that distinguish genuinely locally-rooted KC brands from generic Midwest commercial approximations."}},{"@type":"Question","name":"Does Clickmasters serve Overland Park, Leawood, Olathe, and Greater Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Kansas City bi-state MSA."}},{"@type":"Question","name":"What is Hallmark Cards consumer brand LinkedIn for Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Hallmark consumer brand LinkedIn demonstrates consumer brand lifecycle management vocabulary, seasonal retail marketing calendar specifics (greeting card, gift, and seasonal product market timing), and DTC-to-retail brand strategy operational content that earns genuine engagement from Hallmark's Crown Center creative technology and brand analytics procurement community."}},{"@type":"Question","name":"How does Clickmasters measure Kansas City social media commercial outcomes?","acceptedAnswer":{"@type":"Answer","text":"Oracle Health LinkedIn: Cerner/Oracle Health connections and health IT evaluation invitations. Hallmark brand LinkedIn: Crown Center connections and consumer brand evaluation invitations. Authentic KC brand: engagement vs KC community benchmark, editorial features, DTC revenue attribution."}}]}`,
   cta: `Get Your Free Kansas City Social Media Audit`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-kansas-city/","/seo-services-kansas-city/","/social-media-marketing-st-louis/"],
@@ -51,7 +78,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.0% | Crossroads editorial fe
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /social-media-marketing-kansas-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

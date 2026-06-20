@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Miami.xlsx
 // Service: SocialMedia
 // City: Miami
-// Generated: 2026-06-19T12:50:28.578Z
+// URL: /social-media-marketing-miami/
+// Generated: 2026-06-20T04:42:14.233Z
 
 export const SocialMedia_Miami = {
   service: "SocialMedia",
   serviceSlug: "social-media",
   city: "Miami",
   citySlug: "miami",
-  slug: "/locations/social-media/miami",
+  slug: "/social-media-marketing-miami/",
   
   h1: `Social Media Marketing Miami — Bilingual LATAM LinkedIn, Florida SB 262 Consumer Social, and Brickell Financial Professional`,
   primaryKw: `social media marketing miami`,
@@ -16,7 +17,7 @@ export const SocialMedia_Miami = {
   seoTitle: `Social Media Marketing Miami | Bilingual LATAM LinkedIn & Florida SB 262 | Clickmasters`,
   meta: `Clickmasters social media marketing in Miami. Bilingual LATAM English/Spanish LinkedIn, Florida SB 262-compliant consumer Instagram, and Brickell FINRA-compliant financial professional social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Miami Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-miami/","address":{"@type":"PostalAddress","addressLocality":"Miami","addressRegion":"FL","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3900,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN MIAMI?
 
 Social media marketing in Miami is the strategic management of social platforms for Miami-area businesses in America's most commercially bilingual major city — with English/Spanish LATAM-calibrated LinkedIn for Brickell's international professional community, Florida SB 262-compliant Instagram and TikTok for Miami's consumer brands, and FINRA-aware Brickell investment professional LinkedIn.
@@ -41,7 +42,33 @@ Case Study 3: Brickell Financial Advisory — FINRA Bilingual Investment LinkedI
 Client: RIA, Brickell (\$2.8B AUM). Challenge: English-only LinkedIn missing LATAM HNW professional community. FINRA violations in English posts.
 Programme: FINRA bilingual compliance rebuild + bilingual CFA commentary + GIPS bilingual + LATAM community vocabulary
 Results (6 months): FINRA findings: 0 (English + Spanish) | LATAM HNW LinkedIn engagement: +3x | New AUM attributable to LinkedIn: \$88M`,
-  faq: `FAQs — Social Media Marketing Miami`,
+  faqTitle: `FAQs — Social Media Marketing Miami`,
+  faqs: [
+  {
+    "question": "How much does social media marketing cost in Miami?",
+    "answer": "Miami social media: $1,600/month (LinkedIn growth) to $18,000+/month (enterprise). Bilingual English/Spanish LATAM standard. Florida SB 262-compliant consumer. FINRA-aware Brickell financial. 90-day guarantee."
+  },
+  {
+    "question": "What is bilingual LATAM LinkedIn for Miami businesses?",
+    "answer": "Bilingual LATAM LinkedIn posts in both English and Spanish with community-specific operational vocabulary: Venezuelan asset protection structures for US-based assets, Colombian corporate holding structures for US market entry, Argentine investment vehicle options for US participation, Brazilian market entry legal vocabulary. Earns genuine LATAM professional community engagement that English-only LinkedIn systematically misses."
+  },
+  {
+    "question": "What is Florida SB 262-compliant social media for Miami businesses?",
+    "answer": "SB 262-compliant social media implements consent management for Instagram and TikTok audience data collection, CCPA-adjacent Florida privacy compliance for retargeting, and SB 262-reviewed consumer data analytics. Miami consumer brands with non-SB 262 social media programmes create Florida AG enforcement exposure with every retargeting event."
+  },
+  {
+    "question": "Does Clickmasters serve Coral Gables, Doral, Aventura, and South Florida?",
+    "answer": "Yes — all of Miami-Dade and Broward Counties."
+  },
+  {
+    "question": "Does Clickmasters provide FINRA-compliant bilingual LinkedIn for Brickell financial services?",
+    "answer": "Yes. FINRA Rule 2210-compliant LinkedIn posts in both English and Spanish: no guaranteed return language in either language, appropriate risk disclosures in both languages, CFA-authored bilingual investment commentary, GIPS-compliant performance language in both languages."
+  },
+  {
+    "question": "How does Clickmasters measure Miami social media commercial outcomes?",
+    "answer": "Bilingual LATAM LinkedIn: LATAM professional community connections and LATAM client enquiries. SB 262 consumer Instagram: SB 262-compliant engagement and bilingual DTC revenue attribution. Brickell FINRA LinkedIn: FINRA clean findings across both languages, LATAM HNW consultation requests."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Miami?","acceptedAnswer":{"@type":"Answer","text":"Miami social media: \$1,600/month (LinkedIn growth) to \$18,000+/month (enterprise). Bilingual English/Spanish LATAM standard. Florida SB 262-compliant consumer. FINRA-aware Brickell financial. 90-day guarantee."}},{"@type":"Question","name":"What is bilingual LATAM LinkedIn for Miami businesses?","acceptedAnswer":{"@type":"Answer","text":"Bilingual LATAM LinkedIn posts in both English and Spanish with community-specific operational vocabulary: Venezuelan asset protection structures for US-based assets, Colombian corporate holding structures for US market entry, Argentine investment vehicle options for US participation, Brazilian market entry legal vocabulary. Earns genuine LATAM professional community engagement that English-only LinkedIn systematically misses."}},{"@type":"Question","name":"What is Florida SB 262-compliant social media for Miami businesses?","acceptedAnswer":{"@type":"Answer","text":"SB 262-compliant social media implements consent management for Instagram and TikTok audience data collection, CCPA-adjacent Florida privacy compliance for retargeting, and SB 262-reviewed consumer data analytics. Miami consumer brands with non-SB 262 social media programmes create Florida AG enforcement exposure with every retargeting event."}},{"@type":"Question","name":"Does Clickmasters serve Coral Gables, Doral, Aventura, and South Florida?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Miami-Dade and Broward Counties."}},{"@type":"Question","name":"Does Clickmasters provide FINRA-compliant bilingual LinkedIn for Brickell financial services?","acceptedAnswer":{"@type":"Answer","text":"Yes. FINRA Rule 2210-compliant LinkedIn posts in both English and Spanish: no guaranteed return language in either language, appropriate risk disclosures in both languages, CFA-authored bilingual investment commentary, GIPS-compliant performance language in both languages."}},{"@type":"Question","name":"How does Clickmasters measure Miami social media commercial outcomes?","acceptedAnswer":{"@type":"Answer","text":"Bilingual LATAM LinkedIn: LATAM professional community connections and LATAM client enquiries. SB 262 consumer Instagram: SB 262-compliant engagement and bilingual DTC revenue attribution. Brickell FINRA LinkedIn: FINRA clean findings across both languages, LATAM HNW consultation requests."}}]}`,
   cta: `Get Your Free Miami Social Media Audit`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-miami/","/seo-services-miami/","/social-media-marketing-houston/"],
@@ -51,7 +78,7 @@ Results (6 months): FINRA findings: 0 (English + Spanish) | LATAM HNW LinkedIn e
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /social-media-marketing-miami/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Dallas.xlsx
 // Service: LocalSEO
 // City: Dallas
-// Generated: 2026-06-19T12:50:27.426Z
+// URL: /local-seo-services-dallas/
+// Generated: 2026-06-20T04:42:13.057Z
 
 export const LocalSEO_Dallas = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "Dallas",
   citySlug: "dallas",
-  slug: "/locations/local-seo/dallas",
+  slug: "/local-seo-services-dallas/",
   
   h1: `Local SEO Dallas — Fortune 500 Proximity, AT&T/Toyota Professional Community, and DFW Neighbourhood Local Pack`,
   primaryKw: `local seo services dallas`,
@@ -16,7 +17,7 @@ export const LocalSEO_Dallas = {
   seoTitle: `Local SEO Dallas | Fortune 500 Proximity & AT&T/Toyota Professional | Clickmasters`,
   meta: `Clickmasters Local SEO in Dallas. Top 3 Google Local Pack for Fortune 500 DFW professionals, AT&T/Toyota community near-me searches, and DFW neighbourhood businesses. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Dallas Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-dallas/","address":{"@type":"PostalAddress","addressLocality":"Dallas","addressRegion":"TX","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS LOCAL SEO IN DALLAS?
 
 Local SEO in Dallas-Fort Worth is the practice of optimising a business's Google Business Profile to appear in the top 3 of Google's Local Pack for geographically specific searches across DFW's 7.9 million person metropolitan area — in a market that has been permanently transformed by the Fortune 500 corporate relocation wave that has elevated the Local Pack credibility standard from Texas regional norms to the New York, Chicago, and San Jose professional community expectations.
@@ -41,7 +42,33 @@ Case Study 3: Frisco Premium Suburban Consumer Business — Premium Family Profe
 Client: Premium fitness studio, Frisco TX (1 location). Challenge: National chain competition raising Frisco Local Pack threshold.
 Programme: Frisco premium family professional vocabulary + national chain review threshold matching + premium community photography
 Results (4 months): Top 3 Local Pack Frisco premium fitness | Reviews: 44 to 168 | National chain displaced from 2 Local Pack positions | Premium family professional enquiries: +3x`,
-  faq: `FAQs — Local SEO Dallas`,
+  faqTitle: `FAQs — Local SEO Dallas`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in Dallas?",
+    "answer": "Dallas Local SEO: $1,100/month (single location) to $12,000+/month (enterprise). Fortune 500 relocated professional review standard. FINRA for financial. HIPAA for healthcare. 90-day performance guarantee."
+  },
+  {
+    "question": "How does the Fortune 500 relocation wave affect Dallas Local SEO?",
+    "answer": "Dallas's Fortune 500 corporate relocation wave — AT&T, Toyota, Schwab, CBRE — has permanently elevated the Local Pack credibility standard from Texas regional norms to the New York, Chicago, and San Jose professional community expectations. Review volumes of 150+, CFA/CFP/MD credential display, and institutional-quality professional photography are now the DFW professional services GBP standard — not the pre-relocation norm of 30-50 reviews and generic business descriptions."
+  },
+  {
+    "question": "Does Clickmasters manage FINRA-aware review programmes for DFW financial advisory?",
+    "answer": "Yes. FINRA-aware review acquisition and management for Dallas financial advisory GBPs: compliant review request language, appropriate investment performance context in any performance-related review responses, and review response architecture that doesn't create FINRA advertising compliance exposure."
+  },
+  {
+    "question": "Does Clickmasters serve Fort Worth, Plano, Frisco, and DFW suburbs?",
+    "answer": "Yes — all of DFW metro: Dallas, Fort Worth, Plano, Frisco, McKinney, Allen, Richardson (Telecom Corridor), Irving (Las Colinas), Arlington, Garland, and all of the Metroplex."
+  },
+  {
+    "question": "How many reviews does a Dallas business need for Local Pack?",
+    "answer": "DFW Local Pack review benchmarks are rising with Fortune 500 relocation: Professional services: 4.5+ stars with 80-150+ reviews (up from 40-80 pre-2020). Healthcare: 4.5+ stars with 80-140+ reviews. Consumer/hospitality: 4.4+ stars with 60-120+ reviews. The Schwab/AT&T professional who relocated from San Jose evaluates DFW GBPs against Bay Area review thresholds."
+  },
+  {
+    "question": "How long does Dallas Local SEO take?",
+    "answer": "DFW Local Pack timelines: Fortune 500 professional services: 3-5 months. AT&T/Toyota corporate campus proximity: 2-4 months. Frisco/Plano premium suburban: 3-5 months. DFW is faster than Chicago or New York but requires above-average review velocity to meet the rising Fortune 500 relocated professional standard."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Dallas?","acceptedAnswer":{"@type":"Answer","text":"Dallas Local SEO: \$1,100/month (single location) to \$12,000+/month (enterprise). Fortune 500 relocated professional review standard. FINRA for financial. HIPAA for healthcare. 90-day performance guarantee."}},{"@type":"Question","name":"How does the Fortune 500 relocation wave affect Dallas Local SEO?","acceptedAnswer":{"@type":"Answer","text":"Dallas's Fortune 500 corporate relocation wave — AT&T, Toyota, Schwab, CBRE — has permanently elevated the Local Pack credibility standard from Texas regional norms to the New York, Chicago, and San Jose professional community expectations. Review volumes of 150+, CFA/CFP/MD credential display, and institutional-quality professional photography are now the DFW professional services GBP standard — not the pre-relocation norm of 30-50 reviews and generic business descriptions."}},{"@type":"Question","name":"Does Clickmasters manage FINRA-aware review programmes for DFW financial advisory?","acceptedAnswer":{"@type":"Answer","text":"Yes. FINRA-aware review acquisition and management for Dallas financial advisory GBPs: compliant review request language, appropriate investment performance context in any performance-related review responses, and review response architecture that doesn't create FINRA advertising compliance exposure."}},{"@type":"Question","name":"Does Clickmasters serve Fort Worth, Plano, Frisco, and DFW suburbs?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of DFW metro: Dallas, Fort Worth, Plano, Frisco, McKinney, Allen, Richardson (Telecom Corridor), Irving (Las Colinas), Arlington, Garland, and all of the Metroplex."}},{"@type":"Question","name":"How many reviews does a Dallas business need for Local Pack?","acceptedAnswer":{"@type":"Answer","text":"DFW Local Pack review benchmarks are rising with Fortune 500 relocation: Professional services: 4.5+ stars with 80-150+ reviews (up from 40-80 pre-2020). Healthcare: 4.5+ stars with 80-140+ reviews. Consumer/hospitality: 4.4+ stars with 60-120+ reviews. The Schwab/AT&T professional who relocated from San Jose evaluates DFW GBPs against Bay Area review thresholds."}},{"@type":"Question","name":"How long does Dallas Local SEO take?","acceptedAnswer":{"@type":"Answer","text":"DFW Local Pack timelines: Fortune 500 professional services: 3-5 months. AT&T/Toyota corporate campus proximity: 2-4 months. Frisco/Plano premium suburban: 3-5 months. DFW is faster than Chicago or New York but requires above-average review velocity to meet the rising Fortune 500 relocated professional standard."}}]}`,
   cta: `Get Your Free Dallas Local SEO Audit`,
   internalLinks: ["/local-seo-services/","/seo-services-dallas/","/digital-marketing-agency-dallas/","/local-seo-services-houston/","/tools/local-seo-audit/","/industries/financial-services/"],
@@ -51,7 +78,7 @@ Results (4 months): Top 3 Local Pack Frisco premium fitness | Reviews: 44 to 168
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-dallas/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

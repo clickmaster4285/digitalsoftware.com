@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Huntsville.xlsx
 // Service: SEO
 // City: Huntsville
-// Generated: 2026-06-19T12:50:27.953Z
+// URL: /seo-services-huntsville/
+// Generated: 2026-06-20T04:42:13.636Z
 
 export const SEO_Huntsville = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Huntsville",
   citySlug: "huntsville",
-  slug: "/locations/seo/huntsville",
+  slug: "/seo-services-huntsville/",
   
   h1: `SEO Services Huntsville — NASA Marshall ITAR-Bounded Aerospace Authority, Redstone Arsenal Defence B2B, UAH Engineering, and Rocket City Commercial Voice`,
   primaryKw: `seo services huntsville`,
@@ -16,7 +17,7 @@ export const SEO_Huntsville = {
   seoTitle: `SEO Services Huntsville | NASA Marshall ITAR-Bounded Aerospace & Redstone Arsenal | Clickmasters`,
   meta: `Clickmasters SEO in Huntsville. NASA Marshall Space Flight Center ITAR-bounded aerospace authority, Redstone Arsenal US Army defence, Boeing/Lockheed ITAR-bounded, UAH engineering, and Cummings Research Park tech. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Huntsville SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-huntsville/","address":{"@type":"PostalAddress","addressLocality":"Huntsville","addressRegion":"AL","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS SEO IN HUNTSVILLE?
 
 SEO in Huntsville is the practice of earning organic search authority in the Rocket City — where NASA Marshall Space Flight Center creates the most commercially significant ITAR-bounded aerospace and space technology B2B environment in the US South, Redstone Arsenal hosts the US Army Aviation and Missile Command (AMCOM) and Missile Defense Agency (MDA), Boeing's Huntsville campus provides B-52 sustainment and space launch vehicle work, and Cummings Research Park — the second-largest research park in the US — creates an extraordinary technology B2B commercial ecosystem.
@@ -43,7 +44,33 @@ Case Study 3: Huntsville Healthcare — Huntsville Hospital YMYL SEO
 Client: Internal medicine (Huntsville Hospital-affiliated). Challenge: Generic content. Non-HIPAA.
 Programme: Huntsville Hospital vocabulary + YMYL E-E-A-T + HIPAA
 Results (10 months): Page 1 for 9 Huntsville healthcare queries | YMYL: E-E-A-T | Hospital: cited | New patients: +3x`,
-  faq: `FAQs — SEO Huntsville`,
+  faqTitle: `FAQs — SEO Huntsville`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Huntsville?",
+    "answer": "Huntsville SEO: $950/month (Foundation) to $9,500+/month (Enterprise). NASA Marshall ITAR-bounded publicly releasable aerospace vocabulary. Redstone Arsenal defence. UAH engineering. Huntsville Hospital YMYL. Alabama retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is NASA Marshall ITAR-bounded aerospace SEO for Huntsville businesses?",
+    "answer": "NASA Marshall SEO builds organic authority using exclusively ITAR-bounded publicly releasable aerospace vocabulary: Space Launch System (SLS) integration vocabulary from NASA public releases, Artemis programme mission technology from publicly available NASA publications, rocket propulsion research from published NASA technical reports — earning organic discovery from NASA Marshall and prime contractor (Boeing, Lockheed, Northrop, Aerojet Rocketdyne) Huntsville procurement communities without ITAR export control exposure."
+  },
+  {
+    "question": "What is Cummings Research Park technology B2B SEO for Huntsville businesses?",
+    "answer": "Cummings Research Park — the second-largest research park in the US with 300+ companies — creates a technology B2B SEO opportunity for companies serving Huntsville's extraordinary concentration of aerospace, defence, and technology engineering enterprises. Research park technology vocabulary earns above-average organic discovery from Huntsville's most commercially dense technology procurement environment."
+  },
+  {
+    "question": "Does Clickmasters serve Madison, Athens, Decatur, and Greater Huntsville?",
+    "answer": "Yes — all of Greater Huntsville: Madison County, Limestone County (Athens), Morgan County (Decatur), and the full Huntsville-Decatur MSA."
+  },
+  {
+    "question": "How does ITAR compliance apply to Huntsville aerospace SEO?",
+    "answer": "Every content piece undergoes ITAR vocabulary review — ensuring only publicly available NASA/Redstone Arsenal community vocabulary appears in organic content. ITAR-controlled technical specifications inadvertently appearing in website or blog content creates export control exposure. Clickmasters maintains an ITAR-bounded publicly releasable vocabulary library specific to NASA Marshall and Redstone Arsenal research communities."
+  },
+  {
+    "question": "How does GEO/AEO affect Huntsville aerospace SEO?",
+    "answer": "NASA Marshall's space technology community and Redstone Arsenal's defence engineering community use AI search for vendor research. First-mover GEO/AEO for Huntsville SLS/Artemis ITAR-bounded and AMCOM/MDA publicly releasable vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Huntsville?","acceptedAnswer":{"@type":"Answer","text":"Huntsville SEO: \$950/month (Foundation) to \$9,500+/month (Enterprise). NASA Marshall ITAR-bounded publicly releasable aerospace vocabulary. Redstone Arsenal defence. UAH engineering. Huntsville Hospital YMYL. Alabama retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is NASA Marshall ITAR-bounded aerospace SEO for Huntsville businesses?","acceptedAnswer":{"@type":"Answer","text":"NASA Marshall SEO builds organic authority using exclusively ITAR-bounded publicly releasable aerospace vocabulary: Space Launch System (SLS) integration vocabulary from NASA public releases, Artemis programme mission technology from publicly available NASA publications, rocket propulsion research from published NASA technical reports — earning organic discovery from NASA Marshall and prime contractor (Boeing, Lockheed, Northrop, Aerojet Rocketdyne) Huntsville procurement communities without ITAR export control exposure."}},{"@type":"Question","name":"What is Cummings Research Park technology B2B SEO for Huntsville businesses?","acceptedAnswer":{"@type":"Answer","text":"Cummings Research Park — the second-largest research park in the US with 300+ companies — creates a technology B2B SEO opportunity for companies serving Huntsville's extraordinary concentration of aerospace, defence, and technology engineering enterprises. Research park technology vocabulary earns above-average organic discovery from Huntsville's most commercially dense technology procurement environment."}},{"@type":"Question","name":"Does Clickmasters serve Madison, Athens, Decatur, and Greater Huntsville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Huntsville: Madison County, Limestone County (Athens), Morgan County (Decatur), and the full Huntsville-Decatur MSA."}},{"@type":"Question","name":"How does ITAR compliance apply to Huntsville aerospace SEO?","acceptedAnswer":{"@type":"Answer","text":"Every content piece undergoes ITAR vocabulary review — ensuring only publicly available NASA/Redstone Arsenal community vocabulary appears in organic content. ITAR-controlled technical specifications inadvertently appearing in website or blog content creates export control exposure. Clickmasters maintains an ITAR-bounded publicly releasable vocabulary library specific to NASA Marshall and Redstone Arsenal research communities."}},{"@type":"Question","name":"How does GEO/AEO affect Huntsville aerospace SEO?","acceptedAnswer":{"@type":"Answer","text":"NASA Marshall's space technology community and Redstone Arsenal's defence engineering community use AI search for vendor research. First-mover GEO/AEO for Huntsville SLS/Artemis ITAR-bounded and AMCOM/MDA publicly releasable vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Huntsville SEO Audit`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-huntsville/","/seo-services-birmingham/","/seo-services-nashville/"],
@@ -53,7 +80,7 @@ Results (10 months): Page 1 for 9 Huntsville healthcare queries | YMYL: E-E-A-T 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-huntsville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Cincinnati.xlsx
 // Service: SEO
 // City: Cincinnati
-// Generated: 2026-06-19T12:50:27.868Z
+// URL: /seo-services-cincinnati/
+// Generated: 2026-06-20T04:42:13.574Z
 
 export const SEO_Cincinnati = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Cincinnati",
   citySlug: "cincinnati",
-  slug: "/locations/seo/cincinnati",
+  slug: "/seo-services-cincinnati/",
   
   h1: `SEO Services Cincinnati — P&G Consumer Goods Authority, Kroger Supply Chain B2B, and Cincinnati Children's YMYL Academic Medical`,
   primaryKw: `seo services cincinnati`,
@@ -16,7 +17,7 @@ export const SEO_Cincinnati = {
   seoTitle: `SEO Services Cincinnati | P&G Consumer Goods & Cincinnati Children's YMYL | Clickmasters`,
   meta: `Clickmasters SEO in Cincinnati. Procter & Gamble consumer goods B2B authority, Kroger supply chain, Fifth Third Bank FINRA, and Cincinnati Children's/UC Medical YMYL. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Cincinnati SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-cincinnati/","address":{"@type":"PostalAddress","addressLocality":"Cincinnati","addressRegion":"OH","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS SEO IN CINCINNATI?
 
 SEO in Cincinnati is the practice of earning organic search authority in the Queen City — home to Procter & Gamble's global headquarters, Kroger's global headquarters, Fifth Third Bank's headquarters, and Cincinnati Children's Hospital Medical Center, one of the top-3 ranked children's hospitals in the US.
@@ -43,7 +44,33 @@ Case Study 3: Cincinnati Healthcare Practice — Cincinnati Children's YMYL SEO
 Client: Paediatrics (Cincinnati Children's-affiliated). Challenge: Generic content below Cincinnati Children's YMYL standard.
 Programme: CC academic vocabulary + UC College of Medicine + YMYL E-E-A-T + HIPAA analytics
 Results (10 months): Page 1 for 10 Cincinnati paediatric queries | YMYL: E-E-A-T recognised | CC affiliation: cited | New patients: +3x`,
-  faq: `FAQs — SEO Cincinnati`,
+  faqTitle: `FAQs — SEO Cincinnati`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Cincinnati?",
+    "answer": "Cincinnati SEO: $1,000/month (Foundation) to $10,000+/month (Enterprise). P&G consumer goods FMCG vocabulary. Kroger retail supply chain. Fifth Third FINRA-compliant. Cincinnati Children's YMYL. Ohio retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is Procter & Gamble consumer goods B2B SEO for Cincinnati businesses?",
+    "answer": "P&G consumer goods SEO builds organic authority in brand management, FMCG category management, consumer insights analytics, and supply chain optimisation vocabulary that P&G's Cincinnati procurement evaluates for vendor expertise. Generic 'marketing analytics Ohio' content misses every P&G-specific consumer goods operational vocabulary search."
+  },
+  {
+    "question": "What is Kroger retail supply chain SEO for Cincinnati businesses?",
+    "answer": "Kroger supply chain SEO builds organic authority in grocery retail logistics, perishable supply chain management, grocery category management, and last-mile grocery delivery technology vocabulary that Kroger's Blue Ash technology procurement uses in vendor selection research."
+  },
+  {
+    "question": "Does Clickmasters serve Blue Ash, Mason, West Chester, and Greater Cincinnati?",
+    "answer": "Yes — all of Greater Cincinnati: Hamilton County, Warren County, Clermont County, Butler County (Ohio) and Boone/Kenton Counties (Kentucky) and the full tri-state Cincinnati MSA."
+  },
+  {
+    "question": "How long does Cincinnati P&G consumer goods SEO produce results?",
+    "answer": "P&G/FMCG vocabulary rankings: 5-8 months. P&G VP organic discovery: 7-11 months. Kroger supply chain vocabulary: 4-7 months."
+  },
+  {
+    "question": "How does GEO/AEO affect Cincinnati SEO?",
+    "answer": "P&G's brand management and Kroger's retail technology communities use AI search for vendor research. First-mover GEO/AEO content for Cincinnati P&G consumer goods and Cincinnati Children's YMYL vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Cincinnati?","acceptedAnswer":{"@type":"Answer","text":"Cincinnati SEO: \$1,000/month (Foundation) to \$10,000+/month (Enterprise). P&G consumer goods FMCG vocabulary. Kroger retail supply chain. Fifth Third FINRA-compliant. Cincinnati Children's YMYL. Ohio retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Procter & Gamble consumer goods B2B SEO for Cincinnati businesses?","acceptedAnswer":{"@type":"Answer","text":"P&G consumer goods SEO builds organic authority in brand management, FMCG category management, consumer insights analytics, and supply chain optimisation vocabulary that P&G's Cincinnati procurement evaluates for vendor expertise. Generic 'marketing analytics Ohio' content misses every P&G-specific consumer goods operational vocabulary search."}},{"@type":"Question","name":"What is Kroger retail supply chain SEO for Cincinnati businesses?","acceptedAnswer":{"@type":"Answer","text":"Kroger supply chain SEO builds organic authority in grocery retail logistics, perishable supply chain management, grocery category management, and last-mile grocery delivery technology vocabulary that Kroger's Blue Ash technology procurement uses in vendor selection research."}},{"@type":"Question","name":"Does Clickmasters serve Blue Ash, Mason, West Chester, and Greater Cincinnati?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Cincinnati: Hamilton County, Warren County, Clermont County, Butler County (Ohio) and Boone/Kenton Counties (Kentucky) and the full tri-state Cincinnati MSA."}},{"@type":"Question","name":"How long does Cincinnati P&G consumer goods SEO produce results?","acceptedAnswer":{"@type":"Answer","text":"P&G/FMCG vocabulary rankings: 5-8 months. P&G VP organic discovery: 7-11 months. Kroger supply chain vocabulary: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect Cincinnati SEO?","acceptedAnswer":{"@type":"Answer","text":"P&G's brand management and Kroger's retail technology communities use AI search for vendor research. First-mover GEO/AEO content for Cincinnati P&G consumer goods and Cincinnati Children's YMYL vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Cincinnati SEO Audit`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-cincinnati/","/seo-services-cleveland/","/seo-services-indianapolis/"],
@@ -53,7 +80,7 @@ Results (10 months): Page 1 for 10 Cincinnati paediatric queries | YMYL: E-E-A-T
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-cincinnati/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

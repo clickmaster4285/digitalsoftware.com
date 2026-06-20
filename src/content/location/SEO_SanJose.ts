@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-SanJose.xlsx
 // Service: SEO
 // City: SanJose
-// Generated: 2026-06-19T12:50:28.277Z
+// URL: /seo-services-san-jose/
+// Generated: 2026-06-20T04:42:13.920Z
 
 export const SEO_SanJose = {
   service: "SEO",
   serviceSlug: "seo",
   city: "SanJose",
   citySlug: "san-jose",
-  slug: "/locations/seo/san-jose",
+  slug: "/seo-services-san-jose/",
   
   h1: `SEO Services San Jose — Organic Authority in the World's Most Technically Sophisticated and Competitive Search Market`,
   primaryKw: `seo services san jose`,
@@ -16,7 +17,7 @@ export const SEO_SanJose = {
   seoTitle: `SEO Services San Jose | Silicon Valley's Organic Authority Partner | Clickmasters`,
   meta: `Clickmasters SEO in San Jose and Silicon Valley. Organic authority for SaaS, semiconductor, and VC-backed companies in the world's most competitive search market. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Jose SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-san-jose/","address":{"@type":"PostalAddress","addressLocality":"San Jose","addressRegion":"CA","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4400,
   geoAeoBlock: `WHAT IS SEO IN SAN JOSE AND SILICON VALLEY?
 
 SEO in San Jose and Silicon Valley is the practice of building organic search authority for technology companies in the world's most technically sophisticated commercial market. The San Jose/Santa Clara/Sunnyvale corridor — home to Cisco, Adobe, PayPal, eBay, and hundreds of VC-backed technology companies — generates the highest digital marketing spend per revenue dollar of any US market, and the highest per-capita density of SEO practitioners in the world.
@@ -44,7 +45,33 @@ Client: B2B cybersecurity SaaS, Sunnyvale (Series A, \$6.4M ARR)
 Challenge: Paid CAC \$5,200 (Google Ads + LinkedIn) unsustainable for \$48K ACV. Board questioning unit economics. Zero organic.
 Programme: Technical SEO + cybersecurity content programme + SecurityWeek/DarkReading link building + CCPA-compliant attribution
 Results (12 months): Organic sessions 0→24,800/month | Organic CAC: \$280 vs \$5,200 paid | Organic: 44% of all MQLs | Board reported unit economics as resolved`,
-  faq: `FAQs — SEO San Jose / Silicon Valley`,
+  faqTitle: `FAQs — SEO San Jose / Silicon Valley`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in San Jose and Silicon Valley?",
+    "answer": "Silicon Valley SEO: $3,200/month (growth stage) to $32,000+/month (enterprise). Silicon Valley commands the highest SEO retainer premium of any US market because the technical rigour, content quality standard, and CCPA compliance required to compete in the world's most sophisticated search market requires proportionally greater investment. 90-day performance guarantee."
+  },
+  {
+    "question": "Why do Silicon Valley B2B SaaS companies underinvest in SEO?",
+    "answer": "Silicon Valley's VC-backed growth culture drives marketing budgets toward the fastest-measurable channels — paid media produces results in days while organic produces results in months. This creates a systematic underinvestment in the channel with the best long-term unit economics. The Silicon Valley companies that built organic programmes 3-5 years ago are now generating 40-60% of their pipeline from organic at CACs 5-10x lower than paid channels."
+  },
+  {
+    "question": "Does Clickmasters provide CCPA-compliant SEO for Silicon Valley companies?",
+    "answer": "Yes. CCPA compliance is standard in every Clickmasters Silicon Valley programme: server-side conversion tracking with Enhanced Conversions, consent management platform integration, data minimisation in analytics configuration. Silicon Valley's privacy-conscious culture makes CCPA compliance a brand credibility requirement, not just a legal one."
+  },
+  {
+    "question": "How does GEO/AEO SEO work for Silicon Valley B2B companies?",
+    "answer": "Silicon Valley's engineering-culture professionals are the most intensive AI search users in the US. When a CTO asks ChatGPT for recommended platforms in your category, or a VP of Engineering asks Perplexity which companies are leading in your technology area, appearing in the AI-generated answer is the most commercially valuable organic visibility available. Clickmasters builds GEO and AEO into every Silicon Valley programme."
+  },
+  {
+    "question": "Does Clickmasters serve companies in Palo Alto, Mountain View, and the broader Silicon Valley?",
+    "answer": "Yes — all of Silicon Valley: San Jose, Santa Clara, Sunnyvale, Mountain View (Google HQ), Palo Alto (Stanford), Menlo Park (Meta HQ area), Redwood City, Foster City, and the full Bay Area. Multi-office programmes for companies with South Bay and San Francisco presences."
+  },
+  {
+    "question": "How long does SEO take to produce results for Silicon Valley B2B SaaS companies?",
+    "answer": "Silicon Valley SaaS SEO timelines in highly competitive categories (data infrastructure, cybersecurity, DevOps): meaningful organic sessions at 6-10 months, significant pipeline contribution at 12-18 months. In less competitive niches: 4-8 months. The high content quality standard required creates longer timelines than mid-market US cities, but the CAC benefit compounds more powerfully given Silicon Valley's extreme paid media costs."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in San Jose and Silicon Valley?","acceptedAnswer":{"@type":"Answer","text":"Silicon Valley SEO: \$3,200/month (growth stage) to \$32,000+/month (enterprise). Silicon Valley commands the highest SEO retainer premium of any US market because the technical rigour, content quality standard, and CCPA compliance required to compete in the world's most sophisticated search market requires proportionally greater investment. 90-day performance guarantee."}},{"@type":"Question","name":"Why do Silicon Valley B2B SaaS companies underinvest in SEO?","acceptedAnswer":{"@type":"Answer","text":"Silicon Valley's VC-backed growth culture drives marketing budgets toward the fastest-measurable channels — paid media produces results in days while organic produces results in months. This creates a systematic underinvestment in the channel with the best long-term unit economics. The Silicon Valley companies that built organic programmes 3-5 years ago are now generating 40-60% of their pipeline from organic at CACs 5-10x lower than paid channels."}},{"@type":"Question","name":"Does Clickmasters provide CCPA-compliant SEO for Silicon Valley companies?","acceptedAnswer":{"@type":"Answer","text":"Yes. CCPA compliance is standard in every Clickmasters Silicon Valley programme: server-side conversion tracking with Enhanced Conversions, consent management platform integration, data minimisation in analytics configuration. Silicon Valley's privacy-conscious culture makes CCPA compliance a brand credibility requirement, not just a legal one."}},{"@type":"Question","name":"How does GEO/AEO SEO work for Silicon Valley B2B companies?","acceptedAnswer":{"@type":"Answer","text":"Silicon Valley's engineering-culture professionals are the most intensive AI search users in the US. When a CTO asks ChatGPT for recommended platforms in your category, or a VP of Engineering asks Perplexity which companies are leading in your technology area, appearing in the AI-generated answer is the most commercially valuable organic visibility available. Clickmasters builds GEO and AEO into every Silicon Valley programme."}},{"@type":"Question","name":"Does Clickmasters serve companies in Palo Alto, Mountain View, and the broader Silicon Valley?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Silicon Valley: San Jose, Santa Clara, Sunnyvale, Mountain View (Google HQ), Palo Alto (Stanford), Menlo Park (Meta HQ area), Redwood City, Foster City, and the full Bay Area. Multi-office programmes for companies with South Bay and San Francisco presences."}},{"@type":"Question","name":"How long does SEO take to produce results for Silicon Valley B2B SaaS companies?","acceptedAnswer":{"@type":"Answer","text":"Silicon Valley SaaS SEO timelines in highly competitive categories (data infrastructure, cybersecurity, DevOps): meaningful organic sessions at 6-10 months, significant pipeline contribution at 12-18 months. In less competitive niches: 4-8 months. The high content quality standard required creates longer timelines than mid-market US cities, but the CAC benefit compounds more powerfully given Silicon Valley's extreme paid media costs."}}]}`,
   cta: `Get Your Free Silicon Valley SEO Audit`,
   internalLinks: ["/digital-marketing-agency-san-jose/","/seo-services/","/seo-services-seattle/","/seo-services-austin/","/industries/saas/","/industries/technology/"],
@@ -54,7 +81,7 @@ Results (12 months): Organic sessions 0→24,800/month | Organic CAC: \$280 vs \
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-san-jose/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

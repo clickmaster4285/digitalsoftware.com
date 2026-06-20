@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Memphis.xlsx
 // Service: SEO
 // City: Memphis
-// Generated: 2026-06-19T12:50:28.022Z
+// URL: /seo-services-memphis/
+// Generated: 2026-06-20T04:42:13.714Z
 
 export const SEO_Memphis = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Memphis",
   citySlug: "memphis",
-  slug: "/locations/seo/memphis",
+  slug: "/seo-services-memphis/",
   
   h1: `SEO Services Memphis — FedEx Logistics B2B Authority, St. Jude World-Class YMYL, AutoZone Automotive Retail, and Tennessee TIPA-Native`,
   primaryKw: `seo services memphis`,
@@ -16,7 +17,7 @@ export const SEO_Memphis = {
   seoTitle: `SEO Services Memphis | FedEx Logistics B2B & St. Jude World-Class YMYL | Clickmasters`,
   meta: `Clickmasters SEO in Memphis. FedEx logistics/supply chain B2B authority, St. Jude Children's Research Hospital world-class YMYL, AutoZone automotive retail, and Tennessee TIPA-native analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Memphis SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-memphis/","address":{"@type":"PostalAddress","addressLocality":"Memphis","addressRegion":"TN","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS SEO IN MEMPHIS?
 
 SEO in Memphis is the practice of earning organic search authority in the Bluff City — where FedEx's world headquarters creates the most commercially significant logistics and supply chain B2B organic search opportunity in the US South, St. Jude Children's Research Hospital defines a world-class YMYL paediatric oncology content standard recognised globally, AutoZone's headquarters creates unique automotive retail B2B search volume, and the Tennessee Information Protection Act (TIPA, effective 2025) creates analytics compliance requirements across all Memphis digital marketing channels.
@@ -43,7 +44,33 @@ Case Study 3: Memphis Automotive Analytics — AutoZone Retail B2B SEO
 Client: Retail analytics, Memphis (\$4.8M). Challenge: Zero AutoZone retail analytics vocabulary. AutoZone procurement not finding.
 Programme: AutoZone automotive retail/commercial vocabulary + Tennessee retail analytics + TIPA-native + GEO/AEO
 Results (10 months): Page 1 for 9 Memphis retail tech queries | AutoZone: evaluation | Pipeline: \$900K`,
-  faq: `FAQs — SEO Memphis`,
+  faqTitle: `FAQs — SEO Memphis`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Memphis?",
+    "answer": "Memphis SEO: $950/month (Foundation) to $9,500+/month (Enterprise). FedEx logistics/supply chain B2B vocabulary. St. Jude world-class YMYL paediatric oncology. AutoZone automotive retail. Tennessee TIPA-native analytics. Tennessee retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is FedEx logistics B2B SEO for Memphis businesses?",
+    "answer": "FedEx logistics SEO builds organic authority in FedEx's world headquarters operational vocabulary: FedEx Ground, Express, and Freight network optimisation, last-mile delivery analytics, supply chain visibility platform specifics, and FedEx World Technology Center community content — earning organic discovery from FedEx Memphis technology procurement from one of the world's most recognisable logistics enterprises."
+  },
+  {
+    "question": "What is St. Jude Children's Research Hospital world-class YMYL SEO for Memphis businesses?",
+    "answer": "St. Jude YMYL SEO builds organic authority in the world's most recognised paediatric cancer research vocabulary: paediatric oncology clinical trial methodology, childhood cancer genomics operational specifics, and the philanthropic-academic research community content that earns St. Jude's globally recognised YMYL content standard — the most prestigious paediatric oncology YMYL credential in US digital marketing."
+  },
+  {
+    "question": "Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?",
+    "answer": "Yes — all of Greater Memphis: Shelby County, Fayette County, Tipton County (Tennessee), and DeSoto/Marshall Counties (Mississippi)."
+  },
+  {
+    "question": "How does Tennessee TIPA affect Memphis SEO analytics?",
+    "answer": "Tennessee Information Protection Act (TIPA, effective July 2025) creates analytics compliance requirements for Memphis businesses serving Tennessee consumers. TIPA-native analytics with consent management protect from Tennessee AG enforcement while producing accurate Memphis performance measurement."
+  },
+  {
+    "question": "How does GEO/AEO affect Memphis SEO?",
+    "answer": "FedEx's logistics technology community and St. Jude's computational biology community use AI search for vendor research. First-mover GEO/AEO for Memphis FedEx logistics and St. Jude YMYL vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Memphis?","acceptedAnswer":{"@type":"Answer","text":"Memphis SEO: \$950/month (Foundation) to \$9,500+/month (Enterprise). FedEx logistics/supply chain B2B vocabulary. St. Jude world-class YMYL paediatric oncology. AutoZone automotive retail. Tennessee TIPA-native analytics. Tennessee retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is FedEx logistics B2B SEO for Memphis businesses?","acceptedAnswer":{"@type":"Answer","text":"FedEx logistics SEO builds organic authority in FedEx's world headquarters operational vocabulary: FedEx Ground, Express, and Freight network optimisation, last-mile delivery analytics, supply chain visibility platform specifics, and FedEx World Technology Center community content — earning organic discovery from FedEx Memphis technology procurement from one of the world's most recognisable logistics enterprises."}},{"@type":"Question","name":"What is St. Jude Children's Research Hospital world-class YMYL SEO for Memphis businesses?","acceptedAnswer":{"@type":"Answer","text":"St. Jude YMYL SEO builds organic authority in the world's most recognised paediatric cancer research vocabulary: paediatric oncology clinical trial methodology, childhood cancer genomics operational specifics, and the philanthropic-academic research community content that earns St. Jude's globally recognised YMYL content standard — the most prestigious paediatric oncology YMYL credential in US digital marketing."}},{"@type":"Question","name":"Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Memphis: Shelby County, Fayette County, Tipton County (Tennessee), and DeSoto/Marshall Counties (Mississippi)."}},{"@type":"Question","name":"How does Tennessee TIPA affect Memphis SEO analytics?","acceptedAnswer":{"@type":"Answer","text":"Tennessee Information Protection Act (TIPA, effective July 2025) creates analytics compliance requirements for Memphis businesses serving Tennessee consumers. TIPA-native analytics with consent management protect from Tennessee AG enforcement while producing accurate Memphis performance measurement."}},{"@type":"Question","name":"How does GEO/AEO affect Memphis SEO?","acceptedAnswer":{"@type":"Answer","text":"FedEx's logistics technology community and St. Jude's computational biology community use AI search for vendor research. First-mover GEO/AEO for Memphis FedEx logistics and St. Jude YMYL vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Memphis SEO Audit`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-memphis/","/seo-services-nashville/","/seo-services-atlanta/"],
@@ -53,7 +80,7 @@ Results (10 months): Page 1 for 9 Memphis retail tech queries | AutoZone: evalua
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-memphis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

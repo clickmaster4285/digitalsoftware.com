@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-LosAngeles.xlsx
 // Service: SEO
 // City: LosAngeles
-// Generated: 2026-06-19T12:50:28.000Z
+// URL: /seo-services-los-angeles/
+// Generated: 2026-06-20T04:42:13.696Z
 
 export const SEO_LosAngeles = {
   service: "SEO",
   serviceSlug: "seo",
   city: "LosAngeles",
   citySlug: "los-angeles",
-  slug: "/locations/seo/los-angeles",
+  slug: "/seo-services-los-angeles/",
   
   h1: `SEO Services Los Angeles — Entertainment Industry Authority, Silicon Beach Technology, and CCPA-Native Organic Growth`,
   primaryKw: `seo services los angeles`,
@@ -16,7 +17,7 @@ export const SEO_LosAngeles = {
   seoTitle: `SEO Services Los Angeles | Entertainment B2B & Silicon Beach Tech | Clickmasters`,
   meta: `Clickmasters SEO in Los Angeles. Entertainment industry B2B authority, Silicon Beach technology organic growth, and CCPA-native analytics for America's second-largest city. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Los Angeles SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-los-angeles/","address":{"@type":"PostalAddress","addressLocality":"Los Angeles","addressRegion":"CA","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS SEO IN LOS ANGELES?
 
 SEO in Los Angeles is the practice of building organic search authority for LA-area businesses in America's second-largest city and the world's most commercially diverse metropolitan market — where entertainment, technology, healthcare, and consumer commerce each operate at global commercial scale within a single metropolitan area spanning 88 incorporated cities.
@@ -41,7 +42,33 @@ Case Study 3: West Hollywood DTC Brand — CCPA-Native Consumer SEO
 Client: Beauty DTC, West Hollywood (\$6.8M Shopify). Challenge: Non-CCPA analytics. 44% organic performance inflation. Content investment decisions based on inaccurate data.
 Programme: CCPA-native analytics rebuild + creator economy content + LA geographic specificity + accurate organic attribution
 Results (10 months): Accurate organic performance measured for first time | Content investment reallocated to high-performing categories | Organic DTC revenue: +38% on corrected baseline | CCPA: clean`,
-  faq: `FAQs — SEO Los Angeles`,
+  faqTitle: `FAQs — SEO Los Angeles`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Los Angeles?",
+    "answer": "LA SEO: $2,200/month (growth) to $20,000+/month (enterprise). CCPA-native analytics required. Entertainment production vocabulary precision. Below San Francisco equivalent costs. 90-day performance guarantee."
+  },
+  {
+    "question": "What is entertainment industry B2B SEO for Los Angeles?",
+    "answer": "Entertainment B2B SEO targets the specific production vocabulary that Netflix, Disney+, Amazon Prime Video, and studio technical teams search when evaluating vendor capabilities: DCP mastering, IMF package deliverables, HDR grading standards (Dolby Vision, HDR10+), streaming platform technical specifications. Generic 'entertainment services Los Angeles' content reaches none of LA's entertainment production B2B community."
+  },
+  {
+    "question": "What is CCPA-native SEO analytics in Los Angeles?",
+    "answer": "CCPA-native SEO analytics excludes California opt-out data from organic performance measurement — producing accurate session counts and conversion attribution rather than consent-inflated metrics. LA businesses with non-CCPA SEO analytics may be overreporting organic sessions by 30-45%. Every Clickmasters LA SEO programme is built on CCPA-native analytics from day one."
+  },
+  {
+    "question": "Does Clickmasters serve Long Beach, Pasadena, and the Greater Los Angeles area?",
+    "answer": "Yes — all of Greater Los Angeles: LA County, Orange County, Ventura County, and the full 88-incorporated-city metropolitan area."
+  },
+  {
+    "question": "How long does LA entertainment B2B SEO take?",
+    "answer": "LA entertainment production B2B content: first production vocabulary rankings at 4-7 months. Variety and Hollywood Reporter editorial relationships: 3-5 months. Full entertainment B2B procurement organic visibility: 7-12 months — below SF timelines because LA entertainment B2B organic competition from LA-based companies is lower than SF AI/ML organic competition."
+  },
+  {
+    "question": "How does GEO/AEO affect Los Angeles SEO in 2026?",
+    "answer": "LA's entertainment industry professional community and Silicon Beach technology professionals are increasing AI search usage. When a Netflix technical VP asks ChatGPT for IMF-capable post-production technology partners in LA, or a Snap product manager asks Perplexity for analytics SaaS vendors in Santa Monica, the companies with GEO and AEO signals appear in those answers."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Los Angeles?","acceptedAnswer":{"@type":"Answer","text":"LA SEO: \$2,200/month (growth) to \$20,000+/month (enterprise). CCPA-native analytics required. Entertainment production vocabulary precision. Below San Francisco equivalent costs. 90-day performance guarantee."}},{"@type":"Question","name":"What is entertainment industry B2B SEO for Los Angeles?","acceptedAnswer":{"@type":"Answer","text":"Entertainment B2B SEO targets the specific production vocabulary that Netflix, Disney+, Amazon Prime Video, and studio technical teams search when evaluating vendor capabilities: DCP mastering, IMF package deliverables, HDR grading standards (Dolby Vision, HDR10+), streaming platform technical specifications. Generic 'entertainment services Los Angeles' content reaches none of LA's entertainment production B2B community."}},{"@type":"Question","name":"What is CCPA-native SEO analytics in Los Angeles?","acceptedAnswer":{"@type":"Answer","text":"CCPA-native SEO analytics excludes California opt-out data from organic performance measurement — producing accurate session counts and conversion attribution rather than consent-inflated metrics. LA businesses with non-CCPA SEO analytics may be overreporting organic sessions by 30-45%. Every Clickmasters LA SEO programme is built on CCPA-native analytics from day one."}},{"@type":"Question","name":"Does Clickmasters serve Long Beach, Pasadena, and the Greater Los Angeles area?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Los Angeles: LA County, Orange County, Ventura County, and the full 88-incorporated-city metropolitan area."}},{"@type":"Question","name":"How long does LA entertainment B2B SEO take?","acceptedAnswer":{"@type":"Answer","text":"LA entertainment production B2B content: first production vocabulary rankings at 4-7 months. Variety and Hollywood Reporter editorial relationships: 3-5 months. Full entertainment B2B procurement organic visibility: 7-12 months — below SF timelines because LA entertainment B2B organic competition from LA-based companies is lower than SF AI/ML organic competition."}},{"@type":"Question","name":"How does GEO/AEO affect Los Angeles SEO in 2026?","acceptedAnswer":{"@type":"Answer","text":"LA's entertainment industry professional community and Silicon Beach technology professionals are increasing AI search usage. When a Netflix technical VP asks ChatGPT for IMF-capable post-production technology partners in LA, or a Snap product manager asks Perplexity for analytics SaaS vendors in Santa Monica, the companies with GEO and AEO signals appear in those answers."}}]}`,
   cta: `Get Your Free Los Angeles SEO Audit`,
   internalLinks: ["/digital-marketing-agency-los-angeles/","/seo-services/","/seo-services-san-francisco/","/seo-services-san-diego/","/industries/entertainment/","/industries/technology/"],
@@ -51,7 +78,7 @@ Results (10 months): Accurate organic performance measured for first time | Cont
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-los-angeles/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

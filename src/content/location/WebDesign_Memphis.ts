@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-Memphis.xlsx
 // Service: WebDesign
 // City: Memphis
-// Generated: 2026-06-19T12:50:29.033Z
+// URL: /web-design-agency-memphis/
+// Generated: 2026-06-20T04:42:14.726Z
 
 export const WebDesign_Memphis = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Memphis",
   citySlug: "memphis",
-  slug: "/locations/web-design/memphis",
+  slug: "/web-design-agency-memphis/",
   
   h1: `Web Design Agency Memphis — FedEx Logistics Institutional Credibility, St. Jude World-Class YMYL HIPAA TIPA, and AutoZone Retail Quality`,
   primaryKw: `web design agency memphis`,
@@ -16,7 +17,7 @@ export const WebDesign_Memphis = {
   seoTitle: `Web Design Agency Memphis | FedEx Logistics Credibility & St. Jude YMYL | Clickmasters`,
   meta: `Clickmasters web design in Memphis. FedEx logistics World Technology Center credibility, St. Jude world-class YMYL HIPAA TIPA, and AutoZone automotive retail enterprise quality. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Memphis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-memphis/","address":{"@type":"PostalAddress","addressLocality":"Memphis","addressRegion":"TN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN MEMPHIS?
 
 A Memphis web design agency builds websites across three commercially distinct requirements: FedEx World Technology Center logistics institutional vendor credibility, St. Jude Children's Research Hospital world-class YMYL HIPAA TIPA academic paediatric oncology design, and AutoZone/International Paper Fortune 500 retail enterprise quality.
@@ -50,7 +51,33 @@ Case Study 3: Memphis Healthcare Practice — Baptist Memorial YMYL HIPAA TIPA R
 Client: Internal medicine (Baptist Memorial-affiliated). Challenge: No Baptist affiliation. Non-HIPAA. Non-TIPA. 4.6s LCP.
 Programme: Baptist Memorial/Methodist Le Bonheur affiliation + HIPAA/TIPA-native + YMYL E-E-A-T + CWV
 Results: YMYL: E-E-A-T | Baptist: cited | HIPAA/TIPA: clean | New patients: +3x | LCP: 4.6s to 1.2s`,
-  faq: `FAQs — Web Design Memphis`,
+  faqTitle: `FAQs — Web Design Memphis`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Memphis?",
+    "answer": "Memphis web design: $5,500-$14,000 (FedEx WTC logistics/St. Jude YMYL/AutoZone retail), $24,000-$60,000+ (enterprise). FedEx WTC institutional logistics. St. Jude world-class YMYL HIPAA TIPA. AutoZone Fortune 500 retail quality. WCAG 2.1 AA. Tennessee TIPA-native. Fixed-price."
+  },
+  {
+    "question": "What is FedEx World Technology Center logistics institutional credibility for Memphis web design?",
+    "answer": "FedEx Ground network optimisation service descriptions, Express air hub operations technology pages, Freight last-mile delivery analytics methodology, supply chain visibility platform integration specifics, and FedEx WTC institutional visual quality — the logistics website that earns FedEx World Technology Center procurement digital due diligence clearance."
+  },
+  {
+    "question": "What is St. Jude world-class YMYL HIPAA TIPA for Memphis healthcare web design?",
+    "answer": "St. Jude paediatric oncology clinical vocabulary, childhood cancer genomics research community pages, computational biology methodology, HIPAA-native Tennessee TIPA-native data architecture, and world-class philanthropic-academic YMYL E-E-A-T content — the healthcare website that earns St. Jude Children's Research Hospital vendor consideration."
+  },
+  {
+    "question": "Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?",
+    "answer": "Yes — all of Greater Memphis MSA."
+  },
+  {
+    "question": "What is Tennessee TIPA-native analytics for Memphis web design?",
+    "answer": "Tennessee TIPA consent management for website analytics data collection, accurate analytics excluding Tennessee opt-out user data, and Tennessee AG pre-audit ready data architecture — as standard in every Memphis website design."
+  },
+  {
+    "question": "How long does a Memphis web design project take?",
+    "answer": "FedEx WTC logistics (logistics vocabulary review): 8-14 weeks. St. Jude world-class YMYL HIPAA/TIPA: 8-16 weeks. AutoZone Fortune 500 retail quality: 8-12 weeks. Enterprise: 14-24 weeks."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Memphis?","acceptedAnswer":{"@type":"Answer","text":"Memphis web design: \$5,500-\$14,000 (FedEx WTC logistics/St. Jude YMYL/AutoZone retail), \$24,000-\$60,000+ (enterprise). FedEx WTC institutional logistics. St. Jude world-class YMYL HIPAA TIPA. AutoZone Fortune 500 retail quality. WCAG 2.1 AA. Tennessee TIPA-native. Fixed-price."}},{"@type":"Question","name":"What is FedEx World Technology Center logistics institutional credibility for Memphis web design?","acceptedAnswer":{"@type":"Answer","text":"FedEx Ground network optimisation service descriptions, Express air hub operations technology pages, Freight last-mile delivery analytics methodology, supply chain visibility platform integration specifics, and FedEx WTC institutional visual quality — the logistics website that earns FedEx World Technology Center procurement digital due diligence clearance."}},{"@type":"Question","name":"What is St. Jude world-class YMYL HIPAA TIPA for Memphis healthcare web design?","acceptedAnswer":{"@type":"Answer","text":"St. Jude paediatric oncology clinical vocabulary, childhood cancer genomics research community pages, computational biology methodology, HIPAA-native Tennessee TIPA-native data architecture, and world-class philanthropic-academic YMYL E-E-A-T content — the healthcare website that earns St. Jude Children's Research Hospital vendor consideration."}},{"@type":"Question","name":"Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Memphis MSA."}},{"@type":"Question","name":"What is Tennessee TIPA-native analytics for Memphis web design?","acceptedAnswer":{"@type":"Answer","text":"Tennessee TIPA consent management for website analytics data collection, accurate analytics excluding Tennessee opt-out user data, and Tennessee AG pre-audit ready data architecture — as standard in every Memphis website design."}},{"@type":"Question","name":"How long does a Memphis web design project take?","acceptedAnswer":{"@type":"Answer","text":"FedEx WTC logistics (logistics vocabulary review): 8-14 weeks. St. Jude world-class YMYL HIPAA/TIPA: 8-16 weeks. AutoZone Fortune 500 retail quality: 8-12 weeks. Enterprise: 14-24 weeks."}}]}`,
   cta: `Get Your Free Memphis Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-memphis/","/seo-services-memphis/","/web-design-agency-nashville/"],
@@ -60,7 +87,7 @@ Results: YMYL: E-E-A-T | Baptist: cited | HIPAA/TIPA: clean | New patients: +3x 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-memphis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-SaltLakeCity.xlsx
 // Service: DigitalMarketing
 // City: SaltLakeCity
-// Generated: 2026-06-19T12:50:26.172Z
+// URL: /digital-marketing-agency-salt-lake-city/
+// Generated: 2026-06-20T04:42:11.556Z
 
 export const DigitalMarketing_SaltLakeCity = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "SaltLakeCity",
   citySlug: "salt-lake-city",
-  slug: "/locations/digital-marketing/salt-lake-city",
+  slug: "/digital-marketing-agency-salt-lake-city/",
   
   h1: `Digital Marketing Agency Salt Lake City — Silicon Slopes Revenue, Goldman Sachs FINRA, University of Utah YMYL, and Beehive State Commercial Growth`,
   primaryKw: `digital marketing agency salt lake city`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_SaltLakeCity = {
   seoTitle: `Digital Marketing Agency Salt Lake City | Silicon Slopes Revenue & Goldman Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Salt Lake City. Silicon Slopes Qualtrics/Domo revenue, Goldman Sachs FINRA, University of Utah/Primary Children's YMYL, and Utah UCPA-native analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Salt Lake City Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-salt-lake-city/","address":{"@type":"PostalAddress","addressLocality":"Salt Lake City","addressRegion":"UT","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3800,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN SALT LAKE CITY?
 
 A Salt Lake City digital marketing agency manages digital channels for Beehive State businesses across four commercially distinct sectors that define Salt Lake City's remarkable commercial identity.
@@ -43,7 +44,33 @@ Case Study 3: Salt Lake City Financial Advisory — CA In-Migration Full Program
 Client: Fee-only RIA, Salt Lake City (\$200M AUM). Challenge: CA in-migration vocabulary absent. CA transplants not finding.
 Programme: SEO (CA in-migration Utah tax) + Google Ads + CA in-migration 5-stage email + UCPA + FINRA
 Results (11 months): CA in-migration organic: +3x | New CA-to-UT AUM: \$18M | FINRA/UCPA: clean`,
-  faq: `FAQs — Digital Marketing Salt Lake City`,
+  faqTitle: `FAQs — Digital Marketing Salt Lake City`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Salt Lake City?",
+    "answer": "Salt Lake City digital marketing: $1,100/month (single channel) to $12,000+/month (enterprise). Silicon Slopes Qualtrics/Domo vocabulary. Goldman/Zions FINRA. U of U/Primary Children's YMYL. Utah UCPA-native. Utah retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What makes Silicon Slopes digital marketing unique for Salt Lake City businesses?",
+    "answer": "Silicon Slopes has produced Qualtrics (experience management), Domo (BI cloud), Pluralsight (tech skills), and Ancestry.com — creating a Mountain West enterprise software B2B ecosystem with no equivalent outside Utah. Digital marketing demonstrating Qualtrics XM platform integration, Domo BI cloud analytics, and Pluralsight technology skills vocabulary earns organic discovery from Utah's most commercially productive enterprise software community at Utah CPCs below Bay Area equivalents."
+  },
+  {
+    "question": "Does Clickmasters serve Lehi, Draper, South Jordan, and Greater Salt Lake City?",
+    "answer": "Yes — all of Greater Salt Lake City: Salt Lake, Utah, Davis, and Weber Counties."
+  },
+  {
+    "question": "What is the California in-migration Utah tax advantage digital marketing opportunity?",
+    "answer": "California's 13.3% top income tax rate vs Utah's flat 4.65% income tax creates an active in-migration community of California professionals relocating to Salt Lake City's growing technology and financial sector. Financial advisory, legal, and real estate services businesses with California-to-Utah tax advantage content earn above-average organic discovery and conversion from this commercially active in-migration community."
+  },
+  {
+    "question": "What is Utah UCPA compliance for Salt Lake City digital marketing?",
+    "answer": "Utah Consumer Privacy Act (UCPA, effective December 2023) creates analytics compliance requirements for all Utah Salt Lake City businesses — similar to California's CCPA but with a higher de minimis threshold. UCPA-native analytics with consent management protect from Utah AG enforcement while producing accurate Salt Lake City performance measurement."
+  },
+  {
+    "question": "How does GEO/AEO affect Salt Lake City digital marketing?",
+    "answer": "Silicon Slopes enterprise tech community and Goldman Sachs's Salt Lake City professional community use AI search for vendor research. First-mover GEO/AEO for SLC Qualtrics/Domo and Goldman Sachs vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Salt Lake City digital marketing: \$1,100/month (single channel) to \$12,000+/month (enterprise). Silicon Slopes Qualtrics/Domo vocabulary. Goldman/Zions FINRA. U of U/Primary Children's YMYL. Utah UCPA-native. Utah retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What makes Silicon Slopes digital marketing unique for Salt Lake City businesses?","acceptedAnswer":{"@type":"Answer","text":"Silicon Slopes has produced Qualtrics (experience management), Domo (BI cloud), Pluralsight (tech skills), and Ancestry.com — creating a Mountain West enterprise software B2B ecosystem with no equivalent outside Utah. Digital marketing demonstrating Qualtrics XM platform integration, Domo BI cloud analytics, and Pluralsight technology skills vocabulary earns organic discovery from Utah's most commercially productive enterprise software community at Utah CPCs below Bay Area equivalents."}},{"@type":"Question","name":"Does Clickmasters serve Lehi, Draper, South Jordan, and Greater Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Salt Lake City: Salt Lake, Utah, Davis, and Weber Counties."}},{"@type":"Question","name":"What is the California in-migration Utah tax advantage digital marketing opportunity?","acceptedAnswer":{"@type":"Answer","text":"California's 13.3% top income tax rate vs Utah's flat 4.65% income tax creates an active in-migration community of California professionals relocating to Salt Lake City's growing technology and financial sector. Financial advisory, legal, and real estate services businesses with California-to-Utah tax advantage content earn above-average organic discovery and conversion from this commercially active in-migration community."}},{"@type":"Question","name":"What is Utah UCPA compliance for Salt Lake City digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Utah Consumer Privacy Act (UCPA, effective December 2023) creates analytics compliance requirements for all Utah Salt Lake City businesses — similar to California's CCPA but with a higher de minimis threshold. UCPA-native analytics with consent management protect from Utah AG enforcement while producing accurate Salt Lake City performance measurement."}},{"@type":"Question","name":"How does GEO/AEO affect Salt Lake City digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Silicon Slopes enterprise tech community and Goldman Sachs's Salt Lake City professional community use AI search for vendor research. First-mover GEO/AEO for SLC Qualtrics/Domo and Goldman Sachs vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Salt Lake City Digital Marketing Audit`,
   internalLinks: ["/seo-services-salt-lake-city/","/digital-marketing-agency-usa/","/digital-marketing-agency-sacramento/","/digital-marketing-agency-denver/"],
@@ -53,7 +80,7 @@ Results (11 months): CA in-migration organic: +3x | New CA-to-UT AUM: \$18M | FI
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-salt-lake-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

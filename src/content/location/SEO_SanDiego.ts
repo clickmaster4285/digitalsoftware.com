@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-SanDiego.xlsx
 // Service: SEO
 // City: SanDiego
-// Generated: 2026-06-19T12:50:28.256Z
+// URL: /seo-services-san-diego/
+// Generated: 2026-06-20T04:42:13.901Z
 
 export const SEO_SanDiego = {
   service: "SEO",
   serviceSlug: "seo",
   city: "SanDiego",
   citySlug: "san-diego",
-  slug: "/locations/seo/san-diego",
+  slug: "/seo-services-san-diego/",
   
   h1: `SEO Services San Diego — Defense Contractor Authority, Torrey Pines Life Science, and California Border Commercial Organic`,
   primaryKw: `seo services san diego`,
@@ -16,7 +17,7 @@ export const SEO_SanDiego = {
   seoTitle: `SEO Services San Diego | Defense Contractor Authority & Torrey Pines Life Science | Clickmasters`,
   meta: `Clickmasters SEO in San Diego. Defence contractor vocabulary organic authority, Torrey Pines life science YMYL content, and CCPA-native analytics for America's largest military city. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Diego SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-san-diego/","address":{"@type":"PostalAddress","addressLocality":"San Diego","addressRegion":"CA","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS SEO IN SAN DIEGO?
 
 SEO in San Diego is the practice of earning organic search authority for the vocabulary of three commercially distinct sectors: the US Navy/Marine Corps and defence contractor professional community, the Torrey Pines life science and pharmaceutical ecosystem, and San Diego's California border economy.
@@ -41,7 +42,33 @@ Case Study 3: La Jolla Healthcare Practice — CCPA-Native YMYL Healthcare SEO
 Client: Internal medicine, La Jolla (2 physicians, UCSD Health-affiliated). Challenge: CCPA non-compliant analytics overstating organic 34%. Non-YMYL content.
 Programme: CCPA-native analytics + UCSD Health affiliation content + YMYL E-E-A-T architecture + California-specific vocabulary
 Results (10 months): CCPA-accurate organic baseline established | Page 1 for 11 La Jolla healthcare queries | UCSD affiliation: cited in patient surveys | New patients: +3x`,
-  faq: `FAQs — SEO San Diego`,
+  faqTitle: `FAQs — SEO San Diego`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in San Diego?",
+    "answer": "San Diego SEO: $1,400/month (Foundation) to $12,000+/month (Enterprise). ITAR-bounded defence vocabulary. FDA-aware life science YMYL. CCPA-native analytics. 90-day guarantee."
+  },
+  {
+    "question": "What is ITAR-bounded defence vocabulary SEO for San Diego?",
+    "answer": "ITAR-bounded SEO builds organic authority using publicly releasable defence vocabulary: AS9100D quality management operational insights, DCAA accounting system content, DoD supplier diversity programme content, and cleared facility operational vocabulary. It does not include controlled technical specifications, classified programme details, or export-restricted performance parameters — making it ITAR-compliant while building genuine defence community search authority."
+  },
+  {
+    "question": "What is CCPA-native analytics for San Diego SEO?",
+    "answer": "CCPA-native analytics excludes California opt-out data from organic performance measurement, producing accurate session counts in California's above-average opt-out environment. San Diego businesses with non-CCPA organic analytics systematically overreport organic performance by 25-35%."
+  },
+  {
+    "question": "Does Clickmasters serve La Jolla, Chula Vista, Oceanside, and Greater San Diego?",
+    "answer": "Yes — all of San Diego County and Greater San Diego MSA."
+  },
+  {
+    "question": "How long does San Diego defence contractor SEO take?",
+    "answer": "Defence contractor vocabulary: 5-8 months (ITAR-bounded publicly releasable vocabulary). Torrey Pines life science: 5-9 months (FDA-aware YMYL). La Jolla healthcare: 4-7 months."
+  },
+  {
+    "question": "How does GEO/AEO affect San Diego SEO?",
+    "answer": "San Diego's defence contractor and life science professional communities are increasing AI search adoption. When Northrop Grumman procurement asks ChatGPT for AS9100D-certified precision machining companies in San Diego, or Pfizer asks Perplexity for Phase I CROs in Torrey Pines, companies with GEO/AEO signals appear."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in San Diego?","acceptedAnswer":{"@type":"Answer","text":"San Diego SEO: \$1,400/month (Foundation) to \$12,000+/month (Enterprise). ITAR-bounded defence vocabulary. FDA-aware life science YMYL. CCPA-native analytics. 90-day guarantee."}},{"@type":"Question","name":"What is ITAR-bounded defence vocabulary SEO for San Diego?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded SEO builds organic authority using publicly releasable defence vocabulary: AS9100D quality management operational insights, DCAA accounting system content, DoD supplier diversity programme content, and cleared facility operational vocabulary. It does not include controlled technical specifications, classified programme details, or export-restricted performance parameters — making it ITAR-compliant while building genuine defence community search authority."}},{"@type":"Question","name":"What is CCPA-native analytics for San Diego SEO?","acceptedAnswer":{"@type":"Answer","text":"CCPA-native analytics excludes California opt-out data from organic performance measurement, producing accurate session counts in California's above-average opt-out environment. San Diego businesses with non-CCPA organic analytics systematically overreport organic performance by 25-35%."}},{"@type":"Question","name":"Does Clickmasters serve La Jolla, Chula Vista, Oceanside, and Greater San Diego?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of San Diego County and Greater San Diego MSA."}},{"@type":"Question","name":"How long does San Diego defence contractor SEO take?","acceptedAnswer":{"@type":"Answer","text":"Defence contractor vocabulary: 5-8 months (ITAR-bounded publicly releasable vocabulary). Torrey Pines life science: 5-9 months (FDA-aware YMYL). La Jolla healthcare: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect San Diego SEO?","acceptedAnswer":{"@type":"Answer","text":"San Diego's defence contractor and life science professional communities are increasing AI search adoption. When Northrop Grumman procurement asks ChatGPT for AS9100D-certified precision machining companies in San Diego, or Pfizer asks Perplexity for Phase I CROs in Torrey Pines, companies with GEO/AEO signals appear."}}]}`,
   cta: `Get Your Free San Diego SEO Audit`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-san-diego/","/seo-services-los-angeles/","/seo-services-san-francisco/"],
@@ -51,7 +78,7 @@ Results (10 months): CCPA-accurate organic baseline established | Page 1 for 11 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-san-diego/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

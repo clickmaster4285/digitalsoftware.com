@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-Huntsville.xlsx
 // Service: ContentMarketing
 // City: Huntsville
-// Generated: 2026-06-19T12:50:25.192Z
+// URL: /content-marketing-huntsville/
+// Generated: 2026-06-20T04:42:10.728Z
 
 export const ContentMarketing_Huntsville = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "Huntsville",
   citySlug: "huntsville",
-  slug: "/locations/content-marketing/huntsville",
+  slug: "/content-marketing-huntsville/",
   
   h1: `Content Marketing Huntsville — NASA Marshall ITAR-Bounded Aerospace Authority, Redstone Army Defence, and Rocket City Engineering Voice`,
   primaryKw: `content marketing agency huntsville`,
@@ -16,7 +17,7 @@ export const ContentMarketing_Huntsville = {
   seoTitle: `Content Marketing Huntsville | NASA Marshall ITAR-Bounded Aerospace Authority & Redstone | Clickmasters`,
   meta: `Clickmasters content marketing in Huntsville. NASA Marshall ITAR-bounded SLS/Artemis aerospace authority, Redstone AMCOM/MDA publicly releasable defence, and UAH aerospace engineering community. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Huntsville Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-huntsville/","address":{"@type":"PostalAddress","addressLocality":"Huntsville","addressRegion":"AL","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3500,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN HUNTSVILLE?
 
 Content marketing in Huntsville is the strategic creation of NASA Marshall ITAR-bounded publicly releasable aerospace authority content, Redstone Arsenal ITAR-bounded US Army defence content, UAH aerospace engineering community content, and authentic Rocket City space heritage content.
@@ -50,7 +51,33 @@ Case Study 3: Huntsville Healthcare — Huntsville Hospital YMYL Content
 Client: Oncology (Huntsville Hospital-affiliated). Challenge: Generic content. Non-HIPAA.
 Programme: Huntsville Hospital vocabulary + UAH community + YMYL E-E-A-T + HIPAA + GEO/AEO
 Results (10 months): Page 1 for 9 queries | Hospital: cited | YMYL: E-E-A-T | New patients: +3x`,
-  faq: `FAQs — Content Marketing Huntsville`,
+  faqTitle: `FAQs — Content Marketing Huntsville`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in Huntsville?",
+    "answer": "Huntsville content marketing: $1,000/month (Foundation) to $9,500+/month (Full Programme). NASA Marshall ITAR-bounded publicly releasable authority. Redstone Arsenal Army defence. UAH engineering. Huntsville Hospital YMYL. Alabama retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is NASA Marshall ITAR-bounded publicly releasable aerospace content for Huntsville?",
+    "answer": "ITAR vocabulary review applied to every content piece, followed by SLS programme publicly available technical reports, Artemis mission planning publicly available documentation, AIAA aerospace community content, and NASA Marshall programme community content — earning organic discovery from NASA Marshall and Cummings Research Park's aerospace procurement community without ITAR export control exposure."
+  },
+  {
+    "question": "What is AIAA editorial for Huntsville aerospace content marketing?",
+    "answer": "The American Institute of Aeronautics and Astronautics (AIAA) — the world's most significant aerospace engineering professional organisation — has a substantial Huntsville chapter community reflecting NASA Marshall and prime contractor engineering professional base. AIAA editorial community engagement for SLS/Artemis content earns above-average credibility signals within the Rocket City's most commercially significant aerospace professional community."
+  },
+  {
+    "question": "Does Clickmasters serve Madison, Athens, Decatur, and Greater Huntsville?",
+    "answer": "Yes — all of Greater Huntsville MSA."
+  },
+  {
+    "question": "What is AUSA editorial for Huntsville defence content marketing?",
+    "answer": "The Association of the United States Army (AUSA) — headquartered in Arlington with a substantial Huntsville chapter — is the premier Army professional organisation. AUSA editorial community engagement for AMCOM/MDA publicly releasable content earns above-average credibility within Redstone Arsenal's most commercially concentrated US Army programme management community."
+  },
+  {
+    "question": "How does GEO/AEO affect Huntsville content marketing?",
+    "answer": "NASA Marshall's space technology community and Redstone's defence engineering community use AI search. First-mover GEO/AEO for Huntsville SLS/Artemis and AMCOM publicly releasable vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Huntsville?","acceptedAnswer":{"@type":"Answer","text":"Huntsville content marketing: \$1,000/month (Foundation) to \$9,500+/month (Full Programme). NASA Marshall ITAR-bounded publicly releasable authority. Redstone Arsenal Army defence. UAH engineering. Huntsville Hospital YMYL. Alabama retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is NASA Marshall ITAR-bounded publicly releasable aerospace content for Huntsville?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review applied to every content piece, followed by SLS programme publicly available technical reports, Artemis mission planning publicly available documentation, AIAA aerospace community content, and NASA Marshall programme community content — earning organic discovery from NASA Marshall and Cummings Research Park's aerospace procurement community without ITAR export control exposure."}},{"@type":"Question","name":"What is AIAA editorial for Huntsville aerospace content marketing?","acceptedAnswer":{"@type":"Answer","text":"The American Institute of Aeronautics and Astronautics (AIAA) — the world's most significant aerospace engineering professional organisation — has a substantial Huntsville chapter community reflecting NASA Marshall and prime contractor engineering professional base. AIAA editorial community engagement for SLS/Artemis content earns above-average credibility signals within the Rocket City's most commercially significant aerospace professional community."}},{"@type":"Question","name":"Does Clickmasters serve Madison, Athens, Decatur, and Greater Huntsville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Huntsville MSA."}},{"@type":"Question","name":"What is AUSA editorial for Huntsville defence content marketing?","acceptedAnswer":{"@type":"Answer","text":"The Association of the United States Army (AUSA) — headquartered in Arlington with a substantial Huntsville chapter — is the premier Army professional organisation. AUSA editorial community engagement for AMCOM/MDA publicly releasable content earns above-average credibility within Redstone Arsenal's most commercially concentrated US Army programme management community."}},{"@type":"Question","name":"How does GEO/AEO affect Huntsville content marketing?","acceptedAnswer":{"@type":"Answer","text":"NASA Marshall's space technology community and Redstone's defence engineering community use AI search. First-mover GEO/AEO for Huntsville SLS/Artemis and AMCOM publicly releasable vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Huntsville Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-huntsville/","/seo-services-huntsville/","/content-marketing-birmingham/"],
@@ -60,7 +87,7 @@ Results (10 months): Page 1 for 9 queries | Hospital: cited | YMYL: E-E-A-T | Ne
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-huntsville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

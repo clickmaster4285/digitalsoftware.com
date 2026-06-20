@@ -107,11 +107,51 @@ function parseFileName(filename: string) {
     city: cityName,
     citySlug: citySlug,
     slug: `${serviceSlug}/${citySlug}`,
-    fileName: name, // Store original filename for variable naming
+    fileName: name,
   };
 }
 
-// Convert key-value rows to object
+// ============================================
+// 1. PARSE WORD COUNT
+// ============================================
+function parseWordCount(value: any): number {
+  if (!value) return 0;
+  const str = String(value);
+  const match = str.match(/(\d+[,]?\d+)/);
+  if (match) {
+    return parseInt(match[1].replace(/,/g, ''));
+  }
+  return 0;
+}
+
+// ============================================
+// 2. PARSE FAQ FROM FAQ SCHEMA
+// ============================================
+function parseFAQFromSchema(faqSchema: any): { question: string; answer: string }[] {
+  if (!faqSchema) return [];
+  
+  try {
+    let schema = faqSchema;
+    if (typeof faqSchema === 'string') {
+      schema = JSON.parse(faqSchema);
+    }
+    
+    if (schema && schema['@type'] === 'FAQPage' && schema.mainEntity) {
+      return schema.mainEntity.map((item: any) => ({
+        question: item.name || item.question || '',
+        answer: item.acceptedAnswer?.text || item.answer || '',
+      }));
+    }
+  } catch (e) {
+    // Silent fail - just return empty array
+  }
+  
+  return [];
+}
+
+// ============================================
+// 3. CONVERT KEY-VALUE ROWS TO OBJECT
+// ============================================
 function keyValueRowsToObject(rows: any[]): any {
   const result: any = {};
   
@@ -121,7 +161,7 @@ function keyValueRowsToObject(rows: any[]): any {
       const key = String(row[keys[0]] || '').trim();
       const value = String(row[keys[1]] || '').trim();
       
-      if (key && value && !key.includes('PAGE BRIEF') && !key.includes('FULL PAGE CONTENT')) {
+      if (key && !key.includes('PAGE BRIEF') && !key.includes('FULL PAGE CONTENT')) {
         result[key] = value;
       }
     }
@@ -130,8 +170,10 @@ function keyValueRowsToObject(rows: any[]): any {
   return result;
 }
 
-// Parse publishing checklist from rows
-function parsePublishingChecklist(rows: any[]): any {
+// ============================================
+// 4. PARSE PUBLISHING CHECKLIST
+// ============================================
+function parsePublishingChecklist(rows: any[]): { checklist: any; url: string | null } {
   const checklist = {
     onPageSeo: {
       title: { requirement: 'Max 60 chars', status: false },
@@ -163,8 +205,25 @@ function parsePublishingChecklist(rows: any[]): any {
     },
   };
 
+  let extractedUrl: string | null = null;
+
   rows.forEach(row => {
     const keys = Object.keys(row);
+    
+    // Check each row for URL
+    for (const key of keys) {
+      const value = String(row[key] || '');
+      const match = value.match(/Exact:\s*([^\s]+)/);
+      if (match) {
+        const url = match[1].trim();
+        if (url.startsWith('/') && url.endsWith('/')) {
+          extractedUrl = url;
+          checklist.onPageSeo.url.requirement = `Exact: ${url}`;
+        }
+      }
+    }
+    
+    // Parse checklist items
     if (keys.length >= 3) {
       const item = String(row[keys[0]] || '').trim();
       const requirement = String(row[keys[1]] || '').trim();
@@ -174,62 +233,31 @@ function parsePublishingChecklist(rows: any[]): any {
         const reqLower = requirement.toLowerCase();
         const isChecked = status.includes('☑') || status.includes('✓');
         
-        if (reqLower.includes('title') || reqLower.includes('60 chars')) {
-          checklist.onPageSeo.title.status = isChecked;
-        }
-        if (reqLower.includes('meta') || reqLower.includes('155 chars')) {
-          checklist.onPageSeo.meta.status = isChecked;
-        }
-        if (reqLower.includes('h1') || reqLower.includes('primary kw')) {
-          checklist.onPageSeo.h1.status = isChecked;
-        }
-        if (reqLower.includes('url') || reqLower.includes('exact')) {
-          checklist.onPageSeo.url.status = isChecked;
-        }
-        if (reqLower.includes('localbusiness') || reqLower.includes('schema')) {
-          checklist.schema.localBusiness.status = isChecked;
-        }
-        if (reqLower.includes('faqpage')) {
-          checklist.schema.faqPage.status = isChecked;
-        }
-        if (reqLower.includes('aeo block')) {
-          checklist.geoAeo.aeoBlock.status = isChecked;
-        }
-        if (reqLower.includes('faqs')) {
-          checklist.geoAeo.faqs.status = isChecked;
-        }
-        if (reqLower.includes('author')) {
-          checklist.eeat.author.status = isChecked;
-        }
-        if (reqLower.includes('case studies')) {
-          checklist.eeat.caseStudies.status = isChecked;
-        }
-        if (reqLower.includes('cwv') || reqLower.includes('lcp')) {
-          checklist.technical.cwv.status = isChecked;
-        }
-        if (reqLower.includes('mobile')) {
-          checklist.technical.mobile.status = isChecked;
-        }
-        if (reqLower.includes('gsc')) {
-          checklist.postPublish.gsc.status = isChecked;
-        }
-        if (reqLower.includes('ga4')) {
-          checklist.postPublish.ga4.status = isChecked;
-        }
-        if (reqLower.includes('links')) {
-          checklist.postPublish.links.status = isChecked;
-        }
-        if (reqLower.includes('tracker')) {
-          checklist.postPublish.tracker.status = isChecked;
-        }
+        if (reqLower.includes('title') || reqLower.includes('60 chars')) checklist.onPageSeo.title.status = isChecked;
+        if (reqLower.includes('meta') || reqLower.includes('155 chars')) checklist.onPageSeo.meta.status = isChecked;
+        if (reqLower.includes('h1') || reqLower.includes('primary kw')) checklist.onPageSeo.h1.status = isChecked;
+        if (reqLower.includes('localbusiness') || reqLower.includes('schema')) checklist.schema.localBusiness.status = isChecked;
+        if (reqLower.includes('faqpage')) checklist.schema.faqPage.status = isChecked;
+        if (reqLower.includes('aeo block')) checklist.geoAeo.aeoBlock.status = isChecked;
+        if (reqLower.includes('faqs')) checklist.geoAeo.faqs.status = isChecked;
+        if (reqLower.includes('author')) checklist.eeat.author.status = isChecked;
+        if (reqLower.includes('case studies')) checklist.eeat.caseStudies.status = isChecked;
+        if (reqLower.includes('cwv') || reqLower.includes('lcp')) checklist.technical.cwv.status = isChecked;
+        if (reqLower.includes('mobile')) checklist.technical.mobile.status = isChecked;
+        if (reqLower.includes('gsc')) checklist.postPublish.gsc.status = isChecked;
+        if (reqLower.includes('ga4')) checklist.postPublish.ga4.status = isChecked;
+        if (reqLower.includes('links')) checklist.postPublish.links.status = isChecked;
+        if (reqLower.includes('tracker')) checklist.postPublish.tracker.status = isChecked;
       }
     }
   });
 
-  return checklist;
+  return { checklist, url: extractedUrl };
 }
 
-// Process a single XLSX file and return the data
+// ============================================
+// 5. PROCESS FILE
+// ============================================
 function processFile(filename: string): any {
   console.log(`  📊 Processing: ${filename}`);
   
@@ -239,13 +267,19 @@ function processFile(filename: string): any {
     
     let mergedData: any = {};
     let checklistData: any = {};
+    let extractedUrl: string | null = null;
     
     workbook.SheetNames.forEach(sheetName => {
       const worksheet = workbook.Sheets[sheetName];
       const data = XLSX.utils.sheet_to_json(worksheet);
       
       if (sheetName === 'Publishing Checklist') {
-        checklistData = parsePublishingChecklist(data);
+        const result = parsePublishingChecklist(data);
+        checklistData = result.checklist;
+        if (result.url) {
+          extractedUrl = result.url;
+          console.log(`    ✅ Found URL: "${extractedUrl}"`);
+        }
       } else {
         const parsed = keyValueRowsToObject(data);
         mergedData = { ...mergedData, ...parsed };
@@ -253,11 +287,19 @@ function processFile(filename: string): any {
     });
     
     const parsedInfo = parseFileName(filename);
+    const wordCount = parseWordCount(mergedData['WORD COUNT']);
+    const faqSchema = mergedData['FAQ SCHEMA'] || null;
+    const faqs = parseFAQFromSchema(faqSchema);
+    const faqTitle = mergedData['H2 — FAQ'] || '';
     
     return {
       ...parsedInfo,
       data: mergedData,
       checklist: checklistData,
+      extractedUrl: extractedUrl,
+      wordCount: wordCount,
+      faqs: faqs,
+      faqTitle: faqTitle,
     };
   } catch (error) {
     console.error(`  ❌ Error processing ${filename}:`, error);
@@ -265,69 +307,72 @@ function processFile(filename: string): any {
   }
 }
 
-// Format value for clean output
+// ============================================
+// 6. FORMAT VALUE FOR OUTPUT
+// ============================================
 function formatValue(value: any): string {
   if (value === null || value === undefined) return 'null';
   if (typeof value === 'string') {
-    // Escape backticks and special characters
     const escaped = value.replace(/`/g, '\\`').replace(/\$/g, '\\$');
     return `\`${escaped}\``;
   }
+  if (typeof value === 'number') return String(value);
   return JSON.stringify(value);
 }
 
-// Generate a TypeScript file for each XLSX file
+// ============================================
+// 7. GENERATE SINGLE FILE
+// ============================================
 function generateSingleFile(data: any, filename: string) {
-  const { service, city, citySlug, serviceSlug, slug, fileName } = data;
+  const { service, city, citySlug, serviceSlug, extractedUrl, wordCount, faqs, faqTitle } = data;
   const { data: contentData, checklist } = data;
   
-  // Create a variable name from the filename (remove T3- prefix and special chars)
-  const varName = fileName.replace(/T3-/, '').replace(/-/g, '_');
+  const finalSlug = extractedUrl || `/locations/${serviceSlug}/${citySlug}`;
   
-  // Build the content for a single city
+  console.log(`    🔗 Slug: "${finalSlug}" (${extractedUrl ? '✅ from Excel' : '⚠️ generated'})`);
+  console.log(`    📋 FAQs: ${faqs.length} questions`);
+  
+  const varName = data.fileName.replace(/T3-/, '').replace(/-/g, '_');
+  
   let content = `// Auto-generated from XLSX file: ${filename}
 // Service: ${service}
 // City: ${city}
+// URL: ${finalSlug}
 // Generated: ${new Date().toISOString()}
 
 export const ${varName} = {\n`;
   
-  // Add metadata
   content += `  service: "${service}",\n`;
   content += `  serviceSlug: "${serviceSlug}",\n`;
   content += `  city: "${city}",\n`;
   content += `  citySlug: "${citySlug}",\n`;
-  content += `  slug: "/locations/${serviceSlug}/${citySlug}",\n`;
+  content += `  slug: "${finalSlug}",\n`;
   content += `  \n`;
-  
-  // Add content data
   content += `  h1: ${formatValue(contentData['H1'] || '')},\n`;
   content += `  primaryKw: ${formatValue(contentData['Primary KW'] || '')},\n`;
   content += `  formula: ${formatValue(contentData['Formula'] || '')},\n`;
   content += `  seoTitle: ${formatValue(contentData['SEO TITLE'] || '')},\n`;
   content += `  meta: ${formatValue(contentData['META'] || '')},\n`;
   content += `  schema: ${formatValue(contentData['SCHEMA'] || null)},\n`;
-  content += `  wordCount: ${contentData['WORD COUNT'] ? parseInt(String(contentData['WORD COUNT'])) : 0},\n`;
+  content += `  wordCount: ${wordCount},\n`;
   content += `  geoAeoBlock: ${formatValue(contentData['GEO/AEO BLOCK'] || '')},\n`;
   content += `  features: ${formatValue(contentData['SECTION — FAB'] || '')},\n`;
   content += `  caseStudies: ${formatValue(contentData['CASE STUDIES'] || '')},\n`;
-  content += `  faq: ${formatValue(contentData['H2 — FAQ'] || '')},\n`;
+  content += `  faqTitle: ${formatValue(faqTitle)},\n`;
+  content += `  faqs: ${JSON.stringify(faqs, null, 2)},\n`;
   content += `  faqSchema: ${formatValue(contentData['FAQ SCHEMA'] || null)},\n`;
   content += `  cta: ${formatValue(contentData['H2 — CTA'] || '')},\n`;
   
-  // Internal links
   const linksRaw = contentData['INTERNAL LINKS'] || '';
   const linksArray = linksRaw.split(/[\n,]+/).filter(Boolean).map((s: string) => s.trim());
   content += `  internalLinks: ${formatValue(linksArray)},\n`;
   content += `  \n`;
-  
-  // Add publishing checklist
   content += `  publishingChecklist: {\n`;
   content += `    onPageSeo: {\n`;
   content += `      title: { requirement: "Max 60 chars", status: ${checklist.onPageSeo.title.status} },\n`;
   content += `      meta: { requirement: "Max 155 chars", status: ${checklist.onPageSeo.meta.status} },\n`;
   content += `      h1: { requirement: "Primary KW", status: ${checklist.onPageSeo.h1.status} },\n`;
-  content += `      url: { requirement: "Exact URL", status: ${checklist.onPageSeo.url.status} },\n`;
+  content += `      url: { requirement: ${formatValue(checklist.onPageSeo.url.requirement)}, status: ${checklist.onPageSeo.url.status} },\n`;
   content += `    },\n`;
   content += `    schema: {\n`;
   content += `      localBusiness: { requirement: "schema.org validated", status: ${checklist.schema.localBusiness.status} },\n`;
@@ -353,20 +398,19 @@ export const ${varName} = {\n`;
   content += `    },\n`;
   content += `  },\n`;
   content += `};\n`;
-  
   content += `\nexport default ${varName};\n`;
 
-  // Write the file
   const outputPath = path.join(CONFIG.outputFolder, `${varName}.ts`);
   fs.writeFileSync(outputPath, content);
   console.log(`  ✅ Generated: ${varName}.ts`);
   
-  return { varName, outputPath };
+  return { varName, outputPath, slug: finalSlug };
 }
 
-// Generate master index file that imports all individual files
+// ============================================
+// 8. GENERATE MASTER INDEX
+// ============================================
 function generateMasterIndex(allFiles: Array<{ varName: string, service: string, city: string, citySlug: string, slug: string }>) {
-  // Group by service for better organization
   const groupedByService: { [key: string]: Array<{ varName: string, city: string, citySlug: string, slug: string }> } = {};
   
   allFiles.forEach(file => {
@@ -376,26 +420,20 @@ function generateMasterIndex(allFiles: Array<{ varName: string, service: string,
     groupedByService[file.service].push(file);
   });
   
-  // Generate imports with proper naming
   let imports = '';
-  
-  // Create imports
   allFiles.forEach(file => {
     imports += `import ${file.varName} from './${file.varName}';\n`;
   });
   
-  // Create allLocations object with unique property names (using varName)
   let allLocationsMap = `export const allLocations = {\n`;
   allLocationsMap += allFiles.map(f => `  ${f.varName}: ${f.varName}`).join(',\n');
   allLocationsMap += `\n};\n\n`;
   
-  // Create service-specific collections
   const serviceCollections = Object.keys(groupedByService).map(service => {
     const vars = groupedByService[service];
     return `export const ${service}Locations = {\n  ${vars.map(v => `${v.varName}: ${v.varName}`).join(',\n  ')}\n};`;
   }).join('\n\n');
   
-  // Create helper functions - FIXED: Use unique keys to avoid duplicates
   const helpers = `
 // Helper: Get location by slug
 export const getLocationBySlug = (slug: string) => {
@@ -404,38 +442,18 @@ export const getLocationBySlug = (slug: string) => {
   return allData[slug] || null;
 };
 
-// Helper: Get location by city name (returns first match)
-export const getLocationByCity = (city: string) => {
-  const cityMap: { [key: string]: any } = {${allFiles.map(f => `\n    "${f.city}_${f.service}": ${f.varName},`).join('')}
-  };
-  // Try exact match first
-  for (const key in cityMap) {
-    if (key.startsWith(city + '_')) {
-      return cityMap[key];
-    }
-  }
-  return null;
-};
-
-// Helper: Get location by city and service
-export const getLocationByCityAndService = (city: string, service: string) => {
-  const map: { [key: string]: any } = {${allFiles.map(f => `\n    "${f.city}_${f.service}": ${f.varName},`).join('')}
-  };
-  return map[\`\${city}_\${service}\`] || null;
-};
-
 // Helper: Get all slugs
 export const getAllSlugs = () => [
   ${allFiles.map(f => `"${f.slug}"`).join(',\n  ')}
 ];
 
-// Helper: Get all cities (returns unique city names)
+// Helper: Get all cities
 export const getAllCities = () => {
   const uniqueCities = new Set([${allFiles.map(f => `"${f.city}"`).join(', ')}]);
   return Array.from(uniqueCities);
 };
 
-// Helper: Get all locations by service
+// Helper: Get locations by service
 export const getLocationsByService = (service: string) => {
   const serviceMap = {
     ${Object.keys(groupedByService).map(service => 
@@ -451,7 +469,6 @@ export const getServiceNames = () => [
 ];
 `;
   
-  // Combine everything
   const content = `// Auto-generated master index for all location pages
 // Generated: ${new Date().toISOString()}
 // Total files: ${allFiles.length}
@@ -465,7 +482,6 @@ ${serviceCollections}
 
 ${helpers}
 
-// Export default as all locations
 export default allLocations;
 `;
   
@@ -473,7 +489,10 @@ export default allLocations;
   fs.writeFileSync(indexPath, content);
   console.log(`\n📁 Generated master index: index.ts (${allFiles.length} locations, ${Object.keys(groupedByService).length} services)`);
 }
-// Main execution
+
+// ============================================
+// 9. MAIN EXECUTION
+// ============================================
 function main() {
   console.log('🚀 Starting XLSX to TypeScript conversion...\n');
   
@@ -493,31 +512,28 @@ function main() {
   console.log(`📁 Found ${files.length} XLSX file(s)`);
   console.log('---\n');
   
-  // Ensure output folder exists
   if (!fs.existsSync(CONFIG.outputFolder)) {
     fs.mkdirSync(CONFIG.outputFolder, { recursive: true });
   }
   
-  // Process each file and collect metadata for index
   const allProcessedData: Array<{ varName: string, service: string, city: string, citySlug: string, slug: string }> = [];
   
   files.forEach(filename => {
     const result = processFile(filename);
     if (result) {
-      const { varName } = generateSingleFile(result, filename);
+      const { varName, slug } = generateSingleFile(result, filename);
       allProcessedData.push({
         varName,
         service: result.service,
         city: result.city,
         citySlug: result.citySlug,
-        slug: result.slug,
+        slug: slug,
       });
     }
   });
   
   console.log('\n---');
   
-  // Generate master index with all files
   if (allProcessedData.length > 0) {
     generateMasterIndex(allProcessedData);
   }
@@ -527,7 +543,6 @@ function main() {
   console.log(`📊 Generated ${allProcessedData.length} location files`);
   console.log(`📁 Output folder: ${CONFIG.outputFolder}`);
   
-  // Log service statistics
   const serviceCount: { [key: string]: number } = {};
   allProcessedData.forEach(data => {
     serviceCount[data.service] = (serviceCount[data.service] || 0) + 1;

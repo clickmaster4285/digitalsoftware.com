@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Birmingham.xlsx
 // Service: DigitalMarketing
 // City: Birmingham
-// Generated: 2026-06-19T12:50:25.547Z
+// URL: /digital-marketing-agency-birmingham/
+// Generated: 2026-06-20T04:42:11.098Z
 
 export const DigitalMarketing_Birmingham = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Birmingham",
   citySlug: "birmingham",
-  slug: "/locations/digital-marketing/birmingham",
+  slug: "/digital-marketing-agency-birmingham/",
   
   h1: `Digital Marketing Agency Birmingham — Regions Financial Revenue, UAB World-Class YMYL, Blue Cross Alabama Insurance, and Magic City Commercial Growth`,
   primaryKw: `digital marketing agency birmingham`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_Birmingham = {
   seoTitle: `Digital Marketing Agency Birmingham | Regions Financial Revenue & UAB World-Class YMYL | Clickmasters`,
   meta: `Clickmasters digital marketing in Birmingham. Regions Financial FINRA/SEC banking revenue, UAB NCI world-class YMYL, Blue Cross Alabama insurance, Encompass Health rehabilitation, and Protective Life. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Birmingham Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-birmingham/","address":{"@type":"PostalAddress","addressLocality":"Birmingham","addressRegion":"AL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN BIRMINGHAM?
 
 A Birmingham digital marketing agency manages digital channels for Magic City businesses across four commercially distinct sectors.
@@ -43,7 +44,33 @@ Case Study 3: Birmingham Insurance Technology — Blue Cross Alabama Full Progra
 Client: Insurance analytics, Birmingham (\$5.4M ARR). Challenge: Blue Cross Alabama vocabulary absent. Non-FINRA where applicable.
 Programme: SEO (Blue Cross Alabama vocabulary) + LinkedIn (Alabama insurance community) + content
 Results (11 months): Page 1 for 9 queries | Blue Cross: evaluation | Protective Life: engaged | Pipeline: \$1.0M`,
-  faq: `FAQs — Digital Marketing Birmingham`,
+  faqTitle: `FAQs — Digital Marketing Birmingham`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Birmingham?",
+    "answer": "Birmingham digital marketing: $1,100/month (single channel) to $12,000+/month (enterprise). Regions Financial FINRA banking. UAB NCI world-class YMYL. Blue Cross Alabama insurance. Encompass rehabilitation. Alabama retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What makes UAB digital marketing unique for Birmingham businesses?",
+    "answer": "UAB Comprehensive Cancer Center is one of only 57 NCI-designated Comprehensive Cancer Centers in the US — a world-class designation making UAB's oncology research community one of the most commercially prestigious YMYL content environments in Alabama. UAB Medical Center is Alabama's largest hospital and Level 1 Trauma Center. Digital marketing demonstrating UAB NCI vocabulary earns organic discovery from Alabama's most commercially significant academic healthcare institution at Alabama CPCs below Atlanta and Nashville."
+  },
+  {
+    "question": "What is Encompass Health digital marketing for Birmingham businesses?",
+    "answer": "Encompass Health — the world's largest owner/operator of inpatient rehabilitation hospitals — is headquartered in Birmingham and creates a post-acute rehabilitation YMYL B2B digital marketing vocabulary unique to the Magic City. Rehabilitation medicine, post-acute outcomes analytics, and inpatient rehabilitation operational vocabulary earns Encompass Health procurement organic discovery from Birmingham's most globally distinctive healthcare enterprise."
+  },
+  {
+    "question": "Does Clickmasters serve Hoover, Vestavia Hills, Mountain Brook, and Greater Birmingham?",
+    "answer": "Yes — all of Greater Birmingham MSA: Jefferson County, Shelby County, St. Clair County."
+  },
+  {
+    "question": "What is Vulcan Materials industrial digital marketing for Birmingham businesses?",
+    "answer": "Vulcan Materials digital marketing demonstrates the US's largest construction aggregates producer vocabulary: quarry analytics, construction supply chain intelligence, and aggregates operational content — earning organic discovery from Vulcan Materials' Birmingham headquarters procurement."
+  },
+  {
+    "question": "How does GEO/AEO affect Birmingham digital marketing?",
+    "answer": "Regions Financial's banking technology community and UAB's clinical research IT community use AI search. First-mover GEO/AEO for Birmingham Regions FINRA and UAB NCI vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Birmingham digital marketing: \$1,100/month (single channel) to \$12,000+/month (enterprise). Regions Financial FINRA banking. UAB NCI world-class YMYL. Blue Cross Alabama insurance. Encompass rehabilitation. Alabama retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What makes UAB digital marketing unique for Birmingham businesses?","acceptedAnswer":{"@type":"Answer","text":"UAB Comprehensive Cancer Center is one of only 57 NCI-designated Comprehensive Cancer Centers in the US — a world-class designation making UAB's oncology research community one of the most commercially prestigious YMYL content environments in Alabama. UAB Medical Center is Alabama's largest hospital and Level 1 Trauma Center. Digital marketing demonstrating UAB NCI vocabulary earns organic discovery from Alabama's most commercially significant academic healthcare institution at Alabama CPCs below Atlanta and Nashville."}},{"@type":"Question","name":"What is Encompass Health digital marketing for Birmingham businesses?","acceptedAnswer":{"@type":"Answer","text":"Encompass Health — the world's largest owner/operator of inpatient rehabilitation hospitals — is headquartered in Birmingham and creates a post-acute rehabilitation YMYL B2B digital marketing vocabulary unique to the Magic City. Rehabilitation medicine, post-acute outcomes analytics, and inpatient rehabilitation operational vocabulary earns Encompass Health procurement organic discovery from Birmingham's most globally distinctive healthcare enterprise."}},{"@type":"Question","name":"Does Clickmasters serve Hoover, Vestavia Hills, Mountain Brook, and Greater Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Birmingham MSA: Jefferson County, Shelby County, St. Clair County."}},{"@type":"Question","name":"What is Vulcan Materials industrial digital marketing for Birmingham businesses?","acceptedAnswer":{"@type":"Answer","text":"Vulcan Materials digital marketing demonstrates the US's largest construction aggregates producer vocabulary: quarry analytics, construction supply chain intelligence, and aggregates operational content — earning organic discovery from Vulcan Materials' Birmingham headquarters procurement."}},{"@type":"Question","name":"How does GEO/AEO affect Birmingham digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Regions Financial's banking technology community and UAB's clinical research IT community use AI search. First-mover GEO/AEO for Birmingham Regions FINRA and UAB NCI vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Birmingham Digital Marketing Audit`,
   internalLinks: ["/seo-services-birmingham/","/digital-marketing-agency-usa/","/digital-marketing-agency-huntsville/","/digital-marketing-agency-nashville/"],
@@ -53,7 +80,7 @@ Results (11 months): Page 1 for 9 queries | Blue Cross: evaluation | Protective 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-birmingham/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

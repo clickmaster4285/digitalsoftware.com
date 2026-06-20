@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Minneapolis.xlsx
 // Service: SocialMedia
 // City: Minneapolis
-// Generated: 2026-06-19T12:50:28.587Z
+// URL: /social-media-marketing-minneapolis/
+// Generated: 2026-06-20T04:42:14.245Z
 
 export const SocialMedia_Minneapolis = {
   service: "SocialMedia",
   serviceSlug: "social-media",
   city: "Minneapolis",
   citySlug: "minneapolis",
-  slug: "/locations/social-media/minneapolis",
+  slug: "/social-media-marketing-minneapolis/",
   
   h1: `Social Media Marketing Minneapolis — Medical Alley LinkedIn Authority and Fortune 500 Minnesota Professional Social`,
   primaryKw: `social media marketing minneapolis`,
@@ -16,7 +17,7 @@ export const SocialMedia_Minneapolis = {
   seoTitle: `Social Media Marketing Minneapolis | Medical Alley LinkedIn & Fortune 500 MN | Clickmasters`,
   meta: `Clickmasters social media marketing in Minneapolis. Medical Alley healthcare LinkedIn authority, Fortune 500 Minnesota professional social, and Twin Cities brand programmes. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Minneapolis Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-minneapolis/","address":{"@type":"PostalAddress","addressLocality":"Minneapolis","addressRegion":"MN","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN MINNEAPOLIS?
 
 Social media marketing in Minneapolis is the strategic management of social platforms for Twin Cities businesses — with LinkedIn as the primary B2B commercial channel in a market shaped by Medical Alley's clinical precision standards, Minnesota's Fortune 500 institutional culture, and the Scandinavian-heritage commercial values that characterise the Twin Cities professional community.
@@ -41,7 +42,33 @@ Case Study 3: Edina Professional Services — Scandinavian-Calibrated Brand Soci
 Client: Financial advisory, Edina MN (\$280M AUM). Challenge: LinkedIn content too promotional for Minnesota Scandinavian-heritage professional community.
 Programme: Scandinavian-understatement calibration + specific evidence-based content + FINRA-compliant + CFA-authored
 Results (6 months): FINRA compliance: clean | LinkedIn engagement: 0.4% to 3.8% | HNW connections: +3x | New AUM from LinkedIn-attributed: \$38M`,
-  faq: `FAQs — Social Media Marketing Minneapolis`,
+  faqTitle: `FAQs — Social Media Marketing Minneapolis`,
+  faqs: [
+  {
+    "question": "How much does social media marketing cost in Minneapolis?",
+    "answer": "Minneapolis social media: $1,800/month (LinkedIn growth) to $20,000+/month (enterprise). KLAS citation accuracy for Medical Alley. HIPAA-aware for healthcare. FINRA-compliant for financial services. Scandinavian-understatement calibrated. 90-day performance guarantee."
+  },
+  {
+    "question": "What is Medical Alley KLAS LinkedIn for Minneapolis health IT companies?",
+    "answer": "Medical Alley KLAS LinkedIn means referencing specific KLAS ratings accurately — score, measurement year, and clinical category — in LinkedIn thought leadership. KLAS Best in KLAS and Category Leader mentions with specific measurement context, combined with NEJM/JAMA peer-reviewed clinical evidence citations and IDN procurement vocabulary (ACO, HCAHPS, VBP), signal genuine clinical domain expertise to Medical Alley's most sophisticated LinkedIn evaluators."
+  },
+  {
+    "question": "What is Scandinavian-understatement calibration in Minneapolis social media?",
+    "answer": "Minneapolis's Scandinavian heritage creates a professional social media culture sceptical of excessive self-promotion. LinkedIn content calibrated to the Scandinavian-understatement standard leads with specific evidence, institutional authority, and demonstrable operational knowledge — not aspiration claims or marketing superlatives. Minnesota's Fortune 500 professional community rewards understated expertise over promotional brand positioning."
+  },
+  {
+    "question": "Does Clickmasters serve St. Paul, Eden Prairie, Plymouth, and the Twin Cities metro?",
+    "answer": "Yes — all of Minneapolis-St. Paul metropolitan area including Hennepin County, Ramsey County, Washington County, and the Medical Alley corridor."
+  },
+  {
+    "question": "How does HIPAA awareness apply to Minneapolis Medical Alley LinkedIn?",
+    "answer": "Medical Alley health technology companies must ensure LinkedIn thought leadership doesn't include patient health information examples (PHI), doesn't make claims that FDA or IRB-approved studies haven't substantiated, and presents clinical evidence in a balanced manner. HIPAA-aware LinkedIn review prevents the content mistakes that can create both regulatory exposure and clinical community credibility damage for Medical Alley device and health IT companies."
+  },
+  {
+    "question": "How does Clickmasters measure Minneapolis social media commercial outcomes?",
+    "answer": "By sector: Medical Alley LinkedIn — IDN supply chain director connections and RFP evaluation invitations. Fortune 500 MN LinkedIn — Target/UnitedHealth/3M procurement conversations and vendor evaluation invitations. Twin Cities professional brand — FINRA-compliant HNW introductions and new AUM from LinkedIn-attributed conversations."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Minneapolis?","acceptedAnswer":{"@type":"Answer","text":"Minneapolis social media: \$1,800/month (LinkedIn growth) to \$20,000+/month (enterprise). KLAS citation accuracy for Medical Alley. HIPAA-aware for healthcare. FINRA-compliant for financial services. Scandinavian-understatement calibrated. 90-day performance guarantee."}},{"@type":"Question","name":"What is Medical Alley KLAS LinkedIn for Minneapolis health IT companies?","acceptedAnswer":{"@type":"Answer","text":"Medical Alley KLAS LinkedIn means referencing specific KLAS ratings accurately — score, measurement year, and clinical category — in LinkedIn thought leadership. KLAS Best in KLAS and Category Leader mentions with specific measurement context, combined with NEJM/JAMA peer-reviewed clinical evidence citations and IDN procurement vocabulary (ACO, HCAHPS, VBP), signal genuine clinical domain expertise to Medical Alley's most sophisticated LinkedIn evaluators."}},{"@type":"Question","name":"What is Scandinavian-understatement calibration in Minneapolis social media?","acceptedAnswer":{"@type":"Answer","text":"Minneapolis's Scandinavian heritage creates a professional social media culture sceptical of excessive self-promotion. LinkedIn content calibrated to the Scandinavian-understatement standard leads with specific evidence, institutional authority, and demonstrable operational knowledge — not aspiration claims or marketing superlatives. Minnesota's Fortune 500 professional community rewards understated expertise over promotional brand positioning."}},{"@type":"Question","name":"Does Clickmasters serve St. Paul, Eden Prairie, Plymouth, and the Twin Cities metro?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Minneapolis-St. Paul metropolitan area including Hennepin County, Ramsey County, Washington County, and the Medical Alley corridor."}},{"@type":"Question","name":"How does HIPAA awareness apply to Minneapolis Medical Alley LinkedIn?","acceptedAnswer":{"@type":"Answer","text":"Medical Alley health technology companies must ensure LinkedIn thought leadership doesn't include patient health information examples (PHI), doesn't make claims that FDA or IRB-approved studies haven't substantiated, and presents clinical evidence in a balanced manner. HIPAA-aware LinkedIn review prevents the content mistakes that can create both regulatory exposure and clinical community credibility damage for Medical Alley device and health IT companies."}},{"@type":"Question","name":"How does Clickmasters measure Minneapolis social media commercial outcomes?","acceptedAnswer":{"@type":"Answer","text":"By sector: Medical Alley LinkedIn — IDN supply chain director connections and RFP evaluation invitations. Fortune 500 MN LinkedIn — Target/UnitedHealth/3M procurement conversations and vendor evaluation invitations. Twin Cities professional brand — FINRA-compliant HNW introductions and new AUM from LinkedIn-attributed conversations."}}]}`,
   cta: `Get Your Free Minneapolis Social Media Audit`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-minneapolis/","/seo-services-minneapolis/","/social-media-marketing-chicago/","/industries/medical-devices/","/industries/healthcare-tech/"],
@@ -51,7 +78,7 @@ Results (6 months): FINRA compliance: clean | LinkedIn engagement: 0.4% to 3.8% 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /social-media-marketing-minneapolis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

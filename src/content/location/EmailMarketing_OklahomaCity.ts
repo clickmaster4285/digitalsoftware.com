@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-OklahomaCity.xlsx
 // Service: EmailMarketing
 // City: OklahomaCity
-// Generated: 2026-06-19T12:50:26.574Z
+// URL: /email-marketing-oklahoma-city/
+// Generated: 2026-06-20T04:42:12.023Z
 
 export const EmailMarketing_OklahomaCity = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "OklahomaCity",
   citySlug: "oklahoma-city",
-  slug: "/locations/email-marketing/oklahoma-city",
+  slug: "/email-marketing-oklahoma-city/",
   
   h1: `Email Marketing Oklahoma City — Devon Energy E&P Pipeline, INTEGRIS Health Nurture, and Tinker AFB Military Onboarding`,
   primaryKw: `email marketing agency oklahoma city`,
@@ -16,7 +17,7 @@ export const EmailMarketing_OklahomaCity = {
   seoTitle: `Email Marketing Oklahoma City | Devon Energy E&P Pipeline & Tinker Military | Clickmasters`,
   meta: `Clickmasters email marketing in Oklahoma City. Devon/Expand Energy oil and gas E&P pipeline, INTEGRIS/OU Health HIPAA nurture, Paycom HR SaaS, and Tinker AFB military 5-stage Oklahoma onboarding. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Oklahoma City Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-oklahoma-city/","address":{"@type":"PostalAddress","addressLocality":"Oklahoma City","addressRegion":"OK","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3500,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN OKLAHOMA CITY?
 
 Email marketing in Oklahoma City is the strategic management of email as a Devon/Expand Energy oil and gas E&P technology procurement pipeline, INTEGRIS/OU Health HIPAA-compliant health IT nurture, and Tinker AFB military 5-stage Oklahoma professional onboarding channel.
@@ -50,7 +51,33 @@ Case Study 3: OKC Professional Services — Tinker AFB Military 5-Stage Onboardi
 Client: Fee-only RIA, OKC (\$140M AUM). Challenge: Tinker AFB military contacts cold after PCS. No Oklahoma professional community connection.
 Programme: 5-stage Tinker AFB military onboarding + OKC healthcare navigation + Devon/Paycom community Stage 5 + FINRA
 Results: Military onboarding engagement: 3.6x above generic | Conversion within 90 days: 36% | FINRA: clean | New military AUM: \$10M`,
-  faq: `FAQs — Email Marketing Oklahoma City`,
+  faqTitle: `FAQs — Email Marketing Oklahoma City`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Oklahoma City?",
+    "answer": "Oklahoma City email marketing: $750/month (Foundation) to $8,000+/month (Enterprise). Devon/Expand Energy E&P pipeline. INTEGRIS/OU Health HIPAA nurture. Tinker AFB military 5-stage onboarding. Paycom HR SaaS. Oklahoma retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is the Tinker AFB military 5-stage Oklahoma onboarding email programme?",
+    "answer": "Stage 1: Tinker AFB/OKC welcome — Tinker is the largest Air Force installation by workforce in the US (26,000+ employees). Stage 2: Oklahoma financial planning guide — taxes, retirement, military benefits. Stage 3: OKC healthcare navigation — INTEGRIS Health, OU Health, Mercy Health OKC, Tinker AFB clinic. Stage 4: Greater OKC neighbourhood guide — Edmond, Nichols Hills, Midwest City, Norman, Yukon, Mustang. Stage 5: Devon/Expand Energy and Paycom professional community connection — Oklahoma energy and tech professional network."
+  },
+  {
+    "question": "What is Devon/Expand Energy oil and gas E&P pipeline email for Oklahoma City businesses?",
+    "answer": "Devon Energy STACK/SCOOP operational intelligence updates, Expand Energy natural gas processing content, OGE Energy utility intelligence — maintaining Devon, Expand, and OGE procurement contact relationships through 90-180 day Oklahoma E&P and utility evaluation cycles."
+  },
+  {
+    "question": "Does Clickmasters serve Edmond, Norman, Midwest City, and Greater Oklahoma City?",
+    "answer": "Yes — all of Greater Oklahoma City MSA."
+  },
+  {
+    "question": "How long does Devon/Expand Energy E&P pipeline email produce results?",
+    "answer": "Devon/Expand Energy re-engagement from E&P precision email: 21-30 days. Oklahoma E&P evaluation invitations: 90-150 days. Full E&P pipeline: 6-10 months."
+  },
+  {
+    "question": "What makes Tinker AFB the most significant military onboarding opportunity in Oklahoma City?",
+    "answer": "Tinker AFB's Oklahoma City Air Logistics Complex employs 26,000+ military and civilian personnel — making it the largest Air Force installation by workforce in the US and the most significant military employer in Oklahoma. Each PCS cycle brings new military families needing financial advisory, healthcare navigation, real estate, and legal services — creating a sustained high-volume military professional email onboarding opportunity unmatched in the Southern Plains."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Oklahoma City?","acceptedAnswer":{"@type":"Answer","text":"Oklahoma City email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). Devon/Expand Energy E&P pipeline. INTEGRIS/OU Health HIPAA nurture. Tinker AFB military 5-stage onboarding. Paycom HR SaaS. Oklahoma retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is the Tinker AFB military 5-stage Oklahoma onboarding email programme?","acceptedAnswer":{"@type":"Answer","text":"Stage 1: Tinker AFB/OKC welcome — Tinker is the largest Air Force installation by workforce in the US (26,000+ employees). Stage 2: Oklahoma financial planning guide — taxes, retirement, military benefits. Stage 3: OKC healthcare navigation — INTEGRIS Health, OU Health, Mercy Health OKC, Tinker AFB clinic. Stage 4: Greater OKC neighbourhood guide — Edmond, Nichols Hills, Midwest City, Norman, Yukon, Mustang. Stage 5: Devon/Expand Energy and Paycom professional community connection — Oklahoma energy and tech professional network."}},{"@type":"Question","name":"What is Devon/Expand Energy oil and gas E&P pipeline email for Oklahoma City businesses?","acceptedAnswer":{"@type":"Answer","text":"Devon Energy STACK/SCOOP operational intelligence updates, Expand Energy natural gas processing content, OGE Energy utility intelligence — maintaining Devon, Expand, and OGE procurement contact relationships through 90-180 day Oklahoma E&P and utility evaluation cycles."}},{"@type":"Question","name":"Does Clickmasters serve Edmond, Norman, Midwest City, and Greater Oklahoma City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Oklahoma City MSA."}},{"@type":"Question","name":"How long does Devon/Expand Energy E&P pipeline email produce results?","acceptedAnswer":{"@type":"Answer","text":"Devon/Expand Energy re-engagement from E&P precision email: 21-30 days. Oklahoma E&P evaluation invitations: 90-150 days. Full E&P pipeline: 6-10 months."}},{"@type":"Question","name":"What makes Tinker AFB the most significant military onboarding opportunity in Oklahoma City?","acceptedAnswer":{"@type":"Answer","text":"Tinker AFB's Oklahoma City Air Logistics Complex employs 26,000+ military and civilian personnel — making it the largest Air Force installation by workforce in the US and the most significant military employer in Oklahoma. Each PCS cycle brings new military families needing financial advisory, healthcare navigation, real estate, and legal services — creating a sustained high-volume military professional email onboarding opportunity unmatched in the Southern Plains."}}]}`,
   cta: `Get Your Free Oklahoma City Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-oklahoma-city/","/seo-services-oklahoma-city/","/email-marketing-dallas/"],
@@ -60,7 +87,7 @@ Results: Military onboarding engagement: 3.6x above generic | Conversion within 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-oklahoma-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

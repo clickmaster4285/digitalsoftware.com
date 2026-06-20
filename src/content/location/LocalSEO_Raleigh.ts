@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Raleigh.xlsx
 // Service: LocalSEO
 // City: Raleigh
-// Generated: 2026-06-19T12:50:27.662Z
+// URL: /local-seo-services-raleigh/
+// Generated: 2026-06-20T04:42:13.379Z
 
 export const LocalSEO_Raleigh = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "Raleigh",
   citySlug: "raleigh",
-  slug: "/locations/local-seo/raleigh",
+  slug: "/local-seo-services-raleigh/",
   
   h1: `Local SEO Raleigh — RTP Pharma Proximity GBP, Duke/UNC Academic Medical, and Triangle In-Migration Quality Standard Local Pack`,
   primaryKw: `local seo services raleigh`,
@@ -16,7 +17,7 @@ export const LocalSEO_Raleigh = {
   seoTitle: `Local SEO Raleigh | RTP Pharma Proximity & Duke/UNC Academic Medical | Clickmasters`,
   meta: `Clickmasters Local SEO in Raleigh. RTP pharmaceutical B2B proximity GBP, Duke/UNC academic medical credential standard, and Triangle in-migration DC/NY quality Local Pack. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Raleigh Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-raleigh/","address":{"@type":"PostalAddress","addressLocality":"Raleigh","addressRegion":"NC","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS LOCAL SEO IN RALEIGH?
 
 Local SEO in Raleigh-Durham is the practice of optimising Google Business Profiles for the top 3 of the Research Triangle's Local Pack — in a market where RTP pharmaceutical B2B proximity creates above-average commercial value, Duke/UNC academic medical defines the YMYL healthcare credential standard, and the Triangle's DC/NY in-migration wave is permanently raising the GBP quality standard across Cary, North Raleigh, and Chapel Hill.
@@ -41,7 +42,33 @@ Case Study 3: Durham Professional Services — RTP Pharma Proximity B2B GBP
 Client: Regulatory consulting, Durham. Challenge: RTP pharma proximity not visible in GBP. Generic service descriptions.
 Programme: RTP proximity signals + FDA regulatory vocabulary in GBP + pharma community photography
 Results (3 months): Top 3 Local Pack Durham pharma consulting | RTP community near-me enquiries: +3x`,
-  faq: `FAQs — Local SEO Raleigh`,
+  faqTitle: `FAQs — Local SEO Raleigh`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in Raleigh?",
+    "answer": "Raleigh Local SEO: $900/month (single) to $9,000+/month (enterprise). RTP pharma proximity GBP. Duke/UNC academic medical credential. Triangle in-migration DC/NY quality standard. HIPAA/FINRA review management. North Carolina retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is RTP pharmaceutical B2B proximity GBP for Raleigh businesses?",
+    "answer": "RTP pharmaceutical proximity GBP management incorporates FDA regulatory service vocabulary in GBP descriptions, RTP pharmaceutical community proximity signals for Durham and Research Triangle GBPs, pharmaceutical/biotech community photography, and clinical operational vocabulary in service descriptions — earning above-average B2B near-me consideration from RTP's most commercially valuable pharmaceutical procurement community."
+  },
+  {
+    "question": "Does Clickmasters serve Durham, Chapel Hill, Cary, and Greater Triangle?",
+    "answer": "Yes — all of the Research Triangle and Greater Raleigh MSA."
+  },
+  {
+    "question": "How many reviews for Raleigh-Durham Local Pack?",
+    "answer": "Triangle Local Pack benchmarks (rising with in-migration): Professional services (Cary/North Raleigh/Chapel Hill): 4.5+ stars, 70-120+ reviews. Healthcare (Duke/UNC-adjacent): 4.5+, 60-110+. RTP B2B services: 4.4+, 40-70+."
+  },
+  {
+    "question": "How long does Raleigh Local SEO take?",
+    "answer": "Triangle in-migration professional services: 3-4 months. Duke/UNC academic medical: 3-5 months. RTP pharmaceutical B2B proximity: 2-4 months."
+  },
+  {
+    "question": "What is the Triangle in-migration quality standard for Raleigh Local SEO?",
+    "answer": "DC policymakers, New York finance professionals, and Midwest corporate executives relocating to Cary, North Raleigh, and Chapel Hill evaluate local GBPs against the institutional quality standards of Georgetown, Manhattan, and Chicago's North Shore. CFA/CFP verification links, academic institutional affiliations, and DC/NY in-migration professional vocabulary signals are the GBP elements that meet this quality standard."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Raleigh?","acceptedAnswer":{"@type":"Answer","text":"Raleigh Local SEO: \$900/month (single) to \$9,000+/month (enterprise). RTP pharma proximity GBP. Duke/UNC academic medical credential. Triangle in-migration DC/NY quality standard. HIPAA/FINRA review management. North Carolina retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is RTP pharmaceutical B2B proximity GBP for Raleigh businesses?","acceptedAnswer":{"@type":"Answer","text":"RTP pharmaceutical proximity GBP management incorporates FDA regulatory service vocabulary in GBP descriptions, RTP pharmaceutical community proximity signals for Durham and Research Triangle GBPs, pharmaceutical/biotech community photography, and clinical operational vocabulary in service descriptions — earning above-average B2B near-me consideration from RTP's most commercially valuable pharmaceutical procurement community."}},{"@type":"Question","name":"Does Clickmasters serve Durham, Chapel Hill, Cary, and Greater Triangle?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Research Triangle and Greater Raleigh MSA."}},{"@type":"Question","name":"How many reviews for Raleigh-Durham Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Triangle Local Pack benchmarks (rising with in-migration): Professional services (Cary/North Raleigh/Chapel Hill): 4.5+ stars, 70-120+ reviews. Healthcare (Duke/UNC-adjacent): 4.5+, 60-110+. RTP B2B services: 4.4+, 40-70+."}},{"@type":"Question","name":"How long does Raleigh Local SEO take?","acceptedAnswer":{"@type":"Answer","text":"Triangle in-migration professional services: 3-4 months. Duke/UNC academic medical: 3-5 months. RTP pharmaceutical B2B proximity: 2-4 months."}},{"@type":"Question","name":"What is the Triangle in-migration quality standard for Raleigh Local SEO?","acceptedAnswer":{"@type":"Answer","text":"DC policymakers, New York finance professionals, and Midwest corporate executives relocating to Cary, North Raleigh, and Chapel Hill evaluate local GBPs against the institutional quality standards of Georgetown, Manhattan, and Chicago's North Shore. CFA/CFP verification links, academic institutional affiliations, and DC/NY in-migration professional vocabulary signals are the GBP elements that meet this quality standard."}}]}`,
   cta: `Get Your Free Raleigh Local SEO Audit`,
   internalLinks: ["/local-seo-services/","/seo-services-raleigh/","/digital-marketing-agency-raleigh/","/local-seo-services-charlotte/"],
@@ -51,7 +78,7 @@ Results (3 months): Top 3 Local Pack Durham pharma consulting | RTP community ne
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-raleigh/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

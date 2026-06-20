@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Jacksonville.xlsx
 // Service: EmailMarketing
 // City: Jacksonville
-// Generated: 2026-06-19T12:50:26.453Z
+// URL: /email-marketing-jacksonville/
+// Generated: 2026-06-20T04:42:11.923Z
 
 export const EmailMarketing_Jacksonville = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "Jacksonville",
   citySlug: "jacksonville",
-  slug: "/locations/email-marketing/jacksonville",
+  slug: "/email-marketing-jacksonville/",
   
   h1: `Email Marketing Jacksonville — FIS Global Fintech Pipeline, Florida Blue HEDIS Nurture, and NAS Jacksonville Military Onboarding`,
   primaryKw: `email marketing agency jacksonville`,
@@ -16,7 +17,7 @@ export const EmailMarketing_Jacksonville = {
   seoTitle: `Email Marketing Jacksonville | FIS Global Fintech Pipeline & NAS Military Onboarding | Clickmasters`,
   meta: `Clickmasters email marketing in Jacksonville. FIS Global world-largest-fintech pipeline, Florida Blue HEDIS managed care nurture, Baptist Health HIPAA, and NAS Jacksonville military 5-stage Florida onboarding. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Jacksonville Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-jacksonville/","address":{"@type":"PostalAddress","addressLocality":"Jacksonville","addressRegion":"FL","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN JACKSONVILLE?
 
 Email marketing in Jacksonville is the strategic management of email as an FIS Global world-largest-fintech procurement pipeline, Florida Blue HEDIS-managed-care nurture channel, and NAS Jacksonville/Mayport military professional onboarding channel.
@@ -50,7 +51,33 @@ Case Study 3: Jacksonville Healthcare — Baptist Health HIPAA SB 262 Procuremen
 Client: Clinical analytics, Jacksonville (\$5.4M ARR). Challenge: Baptist Health/Nemours contacts cold. Generic health IT newsletter. Non-HIPAA. Non-SB 262.
 Programme: Baptist Health/Nemours vocabulary + HIPAA-compliant + SB 262-compliant + 120-day procurement triggers
 Results: Baptist Health re-engagement: 42% | Nemours re-engagement: 38% | HIPAA/SB 262: Florida AG pre-audit passed | Pipeline: \$1.0M`,
-  faq: `FAQs — Email Marketing Jacksonville`,
+  faqTitle: `FAQs — Email Marketing Jacksonville`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Jacksonville?",
+    "answer": "Jacksonville email marketing: $750/month (Foundation) to $8,000+/month (Enterprise). FIS Global world-largest-fintech pipeline. Florida Blue HEDIS managed care. Baptist Health HIPAA. NAS Jacksonville military onboarding. SB 262-compliant. Florida retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is FIS Global world-largest-fintech pipeline email for Jacksonville businesses?",
+    "answer": "FIS Modern Banking Platform real-time core integration updates, ISO 20022 migration intelligence, FIS Worldpay payment rail performance analytics, and wealth management platform technical intelligence — maintaining FIS Global's Jacksonville procurement community relationships through 90-180 day fintech enterprise evaluation cycles with FINRA-compliant email data handling and Florida SB 262-compliant subscriber analytics throughout."
+  },
+  {
+    "question": "What is the NAS Jacksonville military 5-stage Florida onboarding email programme?",
+    "answer": "Stage 1: PCS welcome to Jacksonville/First Coast. Stage 2: Florida 0% income tax vs home state financial planning guide. Stage 3: Jacksonville/Northeast Florida healthcare navigation — Baptist Health, Nemours Wolfson, Mayo Clinic Florida Jacksonville. Stage 4: First Coast neighbourhood professional services guide — Ponte Vedra Beach, St. Johns, Orange Park, San Marco, Riverside. Stage 5: NAS Jacksonville/Mayport military community professional connection. SB 262-compliant throughout."
+  },
+  {
+    "question": "Does Clickmasters serve Ponte Vedra Beach, Orange Park, St. Johns, and Greater Jacksonville?",
+    "answer": "Yes — all of Greater Jacksonville MSA."
+  },
+  {
+    "question": "How long does Jacksonville FIS Global email produce fintech pipeline results?",
+    "answer": "FIS Global re-engagement from world-largest-fintech email: 21-30 days. FIS evaluation invitations: 90-150 days. Full FIS/Florida Blue pipeline: 6-10 months."
+  },
+  {
+    "question": "What makes FIS Global email marketing uniquely demanding in Jacksonville?",
+    "answer": "FIS Global serves 20,000+ clients in 130+ countries — creating a procurement community accustomed to the world's most comprehensive fintech platform vocabulary. Email that doesn't demonstrate FIS Modern Banking Platform operational specificity, ISO 20022 migration methodology, or Worldpay payment rail precision earns immediate dismissal from a professional community whose daily work touches the world's largest fintech operations."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Jacksonville?","acceptedAnswer":{"@type":"Answer","text":"Jacksonville email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). FIS Global world-largest-fintech pipeline. Florida Blue HEDIS managed care. Baptist Health HIPAA. NAS Jacksonville military onboarding. SB 262-compliant. Florida retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is FIS Global world-largest-fintech pipeline email for Jacksonville businesses?","acceptedAnswer":{"@type":"Answer","text":"FIS Modern Banking Platform real-time core integration updates, ISO 20022 migration intelligence, FIS Worldpay payment rail performance analytics, and wealth management platform technical intelligence — maintaining FIS Global's Jacksonville procurement community relationships through 90-180 day fintech enterprise evaluation cycles with FINRA-compliant email data handling and Florida SB 262-compliant subscriber analytics throughout."}},{"@type":"Question","name":"What is the NAS Jacksonville military 5-stage Florida onboarding email programme?","acceptedAnswer":{"@type":"Answer","text":"Stage 1: PCS welcome to Jacksonville/First Coast. Stage 2: Florida 0% income tax vs home state financial planning guide. Stage 3: Jacksonville/Northeast Florida healthcare navigation — Baptist Health, Nemours Wolfson, Mayo Clinic Florida Jacksonville. Stage 4: First Coast neighbourhood professional services guide — Ponte Vedra Beach, St. Johns, Orange Park, San Marco, Riverside. Stage 5: NAS Jacksonville/Mayport military community professional connection. SB 262-compliant throughout."}},{"@type":"Question","name":"Does Clickmasters serve Ponte Vedra Beach, Orange Park, St. Johns, and Greater Jacksonville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Jacksonville MSA."}},{"@type":"Question","name":"How long does Jacksonville FIS Global email produce fintech pipeline results?","acceptedAnswer":{"@type":"Answer","text":"FIS Global re-engagement from world-largest-fintech email: 21-30 days. FIS evaluation invitations: 90-150 days. Full FIS/Florida Blue pipeline: 6-10 months."}},{"@type":"Question","name":"What makes FIS Global email marketing uniquely demanding in Jacksonville?","acceptedAnswer":{"@type":"Answer","text":"FIS Global serves 20,000+ clients in 130+ countries — creating a procurement community accustomed to the world's most comprehensive fintech platform vocabulary. Email that doesn't demonstrate FIS Modern Banking Platform operational specificity, ISO 20022 migration methodology, or Worldpay payment rail precision earns immediate dismissal from a professional community whose daily work touches the world's largest fintech operations."}}]}`,
   cta: `Get Your Free Jacksonville Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-jacksonville/","/seo-services-jacksonville/","/email-marketing-orlando/"],
@@ -60,7 +87,7 @@ Results: Baptist Health re-engagement: 42% | Nemours re-engagement: 38% | HIPAA/
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-jacksonville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

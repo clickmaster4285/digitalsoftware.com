@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Louisville.xlsx
 // Service: GoogleAds
 // City: Louisville
-// Generated: 2026-06-19T12:50:27.016Z
+// URL: /google-ads-management-louisville/
+// Generated: 2026-06-20T04:42:12.589Z
 
 export const GoogleAds_Louisville = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "Louisville",
   citySlug: "louisville",
-  slug: "/locations/google-ads/louisville",
+  slug: "/google-ads-management-louisville/",
   
   h1: `Google Ads Management Louisville — Humana Medicare Advantage HIPAA PPC, GE Appliances Manufacturing, and UofL Health HIPAA Campaigns`,
   primaryKw: `google ads agency louisville`,
@@ -16,7 +17,7 @@ export const GoogleAds_Louisville = {
   seoTitle: `Google Ads Agency Louisville | Humana Medicare Advantage HIPAA & GE Appliances PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Louisville. Humana Medicare Advantage HIPAA-compliant health insurance PPC, GE Appliances manufacturing enterprise, and UofL Health/Norton HIPAA patient acquisition campaigns. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Louisville Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-louisville/","address":{"@type":"PostalAddress","addressLocality":"Louisville","addressRegion":"KY","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3500,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN LOUISVILLE?
 
 Google Ads management in Louisville is the professional management of PPC advertising across three commercially distinct categories: Humana HIPAA-compliant Medicare Advantage health insurance technology, GE Appliances manufacturing enterprise, and UofL Health/Norton HIPAA patient acquisition.
@@ -41,7 +42,33 @@ Case Study 3: Louisville Healthcare Practice — UofL Health/Norton HIPAA PPC
 Client: Internal medicine (UofL Health-affiliated). Challenge: Non-HIPAA. Generic 'Louisville doctor' keywords.
 Programme: HIPAA server-side + UofL Health/Norton vocabulary + Louisville family audience
 Results: HIPAA: clean | UofL CPL: \$110 vs \$300 generic | New patients: +3x`,
-  faq: `FAQs — Google Ads Louisville`,
+  faqTitle: `FAQs — Google Ads Louisville`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Louisville?",
+    "answer": "Louisville Google Ads: $950/month (Growth) to $9,500+/month (Enterprise). Humana Medicare Advantage HIPAA health insurance vocabulary. GE Appliances manufacturing enterprise. UofL Health/Norton HIPAA. Kentucky CPCs below Nashville/Cincinnati. 90-day guarantee."
+  },
+  {
+    "question": "What is Humana Medicare Advantage HIPAA Google Ads for Louisville health technology vendors?",
+    "answer": "Humana vocabulary campaigns targeting Medicare Advantage and managed care technology procurement: 'Medicare Advantage analytics vendor Louisville Humana Stars,' 'value-based care measurement platform Kentucky,' 'Stars ratings quality technology Humana Louisville.' HIPAA-compliant throughout. Kentucky CPCs significantly below Nashville and Cincinnati health insurance equivalents."
+  },
+  {
+    "question": "What is GE Appliances manufacturing enterprise Google Ads for Louisville businesses?",
+    "answer": "GE Appliances vocabulary campaigns targeting manufacturing technology procurement: 'smart appliance manufacturing technology Louisville GE,' 'industrial IoT analytics GE Appliances Kentucky,' 'manufacturing supply chain technology Louisville.' Kentucky CPCs below national manufacturing technology markets."
+  },
+  {
+    "question": "Does Clickmasters serve St. Matthews, Jeffersontown, Shelbyville, and Greater Louisville?",
+    "answer": "Yes — all of Greater Louisville MSA."
+  },
+  {
+    "question": "How quickly does Louisville Humana Google Ads produce health insurance technology results?",
+    "answer": "Humana Medicare Advantage vocabulary clicks: 7-14 days. Humana-qualified evaluation leads: 30-60 days. CRM-attributed health insurance pipeline: 90-150 days."
+  },
+  {
+    "question": "How do Louisville Google Ads CPCs compare to Nashville and Cincinnati?",
+    "answer": "Kentucky CPCs 15-20% below Nashville for equivalent health technology vocabulary. 20-25% below Cincinnati for health insurance equivalents. Humana Medicare Advantage vocabulary CPCs are Louisville-specific with lower competition than Nashville and Cincinnati managed care technology advertising markets."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Louisville?","acceptedAnswer":{"@type":"Answer","text":"Louisville Google Ads: \$950/month (Growth) to \$9,500+/month (Enterprise). Humana Medicare Advantage HIPAA health insurance vocabulary. GE Appliances manufacturing enterprise. UofL Health/Norton HIPAA. Kentucky CPCs below Nashville/Cincinnati. 90-day guarantee."}},{"@type":"Question","name":"What is Humana Medicare Advantage HIPAA Google Ads for Louisville health technology vendors?","acceptedAnswer":{"@type":"Answer","text":"Humana vocabulary campaigns targeting Medicare Advantage and managed care technology procurement: 'Medicare Advantage analytics vendor Louisville Humana Stars,' 'value-based care measurement platform Kentucky,' 'Stars ratings quality technology Humana Louisville.' HIPAA-compliant throughout. Kentucky CPCs significantly below Nashville and Cincinnati health insurance equivalents."}},{"@type":"Question","name":"What is GE Appliances manufacturing enterprise Google Ads for Louisville businesses?","acceptedAnswer":{"@type":"Answer","text":"GE Appliances vocabulary campaigns targeting manufacturing technology procurement: 'smart appliance manufacturing technology Louisville GE,' 'industrial IoT analytics GE Appliances Kentucky,' 'manufacturing supply chain technology Louisville.' Kentucky CPCs below national manufacturing technology markets."}},{"@type":"Question","name":"Does Clickmasters serve St. Matthews, Jeffersontown, Shelbyville, and Greater Louisville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Louisville MSA."}},{"@type":"Question","name":"How quickly does Louisville Humana Google Ads produce health insurance technology results?","acceptedAnswer":{"@type":"Answer","text":"Humana Medicare Advantage vocabulary clicks: 7-14 days. Humana-qualified evaluation leads: 30-60 days. CRM-attributed health insurance pipeline: 90-150 days."}},{"@type":"Question","name":"How do Louisville Google Ads CPCs compare to Nashville and Cincinnati?","acceptedAnswer":{"@type":"Answer","text":"Kentucky CPCs 15-20% below Nashville for equivalent health technology vocabulary. 20-25% below Cincinnati for health insurance equivalents. Humana Medicare Advantage vocabulary CPCs are Louisville-specific with lower competition than Nashville and Cincinnati managed care technology advertising markets."}}]}`,
   cta: `Get Your Free Louisville Google Ads Audit`,
   internalLinks: ["/digital-marketing-agency-louisville/","/seo-services-louisville/","/google-ads-management-services/","/google-ads-management-nashville/"],
@@ -51,7 +78,7 @@ Results: HIPAA: clean | UofL CPL: \$110 vs \$300 generic | New patients: +3x`,
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-louisville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Denver.xlsx
 // Service: EmailMarketing
 // City: Denver
-// Generated: 2026-06-19T12:50:26.396Z
+// URL: /email-marketing-denver/
+// Generated: 2026-06-20T04:42:11.863Z
 
 export const EmailMarketing_Denver = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "Denver",
   citySlug: "denver",
-  slug: "/locations/email-marketing/denver",
+  slug: "/email-marketing-denver/",
   
   h1: `Email Marketing Denver — ITAR-Aware Aerospace Pipeline, NREL Clean Energy Nurture, and CA In-Migration Professional Onboarding`,
   primaryKw: `email marketing agency denver`,
@@ -16,7 +17,7 @@ export const EmailMarketing_Denver = {
   seoTitle: `Email Marketing Agency Denver | Aerospace Pipeline & NREL Clean Energy | Clickmasters`,
   meta: `Clickmasters email marketing in Denver. ITAR-aware aerospace pipeline nurture, NREL clean energy vendor relationships, and California in-migration professional onboarding for Colorado. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Denver Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-denver/","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN DENVER?
 
 Email marketing in Denver is the strategic management of email as a defence aerospace pipeline, NREL clean energy relationship, and California in-migration professional revenue channel — calibrated to three commercially distinct requirements unique to Colorado's market.
@@ -50,7 +51,33 @@ Case Study 3: Cherry Creek Financial Advisory — CA In-Migration Onboarding
 Client: RIA, Cherry Creek (\$380M AUM). Challenge: CA in-migration professionals not engaging generic welcome email.
 Programme: CA vs CO income tax series + Colorado estate planning + HSA comparison + FINRA-compliant
 Results: CA in-migration engagement: 3.8x above generic welcome | In-migration client conversion: 36% within 90 days | New AUM from email: \$44M`,
-  faq: `FAQs — Email Marketing Denver`,
+  faqTitle: `FAQs — Email Marketing Denver`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Denver?",
+    "answer": "Denver email marketing: $800/month (Foundation) to $8,500+/month (Enterprise). ITAR-aware aerospace content. NREL citation accuracy. FINRA for financial. Colorado retainers below coastal. 90-day performance guarantee."
+  },
+  {
+    "question": "What is ITAR-aware email marketing for Denver aerospace companies?",
+    "answer": "ITAR-aware email uses publicly releasable defence vocabulary only: AS9100D quality management insights, DCAA accounting systems, defence supply chain resilience analysis. It does not reference controlled technical specifications, classified programme details, or export-restricted performance parameters. The email programme that maintains Lockheed Martin and Ball Aerospace vendor relationships through 120-240 day defence procurement cycles without creating ITAR export control exposure."
+  },
+  {
+    "question": "What is NREL-cited clean energy email marketing for Denver companies?",
+    "answer": "NREL-cited email content references specific NREL Technical Reports with DOI citations in monthly clean energy intelligence updates, DOE EERE programme outcomes with specific programme names, and Colorado Energy Office regulatory updates. Generic 'clean energy industry insights' newsletters earn zero engagement from Denver's NREL-adjacent technically sophisticated community. Specific NREL citation email earns 3-4x above-average engagement."
+  },
+  {
+    "question": "Does Clickmasters manage HubSpot email for Denver B2B companies?",
+    "answer": "Yes. HubSpot Marketing Hub for Denver's aerospace and clean energy B2B companies. Lockheed Martin and Ball Aerospace named account sequences. ITAR-aware content integration for defence programmes. NREL-cited content track for clean energy pipeline. CA in-migration professional onboarding for financial advisory clients."
+  },
+  {
+    "question": "Does Clickmasters serve Boulder, Colorado Springs, and all of Colorado?",
+    "answer": "Yes — all of Colorado including Boulder, Colorado Springs, Fort Collins, Aurora, and the full state."
+  },
+  {
+    "question": "How long does Denver aerospace email produce Lockheed/Ball pipeline results?",
+    "answer": "Denver ITAR-aware aerospace email timelines: first Lockheed/Ball programme manager re-engagement from ITAR-compliant content: 21-30 days. Defence evaluation invitations from email-nurtured contacts: 60-120 days. Full defence pipeline contribution: 6-10 months — accounting for Colorado's 120-240 day defence procurement evaluation cycles."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Denver?","acceptedAnswer":{"@type":"Answer","text":"Denver email marketing: \$800/month (Foundation) to \$8,500+/month (Enterprise). ITAR-aware aerospace content. NREL citation accuracy. FINRA for financial. Colorado retainers below coastal. 90-day performance guarantee."}},{"@type":"Question","name":"What is ITAR-aware email marketing for Denver aerospace companies?","acceptedAnswer":{"@type":"Answer","text":"ITAR-aware email uses publicly releasable defence vocabulary only: AS9100D quality management insights, DCAA accounting systems, defence supply chain resilience analysis. It does not reference controlled technical specifications, classified programme details, or export-restricted performance parameters. The email programme that maintains Lockheed Martin and Ball Aerospace vendor relationships through 120-240 day defence procurement cycles without creating ITAR export control exposure."}},{"@type":"Question","name":"What is NREL-cited clean energy email marketing for Denver companies?","acceptedAnswer":{"@type":"Answer","text":"NREL-cited email content references specific NREL Technical Reports with DOI citations in monthly clean energy intelligence updates, DOE EERE programme outcomes with specific programme names, and Colorado Energy Office regulatory updates. Generic 'clean energy industry insights' newsletters earn zero engagement from Denver's NREL-adjacent technically sophisticated community. Specific NREL citation email earns 3-4x above-average engagement."}},{"@type":"Question","name":"Does Clickmasters manage HubSpot email for Denver B2B companies?","acceptedAnswer":{"@type":"Answer","text":"Yes. HubSpot Marketing Hub for Denver's aerospace and clean energy B2B companies. Lockheed Martin and Ball Aerospace named account sequences. ITAR-aware content integration for defence programmes. NREL-cited content track for clean energy pipeline. CA in-migration professional onboarding for financial advisory clients."}},{"@type":"Question","name":"Does Clickmasters serve Boulder, Colorado Springs, and all of Colorado?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Colorado including Boulder, Colorado Springs, Fort Collins, Aurora, and the full state."}},{"@type":"Question","name":"How long does Denver aerospace email produce Lockheed/Ball pipeline results?","acceptedAnswer":{"@type":"Answer","text":"Denver ITAR-aware aerospace email timelines: first Lockheed/Ball programme manager re-engagement from ITAR-compliant content: 21-30 days. Defence evaluation invitations from email-nurtured contacts: 60-120 days. Full defence pipeline contribution: 6-10 months — accounting for Colorado's 120-240 day defence procurement evaluation cycles."}}]}`,
   cta: `Get Your Free Denver Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-denver/","/seo-services-denver/","/email-marketing-seattle/","/integrations/hubspot-marketing/","/industries/manufacturing/"],
@@ -60,7 +87,7 @@ Results: CA in-migration engagement: 3.8x above generic welcome | In-migration c
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-denver/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

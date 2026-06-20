@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-Indianapolis.xlsx
 // Service: WebDesign
 // City: Indianapolis
-// Generated: 2026-06-19T12:50:28.981Z
+// URL: /web-design-agency-indianapolis/
+// Generated: 2026-06-20T04:42:14.665Z
 
 export const WebDesign_Indianapolis = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Indianapolis",
   citySlug: "indianapolis",
-  slug: "/locations/web-design/indianapolis",
+  slug: "/web-design-agency-indianapolis/",
   
   h1: `Web Design Agency Indianapolis — Eli Lilly Pharma Vendor Credibility, Cummins Fortune 500 Quality, and IU Health YMYL`,
   primaryKw: `web design agency indianapolis`,
@@ -16,7 +17,7 @@ export const WebDesign_Indianapolis = {
   seoTitle: `Web Design Agency Indianapolis | Eli Lilly Pharma Credibility & Cummins Quality | Clickmasters`,
   meta: `Clickmasters web design in Indianapolis. Eli Lilly pharmaceutical vendor institutional credibility, Cummins/Simon Fortune 500 quality, and IU Health YMYL HIPAA. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Indianapolis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-indianapolis/","address":{"@type":"PostalAddress","addressLocality":"Indianapolis","addressRegion":"IN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN INDIANAPOLIS?
 
 A Indianapolis web design agency builds websites across three commercially distinct design requirements: Eli Lilly pharmaceutical vendor institutional credibility, Cummins/Simon Property Fortune 500 enterprise quality, and IU Health/IU School of Medicine YMYL academic medical credential architecture.
@@ -50,7 +51,33 @@ Case Study 3: Carmel Healthcare Practice — IU Health YMYL HIPAA Redesign
 Client: Internal medicine, Carmel (IU Health-affiliated). Challenge: No IU Health affiliation display. Non-HIPAA. Below YMYL standard. 4.8s LCP.
 Programme: IU Health affiliation + IU SOM faculty attribution + HIPAA-native + YMYL E-E-A-T + CWV
 Results: YMYL: E-E-A-T recognised | IU affiliation: cited in patient surveys | HIPAA: clean | New patients: +3x | LCP: 4.8s to 1.2s`,
-  faq: `FAQs — Web Design Indianapolis`,
+  faqTitle: `FAQs — Web Design Indianapolis`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Indianapolis?",
+    "answer": "Indianapolis web design: $6,000-$15,000 (Eli Lilly pharma/Cummins Fortune 500/IU Health YMYL), $26,000-$65,000+ (enterprise). FDA 21 CFR Part 211 GMP precision. Cummins/Simon Fortune 500 quality. IU Health YMYL HIPAA. WCAG 2.1 AA. Fixed-price."
+  },
+  {
+    "question": "What is Eli Lilly pharmaceutical vendor credibility for Indianapolis web design?",
+    "answer": "GMP compliance framework descriptions at FDA 21 CFR Part 211 precision, CMC regulatory methodology service pages, API manufacturing validation experience display, and pharmaceutical institutional visual quality at Lilly's procurement evaluation standard — the website architecture that earns genuine Eli Lilly and Corteva pharmaceutical procurement digital due diligence clearance."
+  },
+  {
+    "question": "Does Clickmasters build IU Health YMYL academic medical websites in Indianapolis?",
+    "answer": "Yes. IU Health system affiliation display, Indiana University School of Medicine faculty attribution, HIPAA-native data architecture, and YMYL E-E-A-T optimised clinical content — the credential architecture that earns Google YMYL recognition in Indianapolis's IU academic medical community."
+  },
+  {
+    "question": "Does Clickmasters serve Carmel, Fishers, Zionsville, and Greater Indianapolis?",
+    "answer": "Yes — all of Greater Indianapolis MSA."
+  },
+  {
+    "question": "How long does an Indianapolis web design project take?",
+    "answer": "Eli Lilly pharma vendor credibility (FDA review adds time): 8-14 weeks. Cummins/Simon Fortune 500 quality: 8-12 weeks. IU Health YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."
+  },
+  {
+    "question": "What Midwest data-analytical standard does Indianapolis web design require?",
+    "answer": "Indianapolis's Fortune 500 professional community — Eli Lilly, Cummins, Simon Property, Salesforce Indiana, Eli Lilly — evaluates vendor websites with the analytical precision of Midwest corporate culture: evidence-based service claims, verifiable credential display (no unsubstantiated superlatives), and conservative institutional visual quality that communicates professional competence over aggressive marketing."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Indianapolis web design: \$6,000-\$15,000 (Eli Lilly pharma/Cummins Fortune 500/IU Health YMYL), \$26,000-\$65,000+ (enterprise). FDA 21 CFR Part 211 GMP precision. Cummins/Simon Fortune 500 quality. IU Health YMYL HIPAA. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is Eli Lilly pharmaceutical vendor credibility for Indianapolis web design?","acceptedAnswer":{"@type":"Answer","text":"GMP compliance framework descriptions at FDA 21 CFR Part 211 precision, CMC regulatory methodology service pages, API manufacturing validation experience display, and pharmaceutical institutional visual quality at Lilly's procurement evaluation standard — the website architecture that earns genuine Eli Lilly and Corteva pharmaceutical procurement digital due diligence clearance."}},{"@type":"Question","name":"Does Clickmasters build IU Health YMYL academic medical websites in Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Yes. IU Health system affiliation display, Indiana University School of Medicine faculty attribution, HIPAA-native data architecture, and YMYL E-E-A-T optimised clinical content — the credential architecture that earns Google YMYL recognition in Indianapolis's IU academic medical community."}},{"@type":"Question","name":"Does Clickmasters serve Carmel, Fishers, Zionsville, and Greater Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Indianapolis MSA."}},{"@type":"Question","name":"How long does an Indianapolis web design project take?","acceptedAnswer":{"@type":"Answer","text":"Eli Lilly pharma vendor credibility (FDA review adds time): 8-14 weeks. Cummins/Simon Fortune 500 quality: 8-12 weeks. IU Health YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."}},{"@type":"Question","name":"What Midwest data-analytical standard does Indianapolis web design require?","acceptedAnswer":{"@type":"Answer","text":"Indianapolis's Fortune 500 professional community — Eli Lilly, Cummins, Simon Property, Salesforce Indiana, Eli Lilly — evaluates vendor websites with the analytical precision of Midwest corporate culture: evidence-based service claims, verifiable credential display (no unsubstantiated superlatives), and conservative institutional visual quality that communicates professional competence over aggressive marketing."}}]}`,
   cta: `Get Your Free Indianapolis Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-indianapolis/","/seo-services-indianapolis/","/web-design-agency-chicago/"],
@@ -60,7 +87,7 @@ Results: YMYL: E-E-A-T recognised | IU affiliation: cited in patient surveys | H
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-indianapolis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

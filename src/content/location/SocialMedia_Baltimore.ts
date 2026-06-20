@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Baltimore.xlsx
 // Service: SocialMedia
 // City: Baltimore
-// Generated: 2026-06-19T12:50:28.370Z
+// URL: /social-media-marketing-baltimore/
+// Generated: 2026-06-20T04:42:14.013Z
 
 export const SocialMedia_Baltimore = {
   service: "SocialMedia",
   serviceSlug: "social-media",
   city: "Baltimore",
   citySlug: "baltimore",
-  slug: "/locations/social-media/baltimore",
+  slug: "/social-media-marketing-baltimore/",
   
   h1: `Social Media Marketing Baltimore — Johns Hopkins Clinical LinkedIn, T. Rowe Price Investment Community, and Authentic Charm City Brand Social`,
   primaryKw: `social media marketing baltimore`,
@@ -16,7 +17,7 @@ export const SocialMedia_Baltimore = {
   seoTitle: `Social Media Marketing Baltimore | Johns Hopkins Clinical LinkedIn & T. Rowe Price | Clickmasters`,
   meta: `Clickmasters social media marketing in Baltimore. Johns Hopkins #1 clinical professional LinkedIn, T. Rowe Price FINRA investment community, and authentic Fells Point/Hampden Charm City brand social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Baltimore Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-baltimore/","address":{"@type":"PostalAddress","addressLocality":"Baltimore","addressRegion":"MD","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN BALTIMORE?
 
 Social media marketing in Baltimore is the strategic management of social platforms across three commercially distinct communities: the Johns Hopkins Medicine world-class clinical professional LinkedIn ecosystem, the T. Rowe Price institutional investment management professional community, and the authentic Charm City consumer brand community in Fells Point, Hampden, and Roland Park.
@@ -41,7 +42,33 @@ Case Study 3: Fells Point Consumer Brand — Authentic Charm City Social
 Client: Food and lifestyle brand, Fells Point (\$1.4M DTC). Challenge: Generic 'Baltimore food scene' below Fells Point authentic waterfront community standard.
 Programme: Fells Point waterfront vocabulary + Hampden Avenue indie community + Roland Park residential character + authentic Charm City
 Results (5 months): Instagram engagement: 1.4% to 5.4% | Fells Point community editorial features: 3 | DTC revenue from social: +\$110K`,
-  faq: `FAQs — Social Media Marketing Baltimore`,
+  faqTitle: `FAQs — Social Media Marketing Baltimore`,
+  faqs: [
+  {
+    "question": "How much does social media marketing cost in Baltimore?",
+    "answer": "Baltimore social media: $1,200/month (LinkedIn growth) to $12,000+/month (enterprise). Johns Hopkins #1 world-class clinical precision. T. Rowe Price FINRA-compliant investment management. Authentic Charm City brand. Maryland retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is Johns Hopkins #1 clinical LinkedIn for Baltimore health technology businesses?",
+    "answer": "Johns Hopkins clinical LinkedIn demonstrates the most prestigious academic medical vocabulary in the US: Armstrong Institute for Patient Safety and Quality operational research content, Bloomberg School of Public Health epidemiology and public health analytics methodology, Johns Hopkins Medicine clinical trial leadership, and patient safety/clinical quality vocabulary at NEJM/JAMA publication precision — the LinkedIn content that earns genuine Johns Hopkins Medicine clinical community engagement."
+  },
+  {
+    "question": "What is T. Rowe Price FINRA investment community LinkedIn for Baltimore businesses?",
+    "answer": "FINRA Rule 2210-compliant LinkedIn content demonstrating T. Rowe Price's institutional investment vocabulary: equity research methodology precision, quantitative strategies operational specifics, global fixed income portfolio analytics — within FINRA advertising compliance boundaries. The institutional investment LinkedIn standard that earns T. Rowe Price research analyst and technology procurement community engagement."
+  },
+  {
+    "question": "Does Clickmasters serve Towson, Columbia, Annapolis, and Greater Baltimore?",
+    "answer": "Yes — all of Greater Baltimore MSA."
+  },
+  {
+    "question": "What is authentic Charm City consumer brand social for Baltimore?",
+    "answer": "Fells Point's waterfront neighbourhood community vocabulary, Hampden's 'The Avenue' independent commercial character, and Roland Park's established residential identity — the specific Baltimore neighbourhood identities that distinguish genuinely locally-rooted Charm City brands from generic Mid-Atlantic commercial approximations."
+  },
+  {
+    "question": "How does Clickmasters measure Baltimore social media commercial outcomes?",
+    "answer": "Johns Hopkins LinkedIn: JHM/Bloomberg School connections and health IT evaluation invitations. T. Rowe Price LinkedIn: TRP research and technology connections and investment tech evaluation invitations. Charm City brand: engagement vs Baltimore community benchmark, editorial features, DTC revenue attribution."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Baltimore?","acceptedAnswer":{"@type":"Answer","text":"Baltimore social media: \$1,200/month (LinkedIn growth) to \$12,000+/month (enterprise). Johns Hopkins #1 world-class clinical precision. T. Rowe Price FINRA-compliant investment management. Authentic Charm City brand. Maryland retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Johns Hopkins #1 clinical LinkedIn for Baltimore health technology businesses?","acceptedAnswer":{"@type":"Answer","text":"Johns Hopkins clinical LinkedIn demonstrates the most prestigious academic medical vocabulary in the US: Armstrong Institute for Patient Safety and Quality operational research content, Bloomberg School of Public Health epidemiology and public health analytics methodology, Johns Hopkins Medicine clinical trial leadership, and patient safety/clinical quality vocabulary at NEJM/JAMA publication precision — the LinkedIn content that earns genuine Johns Hopkins Medicine clinical community engagement."}},{"@type":"Question","name":"What is T. Rowe Price FINRA investment community LinkedIn for Baltimore businesses?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210-compliant LinkedIn content demonstrating T. Rowe Price's institutional investment vocabulary: equity research methodology precision, quantitative strategies operational specifics, global fixed income portfolio analytics — within FINRA advertising compliance boundaries. The institutional investment LinkedIn standard that earns T. Rowe Price research analyst and technology procurement community engagement."}},{"@type":"Question","name":"Does Clickmasters serve Towson, Columbia, Annapolis, and Greater Baltimore?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Baltimore MSA."}},{"@type":"Question","name":"What is authentic Charm City consumer brand social for Baltimore?","acceptedAnswer":{"@type":"Answer","text":"Fells Point's waterfront neighbourhood community vocabulary, Hampden's 'The Avenue' independent commercial character, and Roland Park's established residential identity — the specific Baltimore neighbourhood identities that distinguish genuinely locally-rooted Charm City brands from generic Mid-Atlantic commercial approximations."}},{"@type":"Question","name":"How does Clickmasters measure Baltimore social media commercial outcomes?","acceptedAnswer":{"@type":"Answer","text":"Johns Hopkins LinkedIn: JHM/Bloomberg School connections and health IT evaluation invitations. T. Rowe Price LinkedIn: TRP research and technology connections and investment tech evaluation invitations. Charm City brand: engagement vs Baltimore community benchmark, editorial features, DTC revenue attribution."}}]}`,
   cta: `Get Your Free Baltimore Social Media Audit`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-baltimore/","/seo-services-baltimore/","/social-media-marketing-pittsburgh/"],
@@ -51,7 +78,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.4% | Fells Point community e
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /social-media-marketing-baltimore/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

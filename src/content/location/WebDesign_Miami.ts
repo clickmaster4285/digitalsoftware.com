@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-Miami.xlsx
 // Service: WebDesign
 // City: Miami
-// Generated: 2026-06-19T12:50:29.042Z
+// URL: /web-design-agency-miami/
+// Generated: 2026-06-20T04:42:14.735Z
 
 export const WebDesign_Miami = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Miami",
   citySlug: "miami",
-  slug: "/locations/web-design/miami",
+  slug: "/web-design-agency-miami/",
   
   h1: `Web Design Agency Miami — Bilingual LATAM-Gateway, Brickell Institutional Financial, and Florida SB 262-Compliant Design`,
   primaryKw: `web design agency miami`,
@@ -16,7 +17,7 @@ export const WebDesign_Miami = {
   seoTitle: `Web Design Agency Miami | Bilingual LATAM-Gateway & Brickell Institutional | Clickmasters`,
   meta: `Clickmasters web design in Miami. Bilingual English/Spanish LATAM-gateway websites, Brickell institutional financial, and Florida SB 262-compliant South Florida commercial design. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Miami Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-miami/","address":{"@type":"PostalAddress","addressLocality":"Miami","addressRegion":"FL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN MIAMI?
 
 A Miami web design agency builds websites for Miami-area businesses combining bilingual English/Spanish LATAM-gateway architecture for America's most commercially bilingual major city, Brickell institutional financial quality for the largest Latin American wealth management hub in the US, and Florida SB 262-compliant data privacy architecture for all categories.
@@ -50,7 +51,33 @@ Case Study 3: Wynwood DTC Brand — Florida SB 262 CCPA-Adjacent Bilingual Consu
 Client: Lifestyle DTC, Wynwood (\$4.8M Shopify). Challenge: Non-SB 262 analytics. English-only below Miami bilingual consumer standard. Mobile 4.2s.
 Programme: SB 262-compliant analytics + bilingual Shopify design + Miami consumer aesthetic + mobile CWV (4.2s to 1.2s)
 Results: SB 262 compliance: Florida AG pre-audit passed | Shopify conversion: 1.4% to 3.6% | Bilingual conversion: Spanish users 40% higher conversion than English (native Spanish design) | Mobile LCP: 4.2s to 1.2s`,
-  faq: `FAQs — Web Design Miami`,
+  faqTitle: `FAQs — Web Design Miami`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Miami?",
+    "answer": "Miami web design: $6,000-$22,000 (bilingual/FINRA/healthcare), $30,000-$80,000+ (enterprise). Native bilingual English/Spanish standard. Florida SB 262 compliance. WCAG 2.1 AA. Fixed-price contracts."
+  },
+  {
+    "question": "Does Clickmasters build bilingual English/Spanish websites for Miami businesses?",
+    "answer": "Yes. Native bilingual design — not translated English. South Florida Spanish vocabulary calibrated to Miami's Cuban-American, Venezuelan, Colombian, and Argentine professional communities. LATAM professional credibility signals for Brickell financial clients. HIPAA-compliant bilingual forms with BAA for healthcare. Florida SB 262-compliant consent management throughout."
+  },
+  {
+    "question": "Does Clickmasters build FINRA-compliant websites for Brickell financial services?",
+    "answer": "Yes. FINRA Rule 2210 and SEC Marketing Rule (2022) compliance throughout Brickell financial website design. GIPS-compliant performance display. ADV Part 2 integration for RIAs. Spanish and English regulatory disclosures for LATAM-facing wealth managers."
+  },
+  {
+    "question": "What is Florida SB 262 and why does it affect Miami website design?",
+    "answer": "Florida's SB 262 (effective July 2024) creates specific consumer data privacy requirements for website analytics data collection, contact form data handling, and conversion tracking. Miami websites without SB 262-compliant consent management are creating Florida AG enforcement exposure. Every Clickmasters Miami website includes SB 262-compliant privacy architecture as standard."
+  },
+  {
+    "question": "Does Clickmasters serve Coral Gables, Doral, Aventura, and South Florida?",
+    "answer": "Yes — all of Miami-Dade and Broward Counties including Coral Gables, Doral, Aventura, Hialeah, Fort Lauderdale, Boca Raton, and the full South Florida metropolitan area."
+  },
+  {
+    "question": "How long does a Miami web design project take?",
+    "answer": "Bilingual business: 8-14 weeks (bilingual content adds 20% to timeline). Brickell financial (FINRA/SEC review): 10-16 weeks. Bilingual healthcare (HIPAA + SB 262 review): 8-14 weeks. Enterprise: 16-26 weeks."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Miami?","acceptedAnswer":{"@type":"Answer","text":"Miami web design: \$6,000-\$22,000 (bilingual/FINRA/healthcare), \$30,000-\$80,000+ (enterprise). Native bilingual English/Spanish standard. Florida SB 262 compliance. WCAG 2.1 AA. Fixed-price contracts."}},{"@type":"Question","name":"Does Clickmasters build bilingual English/Spanish websites for Miami businesses?","acceptedAnswer":{"@type":"Answer","text":"Yes. Native bilingual design — not translated English. South Florida Spanish vocabulary calibrated to Miami's Cuban-American, Venezuelan, Colombian, and Argentine professional communities. LATAM professional credibility signals for Brickell financial clients. HIPAA-compliant bilingual forms with BAA for healthcare. Florida SB 262-compliant consent management throughout."}},{"@type":"Question","name":"Does Clickmasters build FINRA-compliant websites for Brickell financial services?","acceptedAnswer":{"@type":"Answer","text":"Yes. FINRA Rule 2210 and SEC Marketing Rule (2022) compliance throughout Brickell financial website design. GIPS-compliant performance display. ADV Part 2 integration for RIAs. Spanish and English regulatory disclosures for LATAM-facing wealth managers."}},{"@type":"Question","name":"What is Florida SB 262 and why does it affect Miami website design?","acceptedAnswer":{"@type":"Answer","text":"Florida's SB 262 (effective July 2024) creates specific consumer data privacy requirements for website analytics data collection, contact form data handling, and conversion tracking. Miami websites without SB 262-compliant consent management are creating Florida AG enforcement exposure. Every Clickmasters Miami website includes SB 262-compliant privacy architecture as standard."}},{"@type":"Question","name":"Does Clickmasters serve Coral Gables, Doral, Aventura, and South Florida?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Miami-Dade and Broward Counties including Coral Gables, Doral, Aventura, Hialeah, Fort Lauderdale, Boca Raton, and the full South Florida metropolitan area."}},{"@type":"Question","name":"How long does a Miami web design project take?","acceptedAnswer":{"@type":"Answer","text":"Bilingual business: 8-14 weeks (bilingual content adds 20% to timeline). Brickell financial (FINRA/SEC review): 10-16 weeks. Bilingual healthcare (HIPAA + SB 262 review): 8-14 weeks. Enterprise: 16-26 weeks."}}]}`,
   cta: `Get Your Free Miami Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-miami/","/seo-services-miami/","/web-design-agency-houston/","/industries/financial-services/","/tools/website-grader/"],
@@ -60,7 +87,7 @@ Results: SB 262 compliance: Florida AG pre-audit passed | Shopify conversion: 1.
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-miami/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

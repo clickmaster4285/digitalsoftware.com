@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-Phoenix.xlsx
 // Service: ContentMarketing
 // City: Phoenix
-// Generated: 2026-06-19T12:50:25.379Z
+// URL: /content-marketing-phoenix/
+// Generated: 2026-06-20T04:42:10.883Z
 
 export const ContentMarketing_Phoenix = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "Phoenix",
   citySlug: "phoenix",
-  slug: "/locations/content-marketing/phoenix",
+  slug: "/content-marketing-phoenix/",
   
   h1: `Content Marketing Phoenix — TSMC Semiconductor SEMI Authority, CA In-Migration Arizona Financial Content, and Mayo Clinic YMYL`,
   primaryKw: `content marketing agency phoenix`,
@@ -16,7 +17,7 @@ export const ContentMarketing_Phoenix = {
   seoTitle: `Content Marketing Phoenix | TSMC SEMI Authority & CA In-Migration Arizona | Clickmasters`,
   meta: `Clickmasters content marketing in Phoenix. TSMC/Intel semiconductor SEMI authority content, CA in-migration Arizona financial transition library, and Mayo Clinic/Banner YMYL. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Phoenix Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-phoenix/","address":{"@type":"PostalAddress","addressLocality":"Phoenix","addressRegion":"AZ","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN PHOENIX?
 
 Content marketing in Phoenix is the strategic creation of TSMC Fab 21 semiconductor SEMI authority content, California in-migration Arizona financial transition content, and Mayo Clinic/Banner Health YMYL healthcare content for Greater Phoenix businesses.
@@ -50,7 +51,33 @@ Case Study 3: Phoenix Health IT Vendor — Mayo Clinic/Banner YMYL Content
 Client: Clinical analytics SaaS, Phoenix (\$7.4M ARR). Challenge: Non-YMYL content. Mayo Clinic/Banner procurement vocabulary absent.
 Programme: Mayo Clinic/Banner vocabulary + HCAHPS/VBP content + YMYL E-E-A-T architecture + HIPAA analytics + GEO/AEO
 Results (10 months): Page 1 for 12 Phoenix health IT queries | YMYL E-E-A-T: recognised | Mayo Clinic procurement digital discovery | Pipeline: \$2.4M`,
-  faq: `FAQs — Content Marketing Phoenix`,
+  faqTitle: `FAQs — Content Marketing Phoenix`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in Phoenix?",
+    "answer": "Phoenix content marketing: $1,300/month (Foundation) to $12,000+/month (Full Programme). TSMC/Intel semiconductor SEMI authority. CA in-migration Arizona financial content. Mayo Clinic/Banner YMYL. FINRA-compliant. Arizona retainers below California. 90-day guarantee."
+  },
+  {
+    "question": "What is TSMC Fab 21 semiconductor SEMI content marketing for Phoenix?",
+    "answer": "TSMC semiconductor content builds organic authority using SEMI standards operational precision: SEMI F47 voltage sag immunity implementation analysis, SEMI C62 ultra-clean chemistry operational intelligence, SEMI E10 equipment reliability measurement, and ISO 14644-1 cleanroom classification documentation. This publicly releasable SEMI standards content earns TSMC Fab 21 and Intel Ocotillo procurement organic discovery without ITAR exposure."
+  },
+  {
+    "question": "What is CA in-migration Arizona financial content for Phoenix businesses?",
+    "answer": "The CA-to-AZ financial transition content library addresses the specific content Phoenix's CA in-migration community searches for: California 13.3% vs Arizona 4.5% flat income tax first-year optimisation, RSU equity compensation Arizona planning, Arizona estate planning vs California Proposition 19, and Arizona LLC vs California S-Corp business entity comparisons. FINRA-compliant throughout."
+  },
+  {
+    "question": "Does Clickmasters serve Scottsdale, Chandler, Tempe, and Greater Phoenix?",
+    "answer": "Yes — all of Greater Phoenix MSA."
+  },
+  {
+    "question": "How long does Phoenix TSMC semiconductor content marketing produce results?",
+    "answer": "SEMI vocabulary rankings: 5-8 months. TSMC community editorial: 3-5 months. GEO/AEO semiconductor AI citations: 4-7 months. Full TSMC Fab 21 procurement organic authority: 8-12 months."
+  },
+  {
+    "question": "How does GEO/AEO affect Phoenix content marketing?",
+    "answer": "TSMC Fab 21 engineering community and CA in-migration professionals are above-average AI search adopters. First-mover GEO/AEO content in Phoenix SEMI semiconductor and CA-to-AZ financial planning queries earns ChatGPT/Perplexity citation before competitors build equivalent content authority."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Phoenix?","acceptedAnswer":{"@type":"Answer","text":"Phoenix content marketing: \$1,300/month (Foundation) to \$12,000+/month (Full Programme). TSMC/Intel semiconductor SEMI authority. CA in-migration Arizona financial content. Mayo Clinic/Banner YMYL. FINRA-compliant. Arizona retainers below California. 90-day guarantee."}},{"@type":"Question","name":"What is TSMC Fab 21 semiconductor SEMI content marketing for Phoenix?","acceptedAnswer":{"@type":"Answer","text":"TSMC semiconductor content builds organic authority using SEMI standards operational precision: SEMI F47 voltage sag immunity implementation analysis, SEMI C62 ultra-clean chemistry operational intelligence, SEMI E10 equipment reliability measurement, and ISO 14644-1 cleanroom classification documentation. This publicly releasable SEMI standards content earns TSMC Fab 21 and Intel Ocotillo procurement organic discovery without ITAR exposure."}},{"@type":"Question","name":"What is CA in-migration Arizona financial content for Phoenix businesses?","acceptedAnswer":{"@type":"Answer","text":"The CA-to-AZ financial transition content library addresses the specific content Phoenix's CA in-migration community searches for: California 13.3% vs Arizona 4.5% flat income tax first-year optimisation, RSU equity compensation Arizona planning, Arizona estate planning vs California Proposition 19, and Arizona LLC vs California S-Corp business entity comparisons. FINRA-compliant throughout."}},{"@type":"Question","name":"Does Clickmasters serve Scottsdale, Chandler, Tempe, and Greater Phoenix?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Phoenix MSA."}},{"@type":"Question","name":"How long does Phoenix TSMC semiconductor content marketing produce results?","acceptedAnswer":{"@type":"Answer","text":"SEMI vocabulary rankings: 5-8 months. TSMC community editorial: 3-5 months. GEO/AEO semiconductor AI citations: 4-7 months. Full TSMC Fab 21 procurement organic authority: 8-12 months."}},{"@type":"Question","name":"How does GEO/AEO affect Phoenix content marketing?","acceptedAnswer":{"@type":"Answer","text":"TSMC Fab 21 engineering community and CA in-migration professionals are above-average AI search adopters. First-mover GEO/AEO content in Phoenix SEMI semiconductor and CA-to-AZ financial planning queries earns ChatGPT/Perplexity citation before competitors build equivalent content authority."}}]}`,
   cta: `Get Your Free Phoenix Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-phoenix/","/seo-services-phoenix/","/content-marketing-las-vegas/"],
@@ -60,7 +87,7 @@ Results (10 months): Page 1 for 12 Phoenix health IT queries | YMYL E-E-A-T: rec
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-phoenix/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

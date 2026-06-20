@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-Dallas.xlsx
 // Service: ContentMarketing
 // City: Dallas
-// Generated: 2026-06-19T12:50:25.148Z
+// URL: /content-marketing-dallas/
+// Generated: 2026-06-20T04:42:10.677Z
 
 export const ContentMarketing_Dallas = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "Dallas",
   citySlug: "dallas",
-  slug: "/locations/content-marketing/dallas",
+  slug: "/content-marketing-dallas/",
   
   h1: `Content Marketing Dallas — Fortune 500-Standard B2B Content for DFW's Corporate Commercial Capital`,
   primaryKw: `content marketing agency dallas`,
@@ -16,7 +17,7 @@ export const ContentMarketing_Dallas = {
   seoTitle: `Content Marketing Agency Dallas | Fortune 500 B2B Content & DFW | Clickmasters`,
   meta: `Clickmasters content marketing in Dallas-Fort Worth. Fortune 500-standard B2B content for AT&T, Toyota, Schwab vendor ecosystem and DFW technology companies. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Dallas Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-dallas/","address":{"@type":"PostalAddress","addressLocality":"Dallas","addressRegion":"TX","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4200,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN DALLAS?
 
 Content marketing in Dallas-Fort Worth is the strategic creation and distribution of commercially-targeted content for DFW-area businesses — calibrated to the Fortune 500 vendor credibility standard that AT&T, Toyota North America, Charles Schwab, and their supply chain communities apply to vendor thought leadership.
@@ -53,7 +54,33 @@ Case Study 3: Richardson Technology Company — Telecom Corridor Authority
 Client: Network infrastructure software, Richardson TX (\$6.8M ARR). Challenge: Competing against Cisco and Ericsson for the same telecom corridor B2B searches. Zero content programme.
 Programme: Telecom technology content programme + Fierce Telecom/Light Reading editorial + AT&T vocabulary content + LinkedIn (telecom procurement targeting)
 Results (10 months): Page 1 for 10 telecom infrastructure queries | Cisco/Ericsson displaced from 2 page 1 positions | Organic sessions 0 to 12,400/month | Enterprise telecom evaluations: +3x`,
-  faq: `FAQs — Content Marketing Dallas`,
+  faqTitle: `FAQs — Content Marketing Dallas`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in Dallas?",
+    "answer": "DFW content marketing: $2,200/month (Foundation) to $22,000+/month (Full Programme). Fortune 500-calibrated content standard. FINRA compliance where applicable. 90-day performance guarantee."
+  },
+  {
+    "question": "What is Texas commercial directness in content marketing?",
+    "answer": "DFW's commercial culture values directness and results-orientation — content that leads with specific metrics, supports claims with named evidence, and delivers commercial value within the first 200 words. The coastal brand-storytelling content style that prioritises narrative over substance communicates the wrong values to Dallas's commercially direct professional buyers. Texas-calibrated content is results-first, evidence-based, and respectful of the reader's time."
+  },
+  {
+    "question": "How does LinkedIn-SEO dual channel work for DFW B2B content?",
+    "answer": "DFW B2B content built for dual-channel performance: pillar content ranking on Google for Fortune 500 procurement searches AND formatted for LinkedIn long-form posting. The AT&T procurement director who finds the content in Google search AND sees the vendor's VP sharing it on LinkedIn has received two independent credibility signals simultaneously — compounding commercial trust that neither channel produces alone."
+  },
+  {
+    "question": "Does Clickmasters provide FINRA-compliant content for DFW financial services?",
+    "answer": "Yes. FINRA Rule 2210-compliant content for all DFW financial services clients. CFA/CFP-credentialled author attribution. Bloomberg/Federal Reserve data citations. No guaranteed return claims. Annual FINRA compliance review of the content library."
+  },
+  {
+    "question": "Does Clickmasters serve Fort Worth, Plano, Richardson, and DFW suburbs for content marketing?",
+    "answer": "Yes — all of DFW metro including Fort Worth, Plano, Richardson (Telecom Corridor), Frisco, McKinney, Irving (Las Colinas), and all of the Metroplex."
+  },
+  {
+    "question": "How long does Dallas B2B content marketing take to produce Fortune 500 results?",
+    "answer": "DFW Fortune 500 vendor content timelines: First Fortune 500 procurement engagement from content: 6-9 months (authority must be established before procurement searches surface it). GEO/AEO citation for DFW commercial queries: 3-5 months. LinkedIn executive thought leadership pipeline conversations: 3-6 months. The investment produces compounding returns — the AT&T procurement director who has consumed 8 months of content arrives at the first meeting pre-convinced of vendor credibility."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Dallas?","acceptedAnswer":{"@type":"Answer","text":"DFW content marketing: \$2,200/month (Foundation) to \$22,000+/month (Full Programme). Fortune 500-calibrated content standard. FINRA compliance where applicable. 90-day performance guarantee."}},{"@type":"Question","name":"What is Texas commercial directness in content marketing?","acceptedAnswer":{"@type":"Answer","text":"DFW's commercial culture values directness and results-orientation — content that leads with specific metrics, supports claims with named evidence, and delivers commercial value within the first 200 words. The coastal brand-storytelling content style that prioritises narrative over substance communicates the wrong values to Dallas's commercially direct professional buyers. Texas-calibrated content is results-first, evidence-based, and respectful of the reader's time."}},{"@type":"Question","name":"How does LinkedIn-SEO dual channel work for DFW B2B content?","acceptedAnswer":{"@type":"Answer","text":"DFW B2B content built for dual-channel performance: pillar content ranking on Google for Fortune 500 procurement searches AND formatted for LinkedIn long-form posting. The AT&T procurement director who finds the content in Google search AND sees the vendor's VP sharing it on LinkedIn has received two independent credibility signals simultaneously — compounding commercial trust that neither channel produces alone."}},{"@type":"Question","name":"Does Clickmasters provide FINRA-compliant content for DFW financial services?","acceptedAnswer":{"@type":"Answer","text":"Yes. FINRA Rule 2210-compliant content for all DFW financial services clients. CFA/CFP-credentialled author attribution. Bloomberg/Federal Reserve data citations. No guaranteed return claims. Annual FINRA compliance review of the content library."}},{"@type":"Question","name":"Does Clickmasters serve Fort Worth, Plano, Richardson, and DFW suburbs for content marketing?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of DFW metro including Fort Worth, Plano, Richardson (Telecom Corridor), Frisco, McKinney, Irving (Las Colinas), and all of the Metroplex."}},{"@type":"Question","name":"How long does Dallas B2B content marketing take to produce Fortune 500 results?","acceptedAnswer":{"@type":"Answer","text":"DFW Fortune 500 vendor content timelines: First Fortune 500 procurement engagement from content: 6-9 months (authority must be established before procurement searches surface it). GEO/AEO citation for DFW commercial queries: 3-5 months. LinkedIn executive thought leadership pipeline conversations: 3-6 months. The investment produces compounding returns — the AT&T procurement director who has consumed 8 months of content arrives at the first meeting pre-convinced of vendor credibility."}}]}`,
   cta: `Get Your Free Dallas Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-dallas/","/seo-services-dallas/","/content-marketing-chicago/","/industries/technology/","/industries/financial-services/"],
@@ -63,7 +90,7 @@ Results (10 months): Page 1 for 10 telecom infrastructure queries | Cisco/Ericss
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-dallas/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

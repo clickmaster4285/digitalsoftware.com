@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Houston.xlsx
 // Service: GoogleAds
 // City: Houston
-// Generated: 2026-06-19T12:50:26.941Z
+// URL: /google-ads-management-houston/
+// Generated: 2026-06-20T04:42:12.358Z
 
 export const GoogleAds_Houston = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "Houston",
   citySlug: "houston",
-  slug: "/locations/google-ads/houston",
+  slug: "/google-ads-management-houston/",
   
   h1: `Google Ads Management Houston — API/HSE Energy B2B PPC and Bilingual Healthcare Campaigns for Texas' Commercial Capital`,
   primaryKw: `google ads agency houston`,
@@ -16,7 +17,7 @@ export const GoogleAds_Houston = {
   seoTitle: `Google Ads Agency Houston | Energy B2B, Bilingual Healthcare & Texas | Clickmasters`,
   meta: `Clickmasters Google Ads in Houston. API/HSE vocabulary energy B2B PPC, bilingual Spanish/English healthcare, and Texas Medical Center campaigns. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Houston Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-houston/","address":{"@type":"PostalAddress","addressLocality":"Houston","addressRegion":"TX","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN HOUSTON?
 
 Google Ads management in Houston is the professional management of PPC advertising for Houston-area businesses across three commercially distinct campaign categories — Energy Corridor B2B, bilingual healthcare, and TMC professional services — each requiring expertise that most Texas Google Ads agencies cannot provide at the technical precision Houston's industries demand.
@@ -41,7 +42,33 @@ Case Study 3: TMC Health Technology Vendor — B2B Procurement PPC
 Client: Clinical informatics SaaS, Houston (\$7.4M ARR). Challenge: TMC procurement searching during vendor evaluation — company invisible.
 Programme: TMC procurement vocabulary + HIPAA tracking + health system audience signals + Salesforce import
 Results: TMC evaluation invitations: 8/quarter | Health system CPL: \$420 | Pipeline: \$2.2M | HIPAA: clean`,
-  faq: `FAQs — Google Ads Houston`,
+  faqTitle: `FAQs — Google Ads Houston`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Houston?",
+    "answer": "Houston Google Ads management: $1,400/month (Growth) to $13,000+/month (Enterprise). API/energy vocabulary expertise. HIPAA-bilingual for healthcare. Texas CPCs typically 15-25% below NYC and 10-20% below Chicago equivalents. 90-day performance guarantee."
+  },
+  {
+    "question": "What is API vocabulary Google Ads targeting for Houston energy companies?",
+    "answer": "API vocabulary targeting means building Google Ads keyword strategy around the specific API certification and procurement terms that ExxonMobil, Shell, and BP procurement staff search during vendor evaluation: 'API Q1 quality management certification,' 'API Spec 17D subsea wellhead,' 'ISNetworld approved contractor Houston,' 'TRIR 0.8 offshore safety record.' These searches represent genuine high-value commercial intent that generic 'oil and gas services' keywords don't capture."
+  },
+  {
+    "question": "Does Clickmasters run bilingual Spanish/English Google Ads for Houston healthcare?",
+    "answer": "Yes. Separate Spanish-language healthcare campaigns with South Texas-specific Spanish landing pages, HIPAA-compliant server-side tracking, appointment-booking conversion events, and medical Spanish vocabulary reviewed for Houston Mexican-American and Central American community accuracy. Spanish CPLs are typically 20-30% below English in Houston's healthcare categories."
+  },
+  {
+    "question": "Does Clickmasters serve The Woodlands, Sugar Land, and Greater Houston?",
+    "answer": "Yes — all of the Houston metropolitan area: Harris County, Fort Bend County (Sugar Land, Katy), Montgomery County (The Woodlands, Conroe), Brazoria County, Galveston County."
+  },
+  {
+    "question": "How quickly does Houston Google Ads produce energy B2B results?",
+    "answer": "Houston energy B2B Google Ads: first API vocabulary qualified clicks 7-14 days. Energy-qualified evaluation invitations measurable at 45-60 days as energy procurement audience data accumulates. Full pipeline attribution accounting for energy B2B evaluation cycles: measurable at 90-120 days."
+  },
+  {
+    "question": "How do Houston energy B2B CPCs compare to other markets?",
+    "answer": "Houston energy B2B CPCs are typically 20-30% below Aberdeen, Oslo, and London equivalent searches and 15-20% below comparable B2B categories in New York or San Francisco — while the commercial intent from Energy Corridor procurement searches is equivalent or higher. This creates above-average paid acquisition efficiency for Houston energy B2B companies."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Houston?","acceptedAnswer":{"@type":"Answer","text":"Houston Google Ads management: \$1,400/month (Growth) to \$13,000+/month (Enterprise). API/energy vocabulary expertise. HIPAA-bilingual for healthcare. Texas CPCs typically 15-25% below NYC and 10-20% below Chicago equivalents. 90-day performance guarantee."}},{"@type":"Question","name":"What is API vocabulary Google Ads targeting for Houston energy companies?","acceptedAnswer":{"@type":"Answer","text":"API vocabulary targeting means building Google Ads keyword strategy around the specific API certification and procurement terms that ExxonMobil, Shell, and BP procurement staff search during vendor evaluation: 'API Q1 quality management certification,' 'API Spec 17D subsea wellhead,' 'ISNetworld approved contractor Houston,' 'TRIR 0.8 offshore safety record.' These searches represent genuine high-value commercial intent that generic 'oil and gas services' keywords don't capture."}},{"@type":"Question","name":"Does Clickmasters run bilingual Spanish/English Google Ads for Houston healthcare?","acceptedAnswer":{"@type":"Answer","text":"Yes. Separate Spanish-language healthcare campaigns with South Texas-specific Spanish landing pages, HIPAA-compliant server-side tracking, appointment-booking conversion events, and medical Spanish vocabulary reviewed for Houston Mexican-American and Central American community accuracy. Spanish CPLs are typically 20-30% below English in Houston's healthcare categories."}},{"@type":"Question","name":"Does Clickmasters serve The Woodlands, Sugar Land, and Greater Houston?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Houston metropolitan area: Harris County, Fort Bend County (Sugar Land, Katy), Montgomery County (The Woodlands, Conroe), Brazoria County, Galveston County."}},{"@type":"Question","name":"How quickly does Houston Google Ads produce energy B2B results?","acceptedAnswer":{"@type":"Answer","text":"Houston energy B2B Google Ads: first API vocabulary qualified clicks 7-14 days. Energy-qualified evaluation invitations measurable at 45-60 days as energy procurement audience data accumulates. Full pipeline attribution accounting for energy B2B evaluation cycles: measurable at 90-120 days."}},{"@type":"Question","name":"How do Houston energy B2B CPCs compare to other markets?","acceptedAnswer":{"@type":"Answer","text":"Houston energy B2B CPCs are typically 20-30% below Aberdeen, Oslo, and London equivalent searches and 15-20% below comparable B2B categories in New York or San Francisco — while the commercial intent from Energy Corridor procurement searches is equivalent or higher. This creates above-average paid acquisition efficiency for Houston energy B2B companies."}}]}`,
   cta: `Get Your Free Houston Google Ads Audit`,
   internalLinks: ["/digital-marketing-agency-houston/","/seo-services-houston/","/google-ads-management-services/","/google-ads-management-dallas/","/industries/oil-gas/","/industries/healthcare/"],
@@ -51,7 +78,7 @@ Results: TMC evaluation invitations: 8/quarter | Health system CPL: \$420 | Pipe
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-houston/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

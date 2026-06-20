@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Minneapolis.xlsx
 // Service: GoogleAds
 // City: Minneapolis
-// Generated: 2026-06-19T12:50:27.046Z
+// URL: /google-ads-management-minneapolis/
+// Generated: 2026-06-20T04:42:12.642Z
 
 export const GoogleAds_Minneapolis = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "Minneapolis",
   citySlug: "minneapolis",
-  slug: "/locations/google-ads/minneapolis",
+  slug: "/google-ads-management-minneapolis/",
   
   h1: `Google Ads Management Minneapolis — FDA-Aware Medical Device PPC and Fortune 500 Minnesota B2B Pipeline`,
   primaryKw: `google ads agency minneapolis`,
@@ -16,7 +17,7 @@ export const GoogleAds_Minneapolis = {
   seoTitle: `Google Ads Agency Minneapolis | FDA-Aware Medical Device & Fortune 500 MN PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Minneapolis. FDA-aware medical device PPC with HIMSS vocabulary, HIPAA compliance, and Fortune 500 Minnesota B2B pipeline attribution. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Minneapolis Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-minneapolis/","address":{"@type":"PostalAddress","addressLocality":"Minneapolis","addressRegion":"MN","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN MINNEAPOLIS?
 
 Google Ads management in Minneapolis is the professional management of PPC advertising for Minneapolis-St. Paul area businesses in one of America's most commercially underserved major markets — where Medical Alley's 1,000+ device companies and Minnesota's extraordinary Fortune 500 concentration each create specific paid search opportunities that most Twin Cities Google Ads agencies cannot serve with the technical compliance depth these industries require.
@@ -39,7 +40,33 @@ Case Study 3: Minneapolis Professional Services — Fortune 500 MN B2B PPC
 Client: Management consulting firm, Minneapolis (\$6.8M revenue). Challenge: Target and 3M procurement managers searching for consulting services online — company not appearing.
 Programme: Fortune 500 procurement vocabulary + CRM integration + ISO/SOC 2 landing pages + Target/3M geo-targeting
 Results: Fortune 500-qualified enquiries: 22/month | CPL: \$220 | Pipeline from paid: \$1.8M | Target procurement evaluation: entered`,
-  faq: `FAQs — Google Ads Minneapolis`,
+  faqTitle: `FAQs — Google Ads Minneapolis`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Minneapolis?",
+    "answer": "Minneapolis Google Ads management: $1,400/month (Growth) to $13,000+/month (Enterprise). Below Chicago and NYC equivalent CPCs. FDA-aware and HIPAA compliance standard for medical/health clients. CRM pipeline attribution. 90-day performance guarantee."
+  },
+  {
+    "question": "What is HIMSS vocabulary Google Ads targeting?",
+    "answer": "HIMSS (Healthcare Information and Management Systems Society) vocabulary is the procurement and clinical language that IDN supply chain directors and health system technology officers use during commercial research. This vocabulary differs significantly from marketing vocabulary: 'remote patient monitoring interoperability Epic integration' vs 'best remote monitoring platform'. Building Google Ads keyword strategy around IDN procurement vocabulary rather than product marketing vocabulary is the key differentiator in Minneapolis Medical Alley PPC."
+  },
+  {
+    "question": "Does Clickmasters provide FDA-aware Google Ads for Minneapolis medical device companies?",
+    "answer": "Yes. Every Minneapolis medical device Google Ads campaign undergoes FDA-aware copy review before launch: no promotional claims exceeding cleared indications, no pre-approval language for investigational products, balanced clinical evidence presentation. FDA-aware ad copy earns trust from health system procurement teams that evaluate regulatory compliance as part of vendor assessment."
+  },
+  {
+    "question": "Does Clickmasters serve St. Paul, Eden Prairie, Plymouth, and the Twin Cities metro for Google Ads?",
+    "answer": "Yes — all of Minneapolis-St. Paul metropolitan area: Hennepin County, Ramsey County, Washington County, Dakota County, Anoka County, and the Medical Alley corridor."
+  },
+  {
+    "question": "How quickly does Minneapolis Google Ads produce Medical Alley results?",
+    "answer": "Minneapolis Medical Alley Google Ads: first IDN vocabulary impressions 7-14 days. HIMSS-qualified evaluation invitations measurable at 45-60 days as IDN procurement audience data accumulates. Full pipeline attribution with health system procurement evaluation cycles: measurable at 90-120 days."
+  },
+  {
+    "question": "How do Minneapolis Medical Alley CPCs compare to other markets?",
+    "answer": "Minneapolis Medical Alley CPCs are typically 15-20% below Chicago and 25-30% below Boston/NYC equivalents for equivalent health IT and medical device procurement searches. Minnesota's commercial digital marketing investment in the medical device category has not yet caught up with its commercial growth level — creating an efficiency window for Medical Alley companies that invest now."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Minneapolis?","acceptedAnswer":{"@type":"Answer","text":"Minneapolis Google Ads management: \$1,400/month (Growth) to \$13,000+/month (Enterprise). Below Chicago and NYC equivalent CPCs. FDA-aware and HIPAA compliance standard for medical/health clients. CRM pipeline attribution. 90-day performance guarantee."}},{"@type":"Question","name":"What is HIMSS vocabulary Google Ads targeting?","acceptedAnswer":{"@type":"Answer","text":"HIMSS (Healthcare Information and Management Systems Society) vocabulary is the procurement and clinical language that IDN supply chain directors and health system technology officers use during commercial research. This vocabulary differs significantly from marketing vocabulary: 'remote patient monitoring interoperability Epic integration' vs 'best remote monitoring platform'. Building Google Ads keyword strategy around IDN procurement vocabulary rather than product marketing vocabulary is the key differentiator in Minneapolis Medical Alley PPC."}},{"@type":"Question","name":"Does Clickmasters provide FDA-aware Google Ads for Minneapolis medical device companies?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every Minneapolis medical device Google Ads campaign undergoes FDA-aware copy review before launch: no promotional claims exceeding cleared indications, no pre-approval language for investigational products, balanced clinical evidence presentation. FDA-aware ad copy earns trust from health system procurement teams that evaluate regulatory compliance as part of vendor assessment."}},{"@type":"Question","name":"Does Clickmasters serve St. Paul, Eden Prairie, Plymouth, and the Twin Cities metro for Google Ads?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Minneapolis-St. Paul metropolitan area: Hennepin County, Ramsey County, Washington County, Dakota County, Anoka County, and the Medical Alley corridor."}},{"@type":"Question","name":"How quickly does Minneapolis Google Ads produce Medical Alley results?","acceptedAnswer":{"@type":"Answer","text":"Minneapolis Medical Alley Google Ads: first IDN vocabulary impressions 7-14 days. HIMSS-qualified evaluation invitations measurable at 45-60 days as IDN procurement audience data accumulates. Full pipeline attribution with health system procurement evaluation cycles: measurable at 90-120 days."}},{"@type":"Question","name":"How do Minneapolis Medical Alley CPCs compare to other markets?","acceptedAnswer":{"@type":"Answer","text":"Minneapolis Medical Alley CPCs are typically 15-20% below Chicago and 25-30% below Boston/NYC equivalents for equivalent health IT and medical device procurement searches. Minnesota's commercial digital marketing investment in the medical device category has not yet caught up with its commercial growth level — creating an efficiency window for Medical Alley companies that invest now."}}]}`,
   cta: `Get Your Free Minneapolis Google Ads Audit`,
   internalLinks: ["/digital-marketing-agency-minneapolis/","/seo-services-minneapolis/","/google-ads-management-services/","/google-ads-management-chicago/","/industries/medical-devices/","/industries/healthcare-tech/"],
@@ -49,7 +76,7 @@ Results: Fortune 500-qualified enquiries: 22/month | CPL: \$220 | Pipeline from 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-minneapolis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

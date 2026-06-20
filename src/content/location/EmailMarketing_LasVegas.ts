@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-LasVegas.xlsx
 // Service: EmailMarketing
 // City: LasVegas
-// Generated: 2026-06-19T12:50:26.476Z
+// URL: /email-marketing-las-vegas/
+// Generated: 2026-06-20T04:42:11.949Z
 
 export const EmailMarketing_LasVegas = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "LasVegas",
   citySlug: "las-vegas",
-  slug: "/locations/email-marketing/las-vegas",
+  slug: "/email-marketing-las-vegas/",
   
   h1: `Email Marketing Las Vegas — Gaming Enterprise Pipeline, CA In-Migration Professional Onboarding, and Nevada Commercial Revenue`,
   primaryKw: `email marketing agency las vegas`,
@@ -16,7 +17,7 @@ export const EmailMarketing_LasVegas = {
   seoTitle: `Email Marketing Agency Las Vegas | Gaming Pipeline & CA In-Migration Onboarding | Clickmasters`,
   meta: `Clickmasters email marketing in Las Vegas. Gaming enterprise MGM/Caesars HubSpot pipeline nurture, CA in-migration professional onboarding, and Nevada commercial email revenue. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Las Vegas Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-las-vegas/","address":{"@type":"PostalAddress","addressLocality":"Las Vegas","addressRegion":"NV","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN LAS VEGAS?
 
 Email marketing in Las Vegas is the strategic management of email as a gaming enterprise B2B pipeline channel, California in-migration professional onboarding revenue channel, and Nevada commercial advantage content channel for Las Vegas-area businesses.
@@ -50,7 +51,33 @@ Case Study 3: Las Vegas Estate Planning Firm — Nevada Commercial Advantage Ema
 Client: Estate planning firm (6 attorneys). Challenge: No Nevada commercial advantage content. CA in-migration subscribers not engaging generic legal newsletter.
 Programme: Monthly Nevada commercial intelligence + CA-to-NV relocation content + Nevada LLC/trust law updates + Nevada estate planning library
 Results: Newsletter engagement: 2.8x above generic legal | CA in-migration estate planning conversions from email: 44/year | Revenue from email programme: +\$380K`,
-  faq: `FAQs — Email Marketing Las Vegas`,
+  faqTitle: `FAQs — Email Marketing Las Vegas`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Las Vegas?",
+    "answer": "Las Vegas email marketing: $700/month (Foundation) to $8,000+/month (Enterprise). Gaming enterprise HubSpot pipeline. CA in-migration 5-stage onboarding. Nevada commercial advantage content. FINRA for financial. Nevada retainers below California equivalents. 90-day guarantee."
+  },
+  {
+    "question": "What is the CA in-migration 5-stage Nevada professional onboarding email?",
+    "answer": "The 5-stage CA-to-NV onboarding sequence addresses the specific transition needs of Las Vegas's California-origin residential community: California vs Nevada 0% state income tax immediate savings, RSU equity compensation Nevada planning implications, Nevada healthcare provider navigation for CA-origin professionals, Nevada estate planning vs California Proposition 19, and Nevada business entity review. Earns 3-4x above-average engagement from CA in-migration professionals vs generic welcome email."
+  },
+  {
+    "question": "What is gaming enterprise HubSpot email for Las Vegas technology companies?",
+    "answer": "Gaming enterprise HubSpot email maintains MGM/Caesars/Wynn/Station procurement relationship continuity through 90-180 day gaming enterprise evaluation cycles with casino-operational vocabulary content: revenue management system ROI methodology, gaming regulatory compliance process efficiency, hospitality SaaS operational value. Named account sequences with deal-stage automation for gaming enterprise procurement cycles."
+  },
+  {
+    "question": "Does Clickmasters serve Henderson, Summerlin, North Las Vegas, and Greater Las Vegas?",
+    "answer": "Yes — all of Clark County and Greater Las Vegas MSA."
+  },
+  {
+    "question": "How long does Las Vegas gaming enterprise email produce MGM/Caesars pipeline results?",
+    "answer": "MGM/Caesars re-engagement from gaming-operational vocabulary email: 14-30 days. Gaming enterprise evaluation invitations from nurtured contacts: 60-90 days. Full gaming enterprise pipeline contribution: 5-8 months."
+  },
+  {
+    "question": "How long does CA in-migration email onboarding produce Henderson/Summerlin professional client conversions?",
+    "answer": "CA in-migration professional engagement from Nevada-specific transition content: 3-7 days. Client conversion rate from 5-stage onboarding: 35-40% within 90 days. Annual in-migration professional client acquisition from email: measurable at 6-9 months."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Las Vegas?","acceptedAnswer":{"@type":"Answer","text":"Las Vegas email marketing: \$700/month (Foundation) to \$8,000+/month (Enterprise). Gaming enterprise HubSpot pipeline. CA in-migration 5-stage onboarding. Nevada commercial advantage content. FINRA for financial. Nevada retainers below California equivalents. 90-day guarantee."}},{"@type":"Question","name":"What is the CA in-migration 5-stage Nevada professional onboarding email?","acceptedAnswer":{"@type":"Answer","text":"The 5-stage CA-to-NV onboarding sequence addresses the specific transition needs of Las Vegas's California-origin residential community: California vs Nevada 0% state income tax immediate savings, RSU equity compensation Nevada planning implications, Nevada healthcare provider navigation for CA-origin professionals, Nevada estate planning vs California Proposition 19, and Nevada business entity review. Earns 3-4x above-average engagement from CA in-migration professionals vs generic welcome email."}},{"@type":"Question","name":"What is gaming enterprise HubSpot email for Las Vegas technology companies?","acceptedAnswer":{"@type":"Answer","text":"Gaming enterprise HubSpot email maintains MGM/Caesars/Wynn/Station procurement relationship continuity through 90-180 day gaming enterprise evaluation cycles with casino-operational vocabulary content: revenue management system ROI methodology, gaming regulatory compliance process efficiency, hospitality SaaS operational value. Named account sequences with deal-stage automation for gaming enterprise procurement cycles."}},{"@type":"Question","name":"Does Clickmasters serve Henderson, Summerlin, North Las Vegas, and Greater Las Vegas?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Clark County and Greater Las Vegas MSA."}},{"@type":"Question","name":"How long does Las Vegas gaming enterprise email produce MGM/Caesars pipeline results?","acceptedAnswer":{"@type":"Answer","text":"MGM/Caesars re-engagement from gaming-operational vocabulary email: 14-30 days. Gaming enterprise evaluation invitations from nurtured contacts: 60-90 days. Full gaming enterprise pipeline contribution: 5-8 months."}},{"@type":"Question","name":"How long does CA in-migration email onboarding produce Henderson/Summerlin professional client conversions?","acceptedAnswer":{"@type":"Answer","text":"CA in-migration professional engagement from Nevada-specific transition content: 3-7 days. Client conversion rate from 5-stage onboarding: 35-40% within 90 days. Annual in-migration professional client acquisition from email: measurable at 6-9 months."}}]}`,
   cta: `Get Your Free Las Vegas Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-las-vegas/","/seo-services-las-vegas/","/email-marketing-phoenix/"],
@@ -60,7 +87,7 @@ Results: Newsletter engagement: 2.8x above generic legal | CA in-migration estat
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-las-vegas/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

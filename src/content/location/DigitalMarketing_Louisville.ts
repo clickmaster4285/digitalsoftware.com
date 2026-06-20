@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Louisville.xlsx
 // Service: DigitalMarketing
 // City: Louisville
-// Generated: 2026-06-19T12:50:25.767Z
+// URL: /digital-marketing-agency-louisville/
+// Generated: 2026-06-20T04:42:11.374Z
 
 export const DigitalMarketing_Louisville = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Louisville",
   citySlug: "louisville",
-  slug: "/locations/digital-marketing/louisville",
+  slug: "/digital-marketing-agency-louisville/",
   
   h1: `Digital Marketing Agency Louisville — Humana Revenue, GE Appliances Manufacturing, Churchill Downs Hospitality, and Derby City Commercial Growth`,
   primaryKw: `digital marketing agency louisville`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_Louisville = {
   seoTitle: `Digital Marketing Agency Louisville | Humana Health Insurance & GE Appliances Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Louisville. Humana Medicare Advantage health insurance revenue, GE Appliances manufacturing B2B, Churchill Downs hospitality/gaming, and UofL Health/Norton YMYL. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Louisville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-louisville/","address":{"@type":"PostalAddress","addressLocality":"Louisville","addressRegion":"KY","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3800,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN LOUISVILLE?
 
 A Louisville digital marketing agency manages digital channels for Derby City businesses across four commercially distinct sectors.
@@ -43,7 +44,33 @@ Case Study 3: Louisville Financial Advisory — Kentucky Derby Seasonal Full Pro
 Client: Fee-only RIA, Louisville (\$180M AUM). Challenge: Kentucky Derby seasonal opportunity unaddressed. Derby professional community not reaching.
 Programme: SEO (Derby City professional vocabulary) + email (Derby May seasonal programme) + Google Ads
 Results (11 months): Derby season leads: +3x | New Derby professional AUM: \$12M | FINRA: clean`,
-  faq: `FAQs — Digital Marketing Louisville`,
+  faqTitle: `FAQs — Digital Marketing Louisville`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Louisville?",
+    "answer": "Louisville digital marketing: $1,100/month (single channel) to $12,000+/month (enterprise). Humana Medicare Advantage/Stars health insurance. GE Appliances manufacturing. Churchill Downs hospitality/gaming. UofL Health YMYL. Kentucky retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What makes Humana digital marketing unique for Louisville businesses?",
+    "answer": "Humana's Louisville headquarters — one of the US's largest Medicare Advantage health insurance companies — creates a health insurance technology B2B digital marketing community evaluating vendor content against Medicare Advantage operational specificity. Stars ratings quality programme analytics, value-based care measurement platform, Medicare Advantage member engagement technology — vocabulary unique to Louisville's most commercially significant healthcare enterprise."
+  },
+  {
+    "question": "What is the Kentucky Derby seasonal digital marketing opportunity for Louisville businesses?",
+    "answer": "Churchill Downs' Kentucky Derby (first Saturday in May) creates the most commercially recognisable seasonal digital marketing opportunity in Kentucky. Louisville businesses with authentic Derby City vocabulary — Churchill Downs infield culture, thoroughbred racing analytics, mint julep heritage, Barnstable Brown Gala — earn above-average organic and social engagement from the national and international Derby audience during Louisville's most commercially active season."
+  },
+  {
+    "question": "Does Clickmasters serve St. Matthews, Jeffersontown, Shelbyville, and Greater Louisville?",
+    "answer": "Yes — all of Greater Louisville MSA: Jefferson County, Oldham County, Bullitt County."
+  },
+  {
+    "question": "What is GE Appliances manufacturing digital marketing for Louisville businesses?",
+    "answer": "GE Appliances manufacturing digital marketing demonstrates manufacturing technology, industrial IoT integration, smart home analytics, and Louisville manufacturing supply chain optimisation — reaching GE Appliances' largest US campus manufacturing engineering and procurement community."
+  },
+  {
+    "question": "How does GEO/AEO affect Louisville digital marketing?",
+    "answer": "Humana's Medicare Advantage technology community and GE Appliances' manufacturing engineering community use AI search for vendor research. First-mover GEO/AEO for Louisville Humana Stars ratings and GE Appliances vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Louisville?","acceptedAnswer":{"@type":"Answer","text":"Louisville digital marketing: \$1,100/month (single channel) to \$12,000+/month (enterprise). Humana Medicare Advantage/Stars health insurance. GE Appliances manufacturing. Churchill Downs hospitality/gaming. UofL Health YMYL. Kentucky retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What makes Humana digital marketing unique for Louisville businesses?","acceptedAnswer":{"@type":"Answer","text":"Humana's Louisville headquarters — one of the US's largest Medicare Advantage health insurance companies — creates a health insurance technology B2B digital marketing community evaluating vendor content against Medicare Advantage operational specificity. Stars ratings quality programme analytics, value-based care measurement platform, Medicare Advantage member engagement technology — vocabulary unique to Louisville's most commercially significant healthcare enterprise."}},{"@type":"Question","name":"What is the Kentucky Derby seasonal digital marketing opportunity for Louisville businesses?","acceptedAnswer":{"@type":"Answer","text":"Churchill Downs' Kentucky Derby (first Saturday in May) creates the most commercially recognisable seasonal digital marketing opportunity in Kentucky. Louisville businesses with authentic Derby City vocabulary — Churchill Downs infield culture, thoroughbred racing analytics, mint julep heritage, Barnstable Brown Gala — earn above-average organic and social engagement from the national and international Derby audience during Louisville's most commercially active season."}},{"@type":"Question","name":"Does Clickmasters serve St. Matthews, Jeffersontown, Shelbyville, and Greater Louisville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Louisville MSA: Jefferson County, Oldham County, Bullitt County."}},{"@type":"Question","name":"What is GE Appliances manufacturing digital marketing for Louisville businesses?","acceptedAnswer":{"@type":"Answer","text":"GE Appliances manufacturing digital marketing demonstrates manufacturing technology, industrial IoT integration, smart home analytics, and Louisville manufacturing supply chain optimisation — reaching GE Appliances' largest US campus manufacturing engineering and procurement community."}},{"@type":"Question","name":"How does GEO/AEO affect Louisville digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Humana's Medicare Advantage technology community and GE Appliances' manufacturing engineering community use AI search for vendor research. First-mover GEO/AEO for Louisville Humana Stars ratings and GE Appliances vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Louisville Digital Marketing Audit`,
   internalLinks: ["/seo-services-louisville/","/digital-marketing-agency-usa/","/digital-marketing-agency-nashville/","/digital-marketing-agency-cincinnati/"],
@@ -53,7 +80,7 @@ Results (11 months): Derby season leads: +3x | New Derby professional AUM: \$12M
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-louisville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

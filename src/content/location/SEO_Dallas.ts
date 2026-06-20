@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Dallas.xlsx
 // Service: SEO
 // City: Dallas
-// Generated: 2026-06-19T12:50:27.895Z
+// URL: /seo-services-dallas/
+// Generated: 2026-06-20T04:42:13.596Z
 
 export const SEO_Dallas = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Dallas",
   citySlug: "dallas",
-  slug: "/locations/seo/dallas",
+  slug: "/seo-services-dallas/",
   
   h1: `SEO Services Dallas — Fortune 500 DFW Vendor Organic Authority for Texas' Corporate Capital`,
   primaryKw: `seo services dallas`,
@@ -16,7 +17,7 @@ export const SEO_Dallas = {
   seoTitle: `SEO Services Dallas | Fortune 500 DFW Vendor Authority & Texas | Clickmasters`,
   meta: `Clickmasters SEO in Dallas-Fort Worth. Fortune 500 vendor organic authority for AT&T, Toyota, Schwab ecosystem and DFW technology companies. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Dallas SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-dallas/","address":{"@type":"PostalAddress","addressLocality":"Dallas","addressRegion":"TX","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS SEO IN DALLAS?
 
 SEO in Dallas-Fort Worth is the practice of building organic search authority for DFW-area businesses in America's most relocated Fortune 500 corporate market — where AT&T, Toyota North America, Charles Schwab, CBRE, and McKesson have imported the commercial digital standards of New York, Chicago, and San Jose into Texas' largest metropolitan economy.
@@ -41,7 +42,33 @@ Case Study 3: Irving Technology Company — Las Colinas B2B Authority
 Client: IT consulting, Las Colinas Irving (\$6.8M). Challenge: Las Colinas Fortune 500 campus community not finding Dallas-based IT consultants.
 Programme: Las Colinas geographic specificity + Fortune 500 operations vocabulary + CRM attribution + Dallas Business Journal editorial
 Results (9 months): Page 1 for 11 Las Colinas/Irving IT consulting queries | Fortune 500 Las Colinas campus evaluations: +3x | Pipeline: \$2.4M | DBJ editorial: 2`,
-  faq: `FAQs — SEO Dallas`,
+  faqTitle: `FAQs — SEO Dallas`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Dallas?",
+    "answer": "Dallas SEO: $1,800/month (growth) to $18,000+/month (enterprise). Fortune 500 procurement vocabulary accuracy. FINRA for financial services. Below New York and San Francisco equivalent costs. 90-day performance guarantee."
+  },
+  {
+    "question": "What is Fortune 500 procurement vocabulary SEO for Dallas?",
+    "answer": "Fortune 500 procurement vocabulary SEO means building content around the operational and commercial terms that AT&T, Toyota, Schwab, and CBRE procurement officers use during vendor research — not the marketing language the vendor uses. The DFW IT company that has published 14 pieces about AT&T's specific network infrastructure challenges is discovered by AT&T's new procurement lead; the company publishing 'IT consulting services Dallas' content is not."
+  },
+  {
+    "question": "Does Clickmasters provide FINRA-compliant SEO for DFW financial services?",
+    "answer": "Yes. FINRA Rule 2210-compliant investment content for all DFW financial advisory SEO clients. CFA-authored investment content. Bloomberg/Federal Reserve data citations. No guaranteed return claims. GIPS-compliant performance references. Texas State Securities Board compliance awareness."
+  },
+  {
+    "question": "Does Clickmasters serve Fort Worth, Plano, Frisco, and DFW suburbs?",
+    "answer": "Yes — all of DFW metro including Fort Worth, Plano, Frisco, McKinney, Allen, Richardson (Telecom Corridor), Irving (Las Colinas), and all of the Metroplex."
+  },
+  {
+    "question": "How long does Dallas SEO take?",
+    "answer": "Dallas Fortune 500 B2B content: first procurement vocabulary rankings 4-7 months. Telecom Corridor technology: 4-7 months. Professional services: 3-5 months. DFW is faster than New York or Chicago but competitive pressure from out-of-market companies is growing."
+  },
+  {
+    "question": "How does GEO/AEO affect Dallas SEO in 2026?",
+    "answer": "DFW's Fortune 500 corporate community is among the most commercially active AI search users in Texas. When an AT&T procurement director asks ChatGPT for recommended enterprise integration software vendors in Dallas, or a Toyota supply chain manager asks Perplexity for management consultants specialising in automotive operations in DFW, the companies with GEO and AEO signals appear in those answers."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Dallas?","acceptedAnswer":{"@type":"Answer","text":"Dallas SEO: \$1,800/month (growth) to \$18,000+/month (enterprise). Fortune 500 procurement vocabulary accuracy. FINRA for financial services. Below New York and San Francisco equivalent costs. 90-day performance guarantee."}},{"@type":"Question","name":"What is Fortune 500 procurement vocabulary SEO for Dallas?","acceptedAnswer":{"@type":"Answer","text":"Fortune 500 procurement vocabulary SEO means building content around the operational and commercial terms that AT&T, Toyota, Schwab, and CBRE procurement officers use during vendor research — not the marketing language the vendor uses. The DFW IT company that has published 14 pieces about AT&T's specific network infrastructure challenges is discovered by AT&T's new procurement lead; the company publishing 'IT consulting services Dallas' content is not."}},{"@type":"Question","name":"Does Clickmasters provide FINRA-compliant SEO for DFW financial services?","acceptedAnswer":{"@type":"Answer","text":"Yes. FINRA Rule 2210-compliant investment content for all DFW financial advisory SEO clients. CFA-authored investment content. Bloomberg/Federal Reserve data citations. No guaranteed return claims. GIPS-compliant performance references. Texas State Securities Board compliance awareness."}},{"@type":"Question","name":"Does Clickmasters serve Fort Worth, Plano, Frisco, and DFW suburbs?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of DFW metro including Fort Worth, Plano, Frisco, McKinney, Allen, Richardson (Telecom Corridor), Irving (Las Colinas), and all of the Metroplex."}},{"@type":"Question","name":"How long does Dallas SEO take?","acceptedAnswer":{"@type":"Answer","text":"Dallas Fortune 500 B2B content: first procurement vocabulary rankings 4-7 months. Telecom Corridor technology: 4-7 months. Professional services: 3-5 months. DFW is faster than New York or Chicago but competitive pressure from out-of-market companies is growing."}},{"@type":"Question","name":"How does GEO/AEO affect Dallas SEO in 2026?","acceptedAnswer":{"@type":"Answer","text":"DFW's Fortune 500 corporate community is among the most commercially active AI search users in Texas. When an AT&T procurement director asks ChatGPT for recommended enterprise integration software vendors in Dallas, or a Toyota supply chain manager asks Perplexity for management consultants specialising in automotive operations in DFW, the companies with GEO and AEO signals appear in those answers."}}]}`,
   cta: `Get Your Free Dallas SEO Audit`,
   internalLinks: ["/digital-marketing-agency-dallas/","/seo-services/","/seo-services-houston/","/seo-services-austin/","/industries/technology/","/industries/financial-services/"],
@@ -51,7 +78,7 @@ Results (9 months): Page 1 for 11 Las Colinas/Irving IT consulting queries | For
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-dallas/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

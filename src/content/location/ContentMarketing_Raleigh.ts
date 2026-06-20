@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-Raleigh.xlsx
 // Service: ContentMarketing
 // City: Raleigh
-// Generated: 2026-06-19T12:50:25.406Z
+// URL: /content-marketing-raleigh/
+// Generated: 2026-06-20T04:42:10.909Z
 
 export const ContentMarketing_Raleigh = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "Raleigh",
   citySlug: "raleigh",
-  slug: "/locations/content-marketing/raleigh",
+  slug: "/content-marketing-raleigh/",
   
   h1: `Content Marketing Raleigh — RTP Pharma FDA Content Authority, Red Hat Enterprise, and Duke/UNC YMYL Academic Medical`,
   primaryKw: `content marketing agency raleigh`,
@@ -16,7 +17,7 @@ export const ContentMarketing_Raleigh = {
   seoTitle: `Content Marketing Raleigh | RTP Pharma FDA Authority & Duke/UNC YMYL | Clickmasters`,
   meta: `Clickmasters content marketing in Raleigh. Research Triangle Park pharmaceutical FDA authority, Cisco/Red Hat enterprise community, and Duke/UNC YMYL academic medical content. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Raleigh Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-raleigh/","address":{"@type":"PostalAddress","addressLocality":"Raleigh","addressRegion":"NC","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN RALEIGH?
 
 Content marketing in Raleigh-Durham is the strategic creation of FDA-aware pharmaceutical clinical authority content, Cisco/Red Hat enterprise technology community content, and Duke/UNC YMYL academic healthcare content for Research Triangle businesses.
@@ -50,7 +51,33 @@ Case Study 3: Cary Healthcare Technology — Duke/UNC YMYL Content Programme
 Client: Clinical analytics, Cary (\$6.4M ARR). Challenge: Non-YMYL content. Duke Health/UNC vocabulary absent.
 Programme: Duke DCRI vocabulary + UNC Health clinical content + YMYL E-E-A-T + HIPAA analytics + GEO/AEO
 Results (10 months): Page 1 for 10 Triangle health IT queries | YMYL: E-E-A-T recognised | Duke Health evaluation: entered | Pipeline: \$1.8M`,
-  faq: `FAQs — Content Marketing Raleigh`,
+  faqTitle: `FAQs — Content Marketing Raleigh`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in Raleigh?",
+    "answer": "Raleigh content marketing: $1,200/month (Foundation) to $11,000+/month (Full Programme). RTP pharma FDA-aware content. Red Hat/Cisco enterprise community. Duke/UNC YMYL healthcare. North Carolina retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is FDA-aware pharmaceutical content marketing for Raleigh businesses?",
+    "answer": "FDA-aware pharmaceutical content integrates FDA promotional content review for every piece: no off-label efficacy claims, balanced evidence presentation in clinical data content, IRB-aware clinical research methodology descriptions. CMC regulatory content library, Phase I-III trial operational management analysis, FDA 483 response strategy content. The FDA-compliant pharmaceutical content library that earns Biogen, GSK, and Novo Nordisk pre-engagement organic authority in Research Triangle Park."
+  },
+  {
+    "question": "What is Red Hat/Cisco enterprise open source content for Raleigh businesses?",
+    "answer": "Red Hat enterprise content demonstrates OpenShift, Ansible, and RHEL operational precision at the technical depth that Red Hat's Durham corporate community evaluates. Cisco networking content demonstrates SD-WAN, network automation, and enterprise security operational vocabulary at Cisco RTP's enterprise procurement evaluation standard."
+  },
+  {
+    "question": "Does Clickmasters serve Durham, Chapel Hill, Cary, and Greater Triangle?",
+    "answer": "Yes — all of the Research Triangle."
+  },
+  {
+    "question": "How long does Raleigh RTP pharmaceutical content produce Biogen/GSK results?",
+    "answer": "FDA-aware pharma vocabulary rankings: 5-8 months. BioNorth Carolina/PDA editorial: 3-5 months. Biogen/GSK organic discovery: 7-12 months. GEO/AEO pharma AI citations: 4-7 months."
+  },
+  {
+    "question": "How does GEO/AEO affect Raleigh content marketing?",
+    "answer": "RTP pharmaceutical and technology professional communities are above-average AI search adopters. When Biogen asks ChatGPT for Phase II CROs in Durham NC, or a Red Hat executive asks Perplexity for open source enterprise consultants in Raleigh, first-mover GEO/AEO content appears in those answers."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Raleigh?","acceptedAnswer":{"@type":"Answer","text":"Raleigh content marketing: \$1,200/month (Foundation) to \$11,000+/month (Full Programme). RTP pharma FDA-aware content. Red Hat/Cisco enterprise community. Duke/UNC YMYL healthcare. North Carolina retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is FDA-aware pharmaceutical content marketing for Raleigh businesses?","acceptedAnswer":{"@type":"Answer","text":"FDA-aware pharmaceutical content integrates FDA promotional content review for every piece: no off-label efficacy claims, balanced evidence presentation in clinical data content, IRB-aware clinical research methodology descriptions. CMC regulatory content library, Phase I-III trial operational management analysis, FDA 483 response strategy content. The FDA-compliant pharmaceutical content library that earns Biogen, GSK, and Novo Nordisk pre-engagement organic authority in Research Triangle Park."}},{"@type":"Question","name":"What is Red Hat/Cisco enterprise open source content for Raleigh businesses?","acceptedAnswer":{"@type":"Answer","text":"Red Hat enterprise content demonstrates OpenShift, Ansible, and RHEL operational precision at the technical depth that Red Hat's Durham corporate community evaluates. Cisco networking content demonstrates SD-WAN, network automation, and enterprise security operational vocabulary at Cisco RTP's enterprise procurement evaluation standard."}},{"@type":"Question","name":"Does Clickmasters serve Durham, Chapel Hill, Cary, and Greater Triangle?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Research Triangle."}},{"@type":"Question","name":"How long does Raleigh RTP pharmaceutical content produce Biogen/GSK results?","acceptedAnswer":{"@type":"Answer","text":"FDA-aware pharma vocabulary rankings: 5-8 months. BioNorth Carolina/PDA editorial: 3-5 months. Biogen/GSK organic discovery: 7-12 months. GEO/AEO pharma AI citations: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect Raleigh content marketing?","acceptedAnswer":{"@type":"Answer","text":"RTP pharmaceutical and technology professional communities are above-average AI search adopters. When Biogen asks ChatGPT for Phase II CROs in Durham NC, or a Red Hat executive asks Perplexity for open source enterprise consultants in Raleigh, first-mover GEO/AEO content appears in those answers."}}]}`,
   cta: `Get Your Free Raleigh Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-raleigh/","/seo-services-raleigh/","/content-marketing-charlotte/"],
@@ -60,7 +87,7 @@ Results (10 months): Page 1 for 10 Triangle health IT queries | YMYL: E-E-A-T re
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-raleigh/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

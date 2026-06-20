@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Tulsa.xlsx
 // Service: DigitalMarketing
 // City: Tulsa
-// Generated: 2026-06-19T12:50:26.268Z
+// URL: /digital-marketing-agency-tulsa/
+// Generated: 2026-06-20T04:42:11.631Z
 
 export const DigitalMarketing_Tulsa = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Tulsa",
   citySlug: "tulsa",
-  slug: "/locations/digital-marketing/tulsa",
+  slug: "/digital-marketing-agency-tulsa/",
   
   h1: `Digital Marketing Agency Tulsa — Williams/ONEOK Midstream Revenue, BOK Financial FINRA, Saint Francis YMYL, and Oil Capital Commercial Growth`,
   primaryKw: `digital marketing agency tulsa`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_Tulsa = {
   seoTitle: `Digital Marketing Agency Tulsa | Williams/ONEOK Midstream Revenue & BOK FINRA | Clickmasters`,
   meta: `Clickmasters digital marketing in Tulsa. Williams/ONEOK midstream natural gas revenue, BOK Financial FINRA banking, Saint Francis/OU Medicine YMYL, and QuikTrip retail. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tulsa Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-tulsa/","address":{"@type":"PostalAddress","addressLocality":"Tulsa","addressRegion":"OK","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN TULSA?
 
 A Tulsa digital marketing agency manages digital channels for Oil Capital businesses across four commercially distinct sectors.
@@ -43,7 +44,33 @@ Case Study 3: Tulsa Healthcare Technology — Saint Francis/OU Medicine Full Pro
 Client: Clinical analytics, Tulsa (\$4.8M). Challenge: Saint Francis/OU Medicine vocabulary absent. Non-HIPAA.
 Programme: SEO (Saint Francis/OU Medicine vocabulary) + HIPAA rebuild + YMYL E-E-A-T
 Results (11 months): Page 1 for 9 Tulsa health IT queries | Saint Francis: evaluation | YMYL: E-E-A-T | Pipeline: \$1.0M`,
-  faq: `FAQs — Digital Marketing Tulsa`,
+  faqTitle: `FAQs — Digital Marketing Tulsa`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Tulsa?",
+    "answer": "Tulsa digital marketing: $1,000/month (single channel) to $11,000+/month (enterprise). Williams/ONEOK midstream natural gas vocabulary. BOK Financial FINRA banking. Saint Francis/OU Medicine YMYL. Oklahoma retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What makes Williams/ONEOK midstream digital marketing unique for Tulsa businesses?",
+    "answer": "Williams Companies and ONEOK together operate the US's most extensive midstream natural gas infrastructure outside Texas. Williams' Transco pipeline (the US's largest natural gas pipeline by volume) and ONEOK's NGL fractionation network create a midstream energy B2B digital marketing vocabulary unique to Tulsa — the only US city where both the nation's Transco pipeline operator and a premier NGL company are headquartered."
+  },
+  {
+    "question": "Does Clickmasters serve Broken Arrow, Owasso, Bixby, and Greater Tulsa?",
+    "answer": "Yes — all of Greater Tulsa MSA: Tulsa, Rogers, Wagoner, Osage, and Creek Counties."
+  },
+  {
+    "question": "What is BOK Financial FINRA banking digital marketing for Tulsa businesses?",
+    "answer": "BOK Financial digital marketing demonstrates $50+ billion asset regional banking vocabulary: commercial banking technology, wealth management platform specifics, mortgage analytics, and the FINRA-compliant financial content that earns BOK Financial's Tulsa headquarters procurement consideration."
+  },
+  {
+    "question": "What is the authentic Tulsa commercial identity beyond oil and gas?",
+    "answer": "Tulsa's Blue Dome entertainment district, Brookside's independent food and retail community, Cherry Street's arts and dining neighbourhood, and the Gathering Place (one of the US's largest privately funded parks) — combined with Tulsa's remarkable Art Deco architectural heritage — create a distinctive Oklahoma commercial identity that authentic Tulsa-rooted brands can leverage."
+  },
+  {
+    "question": "How does GEO/AEO affect Tulsa digital marketing?",
+    "answer": "Williams' digital operations community and ONEOK's technology community use AI search for vendor research. First-mover GEO/AEO for Tulsa Williams Transco/ONEOK NGL vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Tulsa?","acceptedAnswer":{"@type":"Answer","text":"Tulsa digital marketing: \$1,000/month (single channel) to \$11,000+/month (enterprise). Williams/ONEOK midstream natural gas vocabulary. BOK Financial FINRA banking. Saint Francis/OU Medicine YMYL. Oklahoma retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What makes Williams/ONEOK midstream digital marketing unique for Tulsa businesses?","acceptedAnswer":{"@type":"Answer","text":"Williams Companies and ONEOK together operate the US's most extensive midstream natural gas infrastructure outside Texas. Williams' Transco pipeline (the US's largest natural gas pipeline by volume) and ONEOK's NGL fractionation network create a midstream energy B2B digital marketing vocabulary unique to Tulsa — the only US city where both the nation's Transco pipeline operator and a premier NGL company are headquartered."}},{"@type":"Question","name":"Does Clickmasters serve Broken Arrow, Owasso, Bixby, and Greater Tulsa?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Tulsa MSA: Tulsa, Rogers, Wagoner, Osage, and Creek Counties."}},{"@type":"Question","name":"What is BOK Financial FINRA banking digital marketing for Tulsa businesses?","acceptedAnswer":{"@type":"Answer","text":"BOK Financial digital marketing demonstrates \$50+ billion asset regional banking vocabulary: commercial banking technology, wealth management platform specifics, mortgage analytics, and the FINRA-compliant financial content that earns BOK Financial's Tulsa headquarters procurement consideration."}},{"@type":"Question","name":"What is the authentic Tulsa commercial identity beyond oil and gas?","acceptedAnswer":{"@type":"Answer","text":"Tulsa's Blue Dome entertainment district, Brookside's independent food and retail community, Cherry Street's arts and dining neighbourhood, and the Gathering Place (one of the US's largest privately funded parks) — combined with Tulsa's remarkable Art Deco architectural heritage — create a distinctive Oklahoma commercial identity that authentic Tulsa-rooted brands can leverage."}},{"@type":"Question","name":"How does GEO/AEO affect Tulsa digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Williams' digital operations community and ONEOK's technology community use AI search for vendor research. First-mover GEO/AEO for Tulsa Williams Transco/ONEOK NGL vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Tulsa Digital Marketing Audit`,
   internalLinks: ["/seo-services-tulsa/","/digital-marketing-agency-usa/","/digital-marketing-agency-oklahoma-city/","/digital-marketing-agency-dallas/"],
@@ -53,7 +80,7 @@ Results (11 months): Page 1 for 9 Tulsa health IT queries | Saint Francis: evalu
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-tulsa/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

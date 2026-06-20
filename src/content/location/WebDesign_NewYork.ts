@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-NewYork.xlsx
 // Service: WebDesign
 // City: NewYork
-// Generated: 2026-06-19T12:50:29.071Z
+// URL: /web-design-agency-new-york/
+// Generated: 2026-06-20T04:42:14.782Z
 
 export const WebDesign_NewYork = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "NewYork",
   citySlug: "new-york",
-  slug: "/locations/web-design/new-york",
+  slug: "/web-design-agency-new-york/",
   
   h1: `Web Design Agency New York — Wall Street Institutional Credibility, FINRA/SEC Compliance, and World-Class NYC Brand Design`,
   primaryKw: `web design agency new york`,
@@ -16,7 +17,7 @@ export const WebDesign_NewYork = {
   seoTitle: `Web Design Agency New York | Wall Street Institutional & FINRA/SEC | Clickmasters`,
   meta: `Clickmasters web design in New York. Wall Street institutional financial credibility, FINRA/SEC-compliant design, NYU/Columbia academic medical YMYL, and world-class NYC brand design. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New York Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-new-york/","address":{"@type":"PostalAddress","addressLocality":"New York","addressRegion":"NY","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3900,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN NEW YORK?
 
 A New York web design agency builds websites for NYC-area businesses in the world's most institutionally demanding commercial market — where Wall Street's FINRA/SEC compliance defines the financial services website standard, NYU Langone and Columbia CUIMC define the YMYL healthcare credential benchmark, and the New York Times/Condé Nast editorial quality defines what consumer brand web design must achieve.
@@ -50,7 +51,33 @@ Case Study 3: SoHo Luxury DTC Brand — NYT/Condé Nast Editorial Design
 Client: Luxury lifestyle DTC, SoHo (\$6.8M Shopify). Challenge: Website below NYT editorial quality. Shopify conversion 1.1%.
 Programme: Condé Nast editorial quality creative direction + SoHo visual vocabulary + CCPA-adjacent NY Privacy Act analytics + Shopify CWV (sub-1.2s LCP)
 Results: Shopify conversion: 1.1% to 3.8% | LCP: 4.8s to 1.2s | NYC media editorial features: 3 | DTC revenue: +38%`,
-  faq: `FAQs — Web Design New York`,
+  faqTitle: `FAQs — Web Design New York`,
+  faqs: [
+  {
+    "question": "How much does web design cost in New York?",
+    "answer": "NYC web design: $9,000-$24,000 (Wall Street financial/YMYL academic medical/editorial brand), $42,000-$110,000+ (enterprise). FINRA/SEC/NYDFS compliance standard. NYU/Columbia YMYL credential architecture. NYT/Condé Nast editorial quality benchmark. WCAG 2.1 AA. Fixed-price."
+  },
+  {
+    "question": "Does Clickmasters build FINRA/SEC-compliant websites for New York financial services?",
+    "answer": "Yes. FINRA Rule 2210 and SEC Marketing Rule 2022 compliance integrated from wireframe through launch. GIPS-compliant performance presentation. ADV Part 2 integration. CFA/CFP/CAIA credentials with CFA Institute/CFP Board verification links. NYDFS-compliance review before launch. Compliance integrated into design architecture — not a post-launch audit add-on."
+  },
+  {
+    "question": "What is the NYU/Columbia YMYL standard for NYC healthcare web design?",
+    "answer": "Named attending physician attribution at NYU Langone, Columbia CUIMC, Weill Cornell Medicine, or Memorial Sloan Kettering institutional standard. NEJM/JAMA peer-reviewed citation architecture in clinical content. HIPAA-native data architecture with BAA-covered analytics processor. New York Privacy Act-aware patient data handling. The YMYL website that earns E-E-A-T recognition in the world's most credential-evaluating healthcare market."
+  },
+  {
+    "question": "Does Clickmasters serve Brooklyn, Queens, and Greater New York?",
+    "answer": "Yes — all of Greater New York: Manhattan, Brooklyn, Queens, the Bronx, Staten Island, Westchester County, Nassau County, Suffolk County, and New Jersey (Newark, Jersey City, Hoboken)."
+  },
+  {
+    "question": "How long does a New York web design project take?",
+    "answer": "Wall Street financial (FINRA/SEC/NYDFS review adds 2-4 weeks): 10-16 weeks. NYC academic medical (HIPAA review + physician attribution verification): 10-16 weeks. Editorial brand: 8-14 weeks. Enterprise: 20-36 weeks."
+  },
+  {
+    "question": "What is the NYT/Condé Nast editorial quality standard for NYC brand websites?",
+    "answer": "Professional art direction at NYT Style or Vogue editorial quality level. NYC neighbourhood-specific visual vocabulary — SoHo creative precision, Upper East Side luxury understated, Brooklyn industrial-authentic character — not generic New York City imagery. Sub-1.4s LCP for Shopify. New York Privacy Act-aware analytics. The design quality that earns NYC media editorial features from the publications that invented modern brand communication."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in New York?","acceptedAnswer":{"@type":"Answer","text":"NYC web design: \$9,000-\$24,000 (Wall Street financial/YMYL academic medical/editorial brand), \$42,000-\$110,000+ (enterprise). FINRA/SEC/NYDFS compliance standard. NYU/Columbia YMYL credential architecture. NYT/Condé Nast editorial quality benchmark. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"Does Clickmasters build FINRA/SEC-compliant websites for New York financial services?","acceptedAnswer":{"@type":"Answer","text":"Yes. FINRA Rule 2210 and SEC Marketing Rule 2022 compliance integrated from wireframe through launch. GIPS-compliant performance presentation. ADV Part 2 integration. CFA/CFP/CAIA credentials with CFA Institute/CFP Board verification links. NYDFS-compliance review before launch. Compliance integrated into design architecture — not a post-launch audit add-on."}},{"@type":"Question","name":"What is the NYU/Columbia YMYL standard for NYC healthcare web design?","acceptedAnswer":{"@type":"Answer","text":"Named attending physician attribution at NYU Langone, Columbia CUIMC, Weill Cornell Medicine, or Memorial Sloan Kettering institutional standard. NEJM/JAMA peer-reviewed citation architecture in clinical content. HIPAA-native data architecture with BAA-covered analytics processor. New York Privacy Act-aware patient data handling. The YMYL website that earns E-E-A-T recognition in the world's most credential-evaluating healthcare market."}},{"@type":"Question","name":"Does Clickmasters serve Brooklyn, Queens, and Greater New York?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater New York: Manhattan, Brooklyn, Queens, the Bronx, Staten Island, Westchester County, Nassau County, Suffolk County, and New Jersey (Newark, Jersey City, Hoboken)."}},{"@type":"Question","name":"How long does a New York web design project take?","acceptedAnswer":{"@type":"Answer","text":"Wall Street financial (FINRA/SEC/NYDFS review adds 2-4 weeks): 10-16 weeks. NYC academic medical (HIPAA review + physician attribution verification): 10-16 weeks. Editorial brand: 8-14 weeks. Enterprise: 20-36 weeks."}},{"@type":"Question","name":"What is the NYT/Condé Nast editorial quality standard for NYC brand websites?","acceptedAnswer":{"@type":"Answer","text":"Professional art direction at NYT Style or Vogue editorial quality level. NYC neighbourhood-specific visual vocabulary — SoHo creative precision, Upper East Side luxury understated, Brooklyn industrial-authentic character — not generic New York City imagery. Sub-1.4s LCP for Shopify. New York Privacy Act-aware analytics. The design quality that earns NYC media editorial features from the publications that invented modern brand communication."}}]}`,
   cta: `Get Your Free NYC Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-new-york/","/seo-services-new-york/","/web-design-agency-boston/"],
@@ -60,7 +87,7 @@ Results: Shopify conversion: 1.1% to 3.8% | LCP: 4.8s to 1.2s | NYC media editor
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-new-york/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

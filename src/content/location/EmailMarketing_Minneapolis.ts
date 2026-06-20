@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Minneapolis.xlsx
 // Service: EmailMarketing
 // City: Minneapolis
-// Generated: 2026-06-19T12:50:26.538Z
+// URL: /email-marketing-minneapolis/
+// Generated: 2026-06-20T04:42:11.988Z
 
 export const EmailMarketing_Minneapolis = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "Minneapolis",
   citySlug: "minneapolis",
-  slug: "/locations/email-marketing/minneapolis",
+  slug: "/email-marketing-minneapolis/",
   
   h1: `Email Marketing Minneapolis — Medical Alley HIMSS Reactivation and Fortune 500 Minnesota Pipeline Nurture`,
   primaryKw: `email marketing agency minneapolis`,
@@ -16,7 +17,7 @@ export const EmailMarketing_Minneapolis = {
   seoTitle: `Email Marketing Agency Minneapolis | Medical Alley & HIMSS Reactivation | Clickmasters`,
   meta: `Clickmasters email marketing in Minneapolis. Medical Alley HIMSS conference reactivation, FDA-aware device content, and Fortune 500 Minnesota B2B nurture. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Minneapolis Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-minneapolis/","address":{"@type":"PostalAddress","addressLocality":"Minneapolis","addressRegion":"MN","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN MINNEAPOLIS?
 
 Email marketing in Minneapolis is the strategic management of email as a pipeline reactivation and commercial relationship channel for Twin Cities businesses — with two commercially distinct applications reflecting Minneapolis-St. Paul's unique commercial character.
@@ -48,7 +49,33 @@ Case Study 3: Minneapolis Financial Services — 3M Ecosystem Fortune 500 Nurtur
 Client: Commercial insurance broker, Minneapolis (\$6.8M revenue). Challenge: 3M and General Mills procurement contacts not converting. No systematic follow-up.
 Programme: Fortune 500 MN ecosystem nurture + ISO/IATF insurance relevance content + corporate risk management content tracks
 Results: Fortune 500 prospect re-engagement: 42% | New Fortune 500 engagements: 3 (\$1.4M) | Average Fortune 500 engagement size: \$480K | Sales cycle: 35% shorter with email nurture`,
-  faq: `FAQs — Email Marketing Minneapolis`,
+  faqTitle: `FAQs — Email Marketing Minneapolis`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Minneapolis?",
+    "answer": "Minneapolis email marketing: $800/month (Foundation) to $8,500+/month (Enterprise). Medical Alley HIMSS conference reactivation and FDA-aware device content standard. Fortune 500 Minnesota vendor nurture. 90-day performance guarantee."
+  },
+  {
+    "question": "How does HIMSS conference email reactivation work for Minneapolis Medical Alley companies?",
+    "answer": "Medical Alley companies accumulate hundreds of IDN and health system contacts at HIMSS, AAMI, and AdvaMed annually. Without a systematic reactivation programme, 90%+ of these contacts go cold within 90 days. A 6-stage health system contact reactivation sequence — conference reference, FDA clearance update, KLAS case study, ROI documentation, peer reference, RFP invitation — converts HIMSS badge scans into IDN evaluation invitations over a 4-6 month nurture cycle."
+  },
+  {
+    "question": "Does Clickmasters provide FDA-aware email for Minneapolis medical device companies?",
+    "answer": "Yes. All Medical Alley device email content is reviewed for FDA promotional compliance: no pre-clearance efficacy claims, no off-label promotion, balanced clinical evidence presentation, IRB-aware clinical trial content. FDA-compliant email earns trust from health system procurement teams that evaluate regulatory compliance as part of vendor assessment."
+  },
+  {
+    "question": "Does Clickmasters manage HubSpot email for Minneapolis Fortune 500 vendors?",
+    "answer": "Yes. HubSpot Marketing Hub for Target, UnitedHealth Group, Best Buy, 3M, and Cargill ecosystem vendor development. Function-specific content tracks (IT procurement, supply chain, operations), named account ABM sequences, deal-stage-triggered communications, and SDR handoff automation."
+  },
+  {
+    "question": "Does Clickmasters serve St. Paul, Eden Prairie, Plymouth, and the Twin Cities metro?",
+    "answer": "Yes — all of the Minneapolis-St. Paul metropolitan area including Hennepin County, Ramsey County, Washington County, and the Medical Alley corridor."
+  },
+  {
+    "question": "How long does Minneapolis Medical Alley email produce IDN results?",
+    "answer": "HIMSS contact reactivation: first health system re-engagement responses within 21-30 days. Qualified IDN evaluation invitations from reactivation: 60-120 days. Full pipeline contribution from reactivated HIMSS contacts measurable at 6-9 months — accounting for health system procurement evaluation cycles of 90-180 days."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Minneapolis?","acceptedAnswer":{"@type":"Answer","text":"Minneapolis email marketing: \$800/month (Foundation) to \$8,500+/month (Enterprise). Medical Alley HIMSS conference reactivation and FDA-aware device content standard. Fortune 500 Minnesota vendor nurture. 90-day performance guarantee."}},{"@type":"Question","name":"How does HIMSS conference email reactivation work for Minneapolis Medical Alley companies?","acceptedAnswer":{"@type":"Answer","text":"Medical Alley companies accumulate hundreds of IDN and health system contacts at HIMSS, AAMI, and AdvaMed annually. Without a systematic reactivation programme, 90%+ of these contacts go cold within 90 days. A 6-stage health system contact reactivation sequence — conference reference, FDA clearance update, KLAS case study, ROI documentation, peer reference, RFP invitation — converts HIMSS badge scans into IDN evaluation invitations over a 4-6 month nurture cycle."}},{"@type":"Question","name":"Does Clickmasters provide FDA-aware email for Minneapolis medical device companies?","acceptedAnswer":{"@type":"Answer","text":"Yes. All Medical Alley device email content is reviewed for FDA promotional compliance: no pre-clearance efficacy claims, no off-label promotion, balanced clinical evidence presentation, IRB-aware clinical trial content. FDA-compliant email earns trust from health system procurement teams that evaluate regulatory compliance as part of vendor assessment."}},{"@type":"Question","name":"Does Clickmasters manage HubSpot email for Minneapolis Fortune 500 vendors?","acceptedAnswer":{"@type":"Answer","text":"Yes. HubSpot Marketing Hub for Target, UnitedHealth Group, Best Buy, 3M, and Cargill ecosystem vendor development. Function-specific content tracks (IT procurement, supply chain, operations), named account ABM sequences, deal-stage-triggered communications, and SDR handoff automation."}},{"@type":"Question","name":"Does Clickmasters serve St. Paul, Eden Prairie, Plymouth, and the Twin Cities metro?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Minneapolis-St. Paul metropolitan area including Hennepin County, Ramsey County, Washington County, and the Medical Alley corridor."}},{"@type":"Question","name":"How long does Minneapolis Medical Alley email produce IDN results?","acceptedAnswer":{"@type":"Answer","text":"HIMSS contact reactivation: first health system re-engagement responses within 21-30 days. Qualified IDN evaluation invitations from reactivation: 60-120 days. Full pipeline contribution from reactivated HIMSS contacts measurable at 6-9 months — accounting for health system procurement evaluation cycles of 90-180 days."}}]}`,
   cta: `Get Your Free Minneapolis Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-minneapolis/","/seo-services-minneapolis/","/email-marketing-chicago/","/integrations/hubspot-marketing/","/industries/medical-devices/"],
@@ -58,7 +85,7 @@ Results: Fortune 500 prospect re-engagement: 42% | New Fortune 500 engagements: 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-minneapolis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

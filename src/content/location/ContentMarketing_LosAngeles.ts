@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-LosAngeles.xlsx
 // Service: ContentMarketing
 // City: LosAngeles
-// Generated: 2026-06-19T12:50:25.251Z
+// URL: /content-marketing-los-angeles/
+// Generated: 2026-06-20T04:42:10.780Z
 
 export const ContentMarketing_LosAngeles = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "LosAngeles",
   citySlug: "los-angeles",
-  slug: "/locations/content-marketing/los-angeles",
+  slug: "/content-marketing-los-angeles/",
   
   h1: `Content Marketing Los Angeles — Creator-Economy-Standard Content in the World's Content Capital`,
   primaryKw: `content marketing agency los angeles`,
@@ -16,7 +17,7 @@ export const ContentMarketing_LosAngeles = {
   seoTitle: `Content Marketing Agency Los Angeles | Creator-Economy Standard | Clickmasters`,
   meta: `Clickmasters content marketing in Los Angeles. Creator-economy-standard content for LA DTC brands, Silicon Beach B2B tech, and entertainment companies. CCPA compliant. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Los Angeles Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-los-angeles/","address":{"@type":"PostalAddress","addressLocality":"Los Angeles","addressRegion":"CA","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4200,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN LOS ANGELES?
 
 Content marketing in Los Angeles is the strategic creation and distribution of content for LA-area businesses — at the creator-economy standard that the world's content capital has established as the minimum bar for commercial content success.
@@ -53,7 +54,33 @@ Case Study 3: Santa Monica Entertainment Tech Company — Trade Authority
 Client: Production technology vendor, Santa Monica (\$5.2M ARR). Challenge: No entertainment trade publication presence. Invisible to LA production community online.
 Programme: Hollywood Reporter/Variety HARO programme + production technology case studies + IMDB-quality credential content + GEO/AEO
 Results (9 months): Hollywood Reporter editorial mention: 2 | Variety Technology editorial: 1 | Organic sessions 0 to 8,400/month | Production company evaluation invitations: +3x`,
-  faq: `FAQs — Content Marketing Los Angeles`,
+  faqTitle: `FAQs — Content Marketing Los Angeles`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in Los Angeles?",
+    "answer": "LA content marketing: $2,400/month (Foundation, 4 pieces) to $26,000+/month (Full Programme). CCPA compliance included. Creator-economy visual and editorial quality standard. 90-day performance guarantee."
+  },
+  {
+    "question": "What is creator-economy content standard and why does it matter in LA?",
+    "answer": "Creator-economy standard is the visual and editorial quality bar set by LA's professional content creator community — the TikTokers, YouTubers, and Instagrammers whose content the LA audience has been trained to evaluate. Generic SEO content below this standard earns search rankings in less competitive markets but fails to earn genuine engagement in LA. In the world's content capital, content must compete against the world's best creators for the attention of the world's most discerning content audience."
+  },
+  {
+    "question": "Does Clickmasters provide CCPA-compliant content marketing for LA businesses?",
+    "answer": "Yes. CCPA-compliant analytics architecture is standard in every Clickmasters LA content programme: Consent Mode v2, server-side attribution, UTM framework. LA's privacy-aware audience opts out of non-consented tracking at above-average rates, making CCPA compliance both a legal requirement and a measurement accuracy necessity."
+  },
+  {
+    "question": "How does GEO/AEO content marketing work for LA businesses?",
+    "answer": "GEO (Generative Engine Optimisation) and AEO (Answer Engine Optimisation) structure content to earn citation from AI search engines. For LA's technology professional, entertainment industry, and DTC brand audience — increasingly using ChatGPT, Perplexity, and Google AI Overviews for product and service research — appearing in AI-generated answers is the most commercially valuable content marketing outcome. Clickmasters builds GEO/AEO into every LA content programme."
+  },
+  {
+    "question": "Does Clickmasters serve Beverly Hills, Santa Monica, Culver City, and LA areas?",
+    "answer": "Yes — all of Los Angeles County and Greater LA including Santa Monica, Culver City, Playa Vista, Beverly Hills, West Hollywood, Silver Lake, Pasadena, and Orange County."
+  },
+  {
+    "question": "How long does LA content marketing take to produce commercial results?",
+    "answer": "LA DTC content: meaningful organic session growth at 3-5 months, Meta Ads budget replacement at 9-14 months. Silicon Beach B2B: category keyword authority at 5-8 months, pipeline contribution at 8-12 months. GEO/AEO citation can appear in 3-5 months for well-structured content in less competitive query categories."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Los Angeles?","acceptedAnswer":{"@type":"Answer","text":"LA content marketing: \$2,400/month (Foundation, 4 pieces) to \$26,000+/month (Full Programme). CCPA compliance included. Creator-economy visual and editorial quality standard. 90-day performance guarantee."}},{"@type":"Question","name":"What is creator-economy content standard and why does it matter in LA?","acceptedAnswer":{"@type":"Answer","text":"Creator-economy standard is the visual and editorial quality bar set by LA's professional content creator community — the TikTokers, YouTubers, and Instagrammers whose content the LA audience has been trained to evaluate. Generic SEO content below this standard earns search rankings in less competitive markets but fails to earn genuine engagement in LA. In the world's content capital, content must compete against the world's best creators for the attention of the world's most discerning content audience."}},{"@type":"Question","name":"Does Clickmasters provide CCPA-compliant content marketing for LA businesses?","acceptedAnswer":{"@type":"Answer","text":"Yes. CCPA-compliant analytics architecture is standard in every Clickmasters LA content programme: Consent Mode v2, server-side attribution, UTM framework. LA's privacy-aware audience opts out of non-consented tracking at above-average rates, making CCPA compliance both a legal requirement and a measurement accuracy necessity."}},{"@type":"Question","name":"How does GEO/AEO content marketing work for LA businesses?","acceptedAnswer":{"@type":"Answer","text":"GEO (Generative Engine Optimisation) and AEO (Answer Engine Optimisation) structure content to earn citation from AI search engines. For LA's technology professional, entertainment industry, and DTC brand audience — increasingly using ChatGPT, Perplexity, and Google AI Overviews for product and service research — appearing in AI-generated answers is the most commercially valuable content marketing outcome. Clickmasters builds GEO/AEO into every LA content programme."}},{"@type":"Question","name":"Does Clickmasters serve Beverly Hills, Santa Monica, Culver City, and LA areas?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Los Angeles County and Greater LA including Santa Monica, Culver City, Playa Vista, Beverly Hills, West Hollywood, Silver Lake, Pasadena, and Orange County."}},{"@type":"Question","name":"How long does LA content marketing take to produce commercial results?","acceptedAnswer":{"@type":"Answer","text":"LA DTC content: meaningful organic session growth at 3-5 months, Meta Ads budget replacement at 9-14 months. Silicon Beach B2B: category keyword authority at 5-8 months, pipeline contribution at 8-12 months. GEO/AEO citation can appear in 3-5 months for well-structured content in less competitive query categories."}}]}`,
   cta: `Get Your Free Los Angeles Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-los-angeles/","/seo-services-los-angeles/","/content-marketing-new-york/","/email-marketing-los-angeles/","/industries/ecommerce/"],
@@ -63,7 +90,7 @@ Results (9 months): Hollywood Reporter editorial mention: 2 | Variety Technology
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-los-angeles/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

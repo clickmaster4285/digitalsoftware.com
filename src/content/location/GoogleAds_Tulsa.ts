@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Tulsa.xlsx
 // Service: GoogleAds
 // City: Tulsa
-// Generated: 2026-06-19T12:50:27.299Z
+// URL: /google-ads-management-tulsa/
+// Generated: 2026-06-20T04:42:12.931Z
 
 export const GoogleAds_Tulsa = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "Tulsa",
   citySlug: "tulsa",
-  slug: "/locations/google-ads/tulsa",
+  slug: "/google-ads-management-tulsa/",
   
   h1: `Google Ads Management Tulsa — Williams/ONEOK Midstream PPC, BOK Financial FINRA, and Saint Francis/OU Medicine HIPAA`,
   primaryKw: `google ads agency tulsa`,
@@ -16,7 +17,7 @@ export const GoogleAds_Tulsa = {
   seoTitle: `Google Ads Agency Tulsa | Williams/ONEOK Midstream PPC & BOK Financial FINRA | Clickmasters`,
   meta: `Clickmasters Google Ads in Tulsa. Williams/ONEOK midstream natural gas PPC, BOK Financial FINRA-compliant banking, and Saint Francis/OU Medicine HIPAA patient acquisition. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tulsa Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-tulsa/","address":{"@type":"PostalAddress","addressLocality":"Tulsa","addressRegion":"OK","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3400,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN TULSA?
 
 Google Ads management in Tulsa is the professional management of PPC advertising across three categories: Williams/ONEOK midstream natural gas technology, BOK Financial FINRA-compliant banking technology, and Saint Francis/OU Medicine HIPAA-compliant patient acquisition.
@@ -41,7 +42,33 @@ Case Study 3: Tulsa Healthcare — Saint Francis/OU Medicine HIPAA PPC
 Client: Internal medicine (Saint Francis-affiliated). Challenge: Non-HIPAA. Generic keywords.
 Programme: HIPAA server-side + Saint Francis/OU Medicine vocabulary + Tulsa family audience
 Results: HIPAA: clean | Saint Francis CPL: \$110 vs \$290 generic | New patients: +3x`,
-  faq: `FAQs — Google Ads Tulsa`,
+  faqTitle: `FAQs — Google Ads Tulsa`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Tulsa?",
+    "answer": "Tulsa Google Ads: $900/month (Growth) to $9,000+/month (Enterprise). Williams/ONEOK midstream vocabulary. BOK Financial FINRA-compliant. Saint Francis/OU Medicine HIPAA. Oklahoma CPCs below Houston/Dallas. 90-day guarantee."
+  },
+  {
+    "question": "What is Williams/ONEOK midstream Google Ads for Tulsa businesses?",
+    "answer": "Williams/ONEOK campaigns target midstream technology: 'Transco pipeline control system vendor Tulsa Williams,' 'ONEOK NGL fractionation analytics Oklahoma.' Oklahoma CPCs significantly below Houston midstream equivalents."
+  },
+  {
+    "question": "What is BOK Financial FINRA banking Google Ads for Tulsa businesses?",
+    "answer": "BOK Financial vocabulary campaigns: 'BOK Financial banking technology Tulsa,' 'commercial banking analytics platform Oklahoma FINRA.' FINRA Rule 2210-compliant throughout. Oklahoma CPCs below Kansas City and Dallas banking equivalents."
+  },
+  {
+    "question": "Does Clickmasters serve Broken Arrow, Owasso, Bixby, and Greater Tulsa?",
+    "answer": "Yes — all of Greater Tulsa MSA."
+  },
+  {
+    "question": "What is HIPAA compliance for Tulsa healthcare Google Ads?",
+    "answer": "HIPAA server-side conversion tracking for Saint Francis Health and OU Medicine patient acquisition campaigns — ensuring Oklahoma AG compliance for healthcare advertising conversion measurement."
+  },
+  {
+    "question": "How do Tulsa Google Ads CPCs compare to Houston and Dallas for midstream energy?",
+    "answer": "Oklahoma CPCs 20-30% below Houston for equivalent midstream energy vocabulary. 15-20% below Dallas. Williams/ONEOK Tulsa-specific vocabulary CPCs significantly below comparable Houston midstream advertising markets."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Tulsa?","acceptedAnswer":{"@type":"Answer","text":"Tulsa Google Ads: \$900/month (Growth) to \$9,000+/month (Enterprise). Williams/ONEOK midstream vocabulary. BOK Financial FINRA-compliant. Saint Francis/OU Medicine HIPAA. Oklahoma CPCs below Houston/Dallas. 90-day guarantee."}},{"@type":"Question","name":"What is Williams/ONEOK midstream Google Ads for Tulsa businesses?","acceptedAnswer":{"@type":"Answer","text":"Williams/ONEOK campaigns target midstream technology: 'Transco pipeline control system vendor Tulsa Williams,' 'ONEOK NGL fractionation analytics Oklahoma.' Oklahoma CPCs significantly below Houston midstream equivalents."}},{"@type":"Question","name":"What is BOK Financial FINRA banking Google Ads for Tulsa businesses?","acceptedAnswer":{"@type":"Answer","text":"BOK Financial vocabulary campaigns: 'BOK Financial banking technology Tulsa,' 'commercial banking analytics platform Oklahoma FINRA.' FINRA Rule 2210-compliant throughout. Oklahoma CPCs below Kansas City and Dallas banking equivalents."}},{"@type":"Question","name":"Does Clickmasters serve Broken Arrow, Owasso, Bixby, and Greater Tulsa?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Tulsa MSA."}},{"@type":"Question","name":"What is HIPAA compliance for Tulsa healthcare Google Ads?","acceptedAnswer":{"@type":"Answer","text":"HIPAA server-side conversion tracking for Saint Francis Health and OU Medicine patient acquisition campaigns — ensuring Oklahoma AG compliance for healthcare advertising conversion measurement."}},{"@type":"Question","name":"How do Tulsa Google Ads CPCs compare to Houston and Dallas for midstream energy?","acceptedAnswer":{"@type":"Answer","text":"Oklahoma CPCs 20-30% below Houston for equivalent midstream energy vocabulary. 15-20% below Dallas. Williams/ONEOK Tulsa-specific vocabulary CPCs significantly below comparable Houston midstream advertising markets."}}]}`,
   cta: `Get Your Free Tulsa Google Ads Audit`,
   internalLinks: ["/digital-marketing-agency-tulsa/","/seo-services-tulsa/","/google-ads-management-services/","/google-ads-management-oklahoma-city/"],
@@ -51,7 +78,7 @@ Results: HIPAA: clean | Saint Francis CPL: \$110 vs \$290 generic | New patients
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-tulsa/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

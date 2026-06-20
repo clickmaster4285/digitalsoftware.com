@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-StLouis.xlsx
 // Service: WebDesign
 // City: StLouis
-// Generated: 2026-06-19T12:50:29.227Z
+// URL: /web-design-agency-st-louis/
+// Generated: 2026-06-20T04:42:14.965Z
 
 export const WebDesign_StLouis = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "StLouis",
   citySlug: "st-louis",
-  slug: "/locations/web-design/st-louis",
+  slug: "/web-design-agency-st-louis/",
   
   h1: `Web Design Agency St. Louis — Boeing Defence Vendor Credibility, Edward Jones FINRA Institutional, and BJC/WashU YMYL Academic Medical`,
   primaryKw: `web design agency st louis`,
@@ -16,7 +17,7 @@ export const WebDesign_StLouis = {
   seoTitle: `Web Design Agency St. Louis | Boeing Defence Credibility & Edward Jones FINRA | Clickmasters`,
   meta: `Clickmasters web design in St. Louis. Boeing Defence vendor credibility, Edward Jones FINRA/SEC institutional quality, and BJC/Washington University YMYL HIPAA academic medical. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — St. Louis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-st-louis/","address":{"@type":"PostalAddress","addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN ST. LOUIS?
 
 A St. Louis web design agency builds websites across three commercially distinct requirements: Boeing Defence, Space & Security ITAR-bounded vendor credibility, Edward Jones FINRA/SEC institutional financial quality, and BJC HealthCare/Washington University YMYL academic medical credential architecture.
@@ -50,7 +51,33 @@ Case Study 3: St. Louis Healthcare Practice — BJC/WashU YMYL HIPAA Redesign
 Client: Internal medicine, St. Louis (Barnes-Jewish-adjacent). Challenge: No BJC affiliation. Non-HIPAA. Below YMYL standard.
 Programme: BJC/WashU vocabulary + HIPAA-native + YMYL E-E-A-T + WashU SOM faculty + CWV
 Results: YMYL: E-E-A-T recognised | BJC affiliation: cited in patient surveys | HIPAA: clean | New patients: +3x | LCP: 4.6s to 1.2s`,
-  faq: `FAQs — Web Design St. Louis`,
+  faqTitle: `FAQs — Web Design St. Louis`,
+  faqs: [
+  {
+    "question": "How much does web design cost in St. Louis?",
+    "answer": "St. Louis web design: $6,000-$15,000 (Boeing defence/Edward Jones FINRA/BJC YMYL), $26,000-$65,000+ (enterprise). ITAR-bounded defence credibility. FINRA/SEC institutional. BJC/WashU YMYL HIPAA. WCAG 2.1 AA. Fixed-price."
+  },
+  {
+    "question": "What is Boeing BDS ITAR-bounded vendor credibility for St. Louis web design?",
+    "answer": "AS9100D accreditation display with authority verification links, DCAA accounting compliance display, ITAR programme experience in publicly releasable language, cleared facility status where applicable, and Boeing BDS-calibre institutional visual quality — the credential architecture that earns Boeing Defense, Space & Security procurement digital due diligence clearance in St. Louis's leading defence prime market."
+  },
+  {
+    "question": "What is Edward Jones FINRA/SEC institutional quality for St. Louis financial technology web design?",
+    "answer": "FINRA Rule 2210-compliant website content from wireframe through launch: investment performance display compliance, testimonial compliance under SEC Marketing Rule, comparative advertising compliance, and Edward Jones financial advisor platform vocabulary in service descriptions — the FINRA-compliant institutional website that earns Edward Jones CTO evaluation consideration in Creve Coeur."
+  },
+  {
+    "question": "Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?",
+    "answer": "Yes — all of Greater St. Louis MSA."
+  },
+  {
+    "question": "How long does a St. Louis web design project take?",
+    "answer": "Boeing BDS ITAR vendor credibility: 8-14 weeks. Edward Jones FINRA/SEC (compliance review adds time): 8-14 weeks. BJC/WashU YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."
+  },
+  {
+    "question": "What is BJC/Washington University YMYL academic medical design for St. Louis?",
+    "answer": "BJC HealthCare and Barnes-Jewish Hospital system affiliation display, Washington University School of Medicine faculty attribution, St. Louis Children's Hospital academic community, HIPAA-native data architecture, and YMYL E-E-A-T optimised clinical content structure — the credential architecture that earns Google YMYL recognition in the St. Louis WashU academic medical community."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in St. Louis?","acceptedAnswer":{"@type":"Answer","text":"St. Louis web design: \$6,000-\$15,000 (Boeing defence/Edward Jones FINRA/BJC YMYL), \$26,000-\$65,000+ (enterprise). ITAR-bounded defence credibility. FINRA/SEC institutional. BJC/WashU YMYL HIPAA. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is Boeing BDS ITAR-bounded vendor credibility for St. Louis web design?","acceptedAnswer":{"@type":"Answer","text":"AS9100D accreditation display with authority verification links, DCAA accounting compliance display, ITAR programme experience in publicly releasable language, cleared facility status where applicable, and Boeing BDS-calibre institutional visual quality — the credential architecture that earns Boeing Defense, Space & Security procurement digital due diligence clearance in St. Louis's leading defence prime market."}},{"@type":"Question","name":"What is Edward Jones FINRA/SEC institutional quality for St. Louis financial technology web design?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210-compliant website content from wireframe through launch: investment performance display compliance, testimonial compliance under SEC Marketing Rule, comparative advertising compliance, and Edward Jones financial advisor platform vocabulary in service descriptions — the FINRA-compliant institutional website that earns Edward Jones CTO evaluation consideration in Creve Coeur."}},{"@type":"Question","name":"Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater St. Louis MSA."}},{"@type":"Question","name":"How long does a St. Louis web design project take?","acceptedAnswer":{"@type":"Answer","text":"Boeing BDS ITAR vendor credibility: 8-14 weeks. Edward Jones FINRA/SEC (compliance review adds time): 8-14 weeks. BJC/WashU YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."}},{"@type":"Question","name":"What is BJC/Washington University YMYL academic medical design for St. Louis?","acceptedAnswer":{"@type":"Answer","text":"BJC HealthCare and Barnes-Jewish Hospital system affiliation display, Washington University School of Medicine faculty attribution, St. Louis Children's Hospital academic community, HIPAA-native data architecture, and YMYL E-E-A-T optimised clinical content structure — the credential architecture that earns Google YMYL recognition in the St. Louis WashU academic medical community."}}]}`,
   cta: `Get Your Free St. Louis Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-st-louis/","/seo-services-st-louis/","/web-design-agency-chicago/"],
@@ -60,7 +87,7 @@ Results: YMYL: E-E-A-T recognised | BJC affiliation: cited in patient surveys | 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-st-louis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

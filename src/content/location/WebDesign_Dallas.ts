@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-Dallas.xlsx
 // Service: WebDesign
 // City: Dallas
-// Generated: 2026-06-19T12:50:28.944Z
+// URL: /web-design-agency-dallas/
+// Generated: 2026-06-20T04:42:14.616Z
 
 export const WebDesign_Dallas = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Dallas",
   citySlug: "dallas",
-  slug: "/locations/web-design/dallas",
+  slug: "/web-design-agency-dallas/",
   
   h1: `Web Design Agency Dallas — Fortune 500-Vendor-Credible Websites for Texas' Corporate Commercial Capital`,
   primaryKw: `web design agency dallas`,
@@ -16,7 +17,7 @@ export const WebDesign_Dallas = {
   seoTitle: `Web Design Agency Dallas | Fortune 500 DFW Vendor Credibility | Clickmasters`,
   meta: `Clickmasters web design in Dallas. Fortune 500-vendor-credible websites for AT&T, Toyota, Schwab ecosystem and Telecom Corridor enterprise B2B in DFW. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Dallas Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-dallas/","address":{"@type":"PostalAddress","addressLocality":"Dallas","addressRegion":"TX","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN DALLAS?
 
 A Dallas web design agency builds websites for DFW-area businesses combining the Fortune 500 vendor credibility architecture that AT&T, Toyota, and Schwab procurement teams evaluate, the Telecom Corridor enterprise B2B technical precision, and the Texas commercial directness that characterises DFW's evolving corporate culture.
@@ -50,7 +51,33 @@ Case Study 3: Las Colinas Technology Company — Fortune 500 Campus Credibility
 Client: IT managed services, Las Colinas Irving (\$6.8M). Challenge: Website below Fortune 500 campus standard. ISO/SOC 2 not displayed. 4.8s LCP.
 Programme: ISO/SOC 2 display + Fortune 500 case studies + Texas commercial directness + CWV (4.8s to 1.6s)
 Results: Fortune 500 campus evaluations: +3x | ISO display: procurement cited | LCP: 4.8s to 1.6s | Demo conversion: +220%`,
-  faq: `FAQs — Web Design Dallas`,
+  faqTitle: `FAQs — Web Design Dallas`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Dallas?",
+    "answer": "Dallas web design: $7,000-$20,000 (Fortune 500 vendor/Telecom Corridor/FINRA financial), $30,000-$80,000+ (enterprise). Fortune 500 vendor credibility architecture. WCAG 2.1 AA. Fixed-price contracts."
+  },
+  {
+    "question": "What makes a Dallas website Fortune 500-vendor-credible?",
+    "answer": "Dallas's relocated Fortune 500 procurement community — from New York, Chicago, and San Jose — applies the same vendor website evaluation standards as their previous cities: ISO/SOC 2 certifications displayed with verification links (not just logo badges), LinkedIn-verifiable executive credentials, Fortune 500-scale case study metrics with commercial specificity, and institutional visual quality. Without these signals, DFW vendors are categorised as below-threshold by the most commercially sophisticated procurement community in Texas."
+  },
+  {
+    "question": "Does Clickmasters build FINRA-compliant websites for Dallas financial services?",
+    "answer": "Yes. FINRA Rule 2210 compliance throughout, SEC Marketing Rule (2022) testimonial architecture, GIPS-compliant performance display, ADV Part 2 integration, and Texas State Securities Board awareness. DFW's growing financial services community from Schwab's Westlake campus brings FINRA examination awareness that was less prevalent in pre-relocation DFW."
+  },
+  {
+    "question": "Does Clickmasters serve Fort Worth, Plano, Frisco, and DFW suburbs?",
+    "answer": "Yes — all of DFW metro including Fort Worth, Plano, Frisco, McKinney, Allen, Richardson (Telecom Corridor), Irving (Las Colinas), and all of the Metroplex."
+  },
+  {
+    "question": "How long does a Dallas web design project take?",
+    "answer": "Fortune 500 vendor: 8-14 weeks. Telecom Corridor enterprise (OSS/BSS documentation adds time): 10-16 weeks. FINRA financial (compliance review): 10-16 weeks. Enterprise: 16-26 weeks."
+  },
+  {
+    "question": "What is Texas commercial directness in Dallas web design?",
+    "answer": "Texas commercial directness means website content that gets to the commercial value proposition within 10 seconds, leads with specific metrics rather than aspirational brand language, and communicates capability with direct evidence. DFW's evolved corporate culture rewards websites that respect the professional's time by stating specific value immediately — not after 3 paragraphs of brand narrative."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Dallas?","acceptedAnswer":{"@type":"Answer","text":"Dallas web design: \$7,000-\$20,000 (Fortune 500 vendor/Telecom Corridor/FINRA financial), \$30,000-\$80,000+ (enterprise). Fortune 500 vendor credibility architecture. WCAG 2.1 AA. Fixed-price contracts."}},{"@type":"Question","name":"What makes a Dallas website Fortune 500-vendor-credible?","acceptedAnswer":{"@type":"Answer","text":"Dallas's relocated Fortune 500 procurement community — from New York, Chicago, and San Jose — applies the same vendor website evaluation standards as their previous cities: ISO/SOC 2 certifications displayed with verification links (not just logo badges), LinkedIn-verifiable executive credentials, Fortune 500-scale case study metrics with commercial specificity, and institutional visual quality. Without these signals, DFW vendors are categorised as below-threshold by the most commercially sophisticated procurement community in Texas."}},{"@type":"Question","name":"Does Clickmasters build FINRA-compliant websites for Dallas financial services?","acceptedAnswer":{"@type":"Answer","text":"Yes. FINRA Rule 2210 compliance throughout, SEC Marketing Rule (2022) testimonial architecture, GIPS-compliant performance display, ADV Part 2 integration, and Texas State Securities Board awareness. DFW's growing financial services community from Schwab's Westlake campus brings FINRA examination awareness that was less prevalent in pre-relocation DFW."}},{"@type":"Question","name":"Does Clickmasters serve Fort Worth, Plano, Frisco, and DFW suburbs?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of DFW metro including Fort Worth, Plano, Frisco, McKinney, Allen, Richardson (Telecom Corridor), Irving (Las Colinas), and all of the Metroplex."}},{"@type":"Question","name":"How long does a Dallas web design project take?","acceptedAnswer":{"@type":"Answer","text":"Fortune 500 vendor: 8-14 weeks. Telecom Corridor enterprise (OSS/BSS documentation adds time): 10-16 weeks. FINRA financial (compliance review): 10-16 weeks. Enterprise: 16-26 weeks."}},{"@type":"Question","name":"What is Texas commercial directness in Dallas web design?","acceptedAnswer":{"@type":"Answer","text":"Texas commercial directness means website content that gets to the commercial value proposition within 10 seconds, leads with specific metrics rather than aspirational brand language, and communicates capability with direct evidence. DFW's evolved corporate culture rewards websites that respect the professional's time by stating specific value immediately — not after 3 paragraphs of brand narrative."}}]}`,
   cta: `Get Your Free Dallas Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-dallas/","/seo-services-dallas/","/web-design-agency-houston/","/industries/technology/","/tools/website-grader/"],
@@ -60,7 +87,7 @@ Results: Fortune 500 campus evaluations: +3x | ISO display: procurement cited | 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-dallas/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

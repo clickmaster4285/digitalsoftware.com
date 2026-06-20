@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-Boston.xlsx
 // Service: WebDesign
 // City: Boston
-// Generated: 2026-06-19T12:50:28.897Z
+// URL: /web-design-agency-boston/
+// Generated: 2026-06-20T04:42:14.569Z
 
 export const WebDesign_Boston = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Boston",
   citySlug: "boston",
-  slug: "/locations/web-design/boston",
+  slug: "/web-design-agency-boston/",
   
   h1: `Web Design Agency Boston — FINRA-Compliant Financial, FDA-Aware Kendall Square, and Academic Medical Centre Websites`,
   primaryKw: `web design agency boston`,
@@ -16,7 +17,7 @@ export const WebDesign_Boston = {
   seoTitle: `Web Design Agency Boston | FINRA-Compliant & Kendall Square FDA | Clickmasters`,
   meta: `Clickmasters web design in Boston. FINRA-compliant financial services, FDA-aware Kendall Square life sciences, and academic medical centre YMYL standard for New England. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boston Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-boston/","address":{"@type":"PostalAddress","addressLocality":"Boston","addressRegion":"MA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN BOSTON?
 
 A Boston web design agency builds websites for Boston-area businesses combining the most comprehensive regulatory compliance requirements of any US city outside New York, the highest academic credential density in the world, and the institutional precision that Harvard, MIT, and Mass General Brigham have established as the commercial standard.
@@ -50,7 +51,33 @@ Case Study 3: Longwood Medical Area Practice — Academic YMYL Redesign
 Client: Oncology practice, Longwood (3 physicians, Dana-Farber affiliated). Challenge: Website below Dana-Farber/HMS institutional YMYL standard. No physician credential depth.
 Programme: YMYL redesign + HMS faculty + Dana-Farber affiliation display + HIPAA compliance + CWV (5.4s to 1.7s)
 Results: YMYL E-E-A-T: improved after core update | New patient enquiries: +280/month | Dana-Farber affiliation: patient surveys cite as selection factor | HIPAA: clean`,
-  faq: `FAQs — Web Design Boston`,
+  faqTitle: `FAQs — Web Design Boston`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Boston?",
+    "answer": "Boston web design: $8,000-$24,000 (financial services/life sciences/academic healthcare), $42,000-$110,000+ (enterprise). FINRA/SEC for financial services. FDA-aware for life sciences. YMYL/HIPAA for academic healthcare. WCAG 2.1 AA. Fixed-price contracts."
+  },
+  {
+    "question": "Does Clickmasters build FINRA-compliant websites for Boston financial services?",
+    "answer": "Yes. Every Boston financial services website includes FINRA Rule 2210 compliance review before launch. SEC Marketing Rule (2022) testimonial architecture. GIPS-compliant performance presentation. ADV Part 2 integration for RIAs. Massachusetts Securities Division awareness. Boston's FINRA examination environment is among the most active in the US."
+  },
+  {
+    "question": "Does Clickmasters build FDA-aware websites for Kendall Square life sciences companies?",
+    "answer": "Yes. FDA-aware content architecture: no pre-approval efficacy claims, balanced clinical data presentation, IRB-aware clinical study references. Harvard/MIT research collaboration display. CLIA, CAP, and ISO 15189 certification display for laboratory services."
+  },
+  {
+    "question": "Does Clickmasters serve Cambridge, Waltham, and Greater Boston?",
+    "answer": "Yes — all of Greater Boston including Cambridge (Kendall Square, Harvard Square), Brookline, Newton, Waltham (Route 128), Burlington, Lexington, Watertown, Somerville, and the full Greater Boston metropolitan area."
+  },
+  {
+    "question": "How long does a Boston web design project take?",
+    "answer": "Financial services (FINRA review): 10-16 weeks. Life sciences (FDA-aware content review): 10-16 weeks. Academic healthcare (YMYL/HIPAA): 10-16 weeks. Enterprise: 16-32 weeks. Boston's compliance review processes are the most time-intensive of any US market outside NYC."
+  },
+  {
+    "question": "What academic credentials matter for Boston web design?",
+    "answer": "Boston's academic medical centre community evaluates healthcare website content through institutional credentials: Harvard Medical School and BU Medical faculty appointments, Mass General Brigham (Partners HealthCare) system membership, Dana-Farber Cancer Institute clinical affiliations, NIH grant attribution, and peer-reviewed research publications. These signals earn the YMYL E-E-A-T recognition that Google's quality evaluators apply to Boston's academic healthcare market."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Boston?","acceptedAnswer":{"@type":"Answer","text":"Boston web design: \$8,000-\$24,000 (financial services/life sciences/academic healthcare), \$42,000-\$110,000+ (enterprise). FINRA/SEC for financial services. FDA-aware for life sciences. YMYL/HIPAA for academic healthcare. WCAG 2.1 AA. Fixed-price contracts."}},{"@type":"Question","name":"Does Clickmasters build FINRA-compliant websites for Boston financial services?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every Boston financial services website includes FINRA Rule 2210 compliance review before launch. SEC Marketing Rule (2022) testimonial architecture. GIPS-compliant performance presentation. ADV Part 2 integration for RIAs. Massachusetts Securities Division awareness. Boston's FINRA examination environment is among the most active in the US."}},{"@type":"Question","name":"Does Clickmasters build FDA-aware websites for Kendall Square life sciences companies?","acceptedAnswer":{"@type":"Answer","text":"Yes. FDA-aware content architecture: no pre-approval efficacy claims, balanced clinical data presentation, IRB-aware clinical study references. Harvard/MIT research collaboration display. CLIA, CAP, and ISO 15189 certification display for laboratory services."}},{"@type":"Question","name":"Does Clickmasters serve Cambridge, Waltham, and Greater Boston?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Boston including Cambridge (Kendall Square, Harvard Square), Brookline, Newton, Waltham (Route 128), Burlington, Lexington, Watertown, Somerville, and the full Greater Boston metropolitan area."}},{"@type":"Question","name":"How long does a Boston web design project take?","acceptedAnswer":{"@type":"Answer","text":"Financial services (FINRA review): 10-16 weeks. Life sciences (FDA-aware content review): 10-16 weeks. Academic healthcare (YMYL/HIPAA): 10-16 weeks. Enterprise: 16-32 weeks. Boston's compliance review processes are the most time-intensive of any US market outside NYC."}},{"@type":"Question","name":"What academic credentials matter for Boston web design?","acceptedAnswer":{"@type":"Answer","text":"Boston's academic medical centre community evaluates healthcare website content through institutional credentials: Harvard Medical School and BU Medical faculty appointments, Mass General Brigham (Partners HealthCare) system membership, Dana-Farber Cancer Institute clinical affiliations, NIH grant attribution, and peer-reviewed research publications. These signals earn the YMYL E-E-A-T recognition that Google's quality evaluators apply to Boston's academic healthcare market."}}]}`,
   cta: `Get Your Free Boston Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-boston/","/seo-services-boston/","/web-design-agency-new-york/","/industries/financial-services/","/tools/website-grader/"],
@@ -60,7 +87,7 @@ Results: YMYL E-E-A-T: improved after core update | New patient enquiries: +280/
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-boston/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

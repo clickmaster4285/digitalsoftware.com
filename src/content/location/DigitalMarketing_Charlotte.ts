@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Charlotte.xlsx
 // Service: DigitalMarketing
 // City: Charlotte
-// Generated: 2026-06-19T12:50:25.585Z
+// URL: /digital-marketing-agency-charlotte/
+// Generated: 2026-06-20T04:42:11.163Z
 
 export const DigitalMarketing_Charlotte = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Charlotte",
   citySlug: "charlotte",
-  slug: "/locations/digital-marketing/charlotte",
+  slug: "/digital-marketing-agency-charlotte/",
   
   h1: `Digital Marketing Agency Charlotte — Banking Capital Revenue, NASCAR Motorsports B2B, and Southeast Financial Capital Growth`,
   primaryKw: `digital marketing agency charlotte`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_Charlotte = {
   seoTitle: `Digital Marketing Agency Charlotte | Banking Capital & NASCAR Motorsports | Clickmasters`,
   meta: `Clickmasters digital marketing in Charlotte. Bank of America/Truist banking capital revenue, NASCAR motorsports B2B, and Atrium/Novant healthcare for the Queen City. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Charlotte Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-charlotte/","address":{"@type":"PostalAddress","addressLocality":"Charlotte","addressRegion":"NC","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4000,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN CHARLOTTE?
 
 A Charlotte digital marketing agency manages digital channels for businesses in the most bank-headquarters-concentrated city in the Southeast — and the undisputed capital of American motorsports — across four commercial sectors that define Charlotte's commercial character in 2026.
@@ -43,7 +44,33 @@ Case Study 3: Charlotte Healthcare Technology — Atrium/Novant Full Programme
 Client: Clinical analytics SaaS, Charlotte (\$6.8M ARR). Challenge: Atrium Health/Novant procurement vocabulary absent. Non-HIPAA analytics.
 Programme: SEO + Google Ads (HIPAA) + content (YMYL) + LinkedIn (healthcare professional) + HIPAA analytics rebuild
 Results (11 months): Page 1 for 11 Charlotte health IT queries | Atrium Health evaluation: entered | HIPAA: clean | Pipeline: \$2.0M`,
-  faq: `FAQs — Digital Marketing Charlotte`,
+  faqTitle: `FAQs — Digital Marketing Charlotte`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Charlotte?",
+    "answer": "Charlotte digital marketing: $1,600/month (single channel) to $16,000+/month (enterprise). BofA/Truist banking vocabulary. NASCAR motorsports B2B. FINRA for financial. HIPAA for healthcare. North Carolina retainers below NYC and Chicago. 90-day guarantee."
+  },
+  {
+    "question": "Which digital channels work best for Charlotte banking capital vendor development?",
+    "answer": "(1) SEO — BofA/Truist banking operational vocabulary for new CPO/CTO executives arriving without existing vendor relationships. (2) LinkedIn — banking capital operational thought leadership reaching banking executive community. (3) Email — BofA/Truist named account HubSpot pipeline nurture. (4) Google Ads — banking vocabulary PPC at Charlotte CPCs below NYC equivalents."
+  },
+  {
+    "question": "Does Clickmasters serve Concord, Huntersville, Mooresville, and Greater Charlotte?",
+    "answer": "Yes — all of the Charlotte metropolitan area: Mecklenburg, Union, Cabarrus, Iredell, and surrounding counties."
+  },
+  {
+    "question": "How quickly does Charlotte banking capital digital marketing produce BofA/Truist results?",
+    "answer": "Banking vocabulary SEO rankings: 5-8 months. LinkedIn BofA/Truist executive connections: 2-4 months. Banking vocabulary Google Ads leads: 7-14 days. First BofA/Truist evaluation invitation: 4-7 months."
+  },
+  {
+    "question": "What makes Charlotte banking capital digital marketing different from Atlanta?",
+    "answer": "Charlotte's banking concentration — Bank of America HQ, Truist Financial HQ, Wells Fargo East Coast operations — creates a FINRA/SEC enforcement environment and banking operational vocabulary density that is significantly higher than Atlanta's financial professional community. Charlotte banking capital digital marketing must be calibrated to Wall Street-level FINRA compliance standards, not Southeast regional financial services standards."
+  },
+  {
+    "question": "How does GEO/AEO affect Charlotte digital marketing?",
+    "answer": "Charlotte's banking and motorsports professional communities use AI search tools for vendor research. When BofA procurement asks ChatGPT for treasury management technology vendors in Charlotte, or Hendrick Motorsports asks Perplexity for racing engineering services suppliers, companies with GEO/AEO signals appear."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Charlotte digital marketing: \$1,600/month (single channel) to \$16,000+/month (enterprise). BofA/Truist banking vocabulary. NASCAR motorsports B2B. FINRA for financial. HIPAA for healthcare. North Carolina retainers below NYC and Chicago. 90-day guarantee."}},{"@type":"Question","name":"Which digital channels work best for Charlotte banking capital vendor development?","acceptedAnswer":{"@type":"Answer","text":"(1) SEO — BofA/Truist banking operational vocabulary for new CPO/CTO executives arriving without existing vendor relationships. (2) LinkedIn — banking capital operational thought leadership reaching banking executive community. (3) Email — BofA/Truist named account HubSpot pipeline nurture. (4) Google Ads — banking vocabulary PPC at Charlotte CPCs below NYC equivalents."}},{"@type":"Question","name":"Does Clickmasters serve Concord, Huntersville, Mooresville, and Greater Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Charlotte metropolitan area: Mecklenburg, Union, Cabarrus, Iredell, and surrounding counties."}},{"@type":"Question","name":"How quickly does Charlotte banking capital digital marketing produce BofA/Truist results?","acceptedAnswer":{"@type":"Answer","text":"Banking vocabulary SEO rankings: 5-8 months. LinkedIn BofA/Truist executive connections: 2-4 months. Banking vocabulary Google Ads leads: 7-14 days. First BofA/Truist evaluation invitation: 4-7 months."}},{"@type":"Question","name":"What makes Charlotte banking capital digital marketing different from Atlanta?","acceptedAnswer":{"@type":"Answer","text":"Charlotte's banking concentration — Bank of America HQ, Truist Financial HQ, Wells Fargo East Coast operations — creates a FINRA/SEC enforcement environment and banking operational vocabulary density that is significantly higher than Atlanta's financial professional community. Charlotte banking capital digital marketing must be calibrated to Wall Street-level FINRA compliance standards, not Southeast regional financial services standards."}},{"@type":"Question","name":"How does GEO/AEO affect Charlotte digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Charlotte's banking and motorsports professional communities use AI search tools for vendor research. When BofA procurement asks ChatGPT for treasury management technology vendors in Charlotte, or Hendrick Motorsports asks Perplexity for racing engineering services suppliers, companies with GEO/AEO signals appear."}}]}`,
   cta: `Get Your Free Charlotte Digital Marketing Audit`,
   internalLinks: ["/seo-services-charlotte/","/digital-marketing-agency-usa/","/digital-marketing-agency-atlanta/","/digital-marketing-agency-dallas/"],
@@ -53,7 +80,7 @@ Results (11 months): Page 1 for 11 Charlotte health IT queries | Atrium Health e
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-charlotte/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

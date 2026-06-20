@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-Louisville.xlsx
 // Service: WebDesign
 // City: Louisville
-// Generated: 2026-06-19T12:50:29.026Z
+// URL: /web-design-agency-louisville/
+// Generated: 2026-06-20T04:42:14.717Z
 
 export const WebDesign_Louisville = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Louisville",
   citySlug: "louisville",
-  slug: "/locations/web-design/louisville",
+  slug: "/web-design-agency-louisville/",
   
   h1: `Web Design Agency Louisville — Humana Medicare Advantage HIPAA Institutional, GE Appliances Manufacturing Quality, and UofL Health YMYL`,
   primaryKw: `web design agency louisville`,
@@ -16,7 +17,7 @@ export const WebDesign_Louisville = {
   seoTitle: `Web Design Agency Louisville | Humana Medicare Advantage & GE Appliances Quality | Clickmasters`,
   meta: `Clickmasters web design in Louisville. Humana Medicare Advantage HIPAA institutional credibility, GE Appliances manufacturing enterprise quality, and UofL Health/Norton YMYL HIPAA. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Louisville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-louisville/","address":{"@type":"PostalAddress","addressLocality":"Louisville","addressRegion":"KY","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3500,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN LOUISVILLE?
 
 A Louisville web design agency builds websites across three commercially distinct requirements: Humana Medicare Advantage HIPAA institutional health insurance vendor credibility, GE Appliances manufacturing enterprise institutional quality, and UofL Health/Norton YMYL HIPAA academic healthcare credential architecture.
@@ -50,7 +51,33 @@ Case Study 3: Louisville Healthcare Practice — UofL Health/Norton YMYL HIPAA R
 Client: Internal medicine (UofL Health-affiliated). Challenge: No UofL affiliation. Non-HIPAA. 4.6s LCP.
 Programme: UofL Health/Norton affiliation + HIPAA-native + YMYL E-E-A-T + CWV
 Results: YMYL: E-E-A-T | UofL: cited | HIPAA: clean | New patients: +3x | LCP: 4.6s to 1.2s`,
-  faq: `FAQs — Web Design Louisville`,
+  faqTitle: `FAQs — Web Design Louisville`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Louisville?",
+    "answer": "Louisville web design: $5,500-$14,000 (Humana Medicare Advantage HIPAA/GE Appliances/UofL YMYL), $24,000-$60,000+ (enterprise). Humana Medicare Advantage HIPAA institutional. GE Appliances manufacturing enterprise. UofL Health/Norton YMYL. WCAG 2.1 AA. Fixed-price."
+  },
+  {
+    "question": "What is Humana Medicare Advantage HIPAA institutional credibility for Louisville web design?",
+    "answer": "Medicare Advantage plan technology operational service descriptions, Stars ratings quality programme analytics methodology, value-based care measurement platform integration specifics, HIPAA-native data architecture, and Medicare Advantage institutional visual quality — the health insurance website that earns Humana's Louisville procurement consideration."
+  },
+  {
+    "question": "What is GE Appliances manufacturing enterprise quality for Louisville web design?",
+    "answer": "Smart appliance manufacturing technology service pages, industrial IoT integration methodology, Louisville manufacturing supply chain operational specifics, and manufacturing enterprise institutional visual quality — earning GE Appliances' Louisville campus engineering procurement evaluation consideration."
+  },
+  {
+    "question": "Does Clickmasters serve St. Matthews, Jeffersontown, Shelbyville, and Greater Louisville?",
+    "answer": "Yes — all of Greater Louisville MSA."
+  },
+  {
+    "question": "How long does a Louisville web design project take?",
+    "answer": "Humana Medicare Advantage HIPAA: 8-14 weeks. GE Appliances manufacturing enterprise: 8-12 weeks. UofL Health/Norton YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."
+  },
+  {
+    "question": "What is the Kentucky Derby institutional photography standard for Louisville web design?",
+    "answer": "Churchill Downs' Derby hospitality community and Louisville's Humana/GE Appliances executive community expect professional photography communicating the Kentucky Derby's institutional elegance — race day attire, thoroughbred sophistication, and the iconic Churchill Downs twin spires aesthetic that distinguishes Derby City professional brand photography from generic Midwestern commercial photography."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Louisville?","acceptedAnswer":{"@type":"Answer","text":"Louisville web design: \$5,500-\$14,000 (Humana Medicare Advantage HIPAA/GE Appliances/UofL YMYL), \$24,000-\$60,000+ (enterprise). Humana Medicare Advantage HIPAA institutional. GE Appliances manufacturing enterprise. UofL Health/Norton YMYL. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is Humana Medicare Advantage HIPAA institutional credibility for Louisville web design?","acceptedAnswer":{"@type":"Answer","text":"Medicare Advantage plan technology operational service descriptions, Stars ratings quality programme analytics methodology, value-based care measurement platform integration specifics, HIPAA-native data architecture, and Medicare Advantage institutional visual quality — the health insurance website that earns Humana's Louisville procurement consideration."}},{"@type":"Question","name":"What is GE Appliances manufacturing enterprise quality for Louisville web design?","acceptedAnswer":{"@type":"Answer","text":"Smart appliance manufacturing technology service pages, industrial IoT integration methodology, Louisville manufacturing supply chain operational specifics, and manufacturing enterprise institutional visual quality — earning GE Appliances' Louisville campus engineering procurement evaluation consideration."}},{"@type":"Question","name":"Does Clickmasters serve St. Matthews, Jeffersontown, Shelbyville, and Greater Louisville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Louisville MSA."}},{"@type":"Question","name":"How long does a Louisville web design project take?","acceptedAnswer":{"@type":"Answer","text":"Humana Medicare Advantage HIPAA: 8-14 weeks. GE Appliances manufacturing enterprise: 8-12 weeks. UofL Health/Norton YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."}},{"@type":"Question","name":"What is the Kentucky Derby institutional photography standard for Louisville web design?","acceptedAnswer":{"@type":"Answer","text":"Churchill Downs' Derby hospitality community and Louisville's Humana/GE Appliances executive community expect professional photography communicating the Kentucky Derby's institutional elegance — race day attire, thoroughbred sophistication, and the iconic Churchill Downs twin spires aesthetic that distinguishes Derby City professional brand photography from generic Midwestern commercial photography."}}]}`,
   cta: `Get Your Free Louisville Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-louisville/","/seo-services-louisville/","/web-design-agency-nashville/"],
@@ -60,7 +87,7 @@ Results: YMYL: E-E-A-T | UofL: cited | HIPAA: clean | New patients: +3x | LCP: 4
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-louisville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

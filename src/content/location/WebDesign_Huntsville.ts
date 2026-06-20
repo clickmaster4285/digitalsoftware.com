@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-Huntsville.xlsx
 // Service: WebDesign
 // City: Huntsville
-// Generated: 2026-06-19T12:50:28.975Z
+// URL: /web-design-agency-huntsville/
+// Generated: 2026-06-20T04:42:14.656Z
 
 export const WebDesign_Huntsville = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Huntsville",
   citySlug: "huntsville",
-  slug: "/locations/web-design/huntsville",
+  slug: "/web-design-agency-huntsville/",
   
   h1: `Web Design Agency Huntsville — NASA Marshall ITAR-Bounded Aerospace Institutional, Redstone Arsenal Defence Quality, and Huntsville Hospital YMYL HIPAA`,
   primaryKw: `web design agency huntsville`,
@@ -16,7 +17,7 @@ export const WebDesign_Huntsville = {
   seoTitle: `Web Design Agency Huntsville | NASA Marshall ITAR-Bounded Aerospace & Redstone Quality | Clickmasters`,
   meta: `Clickmasters web design in Huntsville. NASA Marshall ITAR-bounded aerospace institutional credibility, Redstone Arsenal defence quality, and Huntsville Hospital YMYL HIPAA. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Huntsville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-huntsville/","address":{"@type":"PostalAddress","addressLocality":"Huntsville","addressRegion":"AL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3500,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN HUNTSVILLE?
 
 A Huntsville web design agency builds websites across three commercially distinct requirements: NASA Marshall ITAR-bounded publicly releasable aerospace institutional vendor credibility, Redstone Arsenal ITAR-bounded US Army defence enterprise quality, and Huntsville Hospital YMYL HIPAA academic healthcare design.
@@ -50,7 +51,33 @@ Case Study 3: Huntsville Healthcare — Huntsville Hospital YMYL HIPAA Redesign
 Client: Internal medicine (Huntsville Hospital-affiliated). Challenge: No Huntsville Hospital affiliation. Non-HIPAA. 4.6s LCP.
 Programme: Huntsville Hospital/UAH affiliation + HIPAA-native + YMYL E-E-A-T + CWV
 Results: YMYL: E-E-A-T | Hospital: cited | HIPAA: clean | New patients: +3x | LCP: 4.6s to 1.2s`,
-  faq: `FAQs — Web Design Huntsville`,
+  faqTitle: `FAQs — Web Design Huntsville`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Huntsville?",
+    "answer": "Huntsville web design: $5,500-$14,000 (NASA Marshall ITAR-bounded/Redstone defence/Huntsville Hospital YMYL), $24,000-$60,000+ (enterprise). ITAR vocabulary review documentation included. HIPAA-native. WCAG 2.1 AA. Fixed-price."
+  },
+  {
+    "question": "What is NASA Marshall ITAR-bounded aerospace institutional credibility for Huntsville web design?",
+    "answer": "ITAR vocabulary review applied to all website content with documentation, SLS/Artemis publicly releasable vocabulary, rocket propulsion research from public NASA technical reports, and Cummings Research Park aerospace institutional visual quality — the aerospace website that earns NASA Marshall and prime contractor vendor digital due diligence clearance with ITAR review documentation provided at launch."
+  },
+  {
+    "question": "What is the ITAR vocabulary review documentation provided at launch for Huntsville web design?",
+    "answer": "At website launch, Clickmasters provides a documented ITAR vocabulary review record confirming every page's vocabulary was verified against publicly available NASA Marshall and Redstone Arsenal publications. This documentation demonstrates ITAR compliance due diligence in aerospace and defence vendor qualification processes."
+  },
+  {
+    "question": "Does Clickmasters serve Madison, Athens, Decatur, and Greater Huntsville?",
+    "answer": "Yes — all of Greater Huntsville MSA."
+  },
+  {
+    "question": "What is Huntsville Hospital YMYL HIPAA for Huntsville healthcare web design?",
+    "answer": "Huntsville Hospital system programme vocabulary, UAH academic medical community content, HIPAA-native Alabama data architecture, and YMYL E-E-A-T Alabama academic medical content — the healthcare website earning Huntsville Hospital and UAH vendor evaluation consideration."
+  },
+  {
+    "question": "How long does a Huntsville web design project take?",
+    "answer": "NASA Marshall ITAR-bounded aerospace (ITAR review adds time): 8-16 weeks. Redstone Arsenal ITAR defence: 8-14 weeks. Huntsville Hospital YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Huntsville?","acceptedAnswer":{"@type":"Answer","text":"Huntsville web design: \$5,500-\$14,000 (NASA Marshall ITAR-bounded/Redstone defence/Huntsville Hospital YMYL), \$24,000-\$60,000+ (enterprise). ITAR vocabulary review documentation included. HIPAA-native. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is NASA Marshall ITAR-bounded aerospace institutional credibility for Huntsville web design?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review applied to all website content with documentation, SLS/Artemis publicly releasable vocabulary, rocket propulsion research from public NASA technical reports, and Cummings Research Park aerospace institutional visual quality — the aerospace website that earns NASA Marshall and prime contractor vendor digital due diligence clearance with ITAR review documentation provided at launch."}},{"@type":"Question","name":"What is the ITAR vocabulary review documentation provided at launch for Huntsville web design?","acceptedAnswer":{"@type":"Answer","text":"At website launch, Clickmasters provides a documented ITAR vocabulary review record confirming every page's vocabulary was verified against publicly available NASA Marshall and Redstone Arsenal publications. This documentation demonstrates ITAR compliance due diligence in aerospace and defence vendor qualification processes."}},{"@type":"Question","name":"Does Clickmasters serve Madison, Athens, Decatur, and Greater Huntsville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Huntsville MSA."}},{"@type":"Question","name":"What is Huntsville Hospital YMYL HIPAA for Huntsville healthcare web design?","acceptedAnswer":{"@type":"Answer","text":"Huntsville Hospital system programme vocabulary, UAH academic medical community content, HIPAA-native Alabama data architecture, and YMYL E-E-A-T Alabama academic medical content — the healthcare website earning Huntsville Hospital and UAH vendor evaluation consideration."}},{"@type":"Question","name":"How long does a Huntsville web design project take?","acceptedAnswer":{"@type":"Answer","text":"NASA Marshall ITAR-bounded aerospace (ITAR review adds time): 8-16 weeks. Redstone Arsenal ITAR defence: 8-14 weeks. Huntsville Hospital YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."}}]}`,
   cta: `Get Your Free Huntsville Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-huntsville/","/seo-services-huntsville/","/web-design-agency-birmingham/"],
@@ -60,7 +87,7 @@ Results: YMYL: E-E-A-T | Hospital: cited | HIPAA: clean | New patients: +3x | LC
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-huntsville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Memphis.xlsx
 // Service: GoogleAds
 // City: Memphis
-// Generated: 2026-06-19T12:50:27.027Z
+// URL: /google-ads-management-memphis/
+// Generated: 2026-06-20T04:42:12.599Z
 
 export const GoogleAds_Memphis = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "Memphis",
   citySlug: "memphis",
-  slug: "/locations/google-ads/memphis",
+  slug: "/google-ads-management-memphis/",
   
   h1: `Google Ads Management Memphis — FedEx Logistics Tech PPC, St. Jude YMYL HIPAA, and AutoZone Automotive Retail Campaigns`,
   primaryKw: `google ads agency memphis`,
@@ -16,7 +17,7 @@ export const GoogleAds_Memphis = {
   seoTitle: `Google Ads Agency Memphis | FedEx Logistics PPC & St. Jude World-Class YMYL | Clickmasters`,
   meta: `Clickmasters Google Ads in Memphis. FedEx logistics technology PPC, St. Jude world-class YMYL HIPAA paediatric oncology, and AutoZone automotive retail campaigns with Tennessee TIPA consent management. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Memphis Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-memphis/","address":{"@type":"PostalAddress","addressLocality":"Memphis","addressRegion":"TN","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3500,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN MEMPHIS?
 
 Google Ads management in Memphis is the professional management of PPC advertising across three commercially distinct categories: FedEx world headquarters logistics and supply chain technology, St. Jude Children's Research Hospital world-class YMYL HIPAA health technology, and AutoZone/International Paper Fortune 500 B2B.
@@ -41,7 +42,33 @@ Case Study 3: Memphis Healthcare Practice — Baptist Memorial HIPAA TIPA PPC
 Client: Internal medicine (Baptist Memorial-affiliated). Challenge: Non-HIPAA. Non-TIPA. Generic 'Memphis doctor' keywords.
 Programme: HIPAA server-side + TIPA consent management + Baptist Memorial vocabulary + Memphis family audience
 Results: HIPAA/TIPA: Tennessee AG compliant | Baptist CPL: \$110 vs \$300 generic | New patients: +3x`,
-  faq: `FAQs — Google Ads Memphis`,
+  faqTitle: `FAQs — Google Ads Memphis`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Memphis?",
+    "answer": "Memphis Google Ads: $950/month (Growth) to $9,500+/month (Enterprise). FedEx logistics/supply chain vocabulary. St. Jude world-class YMYL HIPAA. AutoZone automotive retail. Tennessee TIPA consent management. Tennessee CPCs below Atlanta/Chicago. 90-day guarantee."
+  },
+  {
+    "question": "What is FedEx logistics technology Google Ads for Memphis businesses?",
+    "answer": "FedEx logistics vocabulary campaigns target world headquarters procurement: 'FedEx Ground sortation optimisation analytics Memphis,' 'supply chain visibility platform FedEx World Technology Center,' 'last-mile delivery analytics FedEx Freight Memphis.' Tennessee CPCs significantly below Atlanta and Chicago logistics technology equivalents."
+  },
+  {
+    "question": "What is St. Jude world-class YMYL HIPAA Google Ads for Memphis health technology vendors?",
+    "answer": "St. Jude paediatric oncology vocabulary campaigns targeting world-class research procurement: 'paediatric cancer genomics analytics vendor Memphis St. Jude,' 'childhood cancer clinical trial technology Tennessee,' 'computational biology bioinformatics vendor St. Jude.' World-class YMYL vocabulary at Tennessee CPCs below Boston and New York academic medical equivalents."
+  },
+  {
+    "question": "Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?",
+    "answer": "Yes — all of Greater Memphis MSA: Shelby County (Tennessee) and DeSoto County (Mississippi)."
+  },
+  {
+    "question": "What is Tennessee TIPA consent management for Memphis Google Ads?",
+    "answer": "Tennessee Information Protection Act (TIPA, effective July 2025) consent management implements Tennessee-compliant consent for Google Ads conversion tracking. Memphis businesses without TIPA consent management overstate Google Ads conversions through non-consensual Tennessee data collection, creating Tennessee AG enforcement exposure."
+  },
+  {
+    "question": "How do Memphis Google Ads CPCs compare to Atlanta and Chicago for logistics technology?",
+    "answer": "Tennessee CPCs 20-25% below Atlanta for equivalent logistics technology vocabulary. 25-30% below Chicago for equivalent supply chain analytics. FedEx logistics vocabulary CPCs are Memphis-specific with lower competition than major US logistics technology advertising markets."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Memphis?","acceptedAnswer":{"@type":"Answer","text":"Memphis Google Ads: \$950/month (Growth) to \$9,500+/month (Enterprise). FedEx logistics/supply chain vocabulary. St. Jude world-class YMYL HIPAA. AutoZone automotive retail. Tennessee TIPA consent management. Tennessee CPCs below Atlanta/Chicago. 90-day guarantee."}},{"@type":"Question","name":"What is FedEx logistics technology Google Ads for Memphis businesses?","acceptedAnswer":{"@type":"Answer","text":"FedEx logistics vocabulary campaigns target world headquarters procurement: 'FedEx Ground sortation optimisation analytics Memphis,' 'supply chain visibility platform FedEx World Technology Center,' 'last-mile delivery analytics FedEx Freight Memphis.' Tennessee CPCs significantly below Atlanta and Chicago logistics technology equivalents."}},{"@type":"Question","name":"What is St. Jude world-class YMYL HIPAA Google Ads for Memphis health technology vendors?","acceptedAnswer":{"@type":"Answer","text":"St. Jude paediatric oncology vocabulary campaigns targeting world-class research procurement: 'paediatric cancer genomics analytics vendor Memphis St. Jude,' 'childhood cancer clinical trial technology Tennessee,' 'computational biology bioinformatics vendor St. Jude.' World-class YMYL vocabulary at Tennessee CPCs below Boston and New York academic medical equivalents."}},{"@type":"Question","name":"Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Memphis MSA: Shelby County (Tennessee) and DeSoto County (Mississippi)."}},{"@type":"Question","name":"What is Tennessee TIPA consent management for Memphis Google Ads?","acceptedAnswer":{"@type":"Answer","text":"Tennessee Information Protection Act (TIPA, effective July 2025) consent management implements Tennessee-compliant consent for Google Ads conversion tracking. Memphis businesses without TIPA consent management overstate Google Ads conversions through non-consensual Tennessee data collection, creating Tennessee AG enforcement exposure."}},{"@type":"Question","name":"How do Memphis Google Ads CPCs compare to Atlanta and Chicago for logistics technology?","acceptedAnswer":{"@type":"Answer","text":"Tennessee CPCs 20-25% below Atlanta for equivalent logistics technology vocabulary. 25-30% below Chicago for equivalent supply chain analytics. FedEx logistics vocabulary CPCs are Memphis-specific with lower competition than major US logistics technology advertising markets."}}]}`,
   cta: `Get Your Free Memphis Google Ads Audit`,
   internalLinks: ["/digital-marketing-agency-memphis/","/seo-services-memphis/","/google-ads-management-services/","/google-ads-management-nashville/"],
@@ -51,7 +78,7 @@ Results: HIPAA/TIPA: Tennessee AG compliant | Baptist CPL: \$110 vs \$300 generi
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-memphis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

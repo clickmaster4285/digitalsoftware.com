@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-SaltLakeCity.xlsx
 // Service: LocalSEO
 // City: SaltLakeCity
-// Generated: 2026-06-19T12:50:27.705Z
+// URL: /local-seo-services-salt-lake-city/
+// Generated: 2026-06-20T04:42:13.413Z
 
 export const LocalSEO_SaltLakeCity = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "SaltLakeCity",
   citySlug: "salt-lake-city",
-  slug: "/locations/local-seo/salt-lake-city",
+  slug: "/local-seo-services-salt-lake-city/",
   
   h1: `Local SEO Salt Lake City — Silicon Slopes Proximity GBP, University of Utah/Primary Children's Medical, and East Bench/Draper Professional Quality`,
   primaryKw: `local seo services salt lake city`,
@@ -16,7 +17,7 @@ export const LocalSEO_SaltLakeCity = {
   seoTitle: `Local SEO Salt Lake City | Silicon Slopes Proximity & U of U Academic Medical | Clickmasters`,
   meta: `Clickmasters Local SEO in Salt Lake City. Silicon Slopes Qualtrics/Domo proximity GBP, University of Utah/Primary Children's academic medical credential, and East Bench/Draper professional quality. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Salt Lake City Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-salt-lake-city/","address":{"@type":"PostalAddress","addressLocality":"Salt Lake City","addressRegion":"UT","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3500,
   geoAeoBlock: `WHAT IS LOCAL SEO IN SALT LAKE CITY?
 
 Local SEO in Salt Lake City is the practice of optimising Google Business Profiles for the top 3 of Greater Salt Lake City's Local Pack — in a market where Silicon Slopes enterprise companies create B2B proximity GBP commercial value, University of Utah Health and Primary Children's Hospital define the Mountain West's academic YMYL medical standard, and East Bench and Draper represent the highest-income professional communities in the Wasatch Front.
@@ -41,7 +42,33 @@ Case Study 3: Lehi Technology Services — Silicon Slopes Proximity B2B GBP
 Client: Enterprise analytics consulting, Lehi (Qualtrics-adjacent). Challenge: No Silicon Slopes vocabulary. Generic tech services GBP.
 Programme: Qualtrics XM/Domo BI vocabulary + Silicon Slopes proximity signals + enterprise photography + UCPA-native
 Results (3 months): Top 3 Local Pack Lehi enterprise consulting | Silicon Slopes near-me: +3x`,
-  faq: `FAQs — Local SEO Salt Lake City`,
+  faqTitle: `FAQs — Local SEO Salt Lake City`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in Salt Lake City?",
+    "answer": "Salt Lake City Local SEO: $900/month (single) to $9,000+/month (enterprise). Silicon Slopes Qualtrics/Domo proximity GBP. U of U/Primary Children's YMYL academic medical. East Bench/Draper professional quality. HIPAA/UCPA review management. Utah retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is Silicon Slopes proximity GBP for Salt Lake City businesses?",
+    "answer": "Qualtrics XM/Domo BI/Pluralsight vocabulary in GBP service descriptions, Silicon Slopes enterprise ecosystem community proximity signals for South Jordan/Draper/Lehi GBPs, and Silicon Slopes professional photography — earning above-average B2B near-me consideration from Utah's most commercially productive enterprise software ecosystem."
+  },
+  {
+    "question": "Does Clickmasters serve Lehi, Draper, South Jordan, and Greater Salt Lake City?",
+    "answer": "Yes — all of Greater Salt Lake City and the Wasatch Front: Salt Lake, Utah, Davis, and Weber Counties."
+  },
+  {
+    "question": "How many reviews for Salt Lake City Local Pack?",
+    "answer": "Greater SLC benchmarks: East Bench/Draper professional services: 4.5+ stars, 60-110+ reviews. U of U/Primary Children's-adjacent healthcare: 4.4+, 55-100+. Silicon Slopes B2B: 4.3+, 30-60+."
+  },
+  {
+    "question": "What is the East Bench/Draper professional quality GBP standard for Salt Lake City?",
+    "answer": "East Bench residents and Draper's Silicon Slopes professional community — Goldman Sachs employees from New York and London, Qualtrics product leaders from San Francisco, and Domo engineers from Austin — evaluate GBPs with Bay Area and institutional financial professional precision: CFA Institute verification for financial advisory, U of U/Primary Children's affiliation for healthcare, and Silicon Slopes enterprise institutional photography quality."
+  },
+  {
+    "question": "What is Utah UCPA-native review management for Salt Lake City Local SEO?",
+    "answer": "UCPA-compliant consent management for review request email data collection and UCPA-accurate GBP review analytics — protecting SLC businesses from Utah AG enforcement exposure with every review request sent to Utah consumers."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Salt Lake City Local SEO: \$900/month (single) to \$9,000+/month (enterprise). Silicon Slopes Qualtrics/Domo proximity GBP. U of U/Primary Children's YMYL academic medical. East Bench/Draper professional quality. HIPAA/UCPA review management. Utah retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Silicon Slopes proximity GBP for Salt Lake City businesses?","acceptedAnswer":{"@type":"Answer","text":"Qualtrics XM/Domo BI/Pluralsight vocabulary in GBP service descriptions, Silicon Slopes enterprise ecosystem community proximity signals for South Jordan/Draper/Lehi GBPs, and Silicon Slopes professional photography — earning above-average B2B near-me consideration from Utah's most commercially productive enterprise software ecosystem."}},{"@type":"Question","name":"Does Clickmasters serve Lehi, Draper, South Jordan, and Greater Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Salt Lake City and the Wasatch Front: Salt Lake, Utah, Davis, and Weber Counties."}},{"@type":"Question","name":"How many reviews for Salt Lake City Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater SLC benchmarks: East Bench/Draper professional services: 4.5+ stars, 60-110+ reviews. U of U/Primary Children's-adjacent healthcare: 4.4+, 55-100+. Silicon Slopes B2B: 4.3+, 30-60+."}},{"@type":"Question","name":"What is the East Bench/Draper professional quality GBP standard for Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"East Bench residents and Draper's Silicon Slopes professional community — Goldman Sachs employees from New York and London, Qualtrics product leaders from San Francisco, and Domo engineers from Austin — evaluate GBPs with Bay Area and institutional financial professional precision: CFA Institute verification for financial advisory, U of U/Primary Children's affiliation for healthcare, and Silicon Slopes enterprise institutional photography quality."}},{"@type":"Question","name":"What is Utah UCPA-native review management for Salt Lake City Local SEO?","acceptedAnswer":{"@type":"Answer","text":"UCPA-compliant consent management for review request email data collection and UCPA-accurate GBP review analytics — protecting SLC businesses from Utah AG enforcement exposure with every review request sent to Utah consumers."}}]}`,
   cta: `Get Your Free Salt Lake City Local SEO Audit`,
   internalLinks: ["/local-seo-services/","/seo-services-salt-lake-city/","/digital-marketing-agency-salt-lake-city/","/local-seo-services-denver/"],
@@ -51,7 +78,7 @@ Results (3 months): Top 3 Local Pack Lehi enterprise consulting | Silicon Slopes
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-salt-lake-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

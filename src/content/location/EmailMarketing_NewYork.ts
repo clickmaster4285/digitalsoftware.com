@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-NewYork.xlsx
 // Service: EmailMarketing
 // City: NewYork
-// Generated: 2026-06-19T12:50:26.564Z
+// URL: /email-marketing-new-york/
+// Generated: 2026-06-20T04:42:12.015Z
 
 export const EmailMarketing_NewYork = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "NewYork",
   citySlug: "new-york",
-  slug: "/locations/email-marketing/new-york",
+  slug: "/email-marketing-new-york/",
   
   h1: `Email Marketing New York — FINRA-Compliant Investment Email and Revenue Automation in the World's Most Commercial Market`,
   primaryKw: `email marketing agency new york`,
@@ -16,7 +17,7 @@ export const EmailMarketing_NewYork = {
   seoTitle: `Email Marketing Agency New York | FINRA-Compliant NYC Revenue Email | Clickmasters`,
   meta: `Clickmasters email marketing in New York. FINRA-compliant HNW investment email and Klaviyo DTC revenue automation for NYC businesses. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New York Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-new-york/","address":{"@type":"PostalAddress","addressLocality":"New York","addressRegion":"NY","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4200,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN NEW YORK CITY?
 
 Email marketing in New York City is the strategic management of email as a revenue and client relationship channel for NYC businesses — in the most commercially valuable, most compliance-intensive, and most competitively demanding email marketing environment in the United States.
@@ -56,7 +57,33 @@ Case Study 3: Flatiron NYC SaaS — Goldman Ecosystem HubSpot Nurture
 Client: FinTech SaaS, Flatiron District (\$14M ARR). Challenge: All Wall Street prospects going cold after initial demos. No nurture for NYC's 90-180 day financial services procurement cycle.
 Programme: HubSpot Goldman/JPMorgan ecosystem content tracks + FINRA-aware content + 6-stage financial services nurture + SDR handoff automation
 Results (9 months): Wall Street prospect re-engagement: 38% from nurture | Pipeline from email-nurtured: \$3.2M | Average deal size from email-nurtured: \$180K vs \$80K cold outreach | FINRA content compliance: clean`,
-  faq: `FAQs — Email Marketing New York`,
+  faqTitle: `FAQs — Email Marketing New York`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in New York City?",
+    "answer": "NYC email marketing: $1,200/month (Foundation) to $13,000+/month (Enterprise). FINRA compliance review for financial services. NYC design culture quality standard for DTC. 90-day performance guarantee."
+  },
+  {
+    "question": "Does Clickmasters provide FINRA-compliant investment email for NYC financial services?",
+    "answer": "Yes. Every NYC investment-related email is reviewed against FINRA Rule 2210, SEC advertising regulations, and New York DFS oversight before sending. CFA-authored investment content, Bloomberg/Fed data citations, GIPS-compliant performance references. Zero FINRA examination findings for NYC financial services clients post-implementation. NYC's FINRA examination environment is the most active in the United States."
+  },
+  {
+    "question": "What makes NYC DTC email marketing different from other markets?",
+    "answer": "NYC's DTC consumer audience has been trained by the world's most sophisticated fashion, beauty, and lifestyle brands to evaluate email design at an editorial quality standard. Generic Klaviyo templates produce below-average open rates and above-average unsubscribe rates in NYC's design-culture consumer market. Clickmasters builds NYC DTC email to editorial-photography and typographically sophisticated standards that the Manhattan consumer's inbox rewards."
+  },
+  {
+    "question": "Does Clickmasters manage Klaviyo for NYC DTC brands?",
+    "answer": "Yes. Klaviyo for NYC's fashion, beauty, food, and lifestyle DTC brands. 12-flow revenue automation, NYC seasonal calendar management, creator collaboration email integration, and the editorial visual quality that NYC's design-culture DTC audience expects."
+  },
+  {
+    "question": "How quickly does NYC email marketing produce commercial results?",
+    "answer": "NYC financial services email (FINRA rebuild): first compliant emails sending within 30-45 days. HNW prospect engagement measurable within 60-90 days. NYC DTC Klaviyo automation: revenue from core flows within 14-30 days. B2B Wall Street nurture: first Wall Street prospect re-engagement within 21-30 days."
+  },
+  {
+    "question": "Does Clickmasters serve Brooklyn, Queens, and the outer boroughs for email marketing?",
+    "answer": "Yes — all of NYC and Greater New York including Brooklyn (Williamsburg, DUMBO DTC brands), Queens, Hoboken and Jersey City NJ, Westchester County, and Long Island."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in New York City?","acceptedAnswer":{"@type":"Answer","text":"NYC email marketing: \$1,200/month (Foundation) to \$13,000+/month (Enterprise). FINRA compliance review for financial services. NYC design culture quality standard for DTC. 90-day performance guarantee."}},{"@type":"Question","name":"Does Clickmasters provide FINRA-compliant investment email for NYC financial services?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every NYC investment-related email is reviewed against FINRA Rule 2210, SEC advertising regulations, and New York DFS oversight before sending. CFA-authored investment content, Bloomberg/Fed data citations, GIPS-compliant performance references. Zero FINRA examination findings for NYC financial services clients post-implementation. NYC's FINRA examination environment is the most active in the United States."}},{"@type":"Question","name":"What makes NYC DTC email marketing different from other markets?","acceptedAnswer":{"@type":"Answer","text":"NYC's DTC consumer audience has been trained by the world's most sophisticated fashion, beauty, and lifestyle brands to evaluate email design at an editorial quality standard. Generic Klaviyo templates produce below-average open rates and above-average unsubscribe rates in NYC's design-culture consumer market. Clickmasters builds NYC DTC email to editorial-photography and typographically sophisticated standards that the Manhattan consumer's inbox rewards."}},{"@type":"Question","name":"Does Clickmasters manage Klaviyo for NYC DTC brands?","acceptedAnswer":{"@type":"Answer","text":"Yes. Klaviyo for NYC's fashion, beauty, food, and lifestyle DTC brands. 12-flow revenue automation, NYC seasonal calendar management, creator collaboration email integration, and the editorial visual quality that NYC's design-culture DTC audience expects."}},{"@type":"Question","name":"How quickly does NYC email marketing produce commercial results?","acceptedAnswer":{"@type":"Answer","text":"NYC financial services email (FINRA rebuild): first compliant emails sending within 30-45 days. HNW prospect engagement measurable within 60-90 days. NYC DTC Klaviyo automation: revenue from core flows within 14-30 days. B2B Wall Street nurture: first Wall Street prospect re-engagement within 21-30 days."}},{"@type":"Question","name":"Does Clickmasters serve Brooklyn, Queens, and the outer boroughs for email marketing?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of NYC and Greater New York including Brooklyn (Williamsburg, DUMBO DTC brands), Queens, Hoboken and Jersey City NJ, Westchester County, and Long Island."}}]}`,
   cta: `Get Your Free New York City Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-new-york/","/seo-services-new-york/","/email-marketing-chicago/","/integrations/klaviyo-email-marketing/","/industries/financial-services/"],
@@ -66,7 +93,7 @@ Results (9 months): Wall Street prospect re-engagement: 38% from nurture | Pipel
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-new-york/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

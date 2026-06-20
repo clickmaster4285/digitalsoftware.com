@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-Boston.xlsx
 // Service: ContentMarketing
 // City: Boston
-// Generated: 2026-06-19T12:50:25.084Z
+// URL: /content-marketing-boston/
+// Generated: 2026-06-20T04:42:10.611Z
 
 export const ContentMarketing_Boston = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "Boston",
   citySlug: "boston",
-  slug: "/locations/content-marketing/boston",
+  slug: "/content-marketing-boston/",
   
   h1: `Content Marketing Boston — FDA-Aware Kendall Square Authority and Academic Medical YMYL for New England`,
   primaryKw: `content marketing agency boston`,
@@ -16,7 +17,7 @@ export const ContentMarketing_Boston = {
   seoTitle: `Content Marketing Agency Boston | FDA-Aware Kendall Square & FINRA | Clickmasters`,
   meta: `Clickmasters content marketing in Boston. FDA-aware Kendall Square life sciences authority, FINRA-compliant investment content, and academic medical YMYL for New England. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boston Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-boston/","address":{"@type":"PostalAddress","addressLocality":"Boston","addressRegion":"MA","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN BOSTON?
 
 Content marketing in Boston is the strategic creation and distribution of FDA-aware, compliance-reviewed, academically-credentialled content for Boston-area businesses — calibrated to Kendall Square's FDA pharmaceutical standard, Back Bay's FINRA investment environment, and Longwood's academic medical YMYL requirement.
@@ -50,7 +51,33 @@ Case Study 3: Longwood Medical — Academic YMYL Content Programme
 Client: Oncology practice, Longwood (3 physicians, Dana-Farber affiliated). Challenge: Penn Med and Mayo content dominating Boston oncology searches. No YMYL content programme.
 Programme: MD-authored YMYL + HMS faculty + Dana-Farber affiliation + NEJM/JAMA citations + HIPAA patient education
 Results (10 months): Page 1 for 13 Boston oncology queries | YMYL E-E-A-T: improved | New patient enquiries from content: +280/month | Dana-Farber affiliation: cited in patient surveys`,
-  faq: `FAQs — Content Marketing Boston`,
+  faqTitle: `FAQs — Content Marketing Boston`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in Boston?",
+    "answer": "Boston content marketing: $2,400/month (Foundation) to $24,000+/month (Full Programme). FDA-aware compliance review. FINRA-compliant for financial services. YMYL standard for healthcare. Massachusetts CDPA privacy compliance. 90-day performance guarantee."
+  },
+  {
+    "question": "What is FDA-aware content marketing for Kendall Square life sciences?",
+    "answer": "FDA-aware content means every piece — blog posts, white papers, case studies — is reviewed against FDA promotional guidelines before publication: no pre-approval efficacy claims, balanced clinical data with appropriate methodology disclosure, IRB-aware clinical trial communication, and accurate phase and indication scope. Kendall Square pharma procurement professionals evaluate vendor content for FDA compliance as part of vendor due diligence."
+  },
+  {
+    "question": "Does Clickmasters produce FINRA-compliant content for Boston financial services?",
+    "answer": "Yes. Every Boston investment content piece is reviewed against FINRA Rule 2210 before publication: CFA-authored market commentary, Bloomberg Terminal and Federal Reserve data citations, GIPS-compliant performance illustration, no guaranteed return claims, and Massachusetts Securities Division compliance awareness. Zero FINRA findings for Boston financial services content clients post-implementation."
+  },
+  {
+    "question": "Does Clickmasters produce academic YMYL content for Boston healthcare?",
+    "answer": "Yes. MD/DO-authored clinical content at HMS institutional standard with HMS faculty appointment and Partners HealthCare affiliation attribution, NEJM/JAMA/NEJM Catalyst peer-reviewed citations, Dana-Farber clinical trial references, and HIPAA-compliant patient education. The YMYL content standard that earns Google E-E-A-T recognition in Boston's academically credentialled healthcare market."
+  },
+  {
+    "question": "Does Clickmasters serve Cambridge, Waltham, and Greater Boston?",
+    "answer": "Yes — all of Greater Boston including Cambridge, Brookline, Newton, Waltham, Burlington, Lexington, and the full Greater Boston metropolitan area."
+  },
+  {
+    "question": "How long does Boston content marketing produce pharma results?",
+    "answer": "Kendall Square FDA-aware content: first meaningful pharma procurement vocabulary rankings at 5-8 months (FDA compliance review adds 15-20% to production time). Stat News and FiercePharma editorial placements: 3-6 months of editorial relationship development. Full pharma procurement authority measurable at 9-14 months."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Boston?","acceptedAnswer":{"@type":"Answer","text":"Boston content marketing: \$2,400/month (Foundation) to \$24,000+/month (Full Programme). FDA-aware compliance review. FINRA-compliant for financial services. YMYL standard for healthcare. Massachusetts CDPA privacy compliance. 90-day performance guarantee."}},{"@type":"Question","name":"What is FDA-aware content marketing for Kendall Square life sciences?","acceptedAnswer":{"@type":"Answer","text":"FDA-aware content means every piece — blog posts, white papers, case studies — is reviewed against FDA promotional guidelines before publication: no pre-approval efficacy claims, balanced clinical data with appropriate methodology disclosure, IRB-aware clinical trial communication, and accurate phase and indication scope. Kendall Square pharma procurement professionals evaluate vendor content for FDA compliance as part of vendor due diligence."}},{"@type":"Question","name":"Does Clickmasters produce FINRA-compliant content for Boston financial services?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every Boston investment content piece is reviewed against FINRA Rule 2210 before publication: CFA-authored market commentary, Bloomberg Terminal and Federal Reserve data citations, GIPS-compliant performance illustration, no guaranteed return claims, and Massachusetts Securities Division compliance awareness. Zero FINRA findings for Boston financial services content clients post-implementation."}},{"@type":"Question","name":"Does Clickmasters produce academic YMYL content for Boston healthcare?","acceptedAnswer":{"@type":"Answer","text":"Yes. MD/DO-authored clinical content at HMS institutional standard with HMS faculty appointment and Partners HealthCare affiliation attribution, NEJM/JAMA/NEJM Catalyst peer-reviewed citations, Dana-Farber clinical trial references, and HIPAA-compliant patient education. The YMYL content standard that earns Google E-E-A-T recognition in Boston's academically credentialled healthcare market."}},{"@type":"Question","name":"Does Clickmasters serve Cambridge, Waltham, and Greater Boston?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Boston including Cambridge, Brookline, Newton, Waltham, Burlington, Lexington, and the full Greater Boston metropolitan area."}},{"@type":"Question","name":"How long does Boston content marketing produce pharma results?","acceptedAnswer":{"@type":"Answer","text":"Kendall Square FDA-aware content: first meaningful pharma procurement vocabulary rankings at 5-8 months (FDA compliance review adds 15-20% to production time). Stat News and FiercePharma editorial placements: 3-6 months of editorial relationship development. Full pharma procurement authority measurable at 9-14 months."}}]}`,
   cta: `Get Your Free Boston Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-boston/","/seo-services-boston/","/content-marketing-new-york/","/industries/healthcare-tech/","/industries/financial-services/"],
@@ -60,7 +87,7 @@ Results (10 months): Page 1 for 13 Boston oncology queries | YMYL E-E-A-T: impro
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-boston/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

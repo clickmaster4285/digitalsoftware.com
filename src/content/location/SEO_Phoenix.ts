@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Phoenix.xlsx
 // Service: SEO
 // City: Phoenix
-// Generated: 2026-06-19T12:50:28.124Z
+// URL: /seo-services-phoenix/
+// Generated: 2026-06-20T04:42:13.822Z
 
 export const SEO_Phoenix = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Phoenix",
   citySlug: "phoenix",
-  slug: "/locations/seo/phoenix",
+  slug: "/seo-services-phoenix/",
   
   h1: `SEO Services Phoenix — TSMC Chandler Semiconductor Authority, CA In-Migration Professional, and Arizona Academic Medical Organic`,
   primaryKw: `seo services phoenix`,
@@ -16,7 +17,7 @@ export const SEO_Phoenix = {
   seoTitle: `SEO Services Phoenix | TSMC Semiconductor Authority & CA In-Migration | Clickmasters`,
   meta: `Clickmasters SEO in Phoenix. TSMC/Intel Chandler semiconductor B2B authority, California in-migration professional organic, and Mayo Clinic/Banner Health YMYL for Arizona's commercial capital. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Phoenix SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-phoenix/","address":{"@type":"PostalAddress","addressLocality":"Phoenix","addressRegion":"AZ","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3800,
   geoAeoBlock: `WHAT IS SEO IN PHOENIX?
 
 SEO in Phoenix is the practice of earning organic search authority in the fastest-growing major US metropolitan market — where TSMC's Fab 21 in Chandler and Intel's Ocotillo campus are creating the most significant US semiconductor manufacturing investment in a generation, California in-migration is elevating the professional services quality standard from Scottsdale to Gilbert, and Mayo Clinic Arizona and Banner Health are defining Phoenix's academic medical credential benchmark.
@@ -41,7 +42,33 @@ Case Study 3: Scottsdale Healthcare Practice — Mayo Clinic YMYL Arizona SEO
 Client: Internal medicine, Scottsdale (2 physicians, Mayo Clinic-adjacent). Challenge: Generic content below Mayo Clinic community YMYL standard.
 Programme: Mayo Clinic adjacent credential content + YMYL E-E-A-T architecture + HIPAA analytics + Arizona medical vocabulary
 Results (10 months): Page 1 for 12 Scottsdale healthcare queries | YMYL E-E-A-T recognition: achieved | New patients from organic: +3x`,
-  faq: `FAQs — SEO Phoenix`,
+  faqTitle: `FAQs — SEO Phoenix`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Phoenix?",
+    "answer": "Phoenix SEO: $1,200/month (Foundation) to $11,000+/month (Enterprise). TSMC/Intel semiconductor vocabulary. CA in-migration professional services. Mayo Clinic/Banner YMYL healthcare. FINRA financial. Arizona retainers below California. 90-day guarantee."
+  },
+  {
+    "question": "What is TSMC Chandler semiconductor SEO for Phoenix businesses?",
+    "answer": "TSMC Fab 21 semiconductor SEO builds organic authority in the SEMI standards vocabulary that TSMC and Intel Ocotillo procurement evaluates: SEMI F47 (voltage sag immunity), SEMI C62 (ultra-clean chemistry), SEMI E10 (equipment reliability), ISO 14644-1 cleanroom classification, and the wafer fabrication operational vocabulary specific to Arizona's new semiconductor manufacturing ecosystem."
+  },
+  {
+    "question": "What is CA in-migration SEO for Phoenix businesses?",
+    "answer": "CA in-migration SEO builds organic authority for the vocabulary that Scottsdale, Paradise Valley, Gilbert, and Chandler's California-origin residential community searches: CA-to-AZ income tax comparison (California 13.3% vs Arizona 4.5% flat rate), Arizona estate planning vs California Proposition 19, and the professional services transition vocabulary that CA in-migration professionals actively research during their first 12 Arizona months."
+  },
+  {
+    "question": "Does Clickmasters serve Scottsdale, Chandler, Tempe, and Greater Phoenix?",
+    "answer": "Yes — all of the Phoenix metropolitan area: Maricopa County (Phoenix, Scottsdale, Chandler, Tempe, Gilbert, Glendale, Mesa, Peoria) and Pinal County."
+  },
+  {
+    "question": "How long does Phoenix semiconductor SEO take?",
+    "answer": "TSMC/Intel vocabulary rankings: 5-8 months. SEMI community editorial: 3-5 months. Full TSMC Fab 21 ecosystem organic discovery: 7-12 months."
+  },
+  {
+    "question": "How does GEO/AEO affect Phoenix SEO?",
+    "answer": "Phoenix's semiconductor engineering community and CA in-migration professional community are above-average AI search adopters. When TSMC Fab 21 procurement asks ChatGPT for ISO 14644-1 cleanroom services in Chandler, or a Scottsdale CA in-migration professional asks Perplexity for CA-to-AZ income tax planning advisers, companies with GEO/AEO signals appear."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Phoenix?","acceptedAnswer":{"@type":"Answer","text":"Phoenix SEO: \$1,200/month (Foundation) to \$11,000+/month (Enterprise). TSMC/Intel semiconductor vocabulary. CA in-migration professional services. Mayo Clinic/Banner YMYL healthcare. FINRA financial. Arizona retainers below California. 90-day guarantee."}},{"@type":"Question","name":"What is TSMC Chandler semiconductor SEO for Phoenix businesses?","acceptedAnswer":{"@type":"Answer","text":"TSMC Fab 21 semiconductor SEO builds organic authority in the SEMI standards vocabulary that TSMC and Intel Ocotillo procurement evaluates: SEMI F47 (voltage sag immunity), SEMI C62 (ultra-clean chemistry), SEMI E10 (equipment reliability), ISO 14644-1 cleanroom classification, and the wafer fabrication operational vocabulary specific to Arizona's new semiconductor manufacturing ecosystem."}},{"@type":"Question","name":"What is CA in-migration SEO for Phoenix businesses?","acceptedAnswer":{"@type":"Answer","text":"CA in-migration SEO builds organic authority for the vocabulary that Scottsdale, Paradise Valley, Gilbert, and Chandler's California-origin residential community searches: CA-to-AZ income tax comparison (California 13.3% vs Arizona 4.5% flat rate), Arizona estate planning vs California Proposition 19, and the professional services transition vocabulary that CA in-migration professionals actively research during their first 12 Arizona months."}},{"@type":"Question","name":"Does Clickmasters serve Scottsdale, Chandler, Tempe, and Greater Phoenix?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Phoenix metropolitan area: Maricopa County (Phoenix, Scottsdale, Chandler, Tempe, Gilbert, Glendale, Mesa, Peoria) and Pinal County."}},{"@type":"Question","name":"How long does Phoenix semiconductor SEO take?","acceptedAnswer":{"@type":"Answer","text":"TSMC/Intel vocabulary rankings: 5-8 months. SEMI community editorial: 3-5 months. Full TSMC Fab 21 ecosystem organic discovery: 7-12 months."}},{"@type":"Question","name":"How does GEO/AEO affect Phoenix SEO?","acceptedAnswer":{"@type":"Answer","text":"Phoenix's semiconductor engineering community and CA in-migration professional community are above-average AI search adopters. When TSMC Fab 21 procurement asks ChatGPT for ISO 14644-1 cleanroom services in Chandler, or a Scottsdale CA in-migration professional asks Perplexity for CA-to-AZ income tax planning advisers, companies with GEO/AEO signals appear."}}]}`,
   cta: `Get Your Free Phoenix SEO Audit`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-phoenix/","/seo-services-las-vegas/","/seo-services-los-angeles/"],
@@ -51,7 +78,7 @@ Results (10 months): Page 1 for 12 Scottsdale healthcare queries | YMYL E-E-A-T 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-phoenix/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

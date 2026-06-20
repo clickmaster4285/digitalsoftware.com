@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Richmond.xlsx
 // Service: DigitalMarketing
 // City: Richmond
-// Generated: 2026-06-19T12:50:26.033Z
+// URL: /digital-marketing-agency-richmond/
+// Generated: 2026-06-20T04:42:11.529Z
 
 export const DigitalMarketing_Richmond = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Richmond",
   citySlug: "richmond",
-  slug: "/locations/digital-marketing/richmond",
+  slug: "/digital-marketing-agency-richmond/",
   
   h1: `Digital Marketing Agency Richmond — Capital One Revenue, Dominion Energy B2B, CarMax Retail Analytics, and River City Commercial Growth`,
   primaryKw: `digital marketing agency richmond`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_Richmond = {
   seoTitle: `Digital Marketing Agency Richmond | Capital One Revenue & Dominion Energy Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Richmond. Capital One FINRA/SEC ML fintech revenue, Dominion Energy utility B2B, CarMax automotive retail analytics, and VCU Health/Bon Secours YMYL. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Richmond Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3800,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN RICHMOND?
 
 A Richmond digital marketing agency manages digital channels for River City businesses across four commercially distinct sectors.
@@ -43,7 +44,33 @@ Case Study 3: Richmond Healthcare Technology — VCU Health/Bon Secours YMYL Ful
 Client: Clinical analytics, Richmond (\$5.4M ARR). Challenge: VCU Health/Bon Secours vocabulary absent. Non-HIPAA. Non-VCDPA.
 Programme: SEO (VCU Health/Bon Secours YMYL) + HIPAA rebuild + VCDPA-native + content (Virginia academic medical)
 Results (11 months): Page 1 for 10 Richmond health IT queries | VCU Health: evaluation | YMYL: E-E-A-T | HIPAA/VCDPA: clean | Pipeline: \$1.2M`,
-  faq: `FAQs — Digital Marketing Richmond`,
+  faqTitle: `FAQs — Digital Marketing Richmond`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Richmond?",
+    "answer": "Richmond digital marketing: $1,100/month (single channel) to $12,000+/month (enterprise). Capital One ML/FINRA vocabulary. Dominion Energy utility/clean energy. CarMax automotive analytics. VCU Health YMYL. Virginia VCDPA-native. Virginia retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What makes Capital One digital marketing unique for Richmond businesses?",
+    "answer": "Capital One is one of the most technology-advanced US commercial banks — renowned for machine learning credit decisioning, data analytics infrastructure, and digital banking technology. Capital One's Henrico County headquarters creates a Mid-Atlantic financial technology B2B digital marketing community evaluating vendor content against ML-fintech operational precision that most Richmond agencies cannot calibrate."
+  },
+  {
+    "question": "Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?",
+    "answer": "Yes — all of Greater Richmond MSA: City of Richmond, Henrico, Chesterfield, Hanover, and Powhatan Counties."
+  },
+  {
+    "question": "What is Dominion Energy clean energy digital marketing for Richmond businesses?",
+    "answer": "Dominion Energy clean energy digital marketing demonstrates carbon neutrality programme specifics, offshore wind development operational vocabulary, grid modernisation and clean energy transition technology — reaching Dominion Energy Richmond's technology procurement from the largest utility in Virginia."
+  },
+  {
+    "question": "What is Virginia VCDPA compliance for Richmond digital marketing?",
+    "answer": "Virginia Consumer Data Protection Act (VCDPA, effective January 2023) creates data privacy compliance requirements for Richmond businesses serving Virginia consumers. VCDPA-native analytics with consent management protect from Virginia AG enforcement while producing accurate Richmond performance measurement."
+  },
+  {
+    "question": "How does GEO/AEO affect Richmond digital marketing?",
+    "answer": "Capital One's machine learning and Dominion Energy's clean energy technology communities use AI search for vendor research. First-mover GEO/AEO for Richmond Capital One ML and Dominion Energy vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Richmond?","acceptedAnswer":{"@type":"Answer","text":"Richmond digital marketing: \$1,100/month (single channel) to \$12,000+/month (enterprise). Capital One ML/FINRA vocabulary. Dominion Energy utility/clean energy. CarMax automotive analytics. VCU Health YMYL. Virginia VCDPA-native. Virginia retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What makes Capital One digital marketing unique for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"Capital One is one of the most technology-advanced US commercial banks — renowned for machine learning credit decisioning, data analytics infrastructure, and digital banking technology. Capital One's Henrico County headquarters creates a Mid-Atlantic financial technology B2B digital marketing community evaluating vendor content against ML-fintech operational precision that most Richmond agencies cannot calibrate."}},{"@type":"Question","name":"Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Richmond MSA: City of Richmond, Henrico, Chesterfield, Hanover, and Powhatan Counties."}},{"@type":"Question","name":"What is Dominion Energy clean energy digital marketing for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"Dominion Energy clean energy digital marketing demonstrates carbon neutrality programme specifics, offshore wind development operational vocabulary, grid modernisation and clean energy transition technology — reaching Dominion Energy Richmond's technology procurement from the largest utility in Virginia."}},{"@type":"Question","name":"What is Virginia VCDPA compliance for Richmond digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Virginia Consumer Data Protection Act (VCDPA, effective January 2023) creates data privacy compliance requirements for Richmond businesses serving Virginia consumers. VCDPA-native analytics with consent management protect from Virginia AG enforcement while producing accurate Richmond performance measurement."}},{"@type":"Question","name":"How does GEO/AEO affect Richmond digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Capital One's machine learning and Dominion Energy's clean energy technology communities use AI search for vendor research. First-mover GEO/AEO for Richmond Capital One ML and Dominion Energy vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Richmond Digital Marketing Audit`,
   internalLinks: ["/seo-services-richmond/","/digital-marketing-agency-usa/","/digital-marketing-agency-washington-dc/","/digital-marketing-agency-charlotte/"],
@@ -53,7 +80,7 @@ Results (11 months): Page 1 for 10 Richmond health IT queries | VCU Health: eval
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-richmond/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

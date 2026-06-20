@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Denver.xlsx
 // Service: DigitalMarketing
 // City: Denver
-// Generated: 2026-06-19T12:50:25.657Z
+// URL: /digital-marketing-agency-denver/
+// Generated: 2026-06-20T04:42:11.227Z
 
 export const DigitalMarketing_Denver = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Denver",
   citySlug: "denver",
-  slug: "/locations/digital-marketing/denver",
+  slug: "/digital-marketing-agency-denver/",
   
   h1: `Digital Marketing Agency Denver — Aerospace Authority, Clean Energy Credibility, and Colorado's In-Migration Revenue Opportunity`,
   primaryKw: `digital marketing agency denver`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_Denver = {
   seoTitle: `Digital Marketing Agency Denver | Aerospace, Clean Energy & Colorado Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Denver. Aerospace technical authority, NREL clean energy credibility, and in-migration revenue growth programmes for Colorado businesses. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Denver Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-denver/","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4200,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN DENVER?
 
 A Denver digital marketing agency manages digital channels for Denver-area businesses in Colorado's commercially distinctive market — where Lockheed Martin's and Ball Aerospace's supply chain, the NREL clean energy ecosystem, and the extraordinary in-migration wave have each created commercial digital marketing opportunities that most Denver businesses have not yet systematically captured.
@@ -43,7 +44,33 @@ Case Study 3: Cherry Creek Professional Services — In-Migration Full Programme
 Client: Wealth management, Cherry Creek (\$380M AUM). Challenge: CA/TX/IL in-migrants with complex financial needs not finding Cherry Creek advisers. No digital programme.
 Programme: SEO + Google Ads (in-migration financial planning) + content (CA-to-CO tax) + Local SEO (Cherry Creek)
 Results (10 months): Page 1 for 12 in-migration financial queries | Google Ads in-migration CPL: \$180 | Local Pack top 3 Cherry Creek | New AUM: \$68M | Average new client AUM: \$1.2M`,
-  faq: `FAQs — Digital Marketing Denver`,
+  faqTitle: `FAQs — Digital Marketing Denver`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Denver?",
+    "answer": "Denver digital marketing: $1,800/month (single channel) to $20,000+/month (enterprise). ITAR-bounded aerospace content standard. NREL citation accuracy review. 90-day performance guarantee."
+  },
+  {
+    "question": "Which digital marketing channels work best for Denver aerospace companies?",
+    "answer": "(1) SEO — AS9100D/ITAR technical content builds the organic procurement authority that earns Lockheed and Ball evaluation invitations. (2) Google Ads with defence vocabulary — ITAR-bounded campaigns targeting defence procurement searches. (3) Email — AUSA and Space Symposium contact reactivation converts conference contacts to qualified evaluations. (4) LinkedIn — aerospace executive thought leadership earning defence programme community credibility."
+  },
+  {
+    "question": "Does Clickmasters serve Boulder, Colorado Springs, and all of Colorado?",
+    "answer": "Yes — all of Colorado including Boulder (clean tech community), Colorado Springs (Space Force, defence contractors), Fort Collins, Aurora, and the full state market."
+  },
+  {
+    "question": "How does GEO/AEO affect Denver digital marketing?",
+    "answer": "Denver's aerospace and clean energy professional community is increasingly using AI search for procurement research. When a Lockheed programme manager asks ChatGPT for Colorado AS9100D aerospace component suppliers, or a utility procurement officer asks Perplexity for NREL-partnered solar technology vendors in Colorado, the companies with GEO and AEO signals appear in those answers."
+  },
+  {
+    "question": "What is ITAR-bounded digital marketing?",
+    "answer": "ITAR (International Traffic in Arms Regulations) restricts disclosure of defence technical information. ITAR-bounded digital marketing means: Google Ads and content that references publicly releasable defence programme information only, landing pages that communicate capability without disclosing controlled technical data, and the careful compliance that protects Colorado aerospace companies from ITAR exposure while still communicating defence procurement credibility."
+  },
+  {
+    "question": "How quickly does Denver aerospace digital marketing produce defence RFQ results?",
+    "answer": "Denver aerospace content: first meaningful procurement vocabulary rankings 5-8 months. Google Ads defence vocabulary leads: 7-14 days. AUSA email reactivation RFQs: 60-90 days. LinkedIn defence programme community recognition: 6-8 months."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Denver?","acceptedAnswer":{"@type":"Answer","text":"Denver digital marketing: \$1,800/month (single channel) to \$20,000+/month (enterprise). ITAR-bounded aerospace content standard. NREL citation accuracy review. 90-day performance guarantee."}},{"@type":"Question","name":"Which digital marketing channels work best for Denver aerospace companies?","acceptedAnswer":{"@type":"Answer","text":"(1) SEO — AS9100D/ITAR technical content builds the organic procurement authority that earns Lockheed and Ball evaluation invitations. (2) Google Ads with defence vocabulary — ITAR-bounded campaigns targeting defence procurement searches. (3) Email — AUSA and Space Symposium contact reactivation converts conference contacts to qualified evaluations. (4) LinkedIn — aerospace executive thought leadership earning defence programme community credibility."}},{"@type":"Question","name":"Does Clickmasters serve Boulder, Colorado Springs, and all of Colorado?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Colorado including Boulder (clean tech community), Colorado Springs (Space Force, defence contractors), Fort Collins, Aurora, and the full state market."}},{"@type":"Question","name":"How does GEO/AEO affect Denver digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Denver's aerospace and clean energy professional community is increasingly using AI search for procurement research. When a Lockheed programme manager asks ChatGPT for Colorado AS9100D aerospace component suppliers, or a utility procurement officer asks Perplexity for NREL-partnered solar technology vendors in Colorado, the companies with GEO and AEO signals appear in those answers."}},{"@type":"Question","name":"What is ITAR-bounded digital marketing?","acceptedAnswer":{"@type":"Answer","text":"ITAR (International Traffic in Arms Regulations) restricts disclosure of defence technical information. ITAR-bounded digital marketing means: Google Ads and content that references publicly releasable defence programme information only, landing pages that communicate capability without disclosing controlled technical data, and the careful compliance that protects Colorado aerospace companies from ITAR exposure while still communicating defence procurement credibility."}},{"@type":"Question","name":"How quickly does Denver aerospace digital marketing produce defence RFQ results?","acceptedAnswer":{"@type":"Answer","text":"Denver aerospace content: first meaningful procurement vocabulary rankings 5-8 months. Google Ads defence vocabulary leads: 7-14 days. AUSA email reactivation RFQs: 60-90 days. LinkedIn defence programme community recognition: 6-8 months."}}]}`,
   cta: `Get Your Free Denver Digital Marketing Audit`,
   internalLinks: ["/seo-services-denver/","/web-design-agency-denver/","/digital-marketing-agency-usa/","/industries/manufacturing/","/industries/clean-energy/","/digital-marketing-agency-dallas/"],
@@ -53,7 +80,7 @@ Results (10 months): Page 1 for 12 in-migration financial queries | Google Ads i
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-denver/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

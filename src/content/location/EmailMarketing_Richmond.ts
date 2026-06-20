@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Richmond.xlsx
 // Service: EmailMarketing
 // City: Richmond
-// Generated: 2026-06-19T12:50:26.660Z
+// URL: /email-marketing-richmond/
+// Generated: 2026-06-20T04:42:12.079Z
 
 export const EmailMarketing_Richmond = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "Richmond",
   citySlug: "richmond",
-  slug: "/locations/email-marketing/richmond",
+  slug: "/email-marketing-richmond/",
   
   h1: `Email Marketing Richmond — Capital One ML Pipeline, Dominion Energy Clean Energy Nurture, and Virginia VCDPA-Compliant Revenue`,
   primaryKw: `email marketing agency richmond`,
@@ -16,7 +17,7 @@ export const EmailMarketing_Richmond = {
   seoTitle: `Email Marketing Richmond | Capital One ML Pipeline & Dominion Clean Energy | Clickmasters`,
   meta: `Clickmasters email marketing in Richmond. Capital One ML/FINRA fintech pipeline, Dominion Energy clean energy nurture, VCU Health/Bon Secours HIPAA, and Virginia VCDPA-compliant professional email. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Richmond Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN RICHMOND?
 
 Email marketing in Richmond is the strategic management of email as a Capital One ML FINRA-compliant fintech procurement pipeline, Dominion Energy clean energy technology nurture channel, and Virginia VCDPA-compliant professional revenue channel.
@@ -50,7 +51,33 @@ Case Study 3: Richmond Healthcare — VCU Health/Bon Secours HIPAA VCDPA Procure
 Client: Clinical analytics, Richmond (\$5.4M ARR). Challenge: VCU/Bon Secours contacts cold. Non-HIPAA. Non-VCDPA email.
 Programme: VCU/Bon Secours clinical vocabulary + HIPAA/VCDPA-compliant + named sequences + 120-day academic medical triggers
 Results: VCU re-engagement: 42% | Bon Secours: 38% | HIPAA/VCDPA: Virginia AG pre-audit passed | Pipeline: \$1.2M`,
-  faq: `FAQs — Email Marketing Richmond`,
+  faqTitle: `FAQs — Email Marketing Richmond`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Richmond?",
+    "answer": "Richmond email marketing: $750/month (Foundation) to $8,000+/month (Enterprise). Capital One ML FINRA-compliant fintech pipeline. Dominion Energy CVOW/clean energy nurture. VCU/Bon Secours HIPAA. Virginia VCDPA-compliant. Virginia retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is Capital One ML FINRA-compliant fintech pipeline email for Richmond businesses?",
+    "answer": "Machine learning credit decisioning operational intelligence, consumer lending analytics methodology updates, real-time credit risk modelling content — maintaining Capital One ML engineering and procurement contact relationships through 90-180 day ML fintech evaluation cycles with FINRA Rule 2210-compliant email throughout and Virginia VCDPA-compliant email data handling."
+  },
+  {
+    "question": "What is Dominion Energy CVOW clean energy technology email for Richmond businesses?",
+    "answer": "CVOW (Coastal Virginia Offshore Wind) development programme intelligence updates, grid modernisation clean energy integration operational content, and carbon neutrality transition programme news — maintaining Dominion Energy Richmond clean energy procurement contact relationships through 90-180 day utility technology evaluation cycles with VCDPA-compliant data handling."
+  },
+  {
+    "question": "Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?",
+    "answer": "Yes — all of Greater Richmond MSA."
+  },
+  {
+    "question": "How long does Capital One ML pipeline email produce fintech results?",
+    "answer": "Capital One ML re-engagement from ML credit decisioning precision email: 21-30 days. Capital One evaluation invitations: 90-150 days. Full Capital One ML pipeline: 6-10 months."
+  },
+  {
+    "question": "What makes CVOW offshore wind email content uniquely compelling for Dominion Energy procurement?",
+    "answer": "Coastal Virginia Offshore Wind (CVOW) is one of the largest offshore wind projects in the US — a $10B+ Dominion Energy investment — making CVOW development programme intelligence uniquely valuable Dominion email content. Energy technology vendors who demonstrate CVOW operational vocabulary awareness in nurture email signal genuine Dominion Energy strategic initiative understanding that distinguishes them from generic utility technology vendors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Richmond?","acceptedAnswer":{"@type":"Answer","text":"Richmond email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). Capital One ML FINRA-compliant fintech pipeline. Dominion Energy CVOW/clean energy nurture. VCU/Bon Secours HIPAA. Virginia VCDPA-compliant. Virginia retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Capital One ML FINRA-compliant fintech pipeline email for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"Machine learning credit decisioning operational intelligence, consumer lending analytics methodology updates, real-time credit risk modelling content — maintaining Capital One ML engineering and procurement contact relationships through 90-180 day ML fintech evaluation cycles with FINRA Rule 2210-compliant email throughout and Virginia VCDPA-compliant email data handling."}},{"@type":"Question","name":"What is Dominion Energy CVOW clean energy technology email for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"CVOW (Coastal Virginia Offshore Wind) development programme intelligence updates, grid modernisation clean energy integration operational content, and carbon neutrality transition programme news — maintaining Dominion Energy Richmond clean energy procurement contact relationships through 90-180 day utility technology evaluation cycles with VCDPA-compliant data handling."}},{"@type":"Question","name":"Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Richmond MSA."}},{"@type":"Question","name":"How long does Capital One ML pipeline email produce fintech results?","acceptedAnswer":{"@type":"Answer","text":"Capital One ML re-engagement from ML credit decisioning precision email: 21-30 days. Capital One evaluation invitations: 90-150 days. Full Capital One ML pipeline: 6-10 months."}},{"@type":"Question","name":"What makes CVOW offshore wind email content uniquely compelling for Dominion Energy procurement?","acceptedAnswer":{"@type":"Answer","text":"Coastal Virginia Offshore Wind (CVOW) is one of the largest offshore wind projects in the US — a \$10B+ Dominion Energy investment — making CVOW development programme intelligence uniquely valuable Dominion email content. Energy technology vendors who demonstrate CVOW operational vocabulary awareness in nurture email signal genuine Dominion Energy strategic initiative understanding that distinguishes them from generic utility technology vendors."}}]}`,
   cta: `Get Your Free Richmond Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-richmond/","/seo-services-richmond/","/email-marketing-washington-dc/"],
@@ -60,7 +87,7 @@ Results: VCU re-engagement: 42% | Bon Secours: 38% | HIPAA/VCDPA: Virginia AG pr
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-richmond/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

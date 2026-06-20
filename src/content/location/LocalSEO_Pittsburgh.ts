@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Pittsburgh.xlsx
 // Service: LocalSEO
 // City: Pittsburgh
-// Generated: 2026-06-19T12:50:27.636Z
+// URL: /local-seo-services-pittsburgh/
+// Generated: 2026-06-20T04:42:13.348Z
 
 export const LocalSEO_Pittsburgh = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "Pittsburgh",
   citySlug: "pittsburgh",
-  slug: "/locations/local-seo/pittsburgh",
+  slug: "/local-seo-services-pittsburgh/",
   
   h1: `Local SEO Pittsburgh — UPMC World-Class GBP Credential, CMU AI Corridor Proximity, and Shadyside/Squirrel Hill Professional Quality`,
   primaryKw: `local seo services pittsburgh`,
@@ -16,7 +17,7 @@ export const LocalSEO_Pittsburgh = {
   seoTitle: `Local SEO Pittsburgh | UPMC World-Class GBP & CMU AI Proximity | Clickmasters`,
   meta: `Clickmasters Local SEO in Pittsburgh. UPMC world-class international YMYL GBP credential, CMU AI Corridor proximity signals, and Shadyside/Squirrel Hill professional quality standard. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Pittsburgh Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-pittsburgh/","address":{"@type":"PostalAddress","addressLocality":"Pittsburgh","addressRegion":"PA","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS LOCAL SEO IN PITTSBURGH?
 
 Local SEO in Pittsburgh is the practice of optimising Google Business Profiles for the top 3 of Greater Pittsburgh's Local Pack — in a market where UPMC's world-class international academic medical credential defines the highest YMYL healthcare GBP standard in Pennsylvania, CMU's AI Corridor creates B2B proximity GBP commercial value, and Shadyside and Squirrel Hill represent the highest-income professional communities in Allegheny County.
@@ -41,7 +42,33 @@ Case Study 3: Oakland/Strip District AI Technology — CMU/Aurora Proximity GBP
 Client: AI robotics consulting, Pittsburgh (CMU-adjacent). Challenge: No CMU/Aurora vocabulary. Generic professional services GBP.
 Programme: CMU ML/Robotics vocabulary + Aurora AI Corridor proximity signals + research community photography
 Results (3 months): Top 3 Local Pack Pittsburgh AI consulting | AI Corridor near-me enquiries: +3x`,
-  faq: `FAQs — Local SEO Pittsburgh`,
+  faqTitle: `FAQs — Local SEO Pittsburgh`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in Pittsburgh?",
+    "answer": "Pittsburgh Local SEO: $950/month (single) to $9,500+/month (enterprise). UPMC world-class international YMYL GBP. CMU/Aurora AI Corridor proximity. Shadyside/Squirrel Hill professional quality. HIPAA internationally-oriented/FINRA review management. Pennsylvania retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is UPMC world-class internationally-oriented YMYL GBP for Pittsburgh healthcare?",
+    "answer": "UPMC Presbyterian-Shadyside or Hillman Cancer program affiliation display, University of Pittsburgh School of Medicine faculty attribution, UPMC International community awareness in GBP content, HIPAA-compliant internationally-sensitive review management — the world-class academic medical GBP credential that earns trust from Pittsburgh's international patient community and UPMC's globally-recruited physician professionals."
+  },
+  {
+    "question": "What is CMU/Aurora AI Corridor proximity GBP for Pittsburgh technology businesses?",
+    "answer": "CMU Machine Learning and Robotics vocabulary in GBP service descriptions, Aurora Innovation autonomous vehicle community proximity signals for Strip District and Oakland GBPs, and Pittsburgh AI Corridor applied AI vocabulary — earning above-average B2B near-me consideration from the most commercially dense applied AI research community in the US outside Silicon Valley."
+  },
+  {
+    "question": "Does Clickmasters serve Shadyside, Squirrel Hill, Robinson Township, and Greater Pittsburgh?",
+    "answer": "Yes — all of Greater Pittsburgh MSA: Allegheny, Washington, Westmoreland, Butler, and Beaver Counties."
+  },
+  {
+    "question": "How many reviews for Pittsburgh Local Pack?",
+    "answer": "Greater Pittsburgh benchmarks: Shadyside/Squirrel Hill professional services: 4.5+ stars, 65-120+ reviews. UPMC-adjacent healthcare: 4.5+, 65-120+ (world-class standard). CMU/Aurora AI B2B: 4.3+, 30-60+."
+  },
+  {
+    "question": "What is the Shadyside/Squirrel Hill professional quality standard for Pittsburgh Local SEO?",
+    "answer": "UPMC physicians, CMU professors, and Carnegie Mellon AI researchers represent some of the most academically credentialled residential professional communities in the Northeast Rust Belt — evaluating GBPs with the world-class institutional precision of their professional context: CFP Board verification for financial advisory, UPMC/Pitt SOM faculty attribution for healthcare, and world-class professional photography that communicates the institutional quality of Pittsburgh's remarkable academic and research community."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Pittsburgh?","acceptedAnswer":{"@type":"Answer","text":"Pittsburgh Local SEO: \$950/month (single) to \$9,500+/month (enterprise). UPMC world-class international YMYL GBP. CMU/Aurora AI Corridor proximity. Shadyside/Squirrel Hill professional quality. HIPAA internationally-oriented/FINRA review management. Pennsylvania retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is UPMC world-class internationally-oriented YMYL GBP for Pittsburgh healthcare?","acceptedAnswer":{"@type":"Answer","text":"UPMC Presbyterian-Shadyside or Hillman Cancer program affiliation display, University of Pittsburgh School of Medicine faculty attribution, UPMC International community awareness in GBP content, HIPAA-compliant internationally-sensitive review management — the world-class academic medical GBP credential that earns trust from Pittsburgh's international patient community and UPMC's globally-recruited physician professionals."}},{"@type":"Question","name":"What is CMU/Aurora AI Corridor proximity GBP for Pittsburgh technology businesses?","acceptedAnswer":{"@type":"Answer","text":"CMU Machine Learning and Robotics vocabulary in GBP service descriptions, Aurora Innovation autonomous vehicle community proximity signals for Strip District and Oakland GBPs, and Pittsburgh AI Corridor applied AI vocabulary — earning above-average B2B near-me consideration from the most commercially dense applied AI research community in the US outside Silicon Valley."}},{"@type":"Question","name":"Does Clickmasters serve Shadyside, Squirrel Hill, Robinson Township, and Greater Pittsburgh?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Pittsburgh MSA: Allegheny, Washington, Westmoreland, Butler, and Beaver Counties."}},{"@type":"Question","name":"How many reviews for Pittsburgh Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Pittsburgh benchmarks: Shadyside/Squirrel Hill professional services: 4.5+ stars, 65-120+ reviews. UPMC-adjacent healthcare: 4.5+, 65-120+ (world-class standard). CMU/Aurora AI B2B: 4.3+, 30-60+."}},{"@type":"Question","name":"What is the Shadyside/Squirrel Hill professional quality standard for Pittsburgh Local SEO?","acceptedAnswer":{"@type":"Answer","text":"UPMC physicians, CMU professors, and Carnegie Mellon AI researchers represent some of the most academically credentialled residential professional communities in the Northeast Rust Belt — evaluating GBPs with the world-class institutional precision of their professional context: CFP Board verification for financial advisory, UPMC/Pitt SOM faculty attribution for healthcare, and world-class professional photography that communicates the institutional quality of Pittsburgh's remarkable academic and research community."}}]}`,
   cta: `Get Your Free Pittsburgh Local SEO Audit`,
   internalLinks: ["/local-seo-services/","/seo-services-pittsburgh/","/digital-marketing-agency-pittsburgh/","/local-seo-services-cleveland/"],
@@ -51,7 +78,7 @@ Results (3 months): Top 3 Local Pack Pittsburgh AI consulting | AI Corridor near
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-pittsburgh/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

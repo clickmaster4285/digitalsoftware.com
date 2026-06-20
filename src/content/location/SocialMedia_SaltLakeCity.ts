@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SocialMedia-SaltLakeCity.xlsx
 // Service: SocialMedia
 // City: SaltLakeCity
-// Generated: 2026-06-19T12:50:28.746Z
+// URL: /social-media-marketing-salt-lake-city/
+// Generated: 2026-06-20T04:42:14.420Z
 
 export const SocialMedia_SaltLakeCity = {
   service: "SocialMedia",
   serviceSlug: "social-media",
   city: "SaltLakeCity",
   citySlug: "salt-lake-city",
-  slug: "/locations/social-media/salt-lake-city",
+  slug: "/social-media-marketing-salt-lake-city/",
   
   h1: `Social Media Marketing Salt Lake City — Silicon Slopes Enterprise LinkedIn, Goldman Financial Community, and Authentic Beehive State Brand Social`,
   primaryKw: `social media marketing salt lake city`,
@@ -16,7 +17,7 @@ export const SocialMedia_SaltLakeCity = {
   seoTitle: `Social Media Marketing Salt Lake City | Silicon Slopes LinkedIn & Goldman Community | Clickmasters`,
   meta: `Clickmasters social media in Salt Lake City. Silicon Slopes Qualtrics/Domo enterprise LinkedIn, Goldman Sachs FINRA financial community, and authentic Sugar House/Avenues/9th & 9th brand social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Salt Lake City Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-salt-lake-city/","address":{"@type":"PostalAddress","addressLocality":"Salt Lake City","addressRegion":"UT","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN SALT LAKE CITY?
 
 Social media marketing in Salt Lake City is the strategic management of social platforms across three commercially distinct communities: the Silicon Slopes enterprise technology professional LinkedIn ecosystem, the Goldman Sachs/Zions institutional financial management community, and the authentic Beehive State consumer brand community in Sugar House, The Avenues, and 9th & 9th.
@@ -41,7 +42,33 @@ Case Study 3: Sugar House Consumer Brand — Authentic SLC Social
 Client: Artisan lifestyle brand, Sugar House (\$1.2M DTC). Challenge: Generic 'Utah outdoor lifestyle' below Sugar House authentic arts community.
 Programme: Sugar House independent arts vocabulary + Avenues historic character + 9th & 9th artisan community + UCPA-aware
 Results (5 months): Instagram engagement: 1.4% to 5.2% | SLC community editorial: 2 | DTC revenue: +\$90K | UCPA: compliant`,
-  faq: `FAQs — Social Media Marketing Salt Lake City`,
+  faqTitle: `FAQs — Social Media Marketing Salt Lake City`,
+  faqs: [
+  {
+    "question": "How much does social media marketing cost in Salt Lake City?",
+    "answer": "Salt Lake City social media: $1,100/month (LinkedIn growth) to $11,000+/month (enterprise). Silicon Slopes Qualtrics/Domo/Pluralsight operational precision. Goldman Sachs FINRA institutional. Authentic Beehive State brand. UCPA-aware analytics. Utah retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is Silicon Slopes enterprise LinkedIn for Salt Lake City businesses?",
+    "answer": "Silicon Slopes LinkedIn demonstrates Qualtrics XM driver analysis operational methodology, Domo BI data pipeline architecture specifics, Pluralsight Skill IQ assessment methodology, and Ancestry.com technology operational intelligence — the enterprise SaaS vocabulary that earns genuine Silicon Slopes procurement community LinkedIn engagement."
+  },
+  {
+    "question": "What is authentic Beehive State consumer brand social for Salt Lake City?",
+    "answer": "Sugar House's independent arts and food community vocabulary, The Avenues' historic Victorian residential character, and 9th & 9th's artisan retail and food community — the specific Salt Lake City neighbourhood identities that distinguish genuinely locally-rooted Beehive State brands from generic Utah outdoor/ski lifestyle commercial approximations."
+  },
+  {
+    "question": "Does Clickmasters serve Lehi, Draper, South Jordan, and Greater Salt Lake City?",
+    "answer": "Yes — all of Greater Salt Lake City and the Wasatch Front."
+  },
+  {
+    "question": "What is Goldman Sachs FINRA institutional LinkedIn for Salt Lake City financial technology vendors?",
+    "answer": "FINRA-compliant LinkedIn demonstrating Goldman Sachs institutional trading systems operational insights, investment banking workflow automation specifics, and wealth management platform operational intelligence — at Goldman's 3,000+ employee Salt Lake City operations centre institutional precision."
+  },
+  {
+    "question": "How does UCPA affect Salt Lake City social media analytics?",
+    "answer": "Utah UCPA requires opt-in consent for social analytics pixel tracking. UCPA-non-compliant Salt Lake City social analytics overstate engagement by collecting data from Utah opt-out users — creating Utah AG enforcement exposure. UCPA-aware social analytics produce accurate SLC brand performance measurement."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Salt Lake City social media: \$1,100/month (LinkedIn growth) to \$11,000+/month (enterprise). Silicon Slopes Qualtrics/Domo/Pluralsight operational precision. Goldman Sachs FINRA institutional. Authentic Beehive State brand. UCPA-aware analytics. Utah retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Silicon Slopes enterprise LinkedIn for Salt Lake City businesses?","acceptedAnswer":{"@type":"Answer","text":"Silicon Slopes LinkedIn demonstrates Qualtrics XM driver analysis operational methodology, Domo BI data pipeline architecture specifics, Pluralsight Skill IQ assessment methodology, and Ancestry.com technology operational intelligence — the enterprise SaaS vocabulary that earns genuine Silicon Slopes procurement community LinkedIn engagement."}},{"@type":"Question","name":"What is authentic Beehive State consumer brand social for Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Sugar House's independent arts and food community vocabulary, The Avenues' historic Victorian residential character, and 9th & 9th's artisan retail and food community — the specific Salt Lake City neighbourhood identities that distinguish genuinely locally-rooted Beehive State brands from generic Utah outdoor/ski lifestyle commercial approximations."}},{"@type":"Question","name":"Does Clickmasters serve Lehi, Draper, South Jordan, and Greater Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Salt Lake City and the Wasatch Front."}},{"@type":"Question","name":"What is Goldman Sachs FINRA institutional LinkedIn for Salt Lake City financial technology vendors?","acceptedAnswer":{"@type":"Answer","text":"FINRA-compliant LinkedIn demonstrating Goldman Sachs institutional trading systems operational insights, investment banking workflow automation specifics, and wealth management platform operational intelligence — at Goldman's 3,000+ employee Salt Lake City operations centre institutional precision."}},{"@type":"Question","name":"How does UCPA affect Salt Lake City social media analytics?","acceptedAnswer":{"@type":"Answer","text":"Utah UCPA requires opt-in consent for social analytics pixel tracking. UCPA-non-compliant Salt Lake City social analytics overstate engagement by collecting data from Utah opt-out users — creating Utah AG enforcement exposure. UCPA-aware social analytics produce accurate SLC brand performance measurement."}}]}`,
   cta: `Get Your Free Salt Lake City Social Media Audit`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-salt-lake-city/","/seo-services-salt-lake-city/","/social-media-marketing-denver/"],
@@ -51,7 +78,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.2% | SLC community editorial
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /social-media-marketing-salt-lake-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-ContentMarketing-Orlando.xlsx
 // Service: ContentMarketing
 // City: Orlando
-// Generated: 2026-06-19T12:50:25.361Z
+// URL: /content-marketing-orlando/
+// Generated: 2026-06-20T04:42:10.872Z
 
 export const ContentMarketing_Orlando = {
   service: "ContentMarketing",
   serviceSlug: "content-marketing",
   city: "Orlando",
   citySlug: "orlando",
-  slug: "/locations/content-marketing/orlando",
+  slug: "/content-marketing-orlando/",
   
   h1: `Content Marketing Orlando — Disney/Universal Hospitality Operational Authority, Lake Nona Life Science, and AdventHealth YMYL`,
   primaryKw: `content marketing agency orlando`,
@@ -16,7 +17,7 @@ export const ContentMarketing_Orlando = {
   seoTitle: `Content Marketing Orlando | Disney/Universal Hospitality Authority & Lake Nona Life Science | Clickmasters`,
   meta: `Clickmasters content marketing in Orlando. Disney/Universal guest experience operational authority, Lake Nona Medical City life science, and AdventHealth/Nemours YMYL academic medical. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Orlando Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-orlando/","address":{"@type":"PostalAddress","addressLocality":"Orlando","addressRegion":"FL","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN ORLANDO?
 
 Content marketing in Orlando is the strategic creation of Disney/Universal guest experience operational authority content, Lake Nona Medical City life science community content, and AdventHealth/Nemours YMYL academic healthcare content.
@@ -50,7 +51,33 @@ Case Study 3: Orlando Healthcare — AdventHealth YMYL Content Programme
 Client: Internal medicine (AdventHealth-affiliated). Challenge: Generic content below AdventHealth YMYL standard. Non-SB 262 analytics.
 Programme: AdventHealth/Nemours/UCF COM YMYL vocabulary + E-E-A-T + SB 262-native analytics + HIPAA
 Results (10 months): Page 1 for 9 Orlando internal medicine queries | YMYL: E-E-A-T | AdventHealth: cited | SB 262/HIPAA: clean | New patients: +3x`,
-  faq: `FAQs — Content Marketing Orlando`,
+  faqTitle: `FAQs — Content Marketing Orlando`,
+  faqs: [
+  {
+    "question": "How much does content marketing cost in Orlando?",
+    "answer": "Orlando content marketing: $1,100/month (Foundation) to $10,000+/month (Full Programme). Disney/Universal hospitality technology operational authority. Lake Nona Medical City life science. AdventHealth/Nemours YMYL. SB 262-native analytics. Florida retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is Disney/Universal hospitality technology content authority for Orlando businesses?",
+    "answer": "Disney Parks operational content: MagicBand+ RFID-enabled crowd flow optimisation methodology, theme park capacity management operational intelligence, resort food and beverage analytics content, and Universal Epic Universe guest experience technology insights — the hospitality technology content library that earns Disney Parks and Universal Studios Florida procurement organic discovery at Florida CPCs well below coastal equivalents."
+  },
+  {
+    "question": "What is Lake Nona Medical City life science content for Orlando businesses?",
+    "answer": "UCF College of Medicine research programme community content, UF Health clinical enterprise operational methodology, Nemours Children's paediatric research community, and Lake Nona bioscience innovation vocabulary — earning organic authority from Central Florida's most rapidly growing academic health innovation campus."
+  },
+  {
+    "question": "Does Clickmasters serve Lake Nona, Winter Park, Kissimmee, and Greater Orlando?",
+    "answer": "Yes — all of Greater Orlando MSA."
+  },
+  {
+    "question": "How long does Orlando Disney/Universal content produce hospitality technology results?",
+    "answer": "Disney/Universal hospitality vocabulary rankings: 4-7 months. HTNG/HSMAI editorial community: 3-5 months. Disney VP organic discovery: 6-10 months. GEO/AEO hospitality AI citations: 4-7 months."
+  },
+  {
+    "question": "How does GEO/AEO affect Orlando content marketing?",
+    "answer": "Disney Parks' guest experience technology community and Lake Nona Medical City's health innovation community use AI search for vendor research. First-mover GEO/AEO for Orlando Disney/Universal hospitality technology and Lake Nona Medical City vocabulary earns ChatGPT/Perplexity citation before competitors — with particular commercial advantage given the unique specificity of Disney Parks operational vocabulary."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Orlando?","acceptedAnswer":{"@type":"Answer","text":"Orlando content marketing: \$1,100/month (Foundation) to \$10,000+/month (Full Programme). Disney/Universal hospitality technology operational authority. Lake Nona Medical City life science. AdventHealth/Nemours YMYL. SB 262-native analytics. Florida retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Disney/Universal hospitality technology content authority for Orlando businesses?","acceptedAnswer":{"@type":"Answer","text":"Disney Parks operational content: MagicBand+ RFID-enabled crowd flow optimisation methodology, theme park capacity management operational intelligence, resort food and beverage analytics content, and Universal Epic Universe guest experience technology insights — the hospitality technology content library that earns Disney Parks and Universal Studios Florida procurement organic discovery at Florida CPCs well below coastal equivalents."}},{"@type":"Question","name":"What is Lake Nona Medical City life science content for Orlando businesses?","acceptedAnswer":{"@type":"Answer","text":"UCF College of Medicine research programme community content, UF Health clinical enterprise operational methodology, Nemours Children's paediatric research community, and Lake Nona bioscience innovation vocabulary — earning organic authority from Central Florida's most rapidly growing academic health innovation campus."}},{"@type":"Question","name":"Does Clickmasters serve Lake Nona, Winter Park, Kissimmee, and Greater Orlando?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Orlando MSA."}},{"@type":"Question","name":"How long does Orlando Disney/Universal content produce hospitality technology results?","acceptedAnswer":{"@type":"Answer","text":"Disney/Universal hospitality vocabulary rankings: 4-7 months. HTNG/HSMAI editorial community: 3-5 months. Disney VP organic discovery: 6-10 months. GEO/AEO hospitality AI citations: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect Orlando content marketing?","acceptedAnswer":{"@type":"Answer","text":"Disney Parks' guest experience technology community and Lake Nona Medical City's health innovation community use AI search for vendor research. First-mover GEO/AEO for Orlando Disney/Universal hospitality technology and Lake Nona Medical City vocabulary earns ChatGPT/Perplexity citation before competitors — with particular commercial advantage given the unique specificity of Disney Parks operational vocabulary."}}]}`,
   cta: `Get Your Free Orlando Content Marketing Audit`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-orlando/","/seo-services-orlando/","/content-marketing-tampa/"],
@@ -60,7 +87,7 @@ Results (10 months): Page 1 for 9 Orlando internal medicine queries | YMYL: E-E-
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /content-marketing-orlando/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

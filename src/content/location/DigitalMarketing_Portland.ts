@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Portland.xlsx
 // Service: DigitalMarketing
 // City: Portland
-// Generated: 2026-06-19T12:50:25.942Z
+// URL: /digital-marketing-agency-portland/
+// Generated: 2026-06-20T04:42:11.508Z
 
 export const DigitalMarketing_Portland = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Portland",
   citySlug: "portland",
-  slug: "/locations/digital-marketing/portland",
+  slug: "/digital-marketing-agency-portland/",
   
   h1: `Digital Marketing Agency Portland — Authentic-Values Revenue Growth for the Pacific Northwest's Most Commercially Distinctive Market`,
   primaryKw: `digital marketing agency portland`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_Portland = {
   seoTitle: `Digital Marketing Agency Portland | Authentic Values, Nike & Intel | Clickmasters`,
   meta: `Clickmasters digital marketing in Portland. Authentic-values revenue growth for Nike/Adidas ecosystem vendors, Intel Hillsboro B2B, and Pacific Northwest businesses. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Portland Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-portland/","address":{"@type":"PostalAddress","addressLocality":"Portland","addressRegion":"OR","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4200,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN PORTLAND?
 
 A Portland digital marketing agency manages digital channels for Portland-area businesses — calibrated to the Pacific Northwest's extraordinary authenticity standard, the commercial sophistication of the Nike and Adidas ecosystem, and the Intel Hillsboro semiconductor corridor's analytical precision.
@@ -41,7 +42,33 @@ Case Study 3: Pearl District DTC Brand — Pacific NW Authentic Full Programme
 Client: Sustainable consumer brand, Pearl District (\$4.2M revenue). Challenge: Generic digital marketing below Portland authentic standard. Google Ads earning high bounce rates. Instagram below 1% engagement.
 Programme: SEO (authentic values vocabulary) + Google Ads (authentic-values copy) + Instagram (B Corp/genuine outdoor content) + Klaviyo (authentic-values programme)
 Results (10 months): Google Ads bounce rate: 68% to 32% (authentic copy) | Instagram: 0.9% to 4.8% | Email revenue: 8% to 28% | Revenue from digital programme: +\$480K annually`,
-  faq: `FAQs — Digital Marketing Portland`,
+  faqTitle: `FAQs — Digital Marketing Portland`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Portland?",
+    "answer": "Portland digital marketing: $1,600/month (single channel) to $18,000+/month (enterprise). Oregon CPCs 15-20% below Seattle. Authentic-values content standard across all channels. 90-day performance guarantee."
+  },
+  {
+    "question": "What makes Portland's digital marketing market unique?",
+    "answer": "Portland is America's most commercially distinctive digital marketing market because its consumer and professional audience applies the most developed authenticity-detection capability of any US commercial community. Generic digital marketing that performs in other cities produces commercial scepticism in Portland. Specific, evidence-based, genuinely values-consistent digital marketing earns the active trust of Portland's commercially discerning audience."
+  },
+  {
+    "question": "Does Clickmasters understand the Nike and Adidas commercial culture for Portland vendors?",
+    "answer": "Yes. Nike's Beaverton campus and Adidas North America's Portland headquarters create a commercial ecosystem defined by sustainability evidence precision, material science credibility, and authentic brand values communication. Clickmasters implements Portland Nike/Adidas ecosystem digital marketing: bluesign/OEKO-TEX/HIGG vocabulary in PPC, material science thought leadership in LinkedIn, authentic evidence-standard email, and the digital commercial presence that earns genuine consideration from Portland's athletic brand procurement community."
+  },
+  {
+    "question": "Does Clickmasters serve Beaverton, Hillsboro, and Greater Portland?",
+    "answer": "Yes — all of the Portland metropolitan area: Portland (all neighbourhoods), Beaverton, Hillsboro, Lake Oswego, Tigard, Gresham, Oregon City, and Clark County WA (Vancouver, Camas)."
+  },
+  {
+    "question": "How quickly does Portland digital marketing produce Nike ecosystem results?",
+    "answer": "Portland Nike ecosystem digital marketing: first brand values content search rankings at 4-6 months. Google Ads Nike vocabulary evaluation enquiries at 30-45 days. LinkedIn brand community connection at 2-4 months. Email Nike ecosystem engagement at 14-30 days. First Nike evaluation invitation from integrated digital programme: 3-5 months."
+  },
+  {
+    "question": "How does GEO/AEO affect Portland digital marketing in 2026?",
+    "answer": "Portland's Nike and Intel professional communities are increasing AI search tool usage. When a Nike sourcing director asks ChatGPT for bluesign-certified performance fabric suppliers in Portland, or an Intel procurement manager asks Perplexity for recommended semiconductor testing services in Hillsboro, the companies with GEO and AEO signals appear in those answers."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Portland?","acceptedAnswer":{"@type":"Answer","text":"Portland digital marketing: \$1,600/month (single channel) to \$18,000+/month (enterprise). Oregon CPCs 15-20% below Seattle. Authentic-values content standard across all channels. 90-day performance guarantee."}},{"@type":"Question","name":"What makes Portland's digital marketing market unique?","acceptedAnswer":{"@type":"Answer","text":"Portland is America's most commercially distinctive digital marketing market because its consumer and professional audience applies the most developed authenticity-detection capability of any US commercial community. Generic digital marketing that performs in other cities produces commercial scepticism in Portland. Specific, evidence-based, genuinely values-consistent digital marketing earns the active trust of Portland's commercially discerning audience."}},{"@type":"Question","name":"Does Clickmasters understand the Nike and Adidas commercial culture for Portland vendors?","acceptedAnswer":{"@type":"Answer","text":"Yes. Nike's Beaverton campus and Adidas North America's Portland headquarters create a commercial ecosystem defined by sustainability evidence precision, material science credibility, and authentic brand values communication. Clickmasters implements Portland Nike/Adidas ecosystem digital marketing: bluesign/OEKO-TEX/HIGG vocabulary in PPC, material science thought leadership in LinkedIn, authentic evidence-standard email, and the digital commercial presence that earns genuine consideration from Portland's athletic brand procurement community."}},{"@type":"Question","name":"Does Clickmasters serve Beaverton, Hillsboro, and Greater Portland?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Portland metropolitan area: Portland (all neighbourhoods), Beaverton, Hillsboro, Lake Oswego, Tigard, Gresham, Oregon City, and Clark County WA (Vancouver, Camas)."}},{"@type":"Question","name":"How quickly does Portland digital marketing produce Nike ecosystem results?","acceptedAnswer":{"@type":"Answer","text":"Portland Nike ecosystem digital marketing: first brand values content search rankings at 4-6 months. Google Ads Nike vocabulary evaluation enquiries at 30-45 days. LinkedIn brand community connection at 2-4 months. Email Nike ecosystem engagement at 14-30 days. First Nike evaluation invitation from integrated digital programme: 3-5 months."}},{"@type":"Question","name":"How does GEO/AEO affect Portland digital marketing in 2026?","acceptedAnswer":{"@type":"Answer","text":"Portland's Nike and Intel professional communities are increasing AI search tool usage. When a Nike sourcing director asks ChatGPT for bluesign-certified performance fabric suppliers in Portland, or an Intel procurement manager asks Perplexity for recommended semiconductor testing services in Hillsboro, the companies with GEO and AEO signals appear in those answers."}}]}`,
   cta: `Get Your Free Portland Digital Marketing Audit`,
   internalLinks: ["/seo-services-portland/","/web-design-agency-portland/","/digital-marketing-agency-usa/","/digital-marketing-agency-seattle/","/industries/outdoor-apparel/","/industries/manufacturing/"],
@@ -51,7 +78,7 @@ Results (10 months): Google Ads bounce rate: 68% to 32% (authentic copy) | Insta
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-portland/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

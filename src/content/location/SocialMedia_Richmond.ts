@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Richmond.xlsx
 // Service: SocialMedia
 // City: Richmond
-// Generated: 2026-06-19T12:50:28.729Z
+// URL: /social-media-marketing-richmond/
+// Generated: 2026-06-20T04:42:14.377Z
 
 export const SocialMedia_Richmond = {
   service: "SocialMedia",
   serviceSlug: "social-media",
   city: "Richmond",
   citySlug: "richmond",
-  slug: "/locations/social-media/richmond",
+  slug: "/social-media-marketing-richmond/",
   
   h1: `Social Media Marketing Richmond — Capital One ML LinkedIn, Dominion Energy Community, and Authentic River City Brand Social`,
   primaryKw: `social media marketing richmond`,
@@ -16,7 +17,7 @@ export const SocialMedia_Richmond = {
   seoTitle: `Social Media Marketing Richmond | Capital One ML LinkedIn & Dominion Community | Clickmasters`,
   meta: `Clickmasters social media in Richmond. Capital One ML/fintech LinkedIn, Dominion Energy clean energy community, and authentic The Fan/Carytown/Church Hill River City brand social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Richmond Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN RICHMOND?
 
 Social media marketing in Richmond is the strategic management of social platforms across three commercially distinct communities: the Capital One ML financial technology LinkedIn ecosystem, the Dominion Energy clean energy professional community, and the authentic River City consumer brand community in The Fan District, Carytown, and Church Hill.
@@ -41,7 +42,33 @@ Case Study 3: Carytown Consumer Brand — Authentic Richmond Social
 Client: Independent lifestyle brand, Carytown (\$1.2M DTC). Challenge: Generic 'Richmond shopping' below Carytown authentic W. Cary Street independent community standard.
 Programme: Carytown W. Cary Street vocabulary + The Fan Victorian arts community + Church Hill historic character
 Results (5 months): Instagram engagement: 1.4% to 5.2% | Richmond community editorial: 2 | DTC revenue: +\$90K`,
-  faq: `FAQs — Social Media Marketing Richmond`,
+  faqTitle: `FAQs — Social Media Marketing Richmond`,
+  faqs: [
+  {
+    "question": "How much does social media marketing cost in Richmond?",
+    "answer": "Richmond social media: $1,100/month (LinkedIn growth) to $11,000+/month (enterprise). Capital One ML/FINRA precision. Dominion Energy clean energy community. Authentic River City brand. Virginia VCDPA-aware analytics. Virginia retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is Capital One ML LinkedIn for Richmond financial technology businesses?",
+    "answer": "Capital One ML LinkedIn demonstrates machine learning credit decisioning pipeline architecture, consumer lending behaviour analytics at Capital One data science precision, real-time credit risk modelling operational intelligence, and digital banking ML model monitoring specifics — the ML-fintech vocabulary that earns genuine Capital One Henrico County engineering and procurement LinkedIn engagement."
+  },
+  {
+    "question": "What is authentic River City consumer brand social for Richmond?",
+    "answer": "The Fan District's Victorian townhouse arts community (the longest uninterrupted row of Victorian townhouses in the US), Carytown's W. Cary Street independent shopping and food community, and Church Hill's historic neighbourhood identity — the specific Richmond neighbourhood identities that distinguish genuinely locally-rooted River City brands from generic Mid-Atlantic commercial approximations."
+  },
+  {
+    "question": "Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?",
+    "answer": "Yes — all of Greater Richmond MSA."
+  },
+  {
+    "question": "What is Dominion Energy clean energy LinkedIn for Richmond energy technology vendors?",
+    "answer": "Dominion Energy LinkedIn demonstrates offshore wind development programme specifics, carbon neutrality transition methodology, grid modernisation and clean energy integration operational intelligence — earning genuine Dominion Energy Richmond clean energy professional community engagement."
+  },
+  {
+    "question": "How does Virginia VCDPA affect Richmond social media analytics?",
+    "answer": "VCDPA requires consent for social analytics pixel tracking of Virginia consumers. VCDPA-non-compliant Richmond social analytics overstate engagement. VCDPA-aware social analytics produce accurate Richmond brand performance measurement and protect from Virginia AG enforcement."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Richmond?","acceptedAnswer":{"@type":"Answer","text":"Richmond social media: \$1,100/month (LinkedIn growth) to \$11,000+/month (enterprise). Capital One ML/FINRA precision. Dominion Energy clean energy community. Authentic River City brand. Virginia VCDPA-aware analytics. Virginia retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Capital One ML LinkedIn for Richmond financial technology businesses?","acceptedAnswer":{"@type":"Answer","text":"Capital One ML LinkedIn demonstrates machine learning credit decisioning pipeline architecture, consumer lending behaviour analytics at Capital One data science precision, real-time credit risk modelling operational intelligence, and digital banking ML model monitoring specifics — the ML-fintech vocabulary that earns genuine Capital One Henrico County engineering and procurement LinkedIn engagement."}},{"@type":"Question","name":"What is authentic River City consumer brand social for Richmond?","acceptedAnswer":{"@type":"Answer","text":"The Fan District's Victorian townhouse arts community (the longest uninterrupted row of Victorian townhouses in the US), Carytown's W. Cary Street independent shopping and food community, and Church Hill's historic neighbourhood identity — the specific Richmond neighbourhood identities that distinguish genuinely locally-rooted River City brands from generic Mid-Atlantic commercial approximations."}},{"@type":"Question","name":"Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Richmond MSA."}},{"@type":"Question","name":"What is Dominion Energy clean energy LinkedIn for Richmond energy technology vendors?","acceptedAnswer":{"@type":"Answer","text":"Dominion Energy LinkedIn demonstrates offshore wind development programme specifics, carbon neutrality transition methodology, grid modernisation and clean energy integration operational intelligence — earning genuine Dominion Energy Richmond clean energy professional community engagement."}},{"@type":"Question","name":"How does Virginia VCDPA affect Richmond social media analytics?","acceptedAnswer":{"@type":"Answer","text":"VCDPA requires consent for social analytics pixel tracking of Virginia consumers. VCDPA-non-compliant Richmond social analytics overstate engagement. VCDPA-aware social analytics produce accurate Richmond brand performance measurement and protect from Virginia AG enforcement."}}]}`,
   cta: `Get Your Free Richmond Social Media Audit`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-richmond/","/seo-services-richmond/","/social-media-marketing-washington-dc/"],
@@ -51,7 +78,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.2% | Richmond community edit
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /social-media-marketing-richmond/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

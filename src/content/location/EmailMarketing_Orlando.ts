@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Orlando.xlsx
 // Service: EmailMarketing
 // City: Orlando
-// Generated: 2026-06-19T12:50:26.592Z
+// URL: /email-marketing-orlando/
+// Generated: 2026-06-20T04:42:12.038Z
 
 export const EmailMarketing_Orlando = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "Orlando",
   citySlug: "orlando",
-  slug: "/locations/email-marketing/orlando",
+  slug: "/email-marketing-orlando/",
   
   h1: `Email Marketing Orlando — Disney/Universal Hospitality Pipeline, Lake Nona Medical City, and Florida SB 262-Compliant Professional Revenue`,
   primaryKw: `email marketing agency orlando`,
@@ -16,7 +17,7 @@ export const EmailMarketing_Orlando = {
   seoTitle: `Email Marketing Orlando | Disney/Universal Hospitality Pipeline & Lake Nona Medical City | Clickmasters`,
   meta: `Clickmasters email marketing in Orlando. Disney/Universal hospitality technology pipeline, Lake Nona Medical City HIPAA procurement, and Florida SB 262-compliant professional email. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Orlando Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-orlando/","address":{"@type":"PostalAddress","addressLocality":"Orlando","addressRegion":"FL","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN ORLANDO?
 
 Email marketing in Orlando is the strategic management of email as a Disney/Universal hospitality technology procurement pipeline, Lake Nona Medical City HIPAA-compliant health technology procurement channel, and Florida SB 262-compliant professional revenue channel.
@@ -50,7 +51,33 @@ Case Study 3: Orlando Financial Advisory — Florida In-Migration 5-Stage Onboar
 Client: Fee-only RIA, Orlando (\$180M AUM). Challenge: NY/NJ in-migration professionals not engaging generic welcome email.
 Programme: NY-to-FL no-income-tax onboarding + Florida healthcare navigation + SB 262-compliant + FINRA
 Results: In-migration engagement: 3.6x above generic | Client conversion: 36% within 90 days | New in-migration AUM: \$14M | SB 262/FINRA: clean`,
-  faq: `FAQs — Email Marketing Orlando`,
+  faqTitle: `FAQs — Email Marketing Orlando`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Orlando?",
+    "answer": "Orlando email marketing: $750/month (Foundation) to $8,000+/month (Enterprise). Disney/Universal hospitality tech season-calendar-aware pipeline. Lake Nona Medical City HIPAA procurement. Florida SB 262-compliant. FINRA financial. Florida retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is the Disney/Universal hospitality technology season-calendar email strategy for Orlando?",
+    "answer": "Disney/Universal theme park season calendar creates specific procurement activation windows: Q1 (January-March) pre-summer season vendor evaluation (Disney's highest-attendance season planning), Q3 (July-September) holiday season preparation vendor assessment, Q4 (October-December) off-season operational improvement programme planning. Season-calendar-aware email earns 3-4x above-average engagement from Disney Parks and Universal procurement staff vs generic quarterly newsletter email."
+  },
+  {
+    "question": "What is Lake Nona Medical City HIPAA procurement email for Orlando health IT vendors?",
+    "answer": "UCF College of Medicine research programme intelligence, UF Health clinical enterprise operational updates, Nemours Children's paediatric research community content — maintaining Lake Nona Medical City procurement contact relationships with HIPAA-compliant Florida SB 262-compliant email data handling through 90-180 day health technology evaluation cycles."
+  },
+  {
+    "question": "Does Clickmasters serve Lake Nona, Winter Park, Kissimmee, and Greater Orlando?",
+    "answer": "Yes — all of Greater Orlando MSA."
+  },
+  {
+    "question": "How long does Orlando Disney/Universal pipeline email produce hospitality technology results?",
+    "answer": "Disney/Universal re-engagement from season-calendar-aware email: 14-30 days. Hospitality tech evaluation invitations: 60-120 days. Full Disney/Universal pipeline: 6-10 months."
+  },
+  {
+    "question": "Why does Disney's seasonal theme park calendar matter for Orlando email marketing?",
+    "answer": "Disney Parks operates on a predictable seasonal planning cycle: Q1 brings the highest annual attendance (Magic Kingdom Easter/spring break peak) requiring operational performance vendor review, Q3 brings the next annual attendance peak (summer/Labor Day) requiring hospitality system readiness assessment, and Q4 brings the holiday season (Christmas peak) requiring off-season technology investment planning. Hospitality technology vendors who align their email cadence to Disney's seasonal windows earn 3-4x above-average engagement."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Orlando?","acceptedAnswer":{"@type":"Answer","text":"Orlando email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). Disney/Universal hospitality tech season-calendar-aware pipeline. Lake Nona Medical City HIPAA procurement. Florida SB 262-compliant. FINRA financial. Florida retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is the Disney/Universal hospitality technology season-calendar email strategy for Orlando?","acceptedAnswer":{"@type":"Answer","text":"Disney/Universal theme park season calendar creates specific procurement activation windows: Q1 (January-March) pre-summer season vendor evaluation (Disney's highest-attendance season planning), Q3 (July-September) holiday season preparation vendor assessment, Q4 (October-December) off-season operational improvement programme planning. Season-calendar-aware email earns 3-4x above-average engagement from Disney Parks and Universal procurement staff vs generic quarterly newsletter email."}},{"@type":"Question","name":"What is Lake Nona Medical City HIPAA procurement email for Orlando health IT vendors?","acceptedAnswer":{"@type":"Answer","text":"UCF College of Medicine research programme intelligence, UF Health clinical enterprise operational updates, Nemours Children's paediatric research community content — maintaining Lake Nona Medical City procurement contact relationships with HIPAA-compliant Florida SB 262-compliant email data handling through 90-180 day health technology evaluation cycles."}},{"@type":"Question","name":"Does Clickmasters serve Lake Nona, Winter Park, Kissimmee, and Greater Orlando?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Orlando MSA."}},{"@type":"Question","name":"How long does Orlando Disney/Universal pipeline email produce hospitality technology results?","acceptedAnswer":{"@type":"Answer","text":"Disney/Universal re-engagement from season-calendar-aware email: 14-30 days. Hospitality tech evaluation invitations: 60-120 days. Full Disney/Universal pipeline: 6-10 months."}},{"@type":"Question","name":"Why does Disney's seasonal theme park calendar matter for Orlando email marketing?","acceptedAnswer":{"@type":"Answer","text":"Disney Parks operates on a predictable seasonal planning cycle: Q1 brings the highest annual attendance (Magic Kingdom Easter/spring break peak) requiring operational performance vendor review, Q3 brings the next annual attendance peak (summer/Labor Day) requiring hospitality system readiness assessment, and Q4 brings the holiday season (Christmas peak) requiring off-season technology investment planning. Hospitality technology vendors who align their email cadence to Disney's seasonal windows earn 3-4x above-average engagement."}}]}`,
   cta: `Get Your Free Orlando Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-orlando/","/seo-services-orlando/","/email-marketing-tampa/"],
@@ -60,7 +87,7 @@ Results: In-migration engagement: 3.6x above generic | Client conversion: 36% wi
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-orlando/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

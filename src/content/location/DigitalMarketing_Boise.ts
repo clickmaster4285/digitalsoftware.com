@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Boise.xlsx
 // Service: DigitalMarketing
 // City: Boise
-// Generated: 2026-06-19T12:50:25.560Z
+// URL: /digital-marketing-agency-boise/
+// Generated: 2026-06-20T04:42:11.115Z
 
 export const DigitalMarketing_Boise = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Boise",
   citySlug: "boise",
-  slug: "/locations/digital-marketing/boise",
+  slug: "/digital-marketing-agency-boise/",
   
   h1: `Digital Marketing Agency Boise — Micron Technology Revenue, Albertsons Retail Analytics, St. Luke's YMYL, and Treasure Valley Commercial Growth`,
   primaryKw: `digital marketing agency boise`,
@@ -16,7 +17,7 @@ export const DigitalMarketing_Boise = {
   seoTitle: `Digital Marketing Agency Boise | Micron Technology Revenue & Albertsons Retail | Clickmasters`,
   meta: `Clickmasters digital marketing in Boise. Micron Technology DRAM/NAND semiconductor revenue, Albertsons grocery retail analytics, St. Luke's/Saint Alphonsus YMYL, and California in-migration Idaho tax. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boise Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-boise/","address":{"@type":"PostalAddress","addressLocality":"Boise","addressRegion":"ID","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3800,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN BOISE?
 
 A Boise digital marketing agency manages digital channels for Treasure Valley businesses across four commercially distinct sectors.
@@ -43,7 +44,33 @@ Case Study 3: Boise Financial Advisory — California In-Migration Full Programm
 Client: Fee-only RIA, Boise (\$160M AUM). Challenge: CA in-migration vocabulary absent. CA transplants not finding.
 Programme: SEO (CA in-migration Idaho 5.8% vs 13.3%) + Google Ads + CA in-migration 5-stage email
 Results (11 months): CA in-migration organic: +3x | New CA-to-ID AUM: \$14M | FINRA: clean`,
-  faq: `FAQs — Digital Marketing Boise`,
+  faqTitle: `FAQs — Digital Marketing Boise`,
+  faqs: [
+  {
+    "question": "How much does digital marketing cost in Boise?",
+    "answer": "Boise digital marketing: $1,100/month (single channel) to $12,000+/month (enterprise). Micron Technology DRAM/NAND semiconductor vocabulary. Albertsons grocery retail analytics. St. Luke's/Saint Alphonsus YMYL. California in-migration Idaho tax. Idaho retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What makes Micron Technology digital marketing unique for Boise businesses?",
+    "answer": "Micron Technology — one of the world's largest DRAM and NAND flash memory manufacturers, with 7,000+ employees in the Treasure Valley — creates a semiconductor B2B digital marketing vocabulary unique to Boise. DRAM memory cell architecture analytics, NAND flash fabrication technology, and semiconductor wafer processing vocabulary earns organic discovery from Micron's Boise headquarters at Idaho CPCs significantly below Silicon Valley semiconductor equivalents."
+  },
+  {
+    "question": "What is the California in-migration Idaho digital marketing opportunity for Boise?",
+    "answer": "California's 13.3% top income tax rate vs Idaho's flat 5.8% income tax creates a Boise in-migration community of California professionals — parallel to Phoenix, Las Vegas, Salt Lake City, and Austin in-migration patterns. Boise financial advisory, legal, and real estate businesses with California-to-Idaho tax advantage content earn above-average organic discovery from California professionals researching Treasure Valley relocation."
+  },
+  {
+    "question": "Does Clickmasters serve Meridian, Nampa, Eagle, and Greater Boise?",
+    "answer": "Yes — all of Greater Boise: Ada County, Canyon County, Gem County, and Owyhee County."
+  },
+  {
+    "question": "What is Albertsons grocery retail analytics digital marketing for Boise businesses?",
+    "answer": "Albertsons shopper analytics, CPG supplier analytics, loyalty programme technology, and grocery retail supply chain vocabulary — earning organic discovery from Albertsons Companies' 2,200+ store Boise headquarters procurement from the US's second-largest supermarket chain."
+  },
+  {
+    "question": "How does GEO/AEO affect Boise digital marketing?",
+    "answer": "Micron's manufacturing engineering community and Albertsons' retail analytics community use AI search. First-mover GEO/AEO for Boise Micron DRAM/NAND and Albertsons vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Boise?","acceptedAnswer":{"@type":"Answer","text":"Boise digital marketing: \$1,100/month (single channel) to \$12,000+/month (enterprise). Micron Technology DRAM/NAND semiconductor vocabulary. Albertsons grocery retail analytics. St. Luke's/Saint Alphonsus YMYL. California in-migration Idaho tax. Idaho retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What makes Micron Technology digital marketing unique for Boise businesses?","acceptedAnswer":{"@type":"Answer","text":"Micron Technology — one of the world's largest DRAM and NAND flash memory manufacturers, with 7,000+ employees in the Treasure Valley — creates a semiconductor B2B digital marketing vocabulary unique to Boise. DRAM memory cell architecture analytics, NAND flash fabrication technology, and semiconductor wafer processing vocabulary earns organic discovery from Micron's Boise headquarters at Idaho CPCs significantly below Silicon Valley semiconductor equivalents."}},{"@type":"Question","name":"What is the California in-migration Idaho digital marketing opportunity for Boise?","acceptedAnswer":{"@type":"Answer","text":"California's 13.3% top income tax rate vs Idaho's flat 5.8% income tax creates a Boise in-migration community of California professionals — parallel to Phoenix, Las Vegas, Salt Lake City, and Austin in-migration patterns. Boise financial advisory, legal, and real estate businesses with California-to-Idaho tax advantage content earn above-average organic discovery from California professionals researching Treasure Valley relocation."}},{"@type":"Question","name":"Does Clickmasters serve Meridian, Nampa, Eagle, and Greater Boise?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Boise: Ada County, Canyon County, Gem County, and Owyhee County."}},{"@type":"Question","name":"What is Albertsons grocery retail analytics digital marketing for Boise businesses?","acceptedAnswer":{"@type":"Answer","text":"Albertsons shopper analytics, CPG supplier analytics, loyalty programme technology, and grocery retail supply chain vocabulary — earning organic discovery from Albertsons Companies' 2,200+ store Boise headquarters procurement from the US's second-largest supermarket chain."}},{"@type":"Question","name":"How does GEO/AEO affect Boise digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Micron's manufacturing engineering community and Albertsons' retail analytics community use AI search. First-mover GEO/AEO for Boise Micron DRAM/NAND and Albertsons vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Boise Digital Marketing Audit`,
   internalLinks: ["/seo-services-boise/","/digital-marketing-agency-usa/","/digital-marketing-agency-salt-lake-city/","/digital-marketing-agency-portland/"],
@@ -53,7 +80,7 @@ Results (11 months): CA in-migration organic: +3x | New CA-to-ID AUM: \$14M | FI
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-boise/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

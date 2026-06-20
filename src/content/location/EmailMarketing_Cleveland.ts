@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-EmailMarketing-Cleveland.xlsx
 // Service: EmailMarketing
 // City: Cleveland
-// Generated: 2026-06-19T12:50:26.374Z
+// URL: /email-marketing-cleveland/
+// Generated: 2026-06-20T04:42:11.839Z
 
 export const EmailMarketing_Cleveland = {
   service: "EmailMarketing",
   serviceSlug: "email-marketing",
   city: "Cleveland",
   citySlug: "cleveland",
-  slug: "/locations/email-marketing/cleveland",
+  slug: "/email-marketing-cleveland/",
   
   h1: `Email Marketing Cleveland — Cleveland Clinic YMYL Pipeline, Parker Hannifin Manufacturing Nurture, and FINRA-Compliant Revenue`,
   primaryKw: `email marketing agency cleveland`,
@@ -16,7 +17,7 @@ export const EmailMarketing_Cleveland = {
   seoTitle: `Email Marketing Cleveland | Cleveland Clinic Pipeline & Parker Hannifin Manufacturing | Clickmasters`,
   meta: `Clickmasters email marketing in Cleveland. Cleveland Clinic world-class cardiovascular procurement pipeline, Parker Hannifin/Lincoln Electric manufacturing nurture, and Progressive/KeyBank FINRA-compliant email. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Cleveland Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-cleveland/","address":{"@type":"PostalAddress","addressLocality":"Cleveland","addressRegion":"OH","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN CLEVELAND?
 
 Email marketing in Cleveland is the strategic management of email as a Cleveland Clinic world-class cardiovascular procurement pipeline, Parker Hannifin/Lincoln Electric precision manufacturing nurture, and Progressive Insurance/KeyBank FINRA-compliant financial technology channel.
@@ -50,7 +51,33 @@ Case Study 3: Cleveland Insurance Technology — Progressive FINRA Email
 Client: Telematics SaaS, Cleveland (\$6.4M ARR). Challenge: Non-FINRA email. Progressive contacts cold. Generic insurance newsletter.
 Programme: FINRA Rule 2210-compliant email + Progressive Snapshot UBI content + KeyBank financial updates
 Results: Progressive re-engagement: 40% | FINRA/SEC: clean | KeyBank re-engagement: 36% | Pipeline: \$1.0M`,
-  faq: `FAQs — Email Marketing Cleveland`,
+  faqTitle: `FAQs — Email Marketing Cleveland`,
+  faqs: [
+  {
+    "question": "How much does email marketing cost in Cleveland?",
+    "answer": "Cleveland email marketing: $750/month (Foundation) to $8,000+/month (Enterprise). Cleveland Clinic world-class cardiovascular pipeline. Parker Hannifin/Lincoln Electric manufacturing precision. Progressive/KeyBank FINRA-compliant. Ohio retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is Cleveland Clinic world-class cardiovascular pipeline email?",
+    "answer": "World-class cardiovascular clinical vocabulary email: coronary artery disease analytics operational updates, electrophysiology informatics intelligence, Lerner Research Institute NIH programme news, Cleveland Clinic Innovations AI cardiovascular partnership intelligence. HubSpot named account sequences for Cleveland Clinic and University Hospitals procurement contacts with 90-180 day evaluation cycle deal-stage triggers and HIPAA-compliant data handling."
+  },
+  {
+    "question": "What is Parker Hannifin/Lincoln Electric manufacturing email for Cleveland businesses?",
+    "answer": "Parker Hannifin motion control operational updates (hydraulics efficiency intelligence, pneumatics predictive maintenance, electromechanical systems optimisation) and Lincoln Electric welding analytics content (GMAW/GTAW process optimisation, welding quality data intelligence). HubSpot named account sequences with 90-240 day manufacturing enterprise procurement deal-stage triggers."
+  },
+  {
+    "question": "Does Clickmasters serve Mayfield Heights, Beachwood, Westlake, and Greater Cleveland?",
+    "answer": "Yes — all of Greater Cleveland and Northeast Ohio MSA."
+  },
+  {
+    "question": "How long does Cleveland Clinic email produce procurement pipeline results?",
+    "answer": "Cleveland Clinic re-engagement from world-class cardiovascular email: 21-30 days. CC evaluation invitations from nurtured contacts: 90-150 days. Full CC health IT pipeline: 7-12 months."
+  },
+  {
+    "question": "What makes Cleveland Clinic email marketing uniquely demanding?",
+    "answer": "Cleveland Clinic's world-class cardiovascular surgical and research community evaluates vendor email content against the precision standards of peer-reviewed cardiovascular medicine — JAMA Cardiology operational precision. Email that doesn't demonstrate coronary artery disease analytics, electrophysiology informatics, or Lerner Research NIH vocabulary earns immediate dismissal. This is the highest health technology email content standard in the Midwest."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Cleveland?","acceptedAnswer":{"@type":"Answer","text":"Cleveland email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). Cleveland Clinic world-class cardiovascular pipeline. Parker Hannifin/Lincoln Electric manufacturing precision. Progressive/KeyBank FINRA-compliant. Ohio retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Cleveland Clinic world-class cardiovascular pipeline email?","acceptedAnswer":{"@type":"Answer","text":"World-class cardiovascular clinical vocabulary email: coronary artery disease analytics operational updates, electrophysiology informatics intelligence, Lerner Research Institute NIH programme news, Cleveland Clinic Innovations AI cardiovascular partnership intelligence. HubSpot named account sequences for Cleveland Clinic and University Hospitals procurement contacts with 90-180 day evaluation cycle deal-stage triggers and HIPAA-compliant data handling."}},{"@type":"Question","name":"What is Parker Hannifin/Lincoln Electric manufacturing email for Cleveland businesses?","acceptedAnswer":{"@type":"Answer","text":"Parker Hannifin motion control operational updates (hydraulics efficiency intelligence, pneumatics predictive maintenance, electromechanical systems optimisation) and Lincoln Electric welding analytics content (GMAW/GTAW process optimisation, welding quality data intelligence). HubSpot named account sequences with 90-240 day manufacturing enterprise procurement deal-stage triggers."}},{"@type":"Question","name":"Does Clickmasters serve Mayfield Heights, Beachwood, Westlake, and Greater Cleveland?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Cleveland and Northeast Ohio MSA."}},{"@type":"Question","name":"How long does Cleveland Clinic email produce procurement pipeline results?","acceptedAnswer":{"@type":"Answer","text":"Cleveland Clinic re-engagement from world-class cardiovascular email: 21-30 days. CC evaluation invitations from nurtured contacts: 90-150 days. Full CC health IT pipeline: 7-12 months."}},{"@type":"Question","name":"What makes Cleveland Clinic email marketing uniquely demanding?","acceptedAnswer":{"@type":"Answer","text":"Cleveland Clinic's world-class cardiovascular surgical and research community evaluates vendor email content against the precision standards of peer-reviewed cardiovascular medicine — JAMA Cardiology operational precision. Email that doesn't demonstrate coronary artery disease analytics, electrophysiology informatics, or Lerner Research NIH vocabulary earns immediate dismissal. This is the highest health technology email content standard in the Midwest."}}]}`,
   cta: `Get Your Free Cleveland Email Marketing Audit`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-cleveland/","/seo-services-cleveland/","/email-marketing-pittsburgh/"],
@@ -60,7 +87,7 @@ Results: Progressive re-engagement: 40% | FINRA/SEC: clean | KeyBank re-engageme
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /email-marketing-cleveland/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

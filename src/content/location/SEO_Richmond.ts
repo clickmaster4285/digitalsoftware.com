@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Richmond.xlsx
 // Service: SEO
 // City: Richmond
-// Generated: 2026-06-19T12:50:28.199Z
+// URL: /seo-services-richmond/
+// Generated: 2026-06-20T04:42:13.860Z
 
 export const SEO_Richmond = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Richmond",
   citySlug: "richmond",
-  slug: "/locations/seo/richmond",
+  slug: "/seo-services-richmond/",
   
   h1: `SEO Services Richmond — Capital One FINRA/SEC Authority, Dominion Energy B2B, CarMax Automotive Retail, and VCU Health YMYL`,
   primaryKw: `seo services richmond`,
@@ -16,7 +17,7 @@ export const SEO_Richmond = {
   seoTitle: `SEO Services Richmond | Capital One FINRA & Dominion Energy B2B | Clickmasters`,
   meta: `Clickmasters SEO in Richmond. Capital One FINRA/SEC financial technology authority, Dominion Energy utility B2B, CarMax automotive retail, VCU Health/Bon Secours YMYL, and Virginia VCDPA-native analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Richmond SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
   geoAeoBlock: `WHAT IS SEO IN RICHMOND?
 
 SEO in Richmond is the practice of earning organic search authority in Virginia's capital city — where Capital One's Henrico County headquarters creates the most FINRA/SEC-active financial technology B2B commercial environment in the Mid-Atlantic outside DC, Dominion Energy's Richmond headquarters generates utility technology and energy infrastructure B2B opportunities, CarMax's headquarters creates unique automotive retail analytics B2B search volume, and VCU Health and Bon Secours define the YMYL academic medical content standard for Central Virginia.
@@ -43,7 +44,33 @@ Case Study 3: Richmond Healthcare — VCU Health/Bon Secours YMYL SEO
 Client: Clinical analytics, Richmond (\$5.4M ARR). Challenge: Zero VCU Health/Bon Secours vocabulary. Non-HIPAA. Non-VCDPA.
 Programme: VCU Health/Bon Secours YMYL vocabulary + HIPAA/VCDPA-native + GEO/AEO
 Results (10 months): Page 1 for 10 Richmond health IT queries | VCU Health: evaluation | YMYL: E-E-A-T | VCDPA/HIPAA: clean | Pipeline: \$1.2M`,
-  faq: `FAQs — SEO Richmond`,
+  faqTitle: `FAQs — SEO Richmond`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Richmond?",
+    "answer": "Richmond SEO: $1,000/month (Foundation) to $10,000+/month (Enterprise). Capital One FINRA/SEC ML financial technology vocabulary. Dominion Energy utility B2B. CarMax automotive retail analytics. VCU Health/Bon Secours YMYL. Virginia VCDPA-native analytics. Virginia retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is Capital One FINRA/SEC financial technology SEO for Richmond businesses?",
+    "answer": "Capital One SEO builds FINRA/SEC-compliant organic authority in Capital One's advanced financial technology vocabulary: machine learning credit decisioning methodology, credit risk analytics platform specifics, consumer lending technology operational content, digital banking platform integration — earning organic discovery from Capital One Henrico County's most commercially advanced ML-fintech procurement community."
+  },
+  {
+    "question": "What is Dominion Energy utility technology B2B SEO for Richmond businesses?",
+    "answer": "Dominion Energy SEO builds organic authority in utility technology procurement vocabulary: grid modernisation and clean energy transition technology, carbon neutrality programme specifics, offshore wind development operational vocabulary, and energy utility operational intelligence that Dominion Energy Richmond technology procurement evaluates for vendor consideration."
+  },
+  {
+    "question": "Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?",
+    "answer": "Yes — all of Greater Richmond: City of Richmond, Henrico County, Chesterfield County, Hanover County, and the full Richmond MSA."
+  },
+  {
+    "question": "How does Virginia VCDPA affect Richmond SEO analytics?",
+    "answer": "Virginia Consumer Data Protection Act (VCDPA, effective January 2023) creates analytics compliance requirements for Richmond businesses. VCDPA-non-compliant analytics overstate performance through non-consensual data collection. VCDPA-native analytics produce accurate Richmond performance measurement and protect from Virginia AG enforcement."
+  },
+  {
+    "question": "How does GEO/AEO affect Richmond SEO?",
+    "answer": "Capital One's machine learning engineering community and Dominion Energy's grid technology community use AI search for vendor research. First-mover GEO/AEO for Richmond Capital One ML and Dominion Energy vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Richmond?","acceptedAnswer":{"@type":"Answer","text":"Richmond SEO: \$1,000/month (Foundation) to \$10,000+/month (Enterprise). Capital One FINRA/SEC ML financial technology vocabulary. Dominion Energy utility B2B. CarMax automotive retail analytics. VCU Health/Bon Secours YMYL. Virginia VCDPA-native analytics. Virginia retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Capital One FINRA/SEC financial technology SEO for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"Capital One SEO builds FINRA/SEC-compliant organic authority in Capital One's advanced financial technology vocabulary: machine learning credit decisioning methodology, credit risk analytics platform specifics, consumer lending technology operational content, digital banking platform integration — earning organic discovery from Capital One Henrico County's most commercially advanced ML-fintech procurement community."}},{"@type":"Question","name":"What is Dominion Energy utility technology B2B SEO for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"Dominion Energy SEO builds organic authority in utility technology procurement vocabulary: grid modernisation and clean energy transition technology, carbon neutrality programme specifics, offshore wind development operational vocabulary, and energy utility operational intelligence that Dominion Energy Richmond technology procurement evaluates for vendor consideration."}},{"@type":"Question","name":"Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Richmond: City of Richmond, Henrico County, Chesterfield County, Hanover County, and the full Richmond MSA."}},{"@type":"Question","name":"How does Virginia VCDPA affect Richmond SEO analytics?","acceptedAnswer":{"@type":"Answer","text":"Virginia Consumer Data Protection Act (VCDPA, effective January 2023) creates analytics compliance requirements for Richmond businesses. VCDPA-non-compliant analytics overstate performance through non-consensual data collection. VCDPA-native analytics produce accurate Richmond performance measurement and protect from Virginia AG enforcement."}},{"@type":"Question","name":"How does GEO/AEO affect Richmond SEO?","acceptedAnswer":{"@type":"Answer","text":"Capital One's machine learning engineering community and Dominion Energy's grid technology community use AI search for vendor research. First-mover GEO/AEO for Richmond Capital One ML and Dominion Energy vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Richmond SEO Audit`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-richmond/","/seo-services-washington-dc/","/seo-services-charlotte/"],
@@ -53,7 +80,7 @@ Results (10 months): Page 1 for 10 Richmond health IT queries | VCU Health: eval
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-richmond/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

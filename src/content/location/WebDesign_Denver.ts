@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-WebDesign-Denver.xlsx
 // Service: WebDesign
 // City: Denver
-// Generated: 2026-06-19T12:50:28.956Z
+// URL: /web-design-agency-denver/
+// Generated: 2026-06-20T04:42:14.625Z
 
 export const WebDesign_Denver = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Denver",
   citySlug: "denver",
-  slug: "/locations/web-design/denver",
+  slug: "/web-design-agency-denver/",
   
   h1: `Web Design Agency Denver — Aerospace Credibility, NREL Clean Energy Authority, and CA In-Migration Professional Standard`,
   primaryKw: `web design agency denver`,
@@ -16,7 +17,7 @@ export const WebDesign_Denver = {
   seoTitle: `Web Design Agency Denver | Aerospace Credibility & NREL Clean Energy | Clickmasters`,
   meta: `Clickmasters web design in Denver. ITAR-bounded aerospace credential architecture, NREL clean energy visual authority, and California in-migration professional quality standard for Colorado. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Denver Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-denver/","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 4100,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN DENVER?
 
 A Denver web design agency builds websites for Colorado-area businesses combining the ITAR-bounded aerospace credential architecture that Lockheed Martin and Ball Aerospace procurement evaluate, the NREL clean energy evidence visual standard that Colorado's clean energy community trusts, and the California in-migration professional quality standard that Cherry Creek's highest-income new residents apply when evaluating professional service providers.
@@ -50,7 +51,33 @@ Case Study 3: Cherry Creek Financial Advisory — CA In-Migration Credential Red
 Client: RIA, Cherry Creek (\$380M AUM). Challenge: Website below Bay Area professional quality standard. No CFA verification link. 4.6s LCP.
 Programme: CFA/CFP with CFP Board verification links + Bay Area institutional design standard + RSU/CA-to-CO planning pages + FINRA compliance + CWV (4.6s to 1.6s)
 Results: FINRA examination: clean | CA in-migration professional enquiries: +3x | CFA verification link: in-migration clients cited in onboarding surveys | New AUM from website: \$48M`,
-  faq: `FAQs — Web Design Denver`,
+  faqTitle: `FAQs — Web Design Denver`,
+  faqs: [
+  {
+    "question": "How much does web design cost in Denver?",
+    "answer": "Denver web design: $6,500-$18,000 (aerospace/NREL clean energy/CA in-migration professional), $28,000-$70,000+ (enterprise). ITAR-bounded aerospace credential standard. NREL evidence visual architecture. FINRA/HIPAA compliance. WCAG 2.1 AA. Fixed-price."
+  },
+  {
+    "question": "What is ITAR-bounded aerospace credential architecture for Denver web design?",
+    "answer": "ITAR-bounded aerospace web design displays AS9100D quality management certification with CAGE code and DUNS verification links, DCAA accounting system certification, and cleared facility status communication — all in publicly releasable vocabulary. It excludes controlled technical specifications, classified programme capability descriptions, and export-restricted performance parameters from website content, earning Lockheed Martin and Ball Aerospace vendor evaluation without creating ITAR export control exposure."
+  },
+  {
+    "question": "What is NREL clean energy evidence visual architecture for Denver web design?",
+    "answer": "NREL evidence visual architecture displays specific NREL Technical Report collaboration references with DOI links, DOE EERE programme participation with specific programme names and years, LEED or ENERGY STAR certification with EPA verification links, and Colorado Energy Office partnership display. The evidence-based visual design standard that communicates genuine clean energy operational authority — not performed environmental brand values — to Colorado's technically sophisticated clean energy community."
+  },
+  {
+    "question": "Does Clickmasters serve Boulder, Colorado Springs, and all of Colorado?",
+    "answer": "Yes — all of Colorado including Boulder, Colorado Springs, Fort Collins, Aurora, and the full state."
+  },
+  {
+    "question": "How long does a Denver web design project take?",
+    "answer": "Aerospace (ITAR compliance review): 8-14 weeks. NREL clean energy (DOI link verification adds time): 8-14 weeks. CA in-migration professional (FINRA/HIPAA review): 8-14 weeks. Enterprise: 16-24 weeks."
+  },
+  {
+    "question": "What is the California in-migration professional quality standard for Denver web design?",
+    "answer": "Cherry Creek's rapidly growing California in-migration professional community — from Mountain View, Palo Alto, and the SF Bay Area — evaluates Denver professional service provider websites against Bay Area quality standards: CFA/CFP charter with CFP Board verification links, MD with University of Colorado Health or UCHealth system affiliations, and design sophistication that communicates professionally managed institutional practice. Pre-in-migration Colorado professional website standards communicate inadequacy to this commercially valuable demographic."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Denver?","acceptedAnswer":{"@type":"Answer","text":"Denver web design: \$6,500-\$18,000 (aerospace/NREL clean energy/CA in-migration professional), \$28,000-\$70,000+ (enterprise). ITAR-bounded aerospace credential standard. NREL evidence visual architecture. FINRA/HIPAA compliance. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is ITAR-bounded aerospace credential architecture for Denver web design?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded aerospace web design displays AS9100D quality management certification with CAGE code and DUNS verification links, DCAA accounting system certification, and cleared facility status communication — all in publicly releasable vocabulary. It excludes controlled technical specifications, classified programme capability descriptions, and export-restricted performance parameters from website content, earning Lockheed Martin and Ball Aerospace vendor evaluation without creating ITAR export control exposure."}},{"@type":"Question","name":"What is NREL clean energy evidence visual architecture for Denver web design?","acceptedAnswer":{"@type":"Answer","text":"NREL evidence visual architecture displays specific NREL Technical Report collaboration references with DOI links, DOE EERE programme participation with specific programme names and years, LEED or ENERGY STAR certification with EPA verification links, and Colorado Energy Office partnership display. The evidence-based visual design standard that communicates genuine clean energy operational authority — not performed environmental brand values — to Colorado's technically sophisticated clean energy community."}},{"@type":"Question","name":"Does Clickmasters serve Boulder, Colorado Springs, and all of Colorado?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Colorado including Boulder, Colorado Springs, Fort Collins, Aurora, and the full state."}},{"@type":"Question","name":"How long does a Denver web design project take?","acceptedAnswer":{"@type":"Answer","text":"Aerospace (ITAR compliance review): 8-14 weeks. NREL clean energy (DOI link verification adds time): 8-14 weeks. CA in-migration professional (FINRA/HIPAA review): 8-14 weeks. Enterprise: 16-24 weeks."}},{"@type":"Question","name":"What is the California in-migration professional quality standard for Denver web design?","acceptedAnswer":{"@type":"Answer","text":"Cherry Creek's rapidly growing California in-migration professional community — from Mountain View, Palo Alto, and the SF Bay Area — evaluates Denver professional service provider websites against Bay Area quality standards: CFA/CFP charter with CFP Board verification links, MD with University of Colorado Health or UCHealth system affiliations, and design sophistication that communicates professionally managed institutional practice. Pre-in-migration Colorado professional website standards communicate inadequacy to this commercially valuable demographic."}}]}`,
   cta: `Get Your Free Denver Website Audit`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-denver/","/seo-services-denver/","/web-design-agency-seattle/","/industries/manufacturing/","/tools/website-grader/"],
@@ -60,7 +87,7 @@ Results: FINRA examination: clean | CA in-migration professional enquiries: +3x 
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /web-design-agency-denver/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

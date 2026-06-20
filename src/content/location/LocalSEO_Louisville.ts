@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Louisville.xlsx
 // Service: LocalSEO
 // City: Louisville
-// Generated: 2026-06-19T12:50:27.527Z
+// URL: /local-seo-services-louisville/
+// Generated: 2026-06-20T04:42:13.168Z
 
 export const LocalSEO_Louisville = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "Louisville",
   citySlug: "louisville",
-  slug: "/locations/local-seo/louisville",
+  slug: "/local-seo-services-louisville/",
   
   h1: `Local SEO Louisville — Humana Medicare Advantage Proximity GBP, UofL Health/Norton Academic Medical, and St. Matthews/Anchorage Professional Quality`,
   primaryKw: `local seo services louisville`,
@@ -16,7 +17,7 @@ export const LocalSEO_Louisville = {
   seoTitle: `Local SEO Louisville | Humana Proximity GBP & UofL Health/Norton YMYL | Clickmasters`,
   meta: `Clickmasters Local SEO in Louisville. Humana Medicare Advantage proximity B2B GBP, UofL Health/Norton academic medical credential, and St. Matthews/Anchorage professional quality standard. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Louisville Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-louisville/","address":{"@type":"PostalAddress","addressLocality":"Louisville","addressRegion":"KY","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3500,
   geoAeoBlock: `WHAT IS LOCAL SEO IN LOUISVILLE?
 
 Local SEO in Louisville is the practice of optimising Google Business Profiles for the top 3 of Greater Louisville's Local Pack — in a market where Humana's downtown Louisville headquarters creates health insurance B2B proximity GBP commercial value, UofL Health and Norton Healthcare define the YMYL academic medical standard, and St. Matthews and Anchorage represent the highest-income professional communities in Jefferson County.
@@ -41,7 +42,33 @@ Case Study 3: Downtown Louisville Professional Services — Humana Proximity B2B
 Client: Health insurance analytics consulting, Downtown Louisville (Humana-adjacent). Challenge: No Humana Medicare Advantage vocabulary. Generic GBP.
 Programme: Humana Medicare Advantage/Stars vocabulary + downtown proximity signals + health insurance photography
 Results (3 months): Top 3 Local Pack Louisville health insurance consulting | Humana community near-me: +3x`,
-  faq: `FAQs — Local SEO Louisville`,
+  faqTitle: `FAQs — Local SEO Louisville`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in Louisville?",
+    "answer": "Louisville Local SEO: $900/month (single) to $9,000+/month (enterprise). Humana Medicare Advantage proximity GBP. UofL Health/Norton YMYL academic medical. St. Matthews/Anchorage professional quality. HIPAA review management. Kentucky retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is Humana Medicare Advantage proximity GBP for Louisville businesses?",
+    "answer": "Humana Medicare Advantage/Stars quality programme vocabulary in GBP service descriptions, downtown Louisville and Prospect proximity signals, and health insurance professional photography — earning above-average B2B near-me consideration from Humana's Louisville Medicare Advantage managed care professional community."
+  },
+  {
+    "question": "Does Clickmasters serve St. Matthews, Jeffersontown, Shelbyville, and Greater Louisville?",
+    "answer": "Yes — all of Greater Louisville MSA: Jefferson County, Oldham County, Bullitt County."
+  },
+  {
+    "question": "How many reviews for Louisville Local Pack?",
+    "answer": "Greater Louisville benchmarks: St. Matthews/Anchorage professional services: 4.5+ stars, 60-110+ reviews. UofL/Norton-adjacent healthcare: 4.4+, 50-100+. Downtown Louisville health insurance B2B: 4.3+, 35-70+."
+  },
+  {
+    "question": "What is the Kentucky Derby GBP review timing strategy for Louisville businesses?",
+    "answer": "Post-Derby period (mid-May through June) creates Louisville's highest annual GBP review request response opportunity — when enthused Derby visitors and post-Derby bourbon trail participants are in their highest review motivation window. Review request email timing calibrated to post-Derby (May 15–June 15) earns above-average response rates from Louisville's most commercially engaged seasonal visitor audience."
+  },
+  {
+    "question": "What is the St. Matthews/Anchorage professional quality GBP standard for Louisville?",
+    "answer": "St. Matthews' vibrant suburban professional community and Anchorage's status as Kentucky's most affluent small city — home to Humana senior management, GE Appliances executives, and Churchill Downs leadership — evaluate GBPs with the Derby City Fortune 500 institutional precision: CFA Institute verification for financial advisory, UofL/Norton affiliation for healthcare, and Derby City institutional photography."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Louisville?","acceptedAnswer":{"@type":"Answer","text":"Louisville Local SEO: \$900/month (single) to \$9,000+/month (enterprise). Humana Medicare Advantage proximity GBP. UofL Health/Norton YMYL academic medical. St. Matthews/Anchorage professional quality. HIPAA review management. Kentucky retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Humana Medicare Advantage proximity GBP for Louisville businesses?","acceptedAnswer":{"@type":"Answer","text":"Humana Medicare Advantage/Stars quality programme vocabulary in GBP service descriptions, downtown Louisville and Prospect proximity signals, and health insurance professional photography — earning above-average B2B near-me consideration from Humana's Louisville Medicare Advantage managed care professional community."}},{"@type":"Question","name":"Does Clickmasters serve St. Matthews, Jeffersontown, Shelbyville, and Greater Louisville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Louisville MSA: Jefferson County, Oldham County, Bullitt County."}},{"@type":"Question","name":"How many reviews for Louisville Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Louisville benchmarks: St. Matthews/Anchorage professional services: 4.5+ stars, 60-110+ reviews. UofL/Norton-adjacent healthcare: 4.4+, 50-100+. Downtown Louisville health insurance B2B: 4.3+, 35-70+."}},{"@type":"Question","name":"What is the Kentucky Derby GBP review timing strategy for Louisville businesses?","acceptedAnswer":{"@type":"Answer","text":"Post-Derby period (mid-May through June) creates Louisville's highest annual GBP review request response opportunity — when enthused Derby visitors and post-Derby bourbon trail participants are in their highest review motivation window. Review request email timing calibrated to post-Derby (May 15–June 15) earns above-average response rates from Louisville's most commercially engaged seasonal visitor audience."}},{"@type":"Question","name":"What is the St. Matthews/Anchorage professional quality GBP standard for Louisville?","acceptedAnswer":{"@type":"Answer","text":"St. Matthews' vibrant suburban professional community and Anchorage's status as Kentucky's most affluent small city — home to Humana senior management, GE Appliances executives, and Churchill Downs leadership — evaluate GBPs with the Derby City Fortune 500 institutional precision: CFA Institute verification for financial advisory, UofL/Norton affiliation for healthcare, and Derby City institutional photography."}}]}`,
   cta: `Get Your Free Louisville Local SEO Audit`,
   internalLinks: ["/local-seo-services/","/seo-services-louisville/","/digital-marketing-agency-louisville/","/local-seo-services-nashville/"],
@@ -51,7 +78,7 @@ Results (3 months): Top 3 Local Pack Louisville health insurance consulting | Hu
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-louisville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

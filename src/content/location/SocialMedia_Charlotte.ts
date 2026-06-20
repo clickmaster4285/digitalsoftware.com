@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SocialMedia-Charlotte.xlsx
 // Service: SocialMedia
 // City: Charlotte
-// Generated: 2026-06-19T12:50:28.404Z
+// URL: /social-media-marketing-charlotte/
+// Generated: 2026-06-20T04:42:14.046Z
 
 export const SocialMedia_Charlotte = {
   service: "SocialMedia",
   serviceSlug: "social-media",
   city: "Charlotte",
   citySlug: "charlotte",
-  slug: "/locations/social-media/charlotte",
+  slug: "/social-media-marketing-charlotte/",
   
   h1: `Social Media Marketing Charlotte — Banking Capital LinkedIn, NASCAR Motorsports Professional Community, and Authentic Queen City Brand Social`,
   primaryKw: `social media marketing charlotte`,
@@ -16,7 +17,7 @@ export const SocialMedia_Charlotte = {
   seoTitle: `Social Media Marketing Charlotte | Banking Capital LinkedIn & NASCAR Motorsports | Clickmasters`,
   meta: `Clickmasters social media marketing in Charlotte. Bank of America/Truist banking capital LinkedIn, NASCAR motorsports professional community, and authentic South End/NoDa consumer brand programmes. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Charlotte Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-charlotte/","address":{"@type":"PostalAddress","addressLocality":"Charlotte","addressRegion":"NC","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3800,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN CHARLOTTE?
 
 Social media marketing in Charlotte is the strategic management of social platforms across three commercially distinct communities: the Bank of America/Truist banking capital LinkedIn ecosystem, the NASCAR motorsports professional community centred in Concord, and the authentic Queen City consumer brand community in South End, NoDa, and Plaza Midwood.
@@ -41,7 +42,33 @@ Case Study 3: South End Artisan Brand — Authentic Charlotte Consumer Social
 Client: Artisan food brand, South End Charlotte (\$2.0M DTC). Challenge: Generic 'Charlotte food scene' Instagram below South End authentic community standard.
 Programme: South End arts district vocabulary + NoDa creative community cross-promotion + authentic Charlotte neighbourhood content
 Results (6 months): Instagram engagement: 1.6% to 5.4% | South End arts community editorial features: 3 | DTC revenue from social: +\$140K`,
-  faq: `FAQs — Social Media Marketing Charlotte`,
+  faqTitle: `FAQs — Social Media Marketing Charlotte`,
+  faqs: [
+  {
+    "question": "How much does social media marketing cost in Charlotte?",
+    "answer": "Charlotte social media: $1,600/month (LinkedIn growth) to $14,000+/month (enterprise). BofA/Truist banking operational vocabulary. FINRA-compliant. NASCAR motorsports community. Authentic Queen City brand. North Carolina retainers below NYC and Atlanta. 90-day guarantee."
+  },
+  {
+    "question": "What is banking capital LinkedIn for Charlotte businesses?",
+    "answer": "Banking capital LinkedIn content demonstrates specific BofA/Truist operational knowledge: commercial treasury management methodology, Libor-to-SOFR migration operational specifics, commercial lending technology integration insights, and capital markets analytics vocabulary. FINRA Rule 2210-compliant throughout. Generic fintech LinkedIn content earns zero engagement from Charlotte's most commercially significant banking capital professional community."
+  },
+  {
+    "question": "What is NASCAR motorsports professional LinkedIn for Charlotte businesses?",
+    "answer": "NASCAR motorsports LinkedIn content demonstrates genuine racing operational knowledge: race engineering operational vocabulary, NASCAR supply chain management insights, motorsports sponsorship ROI measurement methodology, and racing technical operational specifics that distinguish genuine motorsports expertise from generic 'automotive industry' content for Team Penske and Hendrick Motorsports evaluation."
+  },
+  {
+    "question": "Does Clickmasters serve Concord, Huntersville, Mooresville, and Greater Charlotte?",
+    "answer": "Yes — all of Greater Charlotte MSA."
+  },
+  {
+    "question": "What is authentic Queen City consumer social media for Charlotte brands?",
+    "answer": "South End arts district vocabulary, NoDa (North Davidson) creative neighbourhood community content, Plaza Midwood independent commercial character, and Charlotte food/beverage authentic community engagement — the specific Queen City neighbourhood vocabulary that distinguishes genuinely Charlotte-rooted brands from generic Southeast lifestyle commercial approximations."
+  },
+  {
+    "question": "How does Clickmasters measure Charlotte social media commercial outcomes?",
+    "answer": "Banking capital LinkedIn: BofA/Truist procurement connections and banking enterprise evaluation invitations. NASCAR motorsports LinkedIn: Team Penske/Hendrick connections and motorsports vendor RFQ invitations. Queen City consumer brand: engagement vs authentic Charlotte community benchmark, editorial features in Charlotte publications, DTC revenue attribution."
+  }
+],
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Charlotte social media: \$1,600/month (LinkedIn growth) to \$14,000+/month (enterprise). BofA/Truist banking operational vocabulary. FINRA-compliant. NASCAR motorsports community. Authentic Queen City brand. North Carolina retainers below NYC and Atlanta. 90-day guarantee."}},{"@type":"Question","name":"What is banking capital LinkedIn for Charlotte businesses?","acceptedAnswer":{"@type":"Answer","text":"Banking capital LinkedIn content demonstrates specific BofA/Truist operational knowledge: commercial treasury management methodology, Libor-to-SOFR migration operational specifics, commercial lending technology integration insights, and capital markets analytics vocabulary. FINRA Rule 2210-compliant throughout. Generic fintech LinkedIn content earns zero engagement from Charlotte's most commercially significant banking capital professional community."}},{"@type":"Question","name":"What is NASCAR motorsports professional LinkedIn for Charlotte businesses?","acceptedAnswer":{"@type":"Answer","text":"NASCAR motorsports LinkedIn content demonstrates genuine racing operational knowledge: race engineering operational vocabulary, NASCAR supply chain management insights, motorsports sponsorship ROI measurement methodology, and racing technical operational specifics that distinguish genuine motorsports expertise from generic 'automotive industry' content for Team Penske and Hendrick Motorsports evaluation."}},{"@type":"Question","name":"Does Clickmasters serve Concord, Huntersville, Mooresville, and Greater Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Charlotte MSA."}},{"@type":"Question","name":"What is authentic Queen City consumer social media for Charlotte brands?","acceptedAnswer":{"@type":"Answer","text":"South End arts district vocabulary, NoDa (North Davidson) creative neighbourhood community content, Plaza Midwood independent commercial character, and Charlotte food/beverage authentic community engagement — the specific Queen City neighbourhood vocabulary that distinguishes genuinely Charlotte-rooted brands from generic Southeast lifestyle commercial approximations."}},{"@type":"Question","name":"How does Clickmasters measure Charlotte social media commercial outcomes?","acceptedAnswer":{"@type":"Answer","text":"Banking capital LinkedIn: BofA/Truist procurement connections and banking enterprise evaluation invitations. NASCAR motorsports LinkedIn: Team Penske/Hendrick connections and motorsports vendor RFQ invitations. Queen City consumer brand: engagement vs authentic Charlotte community benchmark, editorial features in Charlotte publications, DTC revenue attribution."}}]}`,
   cta: `Get Your Free Charlotte Social Media Audit`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-charlotte/","/seo-services-charlotte/","/social-media-marketing-atlanta/"],
@@ -51,7 +78,7 @@ Results (6 months): Instagram engagement: 1.6% to 5.4% | South End arts communit
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /social-media-marketing-charlotte/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },
