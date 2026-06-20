@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Memphis.xlsx
 // Service: GoogleAds
 // City: Memphis
-// Generated: 2026-06-19T12:50:27.027Z
+// URL: /google-ads-management-memphis/
+// Generated: 2026-06-20T06:13:00.437Z
 
 export const GoogleAds_Memphis = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "Memphis",
   citySlug: "memphis",
-  slug: "/locations/google-ads/memphis",
+  slug: "/google-ads-management-memphis/",
   
   h1: `Google Ads Management Memphis — FedEx Logistics Tech PPC, St. Jude YMYL HIPAA, and AutoZone Automotive Retail Campaigns`,
   primaryKw: `google ads agency memphis`,
@@ -16,7 +17,8 @@ export const GoogleAds_Memphis = {
   seoTitle: `Google Ads Agency Memphis | FedEx Logistics PPC & St. Jude World-Class YMYL | Clickmasters`,
   meta: `Clickmasters Google Ads in Memphis. FedEx logistics technology PPC, St. Jude world-class YMYL HIPAA paediatric oncology, and AutoZone automotive retail campaigns with Tennessee TIPA consent management. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Memphis Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-memphis/","address":{"@type":"PostalAddress","addressLocality":"Memphis","addressRegion":"TN","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3500,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN MEMPHIS?
 
 Google Ads management in Memphis is the professional management of PPC advertising across three commercially distinct categories: FedEx world headquarters logistics and supply chain technology, St. Jude Children's Research Hospital world-class YMYL HIPAA health technology, and AutoZone/International Paper Fortune 500 B2B.
@@ -27,6 +29,17 @@ ST. JUDE WORLD-CLASS YMYL HIPAA HEALTH TECHNOLOGY GOOGLE ADS: St. Jude Children'
 
 AUTOZONE/BAPTIST MEMORIAL FORTUNE 500 AND HEALTHCARE GOOGLE ADS: AutoZone generates automotive retail analytics procurement searches, and Baptist Memorial Health Care creates healthcare patient acquisition PPC requiring HIPAA-compliant server-side conversion tracking throughout — all with Tennessee TIPA consent management.`,
   features: ``,
+  pas: `PROBLEM: The Memphis supply chain analytics company spending \$4,800/month on 'analytics consulting Memphis' and 'supply chain technology Tennessee.' FedEx's new VP Network Intelligence searches 'FedEx Ground sortation optimisation analytics vendor Memphis' and 'supply chain visibility platform FedEx World Technology Center.' Neither in the campaign. \$57K spend misses FedEx's specific logistics operational vocabulary — the most commercially concentrated logistics B2B procurement language in the US South.
+
+SOLUTION: Clickmasters Memphis Google Ads delivers FedEx logistics vocabulary, St. Jude world-class YMYL HIPAA, AutoZone automotive retail, Baptist Memorial HIPAA — at Tennessee CPCs below Atlanta and Chicago equivalents.`,
+  services: `MEMPHIS FEDEX LOGISTICS TECH GOOGLE ADS:
+For Memphis logistics technology and supply chain vendors. FedEx Ground/Express/Freight network vocabulary. Last-mile delivery analytics. Supply chain visibility platform. FedEx WTC community. TIPA consent management.
+
+MEMPHIS ST. JUDE WORLD-CLASS YMYL HIPAA GOOGLE ADS:
+For Memphis health IT vendors and healthcare practices. St. Jude paediatric oncology/genomics vocabulary. World-class YMYL clinical content. HIPAA server-side conversion tracking. TIPA consent management.
+
+MEMPHIS AUTOZONE/BAPTIST MEMORIAL GOOGLE ADS:
+For Memphis automotive analytics and healthcare. AutoZone automotive retail analytics vocabulary. Baptist Memorial patient acquisition. HIPAA server-side. TIPA consent management.`,
   caseStudies: `Case Study 1: Memphis Logistics Technology — FedEx Network Vocabulary PPC
 Client: Supply chain analytics, Memphis (\$5.4M ARR). Challenge: \$57K spend missing FedEx logistics vocabulary.
 Programme: FedEx Ground/Express/Freight/last-mile vocabulary + FedEx WTC community + TIPA consent management
@@ -41,17 +54,54 @@ Case Study 3: Memphis Healthcare Practice — Baptist Memorial HIPAA TIPA PPC
 Client: Internal medicine (Baptist Memorial-affiliated). Challenge: Non-HIPAA. Non-TIPA. Generic 'Memphis doctor' keywords.
 Programme: HIPAA server-side + TIPA consent management + Baptist Memorial vocabulary + Memphis family audience
 Results: HIPAA/TIPA: Tennessee AG compliant | Baptist CPL: \$110 vs \$300 generic | New patients: +3x`,
-  faq: `FAQs — Google Ads Memphis`,
+  pricing: ``,
+  faqTitle: `FAQs — Google Ads Memphis`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Memphis?",
+    "answer": "Memphis Google Ads: $950/month (Growth) to $9,500+/month (Enterprise). FedEx logistics/supply chain vocabulary. St. Jude world-class YMYL HIPAA. AutoZone automotive retail. Tennessee TIPA consent management. Tennessee CPCs below Atlanta/Chicago. 90-day guarantee."
+  },
+  {
+    "question": "What is FedEx logistics technology Google Ads for Memphis businesses?",
+    "answer": "FedEx logistics vocabulary campaigns target world headquarters procurement: 'FedEx Ground sortation optimisation analytics Memphis,' 'supply chain visibility platform FedEx World Technology Center,' 'last-mile delivery analytics FedEx Freight Memphis.' Tennessee CPCs significantly below Atlanta and Chicago logistics technology equivalents."
+  },
+  {
+    "question": "What is St. Jude world-class YMYL HIPAA Google Ads for Memphis health technology vendors?",
+    "answer": "St. Jude paediatric oncology vocabulary campaigns targeting world-class research procurement: 'paediatric cancer genomics analytics vendor Memphis St. Jude,' 'childhood cancer clinical trial technology Tennessee,' 'computational biology bioinformatics vendor St. Jude.' World-class YMYL vocabulary at Tennessee CPCs below Boston and New York academic medical equivalents."
+  },
+  {
+    "question": "Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?",
+    "answer": "Yes — all of Greater Memphis MSA: Shelby County (Tennessee) and DeSoto County (Mississippi)."
+  },
+  {
+    "question": "What is Tennessee TIPA consent management for Memphis Google Ads?",
+    "answer": "Tennessee Information Protection Act (TIPA, effective July 2025) consent management implements Tennessee-compliant consent for Google Ads conversion tracking. Memphis businesses without TIPA consent management overstate Google Ads conversions through non-consensual Tennessee data collection, creating Tennessee AG enforcement exposure."
+  },
+  {
+    "question": "How do Memphis Google Ads CPCs compare to Atlanta and Chicago for logistics technology?",
+    "answer": "Tennessee CPCs 20-25% below Atlanta for equivalent logistics technology vocabulary. 25-30% below Chicago for equivalent supply chain analytics. FedEx logistics vocabulary CPCs are Memphis-specific with lower competition than major US logistics technology advertising markets."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Memphis?","acceptedAnswer":{"@type":"Answer","text":"Memphis Google Ads: \$950/month (Growth) to \$9,500+/month (Enterprise). FedEx logistics/supply chain vocabulary. St. Jude world-class YMYL HIPAA. AutoZone automotive retail. Tennessee TIPA consent management. Tennessee CPCs below Atlanta/Chicago. 90-day guarantee."}},{"@type":"Question","name":"What is FedEx logistics technology Google Ads for Memphis businesses?","acceptedAnswer":{"@type":"Answer","text":"FedEx logistics vocabulary campaigns target world headquarters procurement: 'FedEx Ground sortation optimisation analytics Memphis,' 'supply chain visibility platform FedEx World Technology Center,' 'last-mile delivery analytics FedEx Freight Memphis.' Tennessee CPCs significantly below Atlanta and Chicago logistics technology equivalents."}},{"@type":"Question","name":"What is St. Jude world-class YMYL HIPAA Google Ads for Memphis health technology vendors?","acceptedAnswer":{"@type":"Answer","text":"St. Jude paediatric oncology vocabulary campaigns targeting world-class research procurement: 'paediatric cancer genomics analytics vendor Memphis St. Jude,' 'childhood cancer clinical trial technology Tennessee,' 'computational biology bioinformatics vendor St. Jude.' World-class YMYL vocabulary at Tennessee CPCs below Boston and New York academic medical equivalents."}},{"@type":"Question","name":"Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Memphis MSA: Shelby County (Tennessee) and DeSoto County (Mississippi)."}},{"@type":"Question","name":"What is Tennessee TIPA consent management for Memphis Google Ads?","acceptedAnswer":{"@type":"Answer","text":"Tennessee Information Protection Act (TIPA, effective July 2025) consent management implements Tennessee-compliant consent for Google Ads conversion tracking. Memphis businesses without TIPA consent management overstate Google Ads conversions through non-consensual Tennessee data collection, creating Tennessee AG enforcement exposure."}},{"@type":"Question","name":"How do Memphis Google Ads CPCs compare to Atlanta and Chicago for logistics technology?","acceptedAnswer":{"@type":"Answer","text":"Tennessee CPCs 20-25% below Atlanta for equivalent logistics technology vocabulary. 25-30% below Chicago for equivalent supply chain analytics. FedEx logistics vocabulary CPCs are Memphis-specific with lower competition than major US logistics technology advertising markets."}}]}`,
   cta: `Get Your Free Memphis Google Ads Audit`,
-  internalLinks: ["/digital-marketing-agency-memphis/","/seo-services-memphis/","/google-ads-management-services/","/google-ads-management-nashville/"],
+  ctaBody: `Free audit — 48 hours.
+1. FedEx logistics vocabulary gap — Ground/Express/Freight/last-mile searches campaigns miss
+2. Tennessee TIPA consent management — conversion tracking compliance
+3. HIPAA compliance — St. Jude/Baptist Memorial patient acquisition violations
+4. St. Jude YMYL vocabulary — paediatric oncology/genomics PPC gaps
+5. Tennessee CPC efficiency vs Atlanta/Chicago logistics technology benchmark
+
+Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
+Germantown, Collierville, Bartlett, Midtown, and all of Greater Memphis`,
+  internalLinks: ["/digital-marketing-agency-in-memphis/","/seo-services-memphis/","/google-ads-management-services/","/google-ads-management-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-memphis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

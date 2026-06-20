@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-LasVegas.xlsx
 // Service: SEO
 // City: LasVegas
-// Generated: 2026-06-19T12:50:27.992Z
+// URL: /seo-services-las-vegas/
+// Generated: 2026-06-20T06:13:02.221Z
 
 export const SEO_LasVegas = {
   service: "SEO",
   serviceSlug: "seo",
   city: "LasVegas",
   citySlug: "las-vegas",
-  slug: "/locations/seo/las-vegas",
+  slug: "/seo-services-las-vegas/",
   
   h1: `SEO Services Las Vegas — Gaming-Adjacent B2B Authority, CA In-Migration Professional, and Nevada No-Tax Commercial Organic`,
   primaryKw: `seo services las vegas`,
@@ -16,7 +17,8 @@ export const SEO_LasVegas = {
   seoTitle: `SEO Services Las Vegas | Gaming-Adjacent B2B & Nevada No-Tax Commercial | Clickmasters`,
   meta: `Clickmasters SEO in Las Vegas. Gaming-adjacent B2B authority, California in-migration professional organic, and Nevada no-income-tax commercial search leadership. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Las Vegas SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-las-vegas/","address":{"@type":"PostalAddress","addressLocality":"Las Vegas","addressRegion":"NV","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3800,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN LAS VEGAS?
 
 SEO in Las Vegas is the practice of earning organic search authority for a commercial market undergoing rapid diversification — from gaming-and-hospitality-dominant to a genuinely multi-sector economy attracting California in-migration, technology companies, and above-average healthcare demand from a rapidly growing residential professional community.
@@ -27,6 +29,17 @@ CALIFORNIA IN-MIGRATION PROFESSIONAL SEO: Las Vegas's 15%+ population growth inc
 
 NEVADA NO-INCOME-TAX COMMERCIAL SEO: Nevada's 0% state income tax creates commercial content authority opportunities — financial advisory, estate planning, and wealth management businesses serving Las Vegas's growing HNW in-migration community can build genuine organic authority by addressing the CA-to-NV tax planning, Nevada estate planning, and Nevada business entity advantages that Las Vegas's in-migration professional community actively researches.`,
   features: ``,
+  pas: `PROBLEM: The Henderson fee-only financial advisory — genuine CA in-migration financial planning expertise, Nevada estate planning knowledge, RSU-specific CA-to-NV tax planning. Zero CA-to-NV vocabulary in website content. Google search for 'financial adviser Las Vegas California relocation' and 'Henderson fee-only financial planning Nevada' — the firm doesn't appear. The relocating Bay Area engineer who just bought in Summerlin searches 'fee-only financial adviser Las Vegas RSU California income tax Nevada' — and finds the Henderson firm nowhere in the results.
+
+SOLUTION: Clickmasters Las Vegas SEO delivers gaming-adjacent B2B vocabulary authority, CA in-migration financial planning organic, Nevada no-income-tax commercial organic, and GEO/AEO first-mover architecture.`,
+  services: `LAS VEGAS GAMING-ADJACENT B2B SEO:
+For technology vendors and professional services serving MGM, Caesars, Wynn, and Station Casino procurement. Gaming ERP/SaaS vocabulary. Casino regulatory compliance technology. Hospitality workforce management. Gaming technology SEO community content.
+
+LAS VEGAS CA IN-MIGRATION PROFESSIONAL SEO:
+For financial advisory, healthcare, legal, and professional services serving CA in-migration. CA-to-NV income tax planning vocabulary. Henderson/Summerlin in-migration professional services. RSU/equity compensation Nevada planning. FINRA-compliant financial SEO.
+
+NEVADA COMMERCIAL ADVANTAGE SEO:
+For estate planning, business formation, and asset protection businesses. Nevada 0% income tax content authority. Nevada LLC/trust formation vocabulary. Asset protection planning content. Nevada business entity advantage content.`,
   caseStudies: `Case Study 1: Henderson Financial Advisory — CA In-Migration Nevada No-Tax SEO
 Client: Fee-only RIA, Henderson (\$240M AUM, 50% CA in-migration). Challenge: Zero CA-to-NV vocabulary. Henderson/Summerlin in-migration professionals not finding through organic.
 Programme: CA-to-NV income tax planning content + RSU equity Nevada vocabulary + Henderson/Summerlin GEO content + FINRA-compliant + GEO/AEO
@@ -41,17 +54,54 @@ Case Study 3: Las Vegas Estate Planning Firm — Nevada No-Tax Asset Protection 
 Client: Estate planning law firm, Las Vegas (6 attorneys). Challenge: Zero Nevada 0% income tax content authority. CA in-migration estate planning organic absent.
 Programme: Nevada 0% income tax vocabulary + Nevada LLC/trust formation + asset protection content + CA-to-NV estate planning + GEO/AEO
 Results (10 months): Page 1 for 14 Nevada estate planning/asset protection queries | CA in-migration estate planning enquiries: +3x | Revenue from organic: +\$480K`,
-  faq: `FAQs — SEO Las Vegas`,
+  pricing: ``,
+  faqTitle: `FAQs — SEO Las Vegas`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Las Vegas?",
+    "answer": "Las Vegas SEO: $1,100/month (Foundation) to $10,000+/month (Enterprise). Gaming-adjacent B2B vocabulary. CA in-migration professional services. Nevada no-income-tax commercial content. FINRA for financial. 90-day guarantee."
+  },
+  {
+    "question": "What is California in-migration SEO for Las Vegas businesses?",
+    "answer": "CA in-migration SEO builds organic authority for the specific vocabulary that Las Vegas's California-origin residential growth creates: 'fee-only financial adviser Las Vegas California relocation,' 'Henderson RSU equity compensation Nevada tax planning,' 'California Nevada income tax comparison Henderson,' and the professional transition searches that high-income CA in-migration professionals conduct during their first 12 months of Nevada residency."
+  },
+  {
+    "question": "What is gaming-adjacent B2B SEO for Las Vegas businesses?",
+    "answer": "Gaming-adjacent B2B SEO builds organic authority in gaming operational vocabulary: casino ERP, gaming regulatory compliance technology, hospitality SaaS, casino workforce management, gaming surveillance systems, and the specific operational vocabulary that MGM, Caesars, Wynn, and Station Casinos procurement staff uses in vendor research."
+  },
+  {
+    "question": "Does Clickmasters serve Henderson, Summerlin, and Greater Las Vegas?",
+    "answer": "Yes — all of Clark County and the Greater Las Vegas metropolitan area."
+  },
+  {
+    "question": "How quickly does Las Vegas CA in-migration SEO produce professional results?",
+    "answer": "CA in-migration vocabulary rankings: 3-5 months (lower organic competition than Los Angeles or San Diego for in-migration-specific vocabulary). GEO/AEO AI search citation: 4-6 months. CA in-migration professional client acquisition measurable: 6-9 months."
+  },
+  {
+    "question": "How does Nevada's 0% income tax create SEO authority opportunities?",
+    "answer": "Nevada's absence of state income tax creates above-average consumer research demand for CA-to-NV tax planning, Nevada LLC/trust formation, and asset protection strategy content — topics that Las Vegas financial advisory and estate planning businesses can build genuine organic authority around that earns above-average qualified lead conversion from Nevada's fastest-growing in-migration demographic."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Las Vegas?","acceptedAnswer":{"@type":"Answer","text":"Las Vegas SEO: \$1,100/month (Foundation) to \$10,000+/month (Enterprise). Gaming-adjacent B2B vocabulary. CA in-migration professional services. Nevada no-income-tax commercial content. FINRA for financial. 90-day guarantee."}},{"@type":"Question","name":"What is California in-migration SEO for Las Vegas businesses?","acceptedAnswer":{"@type":"Answer","text":"CA in-migration SEO builds organic authority for the specific vocabulary that Las Vegas's California-origin residential growth creates: 'fee-only financial adviser Las Vegas California relocation,' 'Henderson RSU equity compensation Nevada tax planning,' 'California Nevada income tax comparison Henderson,' and the professional transition searches that high-income CA in-migration professionals conduct during their first 12 months of Nevada residency."}},{"@type":"Question","name":"What is gaming-adjacent B2B SEO for Las Vegas businesses?","acceptedAnswer":{"@type":"Answer","text":"Gaming-adjacent B2B SEO builds organic authority in gaming operational vocabulary: casino ERP, gaming regulatory compliance technology, hospitality SaaS, casino workforce management, gaming surveillance systems, and the specific operational vocabulary that MGM, Caesars, Wynn, and Station Casinos procurement staff uses in vendor research."}},{"@type":"Question","name":"Does Clickmasters serve Henderson, Summerlin, and Greater Las Vegas?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Clark County and the Greater Las Vegas metropolitan area."}},{"@type":"Question","name":"How quickly does Las Vegas CA in-migration SEO produce professional results?","acceptedAnswer":{"@type":"Answer","text":"CA in-migration vocabulary rankings: 3-5 months (lower organic competition than Los Angeles or San Diego for in-migration-specific vocabulary). GEO/AEO AI search citation: 4-6 months. CA in-migration professional client acquisition measurable: 6-9 months."}},{"@type":"Question","name":"How does Nevada's 0% income tax create SEO authority opportunities?","acceptedAnswer":{"@type":"Answer","text":"Nevada's absence of state income tax creates above-average consumer research demand for CA-to-NV tax planning, Nevada LLC/trust formation, and asset protection strategy content — topics that Las Vegas financial advisory and estate planning businesses can build genuine organic authority around that earns above-average qualified lead conversion from Nevada's fastest-growing in-migration demographic."}}]}`,
   cta: `Get Your Free Las Vegas SEO Audit`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-las-vegas/","/seo-services-los-angeles/","/seo-services-phoenix/"],
+  ctaBody: `Free audit — 48 hours.
+1. CA in-migration vocabulary gap — CA-to-NV income tax and RSU searches you're missing
+2. Gaming-adjacent B2B vocabulary — casino operational searches your content misses
+3. FINRA/HIPAA compliance in SEO content
+4. Nevada no-income-tax commercial content — estate planning and asset protection gaps
+5. GEO/AEO architecture — AI search for Las Vegas CA in-migration and gaming B2B queries
+
+Phone +1-888-555-CLICK | lasvegas@clickmastersdigitalmarketing.com
+Henderson, Summerlin, North Las Vegas, and all of Greater Las Vegas`,
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-las-vegas/","/seo-services-los-angeles/","/seo-services-phoenix/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-las-vegas/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

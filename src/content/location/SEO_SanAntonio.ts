@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-SanAntonio.xlsx
 // Service: SEO
 // City: SanAntonio
-// Generated: 2026-06-19T12:50:28.248Z
+// URL: /seo-services-san-antonio/
+// Generated: 2026-06-20T06:13:02.424Z
 
 export const SEO_SanAntonio = {
   service: "SEO",
   serviceSlug: "seo",
   city: "SanAntonio",
   citySlug: "san-antonio",
-  slug: "/locations/seo/san-antonio",
+  slug: "/seo-services-san-antonio/",
   
   h1: `SEO Services San Antonio — JBSA Military Vocabulary Rank, Bilingual Spanish Authority, and South Texas Medical Center Organic`,
   primaryKw: `seo services san antonio`,
@@ -16,7 +17,8 @@ export const SEO_SanAntonio = {
   seoTitle: `SEO Services San Antonio | JBSA Military Vocabulary & Bilingual Authority | Clickmasters`,
   meta: `Clickmasters SEO in San Antonio. JBSA military vocabulary organic authority, bilingual Spanish/English keyword coverage, and South Texas Medical Center technical search leadership. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Antonio SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-san-antonio/","address":{"@type":"PostalAddress","addressLocality":"San Antonio","addressRegion":"TX","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN SAN ANTONIO?
 
 SEO in San Antonio is the practice of earning top organic search rankings for the vocabulary of three commercially distinct audiences: the Joint Base San Antonio military community's financial and professional services vocabulary, the 63% Hispanic/Latino bilingual Spanish/English commercial keyword landscape, and the South Texas Medical Center's healthcare and health technology search queries.
@@ -27,6 +29,17 @@ BILINGUAL SPANISH/ENGLISH SEO: San Antonio's 63% Hispanic/Latino community gener
 
 STMC HEALTHCARE AND HEALTH TECH SEO: The South Texas Medical Center's 36,000 employees and 60+ healthcare institutions generate healthcare IT, medical services, and clinical technology searches that create organic authority opportunities for health technology vendors and clinical services companies competing for STMC ecosystem procurement.`,
   features: ``,
+  pas: `PROBLEM: The Northwest San Antonio fee-only financial advisory with genuine JBSA military client expertise — TSP management, SCRA knowledge, VA loan proficiency. Their website and content use generic 'San Antonio financial adviser' vocabulary throughout. Zero content addressing 'TSP rollover adviser San Antonio.' Zero bilingual Spanish content for the 63% San Antonio Hispanic community. Zero JBSA-specific keyword coverage. The most commercially valuable audiences in San Antonio — military community and bilingual community — can't find this firm organically.
+
+SOLUTION: Clickmasters San Antonio SEO delivers JBSA military vocabulary authority, bilingual Spanish/English keyword coverage, STMC health tech organic presence, and GEO/AEO citation architecture.`,
+  services: `SAN ANTONIO JBSA MILITARY VOCABULARY SEO:
+For financial advisory, healthcare, legal, and professional services. TSP rollover, SCRA, VA loan, military retirement pay, PCS financial planning vocabulary. Fort Sam Houston, Lackland AFB, Randolph AFB proximity content. FINRA-compliant financial SEO content.
+
+SAN ANTONIO BILINGUAL SPANISH/ENGLISH SEO:
+For healthcare, legal, professional services, and consumer businesses. Spanish-language keyword research calibrated to South Texas/Tejano search vocabulary. Bilingual content clusters: English + Spanish parallel content. HIPAA-compliant bilingual healthcare SEO. Spanish-language GEO/AEO architecture.
+
+SAN ANTONIO STMC HEALTH TECH SEO:
+For health technology vendors and clinical services. University Health System and UT Health San Antonio keyword authority. STMC clinical vocabulary. HCAHPS/VBP health system content. HIPAA-compliant SEO.`,
   caseStudies: `Case Study 1: Northwest SA Financial Advisory — JBSA Military Vocabulary SEO
 Client: Fee-only RIA (\$220M AUM). Challenge: Zero JBSA military vocabulary content. JBSA community not finding through organic search.
 Programme: TSP rollover/SCRA/VA loan content + JBSA vocabulary keyword architecture + FINRA-compliant content + GEO/AEO
@@ -41,17 +54,54 @@ Case Study 3: STMC Health IT Vendor — South Texas Medical Center SEO
 Client: Clinical analytics SaaS (\$6.4M ARR). Challenge: Zero STMC vocabulary authority. University Health System not finding organically.
 Programme: UT Health SA vocabulary + HCAHPS/VBP content + STMC health tech keyword architecture + GEO/AEO
 Results (10 months): Page 1 for 12 STMC health tech queries | University Health evaluation invitations from organic: 3/quarter | Pipeline: \$1.4M`,
-  faq: `FAQs — SEO San Antonio`,
+  pricing: ``,
+  faqTitle: `FAQs — SEO San Antonio`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in San Antonio?",
+    "answer": "San Antonio SEO: $1,200/month (Foundation) to $9,000+/month (Enterprise). JBSA military vocabulary authority. Bilingual Spanish/English coverage. STMC health tech. FINRA/HIPAA-compliant content. 90-day guarantee."
+  },
+  {
+    "question": "What is JBSA military vocabulary SEO for San Antonio businesses?",
+    "answer": "JBSA military vocabulary SEO builds organic authority for the specific search terms used by San Antonio's 250,000+ military community: TSP rollover planning, SCRA interest rate protection, VA loan mortgage specialists, military retirement pay planning, and PCS-cycle financial planning. Generic 'San Antonio financial adviser' SEO misses every JBSA military vocabulary search."
+  },
+  {
+    "question": "What is bilingual Spanish/English SEO for San Antonio businesses?",
+    "answer": "Bilingual SEO builds parallel content clusters in both English and Spanish — with Spanish keyword research calibrated to South Texas/Tejano search vocabulary rather than generic Spanish translations. HIPAA-compliant bilingual healthcare SEO for San Antonio's majority Spanish-speaking patient population."
+  },
+  {
+    "question": "Does Clickmasters serve Schertz, New Braunfels, and Greater San Antonio?",
+    "answer": "Yes — all of San Antonio MSA."
+  },
+  {
+    "question": "How long does San Antonio SEO take?",
+    "answer": "JBSA military vocabulary: 4-7 months. Bilingual Spanish/English: 4-7 months (both languages in parallel). STMC health tech: 5-8 months. San Antonio is faster than Dallas or Austin for these specific vocabulary categories due to lower competition."
+  },
+  {
+    "question": "How does GEO/AEO affect San Antonio SEO?",
+    "answer": "GEO/AEO architecture earns AI search citations for JBSA military financial planning, bilingual healthcare, and STMC clinical queries. San Antonio's military and bilingual communities are early AI search adopters for community-specific queries — making GEO/AEO first-mover content a significant competitive advantage."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in San Antonio?","acceptedAnswer":{"@type":"Answer","text":"San Antonio SEO: \$1,200/month (Foundation) to \$9,000+/month (Enterprise). JBSA military vocabulary authority. Bilingual Spanish/English coverage. STMC health tech. FINRA/HIPAA-compliant content. 90-day guarantee."}},{"@type":"Question","name":"What is JBSA military vocabulary SEO for San Antonio businesses?","acceptedAnswer":{"@type":"Answer","text":"JBSA military vocabulary SEO builds organic authority for the specific search terms used by San Antonio's 250,000+ military community: TSP rollover planning, SCRA interest rate protection, VA loan mortgage specialists, military retirement pay planning, and PCS-cycle financial planning. Generic 'San Antonio financial adviser' SEO misses every JBSA military vocabulary search."}},{"@type":"Question","name":"What is bilingual Spanish/English SEO for San Antonio businesses?","acceptedAnswer":{"@type":"Answer","text":"Bilingual SEO builds parallel content clusters in both English and Spanish — with Spanish keyword research calibrated to South Texas/Tejano search vocabulary rather than generic Spanish translations. HIPAA-compliant bilingual healthcare SEO for San Antonio's majority Spanish-speaking patient population."}},{"@type":"Question","name":"Does Clickmasters serve Schertz, New Braunfels, and Greater San Antonio?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of San Antonio MSA."}},{"@type":"Question","name":"How long does San Antonio SEO take?","acceptedAnswer":{"@type":"Answer","text":"JBSA military vocabulary: 4-7 months. Bilingual Spanish/English: 4-7 months (both languages in parallel). STMC health tech: 5-8 months. San Antonio is faster than Dallas or Austin for these specific vocabulary categories due to lower competition."}},{"@type":"Question","name":"How does GEO/AEO affect San Antonio SEO?","acceptedAnswer":{"@type":"Answer","text":"GEO/AEO architecture earns AI search citations for JBSA military financial planning, bilingual healthcare, and STMC clinical queries. San Antonio's military and bilingual communities are early AI search adopters for community-specific queries — making GEO/AEO first-mover content a significant competitive advantage."}}]}`,
   cta: `Get Your Free San Antonio SEO Audit`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-san-antonio/","/seo-services-houston/","/seo-services-austin/"],
+  ctaBody: `Free audit — 48 hours.
+1. JBSA military vocabulary — TSP/SCRA/VA loan keyword coverage gaps
+2. Bilingual Spanish organic — % of San Antonio's 63% Spanish community your SEO reaches
+3. HIPAA/FINRA compliance in SEO content
+4. STMC health tech authority — clinical vocabulary gaps
+5. GEO/AEO architecture — AI search visibility for JBSA and bilingual queries
+
+Phone +1-888-555-CLICK | sanantonio@clickmastersdigitalmarketing.com
+Northwest San Antonio, Stone Oak, Medical Center, and all of Greater San Antonio`,
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-san-antonio/","/seo-services-houston/","/seo-services-austin/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-san-antonio/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

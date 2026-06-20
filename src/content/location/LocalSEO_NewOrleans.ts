@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-NewOrleans.xlsx
 // Service: LocalSEO
 // City: NewOrleans
-// Generated: 2026-06-19T12:50:27.574Z
+// URL: /local-seo-services-new-orleans/
+// Generated: 2026-06-20T06:13:01.239Z
 
 export const LocalSEO_NewOrleans = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "NewOrleans",
   citySlug: "new-orleans",
-  slug: "/locations/local-seo/new-orleans",
+  slug: "/local-seo-services-new-orleans/",
   
   h1: `Local SEO New Orleans — Ochsner/Tulane YMYL GBP Credential, Entergy Utility Proximity, and Garden District/Metairie Professional Quality`,
   primaryKw: `local seo services new orleans`,
@@ -16,7 +17,8 @@ export const LocalSEO_NewOrleans = {
   seoTitle: `Local SEO New Orleans | Ochsner/Tulane YMYL GBP & Garden District Professional | Clickmasters`,
   meta: `Clickmasters Local SEO in New Orleans. Ochsner/Tulane YMYL academic medical GBP credential, Entergy utility proximity, and Garden District/Metairie professional quality standard. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New Orleans Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-new-orleans/","address":{"@type":"PostalAddress","addressLocality":"New Orleans","addressRegion":"LA","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3500,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN NEW ORLEANS?
 
 Local SEO in New Orleans is the practice of optimising Google Business Profiles for the top 3 of Greater New Orleans's Local Pack — in a market where Ochsner Health System and Tulane University School of Medicine define Louisiana's premier YMYL healthcare GBP credential standard, Entergy Corporation's New Orleans headquarters creates utility B2B proximity GBP commercial value, and the Garden District and Metairie represent the highest-income professional communities in the Greater New Orleans market.
@@ -27,6 +29,17 @@ ENTERGY CORPORATION UTILITY PROXIMITY B2B GBP: Entergy New Orleans' downtown hea
 
 GARDEN DISTRICT/METAIRIE/UPTOWN PROFESSIONAL QUALITY STANDARD: The Garden District's antebellum Victorian mansion community — home to New Orleans' most established professional families — Uptown's Magazine Street professional community, and Metairie's suburban professional community represent the highest-income residential and suburban professional markets in Greater New Orleans.`,
   features: ``,
+  pas: `PROBLEM: The Uptown financial advisory with an Ochsner Health physician and Entergy executive client base — 20 reviews, generic 'Uptown New Orleans wealth management' GBP, no CFA verification, no Ochsner/Entergy professional vocabulary. The Ochsner Health cardiologist who relocated from Houston searches 'fee-only financial adviser Uptown CFA Ochsner physician New Orleans.' GBP: 20 reviews (Houston adviser had 130+), no CFP Board verification, no Ochsner community signal. He selects the Garden District firm with 108 reviews, CFA Institute verification, 'financial planning for Ochsner Health physicians and Entergy professionals in the Garden District.'
+
+SOLUTION: Clickmasters New Orleans Local SEO provides the Ochsner/Tulane YMYL academic medical, Entergy utility proximity, and Garden District/Metairie professional quality standard GBP programme.`,
+  services: `NEW ORLEANS OCHSNER/TULANE YMYL ACADEMIC GBP:
+For New Orleans healthcare practices and health technology. Ochsner Health network system affiliation. Tulane School of Medicine faculty attribution. LSU Health Sciences Center academic vocabulary. HIPAA-compliant review management.
+
+NEW ORLEANS ENTERGY UTILITY PROXIMITY B2B GBP:
+For New Orleans energy technology vendors. Entergy grid/utility vocabulary in GBP. CBD/Downtown Entergy proximity signals. Louisiana utility energy professional photography.
+
+NEW ORLEANS GARDEN DISTRICT/METAIRIE PROFESSIONAL QUALITY GBP:
+For Garden District, Uptown, and Metairie professional services. CFA/CFP with CFA Institute/CFP Board verification. Ochsner physician/Entergy executive community vocabulary. Garden District Victorian professional photography.`,
   caseStudies: `Case Study 1: Garden District Financial Advisory — Ochsner/Entergy Professional Quality GBP
 Client: Fee-only RIA, Garden District (\$180M AUM). Challenge: GBP below Ochsner physician/Entergy executive standard.
 Programme: CFA Institute verification + Ochsner/Entergy community vocabulary + HIPAA-aware + Garden District Victorian photography
@@ -41,17 +54,54 @@ Case Study 3: CBD Professional Services — Entergy Utility Proximity B2B GBP
 Client: Technology consulting, CBD New Orleans (Entergy-adjacent). Challenge: No Entergy utility vocabulary. Generic GBP.
 Programme: Entergy grid/utility vocabulary + CBD proximity signals + Louisiana energy professional photography
 Results (3 months): Top 3 Local Pack CBD New Orleans energy consulting | Entergy near-me B2B: +3x`,
-  faq: `FAQs — Local SEO New Orleans`,
+  pricing: ``,
+  faqTitle: `FAQs — Local SEO New Orleans`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in New Orleans?",
+    "answer": "New Orleans Local SEO: $900/month (single) to $9,000+/month (enterprise). Ochsner/Tulane YMYL academic medical GBP. Entergy utility proximity. Garden District/Metairie professional quality. HIPAA review management. Louisiana retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is Ochsner/Tulane YMYL academic medical GBP for New Orleans healthcare businesses?",
+    "answer": "Ochsner Health network system affiliation display where applicable, Tulane School of Medicine faculty attribution, LSU Health Sciences Center academic community vocabulary, and HIPAA-compliant review management — the academic medical GBP credential that earns trust from New Orleans' Ochsner/Tulane-calibre medical professional community."
+  },
+  {
+    "question": "Does Clickmasters serve Metairie, Baton Rouge, Covington, and Greater New Orleans?",
+    "answer": "Yes — all of Greater New Orleans MSA: Orleans, Jefferson, St. Tammany, St. Bernard, and Plaquemines Parishes."
+  },
+  {
+    "question": "How many reviews for New Orleans Local Pack?",
+    "answer": "Greater New Orleans benchmarks: Garden District/Metairie professional services: 4.4+ stars, 55-110+ reviews. Ochsner/Tulane-adjacent healthcare: 4.4+, 50-100+. CBD Entergy B2B: 4.3+, 30-60+."
+  },
+  {
+    "question": "What is the Garden District professional quality GBP standard for New Orleans?",
+    "answer": "The Garden District's antebellum Victorian professional residential community — home to Ochsner Health senior physicians, Tulane faculty, and Entergy executives — evaluates GBPs with the Louisiana professional institutional precision of their academic medical and regulated utility professional environments: CFA Institute verification for financial advisory, Ochsner/Tulane affiliation for healthcare, and Victorian district institutional photography."
+  },
+  {
+    "question": "Does seasonal Mardi Gras timing affect New Orleans Local SEO review strategy?",
+    "answer": "Yes. New Orleans businesses serving the convention and hospitality community earn above-average organic reviews during Mardi Gras post-season (March) and Jazz Fest post-season (May) — when satisfied convention visitors are most likely to leave GBP reviews. Review request email timing calibrated to these NOLA seasonal windows earns above-average review response rates from the world's most review-enthusiastic convention community."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in New Orleans?","acceptedAnswer":{"@type":"Answer","text":"New Orleans Local SEO: \$900/month (single) to \$9,000+/month (enterprise). Ochsner/Tulane YMYL academic medical GBP. Entergy utility proximity. Garden District/Metairie professional quality. HIPAA review management. Louisiana retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Ochsner/Tulane YMYL academic medical GBP for New Orleans healthcare businesses?","acceptedAnswer":{"@type":"Answer","text":"Ochsner Health network system affiliation display where applicable, Tulane School of Medicine faculty attribution, LSU Health Sciences Center academic community vocabulary, and HIPAA-compliant review management — the academic medical GBP credential that earns trust from New Orleans' Ochsner/Tulane-calibre medical professional community."}},{"@type":"Question","name":"Does Clickmasters serve Metairie, Baton Rouge, Covington, and Greater New Orleans?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater New Orleans MSA: Orleans, Jefferson, St. Tammany, St. Bernard, and Plaquemines Parishes."}},{"@type":"Question","name":"How many reviews for New Orleans Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater New Orleans benchmarks: Garden District/Metairie professional services: 4.4+ stars, 55-110+ reviews. Ochsner/Tulane-adjacent healthcare: 4.4+, 50-100+. CBD Entergy B2B: 4.3+, 30-60+."}},{"@type":"Question","name":"What is the Garden District professional quality GBP standard for New Orleans?","acceptedAnswer":{"@type":"Answer","text":"The Garden District's antebellum Victorian professional residential community — home to Ochsner Health senior physicians, Tulane faculty, and Entergy executives — evaluates GBPs with the Louisiana professional institutional precision of their academic medical and regulated utility professional environments: CFA Institute verification for financial advisory, Ochsner/Tulane affiliation for healthcare, and Victorian district institutional photography."}},{"@type":"Question","name":"Does seasonal Mardi Gras timing affect New Orleans Local SEO review strategy?","acceptedAnswer":{"@type":"Answer","text":"Yes. New Orleans businesses serving the convention and hospitality community earn above-average organic reviews during Mardi Gras post-season (March) and Jazz Fest post-season (May) — when satisfied convention visitors are most likely to leave GBP reviews. Review request email timing calibrated to these NOLA seasonal windows earns above-average review response rates from the world's most review-enthusiastic convention community."}}]}`,
   cta: `Get Your Free New Orleans Local SEO Audit`,
-  internalLinks: ["/local-seo-services/","/seo-services-new-orleans/","/digital-marketing-agency-new-orleans/","/local-seo-services-houston/"],
+  ctaBody: `Free audit — 48 hours.
+1. Ochsner/Tulane academic GBP — affiliation/faculty display gaps
+2. HIPAA review management compliance
+3. Entergy utility proximity signals — energy vocabulary absent from GBP
+4. CFA/CFP verification — Garden District professional standard
+5. Review volume vs Ochsner physician/Entergy executive community benchmark
+
+Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
+Garden District, Uptown, Metairie, French Quarter, and all of Greater New Orleans`,
+  internalLinks: ["/local-seo-services/","/seo-services-new-orleans/","/digital-marketing-agency-in-new-orleans/","/local-seo-services-houston/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-new-orleans/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-LasVegas.xlsx
 // Service: LocalSEO
 // City: LasVegas
-// Generated: 2026-06-19T12:50:27.510Z
+// URL: /local-seo-services-las-vegas/
+// Generated: 2026-06-20T06:13:01.156Z
 
 export const LocalSEO_LasVegas = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "LasVegas",
   citySlug: "las-vegas",
-  slug: "/locations/local-seo/las-vegas",
+  slug: "/local-seo-services-las-vegas/",
   
   h1: `Local SEO Las Vegas — Gaming Community GBP, CA In-Migration Professional Standard, and Henderson/Summerlin Neighbourhood Local Pack`,
   primaryKw: `local seo services las vegas`,
@@ -16,7 +17,8 @@ export const LocalSEO_LasVegas = {
   seoTitle: `Local SEO Las Vegas | Gaming Community GBP & CA In-Migration Professional | Clickmasters`,
   meta: `Clickmasters Local SEO in Las Vegas. Gaming professional community GBP, California in-migration professional quality standard, and Henderson/Summerlin neighbourhood-precise Local Pack. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Las Vegas Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-las-vegas/","address":{"@type":"PostalAddress","addressLocality":"Las Vegas","addressRegion":"NV","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN LAS VEGAS?
 
 Local SEO in Las Vegas is the practice of optimising Google Business Profiles for the top 3 of Las Vegas's Local Pack across a metropolitan area undergoing the most rapid professional demographic transformation of any major US city — with Henderson and Summerlin's California in-migration professional community permanently raising the GBP quality standard that Las Vegas businesses must meet.
@@ -27,6 +29,17 @@ GAMING PROFESSIONAL COMMUNITY GBP: Las Vegas's gaming enterprise professional co
 
 HENDERSON/SUMMERLIN NEIGHBOURHOOD PRECISION: Las Vegas's Local Pack competitive landscape is neighbourhood-specific — Green Valley Ranch, Summerlin South, Henderson corporate district, and Downtown Las Vegas each require distinct GBP content strategies that communicate genuine neighbourhood community awareness.`,
   features: ``,
+  pas: `PROBLEM: The Henderson financial advisory serving a growing CA in-migration client base — 28 reviews at 4.6 stars, generic 'wealth management for Henderson families' description, no CFA verification link, no CA-to-NV financial planning content. The Sunnyvale product manager who relocated to Summerlin last year searches 'fee-only financial adviser Henderson CFA California relocation.' The GBP: 28 reviews (she had a Palo Alto adviser with 140+), no CFA verification visible, no CA-to-NV content signal. She selects the Henderson firm with 128 reviews, CFP Board verification link in description, and 'Specialising in California-to-Nevada relocation financial planning' in the GBP category description.
+
+SOLUTION: Clickmasters Las Vegas Local SEO provides the CA in-migration quality-standard, gaming-community-credentialled, Henderson/Summerlin neighbourhood-precise GBP programme.`,
+  services: `LAS VEGAS CA IN-MIGRATION PROFESSIONAL GBP:
+For Henderson, Summerlin, and Green Valley financial advisory, healthcare, and professional services. Bay Area-calibre GBP: CFA/CFP with verification links, sub-year professional photography, 100+ review velocity programme, CA-to-NV service content in GBP descriptions. FINRA-aware review management for financial advisory. HIPAA-compliant for healthcare.
+
+LAS VEGAS GAMING PROFESSIONAL COMMUNITY GBP:
+For professional services businesses serving Las Vegas gaming enterprise professionals. Gaming industry community vocabulary in GBP descriptions. Above-average GBP review quality programme. FINRA-aware for gaming financial advisory.
+
+HENDERSON/SUMMERLIN NEIGHBOURHOOD-PRECISE LOCAL SEO:
+For Henderson corporate district, Green Valley Ranch, Summerlin South, and Downtown Las Vegas businesses. Neighbourhood-specific GBP vocabulary. Authentic Nevada community content in GBP Posts.`,
   caseStudies: `Case Study 1: Henderson Financial Advisory — CA In-Migration Bay Area Quality GBP
 Client: Fee-only RIA, Henderson (\$240M AUM). Challenge: GBP below Bay Area professional standard. CA in-migration professionals selecting competitors.
 Programme: CFP Board verification link + CA-to-NV service description + Bay Area-quality review programme + FINRA-aware management
@@ -41,17 +54,54 @@ Case Study 3: Downtown Las Vegas Creative Business — Authentic Nevada Neighbou
 Client: Creative studio, Downtown Las Vegas (\$1.4M). Challenge: Generic GBP below Downtown authentic arts community standard.
 Programme: First Friday community vocabulary + Fremont East neighbourhood + authentic Nevada (beyond Strip) + CCPA-adjacent Nevada
 Results (4 months): Top 3 Local Pack Downtown LV creative services | Community enquiries: +3x | First Friday seasonal GBP Posts: highest engagement in account history`,
-  faq: `FAQs — Local SEO Las Vegas`,
+  pricing: ``,
+  faqTitle: `FAQs — Local SEO Las Vegas`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in Las Vegas?",
+    "answer": "Las Vegas Local SEO: $900/month (single location) to $9,000+/month (enterprise). CA in-migration Bay Area quality standard. FINRA for financial. HIPAA for healthcare. Henderson/Summerlin neighbourhood precision. 90-day guarantee."
+  },
+  {
+    "question": "What is the CA in-migration GBP quality standard for Las Vegas Local SEO?",
+    "answer": "The CA-origin professional evaluates Henderson/Summerlin GBPs against Bay Area quality benchmarks: 100+ reviews at 4.6+ stars minimum for financial advisory (vs pre-in-migration Henderson benchmark of 40-60 reviews), CFA/CFP credentials with CFP Board/CFA Institute verification links visible in GBP description, professional photography communicating institutional quality, and CA-to-NV service content signals in GBP category and description demonstrating genuine California transition expertise."
+  },
+  {
+    "question": "Does Clickmasters serve Henderson, Summerlin, North Las Vegas, and Greater Las Vegas?",
+    "answer": "Yes — all of Clark County and Greater Las Vegas MSA."
+  },
+  {
+    "question": "How many reviews for Las Vegas Local Pack?",
+    "answer": "Local Pack review benchmarks (rising with CA in-migration): Henderson/Summerlin professional services: 4.5+ stars, 80-130+ reviews (rising rapidly). Healthcare: 4.5+, 70-120+. Consumer: 4.3+, 50-80+."
+  },
+  {
+    "question": "How long does Las Vegas Local SEO take?",
+    "answer": "CA in-migration professional services: 3-4 months. Healthcare (Summerlin/Henderson): 3-4 months. Downtown LV consumer: 2-3 months. Las Vegas is faster than Dallas or Austin because CA in-migration GBP review competition remains below the demand level Henderson and Summerlin's growing in-migration community creates."
+  },
+  {
+    "question": "How is the GBP competitive threshold in Henderson/Summerlin changing?",
+    "answer": "Henderson and Summerlin's GBP competitive threshold is rising at the fastest rate of any US suburban professional market — driven by California in-migration that has increased local review benchmarks 30-40% in the last 3 years. Businesses that met Henderson/Summerlin GBP standards in 2022 are now below the threshold that CA-in-migration professional community expects."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Las Vegas?","acceptedAnswer":{"@type":"Answer","text":"Las Vegas Local SEO: \$900/month (single location) to \$9,000+/month (enterprise). CA in-migration Bay Area quality standard. FINRA for financial. HIPAA for healthcare. Henderson/Summerlin neighbourhood precision. 90-day guarantee."}},{"@type":"Question","name":"What is the CA in-migration GBP quality standard for Las Vegas Local SEO?","acceptedAnswer":{"@type":"Answer","text":"The CA-origin professional evaluates Henderson/Summerlin GBPs against Bay Area quality benchmarks: 100+ reviews at 4.6+ stars minimum for financial advisory (vs pre-in-migration Henderson benchmark of 40-60 reviews), CFA/CFP credentials with CFP Board/CFA Institute verification links visible in GBP description, professional photography communicating institutional quality, and CA-to-NV service content signals in GBP category and description demonstrating genuine California transition expertise."}},{"@type":"Question","name":"Does Clickmasters serve Henderson, Summerlin, North Las Vegas, and Greater Las Vegas?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Clark County and Greater Las Vegas MSA."}},{"@type":"Question","name":"How many reviews for Las Vegas Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Local Pack review benchmarks (rising with CA in-migration): Henderson/Summerlin professional services: 4.5+ stars, 80-130+ reviews (rising rapidly). Healthcare: 4.5+, 70-120+. Consumer: 4.3+, 50-80+."}},{"@type":"Question","name":"How long does Las Vegas Local SEO take?","acceptedAnswer":{"@type":"Answer","text":"CA in-migration professional services: 3-4 months. Healthcare (Summerlin/Henderson): 3-4 months. Downtown LV consumer: 2-3 months. Las Vegas is faster than Dallas or Austin because CA in-migration GBP review competition remains below the demand level Henderson and Summerlin's growing in-migration community creates."}},{"@type":"Question","name":"How is the GBP competitive threshold in Henderson/Summerlin changing?","acceptedAnswer":{"@type":"Answer","text":"Henderson and Summerlin's GBP competitive threshold is rising at the fastest rate of any US suburban professional market — driven by California in-migration that has increased local review benchmarks 30-40% in the last 3 years. Businesses that met Henderson/Summerlin GBP standards in 2022 are now below the threshold that CA-in-migration professional community expects."}}]}`,
   cta: `Get Your Free Las Vegas Local SEO Audit`,
-  internalLinks: ["/local-seo-services/","/seo-services-las-vegas/","/digital-marketing-agency-las-vegas/","/local-seo-services-phoenix/"],
+  ctaBody: `Free audit — 48 hours.
+1. CA in-migration quality gap — does your GBP meet Bay Area professional standard?
+2. CFA/CFP/MD verification links — credentials absent from Henderson/Summerlin GBP
+3. FINRA/HIPAA review management compliance
+4. Review volume vs rising Henderson/Summerlin CA in-migration benchmark
+5. Neighbourhood precision — Henderson corporate vs Green Valley vs Summerlin vocabulary
+
+Phone +1-888-555-CLICK | lasvegas@clickmastersdigitalmarketing.com
+Henderson, Summerlin, Green Valley Ranch, and all of Greater Las Vegas`,
+  internalLinks: ["/local-seo-services/","/seo-services-las-vegas/","/digital-marketing-agency-in-las-vegas/","/local-seo-services-phoenix/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-las-vegas/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

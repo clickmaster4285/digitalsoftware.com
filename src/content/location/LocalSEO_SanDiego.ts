@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-SanDiego.xlsx
 // Service: LocalSEO
 // City: SanDiego
-// Generated: 2026-06-19T12:50:27.722Z
+// URL: /local-seo-services-san-diego/
+// Generated: 2026-06-20T06:13:01.816Z
 
 export const LocalSEO_SanDiego = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "SanDiego",
   citySlug: "san-diego",
-  slug: "/locations/local-seo/san-diego",
+  slug: "/local-seo-services-san-diego/",
   
   h1: `Local SEO San Diego — Defence Community GBP, UCSD/Scripps Academic Medical, and CCPA-Native Review Management`,
   primaryKw: `local seo services san diego`,
@@ -16,7 +17,8 @@ export const LocalSEO_SanDiego = {
   seoTitle: `Local SEO San Diego | Defence Community GBP & UCSD Academic Medical | Clickmasters`,
   meta: `Clickmasters Local SEO in San Diego. Defence community GBP proximity signals, UCSD/Scripps academic medical credential standard, and CCPA-native review management. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Diego Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-san-diego/","address":{"@type":"PostalAddress","addressLocality":"San Diego","addressRegion":"CA","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN SAN DIEGO?
 
 Local SEO in San Diego is the practice of optimising Google Business Profiles for the top 3 of San Diego's Local Pack — in a market shaped by the defence contractor professional community's institutional quality standard, the UCSD Health and Scripps Health academic medical credential benchmark, and California's CCPA requirements for review analytics.
@@ -27,6 +29,17 @@ UCSD/SCRIPPS ACADEMIC MEDICAL GBP CREDENTIAL STANDARD: San Diego's University of
 
 CCPA-NATIVE REVIEW ANALYTICS: California's CCPA and CPRA create requirements for review acquisition programme data handling. GBP review analytics and review request email data collection must be CCPA-compliant for San Diego businesses to avoid California AG enforcement exposure.`,
   features: ``,
+  pas: `PROBLEM: The Kearny Mesa financial advisory serving the defence contractor professional community — 28 reviews at 4.6 stars, generic 'wealth management for San Diego professionals' description, no defence community vocabulary, no CMMC/AS9100D-adjacent financial planning content. The Northrop Grumman programme manager newly arrived from Fairfax, Virginia searches 'financial adviser Kearny Mesa defence contractor' and 'wealth management engineer San Diego military' — finds the firm's GBP. Reads: generic description, 28 reviews, no defence community credibility signals. Selects the Kearny Mesa firm 0.8 miles further with 124 reviews, 'financial planning for defence contractor professionals' in the GBP description, and FINRA-aware review management.
+
+SOLUTION: Clickmasters San Diego Local SEO provides the defence community GBP, UCSD/Scripps-credentialled academic medical, and CCPA-native review management programme.`,
+  services: `SAN DIEGO DEFENCE COMMUNITY GBP MANAGEMENT:
+For Kearny Mesa, Point Loma, and Sorrento Valley professional services businesses. Defence community vocabulary in GBP descriptions. CMMC/AS9100D community proximity signals. Cleared professional community photography. FINRA-aware review management for defence financial advisory. CCPA-native review analytics.
+
+SAN DIEGO UCSD/SCRIPPS ACADEMIC MEDICAL GBP:
+For UCSD Health-adjacent and Scripps Health-affiliated practices. UCSD Health system affiliation badge. UC San Diego School of Medicine faculty attribution. Scripps Health/Sharp Healthcare system affiliations. HIPAA-compliant review management. CCPA-native analytics.
+
+SAN DIEGO NEIGHBOURHOOD-PRECISE CONSUMER GBP:
+For La Jolla, North Park, Ocean Beach, and Little Italy businesses. California authentic coastal vocabulary. Neighbourhood-specific GBP descriptions. CCPA-native review analytics.`,
   caseStudies: `Case Study 1: Kearny Mesa Financial Advisory — Defence Community GBP Rebuild
 Client: RIA, Kearny Mesa (\$180M AUM, 60% defence contractor clients). Challenge: Generic GBP missing defence community vocabulary. 28 reviews below defence professional standard.
 Programme: Defence community vocabulary GBP + CMMC proximity signals + FINRA-aware reviews + CCPA analytics
@@ -41,17 +54,54 @@ Case Study 3: North Park Lifestyle Business — Authentic Pacific Neighbourhood 
 Client: Wellness studio, North Park (\$1.4M). Challenge: Generic California wellness GBP below North Park authentic community standard.
 Programme: North Park neighbourhood vocabulary + authentic Pacific coastal content + CCPA-native analytics
 Results (4 months): Top 3 Local Pack North Park wellness | Community enquiries: +3x | CCPA: compliant`,
-  faq: `FAQs — Local SEO San Diego`,
+  pricing: ``,
+  faqTitle: `FAQs — Local SEO San Diego`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in San Diego?",
+    "answer": "San Diego Local SEO: $1,100/month (single location) to $11,000+/month (enterprise). Defence community GBP vocabulary. UCSD/Scripps academic medical credential. CCPA-native review analytics. 90-day guarantee."
+  },
+  {
+    "question": "What is defence community GBP management for San Diego businesses?",
+    "answer": "Defence community GBP management includes CMMC/AS9100D-adjacent vocabulary in service descriptions communicating genuine defence community professional awareness, defence community proximity signals for Kearny Mesa/Point Loma/Sorrento Valley GBPs, cleared professional community photography, and FINRA-aware review management for financial advisory serving San Diego's defence contractor professional demographic."
+  },
+  {
+    "question": "What is UCSD/Scripps academic medical GBP management for San Diego healthcare?",
+    "answer": "UCSD Health system affiliation badge display, UC San Diego School of Medicine faculty attribution where applicable, Scripps Health or Sharp Healthcare system affiliation, HIPAA-compliant review management with HIPAA-covered review request processor, and CCPA-native review analytics — the credential architecture that earns Local Pack trust from San Diego's most academically credential-evaluating Southern California healthcare consumer market."
+  },
+  {
+    "question": "Does Clickmasters serve La Jolla, Chula Vista, and Greater San Diego?",
+    "answer": "Yes — all of San Diego County."
+  },
+  {
+    "question": "How many reviews for San Diego Local Pack?",
+    "answer": "Healthcare (La Jolla/UTC/Hillcrest): 4.5+ stars, 80-140+ reviews. Financial advisory (defence community): 4.4+, 60-110+. Consumer/hospitality: 4.3+, 50-90+. CCPA-compliant temporal distribution important for data-analytical San Diego professional community."
+  },
+  {
+    "question": "How long does San Diego Local SEO take?",
+    "answer": "Defence community professional services: 3-5 months. UCSD/Scripps academic medical: 3-5 months. North Park/La Jolla consumer: 2-4 months."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in San Diego?","acceptedAnswer":{"@type":"Answer","text":"San Diego Local SEO: \$1,100/month (single location) to \$11,000+/month (enterprise). Defence community GBP vocabulary. UCSD/Scripps academic medical credential. CCPA-native review analytics. 90-day guarantee."}},{"@type":"Question","name":"What is defence community GBP management for San Diego businesses?","acceptedAnswer":{"@type":"Answer","text":"Defence community GBP management includes CMMC/AS9100D-adjacent vocabulary in service descriptions communicating genuine defence community professional awareness, defence community proximity signals for Kearny Mesa/Point Loma/Sorrento Valley GBPs, cleared professional community photography, and FINRA-aware review management for financial advisory serving San Diego's defence contractor professional demographic."}},{"@type":"Question","name":"What is UCSD/Scripps academic medical GBP management for San Diego healthcare?","acceptedAnswer":{"@type":"Answer","text":"UCSD Health system affiliation badge display, UC San Diego School of Medicine faculty attribution where applicable, Scripps Health or Sharp Healthcare system affiliation, HIPAA-compliant review management with HIPAA-covered review request processor, and CCPA-native review analytics — the credential architecture that earns Local Pack trust from San Diego's most academically credential-evaluating Southern California healthcare consumer market."}},{"@type":"Question","name":"Does Clickmasters serve La Jolla, Chula Vista, and Greater San Diego?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of San Diego County."}},{"@type":"Question","name":"How many reviews for San Diego Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Healthcare (La Jolla/UTC/Hillcrest): 4.5+ stars, 80-140+ reviews. Financial advisory (defence community): 4.4+, 60-110+. Consumer/hospitality: 4.3+, 50-90+. CCPA-compliant temporal distribution important for data-analytical San Diego professional community."}},{"@type":"Question","name":"How long does San Diego Local SEO take?","acceptedAnswer":{"@type":"Answer","text":"Defence community professional services: 3-5 months. UCSD/Scripps academic medical: 3-5 months. North Park/La Jolla consumer: 2-4 months."}}]}`,
   cta: `Get Your Free San Diego Local SEO Audit`,
-  internalLinks: ["/local-seo-services/","/seo-services-san-diego/","/digital-marketing-agency-san-diego/","/local-seo-services-los-angeles/"],
+  ctaBody: `Free audit — 48 hours.
+1. Defence community vocabulary — CMMC/defence proximity signals absent from GBP
+2. UCSD/Scripps affiliation display — academic credential gaps
+3. CCPA-native review analytics — California AG enforcement exposure
+4. FINRA/HIPAA review management — compliance violations
+5. Review volume vs San Diego defence community/academic medical benchmark
+
+Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
+Kearny Mesa, Torrey Pines, La Jolla, North Park, and all of San Diego County`,
+  internalLinks: ["/local-seo-services/","/seo-services-san-diego/","/digital-marketing-agency-in-san-diego/","/local-seo-services-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-san-diego/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Birmingham.xlsx
 // Service: SEO
 // City: Birmingham
-// Generated: 2026-06-19T12:50:27.814Z
+// URL: /seo-services-birmingham/
+// Generated: 2026-06-20T06:13:01.985Z
 
 export const SEO_Birmingham = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Birmingham",
   citySlug: "birmingham",
-  slug: "/locations/seo/birmingham",
+  slug: "/seo-services-birmingham/",
   
   h1: `SEO Services Birmingham — Regions Financial FINRA/SEC Authority, UAB World-Class NCI YMYL, Blue Cross Alabama Insurance, and Magic City Commercial Voice`,
   primaryKw: `seo services birmingham`,
@@ -16,7 +17,8 @@ export const SEO_Birmingham = {
   seoTitle: `SEO Services Birmingham | Regions Financial FINRA & UAB NCI World-Class YMYL | Clickmasters`,
   meta: `Clickmasters SEO in Birmingham. Regions Financial FINRA/SEC banking authority, UAB Comprehensive Cancer Center NCI world-class YMYL, Blue Cross Alabama insurance, and Encompass Health rehabilitation. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Birmingham SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-birmingham/","address":{"@type":"PostalAddress","addressLocality":"Birmingham","addressRegion":"AL","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN BIRMINGHAM?
 
 SEO in Birmingham is the practice of earning organic search authority in the Magic City — where Regions Financial's headquarters creates one of the most commercially significant FINRA/SEC commercial banking B2B environments in the US South, the University of Alabama at Birmingham's (UAB) Comprehensive Cancer Center creates a world-class NCI-designated YMYL standard rivalling Vanderbilt and Emory, Blue Cross and Blue Shield of Alabama generates insurance technology B2B opportunities, and Encompass Health's headquarters creates the world's most commercially significant post-acute rehabilitation healthcare B2B environment.
@@ -29,6 +31,17 @@ BLUE CROSS AND BLUE SHIELD OF ALABAMA AND ENCOMPASS HEALTH YMYL/INSURANCE SEO: B
 
 PROTECTIVE LIFE CORPORATION FINRA INSURANCE SEO: Protective Life Corporation's Birmingham headquarters creates additional FINRA-active life insurance and annuity B2B vocabulary for financial technology vendors.`,
   features: ``,
+  pas: `PROBLEM: The Birmingham financial technology company with genuine Regions Financial relationships. Zero Regions commercial lending/treasury management vocabulary in website. Regions Financial appointed a new CIO from Bank of America. She searches 'commercial lending analytics vendor Birmingham Regions Financial' and 'treasury management platform Alabama FINRA.' Company appears for neither. Regions Financial — managing \$170+ billion in assets — is headquartered in Birmingham and generates FINRA/SEC banking vocabulary that no Birmingham SEO agency addresses.
+
+SOLUTION: Clickmasters Birmingham SEO delivers Regions FINRA/SEC banking authority, UAB NCI world-class YMYL, Blue Cross Alabama, Encompass Health, and GEO/AEO first-mover.`,
+  services: `BIRMINGHAM REGIONS FINANCIAL FINRA/SEC SEO:
+For Birmingham banking technology and analytics vendors. Regions Financial commercial lending/treasury vocabulary. FINRA Rule 2210-compliant content. Protective Life insurance vocabulary. Alabama FINRA banking community.
+
+BIRMINGHAM UAB/ENCOMPASS HEALTH WORLD-CLASS YMYL SEO:
+For Birmingham healthcare practices and health technology. UAB Comprehensive Cancer Center NCI vocabulary. UAB Medical Center Level 1 Trauma vocabulary. Encompass Health rehabilitation YMYL. HIPAA-compliant world-class content.
+
+BIRMINGHAM BLUE CROSS ALABAMA/VULCAN MATERIALS SEO:
+For Birmingham insurance technology and industrial vendors. Blue Cross Alabama health insurance vocabulary. Protective Life insurance FINRA. Vulcan Materials construction analytics.`,
   caseStudies: `Case Study 1: Birmingham Financial Technology — Regions Financial FINRA/SEC SEO
 Client: Banking analytics, Birmingham (\$6.4M ARR). Challenge: Zero Regions commercial lending vocabulary. New CIO not finding.
 Programme: Regions FINRA commercial lending/treasury vocabulary + Alabama banking community + GEO/AEO
@@ -43,17 +56,54 @@ Case Study 3: Birmingham Insurance Technology — Blue Cross Alabama SEO
 Client: Insurance analytics, Birmingham (\$5.4M ARR). Challenge: Zero Blue Cross Alabama vocabulary.
 Programme: Blue Cross Alabama/Protective Life vocabulary + Alabama insurance community + GEO/AEO
 Results (10 months): Page 1 for 9 Birmingham insurance queries | Blue Cross: evaluation | Pipeline: \$1.0M`,
-  faq: `FAQs — SEO Birmingham`,
+  pricing: ``,
+  faqTitle: `FAQs — SEO Birmingham`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Birmingham?",
+    "answer": "Birmingham SEO: $950/month (Foundation) to $9,500+/month (Enterprise). Regions Financial FINRA/SEC banking vocabulary. UAB NCI world-class YMYL. Blue Cross Alabama insurance. Encompass Health rehabilitation. Alabama retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is Regions Financial FINRA/SEC banking SEO for Birmingham businesses?",
+    "answer": "Regions Financial SEO builds FINRA-compliant organic authority in $170+ billion asset commercial banking vocabulary: commercial lending analytics, treasury management platform specifics, retail banking technology, and the banking intelligence that Regions Financial's Birmingham headquarters evaluates for vendor consideration."
+  },
+  {
+    "question": "What is UAB world-class NCI YMYL SEO for Birmingham health technology vendors?",
+    "answer": "UAB Comprehensive Cancer Center SEO builds organic authority in one of only 57 NCI-designated Comprehensive Cancer Centers in the US: UAB oncology research community vocabulary, Alabama's most prestigious academic medical centre vocabulary, and the world-class YMYL content standard that UAB Medical Center and Encompass Health rehabilitation expect from technology partners."
+  },
+  {
+    "question": "Does Clickmasters serve Hoover, Vestavia Hills, Mountain Brook, and Greater Birmingham?",
+    "answer": "Yes — all of Greater Birmingham: Jefferson County, Shelby County, St. Clair County, and the full Birmingham MSA."
+  },
+  {
+    "question": "What is Encompass Health YMYL for Birmingham businesses?",
+    "answer": "Encompass Health — the world's largest owner/operator of inpatient rehabilitation hospitals, headquartered in Birmingham — creates a post-acute rehabilitation YMYL content standard unique to Birmingham. Health technology vendors competing for Encompass Health procurement need organic content demonstrating rehabilitation medicine vocabulary, post-acute outcomes analytics, and the inpatient rehabilitation operational intelligence Encompass Health evaluates."
+  },
+  {
+    "question": "How does GEO/AEO affect Birmingham SEO?",
+    "answer": "Regions Financial's banking technology community and UAB's clinical IT community use AI search. First-mover GEO/AEO for Birmingham Regions Financial FINRA and UAB NCI vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Birmingham SEO: \$950/month (Foundation) to \$9,500+/month (Enterprise). Regions Financial FINRA/SEC banking vocabulary. UAB NCI world-class YMYL. Blue Cross Alabama insurance. Encompass Health rehabilitation. Alabama retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Regions Financial FINRA/SEC banking SEO for Birmingham businesses?","acceptedAnswer":{"@type":"Answer","text":"Regions Financial SEO builds FINRA-compliant organic authority in \$170+ billion asset commercial banking vocabulary: commercial lending analytics, treasury management platform specifics, retail banking technology, and the banking intelligence that Regions Financial's Birmingham headquarters evaluates for vendor consideration."}},{"@type":"Question","name":"What is UAB world-class NCI YMYL SEO for Birmingham health technology vendors?","acceptedAnswer":{"@type":"Answer","text":"UAB Comprehensive Cancer Center SEO builds organic authority in one of only 57 NCI-designated Comprehensive Cancer Centers in the US: UAB oncology research community vocabulary, Alabama's most prestigious academic medical centre vocabulary, and the world-class YMYL content standard that UAB Medical Center and Encompass Health rehabilitation expect from technology partners."}},{"@type":"Question","name":"Does Clickmasters serve Hoover, Vestavia Hills, Mountain Brook, and Greater Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Birmingham: Jefferson County, Shelby County, St. Clair County, and the full Birmingham MSA."}},{"@type":"Question","name":"What is Encompass Health YMYL for Birmingham businesses?","acceptedAnswer":{"@type":"Answer","text":"Encompass Health — the world's largest owner/operator of inpatient rehabilitation hospitals, headquartered in Birmingham — creates a post-acute rehabilitation YMYL content standard unique to Birmingham. Health technology vendors competing for Encompass Health procurement need organic content demonstrating rehabilitation medicine vocabulary, post-acute outcomes analytics, and the inpatient rehabilitation operational intelligence Encompass Health evaluates."}},{"@type":"Question","name":"How does GEO/AEO affect Birmingham SEO?","acceptedAnswer":{"@type":"Answer","text":"Regions Financial's banking technology community and UAB's clinical IT community use AI search. First-mover GEO/AEO for Birmingham Regions Financial FINRA and UAB NCI vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Birmingham SEO Audit`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-birmingham/","/seo-services-huntsville/","/seo-services-nashville/"],
+  ctaBody: `Free audit — 48 hours.
+1. Regions Financial vocabulary gap — commercial lending/treasury searches you're missing
+2. UAB NCI YMYL vocabulary — world-class cancer centre content gaps
+3. HIPAA compliance in clinical content
+4. Blue Cross Alabama — Alabama insurance technology B2B gaps
+5. GEO/AEO — ChatGPT/Perplexity for Birmingham Regions and UAB queries
+
+Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
+Hoover, Vestavia Hills, Mountain Brook, Five Points South, and all of Greater Birmingham`,
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-birmingham/","/seo-services-huntsville/","/seo-services-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-birmingham/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

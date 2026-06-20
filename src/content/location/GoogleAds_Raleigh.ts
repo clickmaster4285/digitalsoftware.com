@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-Raleigh.xlsx
 // Service: GoogleAds
 // City: Raleigh
-// Generated: 2026-06-19T12:50:27.188Z
+// URL: /google-ads-management-raleigh/
+// Generated: 2026-06-20T06:13:00.616Z
 
 export const GoogleAds_Raleigh = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "Raleigh",
   citySlug: "raleigh",
-  slug: "/locations/google-ads/raleigh",
+  slug: "/google-ads-management-raleigh/",
   
   h1: `Google Ads Management Raleigh — RTP Pharmaceutical PPC, Cisco/Red Hat Enterprise, and Triangle In-Migration Professional`,
   primaryKw: `google ads agency raleigh`,
@@ -16,7 +17,8 @@ export const GoogleAds_Raleigh = {
   seoTitle: `Google Ads Agency Raleigh | RTP Pharmaceutical & Cisco Enterprise PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Raleigh. Research Triangle Park pharmaceutical CMC/FDA PPC, Cisco/Red Hat enterprise, and Triangle in-migration professional campaigns. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Raleigh Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-raleigh/","address":{"@type":"PostalAddress","addressLocality":"Raleigh","addressRegion":"NC","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN RALEIGH?
 
 Google Ads management in Raleigh-Durham is the professional management of PPC advertising across three commercially distinct campaign categories: Research Triangle Park pharmaceutical FDA-vocabulary PPC, Cisco/Red Hat enterprise technology community, and Triangle in-migration professional services.
@@ -27,6 +29,17 @@ CISCO/RED HAT ENTERPRISE TECHNOLOGY GOOGLE ADS: Cisco's RTP campus, Red Hat's Du
 
 TRIANGLE IN-MIGRATION PROFESSIONAL SERVICES GOOGLE ADS: Raleigh-Durham's 18%+ population growth from DC/NY/Midwest in-migration creates specific Google Ads commercial opportunities for financial advisory, healthcare, and estate planning businesses — with Triangle in-migration professional vocabulary (DC-to-NC, NY-to-NC, cost of living comparison, North Carolina income tax) earning above-average conversion rates at North Carolina CPCs below DC and New York equivalents.`,
   features: ``,
+  pas: `PROBLEM: The Durham CMC regulatory consulting firm spending \$7,200/month on 'regulatory consulting North Carolina' and 'FDA consulting Durham.' Biogen's new VP of Regulatory Affairs from San Francisco Googles 'CMC validation regulatory consulting RTP' and 'IND submission consultant Research Triangle Park.' Neither search is in the campaign's keyword set. \$86K annual spend on generic vocabulary completely misses the specific FDA operational vocabulary that Biogen, GSK, and Novo Nordisk procurement uses in Triangle regulatory consulting searches.
+
+SOLUTION: Clickmasters Raleigh Google Ads delivers RTP pharmaceutical FDA vocabulary, Cisco/Red Hat enterprise community PPC, Triangle in-migration professional services, and HIPAA-compliant healthcare campaigns — at North Carolina CPCs 20-30% below Boston and San Francisco pharmaceutical equivalents.`,
+  services: `RALEIGH RTP PHARMACEUTICAL GOOGLE ADS:
+For Durham and RTP pharmaceutical, biotech, and clinical services vendors. CMC regulatory, IND/NDA submission, Phase I-III CRO vocabulary. Biogen/GSK/Novo Nordisk audience signals. FDA-aware landing pages. HIPAA-compliant healthcare PPC.
+
+RALEIGH CISCO/RED HAT ENTERPRISE GOOGLE ADS:
+For RTP technology vendors. Cisco networking, Red Hat open source enterprise, IBM enterprise AI vocabulary. RTP tech campus audience signals. CRM offline import.
+
+RALEIGH TRIANGLE IN-MIGRATION PROFESSIONAL GOOGLE ADS:
+For Cary, North Raleigh, and Chapel Hill financial advisory, healthcare, estate planning. DC-to-NC/NY-to-NC transition vocabulary. NC income tax comparison. FINRA-compliant financial. HIPAA healthcare.`,
   caseStudies: `Case Study 1: Durham CMC Regulatory Consulting — RTP Pharma FDA Vocabulary PPC
 Client: CMC regulatory consulting, Durham (\$6.8M). Challenge: \$86K annual spend on generic vocabulary. Biogen/GSK FDA vocabulary searches unreached.
 Programme: CMC/IND/Phase I vocabulary + Biogen/GSK audience + FDA-aware landing pages + CRM import
@@ -41,17 +54,54 @@ Case Study 3: Cary Financial Advisory — Triangle In-Migration Professional PPC
 Client: Fee-only RIA, Cary (\$220M AUM). Challenge: DC/NY in-migration vocabulary absent. Generic Triangle keywords.
 Programme: DC-to-NC/NY-to-NC vocabulary + Triangle in-migration audience + FINRA-compliant
 Results: In-migration CPL: \$160 vs \$3,200 generic Triangle | In-migration qualified leads: +3x | FINRA: clean | New in-migration AUM: \$22M`,
-  faq: `FAQs — Google Ads Raleigh`,
+  pricing: ``,
+  faqTitle: `FAQs — Google Ads Raleigh`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Raleigh?",
+    "answer": "Raleigh Google Ads: $1,100/month (Growth) to $10,000+/month (Enterprise). RTP pharmaceutical FDA vocabulary. Cisco/Red Hat enterprise community. Triangle in-migration professional. HIPAA healthcare. North Carolina CPCs 20-30% below Boston/SF pharmaceutical. 90-day guarantee."
+  },
+  {
+    "question": "What is RTP pharmaceutical FDA vocabulary Google Ads for Raleigh?",
+    "answer": "RTP pharmaceutical Google Ads targets FDA regulatory vocabulary that Biogen, GSK, and Novo Nordisk procurement uses: 'CMC regulatory consulting RTP Durham,' 'IND submission consulting Triangle NC,' 'Phase I CRO Research Triangle NC,' and clinical validation vocabulary. These searches earn above-average conversion intent at North Carolina CPCs significantly below Boston and San Francisco pharmaceutical equivalents."
+  },
+  {
+    "question": "Does Clickmasters serve Durham, Chapel Hill, Cary, and Greater Triangle?",
+    "answer": "Yes — all of the Research Triangle and Greater Raleigh MSA."
+  },
+  {
+    "question": "How quickly does Raleigh RTP pharmaceutical Google Ads produce Biogen/GSK results?",
+    "answer": "FDA vocabulary clicks: 7-14 days. RTP pharmaceutical-qualified evaluation enquiries: 30-60 days. CRM-attributed pharma pipeline: 90-150 days."
+  },
+  {
+    "question": "How do Raleigh Google Ads CPCs compare to Boston and San Francisco?",
+    "answer": "North Carolina CPCs 20-30% below Boston for pharmaceutical vocabulary equivalents. 25-35% below San Francisco for similar biotech consulting vocabulary. Triangle in-migration professional CPCs 15-20% below DC and New York equivalents."
+  },
+  {
+    "question": "What is Triangle in-migration Google Ads for Raleigh professional services?",
+    "answer": "Triangle in-migration campaigns target DC-to-NC and NY-to-NC relocation vocabulary: 'fee-only financial adviser Cary DC relocation,' 'North Carolina income tax comparison,' 'estate planning Raleigh Durham New York move.' Above-average conversion rates at North Carolina CPCs 15-20% below DC/NY equivalents."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Raleigh?","acceptedAnswer":{"@type":"Answer","text":"Raleigh Google Ads: \$1,100/month (Growth) to \$10,000+/month (Enterprise). RTP pharmaceutical FDA vocabulary. Cisco/Red Hat enterprise community. Triangle in-migration professional. HIPAA healthcare. North Carolina CPCs 20-30% below Boston/SF pharmaceutical. 90-day guarantee."}},{"@type":"Question","name":"What is RTP pharmaceutical FDA vocabulary Google Ads for Raleigh?","acceptedAnswer":{"@type":"Answer","text":"RTP pharmaceutical Google Ads targets FDA regulatory vocabulary that Biogen, GSK, and Novo Nordisk procurement uses: 'CMC regulatory consulting RTP Durham,' 'IND submission consulting Triangle NC,' 'Phase I CRO Research Triangle NC,' and clinical validation vocabulary. These searches earn above-average conversion intent at North Carolina CPCs significantly below Boston and San Francisco pharmaceutical equivalents."}},{"@type":"Question","name":"Does Clickmasters serve Durham, Chapel Hill, Cary, and Greater Triangle?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Research Triangle and Greater Raleigh MSA."}},{"@type":"Question","name":"How quickly does Raleigh RTP pharmaceutical Google Ads produce Biogen/GSK results?","acceptedAnswer":{"@type":"Answer","text":"FDA vocabulary clicks: 7-14 days. RTP pharmaceutical-qualified evaluation enquiries: 30-60 days. CRM-attributed pharma pipeline: 90-150 days."}},{"@type":"Question","name":"How do Raleigh Google Ads CPCs compare to Boston and San Francisco?","acceptedAnswer":{"@type":"Answer","text":"North Carolina CPCs 20-30% below Boston for pharmaceutical vocabulary equivalents. 25-35% below San Francisco for similar biotech consulting vocabulary. Triangle in-migration professional CPCs 15-20% below DC and New York equivalents."}},{"@type":"Question","name":"What is Triangle in-migration Google Ads for Raleigh professional services?","acceptedAnswer":{"@type":"Answer","text":"Triangle in-migration campaigns target DC-to-NC and NY-to-NC relocation vocabulary: 'fee-only financial adviser Cary DC relocation,' 'North Carolina income tax comparison,' 'estate planning Raleigh Durham New York move.' Above-average conversion rates at North Carolina CPCs 15-20% below DC/NY equivalents."}}]}`,
   cta: `Get Your Free Raleigh Google Ads Audit`,
-  internalLinks: ["/digital-marketing-agency-raleigh/","/seo-services-raleigh/","/google-ads-management-services/","/google-ads-management-charlotte/"],
+  ctaBody: `Free audit — 48 hours.
+1. RTP pharma vocabulary gap — CMC/IND/Phase I searches your campaigns miss
+2. HIPAA compliance (healthcare) — conversion tracking violations
+3. Red Hat/Cisco enterprise vocabulary — RTP tech community searches not captured
+4. Triangle in-migration vocabulary — DC-to-NC/NY-to-NC PPC gaps
+5. NC CPC efficiency vs Boston/SF pharmaceutical benchmark
+
+Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
+Durham, Chapel Hill, Cary, and all of the Research Triangle`,
+  internalLinks: ["/digital-marketing-agency-in-raleigh/","/seo-services-raleigh/","/google-ads-management-services/","/google-ads-management-charlotte/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-raleigh/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

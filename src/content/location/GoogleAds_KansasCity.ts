@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-KansasCity.xlsx
 // Service: GoogleAds
 // City: KansasCity
-// Generated: 2026-06-19T12:50:26.980Z
+// URL: /google-ads-management-kansas-city/
+// Generated: 2026-06-20T06:13:00.353Z
 
 export const GoogleAds_KansasCity = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "KansasCity",
   citySlug: "kansas-city",
-  slug: "/locations/google-ads/kansas-city",
+  slug: "/google-ads-management-kansas-city/",
   
   h1: `Google Ads Management Kansas City — Oracle Health/Cerner HIPAA PPC, Garmin Enterprise, and KC Professional Community Campaigns`,
   primaryKw: `google ads agency kansas city`,
@@ -16,7 +17,8 @@ export const GoogleAds_KansasCity = {
   seoTitle: `Google Ads Agency Kansas City | Oracle Health HIPAA & Garmin Enterprise PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Kansas City. Oracle Health/Cerner HIPAA-compliant health IT PPC, Garmin enterprise tech, and Children's Mercy HIPAA patient acquisition. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Kansas City Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-kansas-city/","address":{"@type":"PostalAddress","addressLocality":"Kansas City","addressRegion":"MO","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN KANSAS CITY?
 
 Google Ads management in Kansas City is the professional management of PPC advertising across three commercially distinct campaign categories: Oracle Health (Cerner) HIPAA-compliant health IT, Garmin/Overland Park enterprise technology, and Children's Mercy/KU Medical HIPAA patient acquisition.
@@ -27,6 +29,17 @@ GARMIN/OVERLAND PARK ENTERPRISE TECHNOLOGY GOOGLE ADS: Garmin's Olathe campus an
 
 CHILDREN'S MERCY/KU MEDICAL HIPAA PATIENT ACQUISITION: Children's Mercy Kansas City and University of Kansas Medical Center create healthcare patient acquisition PPC markets requiring HIPAA server-side conversion tracking and paediatric/academic medical vocabulary throughout.`,
   features: ``,
+  pas: `PROBLEM: The North Kansas City health IT integration consulting firm spending \$6,000/month on 'health IT consulting Kansas City' and 'EHR integration Missouri.' Oracle Health's new VP Platform Partnerships searches 'Cerner PowerChart integration consulting North Kansas City' and 'Oracle Health Millennium implementation partner KC healthcare.' Neither in the campaign. \$72K annual spend on generic vocabulary completely misses Oracle Health's specific operational vocabulary — the most commercially concentrated health IT B2B search opportunity in the Midwest.
+
+SOLUTION: Clickmasters Kansas City Google Ads delivers Oracle Health/Cerner operational vocabulary, Garmin/Overland Park enterprise precision tech, Children's Mercy/KU Medical HIPAA patient acquisition — at Midwest CPCs below coastal health IT equivalents.`,
+  services: `KANSAS CITY ORACLE HEALTH/CERNER HIPAA GOOGLE ADS:
+For North Kansas City and Greater KC health IT vendors. Cerner PowerChart/Millennium/CommunityWorks vocabulary. Oracle Health FHIR/HL7 interoperability PPC. HIPAA server-side conversion tracking. Oracle Health audience signals.
+
+KANSAS CITY GARMIN/OVERLAND PARK ENTERPRISE GOOGLE ADS:
+For Overland Park technology vendors. Garmin precision navigation/aviation vocabulary. Automotive OEM technology partnership vocabulary. Overland Park enterprise tech community audience.
+
+KANSAS CITY CHILDREN'S MERCY/KU HIPAA PATIENT ACQUISITION:
+For KC healthcare practices and health technology. HIPAA server-side conversion tracking. Children's Mercy paediatric vocabulary. KU School of Medicine academic community audience.`,
   caseStudies: `Case Study 1: North KC Health IT — Oracle Health/Cerner Vocabulary HIPAA PPC
 Client: EHR consulting, North KC (\$7.4M). Challenge: \$72K spend on generic vocabulary. Oracle Health Cerner searches unreached.
 Programme: PowerChart/Millennium/FHIR vocabulary + HIPAA server-side + Oracle Health audience + CRM import
@@ -41,17 +54,54 @@ Case Study 3: KC Paediatrics — Children's Mercy HIPAA Patient Acquisition
 Client: Paediatrics, KC (Children's Mercy-affiliated). Challenge: Non-HIPAA conversion tracking. Generic 'KC paediatrics' keywords.
 Programme: HIPAA server-side + Children's Mercy vocabulary + KC paediatric family audience
 Results: HIPAA: clean | CM community CPL: \$120 vs \$340 generic KC | New patients: +3x`,
-  faq: `FAQs — Google Ads Kansas City`,
+  pricing: ``,
+  faqTitle: `FAQs — Google Ads Kansas City`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Kansas City?",
+    "answer": "Kansas City Google Ads: $1,000/month (Growth) to $10,000+/month (Enterprise). Oracle Health/Cerner health IT vocabulary. Garmin enterprise precision. Children's Mercy HIPAA. HIPAA-compliant healthcare. Midwest CPCs below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is Oracle Health (Cerner) health IT Google Ads for Kansas City businesses?",
+    "answer": "Oracle Health (Cerner) vocabulary Google Ads targets Cerner operational language: PowerChart EHR consulting, Millennium platform integration, CommunityWorks implementation, FHIR/HL7 interoperability. These searches earn above-average conversion intent from Oracle Health Kansas City procurement at Midwest CPCs significantly below Boston and San Francisco health IT equivalents."
+  },
+  {
+    "question": "Does Clickmasters serve Overland Park, Leawood, Olathe, and Greater Kansas City?",
+    "answer": "Yes — all of Greater Kansas City bi-state MSA."
+  },
+  {
+    "question": "How quickly does Kansas City Oracle Health Google Ads produce results?",
+    "answer": "Oracle Health/Cerner vocabulary clicks: 7-14 days. Oracle Health-qualified evaluation leads: 30-60 days. CRM-attributed health IT pipeline: 90-150 days."
+  },
+  {
+    "question": "What is Garmin enterprise technology Google Ads for Kansas City?",
+    "answer": "Garmin precision navigation enterprise vocabulary campaigns target Olathe campus vendor searches: precision GPS enterprise software, automotive OEM navigation technology, aviation safety systems software. Specific Garmin operational vocabulary that reaches Garmin's Olathe enterprise procurement community at competitive Kansas City CPCs."
+  },
+  {
+    "question": "How do Kansas City Google Ads CPCs compare to coastal health IT markets?",
+    "answer": "Midwest CPCs 20-30% below Boston for equivalent health IT vocabulary. Oracle Health/Cerner vocabulary KC CPCs are competitive but significantly below San Francisco and Boston healthcare IT equivalents — creating a compelling CPC efficiency advantage for KC health IT vendors."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Kansas City Google Ads: \$1,000/month (Growth) to \$10,000+/month (Enterprise). Oracle Health/Cerner health IT vocabulary. Garmin enterprise precision. Children's Mercy HIPAA. HIPAA-compliant healthcare. Midwest CPCs below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Oracle Health (Cerner) health IT Google Ads for Kansas City businesses?","acceptedAnswer":{"@type":"Answer","text":"Oracle Health (Cerner) vocabulary Google Ads targets Cerner operational language: PowerChart EHR consulting, Millennium platform integration, CommunityWorks implementation, FHIR/HL7 interoperability. These searches earn above-average conversion intent from Oracle Health Kansas City procurement at Midwest CPCs significantly below Boston and San Francisco health IT equivalents."}},{"@type":"Question","name":"Does Clickmasters serve Overland Park, Leawood, Olathe, and Greater Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Kansas City bi-state MSA."}},{"@type":"Question","name":"How quickly does Kansas City Oracle Health Google Ads produce results?","acceptedAnswer":{"@type":"Answer","text":"Oracle Health/Cerner vocabulary clicks: 7-14 days. Oracle Health-qualified evaluation leads: 30-60 days. CRM-attributed health IT pipeline: 90-150 days."}},{"@type":"Question","name":"What is Garmin enterprise technology Google Ads for Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Garmin precision navigation enterprise vocabulary campaigns target Olathe campus vendor searches: precision GPS enterprise software, automotive OEM navigation technology, aviation safety systems software. Specific Garmin operational vocabulary that reaches Garmin's Olathe enterprise procurement community at competitive Kansas City CPCs."}},{"@type":"Question","name":"How do Kansas City Google Ads CPCs compare to coastal health IT markets?","acceptedAnswer":{"@type":"Answer","text":"Midwest CPCs 20-30% below Boston for equivalent health IT vocabulary. Oracle Health/Cerner vocabulary KC CPCs are competitive but significantly below San Francisco and Boston healthcare IT equivalents — creating a compelling CPC efficiency advantage for KC health IT vendors."}}]}`,
   cta: `Get Your Free Kansas City Google Ads Audit`,
-  internalLinks: ["/digital-marketing-agency-kansas-city/","/seo-services-kansas-city/","/google-ads-management-services/","/google-ads-management-st-louis/"],
+  ctaBody: `Free audit — 48 hours.
+1. Oracle Health/Cerner vocabulary gap — PowerChart/FHIR searches your campaigns miss
+2. HIPAA compliance — healthcare conversion tracking violations
+3. Garmin enterprise vocabulary — Olathe precision tech searches absent
+4. Children's Mercy/KU Medical vocabulary — paediatric academic searches not captured
+5. Midwest CPC efficiency vs coastal health IT benchmark
+
+Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
+Overland Park, Leawood, Olathe, North KC, and all of Greater Kansas City`,
+  internalLinks: ["/digital-marketing-agency-in-kansas-city/","/seo-services-kansas-city/","/google-ads-management-services/","/google-ads-management-st-louis/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-kansas-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

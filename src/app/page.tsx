@@ -23,11 +23,16 @@ import { LumosSay } from "@/components/site/LumosSay";
 import { WhyLoved } from "@/components/site/WhyLoved";
 import { CeoCube } from "@/components/site/CeoCube";
 
-
 type Theme = { bg: string; fg: string };
 
 const LIGHT: Theme = { bg: "0 0% 98%", fg: "0 0% 6%" };
 const DARK: Theme  = { bg: "0 0% 6%",  fg: "0 0% 98%" };
+
+// SEO data
+const SEO = {
+  title: "Award-Winning Digital Marketing Agency in United States | ClickMasters",
+  description: "Your full-service digital marketing agency for SEO, PPC, web design & performance marketing. Elevate your marketing strategies with top digital marketing company in United States."
+};
 
 export default function Home() {
   useSmoothScroll();
@@ -37,11 +42,10 @@ export default function Home() {
   const themes: Theme[] = [LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, LIGHT, DARK, DARK, LIGHT, DARK];
 
   useEffect(() => {
-    document.title = "ClickMasters Software crafted with care";
-    const desc = "An independent software studio designing and engineering web platforms, apps and AI products for ambitious founders.";
+    document.title = SEO.title;
     let m = document.querySelector('meta[name="description"]');
     if (!m) { m = document.createElement('meta'); m.setAttribute('name', 'description'); document.head.appendChild(m); }
-    m.setAttribute('content', desc);
+    m.setAttribute('content', SEO.description);
   }, []);
 
   useEffect(() => {

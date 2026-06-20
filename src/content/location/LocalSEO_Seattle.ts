@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Seattle.xlsx
 // Service: LocalSEO
 // City: Seattle
-// Generated: 2026-06-19T12:50:27.736Z
+// URL: /local-seo-services-seattle/
+// Generated: 2026-06-20T06:13:01.846Z
 
 export const LocalSEO_Seattle = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "Seattle",
   citySlug: "seattle",
-  slug: "/locations/local-seo/seattle",
+  slug: "/local-seo-services-seattle/",
   
   h1: `Local SEO Seattle — Amazon-Standard GBP Analytics, MHMD Healthcare Review, and Pacific Northwest Authentic Local Pack`,
   primaryKw: `local seo services seattle`,
@@ -16,7 +17,8 @@ export const LocalSEO_Seattle = {
   seoTitle: `Local SEO Seattle | Amazon-Standard GBP & MHMD Healthcare Review | Clickmasters`,
   meta: `Clickmasters Local SEO in Seattle. Amazon data-culture GBP quality standard, MHMD-compliant healthcare review management, and Pacific Northwest authentic Local Pack. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Seattle Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-seattle/","address":{"@type":"PostalAddress","addressLocality":"Seattle","addressRegion":"WA","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3800,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN SEATTLE?
 
 Local SEO in Seattle is the practice of optimising Google Business Profiles for the top 3 of Seattle's Local Pack — in a market defined by Amazon's data-analytical culture, Washington's MHMD Act healthcare data requirements, and the Pacific Northwest's above-average authenticity-intelligence consumer standard.
@@ -27,6 +29,17 @@ MHMD HEALTHCARE REVIEW MANAGEMENT: Washington's My Health MY Data Act creates re
 
 PACIFIC NORTHWEST AUTHENTIC GBP STANDARD: Seattle's professional and consumer communities evaluate GBP descriptions through the Pacific Northwest authenticity lens — B Corp certification with specific impact score (not just the badge), named environmental programme partnerships, and the specific Seattle neighbourhood vocabulary (Capitol Hill creative community, Ballard maritime heritage, Fremont tech-creative, Bellevue suburban professional) that distinguishes genuinely locally-rooted businesses from commercial approximations.`,
   features: ``,
+  pas: `PROBLEM: The South Lake Union internal medicine practice with 2 UW-affiliated physicians — 38 reviews, 4.8 stars — whose GBP shows suspicious temporal clustering (24 reviews arriving in a 12-day period), no UW Medicine affiliation badge, and a generic 'quality healthcare for the South Lake Union community' description. The Amazon operations VP evaluating primary care options runs the same analytical process she uses to evaluate product reviews: 24 reviews in 12 days triggers manipulation signal. No UW affiliation. No MHMD-compliant review evidence. She selects the Westlake/South Lake Union practice with 112 reviews showing credible temporal distribution, UW Medicine system affiliation, and a GBP description mentioning Amazon employee preventive care specifically.
+
+SOLUTION: Clickmasters Seattle Local SEO provides the Amazon data-standard quality, MHMD-compliant, Pacific Northwest authentic GBP programme.`,
+  services: `SEATTLE AMAZON DATA-CULTURE GBP MANAGEMENT:
+For South Lake Union, Bellevue, and Redmond professional services businesses. Amazon analytical GBP quality: statistically credible temporal distribution, reviewer profile diversity signals, 100% substantive response rate. Amazon/Microsoft professional community vocabulary in service descriptions. University of Washington system affiliation for healthcare. Sub-year photography programme.
+
+SEATTLE MHMD-COMPLIANT HEALTHCARE GBP:
+For Washington healthcare practices. MHMD-compliant review acquisition: health condition data excluded from review request workflow. HIPAA dual-compliance review management. UW Medicine and Virginia Mason Franciscan system affiliation display. Washington AG pre-audit readiness standard.
+
+SEATTLE PACIFIC NW AUTHENTIC CONSUMER GBP:
+For Capitol Hill, Ballard, Fremont, and Seattle's neighbourhood consumer businesses. B Corp specific-score GBP display. Named Pacific NW environmental programme partnerships. Authentic Seattle neighbourhood vocabulary (not generic 'Pacific Northwest outdoor lifestyle'). Cascades and Puget Sound specific community content.`,
   caseStudies: `Case Study 1: South Lake Union Internal Medicine — Amazon-Standard MHMD GBP Rebuild
 Client: Internal medicine, South Lake Union (2 physicians, UW Medicine affiliated). Challenge: Suspicious review clustering. Non-MHMD review workflow. Amazon community evaluating review quality as manipulated.
 Programme: MHMD-compliant review rebuild + Amazon-standard temporal distribution + UW Medicine affiliation display + Amazon community-precision photography
@@ -41,17 +54,54 @@ Case Study 3: Capitol Hill Sustainable Brand — Pacific NW Authentic GBP
 Client: Sustainable lifestyle business, Capitol Hill. Challenge: Generic Pacific NW GBP below Seattle authentic standard.
 Programme: B Corp score display + Cascades/Puget Sound specific vocabulary + Capitol Hill creative community content + named conservation partnerships
 Results (4 months): Top 3 Local Pack Capitol Hill authentic lifestyle | Pacific NW community enquiries: +3x | B Corp score: cited as selection factor`,
-  faq: `FAQs — Local SEO Seattle`,
+  pricing: ``,
+  faqTitle: `FAQs — Local SEO Seattle`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in Seattle?",
+    "answer": "Seattle Local SEO: $1,100/month (single location) to $11,000+/month (enterprise). Amazon data-culture review quality standard. MHMD-compliant healthcare review management. Pacific NW authentic GBP. 90-day guarantee."
+  },
+  {
+    "question": "What is Amazon data-culture GBP quality for Seattle Local SEO?",
+    "answer": "Amazon's 70,000+ Seattle employees evaluate GBPs with the same analytical rigour Amazon applies to product reviews: statistically credible temporal review distribution (no suspicious clustering of reviews in short periods), reviewer profile diversity, and 100% substantive response rate. GBPs passing basic star rating and volume thresholds but failing Amazon's analytical quality evaluation earn dismissal from Seattle's most commercially significant professional demographic."
+  },
+  {
+    "question": "What is MHMD-compliant healthcare review management in Seattle?",
+    "answer": "MHMD-compliant review acquisition excludes health condition data collection from the review request workflow — asking for location, service quality, and communication ratings without triggering health condition data collection. Implements HIPAA dual-compliance review request design and maintains Washington AG pre-audit readiness for all healthcare GBP review programme data handling."
+  },
+  {
+    "question": "Does Clickmasters serve Bellevue, Redmond, and Greater Seattle?",
+    "answer": "Yes — all of Greater Seattle and Puget Sound region including Bellevue, Redmond, Kirkland, Bothell, Issaquah, Tacoma, and Olympia."
+  },
+  {
+    "question": "How many reviews for Seattle Local Pack?",
+    "answer": "Professional services (Amazon-standard): 4.5+ stars, 80-140+ reviews with statistically credible temporal distribution. Healthcare: 4.5+, 80-130+. Consumer (Pacific NW authentic): 4.4+, 60-100+."
+  },
+  {
+    "question": "How long does Seattle Local SEO take?",
+    "answer": "Amazon-standard professional services: 3-5 months. MHMD healthcare: 3-5 months. Pacific NW authentic consumer: 2-4 months. Amazon data-culture temporal distribution credibility takes longer to build than simple volume."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Seattle?","acceptedAnswer":{"@type":"Answer","text":"Seattle Local SEO: \$1,100/month (single location) to \$11,000+/month (enterprise). Amazon data-culture review quality standard. MHMD-compliant healthcare review management. Pacific NW authentic GBP. 90-day guarantee."}},{"@type":"Question","name":"What is Amazon data-culture GBP quality for Seattle Local SEO?","acceptedAnswer":{"@type":"Answer","text":"Amazon's 70,000+ Seattle employees evaluate GBPs with the same analytical rigour Amazon applies to product reviews: statistically credible temporal review distribution (no suspicious clustering of reviews in short periods), reviewer profile diversity, and 100% substantive response rate. GBPs passing basic star rating and volume thresholds but failing Amazon's analytical quality evaluation earn dismissal from Seattle's most commercially significant professional demographic."}},{"@type":"Question","name":"What is MHMD-compliant healthcare review management in Seattle?","acceptedAnswer":{"@type":"Answer","text":"MHMD-compliant review acquisition excludes health condition data collection from the review request workflow — asking for location, service quality, and communication ratings without triggering health condition data collection. Implements HIPAA dual-compliance review request design and maintains Washington AG pre-audit readiness for all healthcare GBP review programme data handling."}},{"@type":"Question","name":"Does Clickmasters serve Bellevue, Redmond, and Greater Seattle?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Seattle and Puget Sound region including Bellevue, Redmond, Kirkland, Bothell, Issaquah, Tacoma, and Olympia."}},{"@type":"Question","name":"How many reviews for Seattle Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Professional services (Amazon-standard): 4.5+ stars, 80-140+ reviews with statistically credible temporal distribution. Healthcare: 4.5+, 80-130+. Consumer (Pacific NW authentic): 4.4+, 60-100+."}},{"@type":"Question","name":"How long does Seattle Local SEO take?","acceptedAnswer":{"@type":"Answer","text":"Amazon-standard professional services: 3-5 months. MHMD healthcare: 3-5 months. Pacific NW authentic consumer: 2-4 months. Amazon data-culture temporal distribution credibility takes longer to build than simple volume."}}]}`,
   cta: `Get Your Free Seattle Local SEO Audit`,
-  internalLinks: ["/local-seo-services/","/seo-services-seattle/","/digital-marketing-agency-seattle/","/local-seo-services-portland/"],
+  ctaBody: `Free audit — 48 hours.
+1. Amazon data-culture review quality — temporal distribution and reviewer diversity analysis
+2. MHMD compliance — healthcare review workflow Washington AG exposure
+3. UW Medicine/Virginia Mason affiliation display gaps
+4. Pacific NW authentic vocabulary — B Corp score specificity in GBP
+5. Review volume vs Seattle Amazon-standard benchmark
+
+Phone +1-888-555-CLICK | seattle@clickmastersdigitalmarketing.com
+South Lake Union, Bellevue, Capitol Hill, and all of Greater Seattle`,
+  internalLinks: ["/local-seo-services/","/seo-services-seattle/","/digital-marketing-agency-in-seattle/","/local-seo-services-portland/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-seattle/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

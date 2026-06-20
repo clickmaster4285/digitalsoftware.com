@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-LocalSEO-Philadelphia.xlsx
 // Service: LocalSEO
 // City: Philadelphia
-// Generated: 2026-06-19T12:50:27.615Z
+// URL: /local-seo-services-philadelphia/
+// Generated: 2026-06-20T06:13:01.351Z
 
 export const LocalSEO_Philadelphia = {
   service: "LocalSEO",
   serviceSlug: "local-seo",
   city: "Philadelphia",
   citySlug: "philadelphia",
-  slug: "/locations/local-seo/philadelphia",
+  slug: "/local-seo-services-philadelphia/",
   
   h1: `Local SEO Philadelphia — Eds and Meds Academic GBP Credential, PA RPC Legal Review, and Main Line Professional Local Pack`,
   primaryKw: `local seo services philadelphia`,
@@ -16,7 +17,8 @@ export const LocalSEO_Philadelphia = {
   seoTitle: `Local SEO Philadelphia | Eds & Meds Academic GBP & PA RPC Legal | Clickmasters`,
   meta: `Clickmasters Local SEO in Philadelphia. Penn Medicine/Jefferson academic medical GBP credential, Pennsylvania RPC-compliant legal review management, and Main Line professional Local Pack. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Philadelphia Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-philadelphia/","address":{"@type":"PostalAddress","addressLocality":"Philadelphia","addressRegion":"PA","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3800,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN PHILADELPHIA?
 
 Local SEO in Philadelphia is the practice of optimising Google Business Profiles for the top 3 of Philadelphia's Local Pack — in a market shaped by Penn Medicine and Jefferson Health's academic credential standard, Pennsylvania Rules of Professional Conduct governing attorney GBP content, and the Main Line's Ivy-educated professional community's institutional quality expectations.
@@ -27,6 +29,17 @@ PA RPC ATTORNEY GBP COMPLIANCE: Pennsylvania Rules of Professional Conduct 7.1-7
 
 MAIN LINE INSTITUTIONAL QUALITY STANDARD: The Philadelphia Main Line's Ardmore-to-Paoli professional corridor — Bryn Mawr, Radnor, Wayne, and Malvern — generates a professional consumer community whose GBP evaluation standard reflects Ivy League educational background and high-income professional career expectations. CFA/CFP credentials with CFP Board verification for financial advisory, MD with Perelman School faculty appointment for healthcare, and Martindale-Hubbell AV Preeminent for legal are the Main Line professional GBP baseline.`,
   features: ``,
+  pas: `PROBLEM: The Main Line orthopaedic surgery group with 4 surgeons — all Perelman School-trained, all Penn Medicine-affiliated — whose GBP shows 26 reviews at 4.8 stars, no Perelman School attribution, no Penn Medicine system affiliation badge, and 3-year-old photography showing the pre-renovation office. The Bryn Mawr executive who recently relocated from New York evaluates the GBP: 26 reviews (below the 130+ she expected from NYC academic medical equivalents), no Perelman credential visible, no Penn Medicine system badge. She selects the Haverford orthopaedic group with 138 reviews, Perelman faculty attribution for all 4 surgeons, and Penn Medicine system affiliation badge prominently displayed.
+
+SOLUTION: Clickmasters Philadelphia Local SEO provides the Penn/Jefferson-credentialled, PA RPC-compliant, Main Line institutional quality GBP programme.`,
+  services: `PHILADELPHIA EDS AND MEDS ACADEMIC MEDICAL GBP:
+For Penn Medicine-adjacent, Jefferson Health-affiliated, and Temple Health-associated practices. Perelman School faculty attribution for all physicians. Penn Medicine/Jefferson/Temple/CHOP system affiliation badges. HIPAA-compliant review management. Peer-reviewed credential display in GBP descriptions.
+
+PHILADELPHIA PA RPC-COMPLIANT LEGAL GBP:
+For Centre City law firms, Main Line attorneys, and Delaware Valley legal practices. PA RPC 7.1-7.3-compliant GBP content. Super Lawyers/Martindale-Hubbell AV Preeminent display. Appropriate case result contextualisation. Pennsylvania Bar Disciplinary Counsel-aware review management.
+
+PHILADELPHIA MAIN LINE PROFESSIONAL GBP:
+For Main Line financial advisory, professional services, and premium consumer businesses. CFA/CFP with CFP Board verification links. Main Line Ivy institutional visual quality. FINRA-aware review management. Delaware Valley professional community photography.`,
   caseStudies: `Case Study 1: Main Line Orthopaedic Group — Penn Medicine Academic GBP Rebuild
 Client: Orthopaedic surgery, Haverford (4 surgeons, Perelman/Penn Medicine). Challenge: 26 reviews, no Perelman/Penn Medicine display. NYC-origin Main Line professionals evaluating as sub-standard.
 Programme: Perelman School attribution (all 4 surgeons) + Penn Medicine system badge + HIPAA review programme + institutional photography (post-renovation)
@@ -41,17 +54,54 @@ Case Study 3: Wayne PA Main Line RIA — Institutional Financial GBP
 Client: RIA, Wayne PA (\$520M AUM). Challenge: Below Main Line institutional quality. No CFA Board verification link. Non-FINRA-aware reviews.
 Programme: CFA/CFP with verification links + FINRA-aware review management + Main Line Ivy institutional photography + WCAG-compliant GBP
 Results (4 months): Top 3 Local Pack Wayne and Berwyn wealth management | CFA verification: in-migration clients cited | New AUM from GBP: \$34M`,
-  faq: `FAQs — Local SEO Philadelphia`,
+  pricing: ``,
+  faqTitle: `FAQs — Local SEO Philadelphia`,
+  faqs: [
+  {
+    "question": "How much does Local SEO cost in Philadelphia?",
+    "answer": "Philadelphia Local SEO: $1,100/month (single location) to $11,000+/month (enterprise). Penn/Jefferson academic medical credential standard. PA RPC for legal. FINRA for financial. Main Line institutional quality. 90-day guarantee."
+  },
+  {
+    "question": "What is the Penn/Jefferson academic medical GBP credential standard in Philadelphia?",
+    "answer": "Perelman School of Medicine faculty attribution for every physician, Penn Medicine/UPHS or Jefferson Health system affiliation badge, peer-reviewed clinical credential depth, and academic institutional photography — the credential architecture that earns genuine Local Pack trust from Philadelphia's most academically credential-evaluating healthcare market between New York and Washington."
+  },
+  {
+    "question": "Does Clickmasters provide PA RPC-compliant GBP management for Philadelphia law firms?",
+    "answer": "Yes. Pennsylvania Rules of Professional Conduct 7.1-7.3-compliant GBP descriptions, appropriately contextualised case result presentations in review responses, Super Lawyers and Martindale-Hubbell AV Preeminent display, and Pennsylvania Bar Disciplinary Counsel-aware review management that protects firms from advertising rule enforcement."
+  },
+  {
+    "question": "Does Clickmasters serve the Main Line, King of Prussia, and Delaware Valley?",
+    "answer": "Yes — all of the Delaware Valley: Philadelphia, Delaware County, Montgomery County (Main Line, King of Prussia), Bucks County, Chester County, Camden NJ, and Wilmington DE."
+  },
+  {
+    "question": "How many reviews for Philadelphia Local Pack?",
+    "answer": "Healthcare (Eds and Meds): 4.5+ stars, 90-150+ reviews. Legal: 4.4+, 60-100+. Main Line professional services: 4.5+, 80-140+. Centre City consumer: 4.3+, 60-90+."
+  },
+  {
+    "question": "How long does Philadelphia Local SEO take?",
+    "answer": "Penn Medicine academic healthcare: 4-6 months. PA RPC legal: 3-5 months. Main Line financial advisory: 3-5 months. Philadelphia is faster than NYC but requires above-average credential verification depth that adds time to build correctly."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Philadelphia?","acceptedAnswer":{"@type":"Answer","text":"Philadelphia Local SEO: \$1,100/month (single location) to \$11,000+/month (enterprise). Penn/Jefferson academic medical credential standard. PA RPC for legal. FINRA for financial. Main Line institutional quality. 90-day guarantee."}},{"@type":"Question","name":"What is the Penn/Jefferson academic medical GBP credential standard in Philadelphia?","acceptedAnswer":{"@type":"Answer","text":"Perelman School of Medicine faculty attribution for every physician, Penn Medicine/UPHS or Jefferson Health system affiliation badge, peer-reviewed clinical credential depth, and academic institutional photography — the credential architecture that earns genuine Local Pack trust from Philadelphia's most academically credential-evaluating healthcare market between New York and Washington."}},{"@type":"Question","name":"Does Clickmasters provide PA RPC-compliant GBP management for Philadelphia law firms?","acceptedAnswer":{"@type":"Answer","text":"Yes. Pennsylvania Rules of Professional Conduct 7.1-7.3-compliant GBP descriptions, appropriately contextualised case result presentations in review responses, Super Lawyers and Martindale-Hubbell AV Preeminent display, and Pennsylvania Bar Disciplinary Counsel-aware review management that protects firms from advertising rule enforcement."}},{"@type":"Question","name":"Does Clickmasters serve the Main Line, King of Prussia, and Delaware Valley?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Delaware Valley: Philadelphia, Delaware County, Montgomery County (Main Line, King of Prussia), Bucks County, Chester County, Camden NJ, and Wilmington DE."}},{"@type":"Question","name":"How many reviews for Philadelphia Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Healthcare (Eds and Meds): 4.5+ stars, 90-150+ reviews. Legal: 4.4+, 60-100+. Main Line professional services: 4.5+, 80-140+. Centre City consumer: 4.3+, 60-90+."}},{"@type":"Question","name":"How long does Philadelphia Local SEO take?","acceptedAnswer":{"@type":"Answer","text":"Penn Medicine academic healthcare: 4-6 months. PA RPC legal: 3-5 months. Main Line financial advisory: 3-5 months. Philadelphia is faster than NYC but requires above-average credential verification depth that adds time to build correctly."}}]}`,
   cta: `Get Your Free Philadelphia Local SEO Audit`,
-  internalLinks: ["/local-seo-services/","/seo-services-philadelphia/","/digital-marketing-agency-philadelphia/","/local-seo-services-boston/"],
+  ctaBody: `Free audit — 48 hours.
+1. Penn/Jefferson credential gap — Perelman School/Penn Medicine affiliations absent from GBP
+2. PA RPC violations — attorney GBP description compliance issues
+3. FINRA/HIPAA review management — compliance exposure
+4. Main Line institutional quality — CFA/CFP/Martindale verification gaps
+5. Review volume vs Philadelphia academic medical and Main Line benchmark
+
+Phone +1-888-555-CLICK | philadelphia@clickmastersdigitalmarketing.com
+Centre City, Main Line, King of Prussia, and all of the Delaware Valley`,
+  internalLinks: ["/local-seo-services/","/seo-services-philadelphia/","/digital-marketing-agency-in-philadelphia/","/local-seo-services-boston/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /local-seo-services-philadelphia/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

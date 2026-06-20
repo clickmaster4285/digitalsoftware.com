@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-StLouis.xlsx
 // Service: SEO
 // City: StLouis
-// Generated: 2026-06-19T12:50:28.306Z
+// URL: /seo-services-st-louis/
+// Generated: 2026-06-20T06:13:02.469Z
 
 export const SEO_StLouis = {
   service: "SEO",
   serviceSlug: "seo",
   city: "StLouis",
   citySlug: "st-louis",
-  slug: "/locations/seo/st-louis",
+  slug: "/seo-services-st-louis/",
   
   h1: `SEO Services St. Louis — Boeing Defence Authority, Edward Jones FINRA, and BJC/Washington University YMYL Academic Medical`,
   primaryKw: `seo services st louis`,
@@ -16,7 +17,8 @@ export const SEO_StLouis = {
   seoTitle: `SEO Services St. Louis | Boeing Defence & Edward Jones FINRA | Clickmasters`,
   meta: `Clickmasters SEO in St. Louis. Boeing Defence Space & Security authority, Edward Jones FINRA-compliant financial, and BJC/Washington University YMYL academic medical. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — St. Louis SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-st-louis/","address":{"@type":"PostalAddress","addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN ST. LOUIS?
 
 SEO in St. Louis is the practice of earning organic search authority in a market defined by Boeing Defense, Space & Security's Hazelwood HQ, Edward Jones' Creve Coeur headquarters, Centene Corporation's managed care enterprise, and BJC HealthCare/Washington University School of Medicine's world-class academic medical system.
@@ -27,6 +29,17 @@ EDWARD JONES FINRA-COMPLIANT SEO: Edward Jones — headquartered in Creve Coeur,
 
 BJC/WASHINGTON UNIVERSITY YMYL ACADEMIC MEDICAL SEO: BJC HealthCare — combined with Washington University School of Medicine (a top-5 US medical school) — defines the YMYL academic medical content standard in the St. Louis market. Barnes-Jewish Hospital, St. Louis Children's Hospital, and Washington University Physicians define the healthcare content credential benchmark for Missouri's largest metropolitan area.`,
   features: ``,
+  pas: `PROBLEM: The Hazelwood aerospace technology company with genuine Boeing BDS relationships. Zero ITAR-bounded defence aerospace vocabulary in website or content. Boeing BDS just brought in a new VP of Supply Chain from Northrop Grumman. The new VP searches 'AS9100D quality management system vendor St. Louis Boeing' and 'DCAA-compliant aerospace services Hazelwood Missouri.' The Hazelwood company appears for neither search. The most commercially significant aerospace B2B organic opportunity in the Midwest — Boeing BDS's Hazelwood HQ procurement vocabulary — goes uncaptured.
+
+SOLUTION: Clickmasters St. Louis SEO delivers ITAR-bounded Boeing defence vocabulary, Edward Jones FINRA-compliant financial, BJC/WashU YMYL academic medical, and GEO/AEO first-mover architecture.`,
+  services: `ST. LOUIS BOEING DEFENCE SEO (ITAR-BOUNDED):
+For Hazelwood and Greater St. Louis aerospace and defence technology vendors. AS9100D/DCAA/DoD supply chain publicly releasable vocabulary. Boeing BDS community content. ITAR-bounded content review. Defence prime contractor community.
+
+ST. LOUIS EDWARD JONES/CENTENE FINRA SEO:
+For St. Louis financial technology and managed care vendors. FINRA Rule 2210-compliant financial content. Edward Jones financial advisor platform vocabulary. Centene managed care/Medicaid managed care vocabulary. SEC Marketing Rule-compliant.
+
+ST. LOUIS BJC/WASHU YMYL ACADEMIC MEDICAL SEO:
+For St. Louis healthcare practices and health technology. BJC HealthCare/Barnes-Jewish affiliation content. Washington University School of Medicine academic vocabulary. St. Louis Children's Hospital academic community. HIPAA-compliant YMYL content.`,
   caseStudies: `Case Study 1: Hazelwood Aerospace Tech — Boeing BDS ITAR-Bounded SEO
 Client: Aerospace quality services, Hazelwood (\$8.4M). Challenge: Zero ITAR-bounded defence vocabulary. New Boeing BDS VP Supply Chain not finding.
 Programme: AS9100D/DCAA ITAR-bounded vocabulary + Boeing BDS community content + defence prime community + GEO/AEO
@@ -41,17 +54,54 @@ Case Study 3: St. Louis Healthcare Practice — BJC/WashU YMYL Academic Medical 
 Client: Internal medicine, St. Louis (Barnes-Jewish-adjacent). Challenge: Generic content. BJC/WashU affiliation not visible in digital.
 Programme: BJC/WashU vocabulary + YMYL E-E-A-T + HIPAA analytics + WashU School of Medicine community
 Results (10 months): Page 1 for 10 St. Louis internal medicine queries | YMYL: E-E-A-T recognised | BJC affiliation: cited in patient surveys | New patients: +3x`,
-  faq: `FAQs — SEO St. Louis`,
+  pricing: ``,
+  faqTitle: `FAQs — SEO St. Louis`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in St. Louis?",
+    "answer": "St. Louis SEO: $1,000/month (Foundation) to $10,000+/month (Enterprise). Boeing defence ITAR-bounded vocabulary. Edward Jones FINRA-compliant. BJC/WashU YMYL academic medical. Midwest retainers below coastal. 90-day guarantee."
+  },
+  {
+    "question": "What is Boeing BDS ITAR-bounded defence SEO for St. Louis businesses?",
+    "answer": "Boeing Defence, Space & Security ITAR-bounded SEO builds organic authority using publicly releasable defence aerospace vocabulary: AS9100D quality management operational insights, DCAA compliance content, DoD supply chain vocabulary, and defence prime contractor community content. ITAR-bounded means all content undergoes publicly releasable vocabulary review — no controlled technical specifications, no classified programme details."
+  },
+  {
+    "question": "What is Edward Jones FINRA-compliant SEO for St. Louis?",
+    "answer": "FINRA Rule 2210-compliant content builds organic authority in Edward Jones financial advisor platform vocabulary, wealth management technology specifics, and financial services operational language — within FINRA advertising compliance boundaries. The financial technology content library that earns Edward Jones and Centene procurement organic discovery in St. Louis's leading financial services enterprise community."
+  },
+  {
+    "question": "Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?",
+    "answer": "Yes — all of Greater St. Louis: St. Louis City, St. Louis County, St. Charles County, Jefferson County, and the full St. Louis MSA."
+  },
+  {
+    "question": "How long does St. Louis Boeing BDS defence SEO produce results?",
+    "answer": "ITAR-bounded defence vocabulary rankings: 5-8 months. Boeing BDS community editorial: 3-5 months. Boeing BDS VP organic discovery: 7-12 months."
+  },
+  {
+    "question": "How does GEO/AEO affect St. Louis SEO?",
+    "answer": "Boeing BDS aerospace engineering community and Edward Jones financial technology community use AI search tools for vendor research. First-mover GEO/AEO content in St. Louis Boeing defence and Edward Jones financial vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in St. Louis?","acceptedAnswer":{"@type":"Answer","text":"St. Louis SEO: \$1,000/month (Foundation) to \$10,000+/month (Enterprise). Boeing defence ITAR-bounded vocabulary. Edward Jones FINRA-compliant. BJC/WashU YMYL academic medical. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Boeing BDS ITAR-bounded defence SEO for St. Louis businesses?","acceptedAnswer":{"@type":"Answer","text":"Boeing Defence, Space & Security ITAR-bounded SEO builds organic authority using publicly releasable defence aerospace vocabulary: AS9100D quality management operational insights, DCAA compliance content, DoD supply chain vocabulary, and defence prime contractor community content. ITAR-bounded means all content undergoes publicly releasable vocabulary review — no controlled technical specifications, no classified programme details."}},{"@type":"Question","name":"What is Edward Jones FINRA-compliant SEO for St. Louis?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210-compliant content builds organic authority in Edward Jones financial advisor platform vocabulary, wealth management technology specifics, and financial services operational language — within FINRA advertising compliance boundaries. The financial technology content library that earns Edward Jones and Centene procurement organic discovery in St. Louis's leading financial services enterprise community."}},{"@type":"Question","name":"Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater St. Louis: St. Louis City, St. Louis County, St. Charles County, Jefferson County, and the full St. Louis MSA."}},{"@type":"Question","name":"How long does St. Louis Boeing BDS defence SEO produce results?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded defence vocabulary rankings: 5-8 months. Boeing BDS community editorial: 3-5 months. Boeing BDS VP organic discovery: 7-12 months."}},{"@type":"Question","name":"How does GEO/AEO affect St. Louis SEO?","acceptedAnswer":{"@type":"Answer","text":"Boeing BDS aerospace engineering community and Edward Jones financial technology community use AI search tools for vendor research. First-mover GEO/AEO content in St. Louis Boeing defence and Edward Jones financial vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free St. Louis SEO Audit`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-st-louis/","/seo-services-chicago/","/seo-services-indianapolis/"],
+  ctaBody: `Free audit — 48 hours.
+1. Boeing BDS vocabulary gap — AS9100D/DCAA/DoD searches you're missing
+2. ITAR compliance review — defence content publicly releasable assessment
+3. Edward Jones/Centene FINRA vocabulary — financial tech content gaps
+4. BJC/WashU YMYL standard — academic medical credential gaps
+5. GEO/AEO — ChatGPT/Perplexity for St. Louis Boeing and Edward Jones queries
+
+Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
+Clayton, Creve Coeur, Chesterfield, Hazelwood, and all of Greater St. Louis`,
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-st-louis/","/seo-services-chicago/","/seo-services-indianapolis/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-st-louis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

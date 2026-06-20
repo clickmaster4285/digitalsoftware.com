@@ -64,7 +64,7 @@ export const Hero = () => {
         <div className="mt-10 grid lg:grid-cols-12 gap-10 items-center">
           <div className="lg:col-span-7 relative z-10">
             <h1 className="font-display text-[clamp(2.5rem,10vw,8rem)] leading-[0.92] text-balance tracking-tight">
-              {"Award-Winning    ".split("").map((c, i) => (
+              {"Best Digital Marketing ".split("").map((c, i) => (
                 <motion.span key={i} initial={{ y: "100%", opacity: 0 }} animate={{ y: 0, opacity: 1 }}
                   transition={{ delay: 0.2 + i * 0.04, duration: 0.7, ease: [0.65, 0, 0.35, 1] }}
                   className="inline-block">{c === " " ? "\u00A0" : c}</motion.span>
@@ -74,8 +74,8 @@ export const Hero = () => {
                 initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.7, duration: 0.9 }}
                 className="italic font-display"
-              >Digital Marketing
-                 <span className="not-italic">·</span> Agency in
+              >
+                Agency <span className="not-italic">·</span>Grow  Faster 
               </motion.span>
               <br />
               <motion.span
@@ -83,9 +83,9 @@ export const Hero = () => {
                 transition={{ delay: 0.9, duration: 0.9 }}
                 className="inline-flex items-baseline gap-3"
               >
-                
+                Rank 
                 <span className="inline-block align-middle w-[clamp(60px,9vw,140px)] h-[clamp(60px,9vw,140px)] rounded-full bg-gradient-to-br from-zinc-900 to-zinc-700" />
-                <em> United States.</em>
+                <em>Higher.</em>
               </motion.span>
             </h1>
 
@@ -115,7 +115,7 @@ export const Hero = () => {
               initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1, duration: 0.8 }}
              className="mt-10 max-w-md w-full text-lg text-muted-foreground leading-relaxed"
             >
-        Your full-service digital marketing agency for SEO, PPC, web design & performance marketing. Elevate your marketing strategies with top digital marketing company in United States.
+         Clickmasters is a results-driven digital marketing company trusted by 200+ businesses across the United States. Whether you're searching for the best digital marketing agency partner to scale your brand online, Clickmasters builds custom strategies that deliver real, measurable growth. No fluff. No guesswork. Just the results that your business can need.
 
             </motion.p>
 

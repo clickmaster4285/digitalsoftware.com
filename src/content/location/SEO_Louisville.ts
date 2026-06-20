@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-SEO-Louisville.xlsx
 // Service: SEO
 // City: Louisville
-// Generated: 2026-06-19T12:50:28.010Z
+// URL: /seo-services-louisville/
+// Generated: 2026-06-20T06:13:02.242Z
 
 export const SEO_Louisville = {
   service: "SEO",
   serviceSlug: "seo",
   city: "Louisville",
   citySlug: "louisville",
-  slug: "/locations/seo/louisville",
+  slug: "/seo-services-louisville/",
   
   h1: `SEO Services Louisville — Humana FINRA/Healthcare B2B Authority, GE Appliances Manufacturing, Churchill Downs Hospitality, and Derby City Commercial Voice`,
   primaryKw: `seo services louisville`,
@@ -16,7 +17,8 @@ export const SEO_Louisville = {
   seoTitle: `SEO Services Louisville | Humana FINRA Health Insurance & GE Appliances B2B | Clickmasters`,
   meta: `Clickmasters SEO in Louisville. Humana FINRA health insurance B2B authority, GE Appliances manufacturing, Churchill Downs hospitality, UofL Health/Norton YMYL, and Kentucky Derby seasonal content. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Louisville SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-louisville/","address":{"@type":"PostalAddress","addressLocality":"Louisville","addressRegion":"KY","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN LOUISVILLE?
 
 SEO in Louisville is the practice of earning organic search authority in the Derby City — where Humana's headquarters creates the most FINRA-adjacent health insurance B2B environment in Kentucky, GE Appliances' Louisville campus generates manufacturing technology B2B opportunities, Churchill Downs' Louisville headquarters creates unique hospitality and gaming B2B search volume, and UofL Health and Norton Healthcare define the YMYL academic medical standard for the Louisville metro.
@@ -31,6 +33,17 @@ UOFL HEALTH AND NORTON HEALTHCARE YMYL SEO: University of Louisville Health — 
 
 KENTUCKY DERBY SEASONAL SEO: Churchill Downs' Kentucky Derby (first Saturday in May) creates a nationally recognised seasonal commercial content opportunity for Louisville businesses.`,
   features: ``,
+  pas: `PROBLEM: The Louisville health technology company with genuine Humana relationships. Zero Humana Medicare Advantage/Stars ratings vocabulary in website. Humana appointed a new VP of Value-Based Care Technology from CVS/Aetna. He searches 'Medicare Advantage analytics vendor Louisville Humana' and 'value-based care technology partner Kentucky.' Company appears for neither. Humana — one of the US's largest Medicare Advantage plans — is headquartered in Louisville and generates B2B vocabulary that no Louisville SEO agency addresses at the required health insurance operational specificity.
+
+SOLUTION: Clickmasters Louisville SEO delivers Humana Medicare Advantage/Stars ratings B2B authority, GE Appliances manufacturing, Churchill Downs hospitality/gaming, UofL Health/Norton YMYL, and Kentucky Derby seasonal content first-mover.`,
+  services: `LOUISVILLE HUMANA HEALTH INSURANCE TECHNOLOGY SEO:
+For Louisville health insurance technology vendors. Humana Medicare Advantage/Stars ratings vocabulary. Value-based care analytics content. HEDIS quality measure vocabulary. Brown-Forman spirits brand adjacent.
+
+LOUISVILLE GE APPLIANCES/MANUFACTURING B2B SEO:
+For Louisville manufacturing technology vendors. GE Appliances manufacturing vocabulary. Smart home technology analytics. Louisville manufacturing supply chain content.
+
+LOUISVILLE CHURCHILL DOWNS/UOFL HEALTH YMYL/GAMING SEO:
+For Louisville hospitality and healthcare vendors. Churchill Downs hospitality/gaming technology. UofL Health/Norton YMYL academic medical. Kentucky Derby seasonal content. HIPAA-compliant YMYL.`,
   caseStudies: `Case Study 1: Louisville Health Technology — Humana Medicare Advantage SEO
 Client: Health insurance analytics, Louisville (\$5.4M ARR). Challenge: Zero Humana Medicare Advantage/Stars vocabulary. New VP Value-Based Care not finding.
 Programme: Humana Medicare Advantage/Stars ratings/value-based care vocabulary + GEO/AEO
@@ -45,17 +58,54 @@ Case Study 3: Louisville Healthcare Practice — UofL Health/Norton YMYL SEO
 Client: Internal medicine (UofL Health-affiliated). Challenge: Generic content below UofL YMYL standard. Non-HIPAA.
 Programme: UofL Health/Norton vocabulary + YMYL E-E-A-T + HIPAA
 Results (10 months): Page 1 for 9 Louisville healthcare queries | YMYL: E-E-A-T | UofL: cited | New patients: +3x`,
-  faq: `FAQs — SEO Louisville`,
+  pricing: ``,
+  faqTitle: `FAQs — SEO Louisville`,
+  faqs: [
+  {
+    "question": "How much does SEO cost in Louisville?",
+    "answer": "Louisville SEO: $950/month (Foundation) to $9,500+/month (Enterprise). Humana Medicare Advantage/Stars ratings health insurance. GE Appliances manufacturing enterprise. Churchill Downs hospitality/gaming. UofL Health/Norton YMYL. Kentucky retainers competitive. 90-day guarantee."
+  },
+  {
+    "question": "What is Humana health insurance technology SEO for Louisville businesses?",
+    "answer": "Humana SEO builds organic authority in Humana's Medicare Advantage health insurance operational vocabulary: Medicare Advantage plan technology, value-based care analytics, Stars ratings quality programme specifics, and the managed care operational intelligence that Humana's Louisville technology procurement evaluates for vendor consideration."
+  },
+  {
+    "question": "What is GE Appliances manufacturing B2B SEO for Louisville businesses?",
+    "answer": "GE Appliances SEO builds organic authority in the largest US appliance manufacturing campus operational vocabulary: manufacturing technology, smart home analytics integration, Louisville manufacturing supply chain optimisation, and the appliance manufacturing operational intelligence that GE Appliances' Louisville campus evaluates."
+  },
+  {
+    "question": "Does Clickmasters serve St. Matthews, Jeffersontown, Shelbyville, and Greater Louisville?",
+    "answer": "Yes — all of Greater Louisville: Jefferson County, Oldham County, Bullitt County, and the full Louisville/Jefferson County MSA."
+  },
+  {
+    "question": "What is the Kentucky Derby seasonal SEO opportunity for Louisville businesses?",
+    "answer": "Churchill Downs' Kentucky Derby (first Saturday in May) creates a nationally recognised seasonal content marketing opportunity. Louisville businesses whose content authentically engages Derby heritage vocabulary — Churchill Downs infield, thoroughbred racing, mint julep, Barnstable Brown Gala — earn above-average organic engagement during Derby season from the most recognisable annual horse racing event in the US."
+  },
+  {
+    "question": "How does GEO/AEO affect Louisville SEO?",
+    "answer": "Humana's Medicare Advantage technology community and GE Appliances' manufacturing engineering community use AI search for vendor research. First-mover GEO/AEO for Louisville Humana Medicare Advantage and GE Appliances vocabulary earns ChatGPT/Perplexity citation before competitors."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Louisville?","acceptedAnswer":{"@type":"Answer","text":"Louisville SEO: \$950/month (Foundation) to \$9,500+/month (Enterprise). Humana Medicare Advantage/Stars ratings health insurance. GE Appliances manufacturing enterprise. Churchill Downs hospitality/gaming. UofL Health/Norton YMYL. Kentucky retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Humana health insurance technology SEO for Louisville businesses?","acceptedAnswer":{"@type":"Answer","text":"Humana SEO builds organic authority in Humana's Medicare Advantage health insurance operational vocabulary: Medicare Advantage plan technology, value-based care analytics, Stars ratings quality programme specifics, and the managed care operational intelligence that Humana's Louisville technology procurement evaluates for vendor consideration."}},{"@type":"Question","name":"What is GE Appliances manufacturing B2B SEO for Louisville businesses?","acceptedAnswer":{"@type":"Answer","text":"GE Appliances SEO builds organic authority in the largest US appliance manufacturing campus operational vocabulary: manufacturing technology, smart home analytics integration, Louisville manufacturing supply chain optimisation, and the appliance manufacturing operational intelligence that GE Appliances' Louisville campus evaluates."}},{"@type":"Question","name":"Does Clickmasters serve St. Matthews, Jeffersontown, Shelbyville, and Greater Louisville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Louisville: Jefferson County, Oldham County, Bullitt County, and the full Louisville/Jefferson County MSA."}},{"@type":"Question","name":"What is the Kentucky Derby seasonal SEO opportunity for Louisville businesses?","acceptedAnswer":{"@type":"Answer","text":"Churchill Downs' Kentucky Derby (first Saturday in May) creates a nationally recognised seasonal content marketing opportunity. Louisville businesses whose content authentically engages Derby heritage vocabulary — Churchill Downs infield, thoroughbred racing, mint julep, Barnstable Brown Gala — earn above-average organic engagement during Derby season from the most recognisable annual horse racing event in the US."}},{"@type":"Question","name":"How does GEO/AEO affect Louisville SEO?","acceptedAnswer":{"@type":"Answer","text":"Humana's Medicare Advantage technology community and GE Appliances' manufacturing engineering community use AI search for vendor research. First-mover GEO/AEO for Louisville Humana Medicare Advantage and GE Appliances vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Louisville SEO Audit`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-louisville/","/seo-services-nashville/","/seo-services-cincinnati/"],
+  ctaBody: `Free audit — 48 hours.
+1. Humana Medicare Advantage vocabulary gap — Stars ratings/value-based care searches you're missing
+2. HIPAA compliance in health insurance content
+3. GE Appliances manufacturing vocabulary — Louisville manufacturing B2B content gaps
+4. UofL Health/Norton YMYL — academic medical credential content
+5. GEO/AEO — ChatGPT/Perplexity for Louisville Humana and GE Appliances queries
+
+Phone +1-888-555-CLICK | louisville@clickmastersdigitalmarketing.com
+St. Matthews, Jeffersontown, Shelbyville, and all of Greater Louisville`,
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-louisville/","/seo-services-nashville/","/seo-services-cincinnati/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /seo-services-louisville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

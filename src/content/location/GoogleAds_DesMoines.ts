@@ -1,14 +1,15 @@
 // Auto-generated from XLSX file: T3-GoogleAds-DesMoines.xlsx
 // Service: GoogleAds
 // City: DesMoines
-// Generated: 2026-06-19T12:50:26.929Z
+// URL: /google-ads-management-des-moines/
+// Generated: 2026-06-20T06:13:00.255Z
 
 export const GoogleAds_DesMoines = {
   service: "GoogleAds",
   serviceSlug: "google-ads",
   city: "DesMoines",
   citySlug: "des-moines",
-  slug: "/locations/google-ads/des-moines",
+  slug: "/google-ads-management-des-moines/",
   
   h1: `Google Ads Management Des Moines — Principal Financial FINRA PPC, EMC Insurance, and UnityPoint/MercyOne HIPAA CDPA`,
   primaryKw: `google ads agency des moines`,
@@ -16,7 +17,8 @@ export const GoogleAds_DesMoines = {
   seoTitle: `Google Ads Agency Des Moines | Principal Financial FINRA & UnityPoint HIPAA PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Des Moines. Principal Financial FINRA retirement/insurance PPC, EMC Insurance, UnityPoint/MercyOne HIPAA CDPA, and Iowa State Fair seasonal campaigns. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Des Moines Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-des-moines/","address":{"@type":"PostalAddress","addressLocality":"Des Moines","addressRegion":"IA","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
-  wordCount: NaN,
+  wordCount: 3400,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN DES MOINES?
 
 Google Ads management in Des Moines is the professional management of PPC advertising across three categories: Principal Financial/EMC Insurance FINRA-compliant insurance and investment technology, UnityPoint/MercyOne HIPAA CDPA patient acquisition, and Iowa State Fair seasonal commercial campaigns.
@@ -27,6 +29,17 @@ UNITYPOINT/MERCYONE HIPAA CDPA PATIENT ACQUISITION: UnityPoint Health and MercyO
 
 IOWA STATE FAIR SEASONAL COMMERCIAL CAMPAIGNS: The Iowa State Fair (August, Des Moines) creates a seasonal PPC advertising window for consumer brands, hospitality, and food businesses targeting Iowa's most commercially concentrated annual consumer event.`,
   features: ``,
+  pas: `PROBLEM: The Des Moines insurance analytics company spending \$4,800/month on 'insurance analytics Des Moines' and 'financial technology Iowa.' Principal's new VP Technology searches 'retirement plan administration platform Principal Financial Des Moines FINRA' and 'group insurance benefits technology Iowa.' Neither in the campaign. \$57K spend misses Principal's specific FINRA retirement/group insurance vocabulary — the most commercially concentrated insurance and investment B2B language in the US Midwest.
+
+SOLUTION: Clickmasters Des Moines Google Ads delivers Principal FINRA retirement/insurance, EMC/Farm Bureau FINRA, UnityPoint/MercyOne HIPAA CDPA — at Iowa CPCs below Chicago and Minneapolis.`,
+  services: `DES MOINES PRINCIPAL/EMC FINRA INSURANCE GOOGLE ADS:
+For Des Moines insurance and investment technology vendors. Principal FINRA retirement/group insurance vocabulary. EMC commercial lines vocabulary. Farm Bureau agricultural insurance. Iowa CDPA consent management.
+
+DES MOINES UNITYPOINT/MERCYONE HIPAA CDPA GOOGLE ADS:
+For Des Moines healthcare practices. HIPAA server-side conversion tracking. Iowa CDPA consent management. UnityPoint/MercyOne vocabulary.
+
+DES MOINES IOWA STATE FAIR SEASONAL GOOGLE ADS:
+For Des Moines consumer brands. Iowa State Fair August vocabulary. Iowa consumer community audience. Pre/peak/post-fair seasonal windows.`,
   caseStudies: `Case Study 1: Des Moines Financial Technology — Principal FINRA Insurance PPC
 Client: Investment analytics, Des Moines (\$6.4M ARR). Challenge: \$57K missing Principal FINRA retirement vocabulary. Non-FINRA.
 Programme: Principal FINRA retirement/group insurance vocabulary + Iowa CDPA consent management
@@ -41,17 +54,54 @@ Case Study 3: Des Moines Healthcare — UnityPoint/MercyOne HIPAA CDPA PPC
 Client: Internal medicine (UnityPoint-affiliated). Challenge: Non-HIPAA. Non-CDPA.
 Programme: HIPAA server-side + CDPA consent management + UnityPoint vocabulary
 Results: HIPAA/CDPA: Iowa AG compliant | UnityPoint CPL: \$110 vs \$290 generic | New patients: +3x`,
-  faq: `FAQs — Google Ads Des Moines`,
+  pricing: ``,
+  faqTitle: `FAQs — Google Ads Des Moines`,
+  faqs: [
+  {
+    "question": "How much does Google Ads management cost in Des Moines?",
+    "answer": "Des Moines Google Ads: $950/month (Growth) to $9,500+/month (Enterprise). Principal Financial FINRA retirement/insurance. EMC/Farm Bureau FINRA. UnityPoint/MercyOne HIPAA CDPA. Iowa CPCs below Chicago/Minneapolis. 90-day guarantee."
+  },
+  {
+    "question": "What is Principal Financial FINRA retirement/insurance Google Ads for Des Moines?",
+    "answer": "Principal FINRA campaigns: 'retirement plan administration platform Des Moines Principal,' 'group insurance benefits technology Iowa FINRA,' 'investment management platform Principal Financial.' FINRA Rule 2210-compliant throughout. Iowa CPCs significantly below Chicago financial services markets."
+  },
+  {
+    "question": "What is Iowa CDPA consent management for Des Moines Google Ads?",
+    "answer": "Iowa Consumer Data Protection Act (CDPA, effective January 1, 2025) consent management implements Iowa-compliant consent for Google Ads conversion tracking. Des Moines businesses without CDPA consent management overstate conversions through non-consensual Iowa data collection, creating Iowa AG enforcement exposure."
+  },
+  {
+    "question": "Does Clickmasters serve West Des Moines, Ankeny, Urbandale, and Greater Des Moines?",
+    "answer": "Yes — all of Greater Des Moines MSA."
+  },
+  {
+    "question": "What is the Iowa State Fair seasonal Google Ads window for Des Moines businesses?",
+    "answer": "Iowa State Fair (August, 11 days, 1 million+ visitors) creates a seasonal PPC engagement window for consumer brands. State Fair-vocabulary campaigns (late July through August) reach Iowa's most commercially concentrated annual consumer audience at below-average CPCs for off-peak Iowa markets."
+  },
+  {
+    "question": "How do Des Moines Google Ads CPCs compare to Chicago and Minneapolis for financial services?",
+    "answer": "Iowa CPCs 20-25% below Chicago for equivalent financial technology vocabulary. 15-20% below Minneapolis. Principal Financial FINRA retirement vocabulary CPCs are Iowa-specific with significantly lower competition than Chicago insurance and investment technology advertising markets."
+  }
+],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Des Moines?","acceptedAnswer":{"@type":"Answer","text":"Des Moines Google Ads: \$950/month (Growth) to \$9,500+/month (Enterprise). Principal Financial FINRA retirement/insurance. EMC/Farm Bureau FINRA. UnityPoint/MercyOne HIPAA CDPA. Iowa CPCs below Chicago/Minneapolis. 90-day guarantee."}},{"@type":"Question","name":"What is Principal Financial FINRA retirement/insurance Google Ads for Des Moines?","acceptedAnswer":{"@type":"Answer","text":"Principal FINRA campaigns: 'retirement plan administration platform Des Moines Principal,' 'group insurance benefits technology Iowa FINRA,' 'investment management platform Principal Financial.' FINRA Rule 2210-compliant throughout. Iowa CPCs significantly below Chicago financial services markets."}},{"@type":"Question","name":"What is Iowa CDPA consent management for Des Moines Google Ads?","acceptedAnswer":{"@type":"Answer","text":"Iowa Consumer Data Protection Act (CDPA, effective January 1, 2025) consent management implements Iowa-compliant consent for Google Ads conversion tracking. Des Moines businesses without CDPA consent management overstate conversions through non-consensual Iowa data collection, creating Iowa AG enforcement exposure."}},{"@type":"Question","name":"Does Clickmasters serve West Des Moines, Ankeny, Urbandale, and Greater Des Moines?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Des Moines MSA."}},{"@type":"Question","name":"What is the Iowa State Fair seasonal Google Ads window for Des Moines businesses?","acceptedAnswer":{"@type":"Answer","text":"Iowa State Fair (August, 11 days, 1 million+ visitors) creates a seasonal PPC engagement window for consumer brands. State Fair-vocabulary campaigns (late July through August) reach Iowa's most commercially concentrated annual consumer audience at below-average CPCs for off-peak Iowa markets."}},{"@type":"Question","name":"How do Des Moines Google Ads CPCs compare to Chicago and Minneapolis for financial services?","acceptedAnswer":{"@type":"Answer","text":"Iowa CPCs 20-25% below Chicago for equivalent financial technology vocabulary. 15-20% below Minneapolis. Principal Financial FINRA retirement vocabulary CPCs are Iowa-specific with significantly lower competition than Chicago insurance and investment technology advertising markets."}}]}`,
   cta: `Get Your Free Des Moines Google Ads Audit`,
-  internalLinks: ["/digital-marketing-agency-des-moines/","/seo-services-des-moines/","/google-ads-management-services/","/google-ads-management-omaha/"],
+  ctaBody: `Free audit — 48 hours.
+1. Principal Financial vocabulary gap — retirement plan/group insurance searches missing
+2. Iowa CDPA consent management — conversion tracking compliance
+3. HIPAA compliance — UnityPoint/MercyOne patient violations
+4. EMC/Farm Bureau FINRA vocabulary — Iowa insurance PPC gaps
+5. Iowa CPC efficiency vs Chicago/Minneapolis financial services benchmark
+
+Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
+West Des Moines, Ankeny, Urbandale, and all of Greater Des Moines`,
+  internalLinks: ["/digital-marketing-agency-in-des-moines/","/seo-services-des-moines/","/google-ads-management-services/","/google-ads-management-omaha/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: "Exact URL", status: false },
+      url: { requirement: `Exact: /google-ads-management-des-moines/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },
