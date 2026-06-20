@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: KansasCity
 // URL: /web-design-agency-kansas-city/
-// Generated: 2026-06-20T05:43:15.437Z
+// Generated: 2026-06-20T06:13:03.686Z
 
 export const WebDesign_KansasCity = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_KansasCity = {
   meta: `Clickmasters web design in Kansas City. Oracle Health/Cerner HIPAA institutional credibility, Hallmark brand quality, and Children's Mercy/KU Medical YMYL for Kansas City businesses. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Kansas City Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-kansas-city/","address":{"@type":"PostalAddress","addressLocality":"Kansas City","addressRegion":"MO","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN KANSAS CITY?
 
 A Kansas City web design agency builds websites across three commercially distinct requirements: Oracle Health (Cerner) HIPAA institutional health IT credibility, Hallmark Cards consumer brand quality, and Children's Mercy Kansas City/University of Kansas Medical Center YMYL academic paediatric credential architecture.
@@ -51,6 +52,7 @@ Case Study 3: KC Paediatrics — Children's Mercy YMYL HIPAA Redesign
 Client: Paediatrics, KC (Children's Mercy-affiliated). Challenge: No CM affiliation. Non-HIPAA. Below YMYL.
 Programme: Children's Mercy affiliation + KU SOM faculty + HIPAA-native + YMYL E-E-A-T + CWV
 Results: YMYL: E-E-A-T | Children's Mercy cited | HIPAA: clean | New patients: +3x | LCP: 4.6s to 1.2s`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Kansas City`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: YMYL: E-E-A-T | Children's Mercy cited | HIPAA: clean | New patients: +
     "answer": "Consumer brand lifecycle management vocabulary in service descriptions, retail distribution analytics operational methodology pages, Hallmark seasonal retail calendar vocabulary, and the consumer brand enterprise vendor visual quality that Hallmark's 100+ year institutional heritage demands — the design standard that distinguishes genuine KC consumer brand expertise from generic retail analytics website design."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Kansas City web design: \$5,500-\$14,000 (Oracle Health/Children's Mercy YMYL/Hallmark brand), \$24,000-\$60,000+ (enterprise). Oracle Health/Cerner HIPAA institutional. Hallmark consumer brand quality. Children's Mercy YMYL HIPAA. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is Oracle Health/Cerner HIPAA institutional credibility for Kansas City web design?","acceptedAnswer":{"@type":"Answer","text":"Cerner PowerChart and Millennium platform operational service descriptions, FHIR/HL7 interoperability methodology pages, HCAHPS/CMS quality measure integration service pages, HIPAA-native data architecture, and Oracle Health institutional visual quality — the health IT vendor website that earns genuine Oracle Health Kansas City procurement digital due diligence clearance."}},{"@type":"Question","name":"Does Clickmasters build Children's Mercy YMYL academic paediatric websites in Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Yes. Children's Mercy Kansas City programme affiliation display where applicable, University of Kansas Medical Center and KU School of Medicine faculty attribution, HIPAA-native paediatric data architecture, and YMYL E-E-A-T optimised paediatric clinical content — the credential architecture that earns Google YMYL recognition in KC's leading academic paediatric medical community."}},{"@type":"Question","name":"Does Clickmasters serve Overland Park, Leawood, Olathe, and Greater Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Kansas City bi-state MSA."}},{"@type":"Question","name":"How long does a Kansas City web design project take?","acceptedAnswer":{"@type":"Answer","text":"Oracle Health HIPAA (FHIR review adds time): 8-14 weeks. Children's Mercy YMYL HIPAA: 8-14 weeks. Hallmark brand quality: 8-12 weeks. Enterprise: 14-24 weeks."}},{"@type":"Question","name":"What is the Hallmark consumer brand quality standard for Kansas City web design?","acceptedAnswer":{"@type":"Answer","text":"Consumer brand lifecycle management vocabulary in service descriptions, retail distribution analytics operational methodology pages, Hallmark seasonal retail calendar vocabulary, and the consumer brand enterprise vendor visual quality that Hallmark's 100+ year institutional heritage demands — the design standard that distinguishes genuine KC consumer brand expertise from generic retail analytics website design."}}]}`,
   cta: `Get Your Free Kansas City Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Oracle Health/Cerner credential display — does your website pass health IT procurement due diligence?
+2. HIPAA compliance — data architecture violations
+3. Children's Mercy YMYL — paediatric academic credential gaps
+4. Hallmark consumer brand quality — visual institutional standard assessment
+5. Core Web Vitals — LCP performance
+
+Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
+Overland Park, Leawood, Olathe, North KC, and all of Greater Kansas City`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-kansas-city/","/seo-services-kansas-city/","/web-design-agency-st-louis/"],
   
   publishingChecklist: {

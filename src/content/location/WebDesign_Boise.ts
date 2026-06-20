@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Boise
 // URL: /web-design-agency-boise/
-// Generated: 2026-06-20T05:43:15.182Z
+// Generated: 2026-06-20T06:13:03.474Z
 
 export const WebDesign_Boise = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Boise = {
   meta: `Clickmasters web design in Boise. Micron Technology semiconductor institutional credibility, Albertsons grocery retail enterprise quality, St. Luke's/Saint Alphonsus YMYL HIPAA, and authentic Hyde Park/North End Boise brand. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boise Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-boise/","address":{"@type":"PostalAddress","addressLocality":"Boise","addressRegion":"ID","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3400,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN BOISE?
 
 A Boise web design agency builds websites across three commercially distinct requirements: Micron Technology DRAM/NAND semiconductor institutional vendor credibility, Albertsons Companies grocery retail enterprise quality, and St. Luke's/Saint Alphonsus YMYL HIPAA academic healthcare design.
@@ -51,6 +52,7 @@ Case Study 3: Boise Healthcare — St. Luke's/Saint Alphonsus YMYL HIPAA Redesig
 Client: Internal medicine (St. Luke's-affiliated). Challenge: No St. Luke's affiliation. Non-HIPAA. 4.6s LCP.
 Programme: St. Luke's/Saint Alphonsus affiliation + HIPAA-native + YMYL E-E-A-T + CWV
 Results: YMYL: E-E-A-T | St. Luke's: cited | HIPAA: clean | New patients: +3x | LCP: 4.6s to 1.2s`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Boise`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: YMYL: E-E-A-T | St. Luke's: cited | HIPAA: clean | New patients: +3x | 
     "answer": "Micron Technology semiconductor institutional: 8-12 weeks. Albertsons retail enterprise: 8-12 weeks. St. Luke's YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Boise?","acceptedAnswer":{"@type":"Answer","text":"Boise web design: \$5,000-\$13,000 (Micron semiconductor/Albertsons retail/St. Luke's YMYL), \$22,000-\$55,000+ (enterprise). Micron DRAM/NAND institutional. Albertsons retail enterprise. St. Luke's YMYL HIPAA. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is Micron Technology semiconductor institutional credibility for Boise web design?","acceptedAnswer":{"@type":"Answer","text":"DRAM memory cell architecture analytics in service descriptions, NAND flash fabrication technology service pages, semiconductor wafer processing methodology, and Micron semiconductor enterprise institutional visual quality — the website that earns Micron Technology's 7,000+ employee Boise campus vendor procurement due diligence clearance."}},{"@type":"Question","name":"What is Albertsons grocery retail enterprise quality for Boise web design?","acceptedAnswer":{"@type":"Answer","text":"Shopper analytics platform service pages, CPG supplier analytics methodology, loyalty programme technology descriptions, and grocery retail enterprise institutional quality — earning Albertsons Companies' 2,200+ store Boise headquarters technology procurement evaluation consideration."}},{"@type":"Question","name":"Does Clickmasters serve Meridian, Nampa, Eagle, and Greater Boise?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Boise: Ada County, Canyon County, Gem County."}},{"@type":"Question","name":"What is authentic Boise consumer brand web design?","acceptedAnswer":{"@type":"Answer","text":"Hyde Park's charming North End commercial strip, the North End's established arts residential community, BoDo (Boise Downtown) entertainment and arts district, and the Boise Foothills' mountain biking and outdoor lifestyle vocabulary — the specific Boise neighbourhood identities that distinguish genuinely locally-rooted City of Trees brands."}},{"@type":"Question","name":"How long does a Boise web design project take?","acceptedAnswer":{"@type":"Answer","text":"Micron Technology semiconductor institutional: 8-12 weeks. Albertsons retail enterprise: 8-12 weeks. St. Luke's YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."}}]}`,
   cta: `Get Your Free Boise Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Micron Technology credibility — DRAM/NAND vocabulary and semiconductor institutional quality
+2. HIPAA compliance — St. Luke's/Saint Alphonsus data architecture
+3. Albertsons enterprise quality — grocery retail vocabulary assessment
+4. Authentic Boise brand — Hyde Park/North End/BoDo vocabulary
+5. Core Web Vitals — LCP for Treasure Valley's Micron/Albertsons community
+
+Phone +1-888-555-CLICK | boise@clickmastersdigitalmarketing.com
+Meridian, Eagle, Nampa, Hyde Park, and all of Greater Boise`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-boise/","/seo-services-boise/","/web-design-agency-salt-lake-city/"],
   
   publishingChecklist: {

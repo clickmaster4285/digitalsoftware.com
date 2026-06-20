@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: DesMoines
 // URL: /local-seo-services-des-moines/
-// Generated: 2026-06-20T05:43:11.935Z
+// Generated: 2026-06-20T06:13:01.056Z
 
 export const LocalSEO_DesMoines = {
   service: "LocalSEO",
@@ -18,6 +18,7 @@ export const LocalSEO_DesMoines = {
   meta: `Clickmasters Local SEO in Des Moines. Principal Financial insurance capital proximity GBP, UnityPoint/MercyOne YMYL credential, and Beaverdale/West Des Moines professional quality. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Des Moines Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-des-moines/","address":{"@type":"PostalAddress","addressLocality":"Des Moines","addressRegion":"IA","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3400,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN DES MOINES?
 
 Local SEO in Des Moines is the practice of optimising Google Business Profiles for the top 3 of Greater Des Moines's Local Pack — where Principal Financial Group's downtown campus creates insurance capital B2B proximity GBP commercial value, UnityPoint Health and MercyOne define the YMYL academic medical standard for the Iowa metro, and Beaverdale and West Des Moines represent the highest-income professional communities in the Des Moines MSA.
@@ -53,6 +54,7 @@ Case Study 3: Downtown Des Moines Financial Services — Principal Insurance Cap
 Client: Insurance analytics, Downtown Des Moines. Challenge: No Principal/EMC insurance vocabulary. Generic GBP.
 Programme: Principal FINRA vocabulary + insurance capital proximity + Iowa insurance photography
 Results (3 months): Top 3 Local Pack Des Moines insurance consulting | Principal community near-me: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — Local SEO Des Moines`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results (3 months): Top 3 Local Pack Des Moines insurance consulting | Principal
     "answer": "Beaverdale's arts residential community — home to Principal Financial actuaries and EMC Insurance executives — and West Des Moines' Principal suburban campus professional community evaluate GBPs with Iowa insurance capital institutional precision: CFA Institute verification for financial advisory, UnityPoint/MercyOne affiliation for healthcare, and Iowa insurance capital professional photography."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Des Moines?","acceptedAnswer":{"@type":"Answer","text":"Des Moines Local SEO: \$900/month (single) to \$9,000+/month (enterprise). Principal Financial insurance capital proximity GBP. UnityPoint/MercyOne YMYL. Beaverdale/West Des Moines professional quality. HIPAA/Iowa CDPA review management. Iowa retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Principal Financial insurance capital proximity GBP for Des Moines businesses?","acceptedAnswer":{"@type":"Answer","text":"Principal FINRA retirement/insurance vocabulary in GBP service descriptions, downtown Des Moines and West Des Moines Principal campus proximity signals, and Iowa insurance capital professional photography — earning above-average B2B near-me consideration from Principal Financial and Iowa's insurance community professional network."}},{"@type":"Question","name":"Does Clickmasters serve West Des Moines, Ankeny, Urbandale, and Greater Des Moines?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Des Moines: Polk, Dallas, Warren, and Madison Counties."}},{"@type":"Question","name":"How many reviews for Des Moines Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Des Moines benchmarks: Beaverdale/West Des Moines professional services: 4.4+ stars, 55-100+ reviews. UnityPoint/MercyOne-adjacent healthcare: 4.4+, 50-100+. Downtown insurance B2B: 4.3+, 35-70+."}},{"@type":"Question","name":"Does Iowa State Fair timing affect Des Moines GBP review strategy?","acceptedAnswer":{"@type":"Answer","text":"Yes. Iowa State Fair (August, 1 million+ visitors) creates the highest annual GBP review request response opportunity for Des Moines hospitality, food, and retail businesses. Post-State Fair (late August) review request campaigns earn above-average response rates from Iowa's most commercially engaged annual consumer event audience."}},{"@type":"Question","name":"What is the Beaverdale/West Des Moines professional quality GBP for Des Moines?","acceptedAnswer":{"@type":"Answer","text":"Beaverdale's arts residential community — home to Principal Financial actuaries and EMC Insurance executives — and West Des Moines' Principal suburban campus professional community evaluate GBPs with Iowa insurance capital institutional precision: CFA Institute verification for financial advisory, UnityPoint/MercyOne affiliation for healthcare, and Iowa insurance capital professional photography."}}]}`,
   cta: `Get Your Free Des Moines Local SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Principal/EMC proximity — FINRA insurance vocabulary absent from GBP
+2. UnityPoint/MercyOne credential display gaps
+3. Iowa CDPA-native review analytics — AG exposure
+4. FINRA-aware review management (financial)
+5. Iowa State Fair seasonal — August review timing strategy
+
+Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
+Beaverdale, West Des Moines, Clive, East Village, and all of Greater Des Moines`,
   internalLinks: ["/local-seo-services/","/seo-services-des-moines/","/digital-marketing-agency-des-moines/","/local-seo-services-omaha/"],
   
   publishingChecklist: {

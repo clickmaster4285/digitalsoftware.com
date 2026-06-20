@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Richmond
 // URL: /local-seo-services-richmond/
-// Generated: 2026-06-20T05:43:12.570Z
+// Generated: 2026-06-20T06:13:01.678Z
 
 export const LocalSEO_Richmond = {
   service: "LocalSEO",
@@ -18,6 +18,7 @@ export const LocalSEO_Richmond = {
   meta: `Clickmasters Local SEO in Richmond. Capital One ML proximity B2B GBP, VCU Health/Bon Secours academic medical credential, and Henrico County/Museum District professional quality. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Richmond Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN RICHMOND?
 
 Local SEO in Richmond is the practice of optimising Google Business Profiles for the top 3 of Greater Richmond's Local Pack — in a market where Capital One's Henrico County campus creates ML financial technology B2B proximity GBP commercial value, VCU Health and Bon Secours define the YMYL academic medical standard for Central Virginia, and the Museum District and Henrico County represent the highest-income professional residential communities in the Richmond MSA.
@@ -53,6 +54,7 @@ Case Study 3: Henrico County Technology Services — Capital One Proximity B2B G
 Client: ML analytics consulting, Henrico County (Capital One-adjacent). Challenge: No Capital One ML vocabulary. Generic GBP.
 Programme: Capital One ML/credit decisioning vocabulary + Henrico proximity signals + financial technology photography
 Results (3 months): Top 3 Local Pack Henrico County ML consulting | Capital One community near-me: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — Local SEO Richmond`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results (3 months): Top 3 Local Pack Henrico County ML consulting | Capital One 
     "answer": "Capital One ML engineers relocating from New York and San Francisco, VCU Health faculty, and Dominion Energy executives evaluate GBPs with the institutional precision of technology-first commercial banking and academic medical environments: CFA Institute-verified credentials for financial advisory, VCU/Bon Secours affiliation for healthcare, and financial technology institutional photography quality."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Richmond?","acceptedAnswer":{"@type":"Answer","text":"Richmond Local SEO: \$900/month (single) to \$9,000+/month (enterprise). Capital One ML proximity GBP. VCU Health/Bon Secours YMYL academic medical. Henrico County/Museum District professional quality. HIPAA/FINRA/VCDPA review management. Virginia retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Capital One ML proximity GBP for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"Capital One ML credit decisioning vocabulary in GBP service descriptions, Henrico County/Short Pump campus proximity signals, and financial technology professional photography — earning above-average B2B near-me consideration from Capital One's 15,000+ employee Henrico County ML engineering and technology procurement community."}},{"@type":"Question","name":"Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Richmond MSA: City of Richmond, Henrico, Chesterfield, Hanover, and Powhatan Counties."}},{"@type":"Question","name":"How many reviews for Richmond Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Richmond benchmarks: Short Pump/Innsbrook professional services: 4.5+ stars, 60-110+ reviews. VCU/Bon Secours-adjacent healthcare: 4.4+, 50-100+. Henrico County technology B2B: 4.3+, 35-70+."}},{"@type":"Question","name":"What is Virginia VCDPA-native review management for Richmond Local SEO?","acceptedAnswer":{"@type":"Answer","text":"VCDPA-compliant consent management for review request email data collection and VCDPA-accurate GBP review analytics — protecting Richmond businesses from Virginia AG enforcement exposure with every review request sent to Virginia consumers."}},{"@type":"Question","name":"What is the Henrico County/Museum District professional quality GBP standard for Richmond?","acceptedAnswer":{"@type":"Answer","text":"Capital One ML engineers relocating from New York and San Francisco, VCU Health faculty, and Dominion Energy executives evaluate GBPs with the institutional precision of technology-first commercial banking and academic medical environments: CFA Institute-verified credentials for financial advisory, VCU/Bon Secours affiliation for healthcare, and financial technology institutional photography quality."}}]}`,
   cta: `Get Your Free Richmond Local SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Capital One ML proximity signals — credit decisioning vocabulary absent from GBP
+2. VCU Health/Bon Secours academic credential display gaps
+3. Virginia VCDPA-native review analytics — AG enforcement exposure
+4. FINRA-aware review management (financial)
+5. Review volume vs Henrico County Capital One/VCU community benchmark
+
+Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com
+Short Pump, Innsbrook, Museum District, and all of Greater Richmond`,
   internalLinks: ["/local-seo-services/","/seo-services-richmond/","/digital-marketing-agency-richmond/","/local-seo-services-washington-dc/"],
   
   publishingChecklist: {

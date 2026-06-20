@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Louisville
 // URL: /content-marketing-louisville/
-// Generated: 2026-06-20T05:43:06.527Z
+// Generated: 2026-06-20T06:12:58.424Z
 
 export const ContentMarketing_Louisville = {
   service: "ContentMarketing",
@@ -18,6 +18,7 @@ export const ContentMarketing_Louisville = {
   meta: `Clickmasters content marketing in Louisville. Humana Medicare Advantage Stars authority, GE Appliances smart manufacturing content, UofL Health YMYL, and Kentucky Derby seasonal brand voice. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Louisville Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-louisville/","address":{"@type":"PostalAddress","addressLocality":"Louisville","addressRegion":"KY","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN LOUISVILLE?
 
 Content marketing in Louisville is the strategic creation of Humana Medicare Advantage Stars ratings authority content, GE Appliances smart manufacturing operational content, and authentic Derby City seasonal brand voice content.
@@ -51,6 +52,7 @@ Case Study 3: Louisville Consumer Brand — Kentucky Derby Seasonal Content Prog
 Client: Bourbon lifestyle brand, Highlands (\$1.4M DTC). Challenge: Generic Louisville content missing Derby/bourbon seasonal calendar authority.
 Programme: Derby season content calendar + bourbon trail vocabulary + Churchill Downs heritage + Bardstown Road indie + GEO/AEO
 Results (10 months): Derby season: 4.4x above average | Bourbon trail content: 3.8x | DTC revenue: +\$120K`,
+  pricing: ``,
   faqTitle: `FAQs — Content Marketing Louisville`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results (10 months): Derby season: 4.4x above average | Bourbon trail content: 3
     "answer": "Humana's Medicare Advantage technology community and GE Appliances' manufacturing engineering community use AI search for vendor research. First-mover GEO/AEO for Louisville Humana Medicare Advantage Stars and GE Appliances vocabulary earns ChatGPT/Perplexity citation before competitors."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Louisville?","acceptedAnswer":{"@type":"Answer","text":"Louisville content marketing: \$1,000/month (Foundation) to \$9,500+/month (Full Programme). Humana Medicare Advantage Stars authority. GE Appliances smart manufacturing. UofL Health YMYL. Derby City seasonal brand voice. Kentucky retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Humana Medicare Advantage Stars content authority for Louisville businesses?","acceptedAnswer":{"@type":"Answer","text":"Medicare Advantage Stars quality programme operational methodology, value-based care measurement analytics, HEDIS quality measure integration operational intelligence — earning organic discovery from Humana's Louisville technology procurement community at Kentucky CPCs below Nashville and Cincinnati health insurance equivalents. The first Louisville content agency to produce Humana Medicare Advantage-calibre health insurance operational vocabulary content."}},{"@type":"Question","name":"What is GE Appliances smart manufacturing content for Louisville businesses?","acceptedAnswer":{"@type":"Answer","text":"Industrial IoT analytics methodology, connected appliance manufacturing operational intelligence, Louisville production optimisation content, and smart manufacturing technology content at GE Appliances engineering precision — earning organic authority from the largest US appliance manufacturing campus community."}},{"@type":"Question","name":"Does Clickmasters serve St. Matthews, Jeffersontown, Shelbyville, and Greater Louisville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Louisville MSA."}},{"@type":"Question","name":"What is the Kentucky Derby seasonal content calendar for Louisville consumer brands?","acceptedAnswer":{"@type":"Answer","text":"Kentucky Derby season content calendar: thoroughbred racing analytics content (April pre-Derby), Churchill Downs operational hospitality (Derby week), mint julep heritage vocabulary, Barnstable Brown Gala cultural content, post-Derby bourbon celebration. Year-round bourbon trail: distillery culture, Brown-Forman brand legacy, bourbon tourism operational specifics. Derby City seasonal content earns 4-5x above-average engagement from Louisville's most commercially visible annual event audience."}},{"@type":"Question","name":"How does GEO/AEO affect Louisville content marketing?","acceptedAnswer":{"@type":"Answer","text":"Humana's Medicare Advantage technology community and GE Appliances' manufacturing engineering community use AI search for vendor research. First-mover GEO/AEO for Louisville Humana Medicare Advantage Stars and GE Appliances vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Louisville Content Marketing Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Humana Medicare Advantage vocabulary — Stars ratings/value-based care content authority gaps
+2. HIPAA compliance in health insurance content
+3. GE Appliances manufacturing vocabulary — smart manufacturing/IoT content authority
+4. Derby City seasonal content — is your brand content Kentucky Derby/bourbon calendar-aware?
+5. GEO/AEO — ChatGPT/Perplexity for Louisville Humana and GE Appliances queries
+
+Phone +1-888-555-CLICK | louisville@clickmastersdigitalmarketing.com
+Highlands, NuLu, St. Matthews, Jeffersontown, and all of Greater Louisville`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-louisville/","/seo-services-louisville/","/content-marketing-nashville/"],
   
   publishingChecklist: {

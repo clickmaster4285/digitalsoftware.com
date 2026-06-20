@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Richmond
 // URL: /content-marketing-richmond/
-// Generated: 2026-06-20T05:43:07.457Z
+// Generated: 2026-06-20T06:12:58.565Z
 
 export const ContentMarketing_Richmond = {
   service: "ContentMarketing",
@@ -18,6 +18,7 @@ export const ContentMarketing_Richmond = {
   meta: `Clickmasters content marketing in Richmond. Capital One ML credit decisioning authority, Dominion Energy offshore wind/carbon neutrality content, and VCU Health/Bon Secours YMYL academic medical. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Richmond Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN RICHMOND?
 
 Content marketing in Richmond is the strategic creation of Capital One ML credit decisioning fintech authority content, Dominion Energy clean energy and offshore wind operational content, and VCU Health/Bon Secours YMYL academic clinical content.
@@ -51,6 +52,7 @@ Case Study 3: Richmond Healthcare — VCU Health/Bon Secours YMYL Content
 Client: Clinical analytics, Richmond (\$5.4M ARR). Challenge: Generic medical content. VCU/Bon Secours YMYL vocabulary absent. Non-VCDPA.
 Programme: VCU Health/Bon Secours YMYL vocabulary + E-E-A-T + HIPAA/VCDPA-native + GEO/AEO
 Results (10 months): Page 1 for 10 Richmond health IT queries | VCU: evaluation | YMYL: E-E-A-T | VCDPA/HIPAA: clean | Pipeline: \$1.2M`,
+  pricing: ``,
   faqTitle: `FAQs — Content Marketing Richmond`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results (10 months): Page 1 for 10 Richmond health IT queries | VCU: evaluation 
     "answer": "Capital One's machine learning community and Dominion Energy's clean energy community use AI search for vendor research. First-mover GEO/AEO for Richmond Capital One ML credit decisioning and Dominion CVOW vocabulary earns ChatGPT/Perplexity citation before competitors build equivalent authority in Virginia's most commercially underaddressed ML fintech and clean energy markets."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Richmond?","acceptedAnswer":{"@type":"Answer","text":"Richmond content marketing: \$1,000/month (Foundation) to \$9,500+/month (Full Programme). Capital One ML credit decisioning fintech authority. Dominion Energy offshore wind/clean energy. VCU Health/Bon Secours YMYL. Virginia VCDPA-native. Virginia retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Capital One ML credit decisioning content authority for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"Machine learning credit decisioning feature engineering methodology, consumer lending behaviour analytics operational intelligence, real-time credit risk modelling methodology, and digital banking ML model monitoring insights at Capital One data science peer-calibre precision — earning organic discovery from Capital One Henrico County's ML engineering and procurement community at Virginia CPCs 20-30% below Washington DC equivalents."}},{"@type":"Question","name":"What is Dominion Energy CVOW offshore wind content for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"CVOW (Coastal Virginia Offshore Wind) development programme vocabulary, grid modernisation clean energy integration content, carbon neutrality transition programme methodology, and clean energy storage operational intelligence — earning organic discovery from Dominion Energy Richmond's clean energy technology procurement community."}},{"@type":"Question","name":"Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Richmond MSA."}},{"@type":"Question","name":"How long does Richmond Capital One ML content produce fintech results?","acceptedAnswer":{"@type":"Answer","text":"Capital One ML vocabulary rankings: 4-7 months. O'Reilly/IEEE ML community engagement: 3-5 months. Capital One ML organic discovery: 6-10 months. GEO/AEO Capital One ML AI citations: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect Richmond content marketing?","acceptedAnswer":{"@type":"Answer","text":"Capital One's machine learning community and Dominion Energy's clean energy community use AI search for vendor research. First-mover GEO/AEO for Richmond Capital One ML credit decisioning and Dominion CVOW vocabulary earns ChatGPT/Perplexity citation before competitors build equivalent authority in Virginia's most commercially underaddressed ML fintech and clean energy markets."}}]}`,
   cta: `Get Your Free Richmond Content Marketing Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Capital One ML vocabulary — credit decisioning/consumer analytics content authority gaps
+2. FINRA/VCDPA compliance in content analytics
+3. Dominion Energy CVOW — offshore wind/carbon neutrality content authority
+4. VCU/Bon Secours YMYL — Central Virginia academic medical content standard
+5. GEO/AEO — ChatGPT/Perplexity for Richmond Capital One ML and Dominion CVOW queries
+
+Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com
+The Fan, Carytown, Henrico County, Chesterfield, and all of Greater Richmond`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-richmond/","/seo-services-richmond/","/content-marketing-washington-dc/"],
   
   publishingChecklist: {

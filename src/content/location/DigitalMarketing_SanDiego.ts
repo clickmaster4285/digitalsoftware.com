@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: SanDiego
 // URL: /digital-marketing-agency-san-diego/
-// Generated: 2026-06-20T05:43:08.961Z
+// Generated: 2026-06-20T06:12:59.318Z
 
 export const DigitalMarketing_SanDiego = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "SanDiego",
   citySlug: "san-diego",
-  slug: "/digital-marketing-agency-in-san-diego/",
+  slug: "/digital-marketing-agency-san-diego/",
   
   h1: `Digital Marketing Agency San Diego — Defence Contractor Revenue, Torrey Pines Life Science, and CCPA-Native Commercial Growth`,
   primaryKw: `digital marketing agency san diego`,
@@ -18,6 +18,7 @@ export const DigitalMarketing_SanDiego = {
   meta: `Clickmasters digital marketing in San Diego. Defence contractor vendor revenue growth, Torrey Pines life science organic authority, and CCPA-native analytics for America's largest military city. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Diego Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-san-diego/","address":{"@type":"PostalAddress","addressLocality":"San Diego","addressRegion":"CA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN SAN DIEGO?
 
 A San Diego digital marketing agency manages digital channels for San Diego-area businesses in a market defined by two commercially distinct ecosystems: America's largest defence contractor concentration and the Torrey Pines Mesa life science capital of Southern California.
@@ -28,7 +29,17 @@ TORREY PINES LIFE SCIENCE DIGITAL MARKETING: San Diego's Torrey Pines Mesa — I
 
 CCPA-NATIVE MEASUREMENT FOUNDATION: California's CCPA creates systematic measurement inaccuracy for San Diego businesses running non-compliant digital programmes. CCPA non-compliant organic analytics overstate San Diego organic sessions by 25-35%. CCPA-native measurement produces accurate performance data that San Diego's data-driven defence and life science companies accept as commercially credible.`,
   features: ``,
-  pas: ``,
+  pas: `THE BEFORE: Point Loma's most capable cyber defence technology company — \$12M ARR, NAVWAR relationships, Northrop relationships, Leidos relationships. Three new procurement managers arrived in the last 6 months from DoD suppliers on the East Coast. None know the Point Loma company. All three Google using defence vocabulary: 'CMMC Level 2 compliance vendor San Diego,' 'cybersecurity DoD contractor Southern California,' 'NIST SP 800-171 assessment San Diego.' The company appears for none of these searches. The CCPA-non-compliant Google Analytics overstates their organic performance by 32%, meaning the CEO thinks organic is working fine. It isn't.
+
+THE AFTER: Your Point Loma cyber defence company ranks top 3 for 12 San Diego defence technology queries. NAVWAR procurement discovers your company through organic search before any formal procurement begins. CCPA-accurate analytics shows the true organic baseline. LinkedIn CMMC thought leadership reaches the new procurement managers within 60 days of their arrival.
+
+THE BRIDGE — CLICK GROWTH SYSTEM FOR SAN DIEGO:
+C — Capture: ITAR-bounded defence vocabulary + Torrey Pines FDA-aware life science + CCPA-native analytics + bilingual San Diego border economy.
+L — Lead: ITAR-compliant content infrastructure. CCPA/CPRA-compliant analytics. California state regulatory awareness.
+I — Influence: CMMC/AS9100D/DCAA defence thought leadership. FDA-aware Phase I-III life science authority. UCSD Health YMYL healthcare content.
+C — Convert: Defence vendor institutional credibility architecture. Life science vendor Torrey Pines institutional quality.
+K — Keep: NAVWAR/Northrop/Leidos named account email pipeline. Torrey Pines life science procurement nurture. HIPAA patient retention.
+S — Scale: GEO/AEO for San Diego defence and life science AI search queries.`,
   services: `SEO SAN DIEGO: ITAR-bounded defence vocabulary authority. Torrey Pines FDA-aware life science YMYL. CCPA-native analytics. UCSD Health YMYL healthcare. /seo-services-san-diego/
 
 GOOGLE ADS SAN DIEGO: CMMC/AS9100D defence procurement PPC. Torrey Pines life science FDA-aware. HIPAA-compliant healthcare. CCPA Consent Mode v2.
@@ -56,6 +67,7 @@ Case Study 3: La Jolla Healthcare Practice — UCSD YMYL Full Programme
 Client: Specialty medicine, La Jolla (2 physicians, UCSD Health). Challenge: Non-CCPA analytics. UCSD affiliation not visible in digital. Below-YMYL content.
 Programme: SEO + website (UCSD affiliation) + Google Ads (HIPAA) + content (YMYL) + CCPA-native analytics
 Results (10 months): CCPA-accurate measurement established | Page 1 for 11 La Jolla specialty queries | New patients from digital: +3x | UCSD display: cited in patient surveys`,
+  pricing: ``,
   faqTitle: `FAQs — Digital Marketing San Diego`,
   faqs: [
   {
@@ -83,8 +95,18 @@ Results (10 months): CCPA-accurate measurement established | Page 1 for 11 La Jo
     "answer": "San Diego's defence contractor and life science professional communities use AI search tools for professional research. When NAVWAR procurement asks ChatGPT for CMMC Level 2 cybersecurity vendors in San Diego, or Pfizer asks Perplexity for Phase I CROs in Torrey Pines, companies with GEO/AEO signals appear in those answers."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in San Diego?","acceptedAnswer":{"@type":"Answer","text":"San Diego digital marketing: \$1,800/month (single channel) to \$20,000+/month (enterprise). ITAR-bounded defence vocabulary. FDA-aware life science. CCPA-native analytics. HIPAA healthcare. 90-day guarantee."}},{"@type":"Question","name":"Which digital channels work best for San Diego defence contractor vendors?","acceptedAnswer":{"@type":"Answer","text":"(1) SEO — ITAR-bounded CMMC/AS9100D/DCAA vocabulary for new DoD procurement managers arriving without existing vendor relationships. (2) LinkedIn — NAVWAR/Northrop/Leidos community defence professional thought leadership. (3) Email — named account pipeline nurture for NAVWAR/Northrop/Leidos procurement contacts. (4) Google Ads — CMMC/NIST vocabulary defence procurement PPC."}},{"@type":"Question","name":"Does Clickmasters serve La Jolla, Chula Vista, Oceanside, and Greater San Diego?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of San Diego County and the full San Diego MSA."}},{"@type":"Question","name":"How quickly does San Diego defence contractor digital marketing produce results?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded defence SEO vocabulary rankings: 5-8 months. LinkedIn NAVWAR/Northrop community connections: 2-4 months. CMMC Google Ads leads: 7-14 days. First defence evaluation invitation from integrated programme: 4-6 months."}},{"@type":"Question","name":"What is CCPA-native measurement for San Diego digital marketing?","acceptedAnswer":{"@type":"Answer","text":"CCPA-native analytics excludes California opt-out data from all channel performance measurement — organic sessions, Google Ads conversions, email open rates — producing accurate commercial performance data. San Diego businesses with non-CCPA analytics systematically overreport performance by 25-35%, creating false confidence in underperforming programmes."}},{"@type":"Question","name":"How does GEO/AEO affect San Diego digital marketing?","acceptedAnswer":{"@type":"Answer","text":"San Diego's defence contractor and life science professional communities use AI search tools for professional research. When NAVWAR procurement asks ChatGPT for CMMC Level 2 cybersecurity vendors in San Diego, or Pfizer asks Perplexity for Phase I CROs in Torrey Pines, companies with GEO/AEO signals appear in those answers."}}]}`,
   cta: `Get Your Free San Diego Digital Marketing Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Defence vocabulary discoverability — can new NAVWAR/Northrop/Leidos procurement managers find you digitally?
+2. CCPA analytics accuracy — how much are non-compliant analytics overstating your SD performance?
+3. FDA-aware life science authority — CLIA/CAP/Phase I vocabulary gaps
+4. UCSD Health/Scripps affiliation display — healthcare YMYL credential visibility
+5. GEO/AEO — ChatGPT/Perplexity for San Diego defence and Torrey Pines life science queries
+
+Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
+Point Loma, Torrey Pines, La Jolla, Kearny Mesa, and all of San Diego County`,
   internalLinks: ["/seo-services-san-diego/","/digital-marketing-agency-usa/","/digital-marketing-agency-los-angeles/","/digital-marketing-agency-san-francisco/"],
   
   publishingChecklist: {

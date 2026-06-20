@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Indianapolis
 // URL: /social-media-marketing-indianapolis/
-// Generated: 2026-06-20T05:43:14.519Z
+// Generated: 2026-06-20T06:13:02.748Z
 
 export const SocialMedia_Indianapolis = {
   service: "SocialMedia",
@@ -18,6 +18,7 @@ export const SocialMedia_Indianapolis = {
   meta: `Clickmasters social media marketing in Indianapolis. Eli Lilly/Corteva pharmaceutical LinkedIn, Cummins/Simon Fortune 500 professional community, and authentic Mass Ave/Broad Ripple brand social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Indianapolis Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-indianapolis/","address":{"@type":"PostalAddress","addressLocality":"Indianapolis","addressRegion":"IN","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN INDIANAPOLIS?
 
 Social media marketing in Indianapolis is the strategic management of social platforms across three commercially distinct communities: the Eli Lilly/Corteva pharmaceutical LinkedIn ecosystem, the Cummins/Simon Property Fortune 500 Midwest executive community, and the authentic Indianapolis consumer brand community in the Mass Ave Arts District, Broad Ripple, and Fountain Square.
@@ -28,7 +29,11 @@ CUMMINS/SIMON PROPERTY FORTUNE 500 MIDWEST EXECUTIVE COMMUNITY: Cummins Inc.'s c
 
 AUTHENTIC INDIANAPOLIS CONSUMER BRAND SOCIAL: The Mass Ave Arts District, Broad Ripple's independent commercial community, and Fountain Square's emerging arts economy create consumer brand Instagram and TikTok opportunities for businesses communicating genuine Indianapolis neighbourhood identity — distinguishing authentic Indy brands from generic Midwest commercial approximations.`,
   features: ``,
-  pas: ``,
+  pas: `THE BEFORE: The Indianapolis GMP pharmaceutical consulting firm posting LinkedIn: FDA warning letter reactions, generic pharmaceutical news reposts, and company awards. Eli Lilly's new VP of Quality Operations evaluates vendor LinkedIn: zero FDA 21 CFR Part 211 GMP operational precision, zero CMC regulatory methodology specifics, zero API manufacturing quality management vocabulary. She evaluates the Indianapolis firm as a generic pharmaceutical consulting vendor — not a Lilly quality-standard operational partner.
+
+THE AFTER: Your Indianapolis GMP consulting firm's Head of Quality posts LinkedIn content addressing FDA 21 CFR Part 211 GMP gap assessment methodology, CMC regulatory filing precision for Lilly-standard NDA submissions, and API manufacturing validation operational insights demonstrating genuine Lilly-calibre quality management expertise.
+
+THE BRIDGE: Clickmasters Indianapolis social media builds Eli Lilly pharmaceutical operational precision LinkedIn, Cummins/Simon Fortune 500 Midwest executive community thought leadership, and authentic Indianapolis neighbourhood consumer brand social.`,
   services: `INDIANAPOLIS ELI LILLY/CORTEVA PHARMA LINKEDIN:
 For Indianapolis pharma consulting and services companies. GMP/CMC/API/IND pharmaceutical operational vocabulary. Eli Lilly/Corteva/Elanco community Sales Navigator. FDA operational precision content. HIPAA-aware social content.
 
@@ -51,6 +56,7 @@ Case Study 3: Mass Ave Arts Brand — Authentic Indianapolis Consumer Social
 Client: Artisan lifestyle brand, Mass Ave (\$1.4M DTC). Challenge: Generic 'Indianapolis arts' Instagram below Mass Ave authentic community standard.
 Programme: Mass Ave arts district vocabulary + Fountain Square emerging arts community + authentic Indy brand identity
 Results (5 months): Instagram engagement: 1.4% to 4.8% | Mass Ave editorial features: 2 | DTC revenue from social: +\$100K`,
+  pricing: ``,
   faqTitle: `FAQs — Social Media Marketing Indianapolis`,
   faqs: [
   {
@@ -78,8 +84,18 @@ Results (5 months): Instagram engagement: 1.4% to 4.8% | Mass Ave editorial feat
     "answer": "Eli Lilly/Corteva pharma LinkedIn: Lilly/Corteva/Elanco connections and evaluation invitations. Cummins/Simon Fortune 500: executive connections and enterprise evaluation invitations. Authentic Indy brand: engagement vs Indianapolis community benchmark, editorial features, DTC revenue attribution."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Indianapolis social media: \$1,300/month (LinkedIn growth) to \$12,000+/month (enterprise). Eli Lilly/Corteva pharmaceutical precision. Cummins/Simon Fortune 500 Midwest executive community. Authentic Indy brand. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Eli Lilly pharmaceutical LinkedIn for Indianapolis businesses?","acceptedAnswer":{"@type":"Answer","text":"Eli Lilly pharmaceutical LinkedIn demonstrates FDA 21 CFR Part 211 GMP operational insights, CMC regulatory filing precision, API manufacturing quality management vocabulary, and drug discovery operations intelligence at the precision standard that Eli Lilly's quality and operations teams evaluate for genuine pharmaceutical vendor expertise."}},{"@type":"Question","name":"What is authentic Indianapolis consumer brand social media?","acceptedAnswer":{"@type":"Answer","text":"Mass Ave Arts District vocabulary (named galleries, arts community events, authentic cultural language), Broad Ripple's independent commercial community content, and Fountain Square's emerging arts economy — the specific Indy neighbourhood identities that distinguish genuinely locally-rooted Indianapolis brands from generic Midwest commercial approximations."}},{"@type":"Question","name":"Does Clickmasters serve Carmel, Fishers, Zionsville, and Greater Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Indianapolis MSA."}},{"@type":"Question","name":"What is the Midwest data-analytical LinkedIn content standard for Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Cummins and Simon Property Fortune 500 executives evaluate LinkedIn content with the evidence-based analytical precision of Midwest corporate culture: specific operational data over generalised industry claims, verifiable performance metrics over superlative marketing language, and technically precise operational vocabulary that demonstrates genuine expertise rather than surface-level awareness."}},{"@type":"Question","name":"How does Clickmasters measure Indianapolis social media commercial outcomes?","acceptedAnswer":{"@type":"Answer","text":"Eli Lilly/Corteva pharma LinkedIn: Lilly/Corteva/Elanco connections and evaluation invitations. Cummins/Simon Fortune 500: executive connections and enterprise evaluation invitations. Authentic Indy brand: engagement vs Indianapolis community benchmark, editorial features, DTC revenue attribution."}}]}`,
   cta: `Get Your Free Indianapolis Social Media Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Eli Lilly pharma LinkedIn precision — does your content demonstrate GMP/CMC/API operational knowledge?
+2. Cummins Fortune 500 vocabulary — Midwest data-analytical LinkedIn standard assessment
+3. HIPAA compliance — healthcare social content
+4. Authentic Indy brand — Mass Ave/Broad Ripple neighbourhood vocabulary
+5. Pharmaceutical connection quality — are Lilly/Corteva connections converting to evaluations?
+
+Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
+Carmel, Fishers, Mass Ave, Broad Ripple, and all of Greater Indianapolis`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-indianapolis/","/seo-services-indianapolis/","/social-media-marketing-chicago/"],
   
   publishingChecklist: {

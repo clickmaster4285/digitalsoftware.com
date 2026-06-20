@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Nashville
 // URL: /web-design-agency-nashville/
-// Generated: 2026-06-20T05:43:15.591Z
+// Generated: 2026-06-20T06:13:03.865Z
 
 export const WebDesign_Nashville = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Nashville = {
   meta: `Clickmasters web design in Nashville. Healthcare capital institutional credential quality for HCA/Envision, Amazon East Bank analytical precision, and authentic Music City brand design. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Nashville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-nashville/","address":{"@type":"PostalAddress","addressLocality":"Nashville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN NASHVILLE?
 
 A Nashville web design agency builds websites calibrated to Nashville's three commercially distinct requirements: the HCA/Envision healthcare capital institutional credential standard, the Amazon East Bank analytical-precision B2B quality, and the authentic Music City brand character that earns genuine community trust from Nashville's creative economy.
@@ -51,6 +52,7 @@ Case Study 3: Germantown Artisan Brand — Authentic Nashville Consumer Design
 Client: Artisan food brand, Germantown (\$3.4M DTC). Challenge: Generic website below authentic Germantown community standard.
 Programme: Germantown industrial aesthetic + authentic Nashville photography + Music Row heritage nod + Shopify CWV
 Results: Shopify conversion: 1.4% to 3.4% | Nashville community editorial features: 2 | LCP: 4.4s to 1.2s | DTC revenue: +24%`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Nashville`,
   faqs: [
   {
@@ -78,8 +80,17 @@ Results: Shopify conversion: 1.4% to 3.4% | Nashville community editorial featur
     "answer": "Authentic Music City design uses specific Nashville neighbourhood vocabulary — Germantown's brick industrial aesthetic, East Nashville's raw creative energy, Music Row's recording heritage — with authentic Nashville community photography rather than generic Tennessee landscape imagery. Nashville's growing creative community distinguishes genuine local cultural character from commercial approximation."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Nashville?","acceptedAnswer":{"@type":"Answer","text":"Nashville web design: \$6,500-\$18,000 (healthcare capital/Amazon East Bank/consumer brand), \$28,000-\$70,000+ (enterprise). Healthcare capital credential standard. HIPAA-native. Amazon analytical precision. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is healthcare capital institutional credential architecture for Nashville?","acceptedAnswer":{"@type":"Answer","text":"HCAHPS and VBP programme partnership reference pages, ACO operational vocabulary in service descriptions, Vanderbilt University Medical Center and Tennessee Medical Association affiliation display, and HIPAA-native data architecture — the credential architecture that communicates genuine HCA/Envision healthcare capital vendor credibility."}},{"@type":"Question","name":"Does Clickmasters build HIPAA-compliant websites for Nashville healthcare?","acceptedAnswer":{"@type":"Answer","text":"Yes. HIPAA-native data architecture: HIPAA-covered analytics configuration, PHI-safe contact form processing with BAA-covered processors, and Tennessee Medical Board advertising compliance awareness throughout content and design."}},{"@type":"Question","name":"Does Clickmasters serve Brentwood, Franklin, and Greater Nashville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Middle Tennessee."}},{"@type":"Question","name":"How long does a Nashville web design project take?","acceptedAnswer":{"@type":"Answer","text":"Healthcare capital (HIPAA review adds time): 8-14 weeks. Amazon East Bank precision: 8-14 weeks. Authentic Music City consumer: 8-14 weeks. Enterprise: 14-24 weeks."}},{"@type":"Question","name":"What is authentic Music City design vs generic Tennessee brand design?","acceptedAnswer":{"@type":"Answer","text":"Authentic Music City design uses specific Nashville neighbourhood vocabulary — Germantown's brick industrial aesthetic, East Nashville's raw creative energy, Music Row's recording heritage — with authentic Nashville community photography rather than generic Tennessee landscape imagery. Nashville's growing creative community distinguishes genuine local cultural character from commercial approximation."}}]}`,
   cta: `Get Your Free Nashville Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Healthcare capital credential architecture — HCAHPS/VBP/ACO vocabulary gaps
+2. HIPAA compliance — data architecture violations
+3. Amazon East Bank precision — analytical evidence standard assessment
+4. Authentic Nashville character — genuine vs generic Tennessee brand design
+5. Core Web Vitals — LCP benchmarks for Nashville's growing digital-first community
+
+Phone +1-888-555-CLICK | nashville@clickmastersdigitalmarketing.com | The Gulch, Germantown, Brentwood, Franklin, and all of Middle Tennessee`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-nashville/","/seo-services-nashville/","/web-design-agency-atlanta/"],
   
   publishingChecklist: {

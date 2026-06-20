@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Wichita
 // URL: /content-marketing-wichita/
-// Generated: 2026-06-20T05:43:08.181Z
+// Generated: 2026-06-20T06:12:58.654Z
 
 export const ContentMarketing_Wichita = {
   service: "ContentMarketing",
@@ -18,6 +18,7 @@ export const ContentMarketing_Wichita = {
   meta: `Clickmasters content marketing in Wichita. Spirit AeroSystems ITAR-bounded publicly releasable aerostructures authority, Textron Aviation/Cessna business aviation, Koch industrial, and Via Christi YMYL. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Wichita Content Marketing","url":"https://clickmastersdigitalmarketing.com/content-marketing-wichita/","address":{"@type":"PostalAddress","addressLocality":"Wichita","addressRegion":"KS","addressCountry":"US"},"serviceType":"Content Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3300,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS CONTENT MARKETING IN WICHITA?
 
 Content marketing in Wichita is the creation of Spirit AeroSystems ITAR-bounded publicly releasable aerostructures authority content, Textron Aviation business aviation operational content, Koch Industries industrial content, and authentic Air Capital commercial voice content.
@@ -51,6 +52,7 @@ Case Study 3: Wichita Healthcare — Via Christi/Wesley YMYL Content
 Client: Oncology. Challenge: Generic content. Via Christi vocabulary absent.
 Programme: Via Christi/Wesley vocabulary + YMYL E-E-A-T + HIPAA
 Results (10 months): Page 1 for 9 queries | Via Christi: cited | YMYL: E-E-A-T | New patients: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — Content Marketing Wichita`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results (10 months): Page 1 for 9 queries | Via Christi: cited | YMYL: E-E-A-T |
     "answer": "Spirit's supplier quality community and Textron's business aviation engineering community use AI search. First-mover GEO/AEO for Wichita Spirit ITAR-bounded and Textron Aviation vocabulary earns ChatGPT/Perplexity citation."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Wichita?","acceptedAnswer":{"@type":"Answer","text":"Wichita content marketing: \$950/month (Foundation) to \$9,000+/month (Full Programme). Spirit AeroSystems ITAR-bounded aerostructures authority. Textron Aviation/Cessna business aviation. Koch industrial. Via Christi YMYL. Kansas retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Spirit AeroSystems ITAR-bounded aerostructures content for Wichita businesses?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review every piece, 737 fuselage manufacturing from public aerospace content, composite engineering from AIAA public domain, and Spirit community publicly releasable vocabulary — earning organic discovery from Spirit AeroSystems and Textron Aviation's Wichita supplier community at Kansas CPCs dramatically below Seattle aerospace equivalents."}},{"@type":"Question","name":"What is NBAA editorial for Wichita business aviation content marketing?","acceptedAnswer":{"@type":"Answer","text":"The National Business Aviation Association (NBAA) — whose annual convention is the world's largest business aviation gathering — has strong Textron Aviation and Wichita community representation. NBAA editorial content earns above-average credibility signals within the global business aviation professional community that Wichita's 35,000+ aviation employees represent."}},{"@type":"Question","name":"Does Clickmasters serve Andover, Derby, Haysville, and Greater Wichita?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Wichita MSA."}},{"@type":"Question","name":"What is SAE International aerospace editorial for Wichita content marketing?","acceptedAnswer":{"@type":"Answer","text":"SAE International (Society of Automotive Engineers) publishes the most authoritative commercial aerospace engineering technical content, with strong Wichita chapter representation from Spirit and Textron communities. SAE aerospace editorial engagement for Spirit/Textron ITAR-bounded content earns above-average aerospace supplier community credibility."}},{"@type":"Question","name":"How does GEO/AEO affect Wichita content marketing?","acceptedAnswer":{"@type":"Answer","text":"Spirit's supplier quality community and Textron's business aviation engineering community use AI search. First-mover GEO/AEO for Wichita Spirit ITAR-bounded and Textron Aviation vocabulary earns ChatGPT/Perplexity citation."}}]}`,
   cta: `Get Your Free Wichita Content Marketing Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. ITAR compliance — controlled vocabulary in existing content
+2. Spirit aerostructures vocabulary — publicly releasable content authority gaps
+3. Textron Aviation/Cessna vocabulary — business aviation content authority
+4. Via Christi YMYL — Kansas healthcare content standard
+5. GEO/AEO — ChatGPT/Perplexity for Wichita Spirit and Textron queries
+
+Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
+Old Town, Delano, Andover, and all of Greater Wichita`,
   internalLinks: ["/content-marketing-services/","/digital-marketing-agency-wichita/","/seo-services-wichita/","/content-marketing-kansas-city/"],
   
   publishingChecklist: {

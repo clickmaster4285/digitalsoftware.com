@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Boise
 // URL: /local-seo-services-boise/
-// Generated: 2026-06-20T05:43:11.710Z
+// Generated: 2026-06-20T06:13:00.889Z
 
 export const LocalSEO_Boise = {
   service: "LocalSEO",
@@ -18,6 +18,7 @@ export const LocalSEO_Boise = {
   meta: `Clickmasters Local SEO in Boise. Micron Technology semiconductor proximity GBP, St. Luke's/Saint Alphonsus YMYL credential, and North End/Warm Springs/Eagle professional quality. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boise Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-boise/","address":{"@type":"PostalAddress","addressLocality":"Boise","addressRegion":"ID","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3400,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN BOISE?
 
 Local SEO in Boise is the practice of optimising Google Business Profiles for the top 3 of Greater Boise's Local Pack — where Micron Technology creates semiconductor B2B proximity GBP value, St. Luke's and Saint Alphonsus define the YMYL academic medical standard for the Treasure Valley, and the North End, Warm Springs, and Eagle represent the highest-income professional communities in the Boise MSA.
@@ -53,6 +54,7 @@ Case Study 3: Southeast Boise Technology Services — Micron Proximity GBP
 Client: Semiconductor equipment, Southeast Boise (Micron-adjacent). Challenge: No Micron vocabulary. Generic GBP.
 Programme: Micron DRAM/NAND vocabulary + Southeast Boise proximity + semiconductor photography
 Results (3 months): Top 3 Local Pack Boise semiconductor consulting | Micron community near-me: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — Local SEO Boise`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results (3 months): Top 3 Local Pack Boise semiconductor consulting | Micron com
     "answer": "Yes. Treefort Music Festival (March, 5-day festival) creates a review request opportunity for Boise arts, food, and entertainment businesses. Post-Treefort (late March) review request campaigns earn above-average response rates from the City of Trees most engaged arts community."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Boise?","acceptedAnswer":{"@type":"Answer","text":"Boise Local SEO: \$850/month (single) to \$8,500+/month (enterprise). Micron Technology semiconductor proximity GBP. St. Luke's/Saint Alphonsus YMYL. North End/Eagle professional quality. HIPAA review management. Idaho retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Micron Technology semiconductor proximity GBP for Boise businesses?","acceptedAnswer":{"@type":"Answer","text":"Micron DRAM/NAND vocabulary in GBP service descriptions, Southeast Boise/Meridian Micron campus proximity signals, and semiconductor professional photography — earning above-average B2B near-me consideration from Micron Technology's 7,000+ employee Boise semiconductor engineering and procurement community."}},{"@type":"Question","name":"Does Clickmasters serve Meridian, Nampa, Eagle, and Greater Boise?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Boise: Ada County, Canyon County, Gem County."}},{"@type":"Question","name":"How many reviews for Boise Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Boise benchmarks: North End/Warm Springs/Eagle professional services: 4.4+ stars, 50-100+ reviews. St. Luke's/Saint Alphonsus-adjacent healthcare: 4.4+, 50-100+. Southeast Boise semiconductor B2B: 4.3+, 30-60+."}},{"@type":"Question","name":"What is the North End/Warm Springs/Eagle professional quality GBP for Boise?","acceptedAnswer":{"@type":"Answer","text":"The North End's California-in-migration technology professionals (Micron engineers from San Jose, HP Inc staff from Silicon Valley), Warm Springs' premier residential corridor, and Eagle's high-income suburban professional community — evaluating GBPs with the California transplant technology professional precision: CFA Institute verification for financial advisory, St. Luke's affiliation for healthcare, and Treasure Valley mountain lifestyle institutional photography."}},{"@type":"Question","name":"Does Treefort Music Festival timing affect Boise GBP review strategy?","acceptedAnswer":{"@type":"Answer","text":"Yes. Treefort Music Festival (March, 5-day festival) creates a review request opportunity for Boise arts, food, and entertainment businesses. Post-Treefort (late March) review request campaigns earn above-average response rates from the City of Trees most engaged arts community."}}]}`,
   cta: `Get Your Free Boise Local SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Micron Technology proximity — DRAM/NAND vocabulary absent from GBP
+2. St. Luke's/Saint Alphonsus credential display gaps
+3. HIPAA review management compliance
+4. CFA/CFP verification — North End/Eagle professional standard
+5. Review volume vs Micron/Albertsons professional community benchmark
+
+Phone +1-888-555-CLICK | boise@clickmastersdigitalmarketing.com
+North End, Warm Springs, Eagle, Meridian, and all of Greater Boise`,
   internalLinks: ["/local-seo-services/","/seo-services-boise/","/digital-marketing-agency-boise/","/local-seo-services-salt-lake-city/"],
   
   publishingChecklist: {

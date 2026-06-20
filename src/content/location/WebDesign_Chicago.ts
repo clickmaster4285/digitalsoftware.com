@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Chicago
 // URL: /web-design-agency-chicago/
-// Generated: 2026-06-20T05:43:15.253Z
+// Generated: 2026-06-20T06:13:03.517Z
 
 export const WebDesign_Chicago = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Chicago = {
   meta: `Clickmasters web design in Chicago. Fortune 500-vendor-credible websites for Caterpillar, Boeing, Abbott ecosystem with Illinois BIPA-native analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Chicago Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-chicago/","address":{"@type":"PostalAddress","addressLocality":"Chicago","addressRegion":"IL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN CHICAGO?
 
 A Chicago web design agency builds websites combining Fortune 500 vendor credibility architecture for the Caterpillar, Boeing, and Abbott commercial ecosystem, Illinois Biometric Information Privacy Act-native analytics, and the institutional visual quality that Chicago's most demanding commercial professional community evaluates.
@@ -51,6 +52,7 @@ Case Study 3: Chicago Loop Financial Advisory — FINRA BIPA Institutional Redes
 Client: Wealth management, Chicago Loop (\$2.4B AUM). Challenge: FINRA violations in website. Non-BIPA analytics. Below institutional visual standard.
 Programme: FINRA compliance redesign + BIPA-native analytics + GIPS display + institutional Loop Chicago visual
 Results: FINRA examination: zero findings | BIPA: Illinois AG pre-audit passed | HNW enquiries: +3x | New AUM from website: \$88M`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Chicago`,
   faqs: [
   {
@@ -78,8 +80,17 @@ Results: FINRA examination: zero findings | BIPA: Illinois AG pre-audit passed |
     "answer": "AS9100D/IATF 16949/NADCAP accreditation with certification authority links, Cpk/PPM process capability documentation pages, manufacturing precision photography, and Thomas Net supplier profile integration signals — the manufacturing credibility architecture that earns Fortune 500 supplier RFQ invitations from Boeing and Caterpillar procurement."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Chicago?","acceptedAnswer":{"@type":"Answer","text":"Chicago web design: \$7,000-\$20,000 (Fortune 500 vendor/manufacturing/FINRA), \$32,000-\$85,000+ (enterprise). Fortune 500 vendor credibility standard. Illinois BIPA-native analytics. WCAG 2.1 AA. Fixed-price contracts."}},{"@type":"Question","name":"What is Fortune 500 Chicago vendor credibility architecture?","acceptedAnswer":{"@type":"Answer","text":"ISO/AS9100D/SOC 2/IATF certifications with authority verification links (not logo badges), LinkedIn-verifiable named executive credentials, Fortune 500-scale case study metrics at Caterpillar/Boeing/Abbott client depth, and Illinois BIPA-native analytics. Without these: digital due diligence dismissal by Chicago's most commercially valuable Fortune 500 procurement professionals."}},{"@type":"Question","name":"Does Clickmasters build Illinois BIPA-native websites for Chicago businesses?","acceptedAnswer":{"@type":"Answer","text":"Yes. BIPA-native website analytics configuration: analytics implementations that avoid BIPA-regulated biometric data collection from Illinois residents without appropriate BIPA consent. Illinois AG enforcement risk minimisation as a standard configuration element in every Chicago website design."}},{"@type":"Question","name":"Does Clickmasters serve Schaumburg, Naperville, and Chicagoland?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Chicagoland."}},{"@type":"Question","name":"How long does a Chicago web design project take?","acceptedAnswer":{"@type":"Answer","text":"Fortune 500 vendor: 8-14 weeks. Elk Grove manufacturing (IATF/NADCAP verification adds time): 10-16 weeks. FINRA financial: 8-14 weeks. Enterprise: 18-30 weeks."}},{"@type":"Question","name":"What is Elk Grove Village manufacturing website precision?","acceptedAnswer":{"@type":"Answer","text":"AS9100D/IATF 16949/NADCAP accreditation with certification authority links, Cpk/PPM process capability documentation pages, manufacturing precision photography, and Thomas Net supplier profile integration signals — the manufacturing credibility architecture that earns Fortune 500 supplier RFQ invitations from Boeing and Caterpillar procurement."}}]}`,
   cta: `Get Your Free Chicago Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Fortune 500 vendor credibility — does your website pass Caterpillar/Boeing digital due diligence?
+2. Illinois BIPA compliance — analytics biometric data collection exposure
+3. FINRA/HIPAA violations — website advertising compliance
+4. Elk Grove manufacturing precision — AS9100D/IATF/NADCAP credential gaps
+5. Core Web Vitals — LCP, CLS, INP benchmarks
+
+Phone +1-888-555-CLICK | chicago@clickmastersdigitalmarketing.com | West Loop, Elk Grove Village, Naperville, and all of Chicagoland`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-chicago/","/seo-services-chicago/","/web-design-agency-dallas/"],
   
   publishingChecklist: {

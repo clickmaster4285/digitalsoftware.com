@@ -254,7 +254,7 @@ function parsePublishingChecklist(rows: any[]): { checklist: any; url: string | 
 }
 
 // ============================================
-// 5. PROCESS FILE (UPDATED)
+// 5. PROCESS FILE (FIXED - Added all missing fields)
 // ============================================
 function processFile(filename: string): any {
   console.log(`  📊 Processing: ${filename}`);
@@ -291,8 +291,26 @@ function processFile(filename: string): any {
     const faqTitle = mergedData['H2 — FAQ'] || '';
     
     // Extract additional fields
-    const pas = mergedData['SECTION — PAS'] || '';
+    // Support both SECTION — PAS and SECTION — BAB
+    const pas = mergedData['SECTION — PAS'] || mergedData['SECTION — BAB'] || '';
     const services = mergedData['SERVICES'] || '';
+    
+    // NEW FIELDS
+    const breadcrumb = mergedData['BREADCRUMB'] || '';
+    const pricing = mergedData['PRICING'] || '';
+    const faqsAlt = mergedData['FAQs'] || '';
+    const ctaBody = mergedData['CTA'] || '';
+    
+    // Log which fields were found
+    if (mergedData['SECTION — PAS']) {
+      console.log(`    ✅ Found PAS`);
+    } else if (mergedData['SECTION — BAB']) {
+      console.log(`    ✅ Found BAB (mapped to pas)`);
+    }
+    if (breadcrumb) console.log(`    ✅ Found Breadcrumb`);
+    if (pricing) console.log(`    ✅ Found Pricing`);
+    if (faqsAlt) console.log(`    ✅ Found FAQs (alternate format)`);
+    if (ctaBody) console.log(`    ✅ Found CTA Body`);
     
     return {
       ...parsedInfo,
@@ -304,6 +322,10 @@ function processFile(filename: string): any {
       faqTitle: faqTitle,
       pas: pas,
       services: services,
+      breadcrumb: breadcrumb,
+      pricing: pricing,
+      faqsAlt: faqsAlt,
+      ctaBody: ctaBody,
     };
   } catch (error) {
     console.error(`  ❌ Error processing ${filename}:`, error);
@@ -328,15 +350,22 @@ function formatValue(value: any): string {
 // 7. GENERATE SINGLE FILE (UPDATED)
 // ============================================
 function generateSingleFile(data: any, filename: string) {
-  const { service, city, citySlug, serviceSlug, extractedUrl, wordCount, faqs, faqTitle, pas, services } = data;
+  const { 
+    service, city, citySlug, serviceSlug, extractedUrl, wordCount, 
+    faqs, faqTitle, pas, services, breadcrumb, pricing, faqsAlt, ctaBody 
+  } = data;
   const { data: contentData, checklist } = data;
   
   const finalSlug = extractedUrl || `/locations/${serviceSlug}/${citySlug}`;
   
   console.log(`    🔗 Slug: "${finalSlug}" (${extractedUrl ? '✅ from Excel' : '⚠️ generated'})`);
   console.log(`    📋 FAQs: ${faqs.length} questions`);
-  console.log(`    📝 PAS: ${pas ? '✅' : '❌'}`);
+  console.log(`    📝 PAS/BAB: ${pas ? '✅' : '❌'}`);
   console.log(`    📝 Services: ${services ? '✅' : '❌'}`);
+  console.log(`    📝 Breadcrumb: ${breadcrumb ? '✅' : '❌'}`);
+  console.log(`    📝 Pricing: ${pricing ? '✅' : '❌'}`);
+  console.log(`    📝 FAQs Alt: ${faqsAlt ? '✅' : '❌'}`);
+  console.log(`    📝 CTA Body: ${ctaBody ? '✅' : '❌'}`);
   
   // Clean features - remove "FEATURES:" header if present
   let featuresText = contentData['SECTION — FAB'] || '';
@@ -375,15 +404,19 @@ export const ${varName} = {\n`;
   content += `  meta: ${formatValue(contentData['META'] || '')},\n`;
   content += `  schema: ${formatValue(contentData['SCHEMA'] || null)},\n`;
   content += `  wordCount: ${wordCount},\n`;
+  content += `  breadcrumb: ${formatValue(breadcrumb)},\n`;
   content += `  geoAeoBlock: ${formatValue(contentData['GEO/AEO BLOCK'] || '')},\n`;
   content += `  features: ${formatValue(featuresText)},\n`;
   content += `  pas: ${formatValue(pas)},\n`;
   content += `  services: ${formatValue(servicesText)},\n`;
   content += `  caseStudies: ${formatValue(contentData['CASE STUDIES'] || '')},\n`;
+  content += `  pricing: ${formatValue(pricing)},\n`;
   content += `  faqTitle: ${formatValue(faqTitle)},\n`;
   content += `  faqs: ${JSON.stringify(faqs, null, 2)},\n`;
+  content += `  faqsAlt: ${formatValue(faqsAlt)},\n`;
   content += `  faqSchema: ${formatValue(contentData['FAQ SCHEMA'] || null)},\n`;
   content += `  cta: ${formatValue(contentData['H2 — CTA'] || '')},\n`;
+  content += `  ctaBody: ${formatValue(ctaBody)},\n`;
   
   const linksRaw = contentData['INTERNAL LINKS'] || '';
   const linksArray = linksRaw.split(/[\n,]+/).filter(Boolean).map((s: string) => {

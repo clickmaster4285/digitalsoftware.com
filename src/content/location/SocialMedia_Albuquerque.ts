@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Albuquerque
 // URL: /social-media-marketing-albuquerque/
-// Generated: 2026-06-20T05:43:14.197Z
+// Generated: 2026-06-20T06:13:02.500Z
 
 export const SocialMedia_Albuquerque = {
   service: "SocialMedia",
@@ -18,6 +18,7 @@ export const SocialMedia_Albuquerque = {
   meta: `Clickmasters social media in Albuquerque. Sandia/LANL ITAR-bounded national security LinkedIn, Intel Rio Rancho semiconductor community, and authentic Nob Hill/Old Town/Corrales Duke City brand social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Albuquerque Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-albuquerque/","address":{"@type":"PostalAddress","addressLocality":"Albuquerque","addressRegion":"NM","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN ALBUQUERQUE?
 
 Social media marketing in Albuquerque is the strategic management of social platforms across three commercially distinct communities: the Sandia/LANL national security professional LinkedIn ecosystem, the Intel Rio Rancho semiconductor engineering community, and the authentic Duke City consumer brand community in Nob Hill, Old Town, and Corrales — with Balloon Fiesta seasonal social calendar awareness unique to Albuquerque.
@@ -51,6 +52,7 @@ Case Study 3: Nob Hill Consumer Brand — Authentic Duke City Balloon Fiesta Soc
 Client: Artisan brand, Nob Hill (\$1.0M DTC). Challenge: Generic 'New Mexico lifestyle' missing Balloon Fiesta seasonal calendar awareness.
 Programme: Nob Hill arts community vocabulary + Old Town historic character + October Balloon Fiesta seasonal content + Corrales agricultural
 Results (5 months): October Balloon Fiesta content: 4.2x above average | Nob Hill community features: 2 | DTC revenue: +\$80K`,
+  pricing: ``,
   faqTitle: `FAQs — Social Media Marketing Albuquerque`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results (5 months): October Balloon Fiesta content: 4.2x above average | Nob Hil
     "answer": "ITAR vocabulary review is applied to every LinkedIn content piece before publication — ensuring only publicly available Sandia/LANL community vocabulary appears in social content. ITAR-controlled technical vocabulary inadvertently appearing in LinkedIn posts creates export control exposure. Clickmasters' ITAR vocabulary review eliminates this risk while preserving organic national security community LinkedIn engagement."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Albuquerque?","acceptedAnswer":{"@type":"Answer","text":"Albuquerque social media: \$1,000/month (LinkedIn growth) to \$10,000+/month (enterprise). Sandia/LANL ITAR-bounded national security. Intel Rio Rancho semiconductor engineering. Authentic Duke City brand with Balloon Fiesta calendar awareness. New Mexico retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Sandia/LANL ITAR-bounded national security LinkedIn for Albuquerque businesses?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review for every LinkedIn piece followed by Sandia/LANL publicly releasable community vocabulary: computing systems and cybersecurity research intelligence within publicly available boundaries, advanced manufacturing methodology, and DOE/NNSA publicly available research — earning Sandia and LANL LinkedIn engagement without ITAR export control exposure."}},{"@type":"Question","name":"What is the Balloon Fiesta seasonal social calendar for Albuquerque consumer brands?","acceptedAnswer":{"@type":"Answer","text":"The Albuquerque International Balloon Fiesta (October, 800,000+ annual visitors) creates the most commercially leverageable seasonal social engagement window of any New Mexico event. Albuquerque consumer brands whose October social content authentically engages the Balloon Fiesta community vocabulary earn 4-5x above-average organic engagement from the most internationally recognisable New Mexico event."}},{"@type":"Question","name":"Does Clickmasters serve Rio Rancho, Corrales, and Greater Albuquerque?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Albuquerque MSA."}},{"@type":"Question","name":"What is authentic Duke City consumer brand social for Albuquerque?","acceptedAnswer":{"@type":"Answer","text":"Nob Hill's Central Avenue independent arts and food community, Old Town's historic adobe commercial district character, and Corrales' rural agricultural and pastoral community — the specific Albuquerque neighbourhood identities that distinguish genuinely locally-rooted Duke City brands from generic New Mexico outdoor lifestyle approximations."}},{"@type":"Question","name":"How does ITAR compliance apply to Albuquerque social media?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review is applied to every LinkedIn content piece before publication — ensuring only publicly available Sandia/LANL community vocabulary appears in social content. ITAR-controlled technical vocabulary inadvertently appearing in LinkedIn posts creates export control exposure. Clickmasters' ITAR vocabulary review eliminates this risk while preserving organic national security community LinkedIn engagement."}}]}`,
   cta: `Get Your Free Albuquerque Social Media Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. ITAR compliance — does your current LinkedIn content contain controlled vocabulary?
+2. Sandia/LANL publicly releasable vocabulary — national security community LinkedIn engagement
+3. Intel Rio Rancho semiconductor — fab/materials engineering LinkedIn precision
+4. Balloon Fiesta seasonal — is your Duke City brand Balloon Fiesta-aware?
+5. Nob Hill/Old Town vocabulary — authentic Duke City brand assessment
+
+Phone +1-888-555-CLICK | albuquerque@clickmastersdigitalmarketing.com
+Nob Hill, Old Town, Corrales, Rio Rancho, and all of Greater Albuquerque`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-albuquerque/","/seo-services-albuquerque/","/social-media-marketing-denver/"],
   
   publishingChecklist: {

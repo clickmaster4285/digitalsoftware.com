@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: NewOrleans
 // URL: /email-marketing-new-orleans/
-// Generated: 2026-06-20T05:43:09.643Z
+// Generated: 2026-06-20T06:12:59.830Z
 
 export const EmailMarketing_NewOrleans = {
   service: "EmailMarketing",
@@ -18,6 +18,7 @@ export const EmailMarketing_NewOrleans = {
   meta: `Clickmasters email marketing in New Orleans. Ochsner/Tulane HIPAA health IT pipeline, Entergy utility nurture, and Mardi Gras/Jazz Fest convention hospitality seasonal-aware email. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New Orleans Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-new-orleans/","address":{"@type":"PostalAddress","addressLocality":"New Orleans","addressRegion":"LA","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN NEW ORLEANS?
 
 Email marketing in New Orleans is the strategic management of email as an Ochsner/Tulane HIPAA-compliant health IT procurement pipeline, Entergy Corporation utility technology nurture channel, and Mardi Gras/Jazz Fest-calendar-aware convention hospitality seasonal revenue channel.
@@ -51,6 +52,7 @@ Case Study 3: New Orleans Convention Tech — Mardi Gras/Jazz Fest Seasonal Emai
 Client: Event technology SaaS, New Orleans (\$3.8M ARR). Challenge: Generic quarterly email. Mardi Gras/Jazz Fest calendar unaware. Convention community not engaging.
 Programme: Mardi Gras pre-season email (January) + Jazz Fest event management (April) + Essence Festival (July) + Morial Convention named sequences
 Results: Mardi Gras pre-season: 4.0x above average | Jazz Fest: 3.8x | Convention procurement cited as 'only vendor email anticipating New Orleans event season rhythm' | Pipeline: \$900K`,
+  pricing: ``,
   faqTitle: `FAQs — Email Marketing New Orleans`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: Mardi Gras pre-season: 4.0x above average | Jazz Fest: 3.8x | Conventio
     "answer": "No US city has New Orleans' combination of commercially leverageable events — Mardi Gras, Jazz Fest, French Quarter Festival, Essence Festival, and the Saints/Pelicans season creating predictable annual engagement windows throughout the calendar year. Convention management technology, hotel revenue management, and event analytics vendors who systematically anticipate each NOLA seasonal window earn sustained above-average engagement throughout the year rather than one or two seasonal peaks."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in New Orleans?","acceptedAnswer":{"@type":"Answer","text":"New Orleans email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). Ochsner/Tulane HIPAA health IT pipeline. Entergy utility nurture. Mardi Gras/Jazz Fest convention seasonal. Louisiana retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is the Mardi Gras/Jazz Fest convention hospitality seasonal email strategy for New Orleans?","acceptedAnswer":{"@type":"Answer","text":"New Orleans annual events calendar email timing: January-February (Mardi Gras pre-season — convention capacity analytics and hospitality technology content); April-May (Jazz Fest season — event management technology operational intelligence); July (Essence Festival — visitor economy analytics content); August-December (post-season operational improvement planning). Convention and hospitality vendors whose email anticipates these windows earn 3-4x above-average engagement from New Orleans' world-class convention community."}},{"@type":"Question","name":"What is Ochsner/Tulane HIPAA health IT pipeline email for New Orleans businesses?","acceptedAnswer":{"@type":"Answer","text":"Ochsner Health cardiac outcome analytics updates, Tulane School of Medicine clinical research programme intelligence, LSU Health Sciences Center operational content — maintaining Ochsner, Tulane, and LSU Health procurement contact relationships through 90-180 day Louisiana academic health system evaluation cycles with HIPAA-compliant email data handling throughout."}},{"@type":"Question","name":"Does Clickmasters serve Metairie, Baton Rouge, Covington, and Greater New Orleans?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater New Orleans MSA."}},{"@type":"Question","name":"How long does Ochsner/Tulane email produce health IT pipeline results?","acceptedAnswer":{"@type":"Answer","text":"Ochsner/Tulane re-engagement: 21-30 days. Louisiana academic health system evaluation invitations: 90-150 days. Full Ochsner/Tulane health IT pipeline: 6-10 months."}},{"@type":"Question","name":"What makes New Orleans convention hospitality email marketing calendar uniquely commercially leverageable?","acceptedAnswer":{"@type":"Answer","text":"No US city has New Orleans' combination of commercially leverageable events — Mardi Gras, Jazz Fest, French Quarter Festival, Essence Festival, and the Saints/Pelicans season creating predictable annual engagement windows throughout the calendar year. Convention management technology, hotel revenue management, and event analytics vendors who systematically anticipate each NOLA seasonal window earn sustained above-average engagement throughout the year rather than one or two seasonal peaks."}}]}`,
   cta: `Get Your Free New Orleans Email Marketing Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Ochsner/Tulane YMYL clinical precision — vocabulary check in current health IT email
+2. Ochsner/Tulane cold-off rate — % without active HubSpot sequences
+3. Entergy utility vocabulary — grid modernisation precision in email content
+4. Mardi Gras/Jazz Fest timing — is your convention email calendar-aware?
+5. HIPAA compliance — Ochsner/Tulane email data handling
+
+Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
+Metairie, Garden District, Uptown, French Quarter, and all of Greater New Orleans`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-new-orleans/","/seo-services-new-orleans/","/email-marketing-houston/"],
   
   publishingChecklist: {

@@ -2,7 +2,7 @@
 // Service: SEO
 // City: KansasCity
 // URL: /seo-services-kansas-city/
-// Generated: 2026-06-20T05:43:13.136Z
+// Generated: 2026-06-20T06:13:02.197Z
 
 export const SEO_KansasCity = {
   service: "SEO",
@@ -18,6 +18,7 @@ export const SEO_KansasCity = {
   meta: `Clickmasters SEO in Kansas City. Oracle Health (Cerner) health IT authority, Hallmark Cards brand content, Garmin enterprise, and Children's Mercy/KU Medical YMYL for the Heart of America. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Kansas City SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-kansas-city/","address":{"@type":"PostalAddress","addressLocality":"Kansas City","addressRegion":"MO","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN KANSAS CITY?
 
 SEO in Kansas City is the practice of earning organic search authority in the Heart of America — where Oracle Health (formerly Cerner) defines the health IT commercial vocabulary, Hallmark Cards creates a unique consumer brand B2B community, Garmin's Olathe headquarters generates technology enterprise procurement, and Children's Mercy Kansas City and the University of Kansas Medical Center define the Midwest's academic paediatric and medical content standard.
@@ -55,6 +56,7 @@ Case Study 3: KC Healthcare Practice — Children's Mercy/KU Medical YMYL SEO
 Client: Paediatrics, KC (Children's Mercy-affiliated). Challenge: Generic content below Children's Mercy YMYL standard.
 Programme: Children's Mercy affiliation content + KU Medical academic vocabulary + YMYL E-E-A-T + HIPAA
 Results (10 months): Page 1 for 10 KC paediatric queries | YMYL: E-E-A-T recognised | Children's Mercy affiliation: cited | New patients: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — SEO Kansas City`,
   faqs: [
   {
@@ -82,8 +84,18 @@ Results (10 months): Page 1 for 10 KC paediatric queries | YMYL: E-E-A-T recogni
     "answer": "Oracle Health's health IT engineering community and Garmin's precision technology community use AI search tools for vendor research. First-mover GEO/AEO content in KC Oracle Health and Garmin vocabulary earns ChatGPT/Perplexity citation."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Kansas City SEO: \$1,000/month (Foundation) to \$10,000+/month (Enterprise). Oracle Health/Cerner health IT vocabulary. Hallmark/Garmin enterprise. Children's Mercy/KU Medical YMYL. HIPAA healthcare. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Oracle Health (Cerner) health IT SEO for Kansas City businesses?","acceptedAnswer":{"@type":"Answer","text":"Oracle Health (Cerner) SEO builds organic authority in the Cerner PowerChart EHR, Millennium platform, CommunityWorks, and FHIR/HL7 interoperability vocabulary that Oracle Health's Kansas City procurement evaluates for vendor expertise. Generic 'health IT Kansas City' content misses every Oracle Health/Cerner-specific operational vocabulary search from the world's largest health IT company's Kansas City community."}},{"@type":"Question","name":"What is Hallmark Cards brand content SEO for Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Hallmark Cards consumer brand SEO builds organic authority in consumer brand retail analytics vocabulary, corporate gifting strategy content, and the specific retail management operational intelligence that Hallmark's Crown Center procurement community evaluates for creative technology and retail consulting vendor selection."}},{"@type":"Question","name":"Does Clickmasters serve Overland Park, Leawood, Olathe, and Greater Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Kansas City: Jackson County, Johnson County (Overland Park, Olathe, Leawood), Wyandotte County, and the full KC bi-state MSA."}},{"@type":"Question","name":"How long does Kansas City Oracle Health/Cerner SEO produce results?","acceptedAnswer":{"@type":"Answer","text":"Oracle Health vocabulary rankings: 4-7 months. Cerner/Oracle Health community editorial: 3-5 months. Oracle Health VP organic discovery: 6-10 months."}},{"@type":"Question","name":"How does GEO/AEO affect Kansas City SEO?","acceptedAnswer":{"@type":"Answer","text":"Oracle Health's health IT engineering community and Garmin's precision technology community use AI search tools for vendor research. First-mover GEO/AEO content in KC Oracle Health and Garmin vocabulary earns ChatGPT/Perplexity citation."}}]}`,
   cta: `Get Your Free Kansas City SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Oracle Health/Cerner vocabulary gap — PowerChart/Millennium searches you're missing
+2. HIPAA compliance in health IT content
+3. Children's Mercy/KU Medical YMYL standard — academic credential gaps
+4. Garmin/Hallmark enterprise vocabulary — Overland Park tech content gaps
+5. GEO/AEO — ChatGPT/Perplexity for KC Oracle Health and Children's Mercy queries
+
+Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
+Overland Park, Leawood, Olathe, North KC, and all of Greater Kansas City`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-kansas-city/","/seo-services-st-louis/","/seo-services-chicago/"],
   
   publishingChecklist: {

@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Knoxville
 // URL: /social-media-marketing-knoxville/
-// Generated: 2026-06-20T05:43:14.556Z
+// Generated: 2026-06-20T06:13:02.807Z
 
 export const SocialMedia_Knoxville = {
   service: "SocialMedia",
@@ -18,6 +18,7 @@ export const SocialMedia_Knoxville = {
   meta: `Clickmasters social media in Knoxville. TVA utility LinkedIn, ORNL energy community, Pilot Flying J fleet, and authentic Market Square/Old City/Big Orange Tennessee Valley brand social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Knoxville Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-knoxville/","address":{"@type":"PostalAddress","addressLocality":"Knoxville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3300,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN KNOXVILLE?
 
 Social media marketing in Knoxville is management of social platforms across three communities: the TVA/ORNL utility and nuclear energy LinkedIn ecosystem, the Pilot Flying J fleet management professional community, and the authentic Tennessee Valley consumer brand community in Market Square, the Old City, and the Great Smoky Mountains corridor.
@@ -51,6 +52,7 @@ Case Study 3: Market Square Consumer Brand — Big Orange/Smoky Mountain Seasona
 Client: Hospitality brand, Market Square (\$1.0M). Challenge: Generic 'Knoxville hospitality' missing UT Volunteers season and Smoky Mountain proximity.
 Programme: Tennessee Volunteers season calendar + Great Smoky Mountains weekend content + Market Square downtown
 Results (5 months): Big Orange season: 4.0x above average | Smoky Mountain weekends: 3.6x | Revenue: +\$70K`,
+  pricing: ``,
   faqTitle: `FAQs — Social Media Marketing Knoxville`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results (5 months): Big Orange season: 4.0x above average | Smoky Mountain weeke
     "answer": "Pilot Flying J LinkedIn demonstrates travel centre operations specifics, fleet fuel management analytics, and trucking operational intelligence — earning genuine Pilot Flying J Knoxville fleet management and trucking community LinkedIn engagement."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Knoxville social media: \$950/month (LinkedIn growth) to \$9,500+/month (enterprise). TVA utility LinkedIn. Pilot Flying J fleet. Authentic Tennessee Valley brand with Big Orange seasonal. Tennessee TIPA-aware. Tennessee retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is TVA utility LinkedIn for Knoxville businesses?","acceptedAnswer":{"@type":"Answer","text":"TVA LinkedIn demonstrates nuclear plant operations intelligence, grid reliability management specifics, and renewable energy integration analytics — earning genuine TVA utility engineering and operations LinkedIn engagement."}},{"@type":"Question","name":"What is the Tennessee Volunteers Big Orange seasonal social opportunity for Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Tennessee Volunteers football season (September–January) creates Knoxville's highest annual consumer brand social engagement window. Market Square restaurants, hospitality, and retail whose social content authentically engages Big Orange football community vocabulary earn 3-4x above-average engagement during Tennessee's most passionately engaged college sports community season."}},{"@type":"Question","name":"Does Clickmasters serve Farragut, Maryville, Oak Ridge, and Greater Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Knoxville MSA."}},{"@type":"Question","name":"What is authentic Tennessee Valley consumer brand social for Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Market Square's vibrant downtown energy, the Old City's arts community, Sequoyah Hills' Tennessee River elegance, the Great Smoky Mountains' outdoor lifestyle proximity, and the Tennessee Volunteers' Big Orange football heritage — the specific Knoxville identities distinguishing genuinely locally-rooted Tennessee Valley brands."}},{"@type":"Question","name":"How does Pilot Flying J fleet LinkedIn work for Knoxville logistics technology vendors?","acceptedAnswer":{"@type":"Answer","text":"Pilot Flying J LinkedIn demonstrates travel centre operations specifics, fleet fuel management analytics, and trucking operational intelligence — earning genuine Pilot Flying J Knoxville fleet management and trucking community LinkedIn engagement."}}]}`,
   cta: `Get Your Free Knoxville Social Media Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. ITAR compliance — ORNL community LinkedIn exposure
+2. TVA vocabulary — utility LinkedIn precision
+3. Pilot Flying J fleet — trucking LinkedIn community engagement
+4. Big Orange/Smoky Mountain seasonal — is your brand Tennessee Valley calendar-aware?
+5. HIPAA compliance — healthcare social content
+
+Phone +1-888-555-CLICK | knoxville@clickmastersdigitalmarketing.com
+Market Square, Old City, Farragut, and all of Greater Knoxville`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-knoxville/","/seo-services-knoxville/","/social-media-marketing-nashville/"],
   
   publishingChecklist: {

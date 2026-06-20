@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Boise
 // URL: /seo-services-boise/
-// Generated: 2026-06-20T05:43:12.922Z
+// Generated: 2026-06-20T06:13:01.996Z
 
 export const SEO_Boise = {
   service: "SEO",
@@ -18,6 +18,7 @@ export const SEO_Boise = {
   meta: `Clickmasters SEO in Boise. Micron Technology DRAM/NAND semiconductor B2B authority, Albertsons grocery retail analytics, St. Luke's/Saint Alphonsus YMYL, and California in-migration Idaho tax. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boise SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-boise/","address":{"@type":"PostalAddress","addressLocality":"Boise","addressRegion":"ID","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN BOISE?
 
 SEO in Boise is the practice of earning organic search authority in the City of Trees — where Micron Technology's headquarters creates one of the most commercially significant semiconductor B2B organic search opportunities outside of Silicon Valley, Albertsons' Boise headquarters generates grocery retail analytics and consumer packaged goods B2B opportunities, and St. Luke's Health System and Saint Alphonsus Regional Medical Center define the YMYL academic medical standard for the Treasure Valley.
@@ -55,6 +56,7 @@ Case Study 3: Boise Healthcare Practice — St. Luke's/Saint Alphonsus YMYL SEO
 Client: Internal medicine (St. Luke's-affiliated). Challenge: Generic content. Non-HIPAA.
 Programme: St. Luke's/Saint Alphonsus vocabulary + YMYL E-E-A-T + HIPAA
 Results (10 months): Page 1 for 9 Boise healthcare queries | YMYL: E-E-A-T | St. Luke's: cited | New patients: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — SEO Boise`,
   faqs: [
   {
@@ -82,8 +84,18 @@ Results (10 months): Page 1 for 9 Boise healthcare queries | YMYL: E-E-A-T | St.
     "answer": "Micron Technology's manufacturing engineering community and Albertsons' retail analytics community use AI search for vendor research. First-mover GEO/AEO for Boise Micron DRAM/NAND and Albertsons vocabulary earns ChatGPT/Perplexity citation before competitors."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Boise?","acceptedAnswer":{"@type":"Answer","text":"Boise SEO: \$950/month (Foundation) to \$9,500+/month (Enterprise). Micron Technology DRAM/NAND semiconductor vocabulary. Albertsons grocery retail analytics. St. Luke's/Saint Alphonsus YMYL. California in-migration Idaho tax. Idaho retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Micron Technology semiconductor B2B SEO for Boise businesses?","acceptedAnswer":{"@type":"Answer","text":"Micron SEO builds organic authority in one of the world's largest memory chip company's operational vocabulary: DRAM memory cell architecture analytics, NAND flash memory fabrication technology, semiconductor wafer processing operational intelligence — earning organic discovery from Micron's 7,000+ employee Boise campus at Idaho CPCs significantly below Silicon Valley semiconductor equivalents."}},{"@type":"Question","name":"What is the California in-migration Idaho tax advantage SEO opportunity for Boise?","acceptedAnswer":{"@type":"Answer","text":"California's 13.3% top income tax rate vs Idaho's flat 5.8% income tax creates a professional services SEO opportunity for Boise financial advisory, legal, and real estate businesses serving the growing California in-migration community. Organic content demonstrating Idaho tax advantage earns above-average conversion from California professionals searching Treasure Valley relocation financial planning."}},{"@type":"Question","name":"Does Clickmasters serve Meridian, Nampa, Eagle, and Greater Boise?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Boise: Ada County, Canyon County (Nampa/Caldwell), Gem County, and the full Boise MSA."}},{"@type":"Question","name":"What is Albertsons grocery retail analytics SEO for Boise businesses?","acceptedAnswer":{"@type":"Answer","text":"Albertsons SEO builds organic authority in the US's second-largest supermarket chain's operational vocabulary: shopper analytics platform specifics, CPG supplier analytics, loyalty programme technology, and grocery retail supply chain content — earning organic discovery from Albertsons' 2,200+ store Boise headquarters procurement."}},{"@type":"Question","name":"How does GEO/AEO affect Boise SEO?","acceptedAnswer":{"@type":"Answer","text":"Micron Technology's manufacturing engineering community and Albertsons' retail analytics community use AI search for vendor research. First-mover GEO/AEO for Boise Micron DRAM/NAND and Albertsons vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Boise SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Micron Technology vocabulary gap — DRAM/NAND/semiconductor searches you're missing
+2. HIPAA compliance in healthcare content
+3. Albertsons vocabulary — grocery retail analytics B2B gaps
+4. St. Luke's/Saint Alphonsus YMYL — Idaho healthcare content standard
+5. GEO/AEO — ChatGPT/Perplexity for Boise Micron and Albertsons queries
+
+Phone +1-888-555-CLICK | boise@clickmastersdigitalmarketing.com
+Meridian, Eagle, Nampa, Hyde Park, and all of Greater Boise`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-boise/","/seo-services-salt-lake-city/","/seo-services-portland/"],
   
   publishingChecklist: {

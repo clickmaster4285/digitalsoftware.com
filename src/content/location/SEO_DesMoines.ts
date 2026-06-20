@@ -2,7 +2,7 @@
 // Service: SEO
 // City: DesMoines
 // URL: /seo-services-des-moines/
-// Generated: 2026-06-20T05:43:13.058Z
+// Generated: 2026-06-20T06:13:02.116Z
 
 export const SEO_DesMoines = {
   service: "SEO",
@@ -18,6 +18,7 @@ export const SEO_DesMoines = {
   meta: `Clickmasters SEO in Des Moines. Principal Financial FINRA/SEC investment/insurance authority, EMC Insurance, UnityPoint/MercyOne YMYL, and Iowa CDPA-native analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Des Moines SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-des-moines/","address":{"@type":"PostalAddress","addressLocality":"Des Moines","addressRegion":"IA","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN DES MOINES?
 
 SEO in Des Moines is the practice of earning organic search authority in the capital of Iowa's insurance and financial services hub — where Principal Financial Group's headquarters creates one of the most commercially significant FINRA/SEC insurance and retirement investment B2B environments in the US Midwest, EMC Insurance and Farm Bureau Financial Services generate additional insurance technology B2B opportunities, UnityPoint Health and MercyOne define the YMYL academic medical standard for the Des Moines metro, and the Iowa Consumer Data Protection Act (CDPA, effective January 1, 2025) creates analytics compliance requirements across all Des Moines digital marketing channels.
@@ -55,6 +56,7 @@ Case Study 3: Des Moines Healthcare — UnityPoint/MercyOne YMYL SEO
 Client: Clinical analytics, Des Moines (\$5.4M ARR). Challenge: Generic content below UnityPoint YMYL. Non-HIPAA. Non-CDPA.
 Programme: UnityPoint/MercyOne vocabulary + YMYL E-E-A-T + HIPAA/CDPA-native
 Results (10 months): Page 1 for 9 Des Moines health IT queries | UnityPoint: evaluation | YMYL: E-E-A-T | HIPAA/CDPA: clean | Pipeline: \$1.2M`,
+  pricing: ``,
   faqTitle: `FAQs — SEO Des Moines`,
   faqs: [
   {
@@ -82,8 +84,18 @@ Results (10 months): Page 1 for 9 Des Moines health IT queries | UnityPoint: eva
     "answer": "Principal Financial's technology community and UnityPoint's clinical IT community use AI search. First-mover GEO/AEO for Des Moines Principal FINRA and UnityPoint vocabulary earns ChatGPT/Perplexity citation before competitors."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Des Moines?","acceptedAnswer":{"@type":"Answer","text":"Des Moines SEO: \$950/month (Foundation) to \$9,500+/month (Enterprise). Principal Financial FINRA/SEC investment/insurance vocabulary. EMC Insurance. UnityPoint/MercyOne YMYL. Iowa CDPA-native analytics. Iowa retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Principal Financial FINRA/SEC investment and insurance SEO for Des Moines businesses?","acceptedAnswer":{"@type":"Answer","text":"Principal Financial SEO builds FINRA/SEC-compliant organic authority in Principal's \$700+ billion AUM retirement and insurance vocabulary: retirement plan administration platform specifics, group insurance benefits technology, Principal Bank services, and investment management operational intelligence — earning organic discovery from Principal Financial's Des Moines headquarters procurement at Iowa CPCs significantly below Chicago financial services equivalents."}},{"@type":"Question","name":"What is Iowa CDPA compliance for Des Moines SEO analytics?","acceptedAnswer":{"@type":"Answer","text":"Iowa Consumer Data Protection Act (CDPA, effective January 1, 2025) creates analytics compliance requirements for Des Moines businesses. CDPA-native analytics with consent management protect from Iowa AG enforcement while producing accurate Des Moines performance measurement."}},{"@type":"Question","name":"Does Clickmasters serve West Des Moines, Ankeny, Urbandale, and Greater Des Moines?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Des Moines: Polk County, Dallas County (Waukee/West Des Moines), Warren County, and the full Des Moines MSA."}},{"@type":"Question","name":"What is UnityPoint Health/MercyOne YMYL SEO for Des Moines healthcare businesses?","acceptedAnswer":{"@type":"Answer","text":"UnityPoint Health — Iowa's most prominent integrated health system — and MercyOne YMYL SEO builds organic authority at the Iowa academic healthcare content standard: UnityPoint system operational vocabulary, MercyOne Iowa clinical programme, and HIPAA/CDPA-compliant medical content earning organic discovery from Des Moines' most commercially significant healthcare institutions."}},{"@type":"Question","name":"How does GEO/AEO affect Des Moines SEO?","acceptedAnswer":{"@type":"Answer","text":"Principal Financial's technology community and UnityPoint's clinical IT community use AI search. First-mover GEO/AEO for Des Moines Principal FINRA and UnityPoint vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Des Moines SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Principal Financial vocabulary gap — retirement plan/group insurance searches you're missing
+2. Iowa CDPA analytics accuracy
+3. EMC/Farm Bureau vocabulary — insurance technology B2B gaps
+4. UnityPoint/MercyOne YMYL — Iowa healthcare content standard
+5. GEO/AEO — ChatGPT/Perplexity for Des Moines Principal Financial queries
+
+Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
+West Des Moines, Ankeny, Urbandale, East Village, and all of Greater Des Moines`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-des-moines/","/seo-services-omaha/","/seo-services-kansas-city/"],
   
   publishingChecklist: {

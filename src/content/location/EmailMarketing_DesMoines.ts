@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: DesMoines
 // URL: /email-marketing-des-moines/
-// Generated: 2026-06-20T05:43:09.280Z
+// Generated: 2026-06-20T06:12:59.642Z
 
 export const EmailMarketing_DesMoines = {
   service: "EmailMarketing",
@@ -18,6 +18,7 @@ export const EmailMarketing_DesMoines = {
   meta: `Clickmasters email marketing in Des Moines. Principal Financial FINRA retirement/insurance pipeline, EMC/Farm Bureau Iowa nurture, UnityPoint HIPAA, and Iowa State Fair August seasonal. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Des Moines Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-des-moines/","address":{"@type":"PostalAddress","addressLocality":"Des Moines","addressRegion":"IA","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3400,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN DES MOINES?
 
 Email marketing in Des Moines is the strategic management of email as a Principal Financial FINRA-compliant retirement and insurance technology procurement pipeline, EMC/Farm Bureau Iowa insurance technology nurture, and Iowa State Fair-calendar-aware seasonal commercial revenue channel.
@@ -51,6 +52,7 @@ Case Study 3: Des Moines Consumer Brand — Iowa State Fair Seasonal Email
 Client: Food brand, East Village (\$1.0M DTC). Challenge: Generic quarterly email. Iowa State Fair calendar unaware.
 Programme: Pre-State Fair July preview + State Fair August activation + Drake Relays April athletics + Iowa CDPA
 Results: State Fair August: 4.2x above average | Drake Relays: 3.6x | DTC: +\$80K`,
+  pricing: ``,
   faqTitle: `FAQs — Email Marketing Des Moines`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: State Fair August: 4.2x above average | Drake Relays: 3.6x | DTC: +\$80
     "answer": "Principal Financial re-engagement: 21-30 days. Iowa insurance evaluation invitations: 90-150 days. Full Principal pipeline: 6-10 months."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Des Moines?","acceptedAnswer":{"@type":"Answer","text":"Des Moines email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). Principal Financial FINRA retirement/insurance pipeline. EMC/Farm Bureau Iowa nurture. UnityPoint HIPAA. Iowa State Fair seasonal. Iowa CDPA-compliant. Iowa retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is the Iowa State Fair seasonal email strategy for Des Moines consumer brands?","acceptedAnswer":{"@type":"Answer","text":"Iowa State Fair (August, 11 days, 1 million+ visitors): highest Iowa consumer email engagement window — pre-State Fair July preview earns above-average open rates; State Fair week August is peak engagement activation; post-State Fair late August community follow-through sustains engagement. Drake Relays (April): highest Iowa spring sports community email engagement. Consumer brands whose email anticipates both windows earn sustained above-average engagement throughout the Iowa commercial year."}},{"@type":"Question","name":"What is Principal Financial FINRA retirement/insurance pipeline email for Des Moines?","acceptedAnswer":{"@type":"Answer","text":"FINRA-compliant retirement plan administration intelligence, group insurance benefits analytics updates, and Principal Bank operational content — maintaining Principal Financial, EMC Insurance, and Farm Bureau procurement contact relationships through 90-180 day Iowa insurance evaluation cycles with Iowa CDPA-compliant data handling."}},{"@type":"Question","name":"Does Clickmasters serve West Des Moines, Ankeny, Urbandale, and Greater Des Moines?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Des Moines MSA."}},{"@type":"Question","name":"What is LIMRA/LOMA conference season email timing for Des Moines?","acceptedAnswer":{"@type":"Answer","text":"LIMRA and LOMA hold major annual conferences (spring and fall) drawing significant Des Moines insurance community attendance. Email demonstrating Principal Financial/EMC FINRA retirement and insurance precision in the weeks surrounding LIMRA and LOMA conferences earns above-average engagement from Iowa's most commercially active insurance professional community."}},{"@type":"Question","name":"How long does Principal Financial FINRA pipeline email produce results?","acceptedAnswer":{"@type":"Answer","text":"Principal Financial re-engagement: 21-30 days. Iowa insurance evaluation invitations: 90-150 days. Full Principal pipeline: 6-10 months."}}]}`,
   cta: `Get Your Free Des Moines Email Marketing Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Principal Financial FINRA cold-off rate — % without retirement/insurance sequences
+2. Iowa CDPA compliance — subscriber data handling AG exposure
+3. Iowa State Fair seasonal — is your email August State Fair-aware?
+4. LIMRA/LOMA conference timing — aligned to Iowa insurance community calendar?
+5. HIPAA compliance — UnityPoint/MercyOne email data handling
+
+Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
+East Village, Beaverdale, West Des Moines, and all of Greater Des Moines`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-des-moines/","/seo-services-des-moines/","/email-marketing-omaha/"],
   
   publishingChecklist: {

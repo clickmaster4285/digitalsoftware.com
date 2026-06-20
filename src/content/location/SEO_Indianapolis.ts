@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Indianapolis
 // URL: /seo-services-indianapolis/
-// Generated: 2026-06-20T05:43:13.111Z
+// Generated: 2026-06-20T06:13:02.174Z
 
 export const SEO_Indianapolis = {
   service: "SEO",
@@ -18,6 +18,7 @@ export const SEO_Indianapolis = {
   meta: `Clickmasters SEO in Indianapolis. Eli Lilly pharmaceutical B2B authority, Cummins/Simon Property Fortune 500 organic, and IU Health academic medical YMYL for the Crossroads of America. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Indianapolis SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-indianapolis/","address":{"@type":"PostalAddress","addressLocality":"Indianapolis","addressRegion":"IN","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN INDIANAPOLIS?
 
 SEO in Indianapolis is the practice of earning organic search authority in a market defined by Eli Lilly and Company's global pharmaceutical headquarters, Cummins' commercial engine and power solutions enterprise, Simon Property Group's global real estate enterprise, and Indiana University Health's academic medical system.
@@ -55,6 +56,7 @@ Case Study 3: Carmel Financial Advisory — IU Health Community Professional SEO
 Client: Fee-only RIA, Carmel (\$220M AUM). Challenge: Generic Indy financial content. IU Health/Lilly professional community not finding.
 Programme: IU Health community vocabulary + Lilly professional community + FINRA-compliant
 Results (10 months): Page 1 for 11 Carmel financial planning queries | Lilly professional community organic sessions: +3x | New AUM: \$18M | FINRA: clean`,
+  pricing: ``,
   faqTitle: `FAQs — SEO Indianapolis`,
   faqs: [
   {
@@ -82,8 +84,18 @@ Results (10 months): Page 1 for 11 Carmel financial planning queries | Lilly pro
     "answer": "Eli Lilly's pharmaceutical procurement community and Indianapolis corporate professionals use AI search tools for vendor research. When Lilly asks ChatGPT for GMP API manufacturing consultants in Indianapolis, or Cummins asks Perplexity for fleet management technology vendors in Indiana, companies with GEO/AEO signals appear."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Indianapolis SEO: \$1,000/month (Foundation) to \$10,000+/month (Enterprise). Eli Lilly pharmaceutical FDA vocabulary. Cummins/Simon Property Fortune 500. IU Health YMYL academic medical. FINRA-compliant financial. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Eli Lilly pharmaceutical SEO for Indianapolis businesses?","acceptedAnswer":{"@type":"Answer","text":"Eli Lilly pharmaceutical SEO builds organic authority in the FDA regulatory and manufacturing vocabulary that Lilly's procurement staff uses: GMP API manufacturing consulting vocabulary, CMC regulatory operational content, IND/NDA submission process analysis, Phase I-III clinical operations management, and Lilly's specific manufacturing quality vocabulary that earns Indianapolis pharmaceutical procurement organic discovery."}},{"@type":"Question","name":"What is Cummins/Simon Property Fortune 500 SEO for Indianapolis businesses?","acceptedAnswer":{"@type":"Answer","text":"Fortune 500 Indianapolis SEO builds organic authority in Cummins diesel engine and commercial power solutions operational vocabulary, Simon Property REIT retail management content, and the Indiana-headquartered Fortune 500 operational specifics that earn vendor evaluation consideration from Indianapolis's most commercially significant enterprises."}},{"@type":"Question","name":"Does Clickmasters serve Carmel, Fishers, Zionsville, and Greater Indianapolis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Indianapolis: Marion County, Hamilton County (Carmel, Fishers, Westfield), Boone County (Zionsville), and the full Indy MSA."}},{"@type":"Question","name":"How long does Indianapolis Eli Lilly pharmaceutical SEO produce results?","acceptedAnswer":{"@type":"Answer","text":"FDA/GMP vocabulary rankings: 5-8 months. Lilly procurement organic discovery: 7-12 months. Cummins Fortune 500 vocabulary: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect Indianapolis SEO?","acceptedAnswer":{"@type":"Answer","text":"Eli Lilly's pharmaceutical procurement community and Indianapolis corporate professionals use AI search tools for vendor research. When Lilly asks ChatGPT for GMP API manufacturing consultants in Indianapolis, or Cummins asks Perplexity for fleet management technology vendors in Indiana, companies with GEO/AEO signals appear."}}]}`,
   cta: `Get Your Free Indianapolis SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Eli Lilly pharmaceutical vocabulary gap — GMP/CMC/IND searches you're missing
+2. Cummins/Simon Property Fortune 500 vocabulary — B2B organic gaps
+3. HIPAA/FINRA compliance in content
+4. IU Health YMYL standard — academic medical content assessment
+5. GEO/AEO — ChatGPT/Perplexity for Indianapolis Eli Lilly and Cummins queries
+
+Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
+Carmel, Fishers, Zionsville, and all of Greater Indianapolis`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-indianapolis/","/seo-services-chicago/","/seo-services-nashville/"],
   
   publishingChecklist: {

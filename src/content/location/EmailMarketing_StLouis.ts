@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: StLouis
 // URL: /email-marketing-st-louis/
-// Generated: 2026-06-20T05:43:10.349Z
+// Generated: 2026-06-20T06:13:00.065Z
 
 export const EmailMarketing_StLouis = {
   service: "EmailMarketing",
@@ -18,6 +18,7 @@ export const EmailMarketing_StLouis = {
   meta: `Clickmasters email marketing in St. Louis. Boeing BDS ITAR-bounded pipeline, FINRA-compliant Edward Jones financial nurture, and Centene/BJC healthcare procurement. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — St. Louis Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-st-louis/","address":{"@type":"PostalAddress","addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN ST. LOUIS?
 
 Email marketing in St. Louis is the strategic management of email as a Boeing BDS defence aerospace pipeline channel, FINRA-compliant Edward Jones financial technology nurture channel, and Centene/BJC HealthCare procurement relationship channel for Gateway City businesses.
@@ -51,6 +52,7 @@ Case Study 3: Clayton Health IT — Centene/BJC HEDIS Procurement Email
 Client: Managed care analytics, Clayton (\$6.4M ARR). Challenge: Centene/BJC contacts cold in 120-day cycles. Generic health IT newsletter.
 Programme: HEDIS operational content + BJC HCAHPS/VBP specifics + Centene risk adjustment + HIPAA-compliant
 Results: Centene re-engagement: 40% | BJC re-engagement: 38% | HIPAA: clean | Managed care pipeline: \$1.4M`,
+  pricing: ``,
   faqTitle: `FAQs — Email Marketing St. Louis`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: Centene re-engagement: 40% | BJC re-engagement: 38% | HIPAA: clean | Ma
     "answer": "Centene Corporation and BJC HealthCare are both HIPAA-covered entities whose procurement contacts evaluate vendor email programmes for HIPAA data handling compliance. St. Louis health technology email programmes without HIPAA-covered email infrastructure create both HIPAA enforcement exposure and credibility failure with Missouri's largest managed care and academic healthcare procurement communities."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in St. Louis?","acceptedAnswer":{"@type":"Answer","text":"St. Louis email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). ITAR-bounded Boeing BDS pipeline. FINRA-compliant Edward Jones financial. Centene/BJC HIPAA healthcare. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is ITAR-bounded Boeing BDS pipeline email for St. Louis businesses?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded email maintains Boeing BDS supply chain procurement relationships through 90-240 day defence evaluation cycles with exclusively publicly releasable vocabulary: AS9100D Revision D quality updates, DCAA provisional indirect cost rate intelligence, DoD supply chain cybersecurity content, NDIA industry updates. Every email undergoes ITAR vocabulary review before sending — enabling genuine Boeing BDS relationship continuity without export control exposure."}},{"@type":"Question","name":"What is FINRA-compliant Edward Jones financial nurture for St. Louis?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210-compliant email content review integrated into every piece: no performance guarantees, SEC Marketing Rule-compliant case study references, compliant testimonial presentation. Edward Jones financial advisor productivity operational intelligence and wealth management platform operational insights at the Creve Coeur institutional FINRA standard."}},{"@type":"Question","name":"Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater St. Louis MSA."}},{"@type":"Question","name":"How long does St. Louis Boeing BDS email produce pipeline results?","acceptedAnswer":{"@type":"Answer","text":"Boeing BDS re-engagement from ITAR-bounded AS9100D/DCAA email: 21-30 days. Defence prime contractor evaluation invitations: 90-150 days. Full Boeing BDS pipeline contribution: 7-12 months."}},{"@type":"Question","name":"How does HIPAA compliance affect St. Louis Centene/BJC email marketing?","acceptedAnswer":{"@type":"Answer","text":"Centene Corporation and BJC HealthCare are both HIPAA-covered entities whose procurement contacts evaluate vendor email programmes for HIPAA data handling compliance. St. Louis health technology email programmes without HIPAA-covered email infrastructure create both HIPAA enforcement exposure and credibility failure with Missouri's largest managed care and academic healthcare procurement communities."}}]}`,
   cta: `Get Your Free St. Louis Email Marketing Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. ITAR compliance in email content — vocabulary check for Boeing BDS contact communications
+2. Boeing BDS cold-off rate — % without active ITAR-bounded sequences
+3. FINRA compliance in financial email — Edward Jones content violations
+4. HIPAA compliance (healthcare) — Centene/BJC email data handling
+5. Revenue gap — email contribution vs St. Louis Boeing BDS benchmark
+
+Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
+Clayton, Creve Coeur, Chesterfield, Hazelwood, and all of Greater St. Louis`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-st-louis/","/seo-services-st-louis/","/email-marketing-chicago/"],
   
   publishingChecklist: {

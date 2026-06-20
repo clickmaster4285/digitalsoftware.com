@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Raleigh
 // URL: /social-media-marketing-raleigh/
-// Generated: 2026-06-20T05:43:14.803Z
+// Generated: 2026-06-20T06:13:03.169Z
 
 export const SocialMedia_Raleigh = {
   service: "SocialMedia",
@@ -18,6 +18,7 @@ export const SocialMedia_Raleigh = {
   meta: `Clickmasters social media marketing in Raleigh. RTP pharmaceutical/biotech LinkedIn, Cisco/Red Hat tech community, Duke/UNC academic clinical, and authentic Triangle consumer brand. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Raleigh Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-raleigh/","address":{"@type":"PostalAddress","addressLocality":"Raleigh","addressRegion":"NC","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN RALEIGH?
 
 Social media marketing in Raleigh-Durham is the strategic management of social platforms across three commercially distinct communities: the Research Triangle Park pharmaceutical and technology LinkedIn ecosystem, the Duke/UNC academic professional community, and the authentic Triangle consumer brand community in downtown Raleigh, Durham's vibrant arts scene, and Chapel Hill's university-adjacent commercial character.
@@ -28,7 +29,11 @@ DUKE/UNC ACADEMIC PROFESSIONAL COMMUNITY: Duke University and UNC Chapel Hill cr
 
 AUTHENTIC TRIANGLE CONSUMER BRAND SOCIAL: Downtown Raleigh's Glenwood South and Fayetteville Street arts community, Durham's Ninth Street and American Tobacco District, and Chapel Hill's Franklin Street independent commercial character create consumer brand Instagram opportunities for businesses communicating genuine Triangle neighbourhood identity.`,
   features: ``,
-  pas: ``,
+  pas: `THE BEFORE: The Durham CRO posting LinkedIn: FDA warning letter announcement reactions, generic clinical trials news reposts, and company award ceremony photos. The new Biogen VP Clinical Operations evaluates CRO vendor LinkedIn: zero FDA 483 response methodology content, zero biostatistics operational vocabulary, zero Phase I-III trial management specifics. Zero academic RTP community thought leadership. She evaluates the Durham CRO as a generic clinical research vendor — not a Biogen-calibre operational research partner.
+
+THE AFTER: Your Durham CRO's Head of Clinical Operations publishes LinkedIn content addressing FDA Type C meeting preparation methodology, Phase II adaptive design statistical approaches, and biostatistics operational specifics that demonstrate genuine Biogen-calibre clinical research depth. The Biogen VP Clinical Operations connects before any formal CRO evaluation begins.
+
+THE BRIDGE: Clickmasters Raleigh social media builds RTP pharmaceutical clinical precision LinkedIn, Cisco/Red Hat enterprise tech community thought leadership, and authentic Triangle consumer brand social.`,
   services: `RTP PHARMACEUTICAL/BIOTECH LINKEDIN:
 For Durham and RTP CROs, CDMOs, and pharma services. FDA regulatory vocabulary: Phase I-III methodology, FDA 483/Type A/B/C meeting content, CMC operational insights, biostatistics vocabulary. Biogen/GSK/Novo Nordisk community Sales Navigator. IRB affiliation display in LinkedIn content.
 
@@ -51,6 +56,7 @@ Case Study 3: Durham Artisan Brand — Authentic Triangle Consumer Social
 Client: Artisan food brand, Durham American Tobacco District (\$1.8M DTC). Challenge: Generic 'Durham food scene' Instagram below authentic community standard.
 Programme: American Tobacco District vocabulary + Durham Ninth Street community + authentic Triangle neighbourhood content
 Results (6 months): Instagram engagement: 1.6% to 5.2% | Durham food media features: 2 | DTC revenue from social: +\$120K`,
+  pricing: ``,
   faqTitle: `FAQs — Social Media Marketing Raleigh`,
   faqs: [
   {
@@ -78,8 +84,18 @@ Results (6 months): Instagram engagement: 1.6% to 5.2% | Durham food media featu
     "answer": "Duke University and UNC Chapel Hill academic professional LinkedIn content demonstrates peer-reviewed research precision, institutional faculty attribution, and academic evidence vocabulary — the LinkedIn standard that earns genuine Triangle academic professional community engagement."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Raleigh?","acceptedAnswer":{"@type":"Answer","text":"Raleigh social media: \$1,400/month (LinkedIn growth) to \$13,000+/month (enterprise). RTP pharmaceutical FDA operational precision. Cisco/Red Hat enterprise community. Authentic Triangle brand. North Carolina retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is RTP pharmaceutical LinkedIn for Raleigh businesses?","acceptedAnswer":{"@type":"Answer","text":"RTP pharmaceutical LinkedIn content demonstrates FDA regulatory precision: Phase I-III trial management methodology, FDA 483 response strategy operational specifics, CMC regulatory process insights, biostatistics operational vocabulary. Biogen, GSK, and Novo Nordisk pharmaceutical professionals evaluate vendor LinkedIn against this FDA precision standard — generic 'clinical research' content earns dismissal from RTP's most commercially valuable pharmaceutical community."}},{"@type":"Question","name":"What is authentic Triangle consumer brand social for Raleigh?","acceptedAnswer":{"@type":"Answer","text":"Glenwood South arts district in downtown Raleigh, Durham's American Tobacco District and Ninth Street independent commercial character, and Chapel Hill's Franklin Street university-adjacent commercial community — the specific Triangle neighbourhood vocabulary that distinguishes genuinely locally-rooted North Carolina brands from generic Southeast commercial approximations."}},{"@type":"Question","name":"Does Clickmasters serve Durham, Chapel Hill, Cary, and Greater Triangle?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Research Triangle."}},{"@type":"Question","name":"How does Clickmasters measure Raleigh social media commercial outcomes?","acceptedAnswer":{"@type":"Answer","text":"RTP pharma LinkedIn: Biogen/GSK/Novo Nordisk connections and CRO/CDMO evaluation invitations. RTP tech LinkedIn: Red Hat/Cisco/IBM connections and enterprise evaluation invitations. Triangle consumer brand: engagement vs Triangle authentic community benchmark, editorial features in Triangle publications, DTC revenue attribution."}},{"@type":"Question","name":"What is Duke/UNC academic professional LinkedIn for Raleigh?","acceptedAnswer":{"@type":"Answer","text":"Duke University and UNC Chapel Hill academic professional LinkedIn content demonstrates peer-reviewed research precision, institutional faculty attribution, and academic evidence vocabulary — the LinkedIn standard that earns genuine Triangle academic professional community engagement."}}]}`,
   cta: `Get Your Free Raleigh Social Media Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. RTP pharma precision — does your LinkedIn demonstrate FDA Phase I-III/CMC operational knowledge?
+2. Red Hat/Cisco enterprise vocabulary — RTP tech community LinkedIn precision
+3. Duke/UNC academic attribution — institutional credential display in LinkedIn
+4. Triangle authentic brand — Glenwood South/American Tobacco vocabulary
+5. RTP connection quality — are pharma/tech connections converting to evaluations?
+
+Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
+Durham, Chapel Hill, Cary, and all of the Research Triangle`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-raleigh/","/seo-services-raleigh/","/social-media-marketing-charlotte/"],
   
   publishingChecklist: {

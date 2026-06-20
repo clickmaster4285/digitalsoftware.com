@@ -2,7 +2,7 @@
 // Service: SEO
 // City: NewYork
 // URL: /seo-services-new-york/
-// Generated: 2026-06-20T05:43:13.785Z
+// Generated: 2026-06-20T06:13:02.304Z
 
 export const SEO_NewYork = {
   service: "SEO",
@@ -18,6 +18,7 @@ export const SEO_NewYork = {
   meta: ``,
   schema: null,
   wordCount: 5100,
+  breadcrumb: `Home > SEO Services > New York`,
   geoAeoBlock: ``,
   features: ``,
   pas: ``,
@@ -58,6 +59,31 @@ Results (12 months):
 - Page load time: 6.8s → 1.9s (Core Web Vitals now green)
 - Organic revenue as % of total: 12% → 38%
 - Paid Meta Ads budget: reduced 30% (organic handling volume that required paid)`,
+  pricing: `**Investment Guide for New York SEO**
+
+New York SEO retainers reflect the market's competitive intensity — higher CPCs mean higher organic traffic value, which justifies proportionally higher SEO investment.
+
+**Growth (\$3M-\$15M revenue)**
+Monthly retainer: \$3,200 – \$6,500
+Coverage: Technical SEO + keyword strategy + content (4 pieces/month) + link building (4-6 links/month) + monthly reporting
+Best for: Growing New York businesses building first systematic SEO programme; B2B companies seeking LinkedIn and organic search as primary demand channels
+
+**Scale (\$15M-\$100M revenue)**
+Monthly retainer: \$6,500 – \$14,000
+Coverage: Full technical SEO + comprehensive content programme (8 pieces/month) + aggressive link building (10-15 links/month) + local SEO + AEO/GEO + bi-weekly strategy sessions
+Best for: Mid-market New York companies making organic search a primary growth channel; financial services, SaaS, and technology companies
+
+**Enterprise (\$100M+ revenue)**
+Monthly retainer: \$14,000 – \$35,000+
+Coverage: Enterprise technical SEO + content at scale + digital PR (Forbes, Bloomberg, WSJ targeting) + international SEO (for New York companies with global markets) + dedicated account director + weekly strategy
+Best for: Large New York enterprises, financial institutions, and multi-location professional services firms
+
+All New York SEO retainers include:
+- AEO/GEO optimisation for AI search citation
+- Core Web Vitals compliance (required for competitive New York rankings)
+- 90-day performance guarantee
+- No long-term lock-in contracts
+- Revenue attribution reporting (not just traffic and position reports)`,
   faqTitle: `Frequently Asked Questions`,
   faqs: [
   {
@@ -85,6 +111,23 @@ Results (12 months):
     "answer": "Our New York SEO client base spans the city's commercial character: financial services and fintech (Wall Street, Midtown financial district — with understanding of FINRA/SEC content restrictions), B2B technology and SaaS (Silicon Alley / Flatiron / Hudson Yards — including Series A and B companies building organic as part of their growth stack), e-commerce and DTC (Brooklyn, SoHo, and emerging New York consumer brands), professional services (consulting, legal, accounting — with bar/regulatory compliance in content), healthcare (NYU Langone, Weill Cornell ecosystem and private practice — with HIPAA-compliant tracking as standard), media and publishing (the New York media ecosystem's unique understanding of content quality), and real estate (New York's residential and commercial property market)."
   }
 ],
+  faqsAlt: `**Q: How much does SEO cost in New York?**
+New York SEO retainers range from \$3,200/month for growth-stage businesses to \$35,000+/month for enterprise. Clickmasters starts at \$3,200/month. 90-day performance guarantee. No lock-in contracts.
+
+**Q: How long does New York SEO take to produce results?**
+Less competitive verticals: meaningful rankings in 3-5 months, organic leads growing to 20%+ in 8-12 months. Highly competitive (finance, legal, healthcare, general B2B tech): rankings in 6-10 months, full compound in 14-20 months. 90-day milestone reviews with specific KPI benchmarks.
+
+**Q: What makes New York SEO different from other US markets?**
+Competition density (most concentrated professional/financial/tech market in the US), YMYL content standards (financial, legal, healthcare content requires named expert authors and evidence-backed claims), buyer sophistication (thin content fails to rank or convert), and link profile expectations (Wall Street Journal, Bloomberg, Forbes-level backlinks required in competitive verticals).
+
+**Q: Does Clickmasters serve all of New York City and the broader metro area?**
+Yes — all 5 boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island) + greater metro (NJ, Westchester, Long Island, Connecticut). Multi-location and national programmes available.
+
+**Q: How does AI search (GEO/AEO) affect New York SEO?**
+AI engines (ChatGPT, Perplexity, Google AI Overviews) are answering growing proportions of commercial research queries. Clickmasters builds GEO and AEO into every New York programme — structured data for AI citation, entity-rich content, direct-answer FAQs, and authoritative content that earns AI citation over competitors.
+
+**Q: What industries does Clickmasters specialise in for New York SEO?**
+Financial services/fintech (FINRA/SEC content compliance), B2B tech/SaaS (Silicon Alley/Flatiron/Hudson Yards), e-commerce/DTC (Brooklyn, SoHo), professional services (consulting, legal, accounting — bar compliance), healthcare (HIPAA-compliant tracking), media, and real estate.`,
   faqSchema: `{
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -140,6 +183,7 @@ Results (12 months):
   ]
 }`,
   cta: `Get Your Free Audit`,
+  ctaBody: ``,
   internalLinks: ["/→ [Digital Marketing Agency New York](/digital-marketing-agency-new-york/) — full NYC digital marketing hub/","/→ [SEO Services](/seo-services/) — our core SEO service overview/","/→ [Google Ads New York](/google-ads-management-new-york/) — NYC paid search complement/","/→ [Content Marketing Services](/content-marketing-services/) — content for New York SEO authority/","/→ [Financial Services Digital Marketing](/industries/fintech/) — FINRA/SEC compliant content/","/→ [B2B Lead Generation Services](/b2b-lead-generation-services/) — organic + LinkedIn for NYC B2B/"],
   
   publishingChecklist: {

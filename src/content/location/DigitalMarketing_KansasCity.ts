@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: KansasCity
 // URL: /digital-marketing-agency-kansas-city/
-// Generated: 2026-06-20T05:43:08.642Z
+// Generated: 2026-06-20T06:12:58.984Z
 
 export const DigitalMarketing_KansasCity = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "KansasCity",
   citySlug: "kansas-city",
-  slug: "/digital-marketing-agency-in-kansas-city/",
+  slug: "/digital-marketing-agency-kansas-city/",
   
   h1: `Digital Marketing Agency Kansas City — Oracle Health Revenue, Hallmark Brand, Garmin Enterprise, and Heart of America Commercial Growth`,
   primaryKw: `digital marketing agency kansas city`,
@@ -18,6 +18,7 @@ export const DigitalMarketing_KansasCity = {
   meta: `Clickmasters digital marketing in Kansas City. Oracle Health (Cerner) health IT revenue, Hallmark Cards brand, Garmin enterprise, and Children's Mercy/KU Medical for the Heart of America. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Kansas City Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-kansas-city/","address":{"@type":"PostalAddress","addressLocality":"Kansas City","addressRegion":"MO","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3900,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN KANSAS CITY?
 
 A Kansas City digital marketing agency manages digital channels for Heart of America businesses across four commercially distinct sectors that define KC's commercial identity.
@@ -30,7 +31,17 @@ GARMIN/OVERLAND PARK TECHNOLOGY ENTERPRISE DIGITAL MARKETING: Garmin's Olathe, K
 
 KANSAS CITY SPORTS AND EVENTS ECONOMY DIGITAL MARKETING: The Kansas City Chiefs (NFL), Kansas City Royals (MLB), and Sporting KC (MLS) create sports B2B digital marketing opportunities — plus the event hospitality and convention economy at Kansas City Convention Center serving major national events.`,
   features: ``,
-  pas: ``,
+  pas: `THE BEFORE: North Kansas City's most capable Oracle Health/Cerner integration consulting company — \$7.4M ARR, Oracle Health relationships, hospital system relationships. Oracle Health just brought in a new VP Platform Partnerships from Epic. Hallmark just hired a new Chief Technology Officer from Amazon. Garmin added a new VP of Enterprise Solutions from HERE Technologies. None know the North KC company. All Google in their respective operational vocabularies. Zero digital marketing in those vocabularies means zero discovery. Meanwhile, a Leawood consumer brand analytics company could serve Hallmark at \$2M+ ARR — but ranks for none of Hallmark's specific retail vocabulary searches.
+
+THE AFTER: North KC health IT company ranks top 3 for 11 KC Oracle Health queries. Oracle VP Platform Partnerships discovers through organic. Leawood consumer brand analytics earns Hallmark evaluation from Crossroads Arts community LinkedIn thought leadership.
+
+THE BRIDGE — CLICK GROWTH SYSTEM FOR KANSAS CITY:
+C — Capture: Oracle Health/Cerner health IT + Hallmark consumer brand + Garmin enterprise + Children's Mercy/KU Medical YMYL.
+L — Lead: HIPAA all channels. FINRA for KC financial services.
+I — Influence: Cerner PowerChart/Millennium operational authority. Hallmark brand content. Garmin precision tech. Children's Mercy YMYL.
+C — Convert: Oracle Health vendor credibility. Hallmark consumer brand institutional quality.
+K — Keep: Oracle Health/Cerner named pipeline HubSpot. Hallmark brand procurement nurture. Children's Mercy/KU HIPAA health system.
+S — Scale: GEO/AEO for KC Oracle Health and Children's Mercy AI search queries.`,
   services: `SEO KC: Oracle Health/Cerner vocabulary. Hallmark/Garmin enterprise. Children's Mercy/KU Medical YMYL. /seo-services-kansas-city/
 
 GOOGLE ADS KC: Oracle Health HIPAA healthcare. Hallmark retail brand. Garmin enterprise tech. Children's Mercy HIPAA patient acquisition.
@@ -58,6 +69,7 @@ Case Study 3: KC Healthcare Practice — Children's Mercy/KU Medical YMYL Full P
 Client: Paediatrics, KC (Children's Mercy-affiliated). Challenge: Generic content, no Children's Mercy display. Non-HIPAA analytics.
 Programme: SEO + HIPAA analytics rebuild + content (CM/KU YMYL) + Local SEO (KC paediatric GBP)
 Results (11 months): Page 1 for 10 KC paediatric queries | YMYL: E-E-A-T | Children's Mercy cited | New patients: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — Digital Marketing Kansas City`,
   faqs: [
   {
@@ -85,8 +97,18 @@ Results (11 months): Page 1 for 10 KC paediatric queries | YMYL: E-E-A-T | Child
     "answer": "Oracle Health's health IT and Garmin's precision tech engineering communities use AI search tools for vendor research. First-mover GEO/AEO content for KC Oracle Health and Garmin vocabulary earns ChatGPT/Perplexity citation before competitors build equivalent content authority."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Kansas City digital marketing: \$1,200/month (single channel) to \$13,000+/month (enterprise). Oracle Health/Cerner health IT vocabulary. Hallmark consumer brand. Garmin enterprise. Children's Mercy/KU YMYL. HIPAA healthcare. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"Which channels work best for Kansas City Oracle Health (Cerner) vendors?","acceptedAnswer":{"@type":"Answer","text":"(1) SEO — Cerner PowerChart/Millennium/CommunityWorks vocabulary for new Oracle Health executives. (2) LinkedIn — Oracle Health clinical IT community thought leadership. (3) Email — Oracle Health/Cerner named account HubSpot pipeline nurture. (4) Google Ads — FHIR/HL7 health IT vocabulary PPC."}},{"@type":"Question","name":"Does Clickmasters serve Overland Park, Leawood, Olathe, and Greater Kansas City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Kansas City bi-state MSA."}},{"@type":"Question","name":"What makes Kansas City digital marketing unique?","acceptedAnswer":{"@type":"Answer","text":"Oracle Health (Cerner) as the world's largest health IT company creates Kansas City's most commercially significant B2B vocabulary — distinct from any other US city. Hallmark Cards creates a uniquely KC consumer brand B2B community. Garmin's Olathe precision technology creates an aviation and automotive OEM B2B community. Together these define a KC digital marketing vocabulary combination that no other Midwest city requires."}},{"@type":"Question","name":"How quickly does KC Oracle Health digital marketing produce results?","acceptedAnswer":{"@type":"Answer","text":"Cerner vocabulary SEO: 4-7 months. Oracle Health LinkedIn connections: 2-4 months. Oracle Health Google Ads leads: 7-14 days. First Oracle Health evaluation from integrated programme: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect Kansas City digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Oracle Health's health IT and Garmin's precision tech engineering communities use AI search tools for vendor research. First-mover GEO/AEO content for KC Oracle Health and Garmin vocabulary earns ChatGPT/Perplexity citation before competitors build equivalent content authority."}}]}`,
   cta: `Get Your Free Kansas City Digital Marketing Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Oracle Health/Cerner vocabulary discoverability — can new health IT executives find you digitally?
+2. HIPAA compliance across all digital channels
+3. Hallmark consumer brand vocabulary — brand analytics digital gaps
+4. Children's Mercy/KU Medical YMYL — academic credential visibility
+5. GEO/AEO — ChatGPT/Perplexity for KC Oracle Health and Children's Mercy queries
+
+Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
+Overland Park, Leawood, Olathe, North KC, and all of Greater Kansas City`,
   internalLinks: ["/seo-services-kansas-city/","/digital-marketing-agency-usa/","/digital-marketing-agency-st-louis/","/digital-marketing-agency-chicago/"],
   
   publishingChecklist: {

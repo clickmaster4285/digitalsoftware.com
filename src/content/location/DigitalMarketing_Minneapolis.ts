@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Minneapolis
 // URL: /digital-marketing-agency-minneapolis/
-// Generated: 2026-06-20T05:43:08.723Z
+// Generated: 2026-06-20T06:12:59.087Z
 
 export const DigitalMarketing_Minneapolis = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Minneapolis",
   citySlug: "minneapolis",
-  slug: "/digital-marketing-agency-in-minneapolis/",
+  slug: "/digital-marketing-agency-minneapolis/",
   
   h1: `Digital Marketing Agency Minneapolis — Medical Alley Revenue Growth, Fortune 500 MN Vendor, and Twin Cities Commercial Programme`,
   primaryKw: `digital marketing agency minneapolis`,
@@ -18,6 +18,7 @@ export const DigitalMarketing_Minneapolis = {
   meta: `Clickmasters digital marketing in Minneapolis. Medical Alley KLAS-calibrated health IT revenue, Fortune 500 Minnesota vendor programmes, and Scandinavian-evidence-standard Twin Cities growth. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Minneapolis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-minneapolis/","address":{"@type":"PostalAddress","addressLocality":"Minneapolis","addressRegion":"MN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN MINNEAPOLIS?
 
 A Minneapolis digital marketing agency manages digital channels for Twin Cities businesses across three commercially distinct sectors: Medical Alley's KLAS-calibrated healthcare technology ecosystem, Fortune 500 Minnesota's Target/UnitedHealth/3M/General Mills/Best Buy vendor community, and the Scandinavian-heritage Twin Cities commercial market that rewards specific evidence over promotional brand positioning.
@@ -28,7 +29,17 @@ FORTUNE 500 MINNESOTA COMMERCIAL PRECISION: Target, UnitedHealth Group, 3M, Gene
 
 SCANDINAVIAN COMMERCIAL CULTURE: Minneapolis's Scandinavian heritage creates a professional and consumer commercial culture that rewards understated specific evidence over promotional positioning. Digital marketing calibrated to this cultural standard — KLAS scores with specific year and rating category context rather than 'industry-leading' claims, Target supply chain specifics rather than 'Fortune 500 supply chain solutions' — earns proportionally higher commercial engagement from the Twin Cities professional community.`,
   features: ``,
-  pas: ``,
+  pas: `THE BEFORE: Eden Prairie's most capable health IT company — \$12M ARR, Allina relationships, Fairview relationships, HealthPartners relationships. Three new health system executives arrived in the last 6 months from Boston, Chicago, and California. None know the Eden Prairie company. All three conduct Google searches using KLAS, IDN, and clinical informatics vocabulary. The Eden Prairie company ranks for none of the 18 queries these executives run. The \$12M revenue depends on 6 named contacts whose tenure is unpredictable.
+
+THE AFTER: Your Eden Prairie health IT company ranks top 3 for 14 Medical Alley health IT procurement queries. When the new Allina VP Digital Health searches 'population health analytics Allina-compatible IDN vendor Minneapolis,' your company appears. When the Fairview CIO searches LinkedIn, your thought leadership is already visible.
+
+THE BRIDGE — CLICK GROWTH SYSTEM FOR MINNEAPOLIS:
+C — Capture: Medical Alley KLAS/IDN vocabulary + Fortune 500 MN operational specifics + Scandinavian evidence standard + FINRA financial.
+L — Lead: HIPAA-compliant analytics infrastructure. FINRA for UnitedHealth financial ecosystem. Twin Cities Minnesota regulatory awareness.
+I — Influence: KLAS-calibrated clinical thought leadership. Target/UnitedHealth/3M/General Mills Fortune 500 operational content. Scandinavian understated evidence standard.
+C — Convert: Medical Alley health IT institutional credibility pages. Fortune 500 MN vendor credibility architecture.
+K — Keep: HIMSS Twin Cities conference reactivation email. Fortune 500 MN procurement cycle HubSpot (90-180 day). HIPAA healthcare patient retention.
+S — Scale: GEO/AEO for Medical Alley KLAS and Fortune 500 MN AI search queries.`,
   services: `SEO MINNEAPOLIS: Medical Alley KLAS/IDN vocabulary authority. Fortune 500 MN operational specificity. HIPAA healthcare. FINRA financial. /seo-services-minneapolis/
 
 GOOGLE ADS MINNEAPOLIS: Medical Alley health IT patient acquisition PPC. Fortune 500 MN enterprise procurement. FINRA-compliant UnitedHealth financial. HIPAA healthcare.
@@ -56,6 +67,7 @@ Case Study 3: Edina Financial Advisory — FINRA Scandinavian-Standard Multi-Cha
 Client: Wealth management, Edina (\$380M AUM). Challenge: FINRA violations across multiple digital channels. Promotional-style content performing below Scandinavian evidence community benchmark.
 Programme: FINRA all-channel rebuild + Scandinavian evidence-calibrated content + CFA-authored investment content + HIPAA analytics
 Results (10 months): FINRA findings: 0 all channels | Scandinavian-calibrated content: 3x above generic promotional engagement | New AUM from digital: \$78M`,
+  pricing: ``,
   faqTitle: `FAQs — Digital Marketing Minneapolis`,
   faqs: [
   {
@@ -83,8 +95,18 @@ Results (10 months): FINRA findings: 0 all channels | Scandinavian-calibrated co
     "answer": "Medical Alley health system executives and Fortune 500 MN procurement are increasing AI search adoption. When a new Allina VP searches ChatGPT for population health analytics vendors in Minneapolis, or a Target CPO asks Perplexity for supply chain consulting firms in the Twin Cities, companies with GEO/AEO signals appear."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Minneapolis?","acceptedAnswer":{"@type":"Answer","text":"Minneapolis digital marketing: \$1,800/month (single channel) to \$20,000+/month (enterprise). Medical Alley KLAS vocabulary precision. Fortune 500 MN operational specificity. FINRA for financial. HIPAA for healthcare. Scandinavian evidence standard. 90-day guarantee."}},{"@type":"Question","name":"Which digital channels work best for Medical Alley health IT vendors in Minneapolis?","acceptedAnswer":{"@type":"Answer","text":"(1) SEO — KLAS/IDN vocabulary for new health system executives without existing Medical Alley relationships. (2) LinkedIn — KLAS-cited clinical thought leadership reaching IDN supply chain directors and health system CDOs. (3) Email — HIMSS Twin Cities conference reactivation converting dormant IDN contacts to active evaluations. (4) Google Ads — Medical Alley HIPAA-compliant PPC."}},{"@type":"Question","name":"What is the Scandinavian evidence standard for Minneapolis digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Minneapolis's Scandinavian heritage commercial culture rewards specific evidence over promotional brand positioning: KLAS scores with specific year and category context (not 'industry-leading'), Target supply chain efficiency specifics (not 'Fortune 500 supply chain solutions'), General Mills operational precision (not 'CPG industry insights'). Digital marketing calibrated to this standard earns proportionally higher Twin Cities commercial engagement."}},{"@type":"Question","name":"Does Clickmasters serve St. Paul, Eden Prairie, Plymouth, and Twin Cities metro?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Minneapolis-St. Paul metropolitan area including all 7-county Twin Cities metro."}},{"@type":"Question","name":"How quickly does Minneapolis Medical Alley digital marketing produce IDN results?","acceptedAnswer":{"@type":"Answer","text":"Medical Alley SEO vocabulary rankings: 4-7 months. LinkedIn IDN connections: 2-4 months. HIMSS reactivation email: 21-30 days. First IDN evaluation invitation from integrated programme: 3-5 months."}},{"@type":"Question","name":"How does GEO/AEO affect Minneapolis digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Medical Alley health system executives and Fortune 500 MN procurement are increasing AI search adoption. When a new Allina VP searches ChatGPT for population health analytics vendors in Minneapolis, or a Target CPO asks Perplexity for supply chain consulting firms in the Twin Cities, companies with GEO/AEO signals appear."}}]}`,
   cta: `Get Your Free Minneapolis Digital Marketing Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Medical Alley discoverability — can new Allina/Fairview/HealthPartners executives find you digitally?
+2. KLAS vocabulary precision — KLAS/IDN content gaps in current SEO and content programme
+3. FINRA/HIPAA compliance across all digital channels
+4. Scandinavian evidence standard — specific evidence vs promotional content ratio
+5. GEO/AEO — ChatGPT/Perplexity for Medical Alley KLAS and Fortune 500 MN queries
+
+Phone +1-888-555-CLICK | minneapolis@clickmastersdigitalmarketing.com
+Eden Prairie, Plymouth, Edina, St. Paul, and all of Twin Cities metro`,
   internalLinks: ["/seo-services-minneapolis/","/web-design-agency-minneapolis/","/digital-marketing-agency-usa/","/digital-marketing-agency-chicago/"],
   
   publishingChecklist: {

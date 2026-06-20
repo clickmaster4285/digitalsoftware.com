@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Tulsa
 // URL: /web-design-agency-tulsa/
-// Generated: 2026-06-20T05:43:16.112Z
+// Generated: 2026-06-20T06:13:04.084Z
 
 export const WebDesign_Tulsa = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Tulsa = {
   meta: `Clickmasters web design in Tulsa. Williams/ONEOK midstream institutional credibility, BOK Financial FINRA quality, Saint Francis YMYL HIPAA, and authentic Blue Dome/Brookside Tulsa brand. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tulsa Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-tulsa/","address":{"@type":"PostalAddress","addressLocality":"Tulsa","addressRegion":"OK","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3400,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN TULSA?
 
 A Tulsa web design agency builds websites across three commercially distinct requirements: Williams/ONEOK midstream natural gas institutional vendor credibility, BOK Financial FINRA-compliant banking enterprise quality, and authentic Tulsa consumer brand design.
@@ -51,6 +52,7 @@ Case Study 3: Brookside Consumer Brand — Authentic Tulsa Brand Redesign
 Client: Lifestyle brand, Brookside (\$1.0M DTC). Challenge: Generic 'Tulsa lifestyle' below Brookside authentic Peoria Ave community.
 Programme: Brookside Peoria character + Blue Dome Art Deco vocabulary + Gathering Place community
 Results: Brookside positioning: visits +40% | Average order: +\$50 | Tulsa media: editorial`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Tulsa`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: Brookside positioning: visits +40% | Average order: +\$50 | Tulsa media
     "answer": "Williams/ONEOK midstream: 8-12 weeks. BOK Financial FINRA enterprise: 8-14 weeks. Saint Francis YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Tulsa?","acceptedAnswer":{"@type":"Answer","text":"Tulsa web design: \$5,000-\$13,000 (Williams/ONEOK midstream/BOK FINRA/Saint Francis YMYL), \$22,000-\$55,000+ (enterprise). Williams/ONEOK midstream institutional. BOK Financial FINRA enterprise. Saint Francis YMYL HIPAA. Fixed-price."}},{"@type":"Question","name":"What is Williams/ONEOK midstream institutional credibility for Tulsa web design?","acceptedAnswer":{"@type":"Answer","text":"Williams Transco pipeline operations service descriptions, ONEOK natural gas gathering and NGL service pages, midstream infrastructure technology operational specifics, and midstream energy institutional visual quality — the website that earns Williams Companies and ONEOK vendor procurement digital due diligence clearance."}},{"@type":"Question","name":"What is BOK Financial FINRA-compliant banking enterprise quality for Tulsa web design?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210-compliant website content, commercial banking technology service pages, wealth management platform specifics, and BOK Financial-calibre banking enterprise visual quality — earning BOK Financial's Tulsa headquarters technology procurement evaluation consideration."}},{"@type":"Question","name":"Does Clickmasters serve Broken Arrow, Owasso, Bixby, and Greater Tulsa?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Tulsa MSA."}},{"@type":"Question","name":"What is authentic Tulsa consumer brand design?","acceptedAnswer":{"@type":"Answer","text":"Blue Dome's Art Deco Gulf Oil architectural heritage, Brookside's Peoria Avenue independent food and retail community character, and the Gathering Place's world-class riverside park identity — the specific Tulsa neighbourhood identities that distinguish genuinely locally-rooted Oil Capital brands from generic Oklahoma commercial approximations."}},{"@type":"Question","name":"How long does a Tulsa web design project take?","acceptedAnswer":{"@type":"Answer","text":"Williams/ONEOK midstream: 8-12 weeks. BOK Financial FINRA enterprise: 8-14 weeks. Saint Francis YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."}}]}`,
   cta: `Get Your Free Tulsa Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Williams/ONEOK midstream credibility — Transco/NGL vocabulary assessment
+2. BOK Financial FINRA compliance — banking website violations
+3. HIPAA compliance — Saint Francis healthcare data architecture
+4. Authentic Tulsa brand — Blue Dome/Brookside/Gathering Place vocabulary
+5. Core Web Vitals — LCP performance
+
+Phone +1-888-555-CLICK | tulsa@clickmastersdigitalmarketing.com
+Broken Arrow, Owasso, Blue Dome, Brookside, and all of Greater Tulsa`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-tulsa/","/seo-services-tulsa/","/web-design-agency-oklahoma-city/"],
   
   publishingChecklist: {

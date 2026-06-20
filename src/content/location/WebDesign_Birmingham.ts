@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Birmingham
 // URL: /web-design-agency-birmingham/
-// Generated: 2026-06-20T05:43:15.149Z
+// Generated: 2026-06-20T06:13:03.464Z
 
 export const WebDesign_Birmingham = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Birmingham = {
   meta: `Clickmasters web design in Birmingham. Regions Financial FINRA institutional credibility, UAB NCI world-class YMYL HIPAA, Encompass Health rehabilitation, and authentic Five Points South/Crestline brand. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Birmingham Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-birmingham/","address":{"@type":"PostalAddress","addressLocality":"Birmingham","addressRegion":"AL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3400,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN BIRMINGHAM?
 
 A Birmingham web design agency builds websites across three requirements: Regions Financial FINRA/SEC commercial banking institutional credibility, UAB NCI world-class YMYL HIPAA academic healthcare design, and authentic Magic City consumer brand design.
@@ -51,6 +52,7 @@ Case Study 3: Five Points South Consumer Brand — Authentic Magic City Redesign
 Client: Lifestyle brand, Five Points South (\$1.0M DTC). Challenge: Generic 'Birmingham brand' below Five Points authentic arts community.
 Programme: Five Points South arts vocabulary + Crestline Village mountain community + Vulcan Park heritage
 Results: Five Points positioning: visits +40% | Average order: +\$50 | Alabama media: editorial`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Birmingham`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: Five Points positioning: visits +40% | Average order: +\$50 | Alabama m
     "answer": "Regions FINRA/SEC (compliance review): 8-14 weeks. UAB world-class YMYL HIPAA: 8-16 weeks. Authentic Magic City brand: 6-10 weeks. Enterprise: 14-24 weeks."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Birmingham web design: \$5,000-\$13,000 (Regions FINRA/UAB NCI world-class YMYL/authentic Magic City), \$22,000-\$55,000+ (enterprise). Regions FINRA/SEC institutional. UAB world-class YMYL HIPAA. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is Regions Financial FINRA institutional credibility for Birmingham web design?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210-compliant content throughout, commercial lending analytics service pages, treasury management descriptions, and Deep South commercial banking enterprise quality — the financial technology website that earns Regions Financial's Birmingham headquarters vendor procurement due diligence clearance."}},{"@type":"Question","name":"What is UAB NCI world-class YMYL HIPAA for Birmingham healthcare web design?","acceptedAnswer":{"@type":"Answer","text":"UAB NCI Comprehensive Cancer Center vocabulary, Level 1 Trauma Center operational content, Encompass Health rehabilitation vocabulary, HIPAA-native Alabama data architecture, and world-class philanthropic-academic YMYL E-E-A-T — the academic healthcare website earning UAB and Encompass Health vendor evaluation consideration."}},{"@type":"Question","name":"Does Clickmasters serve Hoover, Vestavia Hills, Mountain Brook, and Greater Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Birmingham MSA."}},{"@type":"Question","name":"What is authentic Magic City consumer brand design for Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Five Points South's arts and entertainment district, Crestline Village's mountain community, and Vulcan Park — home to the world's largest cast iron statue, Vulcan the Roman god of the forge — are the specific Birmingham cultural landmarks that distinguish genuinely locally-rooted Magic City brands."}},{"@type":"Question","name":"How long does Birmingham web design take?","acceptedAnswer":{"@type":"Answer","text":"Regions FINRA/SEC (compliance review): 8-14 weeks. UAB world-class YMYL HIPAA: 8-16 weeks. Authentic Magic City brand: 6-10 weeks. Enterprise: 14-24 weeks."}}]}`,
   cta: `Get Your Free Birmingham Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Regions FINRA credibility — commercial banking vocabulary and compliance
+2. HIPAA compliance — UAB/Encompass/Blue Cross data architecture
+3. UAB NCI world-class YMYL — Alabama cancer centre content
+4. Authentic Magic City brand — Five Points South/Crestline/Vulcan vocabulary
+5. Core Web Vitals — LCP for Birmingham's banking and academic professional community
+
+Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
+Hoover, Vestavia Hills, Mountain Brook, and all of Greater Birmingham`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-birmingham/","/seo-services-birmingham/","/web-design-agency-huntsville/"],
   
   publishingChecklist: {

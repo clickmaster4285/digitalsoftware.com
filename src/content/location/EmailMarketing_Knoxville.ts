@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Knoxville
 // URL: /email-marketing-knoxville/
-// Generated: 2026-06-20T05:43:09.376Z
+// Generated: 2026-06-20T06:12:59.731Z
 
 export const EmailMarketing_Knoxville = {
   service: "EmailMarketing",
@@ -18,6 +18,7 @@ export const EmailMarketing_Knoxville = {
   meta: `Clickmasters email marketing in Knoxville. TVA/ORNL ITAR-reviewed utility pipeline, Pilot Flying J fleet nurture, UT Medical HIPAA TIPA, and Tennessee Volunteers Big Orange seasonal. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Knoxville Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-knoxville/","address":{"@type":"PostalAddress","addressLocality":"Knoxville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3300,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN KNOXVILLE?
 
 Email marketing in Knoxville is management of email as a TVA/ORNL ITAR-reviewed utility and nuclear energy technology pipeline, Pilot Flying J fleet management technology nurture, and Tennessee Valley seasonal commercial revenue channel.
@@ -51,6 +52,7 @@ Case Study 3: Market Square Consumer — Big Orange/Smoky Mountain Seasonal Emai
 Client: Hospitality brand, Market Square (\$1.0M). Challenge: Generic quarterly email. Tennessee Volunteers season unaware.
 Programme: Big Orange September kickoff + bowl season content + Smoky Mountain spring/fall peak + TIPA
 Results: Big Orange season: 4.0x above average | Smoky Mountain peak: 3.8x | Revenue: +\$70K`,
+  pricing: ``,
   faqTitle: `FAQs — Email Marketing Knoxville`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: Big Orange season: 4.0x above average | Smoky Mountain peak: 3.8x | Rev
     "answer": "TVA re-engagement: 21-30 days. Utility evaluation invitations: 90-150 days. Full TVA pipeline: 5-8 months."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Knoxville email marketing: \$750/month (Foundation) to \$7,500+/month (Enterprise). TVA/ORNL ITAR-reviewed utility pipeline. Pilot Flying J fleet nurture. UT Medical HIPAA TIPA. Tennessee Valley seasonal. Tennessee retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is TVA/ORNL ITAR-reviewed email for Knoxville energy businesses?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review applied to every email before sending, followed by TVA nuclear/grid/renewable intelligence and ORNL publicly available energy research vocabulary — maintaining TVA and ORNL community procurement relationships without ITAR export control exposure."}},{"@type":"Question","name":"What is the Tennessee Volunteers Big Orange seasonal email strategy for Knoxville brands?","acceptedAnswer":{"@type":"Answer","text":"Tennessee Volunteers football season (September kickoff through bowl game, January) creates Knoxville's highest annual consumer brand email engagement: September kickoff launch, home game weeks activation, rivalry weeks peak (Vanderbilt, Alabama), bowl season finale. Market Square and hospitality brands whose email calendar mirrors the Big Orange season earn sustained above-average engagement throughout Tennessee's most community-defining athletic calendar."}},{"@type":"Question","name":"Does Clickmasters serve Farragut, Maryville, Oak Ridge, and Greater Knoxville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Knoxville MSA."}},{"@type":"Question","name":"What is the Great Smoky Mountains seasonal email opportunity for Knoxville hospitality?","acceptedAnswer":{"@type":"Answer","text":"Great Smoky Mountains seasonal peaks: spring wildflower bloom (April–May) and fall colour (mid-October) each draw peak visitation from the national park's 13 million+ annual visitors. Knoxville hospitality brands anticipating these two Smoky Mountain seasonal peaks in email content earn above-average engagement from East Tennessee's most commercially active tourism community windows."}},{"@type":"Question","name":"How long does TVA utility pipeline email produce results?","acceptedAnswer":{"@type":"Answer","text":"TVA re-engagement: 21-30 days. Utility evaluation invitations: 90-150 days. Full TVA pipeline: 5-8 months."}}]}`,
   cta: `Get Your Free Knoxville Email Marketing Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. ITAR compliance review — TVA/ORNL controlled vocabulary in email
+2. TVA/ORNL cold-off rate — % without ITAR-reviewed sequences
+3. Big Orange seasonal — is your Knoxville brand Tennessee Volunteers calendar-aware?
+4. HIPAA/TIPA compliance — UT Medical/Covenant email data
+5. Smoky Mountain seasonal — spring/fall peak hospitality email strategy
+
+Phone +1-888-555-CLICK | knoxville@clickmastersdigitalmarketing.com
+Market Square, Farragut, Oak Ridge, and all of Greater Knoxville`,
   internalLinks: ["/email-marketing-services/","/digital-marketing-agency-knoxville/","/seo-services-knoxville/","/email-marketing-nashville/"],
   
   publishingChecklist: {

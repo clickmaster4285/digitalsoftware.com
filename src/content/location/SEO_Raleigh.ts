@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Raleigh
 // URL: /seo-services-raleigh/
-// Generated: 2026-06-20T05:43:13.969Z
+// Generated: 2026-06-20T06:13:02.383Z
 
 export const SEO_Raleigh = {
   service: "SEO",
@@ -18,6 +18,7 @@ export const SEO_Raleigh = {
   meta: `Clickmasters SEO in Raleigh. Research Triangle Park pharmaceutical/biotech B2B authority, Duke/UNC academic medical YMYL, and Triangle in-migration professional organic. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Raleigh SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-raleigh/","address":{"@type":"PostalAddress","addressLocality":"Raleigh","addressRegion":"NC","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN RALEIGH?
 
 SEO in Raleigh-Durham is the practice of earning organic search authority in the most research-university-concentrated commercial market in the Southeast — where Research Triangle Park's Biogen, GSK, Novo Nordisk, and Cisco create the most scientifically demanding B2B content evaluation environment in North Carolina, and where Duke University, UNC Chapel Hill, and NC State define the academic credential standard that Google evaluates YMYL content against in the Piedmont.
@@ -53,6 +54,7 @@ Case Study 3: Cary Financial Advisory — Triangle In-Migration Professional SEO
 Client: Fee-only RIA, Cary (\$220M AUM). Challenge: In-migration professionals from DC and NY not finding Triangle-specific content.
 Programme: NC in-migration professional vocabulary + DC-to-NC/NY-to-NC transition content + FINRA-compliant
 Results (10 months): Page 1 for 12 Triangle in-migration financial planning queries | In-migration organic sessions: 0 to 2,800/month | New in-migration AUM: \$22M | FINRA: clean`,
+  pricing: ``,
   faqTitle: `FAQs — SEO Raleigh`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results (10 months): Page 1 for 12 Triangle in-migration financial planning quer
     "answer": "RTP's pharmaceutical and technology professional communities are above-average AI search users. When Biogen procurement asks ChatGPT for CMC regulatory consultants in Durham NC, or a Duke Health system executive asks Perplexity for clinical analytics vendors in the Triangle, companies with GEO/AEO signals appear."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Raleigh?","acceptedAnswer":{"@type":"Answer","text":"Raleigh SEO: \$1,100/month (Foundation) to \$10,000+/month (Enterprise). RTP pharmaceutical/biotech vocabulary. Duke/UNC YMYL academic medical. Triangle in-migration professional. FINRA-compliant. North Carolina retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Research Triangle Park pharmaceutical SEO for Raleigh businesses?","acceptedAnswer":{"@type":"Answer","text":"RTP pharmaceutical SEO builds organic authority in the FDA regulatory and clinical vocabulary that Biogen, GSK, Novo Nordisk, and RTP pharmaceutical procurement evaluates: CMC regulatory consulting vocabulary, IND/NDA submission process content, Phase I-III clinical research methodology, CLIA/CAP laboratory certification operational content, and IQVIA/CRO community vocabulary."}},{"@type":"Question","name":"What is Duke/UNC YMYL academic medical SEO for Raleigh?","acceptedAnswer":{"@type":"Answer","text":"Duke University Hospital and UNC Hospitals Chapel Hill define the YMYL E-E-A-T standard in the Raleigh-Durham market. Healthcare content demonstrating Duke Medicine or UNC Health system affiliation, peer-reviewed clinical citation architecture, and HIPAA-compliant content analytics earns Google YMYL E-E-A-T recognition in one of the most academically rigorous healthcare content markets in the Southeast."}},{"@type":"Question","name":"Does Clickmasters serve Durham, Chapel Hill, Cary, and Greater Triangle?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Research Triangle: Wake County (Raleigh, Cary), Durham County (Durham, RTP), Orange County (Chapel Hill, Carrboro), and the full Triangle MSA."}},{"@type":"Question","name":"How long does Raleigh RTP pharmaceutical SEO produce Biogen/GSK results?","acceptedAnswer":{"@type":"Answer","text":"RTP pharma vocabulary rankings: 5-8 months. Biogen/GSK organic discovery: 7-12 months. GEO/AEO pharma AI citations: 4-7 months."}},{"@type":"Question","name":"How does GEO/AEO affect Raleigh SEO?","acceptedAnswer":{"@type":"Answer","text":"RTP's pharmaceutical and technology professional communities are above-average AI search users. When Biogen procurement asks ChatGPT for CMC regulatory consultants in Durham NC, or a Duke Health system executive asks Perplexity for clinical analytics vendors in the Triangle, companies with GEO/AEO signals appear."}}]}`,
   cta: `Get Your Free Raleigh SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. RTP pharma vocabulary gap — CMC/IND/Phase I searches you're missing
+2. Duke/UNC YMYL standard — academic medical content gaps
+3. FINRA/HIPAA compliance in content
+4. Triangle in-migration vocabulary — DC-to-NC/NY-to-NC content gaps
+5. GEO/AEO — ChatGPT/Perplexity for RTP pharma and Duke/UNC YMYL queries
+
+Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
+Durham, Chapel Hill, Cary, and all of the Research Triangle`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-raleigh/","/seo-services-charlotte/","/seo-services-atlanta/"],
   
   publishingChecklist: {

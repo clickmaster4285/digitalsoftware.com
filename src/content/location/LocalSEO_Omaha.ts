@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Omaha
 // URL: /local-seo-services-omaha/
-// Generated: 2026-06-20T05:43:12.434Z
+// Generated: 2026-06-20T06:13:01.269Z
 
 export const LocalSEO_Omaha = {
   service: "LocalSEO",
@@ -18,6 +18,7 @@ export const LocalSEO_Omaha = {
   meta: `Clickmasters Local SEO in Omaha. Berkshire Hathaway investment community proximity GBP, Nebraska Medicine YMYL credential, and Dundee/Aksarben/West Omaha professional quality. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Omaha Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-omaha/","address":{"@type":"PostalAddress","addressLocality":"Omaha","addressRegion":"NE","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3400,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN OMAHA?
 
 Local SEO in Omaha is the practice of optimising Google Business Profiles for the top 3 of Greater Omaha's Local Pack — where Berkshire Hathaway's Kiewit Plaza headquarters creates the most recognisable investment community B2B proximity GBP environment in the Midwest, Nebraska Medicine defines the YMYL academic medical standard for the Great Plains, and Dundee and West Omaha represent the highest-income professional communities in the Omaha MSA.
@@ -53,6 +54,7 @@ Case Study 3: Downtown Omaha Financial Services — Berkshire Community Proximit
 Client: Investment analytics consulting, downtown Omaha (Berkshire-adjacent). Challenge: No Berkshire investment vocabulary. Generic GBP.
 Programme: Berkshire FINRA vocabulary + Kiewit Plaza proximity + investment community photography
 Results (3 months): Top 3 Local Pack Omaha investment consulting | Berkshire community near-me: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — Local SEO Omaha`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results (3 months): Top 3 Local Pack Omaha investment consulting | Berkshire com
     "answer": "Dundee's historic arts residential community — home to Berkshire subsidiary executives and UNMC faculty — and Aksarben Village's emerging urban professional community evaluate GBPs with the Berkshire investment institutional precision: CFA Institute verification for financial advisory, Nebraska Medicine/UNMC affiliation for healthcare, and Midwestern institutional investment professional photography."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Omaha?","acceptedAnswer":{"@type":"Answer","text":"Omaha Local SEO: \$900/month (single) to \$9,000+/month (enterprise). Berkshire investment community proximity GBP. Nebraska Medicine/UNMC YMYL. Dundee/Aksarben professional quality. HIPAA/NDPA review management. Nebraska retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Berkshire Hathaway investment community proximity GBP for Omaha businesses?","acceptedAnswer":{"@type":"Answer","text":"Berkshire FINRA investment vocabulary in GBP service descriptions (value investing, insurance float analytics, subsidiary management), Kiewit Plaza/Farnam Street downtown proximity signals, and investment community professional photography — earning above-average B2B near-me consideration from Berkshire's Omaha investment community, amplified annually during the May Annual Meeting when 40,000+ international investment professionals search Omaha professional services."}},{"@type":"Question","name":"Does Clickmasters serve Bellevue, Papillion, Elkhorn, and Greater Omaha?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Omaha MSA: Douglas, Sarpy, Washington Counties (Nebraska) and Pottawattamie County (Iowa)."}},{"@type":"Question","name":"How many reviews for Omaha Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Omaha benchmarks: Dundee/West Omaha professional services: 4.5+ stars, 60-110+ reviews. Nebraska Medicine/UNMC-adjacent healthcare: 4.4+, 50-100+. Downtown Omaha investment B2B: 4.3+, 35-70+."}},{"@type":"Question","name":"Does the Berkshire Annual Meeting affect Omaha GBP review timing?","acceptedAnswer":{"@type":"Answer","text":"Yes significantly. The Berkshire Annual Meeting (first weekend of May) brings 40,000+ international investment professionals to Omaha — creating the highest annual GBP review request response opportunity for investment advisory, legal, and professional services. Review request email timing for the Annual Meeting week earns 3-4x above-average response rates from the world's most commercially engaged investment professional gathering."}},{"@type":"Question","name":"What is the Dundee/Aksarben professional quality GBP standard for Omaha?","acceptedAnswer":{"@type":"Answer","text":"Dundee's historic arts residential community — home to Berkshire subsidiary executives and UNMC faculty — and Aksarben Village's emerging urban professional community evaluate GBPs with the Berkshire investment institutional precision: CFA Institute verification for financial advisory, Nebraska Medicine/UNMC affiliation for healthcare, and Midwestern institutional investment professional photography."}}]}`,
   cta: `Get Your Free Omaha Local SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Berkshire investment community proximity — FINRA vocabulary absent from GBP
+2. Nebraska Medicine/UNMC academic credential display gaps
+3. NDPA-native review analytics — AG enforcement exposure
+4. FINRA-aware review management (financial)
+5. Berkshire Annual Meeting seasonal — review timing strategy for May annual window
+
+Phone +1-888-555-CLICK | omaha@clickmastersdigitalmarketing.com
+Dundee, Aksarben, West Omaha, Bellevue, and all of Greater Omaha`,
   internalLinks: ["/local-seo-services/","/seo-services-omaha/","/digital-marketing-agency-omaha/","/local-seo-services-kansas-city/"],
   
   publishingChecklist: {

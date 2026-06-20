@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Tampa
 // URL: /seo-services-tampa/
-// Generated: 2026-06-20T05:43:14.153Z
+// Generated: 2026-06-20T06:13:02.476Z
 
 export const SEO_Tampa = {
   service: "SEO",
@@ -18,6 +18,7 @@ export const SEO_Tampa = {
   meta: `Clickmasters SEO in Tampa. Moffitt Cancer Centre/TGH YMYL academic medical authority, MacDill AFB military community organic, and Florida SB 262-compliant analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tampa SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-tampa/","address":{"@type":"PostalAddress","addressLocality":"Tampa","addressRegion":"FL","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN TAMPA?
 
 SEO in Tampa is the practice of earning organic search authority in a market defined by Moffitt Cancer Center's internationally recognised academic medical authority, MacDill Air Force Base's substantial military professional community, and Florida's SB 262 analytics compliance requirements.
@@ -53,6 +54,7 @@ Case Study 3: Tampa Healthcare Practice — SB 262-Native YMYL Analytics
 Client: Internal medicine, Tampa (TGH-affiliated). Challenge: Non-SB 262 analytics overstating organic 24%. Non-YMYL content.
 Programme: SB 262-native analytics + TGH affiliation content + YMYL E-E-A-T + HIPAA
 Results (10 months): SB 262-accurate baseline established | YMYL: E-E-A-T recognised | TGH affiliation: cited in patient surveys | New patients: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — SEO Tampa`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results (10 months): SB 262-accurate baseline established | YMYL: E-E-A-T recogn
     "answer": "Florida SB 262 creates website analytics data collection requirements that affect organic performance measurement accuracy. SB 262-non-compliant Tampa analytics overstate organic sessions by 15-25% due to Florida's opt-out rates. SB 262-native analytics produce the accurate organic performance baseline needed for sound Tampa digital marketing investment decisions."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Tampa?","acceptedAnswer":{"@type":"Answer","text":"Tampa SEO: \$1,100/month (Foundation) to \$10,000+/month (Enterprise). Moffitt/TGH YMYL academic medical. MacDill military community. Florida SB 262-native analytics. FINRA-compliant financial. Florida retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Moffitt Cancer Centre YMYL SEO for Tampa businesses?","acceptedAnswer":{"@type":"Answer","text":"Moffitt Cancer Center SEO builds organic authority demonstrating NCI-designated Comprehensive Cancer Center institutional proximity, Tampa General Hospital system affiliation content, and USF Health Morsani College of Medicine academic vocabulary — the YMYL credential architecture that earns Google E-E-A-T recognition in Tampa's academically rigorous cancer care community."}},{"@type":"Question","name":"What is MacDill AFB military community SEO for Tampa businesses?","acceptedAnswer":{"@type":"Answer","text":"MacDill AFB military SEO builds organic authority in the specific vocabulary that Tampa's CENTCOM and SOCOM military community uses: TSP management and rollover, SCRA interest rate protections, VA loan specialist vocabulary, military retirement pay planning, and PCS-cycle professional services content."}},{"@type":"Question","name":"Does Clickmasters serve St. Petersburg, Clearwater, and Greater Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Tampa Bay: Hillsborough County, Pinellas County (St. Pete, Clearwater), Pasco County, and the full Tampa-St. Pete MSA."}},{"@type":"Question","name":"How long does Tampa Moffitt/TGH YMYL SEO produce healthcare results?","acceptedAnswer":{"@type":"Answer","text":"Moffitt/TGH academic vocabulary rankings: 4-7 months. YMYL E-E-A-T recognition: 5-8 months. Moffitt VP organic discovery: 7-10 months. MacDill military vocabulary: 4-6 months."}},{"@type":"Question","name":"How does Florida SB 262 affect Tampa SEO analytics?","acceptedAnswer":{"@type":"Answer","text":"Florida SB 262 creates website analytics data collection requirements that affect organic performance measurement accuracy. SB 262-non-compliant Tampa analytics overstate organic sessions by 15-25% due to Florida's opt-out rates. SB 262-native analytics produce the accurate organic performance baseline needed for sound Tampa digital marketing investment decisions."}}]}`,
   cta: `Get Your Free Tampa SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Moffitt/TGH YMYL vocabulary gap — NCI/academic medical content authority assessment
+2. MacDill military vocabulary — TSP/SCRA/VA loan content gaps
+3. Florida SB 262 analytics accuracy — how much opt-out data inflates your organic metrics
+4. FINRA/HIPAA compliance in content
+5. GEO/AEO — ChatGPT/Perplexity for Tampa Moffitt and MacDill military queries
+
+Phone +1-888-555-CLICK | tampa@clickmastersdigitalmarketing.com
+South Tampa, St. Petersburg, Clearwater, and all of Tampa Bay`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-tampa/","/seo-services-miami/","/seo-services-atlanta/"],
   
   publishingChecklist: {

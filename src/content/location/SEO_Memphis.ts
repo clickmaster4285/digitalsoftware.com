@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Memphis
 // URL: /seo-services-memphis/
-// Generated: 2026-06-20T05:43:13.336Z
+// Generated: 2026-06-20T06:13:02.254Z
 
 export const SEO_Memphis = {
   service: "SEO",
@@ -18,6 +18,7 @@ export const SEO_Memphis = {
   meta: `Clickmasters SEO in Memphis. FedEx logistics/supply chain B2B authority, St. Jude Children's Research Hospital world-class YMYL, AutoZone automotive retail, and Tennessee TIPA-native analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Memphis SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-memphis/","address":{"@type":"PostalAddress","addressLocality":"Memphis","addressRegion":"TN","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN MEMPHIS?
 
 SEO in Memphis is the practice of earning organic search authority in the Bluff City — where FedEx's world headquarters creates the most commercially significant logistics and supply chain B2B organic search opportunity in the US South, St. Jude Children's Research Hospital defines a world-class YMYL paediatric oncology content standard recognised globally, AutoZone's headquarters creates unique automotive retail B2B search volume, and the Tennessee Information Protection Act (TIPA, effective 2025) creates analytics compliance requirements across all Memphis digital marketing channels.
@@ -55,6 +56,7 @@ Case Study 3: Memphis Automotive Analytics — AutoZone Retail B2B SEO
 Client: Retail analytics, Memphis (\$4.8M). Challenge: Zero AutoZone retail analytics vocabulary. AutoZone procurement not finding.
 Programme: AutoZone automotive retail/commercial vocabulary + Tennessee retail analytics + TIPA-native + GEO/AEO
 Results (10 months): Page 1 for 9 Memphis retail tech queries | AutoZone: evaluation | Pipeline: \$900K`,
+  pricing: ``,
   faqTitle: `FAQs — SEO Memphis`,
   faqs: [
   {
@@ -82,8 +84,18 @@ Results (10 months): Page 1 for 9 Memphis retail tech queries | AutoZone: evalua
     "answer": "FedEx's logistics technology community and St. Jude's computational biology community use AI search for vendor research. First-mover GEO/AEO for Memphis FedEx logistics and St. Jude YMYL vocabulary earns ChatGPT/Perplexity citation before competitors."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Memphis?","acceptedAnswer":{"@type":"Answer","text":"Memphis SEO: \$950/month (Foundation) to \$9,500+/month (Enterprise). FedEx logistics/supply chain B2B vocabulary. St. Jude world-class YMYL paediatric oncology. AutoZone automotive retail. Tennessee TIPA-native analytics. Tennessee retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is FedEx logistics B2B SEO for Memphis businesses?","acceptedAnswer":{"@type":"Answer","text":"FedEx logistics SEO builds organic authority in FedEx's world headquarters operational vocabulary: FedEx Ground, Express, and Freight network optimisation, last-mile delivery analytics, supply chain visibility platform specifics, and FedEx World Technology Center community content — earning organic discovery from FedEx Memphis technology procurement from one of the world's most recognisable logistics enterprises."}},{"@type":"Question","name":"What is St. Jude Children's Research Hospital world-class YMYL SEO for Memphis businesses?","acceptedAnswer":{"@type":"Answer","text":"St. Jude YMYL SEO builds organic authority in the world's most recognised paediatric cancer research vocabulary: paediatric oncology clinical trial methodology, childhood cancer genomics operational specifics, and the philanthropic-academic research community content that earns St. Jude's globally recognised YMYL content standard — the most prestigious paediatric oncology YMYL credential in US digital marketing."}},{"@type":"Question","name":"Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Memphis: Shelby County, Fayette County, Tipton County (Tennessee), and DeSoto/Marshall Counties (Mississippi)."}},{"@type":"Question","name":"How does Tennessee TIPA affect Memphis SEO analytics?","acceptedAnswer":{"@type":"Answer","text":"Tennessee Information Protection Act (TIPA, effective July 2025) creates analytics compliance requirements for Memphis businesses serving Tennessee consumers. TIPA-native analytics with consent management protect from Tennessee AG enforcement while producing accurate Memphis performance measurement."}},{"@type":"Question","name":"How does GEO/AEO affect Memphis SEO?","acceptedAnswer":{"@type":"Answer","text":"FedEx's logistics technology community and St. Jude's computational biology community use AI search for vendor research. First-mover GEO/AEO for Memphis FedEx logistics and St. Jude YMYL vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Memphis SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. FedEx logistics vocabulary gap — Ground/Express/Freight/last-mile searches you're missing
+2. Tennessee TIPA analytics accuracy
+3. St. Jude YMYL vocabulary — paediatric oncology/genomics research content
+4. AutoZone automotive retail vocabulary — commercial B2B content gaps
+5. GEO/AEO — ChatGPT/Perplexity for Memphis FedEx and St. Jude queries
+
+Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
+Germantown, Collierville, Bartlett, Midtown, and all of Greater Memphis`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-memphis/","/seo-services-nashville/","/seo-services-atlanta/"],
   
   publishingChecklist: {

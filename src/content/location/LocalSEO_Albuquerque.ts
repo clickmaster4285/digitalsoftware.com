@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Albuquerque
 // URL: /local-seo-services-albuquerque/
-// Generated: 2026-06-20T05:43:11.619Z
+// Generated: 2026-06-20T06:13:00.779Z
 
 export const LocalSEO_Albuquerque = {
   service: "LocalSEO",
@@ -18,6 +18,7 @@ export const LocalSEO_Albuquerque = {
   meta: `Clickmasters Local SEO in Albuquerque. Sandia/LANL national security proximity GBP, UNM Health/Presbyterian academic medical credential, and Northeast Heights/Rio Rancho professional quality. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Albuquerque Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-albuquerque/","address":{"@type":"PostalAddress","addressLocality":"Albuquerque","addressRegion":"NM","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN ALBUQUERQUE?
 
 Local SEO in Albuquerque is the practice of optimising Google Business Profiles for the top 3 of Greater Albuquerque's Local Pack — in a market where Sandia National Labs and Kirtland AFB create national security B2B proximity GBP value, UNM Health Sciences Center defines the YMYL academic medical standard for New Mexico, and the Northeast Heights and Rio Rancho represent the highest-income professional residential communities in the Albuquerque MSA.
@@ -53,6 +54,7 @@ Case Study 3: Rio Rancho Technology Services — Intel Rio Rancho Proximity GBP
 Client: Semiconductor equipment, Rio Rancho (Intel-adjacent). Challenge: No Intel Rio Rancho vocabulary. Generic GBP.
 Programme: Intel semiconductor vocabulary + Rio Rancho proximity signals + semiconductor technology photography
 Results (3 months): Top 3 Local Pack Rio Rancho semiconductor | Intel community near-me: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — Local SEO Albuquerque`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results (3 months): Top 3 Local Pack Rio Rancho semiconductor | Intel community 
     "answer": "Yes. October's Albuquerque International Balloon Fiesta creates a peak review request opportunity for hospitality, retail, and food businesses — when 800,000+ visitors generate above-average review motivation. Review request emails timed for post-Balloon Fiesta (late October/early November) earn above-average response rates from satisfied Balloon Fiesta visitor reviewers."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Albuquerque?","acceptedAnswer":{"@type":"Answer","text":"Albuquerque Local SEO: \$850/month (single) to \$8,500+/month (enterprise). Sandia/LANL/Kirtland proximity GBP. UNM Health NCI/Presbyterian YMYL academic medical. Northeast Heights/Rio Rancho professional quality. HIPAA review management. New Mexico retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Sandia/LANL national security proximity GBP for Albuquerque businesses?","acceptedAnswer":{"@type":"Answer","text":"ITAR-reviewed publicly releasable national security vocabulary in GBP service descriptions, Kirtland AFB area and Southeast Albuquerque proximity signals for Sandia-adjacent GBPs, and national security technology professional photography — earning above-average B2B near-me consideration from Sandia National Labs and AFRL's research and engineering professional community."}},{"@type":"Question","name":"Does Clickmasters serve Rio Rancho, Corrales, and Greater Albuquerque?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Albuquerque MSA: Bernalillo, Sandoval, and Valencia Counties."}},{"@type":"Question","name":"How many reviews for Albuquerque Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Albuquerque benchmarks: Northeast Heights/Rio Rancho professional services: 4.4+ stars, 50-110+ reviews. UNM/Presbyterian-adjacent healthcare: 4.4+, 50-100+. Sandia/Kirtland B2B: 4.3+, 30-60+."}},{"@type":"Question","name":"What is the Northeast Heights/Rio Rancho professional quality GBP standard for Albuquerque?","acceptedAnswer":{"@type":"Answer","text":"Sandia Labs engineers, Intel Rio Rancho technology professionals, and Kirtland AFB officers evaluate GBPs with the institutional precision of their research and technology professional environments: CFA Institute verification for financial advisory, UNM Health NCI affiliation for healthcare, and national security technology institutional photography."}},{"@type":"Question","name":"Does Balloon Fiesta timing affect Albuquerque GBP review strategy?","acceptedAnswer":{"@type":"Answer","text":"Yes. October's Albuquerque International Balloon Fiesta creates a peak review request opportunity for hospitality, retail, and food businesses — when 800,000+ visitors generate above-average review motivation. Review request emails timed for post-Balloon Fiesta (late October/early November) earn above-average response rates from satisfied Balloon Fiesta visitor reviewers."}}]}`,
   cta: `Get Your Free Albuquerque Local SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Sandia/LANL proximity signals — ITAR-reviewed publicly releasable vocabulary absent from GBP
+2. UNM Health NCI/Presbyterian academic credential display gaps
+3. HIPAA review management compliance
+4. CFA/CFP verification — Northeast Heights professional standard
+5. Review volume vs Sandia Labs/Intel professional community benchmark
+
+Phone +1-888-555-CLICK | albuquerque@clickmastersdigitalmarketing.com
+Nob Hill, Northeast Heights, Rio Rancho, Corrales, and all of Greater Albuquerque`,
   internalLinks: ["/local-seo-services/","/seo-services-albuquerque/","/digital-marketing-agency-albuquerque/","/local-seo-services-denver/"],
   
   publishingChecklist: {

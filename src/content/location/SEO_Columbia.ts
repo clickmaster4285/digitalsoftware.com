@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Columbia
 // URL: /seo-services-columbia-sc/
-// Generated: 2026-06-20T05:43:13.018Z
+// Generated: 2026-06-20T06:13:02.074Z
 
 export const SEO_Columbia = {
   service: "SEO",
@@ -18,6 +18,7 @@ export const SEO_Columbia = {
   meta: `Clickmasters SEO in Columbia SC. Fort Jackson US Army military community, Dominion Energy SC utility B2B, Prisma Health Midlands/MUSC YMYL, SCDPA-native analytics, and Capital City authority. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Columbia SC SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-columbia-sc/","address":{"@type":"PostalAddress","addressLocality":"Columbia","addressRegion":"SC","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN COLUMBIA SC?
 
 SEO in Columbia SC is earning organic search authority in South Carolina's Capital City — where Fort Jackson creates the US Army's largest and most commercially significant initial entry training military professional community in the Southeast, Dominion Energy South Carolina's Columbia headquarters generates utility technology B2B opportunities, and Prisma Health Midlands (MUSC Health) creates the YMYL academic medical standard for the Midlands region.
@@ -53,6 +54,7 @@ Case Study 3: Columbia Healthcare — Prisma Health Midlands/MUSC YMYL SEO
 Client: Internal medicine. Challenge: Generic. Non-HIPAA. Non-SCDPA.
 Programme: Prisma Midlands/MUSC vocabulary + YMYL E-E-A-T + HIPAA/SCDPA-native
 Results (10 months): Page 1 for 9 queries | YMYL: E-E-A-T | Prisma: cited | New patients: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — SEO Columbia SC`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results (10 months): Page 1 for 9 queries | YMYL: E-E-A-T | Prisma: cited | New 
     "answer": "Fort Jackson's transitioning military professional community and Dominion Energy's utility engineering community use AI search. First-mover GEO/AEO for Columbia Fort Jackson military transition and Dominion Energy SC vocabulary earns ChatGPT/Perplexity citation before competitors."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Columbia SC?","acceptedAnswer":{"@type":"Answer","text":"Columbia SC SEO: \$950/month (Foundation) to \$9,500+/month (Enterprise). Fort Jackson military community. Dominion Energy SC utility. Prisma Health Midlands/MUSC YMYL. SCDPA-native analytics. South Carolina retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Fort Jackson military community SEO for Columbia SC businesses?","acceptedAnswer":{"@type":"Answer","text":"Fort Jackson SEO builds organic authority in the US Army's largest initial entry training installation vocabulary: Basic Combat Training graduation community professional transitions, PCS financial planning, South Carolina military professional networking — earning organic discovery from Columbia's most commercially significant military community, which trains 50% of all soldiers entering the US Army annually."}},{"@type":"Question","name":"What is Dominion Energy SC utility B2B SEO for Columbia businesses?","acceptedAnswer":{"@type":"Answer","text":"Dominion Energy South Carolina SEO builds organic authority in South Carolina's utility operational vocabulary: grid management technology, energy analytics, and utility operations intelligence — earning organic discovery from Dominion Energy's Columbia headquarters at South Carolina CPCs below Atlanta and Charlotte utility equivalents."}},{"@type":"Question","name":"Does Clickmasters serve Lexington, Irmo, Chapin, and Greater Columbia?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Columbia: Richland County, Lexington County, and the full Columbia MSA."}},{"@type":"Question","name":"What is South Carolina SCDPA compliance for Columbia SEO analytics?","acceptedAnswer":{"@type":"Answer","text":"South Carolina Consumer Data Privacy Act (SCDPA, effective January 1, 2025) creates data privacy compliance for Columbia businesses. SCDPA-native analytics with consent management protect from South Carolina AG enforcement while producing accurate Columbia performance measurement."}},{"@type":"Question","name":"How does GEO/AEO affect Columbia SC SEO?","acceptedAnswer":{"@type":"Answer","text":"Fort Jackson's transitioning military professional community and Dominion Energy's utility engineering community use AI search. First-mover GEO/AEO for Columbia Fort Jackson military transition and Dominion Energy SC vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Columbia SC SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Fort Jackson military community vocabulary — BCT transition searches you're missing
+2. SCDPA analytics compliance — South Carolina AG exposure
+3. Dominion Energy SC vocabulary — utility B2B content gaps
+4. Prisma Health/MUSC YMYL — Midlands academic healthcare content
+5. GEO/AEO — ChatGPT/Perplexity for Columbia Fort Jackson and Dominion queries
+
+Phone +1-888-555-CLICK | columbia@clickmastersdigitalmarketing.com
+Lexington, Irmo, Five Points, Vista, and all of Greater Columbia SC`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-columbia-sc/","/seo-services-greenville/","/seo-services-charlotte/"],
   
   publishingChecklist: {

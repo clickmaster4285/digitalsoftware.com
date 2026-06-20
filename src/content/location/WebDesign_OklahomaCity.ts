@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: OklahomaCity
 // URL: /web-design-agency-oklahoma-city/
-// Generated: 2026-06-20T05:43:15.653Z
+// Generated: 2026-06-20T06:13:03.901Z
 
 export const WebDesign_OklahomaCity = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_OklahomaCity = {
   meta: `Clickmasters web design in Oklahoma City. Devon Energy E&P institutional credibility, INTEGRIS/OU Health YMYL HIPAA quality, Paycom HR SaaS enterprise, and authentic Bricktown/Paseo/Midtown OKC brand. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Oklahoma City Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-oklahoma-city/","address":{"@type":"PostalAddress","addressLocality":"Oklahoma City","addressRegion":"OK","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN OKLAHOMA CITY?
 
 An Oklahoma City web design agency builds websites across three commercially distinct requirements: Devon/Expand Energy oil and gas E&P institutional vendor credibility, INTEGRIS/OU Health YMYL HIPAA Oklahoma academic healthcare quality, and authentic OKC consumer brand design.
@@ -51,6 +52,7 @@ Case Study 3: Paseo Arts District Consumer Brand — Authentic OKC Brand Redesig
 Client: Artisan gallery, Paseo Arts District (\$800K). Challenge: Generic 'Oklahoma art gallery' below Paseo authentic arts community standard.
 Programme: Paseo de España arts community vocabulary + Bricktown cross-promotion + OKC Thunder community
 Results: Paseo authentic positioning: gallery visits +40% | Average sale: +\$200 | Oklahoma City arts media: editorial feature`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Oklahoma City`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: Paseo authentic positioning: gallery visits +40% | Average sale: +\$200
     "answer": "Devon/Expand Energy E&P: 8-12 weeks. INTEGRIS/OU Health YMYL HIPAA: 8-14 weeks. Authentic OKC consumer brand: 6-10 weeks. Enterprise: 14-24 weeks."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Oklahoma City?","acceptedAnswer":{"@type":"Answer","text":"Oklahoma City web design: \$5,500-\$14,000 (Devon E&P/INTEGRIS YMYL/authentic OKC brand), \$24,000-\$60,000+ (enterprise). Devon/Expand Energy E&P institutional. INTEGRIS/OU Health YMYL HIPAA. Paycom HR enterprise quality. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is Devon/Expand Energy oil and gas E&P institutional vendor credibility for Oklahoma City web design?","acceptedAnswer":{"@type":"Answer","text":"STACK play production analytics methodology in service descriptions, SCOOP play reservoir optimisation technology service pages, unconventional reservoir engineering vocabulary throughout, and E&P enterprise institutional visual quality — the oil and gas website that earns Devon Energy and Expand Energy vendor procurement evaluation consideration."}},{"@type":"Question","name":"What is INTEGRIS/OU Health YMYL HIPAA for Oklahoma City healthcare web design?","acceptedAnswer":{"@type":"Answer","text":"INTEGRIS Health system programme vocabulary, OU Medicine NCI Cancer Centre affiliation, OU Health Sciences Center academic vocabulary, HIPAA-native data architecture, and YMYL E-E-A-T Oklahoma academic medical content — the healthcare website that earns Oklahoma's largest health system vendor consideration."}},{"@type":"Question","name":"Does Clickmasters serve Edmond, Norman, Midwest City, and Greater Oklahoma City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Oklahoma City MSA."}},{"@type":"Question","name":"What is authentic OKC consumer brand design?","acceptedAnswer":{"@type":"Answer","text":"Bricktown canal district entertainment vocabulary, Paseo Arts District de España arts community, Midtown walkable food and arts corridor identity, and OKC Thunder NBA sports community — the specific OKC neighbourhood and cultural identities that distinguish genuinely locally-rooted Sooner State brands from generic Oklahoma commercial approximations."}},{"@type":"Question","name":"How long does an Oklahoma City web design project take?","acceptedAnswer":{"@type":"Answer","text":"Devon/Expand Energy E&P: 8-12 weeks. INTEGRIS/OU Health YMYL HIPAA: 8-14 weeks. Authentic OKC consumer brand: 6-10 weeks. Enterprise: 14-24 weeks."}}]}`,
   cta: `Get Your Free Oklahoma City Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Devon/Expand Energy E&P credibility — STACK/SCOOP vocabulary and E&P institutional quality
+2. HIPAA compliance — INTEGRIS/OU Health healthcare data architecture
+3. Paycom HR SaaS institutional quality — HR enterprise website assessment
+4. Authentic OKC brand — Bricktown/Paseo/Midtown vocabulary
+5. Core Web Vitals — LCP performance
+
+Phone +1-888-555-CLICK | oklahomacity@clickmastersdigitalmarketing.com
+Edmond, Norman, Bricktown, Paseo, and all of Greater OKC`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-oklahoma-city/","/seo-services-oklahoma-city/","/web-design-agency-dallas/"],
   
   publishingChecklist: {

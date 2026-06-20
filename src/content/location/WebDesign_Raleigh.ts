@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Raleigh
 // URL: /web-design-agency-raleigh/
-// Generated: 2026-06-20T05:43:15.925Z
+// Generated: 2026-06-20T06:13:03.977Z
 
 export const WebDesign_Raleigh = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Raleigh = {
   meta: `Clickmasters web design in Raleigh. RTP pharmaceutical FDA-aware institutional credibility, Duke/UNC YMYL academic medical design, and Research Triangle tech enterprise quality. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Raleigh Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-raleigh/","address":{"@type":"PostalAddress","addressLocality":"Raleigh","addressRegion":"NC","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN RALEIGH?
 
 A Raleigh-Durham web design agency builds websites across three commercially distinct design requirements: RTP pharmaceutical FDA-aware institutional credibility, Duke University Hospital/UNC Hospitals YMYL healthcare credential architecture, and Research Triangle tech enterprise vendor quality.
@@ -51,6 +52,7 @@ Case Study 3: Raleigh Technology Company — Red Hat Enterprise Tech Credibility
 Client: Open source enterprise consulting, Raleigh (\$8.4M). Challenge: Below Red Hat enterprise vendor quality standard. Demo conversion 0.3%.
 Programme: Red Hat enterprise visual quality + open source credential display + Cisco partner certification + CWV (4.6s to 1.2s)
 Results: Red Hat Durham community: website cited as quality signal | Demo conversion: 0.3% to 2.0% | LCP: 4.6s to 1.2s`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Raleigh`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: Red Hat Durham community: website cited as quality signal | Demo conver
     "answer": "Duke University Hospital and UNC Hospitals Chapel Hill define two of the most research-intensive YMYL academic medical credential benchmarks in the Southeast. Websites demonstrating these institutional affiliations, associated faculty attributions, and HIPAA-native data handling earn Google YMYL E-E-A-T recognition and patient trust from the Triangle's most medically sophisticated consumer population."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Raleigh?","acceptedAnswer":{"@type":"Answer","text":"Raleigh web design: \$6,000-\$15,000 (RTP pharma/Duke YMYL/Triangle tech), \$26,000-\$65,000+ (enterprise). RTP pharmaceutical FDA-aware institutional quality. Duke/UNC YMYL HIPAA. Triangle tech enterprise credibility. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is RTP pharmaceutical FDA-aware website credibility for Raleigh businesses?","acceptedAnswer":{"@type":"Answer","text":"FDA regulatory compliance awareness in website content: CMC operational methodology descriptions, IRB affiliation display, CLIA/CAP laboratory certification, FDA 483 response management experience communication, and clinical institutional visual quality at the standard that Biogen, GSK, and Novo Nordisk procurement evaluates during Triangle vendor digital due diligence."}},{"@type":"Question","name":"Does Clickmasters build Duke/UNC YMYL healthcare websites in Raleigh?","acceptedAnswer":{"@type":"Answer","text":"Yes. Duke University Hospital and UNC Health system affiliation display, Brody School of Medicine/UNC School of Medicine faculty attribution where applicable, HIPAA-native data architecture, and YMYL E-E-A-T optimised content structure — the healthcare website that earns Google YMYL recognition in the Research Triangle's academically rigorous healthcare content market."}},{"@type":"Question","name":"Does Clickmasters serve Durham, Chapel Hill, Cary, and Greater Triangle?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Research Triangle."}},{"@type":"Question","name":"How long does a Raleigh web design project take?","acceptedAnswer":{"@type":"Answer","text":"RTP pharma (FDA review adds time): 8-14 weeks. Duke/UNC YMYL HIPAA: 8-14 weeks. Triangle tech enterprise: 8-12 weeks. Enterprise: 14-24 weeks."}},{"@type":"Question","name":"What is the Duke/UNC academic medical standard for Raleigh web design?","acceptedAnswer":{"@type":"Answer","text":"Duke University Hospital and UNC Hospitals Chapel Hill define two of the most research-intensive YMYL academic medical credential benchmarks in the Southeast. Websites demonstrating these institutional affiliations, associated faculty attributions, and HIPAA-native data handling earn Google YMYL E-E-A-T recognition and patient trust from the Triangle's most medically sophisticated consumer population."}}]}`,
   cta: `Get Your Free Raleigh Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. RTP pharma institutional credibility — does your website pass Biogen/GSK procurement due diligence?
+2. Duke/UNC YMYL academic medical credential display
+3. HIPAA compliance (healthcare) — data architecture violations
+4. Red Hat/Cisco enterprise quality standard — tech vendor credential gaps
+5. Core Web Vitals — LCP for Triangle's tech-savvy professional community
+
+Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
+Durham, Chapel Hill, Cary, and all of the Research Triangle`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-raleigh/","/seo-services-raleigh/","/web-design-agency-charlotte/"],
   
   publishingChecklist: {

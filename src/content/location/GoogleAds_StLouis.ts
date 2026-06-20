@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: StLouis
 // URL: /google-ads-management-st-louis/
-// Generated: 2026-06-20T05:43:11.537Z
+// Generated: 2026-06-20T06:13:00.729Z
 
 export const GoogleAds_StLouis = {
   service: "GoogleAds",
@@ -18,6 +18,7 @@ export const GoogleAds_StLouis = {
   meta: `Clickmasters Google Ads in St. Louis. Boeing Defence AS9100D/DCAA vocabulary PPC, Edward Jones FINRA-compliant, and Centene/BJC HIPAA healthcare campaigns. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — St. Louis Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-st-louis/","address":{"@type":"PostalAddress","addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN ST. LOUIS?
 
 Google Ads management in St. Louis is the professional management of PPC advertising across three commercially distinct categories: Boeing Defence, Space & Security ITAR-bounded vocabulary, Edward Jones FINRA-compliant financial technology, and Centene/BJC HealthCare HIPAA managed care and patient acquisition.
@@ -53,6 +54,7 @@ Case Study 3: Clayton Health IT Vendor — Centene HIPAA Managed Care PPC
 Client: Managed care analytics, Clayton (\$6.4M ARR). Challenge: Generic health IT vocabulary missing Centene HEDIS/risk adjustment. Non-HIPAA tracking.
 Programme: Centene HEDIS vocabulary + HIPAA server-side tracking + managed care Medicaid audience
 Results: Managed care CPL: \$240 | Centene evaluation: from paid | HIPAA: clean | Pipeline: \$1.4M`,
+  pricing: ``,
   faqTitle: `FAQs — Google Ads St. Louis`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results: Managed care CPL: \$240 | Centene evaluation: from paid | HIPAA: clean 
     "answer": "Missouri CPCs 20-25% below Chicago for professional services equivalents. St. Louis defence vocabulary CPCs significantly below DC/Northern Virginia defence market — due to lower advertiser competition for Missouri-specific defence aerospace vocabulary, despite Boeing BDS being among the largest US defence prime contractors."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in St. Louis?","acceptedAnswer":{"@type":"Answer","text":"St. Louis Google Ads: \$1,000/month (Growth) to \$10,000+/month (Enterprise). Boeing BDS ITAR-bounded defence vocabulary. Edward Jones FINRA-compliant financial. Centene/BJC HIPAA healthcare. Missouri CPCs below Chicago/NYC. 90-day guarantee."}},{"@type":"Question","name":"What is Boeing BDS ITAR-bounded defence vocabulary Google Ads for St. Louis?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded defence vocabulary campaigns target Boeing BDS procurement staff using AS9100D quality management, DCAA accounting compliance, and DoD supply chain vocabulary searches. Every ad and landing page undergoes ITAR-bounded vocabulary review — only publicly releasable defence operational vocabulary used throughout, earning above-average conversion rates from Boeing BDS procurement at Missouri CPCs below Chicago and East Coast defence equivalents."}},{"@type":"Question","name":"What is Edward Jones FINRA-compliant financial Google Ads for St. Louis?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210-compliant ad content targeting Edward Jones financial advisor platform procurement: wealth management technology vocabulary, financial advisor productivity software, practice management platform specifics — within FINRA advertising rule boundaries. SEC Marketing Rule-compliant landing pages throughout."}},{"@type":"Question","name":"Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater St. Louis MSA including bi-state Missouri/Illinois communities."}},{"@type":"Question","name":"How quickly does St. Louis Boeing BDS Google Ads produce results?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded defence vocabulary clicks: 7-14 days. Boeing BDS procurement-qualified evaluation leads: 30-60 days. CRM-attributed defence pipeline: 90-150 days."}},{"@type":"Question","name":"How do St. Louis Google Ads CPCs compare to Chicago and Washington DC?","acceptedAnswer":{"@type":"Answer","text":"Missouri CPCs 20-25% below Chicago for professional services equivalents. St. Louis defence vocabulary CPCs significantly below DC/Northern Virginia defence market — due to lower advertiser competition for Missouri-specific defence aerospace vocabulary, despite Boeing BDS being among the largest US defence prime contractors."}}]}`,
   cta: `Get Your Free St. Louis Google Ads Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Boeing BDS vocabulary gap — AS9100D/DCAA searches your campaigns miss
+2. ITAR compliance in ad content — publicly releasable vocabulary check
+3. Edward Jones FINRA compliance — financial advertising violations
+4. HIPAA compliance (healthcare) — conversion tracking violations
+5. Missouri CPC efficiency vs Chicago/DC defence vocabulary benchmark
+
+Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
+Clayton, Creve Coeur, Chesterfield, Hazelwood, and all of Greater St. Louis`,
   internalLinks: ["/digital-marketing-agency-st-louis/","/seo-services-st-louis/","/google-ads-management-services/","/google-ads-management-chicago/"],
   
   publishingChecklist: {

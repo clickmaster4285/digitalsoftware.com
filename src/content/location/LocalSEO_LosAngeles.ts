@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: LosAngeles
 // URL: /local-seo-services-los-angeles/
-// Generated: 2026-06-20T05:43:12.234Z
+// Generated: 2026-06-20T06:13:01.168Z
 
 export const LocalSEO_LosAngeles = {
   service: "LocalSEO",
@@ -18,6 +18,7 @@ export const LocalSEO_LosAngeles = {
   meta: `Clickmasters Local SEO in Los Angeles. Creator economy GBP standard, 88-city geographic specificity, and CCPA-native review management for America's second-largest city. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Los Angeles Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-los-angeles/","address":{"@type":"PostalAddress","addressLocality":"Los Angeles","addressRegion":"CA","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
+  breadcrumb: `Home > Local SEO Services > Los Angeles, CA`,
   geoAeoBlock: `WHAT IS LOCAL SEO IN LOS ANGELES?
 
 Local SEO in Los Angeles is the practice of optimising a business's Google Business Profile to appear in the top 3 of Google's Local Pack for geographically specific searches across 88 incorporated cities in the world's most commercially diverse metropolitan area — with the creator economy visual and content quality standard that LA's professional community expects, the CCPA-native analytics that California's privacy law requires, and the neighbourhood-specific commercial character that makes each of LA's distinct communities require its own GBP strategic approach.
@@ -55,6 +56,10 @@ Case Study 3: Santa Monica Silicon Beach SaaS — Tech Community GBP
 Client: Enterprise SaaS, Santa Monica. Challenge: GBP below Silicon Beach tech community standard. No enterprise technology vocabulary.
 Programme: Silicon Beach tech community display + enterprise vocabulary + professional tech photography + CCPA-native analytics
 Results (4 months): Top 3 Local Pack Santa Monica enterprise technology | Tech community professional enquiries: +3x | CCPA: compliant`,
+  pricing: `Single Location (\$1,400-\$3,000/month): Creator economy GBP, CCPA-native review, neighbourhood-precise Posts, landing page.
+Multi-Location (\$3,000-\$6,500/month): All Single + multiple LA neighbourhood GBPs + citation management + CCPA analytics.
+Enterprise (\$6,500-\$15,000+/month): All Multi + full 88-city LA coverage + dedicated specialist.
+All: CCPA/CPRA-native analytics. Creator economy visual standard. 90-day guarantee.`,
   faqTitle: `FAQs — Local SEO Los Angeles`,
   faqs: [
   {
@@ -82,8 +87,24 @@ Results (4 months): Top 3 Local Pack Santa Monica enterprise technology | Tech c
     "answer": "LA Local Pack timelines: Consumer/hospitality: 2-4 months. Healthcare (creator community neighbourhoods): 3-5 months. Entertainment B2B: 3-5 months. Silicon Beach tech: 2-4 months. LA has lower review competition in neighbourhood-specific categories than Manhattan or Chicago, but the creator economy visual quality standard adds GBP content production time."
   }
 ],
+  faqsAlt: `Q: How much does LA Local SEO cost? A: \$1,400-\$15,000+/month. Creator economy GBP visual standard. CCPA-native review analytics. 88-city geographic specificity. 90-day guarantee.
+Q: What is creator economy GBP quality standard for LA Local SEO? A: Editorial-quality photography (not stock), neighbourhood-specific vocabulary (Silver Lake creative, Santa Monica tech, WeHo entertainment), GBP Post visual content at creator economy quality. Each LA community requires distinct visual and vocabulary approach.
+Q: What is CCPA-native review management for LA businesses? A: CPRA-compliant consent management for review acquisition, CCPA-compliant GBP analytics. LA's above-average opt-out rates make CCPA compliance both legal requirement and data accuracy necessity.
+Q: Serve Long Beach, Pasadena, Greater LA? A: Yes — all 88 incorporated cities of Greater Los Angeles.
+Q: How many reviews for LA Local Pack? A: Healthcare (Silver Lake/Echo Park): 4.5+, 100-160+. Professional services (Silicon Beach): 4.4+, 80-130+. Entertainment B2B (Culver City): 4.4+, 60-100+.
+Q: How long does LA Local SEO take? A: Consumer/hospitality: 2-4 months. Healthcare: 3-5 months. Entertainment B2B: 3-5 months. Silicon Beach: 2-4 months.`,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Los Angeles?","acceptedAnswer":{"@type":"Answer","text":"LA Local SEO: \$1,400/month (single location) to \$15,000+/month (enterprise). Creator economy GBP visual standard. CCPA-native review analytics. 88-city geographic specificity. 90-day performance guarantee."}},{"@type":"Question","name":"What is the creator economy GBP quality standard for LA Local SEO?","acceptedAnswer":{"@type":"Answer","text":"LA's creator economy GBP quality standard means editorial-quality profile photography (not stock imagery), neighbourhood-specific description vocabulary that reflects each LA community's distinct commercial character, and GBP Post visual content at the quality level that LA's creator economy-calibrated consumer evaluates. Silver Lake creative community, West Hollywood entertainment community, Santa Monica tech community — each requires its own neighbourhood vocabulary and visual standard."}},{"@type":"Question","name":"What is CCPA-native review management for Los Angeles businesses?","acceptedAnswer":{"@type":"Answer","text":"CCPA-native review management implements CPRA-compliant consent management for review acquisition email programmes (personal data collection), CCPA-compliant analytics for GBP performance measurement, and review request workflow that doesn't create California AG enforcement exposure. LA's above-average opt-out rates make CCPA compliance both a legal requirement and a data accuracy necessity for GBP review programme analytics."}},{"@type":"Question","name":"Does Clickmasters serve Long Beach, Pasadena, and Greater Los Angeles?","acceptedAnswer":{"@type":"Answer","text":"Yes — all 88 incorporated cities of Greater Los Angeles: LA County, Orange County, Ventura County, and the full metropolitan area."}},{"@type":"Question","name":"How many reviews does an LA business need for Local Pack?","acceptedAnswer":{"@type":"Answer","text":"LA Local Pack review benchmarks vary by neighbourhood and category. Healthcare (creator-economy-adjacent neighbourhoods like Silver Lake, Echo Park): 4.5+ stars with 100-160+ reviews. Professional services (Silicon Beach): 4.4+ stars with 80-130+ reviews. Entertainment B2B (Culver City, Hollywood): 4.4+ stars with 60-100+ reviews. Consumer/hospitality (WeHo, SoHo equivalent): 4.4+ stars with 80-140+ reviews."}},{"@type":"Question","name":"How long does LA Local SEO take?","acceptedAnswer":{"@type":"Answer","text":"LA Local Pack timelines: Consumer/hospitality: 2-4 months. Healthcare (creator community neighbourhoods): 3-5 months. Entertainment B2B: 3-5 months. Silicon Beach tech: 2-4 months. LA has lower review competition in neighbourhood-specific categories than Manhattan or Chicago, but the creator economy visual quality standard adds GBP content production time."}}]}`,
   cta: `Get Your Free LA Local SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Creator economy visual standard — does your GBP photography and content meet LA's professional creative baseline?
+2. CCPA compliance — review programme and GBP analytics California AG exposure
+3. Neighbourhood vocabulary — does your description communicate your specific LA community character?
+4. 88-city specificity — neighbourhood landing pages for your key LA geographic service areas
+5. Review volume vs LA neighbourhood benchmark
+
+Get Your Free LA Local SEO Audit: Phone +1-888-555-CLICK
+Email: losangeles@clickmastersdigitalmarketing.com
+Silver Lake, Culver City, Santa Monica, Hollywood, and all of Greater Los Angeles`,
   internalLinks: ["/local-seo-services/","/seo-services-los-angeles/","/digital-marketing-agency-los-angeles/","/local-seo-services-san-francisco/","/tools/local-seo-audit/","/industries/healthcare/"],
   
   publishingChecklist: {

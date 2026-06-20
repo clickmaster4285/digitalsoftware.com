@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Houston
 // URL: /web-design-agency-houston/
-// Generated: 2026-06-20T05:43:15.369Z
+// Generated: 2026-06-20T06:13:03.605Z
 
 export const WebDesign_Houston = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Houston = {
   meta: `Clickmasters web design in Houston. API/HSE energy procurement credibility, bilingual Spanish/English HIPAA healthcare, and Texas Medical Center institutional standard. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Houston Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-houston/","address":{"@type":"PostalAddress","addressLocality":"Houston","addressRegion":"TX","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
+  breadcrumb: `Home > Web Design Services > Houston, TX`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN HOUSTON?
 
 A Houston web design agency builds websites for Houston-area businesses combining API/HSE technical credibility for the Energy Corridor, bilingual English/Spanish HIPAA healthcare architecture for Houston's 44% bilingual community, and the Texas Medical Center institutional quality standard.
@@ -58,6 +59,11 @@ Case Study 3: TMC-Adjacent Specialty Practice — Institutional Credibility Rede
 Client: Cardiology group, TMC Houston (3 cardiologists, UT Health-affiliated). Challenge: Website below TMC institutional standard. UT Health affiliation not displayed. Non-HIPAA.
 Programme: TMC institutional redesign + UT Health affiliation + HIPAA + clinical credential depth + CWV
 Results: TMC patient enquiries: +3x | UT Health display: patient surveys cite as selection factor | HIPAA: clean | New patients: +160/month`,
+  pricing: `Energy (API/HSE): \$7,000-\$18,000. API architecture + TRIR/LTIR display + ISNetworld + GOM documentation + CWV. 8-16 weeks.
+Bilingual Healthcare (HIPAA): \$6,500-\$16,000. Native bilingual + HIPAA BAA + Spanish booking + mobile CWV + WCAG 2.1 AA. 8-14 weeks.
+TMC Institutional: \$7,000-\$18,000. UT Health affiliation + clinical credentials + HIPAA + institutional visual. 8-16 weeks.
+Enterprise: \$30,000-\$80,000+. Custom system + enterprise CMS. 16-26 weeks.
+All: WCAG 2.1 AA. Fixed-price. Bilingual English/Spanish. 12-month warranty.`,
   faqTitle: `FAQs — Web Design Houston`,
   faqs: [
   {
@@ -85,8 +91,24 @@ Results: TMC patient enquiries: +3x | UT Health display: patient surveys cite as
     "answer": "Yes. HIPAA-native bilingual: Spanish and English forms with BAA-covered processors, bilingual analytics excluding PHI, Spanish appointment booking meeting OCR standards, and the Texas Medical Board advertising compliance awareness throughout bilingual content."
   }
 ],
+  faqsAlt: `Q: How much does Houston web design cost? A: \$6,500-\$18,000 (energy/bilingual healthcare/TMC). \$30,000-\$80,000+ (enterprise). API/HSE credibility. Native bilingual. WCAG 2.1 AA.
+Q: What is API/HSE credibility architecture? A: Specific API registration numbers and scope, TRIR/LTIR in operator format, ISNetworld display, GOM operational depth. ExxonMobil/Shell procurement evaluates these specific signals.
+Q: Bilingual English/Spanish websites for Houston? A: Yes — native bilingual (not translated English), South Texas vocabulary, HIPAA-compliant bilingual forms with BAA, Spanish appointment booking.
+Q: Serve The Woodlands, Sugar Land, Greater Houston? A: Yes — all of Houston MSA.
+Q: How long does Houston web design take? A: Energy/TMC: 8-16 weeks. Bilingual healthcare: 8-14 weeks. Bilingual adds 20-25% to timeline.
+Q: HIPAA-compliant bilingual websites for Houston healthcare? A: Yes — BAA-covered bilingual forms, bilingual PHI-free analytics, Spanish appointment booking, Texas Medical Board compliance.`,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Houston?","acceptedAnswer":{"@type":"Answer","text":"Houston web design: \$6,500-\$18,000 (energy/bilingual healthcare/TMC institutional), \$30,000-\$80,000+ (enterprise). API/HSE credibility architecture. Native bilingual English/Spanish. WCAG 2.1 AA. Fixed-price contracts."}},{"@type":"Question","name":"What is API/HSE credibility architecture for Houston energy websites?","acceptedAnswer":{"@type":"Answer","text":"API/HSE credibility means displaying: specific API certification registration numbers and scope (not generic 'API certified'), TRIR and LTIR performance data in the format upstream operators use for vendor safety evaluation, ISNetworld contractor prequalification display, and Gulf of Mexico operational depth documentation. ExxonMobil and Shell procurement teams evaluate vendor websites against these specific technical credibility signals."}},{"@type":"Question","name":"Does Clickmasters build bilingual English/Spanish websites for Houston businesses?","acceptedAnswer":{"@type":"Answer","text":"Yes. Native bilingual design — not translated English. South Texas Mexican-American and Central American community vocabulary. HIPAA-compliant bilingual forms with BAA-covered processors for healthcare. Spanish appointment booking. Mobile-first CWV."}},{"@type":"Question","name":"Does Clickmasters serve The Woodlands, Sugar Land, and Greater Houston?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Houston metro: Harris County, Fort Bend County (Sugar Land, Katy), Montgomery County (The Woodlands), and all Houston area counties."}},{"@type":"Question","name":"How long does a Houston web design project take?","acceptedAnswer":{"@type":"Answer","text":"Energy API/HSE (documentation adds time): 8-16 weeks. Bilingual healthcare HIPAA: 8-14 weeks. TMC institutional: 8-16 weeks. Enterprise: 16-26 weeks. Bilingual projects add 20-25% to timeline vs English-only."}},{"@type":"Question","name":"Does Clickmasters build HIPAA-compliant bilingual websites for Houston healthcare?","acceptedAnswer":{"@type":"Answer","text":"Yes. HIPAA-native bilingual: Spanish and English forms with BAA-covered processors, bilingual analytics excluding PHI, Spanish appointment booking meeting OCR standards, and the Texas Medical Board advertising compliance awareness throughout bilingual content."}}]}`,
   cta: `Get Your Free Houston Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. API/HSE credibility gaps — registration numbers, TRIR/LTIR, ISNetworld absent from energy website
+2. Bilingual gap — % of Houston's 44% Spanish-speaking market your English-only website is missing
+3. HIPAA compliance (healthcare) — bilingual form PHI exposure
+4. TMC institutional quality (healthcare/health tech) — credential display gaps
+5. Core Web Vitals — mobile LCP, CLS benchmarks
+
+Get Your Free Houston Website Audit: Phone +1-888-555-CLICK
+Email: houston@clickmastersdigitalmarketing.com
+Energy Corridor, Medical Center, The Woodlands, and all of Greater Houston`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-houston/","/seo-services-houston/","/web-design-agency-dallas/","/industries/oil-gas/","/tools/website-grader/"],
   
   publishingChecklist: {

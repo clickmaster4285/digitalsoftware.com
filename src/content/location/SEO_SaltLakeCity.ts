@@ -2,7 +2,7 @@
 // Service: SEO
 // City: SaltLakeCity
 // URL: /seo-services-salt-lake-city/
-// Generated: 2026-06-20T05:43:14.023Z
+// Generated: 2026-06-20T06:13:02.412Z
 
 export const SEO_SaltLakeCity = {
   service: "SEO",
@@ -18,6 +18,7 @@ export const SEO_SaltLakeCity = {
   meta: `Clickmasters SEO in Salt Lake City. Silicon Slopes Qualtrics/Domo tech B2B authority, Goldman Sachs FINRA investment, University of Utah/Primary Children's YMYL, and Utah UCPA-native analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Salt Lake City SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-salt-lake-city/","address":{"@type":"PostalAddress","addressLocality":"Salt Lake City","addressRegion":"UT","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN SALT LAKE CITY?
 
 SEO in Salt Lake City is the practice of earning organic search authority in the Beehive State's capital — where Silicon Slopes (Utah's remarkable technology corridor stretching from Salt Lake City through Lehi and Provo) has produced Qualtrics, Domo, Pluralsight, and Ancestry.com, Goldman Sachs's 3,000+ employee Salt Lake City operations create FINRA-active financial services community, and the University of Utah Health creates an academic medical YMYL standard that is one of the best in the Mountain West.
@@ -55,6 +56,7 @@ Case Study 3: Salt Lake City Healthcare — University of Utah YMYL SEO
 Client: Internal medicine (U of U Health-affiliated). Challenge: Generic content below U of U YMYL standard. Non-UCPA analytics.
 Programme: U of U Health vocabulary + Primary Children's community + YMYL E-E-A-T + HIPAA/UCPA-native
 Results (10 months): Page 1 for 10 SLC healthcare queries | YMYL: E-E-A-T | U of U: cited | UCPA/HIPAA: clean | New patients: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — SEO Salt Lake City`,
   faqs: [
   {
@@ -82,8 +84,18 @@ Results (10 months): Page 1 for 10 SLC healthcare queries | YMYL: E-E-A-T | U of
     "answer": "Silicon Slopes technology community and Goldman Sachs's Salt Lake City professional community use AI search for vendor research. First-mover GEO/AEO for SLC Silicon Slopes and Goldman Sachs vocabulary earns ChatGPT/Perplexity citation before competitors."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Salt Lake City SEO: \$1,000/month (Foundation) to \$10,000+/month (Enterprise). Silicon Slopes Qualtrics/Domo/Pluralsight tech vocabulary. Goldman Sachs/Zions FINRA. University of Utah/Primary Children's YMYL. Utah UCPA-native analytics. Utah retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Silicon Slopes technology B2B SEO for Salt Lake City businesses?","acceptedAnswer":{"@type":"Answer","text":"Silicon Slopes SEO builds organic authority in Utah's most commercially significant enterprise software vocabulary: Qualtrics experience management platform integration, Domo business intelligence cloud analytics methodology, Pluralsight technology skills development infrastructure, and Ancestry.com genealogy technology — earning organic discovery from Utah's most commercially active enterprise technology procurement community."}},{"@type":"Question","name":"What is Goldman Sachs FINRA SEO for Salt Lake City businesses?","acceptedAnswer":{"@type":"Answer","text":"Goldman Sachs Salt Lake City SEO builds FINRA-compliant organic authority demonstrating Goldman's operational vocabulary at 3,000+ employee Salt Lake City operations centre precision: investment banking technology, institutional trading systems, wealth management platform operational intelligence, and the Goldman Sachs institutional financial services vocabulary that Utah's most commercially significant financial enterprise evaluates."}},{"@type":"Question","name":"Does Clickmasters serve Lehi, Draper, South Jordan, and Greater Salt Lake City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Salt Lake City: Salt Lake County, Utah County (Lehi, Provo, Draper), Davis County, and the full Wasatch Front."}},{"@type":"Question","name":"How does Utah UCPA affect Salt Lake City SEO analytics?","acceptedAnswer":{"@type":"Answer","text":"Utah Consumer Privacy Act (UCPA, effective December 2023) creates analytics compliance requirements affecting all Salt Lake City businesses. UCPA-non-compliant analytics overstate performance by 10-15% through Utah opt-out user data collection. UCPA-native analytics produce accurate performance measurement and protect from Utah AG enforcement."}},{"@type":"Question","name":"How does GEO/AEO affect Salt Lake City SEO?","acceptedAnswer":{"@type":"Answer","text":"Silicon Slopes technology community and Goldman Sachs's Salt Lake City professional community use AI search for vendor research. First-mover GEO/AEO for SLC Silicon Slopes and Goldman Sachs vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Salt Lake City SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Silicon Slopes vocabulary gap — Qualtrics/Domo/Pluralsight searches you're missing
+2. Utah UCPA analytics accuracy — how much are non-compliant analytics overstating?
+3. Goldman Sachs/Zions FINRA compliance in financial content
+4. University of Utah/Primary Children's YMYL — academic credential gaps
+5. GEO/AEO — ChatGPT/Perplexity for SLC Silicon Slopes and Goldman Sachs queries
+
+Phone +1-888-555-CLICK | saltlakecity@clickmastersdigitalmarketing.com
+Lehi, Draper, South Jordan, Murray, and all of Greater Salt Lake City`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-salt-lake-city/","/seo-services-sacramento/","/seo-services-denver/"],
   
   publishingChecklist: {

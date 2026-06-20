@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Portland
 // URL: /web-design-agency-portland/
-// Generated: 2026-06-20T05:43:15.904Z
+// Generated: 2026-06-20T06:13:03.968Z
 
 export const WebDesign_Portland = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Portland = {
   meta: `Clickmasters web design in Portland. Authentic-values visual design, Nike/Adidas ecosystem credibility, Intel Hillsboro B2B, and Pacific Northwest authenticity for Oregon businesses. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Portland Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-portland/","address":{"@type":"PostalAddress","addressLocality":"Portland","addressRegion":"OR","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
+  breadcrumb: `Home > Web Design Services > Portland, OR`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN PORTLAND?
 
 A Portland web design agency builds websites for Portland-area businesses combining the authentic-values visual design language that the Pacific Northwest's most discerning commercial audience evaluates, the Nike and Adidas athletic brand ecosystem's specific vendor credibility requirements, and the Intel Hillsboro semiconductor corridor's engineering-standard technical precision.
@@ -60,6 +61,11 @@ Case Study 3: Hillsboro Semiconductor Services — Intel B2B Technical Redesign
 Client: Semiconductor testing services, Hillsboro (\$7.8M). Challenge: Generic B2B website below Intel engineering standard. SEMI certification not displayed. 4.2s load time.
 Programme: SEMI standards display + cleanroom classification + technical spec pages + sub-1.2s LCP + functional engineering design
 Results: Intel evaluation invitations from website: +3x | SEMI display: procurement cited | LCP: 4.2s to 1.0s | Technical spec pages: 8,400 organic sessions/month | Evaluation conversion: +3x`,
+  pricing: `Authentic-Values DTC/Consumer: \$7,000-\$18,000. B Corp architecture + bluesign display + Oregon authentic visual + Shopify/WooCommerce + CWV. 8-14 weeks.
+Nike/Adidas Ecosystem Vendor: \$8,000-\$20,000. bluesign/OEKO-TEX/HIGG + material science pages + supply chain transparency + Nike brand values-aligned visual. 10-16 weeks.
+Intel Hillsboro B2B: \$7,500-\$18,000. SEMI standards + cleanroom classification + technical specs + sub-1.5s LCP. 8-14 weeks.
+Enterprise: \$32,000-\$80,000+. Custom design system + enterprise CMS. 16-28 weeks.
+All: WCAG 2.1 AA. Fixed-price. 12-month warranty.`,
   faqTitle: `FAQs — Web Design Portland`,
   faqs: [
   {
@@ -87,8 +93,24 @@ Results: Intel evaluation invitations from website: +3x | SEMI display: procurem
     "answer": "Intel's Hillsboro semiconductor community evaluates vendor websites with engineering scrutiny: SEMI standards certification display, cleanroom classification (ISO 14644-1), technical specification pages at the precision level that semiconductor procurement evaluates, functional clarity over decorative design, and sub-1.5s LCP performance. Websites below this technical standard communicate inadequacy to Portland's most analytically demanding professional B2B community."
   }
 ],
+  faqsAlt: `Q: How much does Portland web design cost? A: \$7,000-\$20,000 (authentic-values/Nike/Intel). \$32,000-\$80,000+ (enterprise). WCAG 2.1 AA and CWV.
+Q: What is authentic-values web design? A: B Corp with year/score, carbon data with third-party verification, bluesign score, supply chain transparency with named certifiers. Specific evidence not generic claims. Portland audience evaluates performed vs genuine sustainability with above-average precision.
+Q: Nike/Adidas ecosystem vendor websites? A: Yes — bluesign/OEKO-TEX/HIGG architecture, material science spec pages, supply chain transparency. Earns genuine Nike/Adidas procurement evaluation invitations.
+Q: Serve Beaverton, Hillsboro, Greater Portland? A: Yes — all of Portland metro including Clark County WA.
+Q: How long does Portland web design take? A: DTC: 8-14 weeks. Nike/Adidas vendor: 10-16 weeks. Intel B2B: 8-14 weeks. Enterprise: 16-28 weeks.
+Q: Intel Hillsboro B2B web design standard? A: SEMI standards display, cleanroom classification, technical spec pages at engineering precision, functional clarity, sub-1.5s LCP.`,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Portland?","acceptedAnswer":{"@type":"Answer","text":"Portland web design: \$7,000-\$20,000 (authentic-values/Nike ecosystem/Intel B2B), \$32,000-\$80,000+ (enterprise). Authentic-values design standard and Core Web Vitals. WCAG 2.1 AA. Fixed-price contracts."}},{"@type":"Question","name":"What is authentic-values web design in Portland?","acceptedAnswer":{"@type":"Answer","text":"Authentic-values web design communicates specific evidence rather than generic sustainability claims. B Corp certification with year, score, and certification body — not just a logo. Carbon reduction data with third-party verification reference. bluesign score and category. Supply chain transparency with named certifying organisations. Portland's consumer and professional community evaluates the difference between performed and genuine sustainability with above-average precision."}},{"@type":"Question","name":"Does Clickmasters build websites for Nike and Adidas ecosystem vendors in Portland?","acceptedAnswer":{"@type":"Answer","text":"Yes. Nike ecosystem vendor credibility architecture: bluesign certification with specific score, OEKO-TEX Standard 100, HIGG Facility Environmental Module score, performance material science specification pages, and supply chain transparency documentation. The website architecture that earns genuine Nike and Adidas procurement evaluation invitations rather than first-contact dismissal."}},{"@type":"Question","name":"Does Clickmasters serve Beaverton, Hillsboro, and Greater Portland?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Portland metropolitan area: Portland (all neighbourhoods), Beaverton, Hillsboro, Lake Oswego, Tigard, Oregon City, and Clark County WA (Vancouver)."}},{"@type":"Question","name":"How long does a Portland web design project take?","acceptedAnswer":{"@type":"Answer","text":"Authentic-values DTC: 8-14 weeks. Nike/Adidas ecosystem vendor (supply chain documentation adds time): 10-16 weeks. Intel Hillsboro B2B: 8-14 weeks. Enterprise: 16-28 weeks."}},{"@type":"Question","name":"What is the Intel Hillsboro B2B web design standard?","acceptedAnswer":{"@type":"Answer","text":"Intel's Hillsboro semiconductor community evaluates vendor websites with engineering scrutiny: SEMI standards certification display, cleanroom classification (ISO 14644-1), technical specification pages at the precision level that semiconductor procurement evaluates, functional clarity over decorative design, and sub-1.5s LCP performance. Websites below this technical standard communicate inadequacy to Portland's most analytically demanding professional B2B community."}}]}`,
   cta: `Get Your Free Portland Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Authenticity assessment — specific evidence vs generic claims in current website
+2. Nike/Adidas ecosystem credibility — bluesign/HIGG/supply chain transparency gaps
+3. Intel Hillsboro technical standard — SEMI certification and technical spec page gaps
+4. Core Web Vitals — LCP, CLS, INP benchmarks
+5. WCAG 2.1 AA — Oregon state contract eligibility
+
+Get Your Free Portland Website Audit: Phone +1-888-555-CLICK
+Email: portland@clickmastersdigitalmarketing.com
+Pearl District, Beaverton, Hillsboro, Lake Oswego, and all of Greater Portland`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-portland/","/seo-services-portland/","/web-design-agency-seattle/","/industries/outdoor-apparel/","/tools/website-grader/"],
   
   publishingChecklist: {

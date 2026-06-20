@@ -28,6 +28,7 @@ export default function LocationClient({
   const hasInternalLinks = (location.internalLinks || []).length > 0;
   const hasPas = location.pas && location.pas.trim().length > 0;
   const hasServices = location.services && location.services.trim().length > 0;
+  const hasPricing = location.pricing && location.pricing.trim().length > 0;
 
   // Parse services into array if they exist
   const parseServices = (servicesText: string): { title: string; body: string }[] => {
@@ -54,7 +55,35 @@ export default function LocationClient({
     return items;
   };
 
+  // Parse pricing into array if it exists
+  const parsePricing = (pricingText: string): { title: string; description: string }[] => {
+    if (!pricingText) return [];
+    
+    const items: { title: string; description: string }[] = [];
+    const lines = pricingText.split('\n').filter(Boolean);
+    
+    for (const line of lines) {
+      const trimmed = line.trim();
+      if (trimmed.includes(':')) {
+        const [title, ...rest] = trimmed.split(':');
+        items.push({
+          title: title.trim(),
+          description: rest.join(':').trim(),
+        });
+      } else if (items.length > 0 && trimmed) {
+        // Append to last item's description if it doesn't start with a new title
+        const lastItem = items[items.length - 1];
+        if (lastItem && !trimmed.includes(':')) {
+          lastItem.description += ' ' + trimmed;
+        }
+      }
+    }
+    
+    return items;
+  };
+
   const servicesList = hasServices ? parseServices(location.services) : [];
+  const pricingList = hasPricing ? parsePricing(location.pricing) : [];
 
   return (
     <div className="min-h-screen overflow-x-hidden bg-white text-gray-900">
@@ -261,6 +290,54 @@ export default function LocationClient({
         </section>
       )}
 
+      {/* ===== PRICING ===== */}
+      {hasPricing && pricingList.length > 0 && (
+        <section id="pricing" className="relative overflow-hidden border-b border-gray-200 bg-white">
+          <div className="pointer-events-none absolute inset-x-0 top-10 select-none text-center font-display text-[18vw] leading-none text-gray-900/[0.05]">
+            PRICING
+          </div>
+          <div className="relative mx-auto max-w-5xl px-6 py-28">
+            <div>
+              <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ Investment Guide ]</div>
+              <h2 className="font-display text-4xl md:text-6xl">
+                Pricing <span className="text-rose-600">Plans</span>
+              </h2>
+              <p className="mt-4 text-lg text-gray-600">
+                {location.pricing.split('\n').find((line: string) => line.includes('All:')) || 'Flexible pricing to match your business needs.'}
+              </p>
+            </div>
+            <div className="mt-14 grid gap-6 md:grid-cols-3">
+              {pricingList.map((plan, i) => {
+                const isEnterprise = plan.title.toLowerCase().includes('enterprise');
+                const isMulti = plan.title.toLowerCase().includes('multi');
+                const bgColor = isEnterprise ? 'bg-rose-50 border-rose-200' : isMulti ? 'bg-blue-50 border-blue-200' : 'bg-gray-50 border-gray-200';
+                const borderColor = isEnterprise ? 'border-rose-500' : isMulti ? 'border-blue-500' : 'border-gray-300';
+                
+                return (
+                  <div
+                    key={i}
+                    className={`rounded-2xl border-2 ${bgColor} ${borderColor} p-8 transition hover:shadow-lg hover:-translate-y-1`}
+                  >
+                    <div className="mb-4">
+                      <span className="text-sm uppercase tracking-widest text-gray-500">
+                        {isEnterprise ? '🚀 Enterprise' : isMulti ? '📊 Multi-Channel' : '🚀 Starter'}
+                      </span>
+                      <h3 className="font-display text-2xl mt-2">{plan.title}</h3>
+                    </div>
+                    <p className="text-gray-700 leading-relaxed">{plan.description}</p>
+                    {isEnterprise && (
+                      <div className="mt-4 pt-4 border-t border-gray-200">
+                        <span className="text-sm font-medium text-rose-600">Best for large-scale growth</span>
+                      </div>
+                    )}
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* ===== STATS ===== */}
       <section className="relative overflow-hidden border-b border-gray-200 bg-gray-50 text-gray-900">
         <div className="pointer-events-none absolute inset-x-0 top-0 select-none text-center font-display text-[16vw] leading-none text-gray-900/[0.04]">
@@ -379,7 +456,7 @@ export default function LocationClient({
             {location.cta || `Get Your Free ${cityName} Website Audit`}
           </h2>
           <p className="mx-auto mt-6 max-w-xl text-white/70">
-            Free audit — 48 hours. Get your comprehensive website analysis today.
+            {location.ctaBody ? location.ctaBody.split('\n').slice(0, 3).join(' ') : 'Free audit — 48 hours. Get your comprehensive website analysis today.'}
           </p>
           <div className="mt-10 flex flex-wrap justify-center gap-3">
             <a

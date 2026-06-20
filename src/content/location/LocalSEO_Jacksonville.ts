@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Jacksonville
 // URL: /local-seo-services-jacksonville/
-// Generated: 2026-06-20T05:43:12.148Z
+// Generated: 2026-06-20T06:13:01.118Z
 
 export const LocalSEO_Jacksonville = {
   service: "LocalSEO",
@@ -18,6 +18,7 @@ export const LocalSEO_Jacksonville = {
   meta: `Clickmasters Local SEO in Jacksonville. FIS Global world-largest-fintech proximity GBP, Baptist Health/Nemours academic medical credential, and Ponte Vedra/St. Johns professional quality standard. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Jacksonville Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-jacksonville/","address":{"@type":"PostalAddress","addressLocality":"Jacksonville","addressRegion":"FL","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN JACKSONVILLE?
 
 Local SEO in Jacksonville is the practice of optimising Google Business Profiles for the top 3 of Greater Jacksonville's Local Pack — in a market where FIS Global's downtown Jacksonville campus creates world-largest-fintech B2B proximity GBP commercial value, Baptist Health and Nemours Wolfson define the academic YMYL healthcare standard, and Ponte Vedra Beach and St. Johns represent the highest-income professional communities in Northeast Florida.
@@ -53,6 +54,7 @@ Case Study 3: Downtown Jacksonville Professional Services — FIS Proximity GBP
 Client: Banking consulting, downtown Jacksonville. Challenge: No FIS fintech vocabulary. Generic professional services GBP.
 Programme: FIS payment/banking vocabulary + world-largest-fintech proximity + financial technology photography + SB 262-native
 Results (3 months): Top 3 Local Pack Jacksonville fintech consulting | FIS community near-me: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — Local SEO Jacksonville`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results (3 months): Top 3 Local Pack Jacksonville fintech consulting | FIS commu
     "answer": "SB 262-compliant consent management for review request email data collection and SB 262-accurate GBP review analytics — protecting Jacksonville businesses from Florida AG enforcement exposure on every review request sent to Florida residents."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Jacksonville?","acceptedAnswer":{"@type":"Answer","text":"Jacksonville Local SEO: \$900/month (single) to \$9,000+/month (enterprise). FIS Global world-largest-fintech proximity GBP. Baptist Health/Nemours YMYL academic medical. Ponte Vedra/St. Johns professional quality. HIPAA/FINRA/SB 262 review management. Florida retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is FIS Global world-largest-fintech proximity GBP for Jacksonville businesses?","acceptedAnswer":{"@type":"Answer","text":"FIS payment/banking/wealth vocabulary in GBP service descriptions, FIS Global downtown Jacksonville campus proximity signals, and financial technology professional photography — earning above-average B2B near-me consideration from the world's largest fintech company's 130-country Jacksonville headquarters community."}},{"@type":"Question","name":"Does Clickmasters serve Ponte Vedra Beach, Orange Park, St. Johns, and Greater Jacksonville?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Jacksonville MSA."}},{"@type":"Question","name":"How many reviews for Jacksonville Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Northeast Florida benchmarks: Ponte Vedra Beach/St. Johns professional services: 4.5+ stars, 60-110+ reviews. Baptist Health/Nemours-adjacent healthcare: 4.4+, 50-100+. Downtown Jacksonville fintech B2B: 4.3+, 35-65+."}},{"@type":"Question","name":"What is the Ponte Vedra Beach professional quality GBP standard for Jacksonville?","acceptedAnswer":{"@type":"Answer","text":"Ponte Vedra Beach — home to many FIS Global SVPs, Florida Blue executives, and Landstar senior management — evaluates GBPs with the Northeast Florida Fortune 500 executive precision: CFA Institute-verified credentials for financial advisory, Baptist Health affiliation for healthcare, and the coastal professional photography quality that internationally-recruited FIS Global executives from London, Sydney, and Singapore expect from Jacksonville's most affluent coastal community."}},{"@type":"Question","name":"What is Florida SB 262-native review management for Jacksonville Local SEO?","acceptedAnswer":{"@type":"Answer","text":"SB 262-compliant consent management for review request email data collection and SB 262-accurate GBP review analytics — protecting Jacksonville businesses from Florida AG enforcement exposure on every review request sent to Florida residents."}}]}`,
   cta: `Get Your Free Jacksonville Local SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. FIS Global proximity signals — world-largest-fintech vocabulary absent from GBP
+2. Baptist Health/Nemours academic credential display gaps
+3. Florida SB 262-native review analytics — enforcement exposure
+4. FINRA-aware review management (financial)
+5. Review volume vs Ponte Vedra/FIS executive community benchmark
+
+Phone +1-888-555-CLICK | jacksonville@clickmastersdigitalmarketing.com
+Ponte Vedra Beach, St. Johns, Riverside, Avondale, and all of Greater Jacksonville`,
   internalLinks: ["/local-seo-services/","/seo-services-jacksonville/","/digital-marketing-agency-jacksonville/","/local-seo-services-orlando/"],
   
   publishingChecklist: {

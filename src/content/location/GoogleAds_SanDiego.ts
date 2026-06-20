@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: SanDiego
 // URL: /google-ads-management-san-diego/
-// Generated: 2026-06-20T05:43:11.464Z
+// Generated: 2026-06-20T06:13:00.687Z
 
 export const GoogleAds_SanDiego = {
   service: "GoogleAds",
@@ -18,6 +18,7 @@ export const GoogleAds_SanDiego = {
   meta: `Clickmasters Google Ads in San Diego. Defence contractor CMMC/AS9100D PPC, Torrey Pines FDA-aware life science, and CCPA-native California campaigns. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Diego Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-san-diego/","address":{"@type":"PostalAddress","addressLocality":"San Diego","addressRegion":"CA","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN SAN DIEGO?
 
 Google Ads management in San Diego is the professional management of PPC advertising across three commercially distinct campaign categories unique to San Diego's commercial ecosystem: CMMC/AS9100D defence contractor vocabulary PPC, FDA-aware Torrey Pines life science procurement campaigns, and CCPA-native California-compliant consumer and professional services PPC.
@@ -53,6 +54,7 @@ Case Study 3: La Jolla Healthcare Practice — UCSD HIPAA CCPA Patient Acquisiti
 Client: Internal medicine, La Jolla (UCSD Health). Challenge: Non-HIPAA conversion tracking. Non-CCPA Google Ads overstating conversions 28%.
 Programme: HIPAA server-side conversion + CCPA Consent Mode v2 + UCSD vocabulary + California local audience
 Results: CCPA-accurate conversions established (28% lower than reported) | New patients from paid: +3x at accurate CPL | HIPAA/CCPA: California AG pre-audit passed`,
+  pricing: ``,
   faqTitle: `FAQs — Google Ads San Diego`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results: CCPA-accurate conversions established (28% lower than reported) | New p
     "answer": "San Diego CPCs 15-20% below equivalent San Francisco/Bay Area searches. CMMC/defence vocabulary CPCs below Bay Area IT security equivalent. Torrey Pines life science vocabulary below Kendall Square/South San Francisco pharmaceutical equivalent."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in San Diego?","acceptedAnswer":{"@type":"Answer","text":"San Diego Google Ads: \$1,400/month (Growth) to \$12,000+/month (Enterprise). CMMC/AS9100D defence vocabulary. FDA-aware life science. CCPA Consent Mode v2. HIPAA-compliant. California CPCs below San Francisco. 90-day guarantee."}},{"@type":"Question","name":"What is CMMC/AS9100D defence vocabulary Google Ads for San Diego?","acceptedAnswer":{"@type":"Answer","text":"CMMC/NIST SP 800-171 vocabulary campaigns targeting NAVWAR, Northrop, Leidos, and SAIC procurement staff who Google using CMMC, NIST, AS9100D, and DCAA terminology. Generic cybersecurity campaigns miss these defence-vocabulary searches entirely."}},{"@type":"Question","name":"What is CCPA Consent Mode v2 for San Diego Google Ads?","acceptedAnswer":{"@type":"Answer","text":"CCPA Consent Mode v2 implements CPRA-compliant consent management for Google Ads conversion tracking in California, producing accurate conversion counts that exclude California opt-out users. San Diego businesses without Consent Mode v2 overreport Google Ads conversions by 20-35%."}},{"@type":"Question","name":"Does Clickmasters serve La Jolla, Chula Vista, and Greater San Diego?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of San Diego County."}},{"@type":"Question","name":"How quickly does San Diego CMMC defence Google Ads produce results?","acceptedAnswer":{"@type":"Answer","text":"CMMC vocabulary clicks 7-14 days. DoD-qualified evaluation leads 30-45 days. CRM pipeline 90-120 days."}},{"@type":"Question","name":"How do San Diego Google Ads CPCs compare to San Francisco?","acceptedAnswer":{"@type":"Answer","text":"San Diego CPCs 15-20% below equivalent San Francisco/Bay Area searches. CMMC/defence vocabulary CPCs below Bay Area IT security equivalent. Torrey Pines life science vocabulary below Kendall Square/South San Francisco pharmaceutical equivalent."}}]}`,
   cta: `Get Your Free San Diego Google Ads Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. CMMC/AS9100D vocabulary gap — defence procurement searches your campaigns miss
+2. CCPA Consent Mode v2 — California conversion tracking accuracy
+3. HIPAA compliance — conversion tracking healthcare violations
+4. Torrey Pines FDA vocabulary — Phase I/CLIA searches not captured
+5. Revenue attribution — Google Ads contribution vs San Diego defence/life science benchmark
+
+Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
+Kearny Mesa, Torrey Pines, La Jolla, and all of San Diego County`,
   internalLinks: ["/digital-marketing-agency-san-diego/","/seo-services-san-diego/","/google-ads-management-services/","/google-ads-management-los-angeles/"],
   
   publishingChecklist: {

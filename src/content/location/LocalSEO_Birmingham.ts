@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Birmingham
 // URL: /local-seo-services-birmingham/
-// Generated: 2026-06-20T05:43:11.693Z
+// Generated: 2026-06-20T06:13:00.872Z
 
 export const LocalSEO_Birmingham = {
   service: "LocalSEO",
@@ -18,6 +18,7 @@ export const LocalSEO_Birmingham = {
   meta: `Clickmasters Local SEO in Birmingham. Regions Financial FINRA proximity GBP, UAB NCI world-class YMYL, and Mountain Brook/Vestavia Hills professional quality. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Birmingham Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-birmingham/","address":{"@type":"PostalAddress","addressLocality":"Birmingham","addressRegion":"AL","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3300,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN BIRMINGHAM?
 
 Local SEO in Birmingham is optimising Google Business Profiles for the top 3 of the Magic City's Local Pack — where Regions Financial creates banking B2B proximity GBP value, UAB's world-class NCI Cancer Center defines the YMYL standard for Alabama, and Mountain Brook and Vestavia Hills represent Greater Birmingham's highest-income professional communities.
@@ -53,6 +54,7 @@ Case Study 3: Downtown Birmingham Financial Services — Regions Proximity GBP
 Client: Banking analytics (Regions-adjacent). Challenge: No Regions FINRA vocabulary. Generic GBP.
 Programme: FINRA commercial banking vocabulary + downtown proximity + banking photography
 Results (3 months): Top 3 Local Pack Birmingham banking consulting | Regions community near-me: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — Local SEO Birmingham`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results (3 months): Top 3 Local Pack Birmingham banking consulting | Regions com
     "answer": "Yes. Iron Bowl (Alabama-Auburn annual rivalry game, November) creates Birmingham's highest annual college football community GBP review engagement window. Post-Iron Bowl (late November) review request campaigns earn above-average response from Birmingham's most passionately engaged annual sports community."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Birmingham Local SEO: \$900/month (single) to \$9,000+/month (enterprise). Regions FINRA proximity GBP. UAB world-class NCI YMYL. Mountain Brook/Vestavia Hills professional quality. HIPAA review management. Alabama retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Regions Financial FINRA proximity GBP for Birmingham businesses?","acceptedAnswer":{"@type":"Answer","text":"FINRA-compliant commercial banking vocabulary in GBP service descriptions, downtown Birmingham Regions headquarters proximity signals, and banking institutional photography — earning above-average B2B near-me consideration from Regions Financial's Birmingham commercial banking professional community."}},{"@type":"Question","name":"Does Clickmasters serve Hoover, Vestavia Hills, Mountain Brook, and Greater Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Birmingham MSA: Jefferson County, Shelby County, St. Clair County."}},{"@type":"Question","name":"How many reviews for Birmingham Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Birmingham benchmarks: Mountain Brook/Vestavia Hills professional services: 4.5+ stars, 55-110+ reviews. UAB/Encompass-adjacent healthcare: 4.4+, 50-100+. Downtown Birmingham banking B2B: 4.3+, 35-70+."}},{"@type":"Question","name":"What is the Mountain Brook/Vestavia Hills professional quality GBP standard for Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Mountain Brook's elite residential community — home to Regions Financial executives, Blue Cross Alabama leadership, and UAB medical faculty — and Vestavia Hills' high-income suburban professional corridor evaluate GBPs with Alabama banking and world-class academic medical institutional precision: CFA verification for financial advisory, UAB NCI affiliation for healthcare, and Alabama institutional photography."}},{"@type":"Question","name":"Does Iron Bowl timing affect Birmingham GBP review strategy?","acceptedAnswer":{"@type":"Answer","text":"Yes. Iron Bowl (Alabama-Auburn annual rivalry game, November) creates Birmingham's highest annual college football community GBP review engagement window. Post-Iron Bowl (late November) review request campaigns earn above-average response from Birmingham's most passionately engaged annual sports community."}}]}`,
   cta: `Get Your Free Birmingham Local SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Regions FINRA proximity — commercial banking vocabulary absent from GBP
+2. UAB NCI world-class credential display gaps
+3. HIPAA review management compliance
+4. CFA/CFP verification — Mountain Brook/Vestavia Hills standard
+5. Iron Bowl seasonal — November review timing strategy
+
+Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
+Mountain Brook, Vestavia Hills, Homewood, Five Points South, and all of Greater Birmingham`,
   internalLinks: ["/local-seo-services/","/seo-services-birmingham/","/digital-marketing-agency-birmingham/","/local-seo-services-huntsville/"],
   
   publishingChecklist: {

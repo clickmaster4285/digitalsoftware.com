@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Minneapolis
 // URL: /web-design-agency-minneapolis/
-// Generated: 2026-06-20T05:43:15.573Z
+// Generated: 2026-06-20T06:13:03.844Z
 
 export const WebDesign_Minneapolis = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Minneapolis = {
   meta: `Clickmasters web design in Minneapolis. Medical Alley FDA-credible websites, Fortune 500 Minnesota vendor architecture, and HIPAA-compliant healthcare for the Twin Cities. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Minneapolis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-minneapolis/","address":{"@type":"PostalAddress","addressLocality":"Minneapolis","addressRegion":"MN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
+  breadcrumb: `Home > Web Design Services > Minneapolis, MN`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN MINNEAPOLIS?
 
 A Minneapolis web design agency builds websites for Twin Cities businesses combining Medical Alley FDA and KLAS clinical credibility architecture, Fortune 500 Minnesota vendor visual standards, and the Scandinavian-heritage design precision that Minnesota's commercially discerning professional community evaluates.
@@ -63,6 +64,11 @@ Case Study 3: Minneapolis Multi-Location Healthcare — HIPAA Scandinavian Redes
 Client: Internal medicine group, Minneapolis metro (4 locations). Challenge: Non-HIPAA website. Clinical photography below Minnesota professional standard. Mobile load 5.8s.
 Programme: HIPAA redesign + Scandinavian clinical design + mobile CWV (5.8s to 1.6s) + appointment booking + WCAG 2.1 AA
 Results: HIPAA compliance: clean | Online booking: 0 to 38% of all appointments | Mobile LCP: 5.8s to 1.6s | New patient digital enquiries: +220/month`,
+  pricing: `Medical Alley (FDA/KLAS): \$7,500-\$20,000. FDA display + KLAS integration + clinical evidence pages + HIPAA + CWV. 10-16 weeks.
+Fortune 500 Vendor: \$7,000-\$18,000. Institutional visual + executive credentials + ISO display + Scandinavian design precision. 8-14 weeks.
+Healthcare (HIPAA): \$6,500-\$16,000. HIPAA architecture + appointment booking + CWV + WCAG 2.1 AA. 8-14 weeks.
+Enterprise: \$30,000-\$80,000+. Custom design system + enterprise CMS. 16-28 weeks.
+All: WCAG 2.1 AA. Fixed-price. 12-month warranty.`,
   faqTitle: `FAQs — Web Design Minneapolis`,
   faqs: [
   {
@@ -90,8 +96,24 @@ Results: HIPAA compliance: clean | Online booking: 0 to 38% of all appointments 
     "answer": "Yes. HIPAA-native architecture: secure forms with BAA-covered processors, analytics excluding PHI events, appointment booking meeting OCR technical standards. Minnesota Medical Board advertising compliance awareness. Standard for all Minneapolis healthcare website projects."
   }
 ],
+  faqsAlt: `Q: How much does Minneapolis web design cost? A: \$6,500-\$20,000 (Medical Alley/Fortune 500/healthcare). \$30,000-\$80,000+ (enterprise). WCAG 2.1 AA, CWV, HIPAA for healthcare, FDA/KLAS for Medical Alley.
+Q: What is Medical Alley FDA/KLAS credibility web design? A: FDA 510k/PMA display, KLAS score with measurement year, peer-reviewed clinical evidence citations. IDN procurement specifically cites these as credibility signals. Without them: evaluation invitations lost before RFP.
+Q: What is Scandinavian design precision? A: Clean minimalism, functional clarity, evidence-grounded specificity. Minnesota's commercially discerning community rewards clean, specific, institutionally grounded design over decorative marketing aesthetics.
+Q: Serve St. Paul, Eden Prairie, Plymouth, Twin Cities metro? A: Yes — all of Minneapolis-St. Paul MSA.
+Q: How long does Minneapolis web design take? A: Medical Alley: 10-16 weeks. Fortune 500 vendor: 8-14 weeks. Healthcare: 8-14 weeks. Enterprise: 16-28 weeks.
+Q: HIPAA-compliant websites for Minneapolis healthcare? A: Yes — HIPAA-native, BAA managed, OCR-standard appointment booking, Minnesota Medical Board compliance.`,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Minneapolis?","acceptedAnswer":{"@type":"Answer","text":"Minneapolis web design: \$6,500-\$20,000 (Medical Alley/Fortune 500/healthcare), \$30,000-\$80,000+ (enterprise). WCAG 2.1 AA and Core Web Vitals. HIPAA for healthcare. FDA/KLAS credibility for Medical Alley. Fixed-price contracts."}},{"@type":"Question","name":"What is Medical Alley FDA/KLAS credibility web design?","acceptedAnswer":{"@type":"Answer","text":"Medical Alley clinical credibility architecture means displaying: FDA clearance status with specific 510(k) number or PMA designation and cleared indication, KLAS rating with specific score and category measurement year, peer-reviewed clinical evidence citations from NEJM/JAMA/CHEST, and the institutional clinical credibility signals that IDN supply chain directors use during digital vendor due diligence. Websites without this architecture lose health system evaluations before the RFP is issued."}},{"@type":"Question","name":"What is Scandinavian design precision in Minneapolis web design?","acceptedAnswer":{"@type":"Answer","text":"Minneapolis's Scandinavian heritage influences commercial design preferences toward clean minimalism, functional clarity, and evidence-grounded specificity over decorative marketing design. Websites calibrated to this aesthetic — clean, specific, institutionally grounded — earn more trust from Minnesota's professionally discerning commercial community than aspirational or ornamental design styles."}},{"@type":"Question","name":"Does Clickmasters serve St. Paul, Eden Prairie, Plymouth, and the Twin Cities metro?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Minneapolis-St. Paul metropolitan area including Hennepin County, Ramsey County, Washington County, and the Medical Alley corridor."}},{"@type":"Question","name":"How long does a Minneapolis web design project take?","acceptedAnswer":{"@type":"Answer","text":"Medical Alley (FDA/KLAS review adds time): 10-16 weeks. Fortune 500 vendor: 8-14 weeks. Healthcare (HIPAA review): 8-14 weeks. Enterprise: 16-28 weeks."}},{"@type":"Question","name":"Does Clickmasters build HIPAA-compliant websites for Minneapolis healthcare?","acceptedAnswer":{"@type":"Answer","text":"Yes. HIPAA-native architecture: secure forms with BAA-covered processors, analytics excluding PHI events, appointment booking meeting OCR technical standards. Minnesota Medical Board advertising compliance awareness. Standard for all Minneapolis healthcare website projects."}}]}`,
   cta: `Get Your Free Minneapolis Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. FDA/KLAS credibility gap — clinical credibility signals absent from current Medical Alley website
+2. Fortune 500 vendor standard — does your website pass Target/UnitedHealth institutional quality evaluation?
+3. Scandinavian design precision — is your design clean, specific, and evidence-grounded?
+4. Core Web Vitals — LCP, CLS, INP benchmarks
+5. WCAG 2.1 AA — Minnesota state and University of Minnesota contract eligibility
+
+Get Your Free Minneapolis Website Audit: Phone +1-888-555-CLICK
+Email: minneapolis@clickmastersdigitalmarketing.com
+Plymouth, Eden Prairie, Edina, St. Paul, and all of the Twin Cities metro`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-minneapolis/","/seo-services-minneapolis/","/web-design-agency-chicago/","/industries/medical-devices/","/tools/website-grader/"],
   
   publishingChecklist: {

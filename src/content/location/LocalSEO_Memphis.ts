@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Memphis
 // URL: /local-seo-services-memphis/
-// Generated: 2026-06-20T05:43:12.268Z
+// Generated: 2026-06-20T06:13:01.190Z
 
 export const LocalSEO_Memphis = {
   service: "LocalSEO",
@@ -18,6 +18,7 @@ export const LocalSEO_Memphis = {
   meta: `Clickmasters Local SEO in Memphis. FedEx World Technology Center proximity B2B GBP, St. Jude world-class YMYL academic medical credential, and Germantown/East Memphis professional quality. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Memphis Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-memphis/","address":{"@type":"PostalAddress","addressLocality":"Memphis","addressRegion":"TN","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN MEMPHIS?
 
 Local SEO in Memphis is the practice of optimising Google Business Profiles for the top 3 of Greater Memphis's Local Pack — in a market where FedEx's world headquarters creates logistics B2B proximity GBP commercial value, St. Jude Children's Research Hospital defines a world-class YMYL academic medical standard, and Germantown and East Memphis represent the highest-income professional communities in Greater Memphis.
@@ -53,6 +54,7 @@ Case Study 3: East Memphis Technology Services — FedEx WTC Proximity B2B GBP
 Client: Supply chain analytics, East Memphis (FedEx-adjacent). Challenge: No FedEx logistics vocabulary. Generic GBP.
 Programme: FedEx Ground/last-mile/WTC vocabulary + East Memphis logistics proximity + supply chain photography
 Results (3 months): Top 3 Local Pack East Memphis logistics consulting | FedEx community near-me: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — Local SEO Memphis`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results (3 months): Top 3 Local Pack East Memphis logistics consulting | FedEx c
     "answer": "Yes. Memphis in May BBQ World Championship (May) and Beale Street Music Festival (May) create peak review request opportunities for hospitality, food, and entertainment businesses when enthusiastic Bluff City event visitors generate above-average review motivation. Post-event (late May) review request email earns above-average Memphis visitor review response rates."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Memphis?","acceptedAnswer":{"@type":"Answer","text":"Memphis Local SEO: \$900/month (single) to \$9,000+/month (enterprise). FedEx WTC proximity GBP. St. Jude world-class YMYL academic medical. Germantown/East Memphis professional quality. HIPAA/TIPA review management. Tennessee retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is FedEx WTC proximity B2B GBP for Memphis businesses?","acceptedAnswer":{"@type":"Answer","text":"FedEx logistics vocabulary in GBP service descriptions (Ground network, Express air hub, Freight last-mile delivery analytics), Germantown/Collierville WTC proximity signals, and supply chain logistics professional photography — earning above-average B2B near-me consideration from FedEx's 30,000+ Memphis-area professional community."}},{"@type":"Question","name":"Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Memphis MSA: Shelby County (Tennessee) and DeSoto County (Mississippi)."}},{"@type":"Question","name":"How many reviews for Memphis Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Memphis benchmarks: Germantown/East Memphis professional services: 4.5+ stars, 60-110+ reviews. St. Jude/Baptist-adjacent healthcare: 4.4+, 50-100+. East Memphis logistics B2B: 4.3+, 35-70+."}},{"@type":"Question","name":"What is the Germantown/East Memphis professional quality GBP standard for Memphis?","acceptedAnswer":{"@type":"Answer","text":"Germantown — home to FedEx senior management, AutoZone executives, and Mid-South Fortune 500 leadership — evaluates GBPs with the Mid-South Fortune 500 professional institutional precision: CFA Institute verification for financial advisory, Baptist Memorial/Methodist Le Bonheur affiliation for healthcare, and Fortune 500 logistics professional photography."}},{"@type":"Question","name":"Does Memphis in May timing affect Memphis GBP review strategy?","acceptedAnswer":{"@type":"Answer","text":"Yes. Memphis in May BBQ World Championship (May) and Beale Street Music Festival (May) create peak review request opportunities for hospitality, food, and entertainment businesses when enthusiastic Bluff City event visitors generate above-average review motivation. Post-event (late May) review request email earns above-average Memphis visitor review response rates."}}]}`,
   cta: `Get Your Free Memphis Local SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. FedEx WTC proximity signals — logistics vocabulary absent from GBP
+2. St. Jude/Baptist Memorial world-class YMYL credential display gaps
+3. Tennessee TIPA-native review analytics — AG enforcement exposure
+4. FINRA-aware review management (financial)
+5. Review volume vs Germantown FedEx/AutoZone executive community benchmark
+
+Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
+Germantown, East Memphis, Collierville, Cooper-Young, and all of Greater Memphis`,
   internalLinks: ["/local-seo-services/","/seo-services-memphis/","/digital-marketing-agency-memphis/","/local-seo-services-nashville/"],
   
   publishingChecklist: {

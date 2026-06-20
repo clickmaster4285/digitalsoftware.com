@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Portland
 // URL: /local-seo-services-portland/
-// Generated: 2026-06-20T05:43:12.528Z
+// Generated: 2026-06-20T06:13:01.398Z
 
 export const LocalSEO_Portland = {
   service: "LocalSEO",
@@ -18,6 +18,7 @@ export const LocalSEO_Portland = {
   meta: `Clickmasters Local SEO in Portland. Top 3 Google Local Pack with Portland's authenticity-intelligence standard for Nike/Adidas ecosystem, Intel Hillsboro, and Oregon businesses. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Portland Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-portland/","address":{"@type":"PostalAddress","addressLocality":"Portland","addressRegion":"OR","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
+  breadcrumb: `Home > Local SEO Services > Portland, OR`,
   geoAeoBlock: `WHAT IS LOCAL SEO IN PORTLAND?
 
 Local SEO in Portland is the practice of optimising a business's Google Business Profile to appear in the top 3 of Google's Local Pack for geographically specific searches across Portland's 2.5 million person metropolitan area — in a market that applies the most rigorous authenticity-intelligence standard of any US city to local business evaluation.
@@ -55,6 +56,10 @@ Case Study 3: Hillsboro Healthcare Practice — Intel Corridor Professional Loca
 Client: Concierge medicine, Hillsboro OR (1 location, Intel corridor-adjacent). Challenge: Intel semiconductor professional community not finding Hillsboro concierge practice.
 Programme: Technical professional GBP vocabulary + Intel corridor geo-targeting + semiconductor community review programme + Hillsboro/Beaverton landing pages
 Results (4 months): Top 3 Local Pack Hillsboro and Beaverton concierge medicine | Intel professional community enquiries: +3x | Semiconductor professional new patients: above-average HHI`,
+  pricing: `Single Location (\$1,000-\$2,200/month): Authentic-values GBP, Portland-standard review programme, weekly authentic GBP Posts, neighbourhood landing page.
+Multi-Location (\$2,200-\$5,000/month): All Single + Nike/Intel corridor + Portland metro neighbourhood coverage + citation management.
+Enterprise (\$5,000-\$11,000+/month): All Multi + full Portland metro + Washington County + dedicated specialist.
+All: Portland authenticity standard. Oregon advertising compliance. 90-day guarantee.`,
   faqTitle: `FAQs — Local SEO Portland`,
   faqs: [
   {
@@ -82,8 +87,24 @@ Results (4 months): Top 3 Local Pack Hillsboro and Beaverton concierge medicine 
     "answer": "Portland Local Pack timelines: Consumer services: 3-5 months. Nike/Adidas B2B: 3-5 months. Intel Hillsboro professional: 2-4 months. Portland's Local Pack competition is lower than Seattle, making results faster to achieve."
   }
 ],
+  faqsAlt: `Q: How much does Portland Local SEO cost? A: \$1,000-\$11,000+/month. Authenticity-calibrated GBP. Oregon advertising compliance. 90-day guarantee.
+Q: What is Portland's authenticity-intelligence standard? A: Specific certifications/data/partnerships over generic claims. B Corp score, bluesign, actual carbon data, named community partnerships. Specific evidence earns trust; generic claims earn scepticism.
+Q: Serve Beaverton, Hillsboro, Greater Portland? A: Yes — all of Portland metro including Washington County and Clark County WA.
+Q: How does Nike's campus affect Portland Local SEO? A: B2B vendors need specific sustainability certifications (bluesign, OEKO-TEX, Higg Index), authentic community involvement, and Nike brand values-aligned GBP content.
+Q: How many reviews for Portland Local Pack? A: Consumer: 4.5+ stars, 60-120+ reviews. Professional services: 4.5+, 40-90+. Lower volume than Seattle but authenticity quality matters more.
+Q: How long does Portland Local SEO take? A: Consumer: 3-5 months. Nike/Adidas B2B: 3-5 months. Intel Hillsboro: 2-4 months.`,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Portland?","acceptedAnswer":{"@type":"Answer","text":"Portland Local SEO: \$1,000/month (single location) to \$11,000+/month (enterprise). Authenticity-calibrated GBP management at Portland's above-average standard. Oregon advertising compliance. 90-day performance guarantee."}},{"@type":"Question","name":"What is Portland's authenticity-intelligence standard for Local SEO?","acceptedAnswer":{"@type":"Answer","text":"Portland's local business community is evaluated by consumers applying above-average scepticism to marketing language. GBP descriptions with generic sustainability claims earn less trust than descriptions with specific certifications (B Corp score, bluesign, OEKO-TEX), specific data (carbon reduction figures), and specific community partnerships (named Portland schools, named community events). The Portland Local SEO standard is specific evidence over generic claims."}},{"@type":"Question","name":"Does Clickmasters serve Beaverton, Hillsboro, and Greater Portland for Local SEO?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Portland metropolitan area: Multnomah County (Portland), Washington County (Beaverton, Hillsboro, Tigard), Clackamas County (Lake Oswego, Oregon City), and Clark County WA (Vancouver, Camas)."}},{"@type":"Question","name":"How does Nike's Beaverton campus affect Portland Local SEO?","acceptedAnswer":{"@type":"Answer","text":"Nike's Beaverton headquarters creates a B2B professional community that evaluates vendor GBPs with athletic brand values precision: specific sustainability certifications (bluesign, OEKO-TEX, Higg Index), authentic community involvement, and the values communication that aligns with Nike's brand standards. B2B vendors serving the Nike ecosystem benefit from GBP content demonstrating specific athletic industry credentials."}},{"@type":"Question","name":"How many reviews does a Portland business need for Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Portland Local Pack review benchmarks: Consumer services: 4.5+ stars with 60-120+ reviews (lower than Seattle due to Portland's genuinely lower review culture volume). Professional services: 4.5+ stars with 40-90+ reviews. Nike/Intel corridor B2B: 4.5+ stars with 30-70+ reviews."}},{"@type":"Question","name":"How long does Portland Local SEO take?","acceptedAnswer":{"@type":"Answer","text":"Portland Local Pack timelines: Consumer services: 3-5 months. Nike/Adidas B2B: 3-5 months. Intel Hillsboro professional: 2-4 months. Portland's Local Pack competition is lower than Seattle, making results faster to achieve."}}]}`,
   cta: `Get Your Free Portland Local SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Authenticity assessment — does your GBP description use specific evidence or generic claims?
+2. B Corp and certification display gaps — certifications absent from current GBP
+3. Nike/Adidas ecosystem opportunity (if your business serves athletic brand B2B)
+4. Intel Hillsboro corridor — semiconductor professional community near-me visibility
+5. Review programme quality — authentic vs marketing-language response style
+
+Get Your Free Portland Local SEO Audit: Phone +1-888-555-CLICK
+Email: portland@clickmastersdigitalmarketing.com
+Pearl District, Beaverton, Hillsboro, Lake Oswego, and all of Greater Portland`,
   internalLinks: ["/local-seo-services/","/seo-services-portland/","/digital-marketing-agency-portland/","/local-seo-services-seattle/","/tools/local-seo-audit/","/industries/outdoor-apparel/"],
   
   publishingChecklist: {

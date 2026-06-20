@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Charlotte
 // URL: /web-design-agency-charlotte/
-// Generated: 2026-06-20T05:43:15.227Z
+// Generated: 2026-06-20T06:13:03.506Z
 
 export const WebDesign_Charlotte = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Charlotte = {
   meta: `Clickmasters web design in Charlotte. Banking institutional credibility for BofA/Truist ecosystem, NASCAR motorsports vendor authority, and Atrium/Novant YMYL HIPAA design. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Charlotte Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-charlotte/","address":{"@type":"PostalAddress","addressLocality":"Charlotte","addressRegion":"NC","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN CHARLOTTE?
 
 A Charlotte web design agency builds websites across three commercially distinct design requirements: banking capital institutional credibility for the Bank of America/Truist financial ecosystem, NASCAR motorsports enterprise vendor authority for the Concord motorsports community, and Atrium Health/Novant Health YMYL healthcare credential architecture.
@@ -51,6 +52,7 @@ Case Study 3: Charlotte Cardiology Practice — Atrium YMYL HIPAA Redesign
 Client: Cardiology (2 physicians, Atrium Health-affiliated). Challenge: No Atrium affiliation display. Non-HIPAA. Below YMYL standard.
 Programme: Atrium Health affiliation + HIPAA-native + YMYL E-E-A-T + Carolinas Medical community + CWV
 Results: YMYL E-E-A-T: recognised | Atrium display: cited in patient surveys | HIPAA: clean | New patients from website: +3x | LCP: 4.6s to 1.2s`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Charlotte`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: YMYL E-E-A-T: recognised | Atrium display: cited in patient surveys | H
     "answer": "Atrium Health and Novant Health system affiliation display, Carolinas Medical Center academic credential where applicable, UNC Charlotte and Wake Forest School of Medicine faculty attribution, HIPAA-native data architecture, and YMYL E-E-A-T optimised content structure — the credential architecture that earns Google YMYL E-E-A-T recognition in the Piedmont Carolinas healthcare market."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Charlotte web design: \$6,500-\$16,000 (banking institutional/NASCAR motorsports/Atrium YMYL), \$28,000-\$70,000+ (enterprise). FINRA/SEC compliance. NASCAR motorsports vendor authority. Atrium/Novant YMYL HIPAA. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is banking capital institutional credibility architecture for Charlotte web design?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210 and SEC Marketing Rule compliance from wireframe, banking operational vocabulary in service descriptions (treasury management, commercial lending, capital markets analytics), named institutional case studies at BofA/Truist metric depth, and banking capital professional visual quality — the institutional website that earns genuine BofA/Truist procurement consideration in Charlotte's banking capital market."}},{"@type":"Question","name":"Does Clickmasters build NASCAR motorsports enterprise vendor websites in Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Yes. NASCAR technical vocabulary in service descriptions, SAE motorsports engineering references, racing technical credential display, race day operations vocabulary, and Team Penske/Hendrick enterprise vendor quality visual standard — the motorsports enterprise vendor website that earns genuine NASCAR team supplier consideration from Concord's racing enterprise community."}},{"@type":"Question","name":"Does Clickmasters serve Concord, Huntersville, Mooresville, and Greater Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Charlotte MSA."}},{"@type":"Question","name":"How long does a Charlotte web design project take?","acceptedAnswer":{"@type":"Answer","text":"Banking institutional (FINRA/SEC review adds time): 8-14 weeks. NASCAR motorsports vendor (technical vocabulary review): 8-12 weeks. Atrium/Novant YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."}},{"@type":"Question","name":"What is the Atrium Health/Novant YMYL standard for Charlotte healthcare web design?","acceptedAnswer":{"@type":"Answer","text":"Atrium Health and Novant Health system affiliation display, Carolinas Medical Center academic credential where applicable, UNC Charlotte and Wake Forest School of Medicine faculty attribution, HIPAA-native data architecture, and YMYL E-E-A-T optimised content structure — the credential architecture that earns Google YMYL E-E-A-T recognition in the Piedmont Carolinas healthcare market."}}]}`,
   cta: `Get Your Free Charlotte Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Banking institutional credibility — does your website pass BofA/Truist procurement due diligence?
+2. FINRA/SEC compliance — financial website advertising violations
+3. NASCAR motorsports vendor authority — racing credential gaps in service pages
+4. Atrium/Novant YMYL — healthcare credential display
+5. Core Web Vitals — LCP performance benchmarks
+
+Phone +1-888-555-CLICK | charlotte@clickmastersdigitalmarketing.com
+Uptown Charlotte, Concord, Huntersville, and all of Greater Charlotte`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-charlotte/","/seo-services-charlotte/","/web-design-agency-atlanta/"],
   
   publishingChecklist: {

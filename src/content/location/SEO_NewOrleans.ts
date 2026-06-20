@@ -2,7 +2,7 @@
 // Service: SEO
 // City: NewOrleans
 // URL: /seo-services-new-orleans/
-// Generated: 2026-06-20T05:43:13.750Z
+// Generated: 2026-06-20T06:13:02.292Z
 
 export const SEO_NewOrleans = {
   service: "SEO",
@@ -18,6 +18,7 @@ export const SEO_NewOrleans = {
   meta: `Clickmasters SEO in New Orleans. Ochsner Health/Tulane School of Medicine YMYL authority, Entergy energy B2B, Port of New Orleans maritime logistics, and Crescent City hospitality technology. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New Orleans SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-new-orleans/","address":{"@type":"PostalAddress","addressLocality":"New Orleans","addressRegion":"LA","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN NEW ORLEANS?
 
 SEO in New Orleans is the practice of earning organic search authority in the Crescent City — where Ochsner Health System and Tulane University School of Medicine define Louisiana's premier YMYL academic medical standard, Entergy Corporation's New Orleans headquarters creates an energy utility B2B commercial ecosystem, the Port of New Orleans generates maritime logistics and supply chain B2B opportunities, and the world's most commercially concentrated hospitality and convention economy creates hospitality technology B2B search volume unique to Louisiana.
@@ -55,6 +56,7 @@ Case Study 3: New Orleans Logistics Technology — Port Maritime B2B SEO
 Client: Supply chain SaaS, New Orleans (\$4.4M ARR). Challenge: Zero Port of New Orleans maritime vocabulary. Port community not finding.
 Programme: Port of New Orleans operational vocabulary + Gulf Coast shipping content + GEO/AEO
 Results (10 months): Page 1 for 9 New Orleans logistics queries | Port authority: evaluation | Gulf Coast shipping: community engaged | Pipeline: \$1.0M`,
+  pricing: ``,
   faqTitle: `FAQs — SEO New Orleans`,
   faqs: [
   {
@@ -82,8 +84,18 @@ Results (10 months): Page 1 for 9 New Orleans logistics queries | Port authority
     "answer": "Ochsner Health's clinical IT community and Entergy's energy technology community use AI search for vendor research. First-mover GEO/AEO for New Orleans Ochsner/Tulane YMYL and Entergy energy vocabulary earns ChatGPT/Perplexity citation before competitors."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in New Orleans?","acceptedAnswer":{"@type":"Answer","text":"New Orleans SEO: \$950/month (Foundation) to \$9,500+/month (Enterprise). Ochsner Health/Tulane YMYL academic medical. Entergy energy B2B. Port of New Orleans maritime logistics. Hospitality convention tech. Louisiana retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Ochsner Health/Tulane YMYL SEO for New Orleans businesses?","acceptedAnswer":{"@type":"Answer","text":"Ochsner Health/Tulane SEO builds organic authority in Louisiana's most prestigious academic medical vocabulary: Ochsner Health clinical programme specifics, Tulane School of Medicine research community (one of the US's oldest medical schools), LSU Health Sciences Center clinical programme, and the Louisiana YMYL healthcare content that earns genuine Ochsner and Tulane procurement organic discovery."}},{"@type":"Question","name":"What is Entergy energy B2B SEO for New Orleans businesses?","acceptedAnswer":{"@type":"Answer","text":"Entergy SEO builds organic authority in utility technology procurement vocabulary: utility grid modernisation methodology, rate case regulatory content, transmission and distribution technology, and the energy utility operational intelligence that Entergy New Orleans' technology procurement community evaluates for vendor consideration."}},{"@type":"Question","name":"Does Clickmasters serve Metairie, Baton Rouge, Covington, and Greater New Orleans?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater New Orleans: Orleans Parish, Jefferson Parish, St. Tammany Parish, and the full New Orleans MSA."}},{"@type":"Question","name":"What is Port of New Orleans maritime logistics SEO for New Orleans businesses?","acceptedAnswer":{"@type":"Answer","text":"Port of New Orleans maritime SEO builds organic authority in Gulf Coast port operational vocabulary: maritime logistics optimisation, container terminal management, bulk cargo analytics, and the Gulf Coast shipping community vocabulary that earns Port of New Orleans procurement organic discovery."}},{"@type":"Question","name":"How does GEO/AEO affect New Orleans SEO?","acceptedAnswer":{"@type":"Answer","text":"Ochsner Health's clinical IT community and Entergy's energy technology community use AI search for vendor research. First-mover GEO/AEO for New Orleans Ochsner/Tulane YMYL and Entergy energy vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free New Orleans SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Ochsner/Tulane YMYL vocabulary gap — academic medical searches you're missing
+2. HIPAA compliance in clinical content
+3. Entergy energy vocabulary — grid modernisation B2B content gaps
+4. Port of New Orleans maritime — shipping logistics vocabulary
+5. GEO/AEO — ChatGPT/Perplexity for New Orleans Ochsner and Entergy queries
+
+Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
+Metairie, Garden District, Uptown, and all of Greater New Orleans`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-new-orleans/","/seo-services-houston/","/seo-services-atlanta/"],
   
   publishingChecklist: {

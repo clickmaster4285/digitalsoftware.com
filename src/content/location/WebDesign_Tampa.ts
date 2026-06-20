@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Tampa
 // URL: /web-design-agency-tampa/
-// Generated: 2026-06-20T05:43:16.091Z
+// Generated: 2026-06-20T06:13:04.075Z
 
 export const WebDesign_Tampa = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Tampa = {
   meta: `Clickmasters web design in Tampa. Moffitt Cancer Centre YMYL HIPAA academic medical architecture, MacDill military institutional credibility, and Florida SB 262-native analytics. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tampa Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-tampa/","address":{"@type":"PostalAddress","addressLocality":"Tampa","addressRegion":"FL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN TAMPA?
 
 A Tampa web design agency builds websites across three commercially distinct design requirements: Moffitt Cancer Center/Tampa General YMYL academic healthcare credential architecture, MacDill AFB military community institutional trust signals, and Florida SB 262-native analytics for the Gulf Coast's most rapidly growing commercial market.
@@ -51,6 +52,7 @@ Case Study 3: Tampa Medical Practice — TGH YMYL HIPAA SB 262 Redesign
 Client: Internal medicine, South Tampa (TGH-affiliated). Challenge: No TGH affiliation display. Non-HIPAA. Non-SB 262. 4.8s LCP.
 Programme: TGH affiliation + USF Health Morsani faculty + HIPAA-native + SB 262-native + YMYL E-E-A-T + CWV
 Results: YMYL: E-E-A-T recognised | TGH affiliation: cited in patient surveys | HIPAA/SB 262: both passed | LCP: 4.8s to 1.2s | New patients: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Tampa`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: YMYL: E-E-A-T recognised | TGH affiliation: cited in patient surveys | 
     "answer": "Moffitt/TGH YMYL HIPAA: 8-14 weeks. MacDill military credibility: 8-12 weeks. SB 262-native commercial: 8-12 weeks. Enterprise: 14-24 weeks."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Tampa?","acceptedAnswer":{"@type":"Answer","text":"Tampa web design: \$6,000-\$15,000 (Moffitt YMYL/MacDill military/SB 262-native), \$26,000-\$65,000+ (enterprise). Moffitt/TGH NCI YMYL HIPAA. MacDill military institutional credibility. Florida SB 262-native analytics. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is Moffitt/TGH YMYL academic medical web design for Tampa businesses?","acceptedAnswer":{"@type":"Answer","text":"Moffitt Cancer Center NCI-designated programme affiliation display where applicable, Tampa General Hospital and USF Health Morsani College of Medicine system affiliations, HIPAA-native data architecture, Florida SB 262-native patient data handling, and YMYL E-E-A-T optimised clinical content structure — the credential architecture that earns Google YMYL recognition and patient trust in Tampa's NCI-designated cancer care community."}},{"@type":"Question","name":"What is MacDill AFB military institutional credibility for Tampa web design?","acceptedAnswer":{"@type":"Answer","text":"TRICARE insurance acceptance display for healthcare, SCRA awareness in financial service description pages, VA benefits acknowledgment in relevant professional services, and MacDill military vocabulary in service descriptions — the website trust signals that earn genuine engagement from Tampa's 45,000+ CENTCOM and SOCOM military professional community."}},{"@type":"Question","name":"Does Clickmasters build Florida SB 262-native websites for Tampa businesses?","acceptedAnswer":{"@type":"Answer","text":"Yes. SB 262-compliant consent management for website analytics data collection, accurate analytics excluding Florida opt-out data, Florida AG pre-audit ready data architecture — as a standard element in every Tampa website design."}},{"@type":"Question","name":"Does Clickmasters serve St. Petersburg, Clearwater, and Greater Tampa Bay?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Tampa Bay."}},{"@type":"Question","name":"How long does a Tampa web design project take?","acceptedAnswer":{"@type":"Answer","text":"Moffitt/TGH YMYL HIPAA: 8-14 weeks. MacDill military credibility: 8-12 weeks. SB 262-native commercial: 8-12 weeks. Enterprise: 14-24 weeks."}}]}`,
   cta: `Get Your Free Tampa Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Moffitt/TGH NCI YMYL credential display gaps
+2. HIPAA compliance — data architecture violations
+3. Florida SB 262 analytics — non-compliant data collection exposure
+4. MacDill military trust signals — SCRA/VA/TRICARE display gaps
+5. Core Web Vitals — LCP for Tampa's digital-first Gulf Coast professional community
+
+Phone +1-888-555-CLICK | tampa@clickmastersdigitalmarketing.com
+South Tampa, WestShore, St. Pete, Clearwater, and all of Tampa Bay`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-tampa/","/seo-services-tampa/","/web-design-agency-miami/"],
   
   publishingChecklist: {

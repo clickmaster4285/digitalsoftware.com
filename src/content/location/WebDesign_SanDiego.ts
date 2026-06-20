@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: SanDiego
 // URL: /web-design-agency-san-diego/
-// Generated: 2026-06-20T05:43:16.015Z
+// Generated: 2026-06-20T06:13:04.035Z
 
 export const WebDesign_SanDiego = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_SanDiego = {
   meta: `Clickmasters web design in San Diego. ITAR-bounded defence contractor credential architecture, Torrey Pines life science YMYL, and CCPA-native California standard. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Diego Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-san-diego/","address":{"@type":"PostalAddress","addressLocality":"San Diego","addressRegion":"CA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN SAN DIEGO?
 
 A San Diego web design agency builds websites for San Diego-area businesses across three commercially distinct design requirements: ITAR-bounded defence contractor credential architecture, Torrey Pines life science YMYL institutional authority, and CCPA-native analytics standard for California compliance.
@@ -51,6 +52,7 @@ Case Study 3: La Jolla Healthcare Practice — UCSD YMYL CCPA Redesign
 Client: Internal medicine, La Jolla (2 physicians, UCSD Health). Challenge: Non-UCSD-credential website. Non-HIPAA. Non-CCPA. 5.2s LCP.
 Programme: UCSD Health affiliation + HIPAA-native + CCPA-native analytics + Sub-1.4s LCP + California standard design
 Results: UCSD display: cited in 68% of new patient surveys | HIPAA/CCPA: California AG pre-audit passed | LCP: 5.2s to 1.2s | New patients: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design San Diego`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: UCSD display: cited in 68% of new patient surveys | HIPAA/CCPA: Califor
     "answer": "FDA Phase I-III service descriptions at regulatory vocabulary precision, CLIA/CAP laboratory certification with accreditation authority verification links, IRB affiliation display (UCSD or Scripps Research), and HIPAA-native data architecture — the credential architecture that earns genuine Illumina, J&J Janssen, and Pfizer San Diego procurement consideration."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in San Diego?","acceptedAnswer":{"@type":"Answer","text":"San Diego web design: \$7,000-\$18,000 (defence/life science/UCSD healthcare), \$32,000-\$80,000+ (enterprise). ITAR-bounded defence credential architecture. Torrey Pines life science YMYL. CCPA-native analytics. WCAG 2.1 AA. Fixed-price."}},{"@type":"Question","name":"What is ITAR-bounded defence credential architecture for San Diego web design?","acceptedAnswer":{"@type":"Answer","text":"CMMC Level 2 assessment status display, AS9100D accreditation with CAGE code and DUNS verification links, DCAA accounting compliance display, and DoD supplier diversity certification display — all in publicly releasable vocabulary. ITAR-bounded means no controlled technical specifications, no classified programme details, and no export-restricted performance parameters in website content, while fully communicating the institutional defence contractor credibility that earns NAVWAR and Northrop Grumman evaluation."}},{"@type":"Question","name":"Does Clickmasters build CCPA-native websites for San Diego businesses?","acceptedAnswer":{"@type":"Answer","text":"Yes. CCPA/CPRA-native analytics configuration as a standard element in every San Diego website: CPRA-compliant consent management, California opt-out-excluding performance measurement, and New Relic/Google Analytics 4 configuration meeting California AG compliance standards."}},{"@type":"Question","name":"Does Clickmasters serve La Jolla, Chula Vista, and Greater San Diego?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of San Diego County."}},{"@type":"Question","name":"How long does a San Diego web design project take?","acceptedAnswer":{"@type":"Answer","text":"Defence contractor (CMMC/AS9100D verification adds time): 8-14 weeks. Torrey Pines life science (FDA vocabulary review + HIPAA): 8-14 weeks. La Jolla healthcare (UCSD affiliation + HIPAA/CCPA): 8-14 weeks. Enterprise: 16-28 weeks."}},{"@type":"Question","name":"What is the Torrey Pines life science YMYL standard for San Diego web design?","acceptedAnswer":{"@type":"Answer","text":"FDA Phase I-III service descriptions at regulatory vocabulary precision, CLIA/CAP laboratory certification with accreditation authority verification links, IRB affiliation display (UCSD or Scripps Research), and HIPAA-native data architecture — the credential architecture that earns genuine Illumina, J&J Janssen, and Pfizer San Diego procurement consideration."}}]}`,
   cta: `Get Your Free San Diego Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. ITAR-bounded credential display — CMMC/AS9100D/DCAA gaps
+2. CCPA compliance — California AG analytics enforcement exposure
+3. Torrey Pines life science YMYL — FDA/CLIA/IRB vocabulary gaps
+4. UCSD Health/Scripps affiliation display for healthcare
+5. Core Web Vitals — LCP, CLS, INP benchmarks
+
+Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
+Kearny Mesa, Torrey Pines, La Jolla, Point Loma, and all of San Diego County`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-san-diego/","/seo-services-san-diego/","/web-design-agency-los-angeles/"],
   
   publishingChecklist: {

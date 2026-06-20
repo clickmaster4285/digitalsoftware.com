@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Richmond
 // URL: /web-design-agency-richmond/
-// Generated: 2026-06-20T05:43:15.940Z
+// Generated: 2026-06-20T06:13:03.989Z
 
 export const WebDesign_Richmond = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Richmond = {
   meta: `Clickmasters web design in Richmond. Capital One FINRA/SEC ML institutional credibility, Dominion Energy clean energy enterprise quality, and VCU Health/Bon Secours YMYL HIPAA VCDPA design. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Richmond Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN RICHMOND?
 
 A Richmond web design agency builds websites across three commercially distinct requirements: Capital One FINRA/SEC ML institutional fintech vendor credibility, Dominion Energy clean energy enterprise quality, and VCU Health/Bon Secours YMYL HIPAA VCDPA academic healthcare credential architecture.
@@ -51,6 +52,7 @@ Case Study 3: Richmond Healthcare — VCU Health/Bon Secours YMYL HIPAA VCDPA Re
 Client: Internal medicine (VCU Health-affiliated). Challenge: No VCU affiliation. Non-HIPAA. Non-VCDPA. 4.6s LCP.
 Programme: VCU Health/Bon Secours affiliation + HIPAA/VCDPA-native + YMYL E-E-A-T + CWV
 Results: YMYL: E-E-A-T | VCU: cited | HIPAA/VCDPA: Virginia AG pre-audit passed | New patients: +3x | LCP: 4.6s to 1.2s`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Richmond`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: YMYL: E-E-A-T | VCU: cited | HIPAA/VCDPA: Virginia AG pre-audit passed 
     "answer": "Capital One FINRA/SEC ML (compliance review adds time): 8-14 weeks. Dominion Energy clean energy enterprise: 8-12 weeks. VCU Health/Bon Secours YMYL HIPAA VCDPA: 8-14 weeks. Enterprise: 14-24 weeks."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Richmond?","acceptedAnswer":{"@type":"Answer","text":"Richmond web design: \$5,500-\$14,000 (Capital One ML FINRA/Dominion Energy/VCU Health YMYL), \$24,000-\$60,000+ (enterprise). Capital One FINRA ML institutional. Dominion Energy clean energy enterprise. VCU/Bon Secours YMYL HIPAA VCDPA. WCAG 2.1 AA. Virginia VCDPA-native. Fixed-price."}},{"@type":"Question","name":"What is Capital One FINRA/SEC ML institutional credibility for Richmond web design?","acceptedAnswer":{"@type":"Answer","text":"Machine learning credit decisioning methodology service descriptions, consumer lending analytics platform integration specifics, digital banking technology operational pages, FINRA Rule 2210-compliant website content, and ML-fintech institutional visual quality — the website that earns Capital One Henrico County's technology-first procurement due diligence clearance."}},{"@type":"Question","name":"What is Dominion Energy clean energy enterprise quality for Richmond web design?","acceptedAnswer":{"@type":"Answer","text":"Offshore wind development operational vocabulary, grid modernisation clean energy transition service pages, carbon neutrality programme analytical methodology, and Dominion Energy utility enterprise institutional visual quality — the website that earns Dominion Energy Richmond's clean energy technology procurement consideration."}},{"@type":"Question","name":"Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Richmond MSA."}},{"@type":"Question","name":"What is Virginia VCDPA-native analytics architecture for Richmond web design?","acceptedAnswer":{"@type":"Answer","text":"VCDPA-compliant consent management for website analytics data collection, accurate analytics excluding Virginia opt-out user data, and Virginia AG pre-audit ready data architecture — as standard in every Richmond website design, protecting River City businesses from Virginia AG enforcement exposure."}},{"@type":"Question","name":"How long does a Richmond web design project take?","acceptedAnswer":{"@type":"Answer","text":"Capital One FINRA/SEC ML (compliance review adds time): 8-14 weeks. Dominion Energy clean energy enterprise: 8-12 weeks. VCU Health/Bon Secours YMYL HIPAA VCDPA: 8-14 weeks. Enterprise: 14-24 weeks."}}]}`,
   cta: `Get Your Free Richmond Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Capital One ML credibility — does your website pass ML-fintech institutional due diligence?
+2. Virginia VCDPA compliance — data collection violations and AG exposure
+3. HIPAA compliance — VCU/Bon Secours healthcare data architecture
+4. Dominion Energy clean energy quality — offshore wind/carbon vocabulary assessment
+5. Core Web Vitals — LCP performance for Richmond's technology professional community
+
+Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com
+Henrico County, Chesterfield, Midlothian, and all of Greater Richmond`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-richmond/","/seo-services-richmond/","/web-design-agency-washington-dc/"],
   
   publishingChecklist: {

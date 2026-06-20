@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Memphis
 // URL: /social-media-marketing-memphis/
-// Generated: 2026-06-20T05:43:14.605Z
+// Generated: 2026-06-20T06:13:02.869Z
 
 export const SocialMedia_Memphis = {
   service: "SocialMedia",
@@ -18,6 +18,7 @@ export const SocialMedia_Memphis = {
   meta: `Clickmasters social media in Memphis. FedEx logistics professional LinkedIn, St. Jude paediatric oncology research community, and authentic Beale Street/Cooper-Young/Midtown Bluff City brand social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Memphis Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-memphis/","address":{"@type":"PostalAddress","addressLocality":"Memphis","addressRegion":"TN","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN MEMPHIS?
 
 Social media marketing in Memphis is the strategic management of social platforms across three commercially distinct communities: the FedEx world headquarters logistics professional LinkedIn ecosystem, the St. Jude Children's Research Hospital world-class paediatric oncology research community, and the authentic Bluff City consumer brand community in Beale Street, Cooper-Young, and Midtown — with Memphis BBQ, Blues, and Memphis in May seasonal social calendar awareness.
@@ -51,6 +52,7 @@ Case Study 3: Cooper-Young Consumer Brand — Memphis in May Seasonal Social
 Client: Artisan food brand, Cooper-Young (\$1.2M DTC). Challenge: Generic 'Memphis food scene' missing Memphis in May BBQ/Music seasonal calendar.
 Programme: Memphis in May BBQ World Championship seasonal content + Beale Street Blues vocabulary + Cooper-Young indie community
 Results (5 months): Memphis in May BBQ season content: 4.4x above average | Cooper-Young community features: 2 | DTC revenue: +\$90K`,
+  pricing: ``,
   faqTitle: `FAQs — Social Media Marketing Memphis`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results (5 months): Memphis in May BBQ season content: 4.4x above average | Coop
     "answer": "Tennessee TIPA requires consent for social analytics pixel tracking of Tennessee consumers. TIPA-aware social analytics produce accurate Memphis brand performance measurement and protect from Tennessee AG enforcement."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Memphis?","acceptedAnswer":{"@type":"Answer","text":"Memphis social media: \$1,100/month (LinkedIn growth) to \$11,000+/month (enterprise). FedEx logistics operational precision. St. Jude world-class paediatric oncology research. Authentic Bluff City brand with Memphis in May seasonal awareness. Tennessee TIPA-aware. Tennessee retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is FedEx world headquarters logistics LinkedIn for Memphis businesses?","acceptedAnswer":{"@type":"Answer","text":"FedEx logistics LinkedIn demonstrates FedEx Ground sortation optimisation methodology, last-mile delivery analytics and route optimisation specifics, supply chain visibility platform integration intelligence, and FedEx Express air hub operational content — the logistics precision that earns genuine FedEx World Technology Center professional community engagement."}},{"@type":"Question","name":"What is St. Jude world-class paediatric oncology research LinkedIn for Memphis businesses?","acceptedAnswer":{"@type":"Answer","text":"St. Jude LinkedIn demonstrates childhood cancer genomics operational specifics, clinical trial programme research community engagement, computational biology research precision, and the philanthropic-academic research vocabulary that earns genuine St. Jude Children's Research Hospital clinical research community LinkedIn engagement."}},{"@type":"Question","name":"What is the Memphis in May seasonal social calendar for Bluff City consumer brands?","acceptedAnswer":{"@type":"Answer","text":"Memphis in May events create commercially leverageable seasonal social windows: Memphis in May BBQ World Championship (May): highest Memphis brand engagement window for food/hospitality brands; Beale Street Music Festival (May): music community peak; FedEx St. Jude Championship (June): sports events community; Memphis BBQ cultural identity: year-round authentic Bluff City brand anchor. Consumer brands whose social content authentically engages these Memphis seasonal moments earn 3-4x above-average organic engagement."}},{"@type":"Question","name":"Does Clickmasters serve Germantown, Collierville, Bartlett, and Greater Memphis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Memphis MSA."}},{"@type":"Question","name":"How does TIPA affect Memphis social media analytics?","acceptedAnswer":{"@type":"Answer","text":"Tennessee TIPA requires consent for social analytics pixel tracking of Tennessee consumers. TIPA-aware social analytics produce accurate Memphis brand performance measurement and protect from Tennessee AG enforcement."}}]}`,
   cta: `Get Your Free Memphis Social Media Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. FedEx logistics vocabulary — does your LinkedIn demonstrate Ground/last-mile/Express air hub precision?
+2. St. Jude world-class research — paediatric oncology/genomics LinkedIn vocabulary
+3. HIPAA/TIPA compliance — healthcare social content
+4. Memphis in May seasonal — is your Bluff City brand BBQ/Blues calendar-aware?
+5. Beale Street/Cooper-Young/Midtown vocabulary — authentic Memphis brand assessment
+
+Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
+Beale Street, Cooper-Young, Midtown, Germantown, and all of Greater Memphis`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-memphis/","/seo-services-memphis/","/social-media-marketing-nashville/"],
   
   publishingChecklist: {

@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: NewOrleans
 // URL: /google-ads-management-new-orleans/
-// Generated: 2026-06-20T05:43:11.133Z
+// Generated: 2026-06-20T06:13:00.488Z
 
 export const GoogleAds_NewOrleans = {
   service: "GoogleAds",
@@ -18,6 +18,7 @@ export const GoogleAds_NewOrleans = {
   meta: `Clickmasters Google Ads in New Orleans. Ochsner/Tulane HIPAA-compliant YMYL PPC, Entergy energy grid modernisation, and New Orleans convention hospitality technology campaigns. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New Orleans Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-new-orleans/","address":{"@type":"PostalAddress","addressLocality":"New Orleans","addressRegion":"LA","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN NEW ORLEANS?
 
 Google Ads management in New Orleans is the professional management of PPC advertising across three commercially distinct categories: Ochsner Health/Tulane HIPAA-compliant YMYL patient acquisition and health technology B2B, Entergy Corporation energy utility technology, and New Orleans convention and hospitality technology B2B.
@@ -53,6 +54,7 @@ Case Study 3: New Orleans Hospitality Technology — Convention B2B PPC
 Client: Event technology SaaS, New Orleans (\$3.8M ARR). Challenge: Generic 'event technology Louisiana.' Convention vocabulary absent.
 Programme: Morial Convention Center vocabulary + hotel revenue management + hospitality B2B audience
 Results: Convention hospitality CPL: \$180 vs \$1,800 generic | Convention authority: evaluation | Hospitality pipeline: \$800K`,
+  pricing: ``,
   faqTitle: `FAQs — Google Ads New Orleans`,
   faqs: [
   {
@@ -80,8 +82,18 @@ Results: Convention hospitality CPL: \$180 vs \$1,800 generic | Convention autho
     "answer": "Louisiana CPCs 20-25% below Houston for equivalent energy and health technology vocabulary. 15-20% below Atlanta for academic medical equivalents. New Orleans' commercial market maturity creates CPC efficiency opportunities for first-mover Ochsner/Tulane and Entergy vocabulary campaigns."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in New Orleans?","acceptedAnswer":{"@type":"Answer","text":"New Orleans Google Ads: \$950/month (Growth) to \$9,500+/month (Enterprise). Ochsner/Tulane HIPAA YMYL. Entergy utility technology. Convention hospitality B2B. Louisiana CPCs below Houston/Atlanta. 90-day guarantee."}},{"@type":"Question","name":"What is Ochsner/Tulane HIPAA YMYL Google Ads for New Orleans health technology vendors?","acceptedAnswer":{"@type":"Answer","text":"Ochsner/Tulane vocabulary campaigns target Louisiana's most commercially significant academic medical procurement: 'Ochsner Health clinical analytics vendor New Orleans,' 'Tulane Medical Center technology partner Louisiana,' 'LSU Health Sciences Center health IT consulting.' HIPAA server-side conversion tracking throughout. Louisiana CPCs significantly below Houston and Atlanta academic medical equivalents."}},{"@type":"Question","name":"What is Entergy Corporation energy utility technology Google Ads for New Orleans?","acceptedAnswer":{"@type":"Answer","text":"Entergy utility vocabulary campaigns targeting grid modernisation procurement: 'Entergy grid modernisation technology vendor Louisiana,' 'utility rate case analytics consulting New Orleans,' 'transmission distribution technology Entergy.' Louisiana CPCs below national utility technology markets for Entergy-specific vocabulary searches."}},{"@type":"Question","name":"Does Clickmasters serve Metairie, Baton Rouge, Covington, and Greater New Orleans?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater New Orleans MSA."}},{"@type":"Question","name":"What is New Orleans convention hospitality technology Google Ads?","acceptedAnswer":{"@type":"Answer","text":"Ernest N. Morial Convention Center vocabulary campaigns targeting event technology and hotel revenue management procurement: 'convention management technology New Orleans,' 'hotel revenue management analytics New Orleans hospitality,' 'event analytics platform Morial Convention Center.' New Orleans convention community CPCs competitive but below Las Vegas equivalents."}},{"@type":"Question","name":"How do New Orleans Google Ads CPCs compare to Houston and Atlanta?","acceptedAnswer":{"@type":"Answer","text":"Louisiana CPCs 20-25% below Houston for equivalent energy and health technology vocabulary. 15-20% below Atlanta for academic medical equivalents. New Orleans' commercial market maturity creates CPC efficiency opportunities for first-mover Ochsner/Tulane and Entergy vocabulary campaigns."}}]}`,
   cta: `Get Your Free New Orleans Google Ads Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Ochsner/Tulane vocabulary gap — academic medical YMYL searches campaigns miss
+2. HIPAA compliance — healthcare conversion tracking violations
+3. Entergy grid vocabulary — utility technology PPC gaps
+4. Convention hospitality vocabulary — Morial Convention Center searches absent
+5. Louisiana CPC efficiency vs Houston/Atlanta health technology benchmark
+
+Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
+Metairie, Garden District, Uptown, and all of Greater New Orleans`,
   internalLinks: ["/digital-marketing-agency-new-orleans/","/seo-services-new-orleans/","/google-ads-management-services/","/google-ads-management-houston/"],
   
   publishingChecklist: {

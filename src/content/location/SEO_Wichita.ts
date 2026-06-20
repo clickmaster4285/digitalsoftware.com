@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Wichita
 // URL: /seo-services-wichita/
-// Generated: 2026-06-20T05:43:14.186Z
+// Generated: 2026-06-20T06:13:02.491Z
 
 export const SEO_Wichita = {
   service: "SEO",
@@ -18,6 +18,7 @@ export const SEO_Wichita = {
   meta: `Clickmasters SEO in Wichita. Spirit AeroSystems ITAR-bounded aerospace B2B authority, Textron Aviation/Cessna/Beechcraft business aviation, Koch Industries industrial, and Via Christi/Ascension YMYL. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Wichita SEO","url":"https://clickmastersdigitalmarketing.com/seo-services-wichita/","address":{"@type":"PostalAddress","addressLocality":"Wichita","addressRegion":"KS","addressCountry":"US"},"serviceType":"SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SEO IN WICHITA?
 
 SEO in Wichita is the practice of earning organic search authority in the Air Capital of the World — where Spirit AeroSystems' headquarters creates the most commercially significant ITAR-bounded commercial aerospace manufacturing B2B environment outside Seattle, Textron Aviation's headquarters (Cessna and Beechcraft) makes Wichita the global capital of business aviation, Koch Industries' headquarters creates one of the US's largest private industrial and chemical company B2B environments, and Via Christi Health (Ascension) defines the YMYL academic medical standard for the Wichita metro.
@@ -55,6 +56,7 @@ Case Study 3: Wichita Healthcare — Via Christi/Wesley YMYL SEO
 Client: Internal medicine (Via Christi-affiliated). Challenge: Generic content. Non-HIPAA.
 Programme: Via Christi/Ascension/Wesley vocabulary + YMYL E-E-A-T + HIPAA
 Results (10 months): Page 1 for 9 Wichita healthcare queries | YMYL: E-E-A-T | Via Christi: cited | New patients: +3x`,
+  pricing: ``,
   faqTitle: `FAQs — SEO Wichita`,
   faqs: [
   {
@@ -82,8 +84,18 @@ Results (10 months): Page 1 for 9 Wichita healthcare queries | YMYL: E-E-A-T | V
     "answer": "Spirit AeroSystems' supplier quality community and Textron Aviation's engineering community use AI search. First-mover GEO/AEO for Wichita Spirit aerostructures and Textron Aviation vocabulary earns ChatGPT/Perplexity citation before competitors."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does SEO cost in Wichita?","acceptedAnswer":{"@type":"Answer","text":"Wichita SEO: \$950/month (Foundation) to \$9,500+/month (Enterprise). Spirit AeroSystems ITAR-bounded aerostructures vocabulary. Textron Aviation/Cessna/Beechcraft business aviation. Koch Industries industrial. Via Christi/Wesley YMYL. Kansas retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Spirit AeroSystems ITAR-bounded SEO for Wichita aerospace businesses?","acceptedAnswer":{"@type":"Answer","text":"Spirit AeroSystems ITAR-bounded SEO builds organic authority using only publicly available aerostructures vocabulary: 737 fuselage manufacturing process content from publicly available Spirit/Boeing technical communications, advanced composite manufacturing methodology from published aerospace engineering content, aerostructure quality control vocabulary — earning organic discovery from Spirit AeroSystems' Wichita supplier quality and procurement community without ITAR export control exposure."}},{"@type":"Question","name":"What is Textron Aviation/Cessna/Beechcraft business aviation SEO for Wichita?","acceptedAnswer":{"@type":"Answer","text":"Textron Aviation SEO builds organic authority in global business aviation vocabulary: Cessna and Beechcraft turboprop and piston aircraft systems technology, business jet avionics integration, and MRO technology for Wichita's extensive business aviation fleet — earning organic discovery from the world's most commercially concentrated business aviation community."}},{"@type":"Question","name":"Does Clickmasters serve Andover, Derby, Haysville, and Greater Wichita?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Wichita: Sedgwick County, Butler County (Andover/Derby), and the full Wichita MSA."}},{"@type":"Question","name":"How does ITAR compliance apply to Wichita aerospace SEO?","acceptedAnswer":{"@type":"Answer","text":"Spirit AeroSystems and Textron Aviation are ITAR-regulated manufacturers whose unclassified but controlled technical information cannot appear in commercial marketing content. Clickmasters applies ITAR vocabulary review to every content piece — producing only publicly releasable commercial aerostructures and business aviation vocabulary that earns Spirit and Textron community organic discovery."}},{"@type":"Question","name":"How does GEO/AEO affect Wichita SEO?","acceptedAnswer":{"@type":"Answer","text":"Spirit AeroSystems' supplier quality community and Textron Aviation's engineering community use AI search. First-mover GEO/AEO for Wichita Spirit aerostructures and Textron Aviation vocabulary earns ChatGPT/Perplexity citation before competitors."}}]}`,
   cta: `Get Your Free Wichita SEO Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. ITAR compliance review — current content exposure from controlled vocabulary
+2. Spirit AeroSystems vocabulary — publicly releasable aerostructures B2B gaps
+3. Textron Aviation/Cessna/Beechcraft vocabulary — business aviation content gaps
+4. Via Christi/Wesley YMYL — Kansas healthcare content
+5. GEO/AEO — ChatGPT/Perplexity for Wichita Spirit and Textron Aviation queries
+
+Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
+Andover, Derby, Old Town, East Side, and all of Greater Wichita`,
   internalLinks: ["/seo-services/","/digital-marketing-agency-wichita/","/seo-services-oklahoma-city/","/seo-services-kansas-city/"],
   
   publishingChecklist: {

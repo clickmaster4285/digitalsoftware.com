@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: StLouis
 // URL: /social-media-marketing-st-louis/
-// Generated: 2026-06-20T05:43:14.999Z
+// Generated: 2026-06-20T06:13:03.321Z
 
 export const SocialMedia_StLouis = {
   service: "SocialMedia",
@@ -18,6 +18,7 @@ export const SocialMedia_StLouis = {
   meta: `Clickmasters social media marketing in St. Louis. Boeing Defence Space & Security LinkedIn, Edward Jones FINRA financial professional community, and authentic Soulard/The Hill/Cherokee brand social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — St. Louis Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-st-louis/","address":{"@type":"PostalAddress","addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN ST. LOUIS?
 
 Social media marketing in St. Louis is the strategic management of social platforms across three commercially distinct communities: the Boeing Defence, Space & Security aerospace engineering LinkedIn ecosystem in Hazelwood, the Edward Jones financial advisor and financial technology community in Creve Coeur, and the authentic Gateway City consumer brand community in The Hill, Soulard, and Cherokee Street.
@@ -28,7 +29,11 @@ EDWARD JONES FINANCIAL ADVISOR COMMUNITY LINKEDIN: Edward Jones' Creve Coeur hea
 
 AUTHENTIC GATEWAY CITY CONSUMER BRAND SOCIAL: St. Louis's authentic commercial community — The Hill's Italian neighbourhood heritage, Soulard's historic market district, Cherokee Street's eclectic arts economy, and the Cardinals/Blues community social fabric — creates consumer brand Instagram opportunities for businesses communicating genuine St. Louis neighbourhood identity.`,
   features: ``,
-  pas: ``,
+  pas: `THE BEFORE: The Hazelwood aerospace quality consulting firm posting LinkedIn: ISO certification announcements, trade show attendance photos, and generic 'quality management best practices' articles. Boeing BDS's new VP of Supply Chain from Northrop evaluates vendor LinkedIn against the Northrop Grumman institutional standard. Zero AS9100D operational insights, zero DCAA compliance operational specifics, zero DoD supply chain resilience content demonstrating genuine Boeing BDS-calibre defence operational expertise. He selects a Chicago defence quality firm with AS9100D gap assessment methodology posts, DCAA compliance operational content, and genuine Boeing supply chain vocabulary.
+
+THE AFTER: Your Hazelwood aerospace quality firm's Chief Quality Officer publishes LinkedIn content addressing AS9100D Revision D gap assessment methodology, DCAA provisional indirect cost rate compliance operational insights, and DoD supply chain cybersecurity (CMMC Level 1) operational specifics — earning genuine Boeing BDS community engagement.
+
+THE BRIDGE: Clickmasters St. Louis social media builds ITAR-bounded Boeing BDS aerospace LinkedIn precision, FINRA-compliant Edward Jones financial community thought leadership, and authentic Gateway City consumer brand social.`,
   services: `ST. LOUIS BOEING BDS LINKEDIN (ITAR-BOUNDED):
 For Hazelwood aerospace technology and quality vendors. AS9100D/DCAA/DoD supply chain ITAR-bounded LinkedIn. ITAR vocabulary review before every post. Boeing BDS engineering community Sales Navigator. Defence prime contractor community engagement.
 
@@ -51,6 +56,7 @@ Case Study 3: Soulard Food Brand — Authentic Gateway City Social
 Client: Artisan food brand, Soulard (\$1.6M DTC). Challenge: Generic 'St. Louis food scene' Instagram below Soulard authentic market district standard.
 Programme: Soulard historic market vocabulary + The Hill Italian community cross-promotion + Cherokee Street arts community
 Results (5 months): Instagram engagement: 1.4% to 5.0% | Soulard community editorial features: 2 | DTC revenue from social: +\$100K`,
+  pricing: ``,
   faqTitle: `FAQs — Social Media Marketing St. Louis`,
   faqs: [
   {
@@ -78,8 +84,18 @@ Results (5 months): Instagram engagement: 1.4% to 5.0% | Soulard community edito
     "answer": "Boeing BDS LinkedIn: Hazelwood supply chain connections and defence vendor evaluation invitations. Edward Jones LinkedIn: Creve Coeur fintech connections and financial technology evaluation invitations. Authentic Gateway City: engagement vs St. Louis community benchmark, editorial features, DTC revenue attribution."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in St. Louis?","acceptedAnswer":{"@type":"Answer","text":"St. Louis social media: \$1,300/month (LinkedIn growth) to \$13,000+/month (enterprise). Boeing BDS ITAR-bounded LinkedIn precision. Edward Jones FINRA-compliant financial community. Authentic Gateway City brand. Midwest retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Boeing BDS ITAR-bounded LinkedIn for St. Louis businesses?","acceptedAnswer":{"@type":"Answer","text":"ITAR-bounded Boeing BDS LinkedIn content demonstrates AS9100D quality management operational precision, DCAA compliance operational specifics, DoD supply chain resilience analysis, and defence prime contractor community vocabulary — exclusively in publicly releasable language reviewed for ITAR compliance before every post. Earns genuine Boeing BDS engineering community engagement without ITAR export control exposure."}},{"@type":"Question","name":"What is authentic Gateway City consumer brand social for St. Louis?","acceptedAnswer":{"@type":"Answer","text":"The Hill's Italian heritage neighbourhood vocabulary, Soulard's historic Soulard Market district community content, Cherokee Street's eclectic arts economy, and Cardinals/Blues authentic community fabric — the specific St. Louis neighbourhood identities that distinguish genuinely locally-rooted Gateway City brands from generic Midwest commercial approximations."}},{"@type":"Question","name":"Does Clickmasters serve Clayton, Creve Coeur, Chesterfield, and Greater St. Louis?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater St. Louis MSA."}},{"@type":"Question","name":"How does FINRA Rule 2210 affect Edward Jones LinkedIn for St. Louis?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210 applies to investment-related LinkedIn content from registered financial technology companies. Content must avoid performance guarantees, misleading comparisons, and non-compliant testimonials — while building genuine thought leadership about financial advisor productivity, wealth management platform specifics, and financial services operational vocabulary."}},{"@type":"Question","name":"How does Clickmasters measure St. Louis social media commercial outcomes?","acceptedAnswer":{"@type":"Answer","text":"Boeing BDS LinkedIn: Hazelwood supply chain connections and defence vendor evaluation invitations. Edward Jones LinkedIn: Creve Coeur fintech connections and financial technology evaluation invitations. Authentic Gateway City: engagement vs St. Louis community benchmark, editorial features, DTC revenue attribution."}}]}`,
   cta: `Get Your Free St. Louis Social Media Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Boeing BDS ITAR vocabulary — does your LinkedIn demonstrate AS9100D/DCAA operational knowledge?
+2. ITAR content review — LinkedIn posts with controlled vocabulary risk
+3. Edward Jones FINRA compliance — financial investment content violations
+4. Authentic Gateway City brand — Soulard/The Hill/Cherokee neighbourhood vocabulary
+5. Boeing BDS connection quality — are defence connections converting to evaluations?
+
+Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
+Clayton, Creve Coeur, Hazelwood, Soulard, The Hill, and all of Greater St. Louis`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-st-louis/","/seo-services-st-louis/","/social-media-marketing-chicago/"],
   
   publishingChecklist: {

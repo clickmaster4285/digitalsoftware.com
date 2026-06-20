@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: OklahomaCity
 // URL: /social-media-marketing-oklahoma-city/
-// Generated: 2026-06-20T05:43:14.680Z
+// Generated: 2026-06-20T06:13:02.989Z
 
 export const SocialMedia_OklahomaCity = {
   service: "SocialMedia",
@@ -18,6 +18,7 @@ export const SocialMedia_OklahomaCity = {
   meta: `Clickmasters social media in Oklahoma City. Devon/Expand Energy E&P professional LinkedIn, INTEGRIS/OU Health clinical community, and authentic Bricktown/Paseo Arts District/OKC Thunder brand social. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Oklahoma City Social Media","url":"https://clickmastersdigitalmarketing.com/social-media-marketing-oklahoma-city/","address":{"@type":"PostalAddress","addressLocality":"Oklahoma City","addressRegion":"OK","addressCountry":"US"},"serviceType":"Social Media Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS SOCIAL MEDIA MARKETING IN OKLAHOMA CITY?
 
 Social media marketing in Oklahoma City is the strategic management of social platforms across three commercially distinct communities: the Devon/Expand Energy oil and gas E&P professional LinkedIn ecosystem, the INTEGRIS/OU Health clinical academic community, and the authentic Sooner State consumer brand community in Bricktown, Paseo Arts District, and Midtown — with OKC Thunder NBA seasonal social awareness.
@@ -51,6 +52,7 @@ Case Study 3: Bricktown Consumer Brand — OKC Thunder/Paseo Seasonal Social
 Client: Entertainment brand, Bricktown (\$1.2M DTC). Challenge: Generic 'Oklahoma City entertainment' missing OKC Thunder community and Paseo Arts seasonal calendar.
 Programme: OKC Thunder game-night content + Paseo Arts monthly art walk vocabulary + Bricktown canal character
 Results (5 months): OKC Thunder season content: 4.0x above average | Paseo Art Walk: 3.6x | DTC revenue: +\$80K`,
+  pricing: ``,
   faqTitle: `FAQs — Social Media Marketing Oklahoma City`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results (5 months): OKC Thunder season content: 4.0x above average | Paseo Art W
     "answer": "INTEGRIS Health system operational vocabulary and OU Medicine NCI cancer research community content demonstrate genuine Oklahoma academic healthcare understanding — earning INTEGRIS clinical staff and OU Health Sciences Center procurement community LinkedIn engagement."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does social media marketing cost in Oklahoma City?","acceptedAnswer":{"@type":"Answer","text":"Oklahoma City social media: \$1,000/month (LinkedIn growth) to \$10,000+/month (enterprise). Devon/Expand Energy oil and gas E&P precision. INTEGRIS/OU Health clinical academic community. Authentic Sooner State brand with OKC Thunder NBA and Paseo Arts seasonal awareness. Oklahoma retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is Devon/Expand Energy oil and gas E&P LinkedIn for Oklahoma City businesses?","acceptedAnswer":{"@type":"Answer","text":"Devon Energy LinkedIn demonstrates STACK play production analytics operational specifics, SCOOP play reservoir optimisation methodology, and Expand Energy natural gas processing operational intelligence — the unconventional E&P vocabulary that earns genuine Devon and Expand Energy LinkedIn engagement from two of the US's most significant E&P companies headquartered in OKC."}},{"@type":"Question","name":"What is authentic Sooner State consumer brand social for Oklahoma City?","acceptedAnswer":{"@type":"Answer","text":"Bricktown canal district entertainment vocabulary, Paseo Arts District de España monthly art walk community, Midtown walkable mixed-use neighbourhood identity, and OKC Thunder NBA civic pride — the specific OKC neighbourhood and cultural identities that distinguish genuinely locally-rooted Sooner State brands from generic Oklahoma outdoor/Western lifestyle approximations."}},{"@type":"Question","name":"Does Clickmasters serve Edmond, Norman, Midwest City, and Greater Oklahoma City?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Oklahoma City MSA."}},{"@type":"Question","name":"What is the OKC Thunder NBA seasonal social opportunity for Oklahoma City consumer brands?","acceptedAnswer":{"@type":"Answer","text":"The Oklahoma City Thunder's NBA season creates a civic pride social engagement anchor unique to Oklahoma City — Thunder game-night content, playoff energy social posts, and local hero narrative content earn 3-4x above-average engagement from OKC's most passionate sports community, providing consumer brands a year-round seasonal social engagement calendar tied to one of the NBA's most community-connected franchises."}},{"@type":"Question","name":"How does INTEGRIS/OU Health clinical LinkedIn build Oklahoma City health technology authority?","acceptedAnswer":{"@type":"Answer","text":"INTEGRIS Health system operational vocabulary and OU Medicine NCI cancer research community content demonstrate genuine Oklahoma academic healthcare understanding — earning INTEGRIS clinical staff and OU Health Sciences Center procurement community LinkedIn engagement."}}]}`,
   cta: `Get Your Free Oklahoma City Social Media Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. Devon/Expand Energy vocabulary — STACK/SCOOP/E&P LinkedIn precision assessment
+2. INTEGRIS/OU Health vocabulary — Oklahoma's largest health system LinkedIn engagement
+3. HIPAA compliance — healthcare social media content
+4. OKC Thunder seasonal — is your brand Thunder-community-aware?
+5. Bricktown/Paseo/Midtown vocabulary — authentic Sooner State brand assessment
+
+Phone +1-888-555-CLICK | oklahomacity@clickmastersdigitalmarketing.com
+Bricktown, Paseo Arts District, Midtown, Edmond, and all of Greater OKC`,
   internalLinks: ["/social-media-management-services/","/digital-marketing-agency-oklahoma-city/","/seo-services-oklahoma-city/","/social-media-marketing-dallas/"],
   
   publishingChecklist: {

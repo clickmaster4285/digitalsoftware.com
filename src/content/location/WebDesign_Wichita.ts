@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Wichita
 // URL: /web-design-agency-wichita/
-// Generated: 2026-06-20T05:43:16.124Z
+// Generated: 2026-06-20T06:13:04.094Z
 
 export const WebDesign_Wichita = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Wichita = {
   meta: `Clickmasters web design in Wichita. Spirit AeroSystems ITAR-bounded aerostructures institutional, Textron Aviation business aviation quality, Via Christi YMYL HIPAA, and authentic Old Town/Delano brand. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Wichita Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-wichita/","address":{"@type":"PostalAddress","addressLocality":"Wichita","addressRegion":"KS","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3200,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN WICHITA?
 
 A Wichita web design agency builds websites for three requirements: Spirit AeroSystems ITAR-bounded publicly releasable aerostructures institutional credibility, Textron Aviation business aviation enterprise quality, and Via Christi/Wesley YMYL HIPAA healthcare design.
@@ -51,6 +52,7 @@ Case Study 3: Wichita Healthcare — Via Christi/Wesley YMYL HIPAA Redesign
 Client: Internal medicine. Challenge: No Via Christi affiliation. Non-HIPAA. 4.6s LCP.
 Programme: Via Christi/Wesley affiliation + HIPAA-native + YMYL E-E-A-T + CWV
 Results: YMYL: E-E-A-T | Via Christi: cited | HIPAA: clean | New patients: +3x | LCP: 1.2s`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Wichita`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: YMYL: E-E-A-T | Via Christi: cited | HIPAA: clean | New patients: +3x |
     "answer": "Spirit ITAR-bounded (ITAR review): 8-16 weeks. Textron Aviation quality: 8-12 weeks. Via Christi YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Wichita?","acceptedAnswer":{"@type":"Answer","text":"Wichita web design: \$5,000-\$13,000 (Spirit ITAR-bounded/Textron aviation/Via Christi YMYL), \$22,000-\$55,000+ (enterprise). ITAR documentation included. HIPAA-native. Fixed-price."}},{"@type":"Question","name":"What is Spirit AeroSystems ITAR-bounded institutional for Wichita web design?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review all pages with documentation, 737 fuselage manufacturing publicly available vocabulary, composite manufacturing from public aerospace content — earning Spirit AeroSystems vendor digital due diligence clearance with ITAR documentation provided at launch."}},{"@type":"Question","name":"What is Textron Aviation business aviation quality for Wichita web design?","acceptedAnswer":{"@type":"Answer","text":"Cessna/Beechcraft turboprop and jet systems service pages, MRO technology descriptions, avionics integration specifics, and business aviation enterprise institutional quality — earning Textron Aviation vendor evaluation consideration."}},{"@type":"Question","name":"Does Clickmasters serve Andover, Derby, Haysville, and Greater Wichita?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Wichita MSA."}},{"@type":"Question","name":"What is authentic Wichita consumer brand web design?","acceptedAnswer":{"@type":"Answer","text":"Old Town's warehouse entertainment district, Delano's historic Route 66 neighbourhood, and College Hill's established residential community — the specific Wichita identities distinguishing locally-rooted Air Capital brands from generic Kansas commercial design."}},{"@type":"Question","name":"How long does a Wichita web design project take?","acceptedAnswer":{"@type":"Answer","text":"Spirit ITAR-bounded (ITAR review): 8-16 weeks. Textron Aviation quality: 8-12 weeks. Via Christi YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."}}]}`,
   cta: `Get Your Free Wichita Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. ITAR compliance — controlled vocabulary on existing website
+2. Spirit AeroSystems institutional — aerostructures vocabulary assessment
+3. HIPAA compliance — Via Christi/Wesley data architecture
+4. Textron Aviation quality — Cessna/Beechcraft vocabulary
+5. Core Web Vitals — LCP for Wichita's aerospace professional community
+
+Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
+Andover, Derby, Old Town, Delano, and all of Greater Wichita`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-wichita/","/seo-services-wichita/","/web-design-agency-kansas-city/"],
   
   publishingChecklist: {

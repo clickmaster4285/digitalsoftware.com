@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Sacramento
 // URL: /web-design-agency-sacramento/
-// Generated: 2026-06-20T05:43:15.968Z
+// Generated: 2026-06-20T06:13:03.998Z
 
 export const WebDesign_Sacramento = {
   service: "WebDesign",
@@ -18,6 +18,7 @@ export const WebDesign_Sacramento = {
   meta: `Clickmasters web design in Sacramento. California state government IT vendor credibility, CalPERS/CalSTRS FINRA-compliant institutional quality, and UC Davis Health YMYL HIPAA CCPA design. Free audit.`,
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Sacramento Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-sacramento/","address":{"@type":"PostalAddress","addressLocality":"Sacramento","addressRegion":"CA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
+  breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN SACRAMENTO?
 
 A Sacramento web design agency builds websites across three commercially distinct requirements: California state government IT vendor institutional credibility, CalPERS/CalSTRS FINRA-compliant institutional investment quality, and UC Davis Health YMYL HIPAA CCPA academic healthcare design.
@@ -51,6 +52,7 @@ Case Study 3: Sacramento Healthcare — UC Davis Health YMYL HIPAA CCPA Redesign
 Client: Oncology (UC Davis NCI-affiliated). Challenge: No UC Davis NCI affiliation display. Non-HIPAA. Non-CCPA. 4.6s LCP.
 Programme: UC Davis NCI Cancer Center affiliation + California MIND Institute vocabulary + HIPAA/CCPA-native + YMYL E-E-A-T + CWV
 Results: YMYL: E-E-A-T | UC Davis NCI: cited | HIPAA/CCPA: California AG pre-audit passed | New patients: +3x | LCP: 4.6s to 1.2s`,
+  pricing: ``,
   faqTitle: `FAQs — Web Design Sacramento`,
   faqs: [
   {
@@ -78,8 +80,18 @@ Results: YMYL: E-E-A-T | UC Davis NCI: cited | HIPAA/CCPA: California AG pre-aud
     "answer": "UC Davis NCI Comprehensive Cancer Center programme affiliation, California MIND Institute vocabulary, UC Davis Medical Center academic research community content, HIPAA-native CCPA-native data architecture, and YMYL E-E-A-T optimised California academic medical content — the academic healthcare website that earns UC Davis Health and Sutter Sacramento clinical procurement evaluation."
   }
 ],
+  faqsAlt: ``,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Sacramento?","acceptedAnswer":{"@type":"Answer","text":"Sacramento web design: \$5,500-\$14,000 (CA state government/CalPERS FINRA/UC Davis YMYL), \$24,000-\$60,000+ (enterprise). CA state government IT vendor credibility. CalPERS/CalSTRS FINRA institutional. UC Davis Health YMYL HIPAA CCPA. WCAG 2.1 AA. CCPA-native. Fixed-price."}},{"@type":"Question","name":"What is California state government IT vendor credibility for Sacramento web design?","acceptedAnswer":{"@type":"Answer","text":"CDT framework compliance vocabulary, CHHS/OTSI partner service descriptions, FI\$Cal and CalATERS familiarity signals, SAM/California Small Business certification display, digital government service delivery methodology pages, and California IT procurement institutional visual quality — the website that earns CDT and CHHS vendor qualification list approval."}},{"@type":"Question","name":"What is CalPERS/CalSTRS FINRA-compliant institutional quality for Sacramento web design?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210-compliant website from wireframe, SEC Marketing Rule-compliant performance displays, CalPERS alternative investment analytics vocabulary, CalSTRS ESG investment methodology pages, and institutional pension fund visual quality — earning CalPERS and CalSTRS technology vendor evaluation consideration from the two largest public pension funds in the US."}},{"@type":"Question","name":"Does Clickmasters serve Folsom, Roseville, Elk Grove, and Greater Sacramento?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Sacramento MSA."}},{"@type":"Question","name":"Why is WCAG 2.1 AA accessibility a California state government web design requirement?","acceptedAnswer":{"@type":"Answer","text":"California AB 434 (2017) requires state agencies to ensure all vendor websites meet WCAG 2.1 Level AA accessibility standards as a condition of state IT procurement qualification. Sacramento government technology vendors without WCAG 2.1 AA compliance are disqualified from California CDT and CHHS IT procurement processes at vendor registration."}},{"@type":"Question","name":"What is UC Davis Health YMYL HIPAA CCPA academic healthcare web design for Sacramento?","acceptedAnswer":{"@type":"Answer","text":"UC Davis NCI Comprehensive Cancer Center programme affiliation, California MIND Institute vocabulary, UC Davis Medical Center academic research community content, HIPAA-native CCPA-native data architecture, and YMYL E-E-A-T optimised California academic medical content — the academic healthcare website that earns UC Davis Health and Sutter Sacramento clinical procurement evaluation."}}]}`,
   cta: `Get Your Free Sacramento Website Audit`,
+  ctaBody: `Free audit — 48 hours.
+1. CA state government credibility — CDT/CHHS/FI\$Cal procurement vocabulary and WCAG 2.1 AA compliance
+2. CCPA/CPRA compliance — data collection violations and California AG exposure
+3. HIPAA compliance — UC Davis/Sutter health data architecture
+4. CalPERS/CalSTRS FINRA compliance — institutional investment website violations
+5. Core Web Vitals — LCP performance for Sacramento's government and institutional community
+
+Phone +1-888-555-CLICK | sacramento@clickmastersdigitalmarketing.com
+Folsom, Roseville, Elk Grove, Midtown, and all of Greater Sacramento`,
   internalLinks: ["/web-design-services/","/digital-marketing-agency-sacramento/","/seo-services-sacramento/","/web-design-agency-san-diego/"],
   
   publishingChecklist: {
