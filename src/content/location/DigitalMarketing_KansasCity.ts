@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-KansasCity.xlsx
 // Service: DigitalMarketing
 // City: KansasCity
-// URL: /digital-marketing-agency-kansas-city/
+// URL: /digital-marketing-agency-in-kansas-city/
 // Generated: 2026-06-20T06:12:58.984Z
 
 export const DigitalMarketing_KansasCity = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_KansasCity = {
   serviceSlug: "digital-marketing",
   city: "KansasCity",
   citySlug: "kansas-city",
-  slug: "/digital-marketing-agency-kansas-city/",
+  slug: "/digital-marketing-agency-in-kansas-city/",
   
   h1: `Digital Marketing Agency Kansas City — Oracle Health Revenue, Hallmark Brand, Garmin Enterprise, and Heart of America Commercial Growth`,
   primaryKw: `digital marketing agency kansas city`,
   formula: `BAB — Kansas City Oracle Health/Cerner health IT vendors invisible + Garmin/Sprint Overland Park tech vendors unaddressed + Children's Mercy/KU health tech unreached + Chiefs/Royals B2B unaddressed → CLICK Growth System for the Heart of America`,
   seoTitle: `Digital Marketing Agency Kansas City | Oracle Health & Hallmark Brand Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Kansas City. Oracle Health (Cerner) health IT revenue, Hallmark Cards brand, Garmin enterprise, and Children's Mercy/KU Medical for the Heart of America. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Kansas City Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-kansas-city/","address":{"@type":"PostalAddress","addressLocality":"Kansas City","addressRegion":"MO","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Kansas City Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-kansas-city/","address":{"@type":"PostalAddress","addressLocality":"Kansas City","addressRegion":"MO","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3900,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN KANSAS CITY?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 10 KC paediatric queries | YMYL: E-E-A-T | Child
 
 Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
 Overland Park, Leawood, Olathe, North KC, and all of Greater Kansas City`,
-  internalLinks: ["/seo-services-kansas-city/","/digital-marketing-agency-usa/","/digital-marketing-agency-st-louis/","/digital-marketing-agency-chicago/"],
+  internalLinks: ["/seo-services-kansas-city/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-st-louis/","/digital-marketing-agency-in-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-kansas-city/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-kansas-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

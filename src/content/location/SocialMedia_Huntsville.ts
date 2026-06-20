@@ -92,7 +92,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.4% | Huntsville media: edito
 
 Phone +1-888-555-CLICK | huntsville@clickmastersdigitalmarketing.com
 Five Points South, Monte Sano, Hampton Cove, Madison, and all of Greater Huntsville`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-huntsville/","/seo-services-huntsville/","/social-media-marketing-birmingham/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-huntsville/","/seo-services-huntsville/","/social-media-marketing-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {

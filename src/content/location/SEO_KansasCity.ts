@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 10 KC paediatric queries | YMYL: E-E-A-T recogni
 
 Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
 Overland Park, Leawood, Olathe, North KC, and all of Greater Kansas City`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-kansas-city/","/seo-services-st-louis/","/seo-services-chicago/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-kansas-city/","/seo-services-st-louis/","/seo-services-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

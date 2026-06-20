@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 9 Birmingham insurance queries | Protective Life
 
 Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
 Five Points South, Crestline, Mountain Brook, and all of Greater Birmingham`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-birmingham/","/seo-services-birmingham/","/content-marketing-huntsville/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-birmingham/","/seo-services-birmingham/","/content-marketing-huntsville/"],
   
   publishingChecklist: {
     onPageSeo: {

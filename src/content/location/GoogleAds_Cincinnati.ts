@@ -94,7 +94,7 @@ Results: HIPAA: clean | CC community CPL: \$110 vs \$300 generic | New patients:
 
 Phone +1-888-555-CLICK | cincinnati@clickmastersdigitalmarketing.com
 Blue Ash, Mason, West Chester, Hyde Park, and all of Greater Cincinnati`,
-  internalLinks: ["/digital-marketing-agency-cincinnati/","/seo-services-cincinnati/","/google-ads-management-services/","/google-ads-management-cleveland/"],
+  internalLinks: ["/digital-marketing-agency-in-cincinnati/","/seo-services-cincinnati/","/google-ads-management-services/","/google-ads-management-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {

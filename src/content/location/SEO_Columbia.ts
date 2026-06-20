@@ -94,7 +94,7 @@ Results (10 months): Page 1 for 9 queries | YMYL: E-E-A-T | Prisma: cited | New 
 
 Phone +1-888-555-CLICK | columbia@clickmastersdigitalmarketing.com
 Lexington, Irmo, Five Points, Vista, and all of Greater Columbia SC`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-columbia-sc/","/seo-services-greenville/","/seo-services-charlotte/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-columbia-sc/","/seo-services-greenville/","/seo-services-charlotte/"],
   
   publishingChecklist: {
     onPageSeo: {

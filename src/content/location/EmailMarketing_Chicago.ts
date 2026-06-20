@@ -108,7 +108,7 @@ Q: How long does Chicago Fortune 500 email produce pipeline results? A: First re
 Get Your Free Chicago Email Marketing Audit: Phone +1-888-555-CLICK
 Email: chicago@clickmastersdigitalmarketing.com
 West Loop, River North, Lincoln Park, Schaumburg, and all of Chicagoland`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-chicago/","/seo-services-chicago/","/email-marketing-new-york/","/integrations/hubspot-marketing/","/industries/manufacturing/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-chicago/","/seo-services-chicago/","/email-marketing-new-york/","/integrations/hubspot-marketing/","/industries/manufacturing/"],
   
   publishingChecklist: {
     onPageSeo: {

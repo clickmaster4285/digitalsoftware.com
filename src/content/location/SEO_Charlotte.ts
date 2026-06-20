@@ -94,7 +94,7 @@ Results (10 months): Page 1 for 11 Charlotte cardiology queries | YMYL: E-E-A-T 
 
 Phone +1-888-555-CLICK | charlotte@clickmastersdigitalmarketing.com
 Uptown Charlotte, Concord, Huntersville, and all of Greater Charlotte`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-charlotte/","/seo-services-atlanta/","/seo-services-dallas/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-charlotte/","/seo-services-atlanta/","/seo-services-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

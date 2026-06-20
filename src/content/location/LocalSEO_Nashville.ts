@@ -105,7 +105,7 @@ Q: How long does Nashville Local SEO take? A: Healthcare capital: 3-5 months. Am
 Get Your Free Nashville Local SEO Audit: Phone +1-888-555-CLICK
 Email: nashville@clickmastersdigitalmarketing.com
 West End, The Gulch, Germantown, Brentwood, Franklin, and all of Middle Tennessee`,
-  internalLinks: ["/local-seo-services/","/seo-services-nashville/","/digital-marketing-agency-nashville/","/local-seo-services-atlanta/","/tools/local-seo-audit/","/industries/healthcare/"],
+  internalLinks: ["/local-seo-services/","/seo-services-nashville/","/digital-marketing-agency-in-nashville/","/local-seo-services-atlanta/","/tools/local-seo-audit/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {

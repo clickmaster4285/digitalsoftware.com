@@ -94,7 +94,7 @@ Results (4 months): Top 3 Local Pack Downtown LV creative services | Community e
 
 Phone +1-888-555-CLICK | lasvegas@clickmastersdigitalmarketing.com
 Henderson, Summerlin, Green Valley Ranch, and all of Greater Las Vegas`,
-  internalLinks: ["/local-seo-services/","/seo-services-las-vegas/","/digital-marketing-agency-las-vegas/","/local-seo-services-phoenix/"],
+  internalLinks: ["/local-seo-services/","/seo-services-las-vegas/","/digital-marketing-agency-in-las-vegas/","/local-seo-services-phoenix/"],
   
   publishingChecklist: {
     onPageSeo: {

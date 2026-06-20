@@ -105,7 +105,7 @@ Q: Colorado CPCs vs other western markets? A: 20-25% below SF, 15-20% below Seat
 Get Your Free Denver Google Ads Audit: Phone +1-888-555-CLICK
 Email: denver@clickmastersdigitalmarketing.com
 Englewood, Cherry Creek, Colorado Springs, Boulder, and all of Colorado`,
-  internalLinks: ["/digital-marketing-agency-denver/","/seo-services-denver/","/google-ads-management-services/","/google-ads-management-seattle/","/industries/manufacturing/","/industries/clean-energy/"],
+  internalLinks: ["/digital-marketing-agency-in-denver/","/seo-services-denver/","/google-ads-management-services/","/google-ads-management-seattle/","/industries/manufacturing/","/industries/clean-energy/"],
   
   publishingChecklist: {
     onPageSeo: {

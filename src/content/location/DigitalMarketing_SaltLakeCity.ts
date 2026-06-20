@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-SaltLakeCity.xlsx
 // Service: DigitalMarketing
 // City: SaltLakeCity
-// URL: /digital-marketing-agency-salt-lake-city/
+// URL: /digital-marketing-agency-in-salt-lake-city/
 // Generated: 2026-06-20T06:12:59.278Z
 
 export const DigitalMarketing_SaltLakeCity = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_SaltLakeCity = {
   serviceSlug: "digital-marketing",
   city: "SaltLakeCity",
   citySlug: "salt-lake-city",
-  slug: "/digital-marketing-agency-salt-lake-city/",
+  slug: "/digital-marketing-agency-in-salt-lake-city/",
   
   h1: `Digital Marketing Agency Salt Lake City — Silicon Slopes Revenue, Goldman Sachs FINRA, University of Utah YMYL, and Beehive State Commercial Growth`,
   primaryKw: `digital marketing agency salt lake city`,
   formula: `BAB — SLC Silicon Slopes Qualtrics/Domo vendors invisible + Goldman Sachs/Zions FINRA unreached + University of Utah/Primary Children's health tech unaddressed + L3Harris ITAR defence unaddressed + UCPA non-compliant analytics → CLICK Growth System for the Silicon Slopes capital's technology and financial ecosystem`,
   seoTitle: `Digital Marketing Agency Salt Lake City | Silicon Slopes Revenue & Goldman Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Salt Lake City. Silicon Slopes Qualtrics/Domo revenue, Goldman Sachs FINRA, University of Utah/Primary Children's YMYL, and Utah UCPA-native analytics. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Salt Lake City Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-salt-lake-city/","address":{"@type":"PostalAddress","addressLocality":"Salt Lake City","addressRegion":"UT","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Salt Lake City Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-salt-lake-city/","address":{"@type":"PostalAddress","addressLocality":"Salt Lake City","addressRegion":"UT","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN SALT LAKE CITY?
@@ -109,14 +109,14 @@ Results (11 months): CA in-migration organic: +3x | New CA-to-UT AUM: \$18M | FI
 
 Phone +1-888-555-CLICK | saltlakecity@clickmastersdigitalmarketing.com
 Lehi, Draper, South Jordan, Murray, and all of Greater Salt Lake City`,
-  internalLinks: ["/seo-services-salt-lake-city/","/digital-marketing-agency-usa/","/digital-marketing-agency-sacramento/","/digital-marketing-agency-denver/"],
+  internalLinks: ["/seo-services-salt-lake-city/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-sacramento/","/digital-marketing-agency-in-denver/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-salt-lake-city/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-salt-lake-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

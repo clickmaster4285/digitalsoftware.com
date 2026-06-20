@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Denver.xlsx
 // Service: DigitalMarketing
 // City: Denver
-// URL: /digital-marketing-agency-denver/
+// URL: /digital-marketing-agency-in-denver/
 // Generated: 2026-06-20T06:12:58.867Z
 
 export const DigitalMarketing_Denver = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Denver = {
   serviceSlug: "digital-marketing",
   city: "Denver",
   citySlug: "denver",
-  slug: "/digital-marketing-agency-denver/",
+  slug: "/digital-marketing-agency-in-denver/",
   
   h1: `Digital Marketing Agency Denver — Aerospace Authority, Clean Energy Credibility, and Colorado's In-Migration Revenue Opportunity`,
   primaryKw: `digital marketing agency denver`,
   formula: `BAB — Denver aerospace/defence companies + clean energy ecosystem + in-migration professionals relying on outdated BD channels → CLICK Growth System capturing Colorado's three-sector commercial opportunity`,
   seoTitle: `Digital Marketing Agency Denver | Aerospace, Clean Energy & Colorado Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Denver. Aerospace technical authority, NREL clean energy credibility, and in-migration revenue growth programmes for Colorado businesses. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Denver Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-denver/","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Denver Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-denver/","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Denver, CO`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN DENVER?
@@ -118,14 +118,14 @@ Q: How quickly does Denver aerospace digital produce RFQ results? A: Content ran
 Get Your Free Denver Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: denver@clickmastersdigitalmarketing.com
 Englewood, Cherry Creek, Boulder, Colorado Springs, and all of Colorado`,
-  internalLinks: ["/seo-services-denver/","/web-design-agency-denver/","/digital-marketing-agency-usa/","/industries/manufacturing/","/industries/clean-energy/","/digital-marketing-agency-dallas/"],
+  internalLinks: ["/seo-services-denver/","/web-design-agency-denver/","/digital-marketing-agency-in-usa/","/industries/manufacturing/","/industries/clean-energy/","/digital-marketing-agency-in-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-denver/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-denver/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-NewYork.xlsx
 // Service: DigitalMarketing
 // City: NewYork
-// URL: /digital-marketing-agency-new-york/
+// URL: /digital-marketing-agency-in-new-york/
 // Generated: 2026-06-20T06:12:59.126Z
 
 export const DigitalMarketing_NewYork = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_NewYork = {
   serviceSlug: "digital-marketing",
   city: "NewYork",
   citySlug: "new-york",
-  slug: "/digital-marketing-agency-new-york/",
+  slug: "/digital-marketing-agency-in-new-york/",
   
   h1: `Digital Marketing Agency New York — Wall Street Institutional Revenue and the World's Most Demanding Commercial Market`,
   primaryKw: `digital marketing agency new york`,
   formula: `BAB — NYC financial + academic medical + luxury consumer with FINRA/SEC/HIPAA compliance requirements → CLICK Growth System for world's most institutionally demanding and commercially significant city`,
   seoTitle: `Digital Marketing Agency New York | Wall Street FINRA & NYC Commercial Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in New York. Wall Street FINRA/SEC institutional revenue, HIPAA academic medical, and world-class NYC brand programmes for America's most demanding commercial market. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New York Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-new-york/","address":{"@type":"PostalAddress","addressLocality":"New York","addressRegion":"NY","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New York Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-new-york/","address":{"@type":"PostalAddress","addressLocality":"New York","addressRegion":"NY","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN NEW YORK?
@@ -107,14 +107,14 @@ Results (10 months): Total digital DTC revenue: +\$680K | NYC media editorial fe
 
 Phone +1-888-555-CLICK | newyork@clickmastersdigitalmarketing.com
 Midtown, Wall Street, SoHo, Upper East Side, Brooklyn, and all of Greater New York`,
-  internalLinks: ["/seo-services-new-york/","/web-design-agency-new-york/","/digital-marketing-agency-usa/","/digital-marketing-agency-boston/"],
+  internalLinks: ["/seo-services-new-york/","/web-design-agency-new-york/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-boston/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-new-york/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-new-york/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

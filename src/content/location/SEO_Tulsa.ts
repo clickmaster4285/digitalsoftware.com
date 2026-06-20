@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 9 Tulsa healthcare queries | YMYL: E-E-A-T | Sai
 
 Phone +1-888-555-CLICK | tulsa@clickmastersdigitalmarketing.com
 Broken Arrow, Owasso, Bixby, Blue Dome, and all of Greater Tulsa`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-tulsa/","/seo-services-oklahoma-city/","/seo-services-dallas/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-tulsa/","/seo-services-oklahoma-city/","/seo-services-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

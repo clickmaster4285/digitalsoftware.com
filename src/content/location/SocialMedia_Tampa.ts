@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.6% | Ybor City community edi
 
 Phone +1-888-555-CLICK | tampa@clickmastersdigitalmarketing.com
 South Tampa, Ybor City, Seminole Heights, St. Pete, and all of Tampa Bay`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-tampa/","/seo-services-tampa/","/social-media-marketing-miami/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-tampa/","/seo-services-tampa/","/social-media-marketing-miami/"],
   
   publishingChecklist: {
     onPageSeo: {

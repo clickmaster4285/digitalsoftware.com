@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 9 queries | YMYL: E-E-A-T | Erlanger: cited | Ne
 
 Phone +1-888-555-CLICK | chattanooga@clickmastersdigitalmarketing.com
 North Shore, Lookout Mountain, Red Bank, and all of Greater Chattanooga`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-chattanooga/","/seo-services-knoxville/","/seo-services-nashville/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-chattanooga/","/seo-services-knoxville/","/seo-services-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

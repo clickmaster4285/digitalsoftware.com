@@ -95,7 +95,7 @@ Results (6 months): Instagram engagement: 2.2% to 5.8% | Pacific NW outdoor comm
 5. Enterprise evaluation quality — Amazon/Microsoft connections and evaluation invitation rate
 
 Phone +1-888-555-CLICK | seattle@clickmastersdigitalmarketing.com | South Lake Union, Bellevue, Capitol Hill, and all of Greater Seattle`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-seattle/","/seo-services-seattle/","/social-media-marketing-san-francisco/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-seattle/","/seo-services-seattle/","/social-media-marketing-san-francisco/"],
   
   publishingChecklist: {
     onPageSeo: {

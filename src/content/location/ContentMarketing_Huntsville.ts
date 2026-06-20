@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 9 queries | Hospital: cited | YMYL: E-E-A-T | Ne
 
 Phone +1-888-555-CLICK | huntsville@clickmastersdigitalmarketing.com
 Madison, Cummings Research Park, Five Points South, and all of Greater Huntsville`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-huntsville/","/seo-services-huntsville/","/content-marketing-birmingham/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-huntsville/","/seo-services-huntsville/","/content-marketing-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {

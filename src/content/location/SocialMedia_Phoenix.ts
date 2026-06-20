@@ -96,7 +96,7 @@ Results (6 months): Instagram engagement: 1.4% to 5.0% | Arcadia food community 
 
 Phone +1-888-555-CLICK | phoenix@clickmastersdigitalmarketing.com
 Chandler, Scottsdale, Arcadia, Roosevelt Row, and all of Greater Phoenix`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-phoenix/","/seo-services-phoenix/","/social-media-marketing-las-vegas/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-phoenix/","/seo-services-phoenix/","/social-media-marketing-las-vegas/"],
   
   publishingChecklist: {
     onPageSeo: {

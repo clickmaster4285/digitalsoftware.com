@@ -92,7 +92,7 @@ Results: Riverfest June: 4.2x above average | NBAA season: 3.6x | Revenue: +\$70
 
 Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
 Old Town, Delano, Andover, and all of Greater Wichita`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-wichita/","/seo-services-wichita/","/email-marketing-kansas-city/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-wichita/","/seo-services-wichita/","/email-marketing-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

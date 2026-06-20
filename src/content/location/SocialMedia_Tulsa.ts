@@ -92,7 +92,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.2% | Tulsa media: editorial 
 
 Phone +1-888-555-CLICK | tulsa@clickmastersdigitalmarketing.com
 Blue Dome, Brookside, Cherry Street, Broken Arrow, and all of Greater Tulsa`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-tulsa/","/seo-services-tulsa/","/social-media-marketing-oklahoma-city/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-tulsa/","/seo-services-tulsa/","/social-media-marketing-oklahoma-city/"],
   
   publishingChecklist: {
     onPageSeo: {

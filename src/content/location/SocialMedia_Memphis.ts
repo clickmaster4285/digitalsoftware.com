@@ -92,7 +92,7 @@ Results (5 months): Memphis in May BBQ season content: 4.4x above average | Coop
 
 Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
 Beale Street, Cooper-Young, Midtown, Germantown, and all of Greater Memphis`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-memphis/","/seo-services-memphis/","/social-media-marketing-nashville/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-memphis/","/seo-services-memphis/","/social-media-marketing-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

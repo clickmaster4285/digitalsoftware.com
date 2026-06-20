@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 9 OKC HR tech queries | Paycom: evaluation | Pip
 
 Phone +1-888-555-CLICK | oklahomacity@clickmastersdigitalmarketing.com
 Edmond, Norman, Midwest City, Bricktown, and all of Greater OKC`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-oklahoma-city/","/seo-services-dallas/","/seo-services-tulsa/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-oklahoma-city/","/seo-services-dallas/","/seo-services-tulsa/"],
   
   publishingChecklist: {
     onPageSeo: {

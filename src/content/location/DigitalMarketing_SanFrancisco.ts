@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-SanFrancisco.xlsx
 // Service: DigitalMarketing
 // City: SanFrancisco
-// URL: /digital-marketing-agency-san-francisco/
+// URL: /digital-marketing-agency-in-san-francisco/
 // Generated: 2026-06-20T06:12:59.333Z
 
 export const DigitalMarketing_SanFrancisco = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_SanFrancisco = {
   serviceSlug: "digital-marketing",
   city: "SanFrancisco",
   citySlug: "san-francisco",
-  slug: "/digital-marketing-agency-san-francisco/",
+  slug: "/digital-marketing-agency-in-san-francisco/",
   
   h1: `Digital Marketing Agency San Francisco — AI/ML Technical Authority, GEO-First Commercial Programme, and CCPA-Native Growth`,
   primaryKw: `digital marketing agency san francisco`,
   formula: `BAB — SF AI/ML companies + Series B-stage SaaS vendors + CCPA-inaccurate measurement → CLICK Growth System with AI/ML engineering precision, GEO first-mover architecture, and CCPA-native measurement for the world's most technically demanding commercial market`,
   seoTitle: `Digital Marketing Agency San Francisco | AI/ML & CCPA-Native Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in San Francisco. AI/ML technical authority, GEO-first commercial programme, and CCPA-native measurement for Silicon Valley's most demanding commercial market. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Francisco Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-san-francisco/","address":{"@type":"PostalAddress","addressLocality":"San Francisco","addressRegion":"CA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Francisco Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-san-francisco/","address":{"@type":"PostalAddress","addressLocality":"San Francisco","addressRegion":"CA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > San Francisco, CA`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN SAN FRANCISCO?
@@ -116,14 +116,14 @@ Q: How does GEO/AEO create SF first-mover advantage? A: Above-average AI search 
 Get Your Free SF Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: sanfrancisco@clickmastersdigitalmarketing.com
 SoMa, Financial District, Mission Bay, Palo Alto, and all of Greater Bay Area`,
-  internalLinks: ["/seo-services-san-francisco/","/web-design-agency-san-francisco/","/digital-marketing-agency-usa/","/digital-marketing-agency-seattle/","/industries/ai-ml/","/industries/technology/"],
+  internalLinks: ["/seo-services-san-francisco/","/web-design-agency-san-francisco/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-seattle/","/industries/ai-ml/","/industries/technology/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-san-francisco/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-san-francisco/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

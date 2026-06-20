@@ -108,7 +108,7 @@ Q: How quickly does LA entertainment B2B email produce studio pipeline results? 
 Get Your Free LA Email Marketing Audit: Phone +1-888-555-CLICK
 Email: losangeles@clickmastersdigitalmarketing.com
 Culver City, Santa Monica, Hollywood, West Hollywood, and all of Greater Los Angeles`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-los-angeles/","/seo-services-los-angeles/","/email-marketing-san-francisco/","/integrations/klaviyo-email-marketing/","/industries/entertainment/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-los-angeles/","/seo-services-los-angeles/","/email-marketing-san-francisco/","/integrations/klaviyo-email-marketing/","/industries/entertainment/"],
   
   publishingChecklist: {
     onPageSeo: {

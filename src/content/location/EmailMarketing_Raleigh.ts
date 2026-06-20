@@ -92,7 +92,7 @@ Results: In-migration engagement: 3.8x above generic welcome | Client conversion
 
 Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
 Durham, Chapel Hill, Cary, and all of the Research Triangle`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-raleigh/","/seo-services-raleigh/","/email-marketing-charlotte/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-raleigh/","/seo-services-raleigh/","/email-marketing-charlotte/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -114,7 +114,7 @@ Q: HIPAA-compliant websites for Minneapolis healthcare? A: Yes — HIPAA-native,
 Get Your Free Minneapolis Website Audit: Phone +1-888-555-CLICK
 Email: minneapolis@clickmastersdigitalmarketing.com
 Plymouth, Eden Prairie, Edina, St. Paul, and all of the Twin Cities metro`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-minneapolis/","/seo-services-minneapolis/","/web-design-agency-chicago/","/industries/medical-devices/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-minneapolis/","/seo-services-minneapolis/","/web-design-agency-chicago/","/industries/medical-devices/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -92,7 +92,7 @@ Results: Centene re-engagement: 40% | BJC re-engagement: 38% | HIPAA: clean | Ma
 
 Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
 Clayton, Creve Coeur, Chesterfield, Hazelwood, and all of Greater St. Louis`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-st-louis/","/seo-services-st-louis/","/email-marketing-chicago/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-st-louis/","/seo-services-st-louis/","/email-marketing-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

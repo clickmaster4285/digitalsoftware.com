@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 12 Nevada asset protection/estate planning queri
 
 Phone +1-888-555-CLICK | lasvegas@clickmastersdigitalmarketing.com
 Henderson, Summerlin, Downtown Las Vegas, and all of Greater Las Vegas`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-las-vegas/","/seo-services-las-vegas/","/content-marketing-phoenix/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-las-vegas/","/seo-services-las-vegas/","/content-marketing-phoenix/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -105,7 +105,7 @@ Q: How does Clickmasters measure Nashville social media outcomes? A: LinkedIn he
 Get Your Free Nashville Social Media Audit: Phone +1-888-555-CLICK
 Email: nashville@clickmastersdigitalmarketing.com
 The Gulch, Germantown, East Nashville, Brentwood, Franklin, and all of Middle Tennessee`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-nashville/","/seo-services-nashville/","/social-media-marketing-atlanta/","/industries/healthcare/","/industries/healthcare-tech/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-nashville/","/seo-services-nashville/","/social-media-marketing-atlanta/","/industries/healthcare/","/industries/healthcare-tech/"],
   
   publishingChecklist: {
     onPageSeo: {

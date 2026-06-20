@@ -108,7 +108,7 @@ Q: How long does Boston pharma content produce results? A: FDA-aware rankings 5-
 Get Your Free Boston Content Marketing Audit: Phone +1-888-555-CLICK
 Email: boston@clickmastersdigitalmarketing.com
 Back Bay, Kendall Square, Longwood, Cambridge, and all of Greater Boston`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-boston/","/seo-services-boston/","/content-marketing-new-york/","/industries/healthcare-tech/","/industries/financial-services/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-boston/","/seo-services-boston/","/content-marketing-new-york/","/industries/healthcare-tech/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

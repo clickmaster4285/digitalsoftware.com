@@ -92,7 +92,7 @@ Results: YMYL E-E-A-T recognition: Google certified | New patients: +3x | HIPAA:
 
 Phone +1-888-555-CLICK | phoenix@clickmastersdigitalmarketing.com
 Chandler, Scottsdale, Tempe, Mesa, and all of Greater Phoenix`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-phoenix/","/seo-services-phoenix/","/web-design-agency-las-vegas/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-phoenix/","/seo-services-phoenix/","/web-design-agency-las-vegas/"],
   
   publishingChecklist: {
     onPageSeo: {

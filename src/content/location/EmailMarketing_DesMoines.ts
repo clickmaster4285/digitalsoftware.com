@@ -92,7 +92,7 @@ Results: State Fair August: 4.2x above average | Drake Relays: 3.6x | DTC: +\$80
 
 Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
 East Village, Beaverdale, West Des Moines, and all of Greater Des Moines`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-des-moines/","/seo-services-des-moines/","/email-marketing-omaha/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-des-moines/","/seo-services-des-moines/","/email-marketing-omaha/"],
   
   publishingChecklist: {
     onPageSeo: {

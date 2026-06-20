@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Boise semiconductor consulting | Micron com
 
 Phone +1-888-555-CLICK | boise@clickmastersdigitalmarketing.com
 North End, Warm Springs, Eagle, Meridian, and all of Greater Boise`,
-  internalLinks: ["/local-seo-services/","/seo-services-boise/","/digital-marketing-agency-boise/","/local-seo-services-salt-lake-city/"],
+  internalLinks: ["/local-seo-services/","/seo-services-boise/","/digital-marketing-agency-in-boise/","/local-seo-services-salt-lake-city/"],
   
   publishingChecklist: {
     onPageSeo: {

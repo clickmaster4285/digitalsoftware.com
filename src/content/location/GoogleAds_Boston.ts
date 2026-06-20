@@ -105,7 +105,7 @@ Q: How quickly does Boston pharmaceutical Google Ads produce results? A: FDA rev
 Get Your Free Boston Google Ads Audit: Phone +1-888-555-CLICK
 Email: boston@clickmastersdigitalmarketing.com
 Back Bay, Kendall Square, Longwood, Cambridge, and all of Greater Boston`,
-  internalLinks: ["/digital-marketing-agency-boston/","/seo-services-boston/","/google-ads-management-services/","/google-ads-management-new-york/","/industries/healthcare-tech/","/industries/financial-services/"],
+  internalLinks: ["/digital-marketing-agency-in-boston/","/seo-services-boston/","/google-ads-management-services/","/google-ads-management-new-york/","/industries/healthcare-tech/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -92,7 +92,7 @@ Results (10 months): Tulsa community engagement: 3.8x above average | Media: edi
 
 Phone +1-888-555-CLICK | tulsa@clickmastersdigitalmarketing.com
 Blue Dome, Brookside, Broken Arrow, Owasso, and all of Greater Tulsa`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-tulsa/","/seo-services-tulsa/","/content-marketing-oklahoma-city/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-tulsa/","/seo-services-tulsa/","/content-marketing-oklahoma-city/"],
   
   publishingChecklist: {
     onPageSeo: {

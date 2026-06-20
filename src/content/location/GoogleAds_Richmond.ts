@@ -94,7 +94,7 @@ Results: HIPAA/VCDPA: Virginia AG pre-audit passed | VCU CPL: \$110 vs \$300 gen
 
 Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com
 Henrico County, Chesterfield, Midlothian, and all of Greater Richmond`,
-  internalLinks: ["/digital-marketing-agency-richmond/","/seo-services-richmond/","/google-ads-management-services/","/google-ads-management-washington-dc/"],
+  internalLinks: ["/digital-marketing-agency-in-richmond/","/seo-services-richmond/","/google-ads-management-services/","/google-ads-management-washington-dc/"],
   
   publishingChecklist: {
     onPageSeo: {

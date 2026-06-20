@@ -92,7 +92,7 @@ Results: VCU re-engagement: 42% | Bon Secours: 38% | HIPAA/VCDPA: Virginia AG pr
 
 Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com
 The Fan, Carytown, Henrico County, Chesterfield, and all of Greater Richmond`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-richmond/","/seo-services-richmond/","/email-marketing-washington-dc/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-richmond/","/seo-services-richmond/","/email-marketing-washington-dc/"],
   
   publishingChecklist: {
     onPageSeo: {

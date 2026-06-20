@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-OklahomaCity.xlsx
 // Service: DigitalMarketing
 // City: OklahomaCity
-// URL: /digital-marketing-agency-oklahoma-city/
+// URL: /digital-marketing-agency-in-oklahoma-city/
 // Generated: 2026-06-20T06:12:59.137Z
 
 export const DigitalMarketing_OklahomaCity = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_OklahomaCity = {
   serviceSlug: "digital-marketing",
   city: "OklahomaCity",
   citySlug: "oklahoma-city",
-  slug: "/digital-marketing-agency-oklahoma-city/",
+  slug: "/digital-marketing-agency-in-oklahoma-city/",
   
   h1: `Digital Marketing Agency Oklahoma City — Devon Energy Revenue, INTEGRIS/OU Health YMYL, Tinker AFB Military, and Sooner State Commercial Growth`,
   primaryKw: `digital marketing agency oklahoma city`,
   formula: `BAB — OKC Devon/Expand Energy E&P vendors invisible + INTEGRIS/OU Health YMYL unreached + Tinker AFB ITAR-bounded unaddressed + Paycom HR SaaS unaddressed + Love's Travel fleet unaddressed + OGE Energy utility unaddressed → CLICK Growth System for the Sooner State's oil and gas, healthcare, and defence capital`,
   seoTitle: `Digital Marketing Agency Oklahoma City | Devon Energy Revenue & INTEGRIS Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Oklahoma City. Devon Energy oil and gas E&P revenue, INTEGRIS/OU Health YMYL, Tinker AFB ITAR-bounded, Paycom HR SaaS, and OGE Energy utility. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Oklahoma City Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-oklahoma-city/","address":{"@type":"PostalAddress","addressLocality":"Oklahoma City","addressRegion":"OK","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Oklahoma City Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-oklahoma-city/","address":{"@type":"PostalAddress","addressLocality":"Oklahoma City","addressRegion":"OK","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN OKLAHOMA CITY?
@@ -111,14 +111,14 @@ Results (11 months): Page 1 for 9 OKC HR queries | Paycom VP: digital discovery 
 
 Phone +1-888-555-CLICK | oklahomacity@clickmastersdigitalmarketing.com
 Edmond, Norman, Midwest City, Bricktown, and all of Greater OKC`,
-  internalLinks: ["/seo-services-oklahoma-city/","/digital-marketing-agency-usa/","/digital-marketing-agency-dallas/","/digital-marketing-agency-tulsa/"],
+  internalLinks: ["/seo-services-oklahoma-city/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-dallas/","/digital-marketing-agency-in-tulsa/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-oklahoma-city/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-oklahoma-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

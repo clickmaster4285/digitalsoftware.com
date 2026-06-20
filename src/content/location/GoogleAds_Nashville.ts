@@ -94,7 +94,7 @@ Results: Germantown-authentic CPL: \$28 vs \$180 broad Nashville | Shopify conve
 
 Phone +1-888-555-CLICK | nashville@clickmastersdigitalmarketing.com
 Brentwood, Franklin, The Gulch, Germantown, and all of Middle Tennessee`,
-  internalLinks: ["/digital-marketing-agency-nashville/","/seo-services-nashville/","/google-ads-management-services/","/google-ads-management-atlanta/"],
+  internalLinks: ["/digital-marketing-agency-in-nashville/","/seo-services-nashville/","/google-ads-management-services/","/google-ads-management-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

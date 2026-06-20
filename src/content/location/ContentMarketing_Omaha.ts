@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 9 Omaha oncology queries | Nebraska Medicine: ci
 
 Phone +1-888-555-CLICK | omaha@clickmastersdigitalmarketing.com
 Old Market, Dundee, Aksarben, Bellevue, and all of Greater Omaha`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-omaha/","/seo-services-omaha/","/content-marketing-kansas-city/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-omaha/","/seo-services-omaha/","/content-marketing-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

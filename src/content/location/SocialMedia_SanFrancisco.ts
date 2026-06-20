@@ -105,7 +105,7 @@ Q: How does Clickmasters measure SF social media outcomes? A: ML engineering buy
 Get Your Free SF Social Media Audit: Phone +1-888-555-CLICK
 Email: sanfrancisco@clickmastersdigitalmarketing.com
 SoMa, Financial District, Mission District, Palo Alto, and all of Greater Bay Area`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-san-francisco/","/seo-services-san-francisco/","/social-media-marketing-seattle/","/industries/ai-ml/","/industries/technology/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-san-francisco/","/seo-services-san-francisco/","/social-media-marketing-seattle/","/industries/ai-ml/","/industries/technology/"],
   
   publishingChecklist: {
     onPageSeo: {

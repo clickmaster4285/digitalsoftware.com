@@ -95,7 +95,7 @@ Results (6 months): Instagram engagement: 1.4% to 4.6% | Bishop Arts community e
 5. Fortune 500 connection quality — are LinkedIn connections converting to evaluations?
 
 Phone +1-888-555-CLICK | dallas@clickmastersdigitalmarketing.com | Uptown, Plano, Richardson, Bishop Arts, and all of DFW`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-dallas/","/seo-services-dallas/","/social-media-marketing-houston/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-dallas/","/seo-services-dallas/","/social-media-marketing-houston/"],
   
   publishingChecklist: {
     onPageSeo: {

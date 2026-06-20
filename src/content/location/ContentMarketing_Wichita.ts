@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 9 queries | Via Christi: cited | YMYL: E-E-A-T |
 
 Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
 Old Town, Delano, Andover, and all of Greater Wichita`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-wichita/","/seo-services-wichita/","/content-marketing-kansas-city/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-wichita/","/seo-services-wichita/","/content-marketing-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

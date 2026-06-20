@@ -111,7 +111,7 @@ Q: What is Texas commercial directness in web design? A: Value proposition withi
 Get Your Free Dallas Website Audit: Phone +1-888-555-CLICK
 Email: dallas@clickmastersdigitalmarketing.com
 Uptown, Plano, Richardson, Frisco, and all of DFW`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-dallas/","/seo-services-dallas/","/web-design-agency-houston/","/industries/technology/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-dallas/","/seo-services-dallas/","/web-design-agency-houston/","/industries/technology/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {

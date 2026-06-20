@@ -105,7 +105,7 @@ Q: GEO/AEO for Austin startups? A: Austin technology professionals using AI sear
 Get Your Free Austin SEO Audit: Phone +1-888-555-CLICK
 Email: austin@clickmastersdigitalmarketing.com
 Downtown Austin, The Domain, Round Rock, Cedar Park, and all of Greater Austin`,
-  internalLinks: ["/digital-marketing-agency-austin/","/seo-services/","/seo-services-dallas/","/seo-services-houston/","/industries/technology/","/industries/saas/"],
+  internalLinks: ["/digital-marketing-agency-in-austin/","/seo-services/","/seo-services-dallas/","/seo-services-houston/","/industries/technology/","/industries/saas/"],
   
   publishingChecklist: {
     onPageSeo: {

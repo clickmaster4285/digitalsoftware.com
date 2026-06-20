@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Omaha.xlsx
 // Service: DigitalMarketing
 // City: Omaha
-// URL: /digital-marketing-agency-omaha/
+// URL: /digital-marketing-agency-in-omaha/
 // Generated: 2026-06-20T06:12:59.147Z
 
 export const DigitalMarketing_Omaha = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Omaha = {
   serviceSlug: "digital-marketing",
   city: "Omaha",
   citySlug: "omaha",
-  slug: "/digital-marketing-agency-omaha/",
+  slug: "/digital-marketing-agency-in-omaha/",
   
   h1: `Digital Marketing Agency Omaha — Berkshire Hathaway Revenue, Union Pacific Rail Logistics, Nebraska Medicine YMYL, and Gate City Commercial Growth`,
   primaryKw: `digital marketing agency omaha`,
   formula: `BAB — Omaha Berkshire Hathaway FINRA/SEC vendors invisible + Union Pacific rail logistics unaddressed + ConAgra food manufacturing unaddressed + Nebraska Medicine YMYL unreached + Mutual of Omaha FINRA unreached + NDPA non-compliant → CLICK Growth System for the Gate City's investment, logistics, healthcare, and agribusiness capital`,
   seoTitle: `Digital Marketing Agency Omaha | Berkshire Hathaway Revenue & Union Pacific Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Omaha. Berkshire Hathaway FINRA/SEC investment revenue, Union Pacific rail logistics, ConAgra food manufacturing, Nebraska Medicine YMYL, and NDPA-native analytics. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Omaha Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-omaha/","address":{"@type":"PostalAddress","addressLocality":"Omaha","addressRegion":"NE","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Omaha Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-omaha/","address":{"@type":"PostalAddress","addressLocality":"Omaha","addressRegion":"NE","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN OMAHA?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 9 Omaha health IT queries | Nebraska Medicine: e
 
 Phone +1-888-555-CLICK | omaha@clickmastersdigitalmarketing.com
 Bellevue, Papillion, Elkhorn, Old Market, and all of Greater Omaha`,
-  internalLinks: ["/seo-services-omaha/","/digital-marketing-agency-usa/","/digital-marketing-agency-kansas-city/","/digital-marketing-agency-des-moines/"],
+  internalLinks: ["/seo-services-omaha/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-kansas-city/","/digital-marketing-agency-in-des-moines/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-omaha/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-omaha/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

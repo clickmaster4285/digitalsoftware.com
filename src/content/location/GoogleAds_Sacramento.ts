@@ -94,7 +94,7 @@ Results: HIPAA/CCPA: California AG pre-audit passed | UC Davis NCI CPL: \$130 vs
 
 Phone +1-888-555-CLICK | sacramento@clickmastersdigitalmarketing.com
 Folsom, Roseville, Elk Grove, Midtown, and all of Greater Sacramento`,
-  internalLinks: ["/digital-marketing-agency-sacramento/","/seo-services-sacramento/","/google-ads-management-services/","/google-ads-management-san-diego/"],
+  internalLinks: ["/digital-marketing-agency-in-sacramento/","/seo-services-sacramento/","/google-ads-management-services/","/google-ads-management-san-diego/"],
   
   publishingChecklist: {
     onPageSeo: {

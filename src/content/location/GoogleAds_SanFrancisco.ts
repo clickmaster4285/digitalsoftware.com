@@ -105,7 +105,7 @@ Q: SF Google Ads CPCs vs other tech markets? A: AI infrastructure \$45-\$95+. Fi
 Get Your Free SF Google Ads Audit: Phone +1-888-555-CLICK
 Email: sanfrancisco@clickmastersdigitalmarketing.com
 SOMA, Mission Bay, FiDi, Palo Alto, Oakland, and all of the Bay Area`,
-  internalLinks: ["/digital-marketing-agency-san-francisco/","/seo-services-san-francisco/","/google-ads-management-services/","/google-ads-management-seattle/","/industries/ai-machine-learning/","/industries/fintech/"],
+  internalLinks: ["/digital-marketing-agency-in-san-francisco/","/seo-services-san-francisco/","/google-ads-management-services/","/google-ads-management-seattle/","/industries/ai-machine-learning/","/industries/fintech/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -91,7 +91,7 @@ Results: FINRA examination: zero findings | BIPA: Illinois AG pre-audit passed |
 5. Core Web Vitals — LCP, CLS, INP benchmarks
 
 Phone +1-888-555-CLICK | chicago@clickmastersdigitalmarketing.com | West Loop, Elk Grove Village, Naperville, and all of Chicagoland`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-chicago/","/seo-services-chicago/","/web-design-agency-dallas/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-chicago/","/seo-services-chicago/","/web-design-agency-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -91,7 +91,7 @@ Results: Shopify conversion: 1.4% to 3.4% | Nashville community editorial featur
 5. Core Web Vitals — LCP benchmarks for Nashville's growing digital-first community
 
 Phone +1-888-555-CLICK | nashville@clickmastersdigitalmarketing.com | The Gulch, Germantown, Brentwood, Franklin, and all of Middle Tennessee`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-nashville/","/seo-services-nashville/","/web-design-agency-atlanta/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-nashville/","/seo-services-nashville/","/web-design-agency-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

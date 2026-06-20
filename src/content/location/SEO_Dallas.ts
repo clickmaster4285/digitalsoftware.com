@@ -105,7 +105,7 @@ Q: GEO/AEO for Dallas? A: DFW Fortune 500 corporate community among most commerc
 Get Your Free Dallas SEO Audit: Phone +1-888-555-CLICK
 Email: dallas@clickmastersdigitalmarketing.com
 Uptown, Plano, Richardson, Frisco, Irving, and all of DFW`,
-  internalLinks: ["/digital-marketing-agency-dallas/","/seo-services/","/seo-services-houston/","/seo-services-austin/","/industries/technology/","/industries/financial-services/"],
+  internalLinks: ["/digital-marketing-agency-in-dallas/","/seo-services/","/seo-services-houston/","/seo-services-austin/","/industries/technology/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Orlando.xlsx
 // Service: DigitalMarketing
 // City: Orlando
-// URL: /digital-marketing-agency-orlando/
+// URL: /digital-marketing-agency-in-orlando/
 // Generated: 2026-06-20T06:12:59.160Z
 
 export const DigitalMarketing_Orlando = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Orlando = {
   serviceSlug: "digital-marketing",
   city: "Orlando",
   citySlug: "orlando",
-  slug: "/digital-marketing-agency-orlando/",
+  slug: "/digital-marketing-agency-in-orlando/",
   
   h1: `Digital Marketing Agency Orlando — Disney/Universal Hospitality Revenue, Lake Nona Life Science, and Central Florida Commercial Growth`,
   primaryKw: `digital marketing agency orlando`,
   formula: `BAB — Orlando Disney/Universal hospitality tech vendors invisible + AdventHealth/Nemours health tech unaddressed + Lake Nona Medical City life science unaddressed + Lockheed Martin simulation ITAR unaddressed + Florida SB 262 non-compliant analytics → CLICK Growth System for the Theme Park Capital's technology ecosystem`,
   seoTitle: `Digital Marketing Agency Orlando | Disney/Universal Hospitality & Lake Nona Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Orlando. Disney/Universal hospitality technology revenue, AdventHealth/Nemours YMYL, Lake Nona Medical City life science, and Florida SB 262-compliant analytics. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Orlando Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-orlando/","address":{"@type":"PostalAddress","addressLocality":"Orlando","addressRegion":"FL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Orlando Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-orlando/","address":{"@type":"PostalAddress","addressLocality":"Orlando","addressRegion":"FL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3900,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN ORLANDO?
@@ -109,14 +109,14 @@ Results (11 months): FL in-migration organic leads: +3x | Google Ads CPL: below 
 
 Phone +1-888-555-CLICK | orlando@clickmastersdigitalmarketing.com
 Lake Nona, Winter Park, Kissimmee, and all of Greater Orlando`,
-  internalLinks: ["/seo-services-orlando/","/digital-marketing-agency-usa/","/digital-marketing-agency-tampa/","/digital-marketing-agency-miami/"],
+  internalLinks: ["/seo-services-orlando/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-tampa/","/digital-marketing-agency-in-miami/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-orlando/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-orlando/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 9 Wichita healthcare queries | YMYL: E-E-A-T | V
 
 Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
 Andover, Derby, Old Town, East Side, and all of Greater Wichita`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-wichita/","/seo-services-oklahoma-city/","/seo-services-kansas-city/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-wichita/","/seo-services-oklahoma-city/","/seo-services-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.0% | Crossroads editorial fe
 
 Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
 Crossroads KC, 18th & Vine, Overland Park, Leawood, and all of Greater Kansas City`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-kansas-city/","/seo-services-kansas-city/","/social-media-marketing-st-louis/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-kansas-city/","/seo-services-kansas-city/","/social-media-marketing-st-louis/"],
   
   publishingChecklist: {
     onPageSeo: {

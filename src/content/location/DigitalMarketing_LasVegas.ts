@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-LasVegas.xlsx
 // Service: DigitalMarketing
 // City: LasVegas
-// URL: /digital-marketing-agency-las-vegas/
+// URL: /digital-marketing-agency-in-las-vegas/
 // Generated: 2026-06-20T06:12:59.014Z
 
 export const DigitalMarketing_LasVegas = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_LasVegas = {
   serviceSlug: "digital-marketing",
   city: "LasVegas",
   citySlug: "las-vegas",
-  slug: "/digital-marketing-agency-las-vegas/",
+  slug: "/digital-marketing-agency-in-las-vegas/",
   
   h1: `Digital Marketing Agency Las Vegas — Gaming Enterprise Revenue, CA In-Migration Professional Services, and Nevada Commercial Growth`,
   primaryKw: `digital marketing agency las vegas`,
   formula: `BAB — Las Vegas gaming B2B + CA in-migration professional services + Nevada no-income-tax commercial opportunity → CLICK Growth System for the fastest-diversifying major US commercial market`,
   seoTitle: `Digital Marketing Agency Las Vegas | Gaming Enterprise & CA In-Migration Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Las Vegas. Gaming enterprise revenue growth, California in-migration professional services, and Nevada no-income-tax commercial programmes for the Strip and Henderson. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Las Vegas Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-las-vegas/","address":{"@type":"PostalAddress","addressLocality":"Las Vegas","addressRegion":"NV","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Las Vegas Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-las-vegas/","address":{"@type":"PostalAddress","addressLocality":"Las Vegas","addressRegion":"NV","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN LAS VEGAS?
@@ -107,14 +107,14 @@ Results (10 months): Page 1 for 14 Nevada estate planning queries | CA in-migrat
 
 Phone +1-888-555-CLICK | lasvegas@clickmastersdigitalmarketing.com
 Henderson, Summerlin, North Las Vegas, and all of Greater Las Vegas`,
-  internalLinks: ["/seo-services-las-vegas/","/digital-marketing-agency-usa/","/digital-marketing-agency-phoenix/","/digital-marketing-agency-los-angeles/"],
+  internalLinks: ["/seo-services-las-vegas/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-phoenix/","/digital-marketing-agency-in-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-las-vegas/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-las-vegas/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

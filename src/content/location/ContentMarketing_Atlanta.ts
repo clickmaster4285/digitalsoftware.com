@@ -108,7 +108,7 @@ Q: GEO/AEO for Atlanta? A: Delta and Home Depot procurement using ChatGPT/Perple
 Get Your Free Atlanta Content Marketing Audit: Phone +1-888-555-CLICK
 Email: atlanta@clickmastersdigitalmarketing.com
 Midtown, Buckhead, Sandy Springs, Alpharetta, and all of Metro Atlanta`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-atlanta/","/seo-services-atlanta/","/content-marketing-dallas/","/industries/fintech/","/industries/technology/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-atlanta/","/seo-services-atlanta/","/content-marketing-dallas/","/industries/fintech/","/industries/technology/"],
   
   publishingChecklist: {
     onPageSeo: {

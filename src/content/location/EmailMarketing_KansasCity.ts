@@ -92,7 +92,7 @@ Results: CM re-engagement: 40% | KU Medical Center re-engagement: 38% | HIPAA: c
 
 Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
 Crossroads KC, Overland Park, Leawood, North KC, and all of Greater Kansas City`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-kansas-city/","/seo-services-kansas-city/","/email-marketing-st-louis/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-kansas-city/","/seo-services-kansas-city/","/email-marketing-st-louis/"],
   
   publishingChecklist: {
     onPageSeo: {

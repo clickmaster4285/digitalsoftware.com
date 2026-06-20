@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Birmingham.xlsx
 // Service: DigitalMarketing
 // City: Birmingham
-// URL: /digital-marketing-agency-birmingham/
+// URL: /digital-marketing-agency-in-birmingham/
 // Generated: 2026-06-20T06:12:58.714Z
 
 export const DigitalMarketing_Birmingham = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Birmingham = {
   serviceSlug: "digital-marketing",
   city: "Birmingham",
   citySlug: "birmingham",
-  slug: "/digital-marketing-agency-birmingham/",
+  slug: "/digital-marketing-agency-in-birmingham/",
   
   h1: `Digital Marketing Agency Birmingham — Regions Financial Revenue, UAB World-Class YMYL, Blue Cross Alabama Insurance, and Magic City Commercial Growth`,
   primaryKw: `digital marketing agency birmingham`,
   formula: `BAB — Birmingham Regions Financial FINRA/SEC vendors invisible + UAB world-class NCI YMYL unreached + Blue Cross Alabama unaddressed + Encompass Health YMYL unaddressed + Protective Life FINRA unreached + Vulcan Materials industrial unaddressed → CLICK Growth System for the Magic City's banking, world-class healthcare, and insurance capital`,
   seoTitle: `Digital Marketing Agency Birmingham | Regions Financial Revenue & UAB World-Class YMYL | Clickmasters`,
   meta: `Clickmasters digital marketing in Birmingham. Regions Financial FINRA/SEC banking revenue, UAB NCI world-class YMYL, Blue Cross Alabama insurance, Encompass Health rehabilitation, and Protective Life. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Birmingham Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-birmingham/","address":{"@type":"PostalAddress","addressLocality":"Birmingham","addressRegion":"AL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Birmingham Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-birmingham/","address":{"@type":"PostalAddress","addressLocality":"Birmingham","addressRegion":"AL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN BIRMINGHAM?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 9 queries | Blue Cross: evaluation | Protective 
 
 Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
 Hoover, Vestavia Hills, Mountain Brook, and all of Greater Birmingham`,
-  internalLinks: ["/seo-services-birmingham/","/digital-marketing-agency-usa/","/digital-marketing-agency-huntsville/","/digital-marketing-agency-nashville/"],
+  internalLinks: ["/seo-services-birmingham/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-huntsville/","/digital-marketing-agency-in-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-birmingham/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-birmingham/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

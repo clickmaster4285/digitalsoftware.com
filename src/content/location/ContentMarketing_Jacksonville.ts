@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 10 Jacksonville health queries | YMYL: E-E-A-T |
 
 Phone +1-888-555-CLICK | jacksonville@clickmastersdigitalmarketing.com
 Riverside, Avondale, San Marco, Ponte Vedra Beach, and all of Greater Jacksonville`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-jacksonville/","/seo-services-jacksonville/","/content-marketing-orlando/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-jacksonville/","/seo-services-jacksonville/","/content-marketing-orlando/"],
   
   publishingChecklist: {
     onPageSeo: {

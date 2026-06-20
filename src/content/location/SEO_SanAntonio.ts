@@ -94,7 +94,7 @@ Results (10 months): Page 1 for 12 STMC health tech queries | University Health 
 
 Phone +1-888-555-CLICK | sanantonio@clickmastersdigitalmarketing.com
 Northwest San Antonio, Stone Oak, Medical Center, and all of Greater San Antonio`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-san-antonio/","/seo-services-houston/","/seo-services-austin/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-san-antonio/","/seo-services-houston/","/seo-services-austin/"],
   
   publishingChecklist: {
     onPageSeo: {

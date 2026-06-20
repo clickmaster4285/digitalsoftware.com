@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Nashville.xlsx
 // Service: DigitalMarketing
 // City: Nashville
-// URL: /digital-marketing-agency-nashville/
+// URL: /digital-marketing-agency-in-nashville/
 // Generated: 2026-06-20T06:12:59.102Z
 
 export const DigitalMarketing_Nashville = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Nashville = {
   serviceSlug: "digital-marketing",
   city: "Nashville",
   citySlug: "nashville",
-  slug: "/digital-marketing-agency-nashville/",
+  slug: "/digital-marketing-agency-in-nashville/",
   
   h1: `Digital Marketing Agency Nashville — Healthcare Capital, Amazon East Bank, and Music City Revenue Growth`,
   primaryKw: `digital marketing agency nashville`,
   formula: `BAB — Nashville healthcare technology companies + Amazon East Bank vendors + Music City consumer businesses relying on conference BD and personal networks → invisible to new HCA executives and Amazon professionals without existing relationships → CLICK Growth System for Nashville's three-sector commercial opportunity`,
   seoTitle: `Digital Marketing Agency Nashville | Healthcare Capital & Amazon East Bank | Clickmasters`,
   meta: `Clickmasters digital marketing in Nashville. Healthcare capital revenue growth for HCA/Envision ecosystem, Amazon East Bank B2B, and authentic Music City consumer programmes. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Nashville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-nashville/","address":{"@type":"PostalAddress","addressLocality":"Nashville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Nashville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-nashville/","address":{"@type":"PostalAddress","addressLocality":"Nashville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Nashville, TN`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN NASHVILLE?
@@ -118,14 +118,14 @@ Q: GEO/AEO for Nashville? A: HCA new CDO and Amazon East Bank using ChatGPT/Perp
 Get Your Free Nashville Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: nashville@clickmastersdigitalmarketing.com
 The Gulch, Germantown, Brentwood, Franklin, and all of Middle Tennessee`,
-  internalLinks: ["/seo-services-nashville/","/web-design-agency-nashville/","/digital-marketing-agency-usa/","/digital-marketing-agency-atlanta/","/industries/healthcare-tech/","/industries/technology/"],
+  internalLinks: ["/seo-services-nashville/","/web-design-agency-nashville/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-atlanta/","/industries/healthcare-tech/","/industries/technology/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-nashville/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-nashville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

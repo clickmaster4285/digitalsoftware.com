@@ -94,7 +94,7 @@ Results: HIPAA: clean | UofL CPL: \$110 vs \$300 generic | New patients: +3x`,
 
 Phone +1-888-555-CLICK | louisville@clickmastersdigitalmarketing.com
 St. Matthews, Jeffersontown, Shelbyville, and all of Greater Louisville`,
-  internalLinks: ["/digital-marketing-agency-louisville/","/seo-services-louisville/","/google-ads-management-services/","/google-ads-management-nashville/"],
+  internalLinks: ["/digital-marketing-agency-in-louisville/","/seo-services-louisville/","/google-ads-management-services/","/google-ads-management-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

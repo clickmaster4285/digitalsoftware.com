@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | U of U: cited | HIPAA/UCPA: Utah AG pre-audit passed | 
 
 Phone +1-888-555-CLICK | saltlakecity@clickmastersdigitalmarketing.com
 Lehi, Draper, South Jordan, Murray, and all of Greater Salt Lake City`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-salt-lake-city/","/seo-services-salt-lake-city/","/web-design-agency-denver/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-salt-lake-city/","/seo-services-salt-lake-city/","/web-design-agency-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

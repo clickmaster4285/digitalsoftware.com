@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack East Memphis logistics consulting | FedEx c
 
 Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
 Germantown, East Memphis, Collierville, Cooper-Young, and all of Greater Memphis`,
-  internalLinks: ["/local-seo-services/","/seo-services-memphis/","/digital-marketing-agency-memphis/","/local-seo-services-nashville/"],
+  internalLinks: ["/local-seo-services/","/seo-services-memphis/","/digital-marketing-agency-in-memphis/","/local-seo-services-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

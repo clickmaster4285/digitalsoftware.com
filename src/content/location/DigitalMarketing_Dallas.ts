@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Dallas.xlsx
 // Service: DigitalMarketing
 // City: Dallas
-// URL: /digital-marketing-agency-dallas/
+// URL: /digital-marketing-agency-in-dallas/
 // Generated: 2026-06-20T06:12:58.845Z
 
 export const DigitalMarketing_Dallas = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Dallas = {
   serviceSlug: "digital-marketing",
   city: "Dallas",
   citySlug: "dallas",
-  slug: "/digital-marketing-agency-dallas/",
+  slug: "/digital-marketing-agency-in-dallas/",
   
   h1: `Digital Marketing Agency Dallas — Fortune 500 Revenue Growth for Texas' Corporate Commercial Capital`,
   primaryKw: `digital marketing agency dallas`,
   formula: `BAB — Dallas Fortune 500 corporate relocation wave raising commercial digital standards → incumbent DFW businesses below the standard relocated executives now expect → CLICK Growth System for Texas' corporate capital`,
   seoTitle: `Digital Marketing Agency Dallas | Fortune 500 DFW Revenue Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Dallas-Fort Worth. Fortune 500 vendor revenue growth for AT&T, Toyota, Schwab ecosystem and DFW technology companies. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Dallas Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-dallas/","address":{"@type":"PostalAddress","addressLocality":"Dallas","addressRegion":"TX","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Dallas Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-dallas/","address":{"@type":"PostalAddress","addressLocality":"Dallas","addressRegion":"TX","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Dallas, TX`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN DALLAS?
@@ -114,14 +114,14 @@ Q: GEO/AEO for Dallas? A: DFW Fortune 500 corporate community using AI search. F
 Get Your Free Dallas Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: dallas@clickmastersdigitalmarketing.com
 Uptown, Plano, Richardson, Frisco, Fort Worth, and all of DFW`,
-  internalLinks: ["/seo-services-dallas/","/web-design-agency-dallas/","/digital-marketing-agency-usa/","/digital-marketing-agency-houston/","/industries/technology/","/industries/financial-services/"],
+  internalLinks: ["/seo-services-dallas/","/web-design-agency-dallas/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-houston/","/industries/technology/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-dallas/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-dallas/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

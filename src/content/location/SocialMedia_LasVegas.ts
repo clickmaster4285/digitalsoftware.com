@@ -96,7 +96,7 @@ Results (6 months): Instagram engagement: 1.6% to 5.2% | First Friday community 
 
 Phone +1-888-555-CLICK | lasvegas@clickmastersdigitalmarketing.com
 Henderson, Summerlin, Downtown Las Vegas, and all of Greater Las Vegas`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-las-vegas/","/seo-services-las-vegas/","/social-media-marketing-phoenix/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-las-vegas/","/seo-services-las-vegas/","/social-media-marketing-phoenix/"],
   
   publishingChecklist: {
     onPageSeo: {

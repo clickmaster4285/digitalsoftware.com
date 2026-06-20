@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-LosAngeles.xlsx
 // Service: DigitalMarketing
 // City: LosAngeles
-// URL: /digital-marketing-agency-los-angeles/
+// URL: /digital-marketing-agency-in-los-angeles/
 // Generated: 2026-06-20T06:12:59.035Z
 
 export const DigitalMarketing_LosAngeles = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_LosAngeles = {
   serviceSlug: "digital-marketing",
   city: "LosAngeles",
   citySlug: "los-angeles",
-  slug: "/digital-marketing-agency-los-angeles/",
+  slug: "/digital-marketing-agency-in-los-angeles/",
   
   h1: `Digital Marketing Agency Los Angeles — Entertainment B2B, Silicon Beach Technology, and Creator Economy Revenue Growth`,
   primaryKw: `digital marketing agency los angeles`,
   formula: `BAB — LA entertainment B2B companies + Silicon Beach technology + DTC consumer brands operating below CCPA-accurate commercial baseline → CLICK Growth System with CCPA-native measurement for the world's most commercially diverse metropolitan market`,
   seoTitle: `Digital Marketing Agency Los Angeles | Entertainment & Silicon Beach Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Los Angeles. Entertainment industry B2B growth, Silicon Beach technology, and creator economy DTC programmes with CCPA-native analytics. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Los Angeles Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-los-angeles/","address":{"@type":"PostalAddress","addressLocality":"Los Angeles","addressRegion":"CA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Los Angeles Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-los-angeles/","address":{"@type":"PostalAddress","addressLocality":"Los Angeles","addressRegion":"CA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Los Angeles, CA`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN LOS ANGELES?
@@ -118,14 +118,14 @@ Q: GEO/AEO for LA? A: Netflix VPs and Silicon Beach professionals using ChatGPT/
 Get Your Free LA Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: losangeles@clickmastersdigitalmarketing.com
 Culver City, Santa Monica, Hollywood, Playa Vista, and all of Greater Los Angeles`,
-  internalLinks: ["/seo-services-los-angeles/","/web-design-agency-los-angeles/","/digital-marketing-agency-usa/","/digital-marketing-agency-san-francisco/","/industries/entertainment/","/industries/technology/"],
+  internalLinks: ["/seo-services-los-angeles/","/web-design-agency-los-angeles/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-san-francisco/","/industries/entertainment/","/industries/technology/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-los-angeles/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-los-angeles/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -108,7 +108,7 @@ Q: What CA in-migration content topics generate highest Denver engagement? A: (1
 Get Your Free Denver Content Marketing Audit: Phone +1-888-555-CLICK
 Email: denver@clickmastersdigitalmarketing.com
 Englewood, Cherry Creek, Boulder, Colorado Springs, and all of Colorado`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-denver/","/seo-services-denver/","/content-marketing-seattle/","/industries/manufacturing/","/industries/clean-energy/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-denver/","/seo-services-denver/","/content-marketing-seattle/","/industries/manufacturing/","/industries/clean-energy/"],
   
   publishingChecklist: {
     onPageSeo: {

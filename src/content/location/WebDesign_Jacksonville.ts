@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | Baptist Health: cited | HIPAA/SB 262: Florida AG pre-au
 
 Phone +1-888-555-CLICK | jacksonville@clickmastersdigitalmarketing.com
 Ponte Vedra Beach, Orange Park, St. Johns, and all of Greater Jacksonville`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-jacksonville/","/seo-services-jacksonville/","/web-design-agency-orlando/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-jacksonville/","/seo-services-jacksonville/","/web-design-agency-orlando/"],
   
   publishingChecklist: {
     onPageSeo: {

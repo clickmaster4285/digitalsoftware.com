@@ -111,7 +111,7 @@ Q: HIPAA-compliant bilingual websites for San Antonio healthcare? A: Yes — Spa
 Get Your Free San Antonio Website Audit: Phone +1-888-555-CLICK
 Email: sanantonio@clickmastersdigitalmarketing.com
 Westside, Stone Oak, JBSA area, New Braunfels, and all of Greater San Antonio`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-san-antonio/","/seo-services-san-antonio/","/web-design-agency-houston/","/industries/healthcare/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-san-antonio/","/seo-services-san-antonio/","/web-design-agency-houston/","/industries/healthcare/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {

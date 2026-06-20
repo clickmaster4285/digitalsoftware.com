@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Portland.xlsx
 // Service: DigitalMarketing
 // City: Portland
-// URL: /digital-marketing-agency-portland/
+// URL: /digital-marketing-agency-in-portland/
 // Generated: 2026-06-20T06:12:59.211Z
 
 export const DigitalMarketing_Portland = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Portland = {
   serviceSlug: "digital-marketing",
   city: "Portland",
   citySlug: "portland",
-  slug: "/digital-marketing-agency-portland/",
+  slug: "/digital-marketing-agency-in-portland/",
   
   h1: `Digital Marketing Agency Portland — Authentic-Values Revenue Growth for the Pacific Northwest's Most Commercially Distinctive Market`,
   primaryKw: `digital marketing agency portland`,
   formula: `BAB — Portland businesses operating with marketing that fails Portland's authenticity-intelligence standard → generic marketing earning scepticism from Pacific NW's most discerning commercial audience → CLICK Growth System for authentic-values commercial growth`,
   seoTitle: `Digital Marketing Agency Portland | Authentic Values, Nike & Intel | Clickmasters`,
   meta: `Clickmasters digital marketing in Portland. Authentic-values revenue growth for Nike/Adidas ecosystem vendors, Intel Hillsboro B2B, and Pacific Northwest businesses. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Portland Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-portland/","address":{"@type":"PostalAddress","addressLocality":"Portland","addressRegion":"OR","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Portland Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-portland/","address":{"@type":"PostalAddress","addressLocality":"Portland","addressRegion":"OR","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Portland, OR`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN PORTLAND?
@@ -114,14 +114,14 @@ Q: GEO/AEO for Portland? A: Nike sourcing directors and Intel procurement using 
 Get Your Free Portland Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: portland@clickmastersdigitalmarketing.com
 Pearl District, Beaverton, Hillsboro, Lake Oswego, and all of Greater Portland`,
-  internalLinks: ["/seo-services-portland/","/web-design-agency-portland/","/digital-marketing-agency-usa/","/digital-marketing-agency-seattle/","/industries/outdoor-apparel/","/industries/manufacturing/"],
+  internalLinks: ["/seo-services-portland/","/web-design-agency-portland/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-seattle/","/industries/outdoor-apparel/","/industries/manufacturing/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-portland/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-portland/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack South Huntsville aerospace consulting | NAS
 
 Phone +1-888-555-CLICK | huntsville@clickmastersdigitalmarketing.com
 Jones Valley, Monte Sano, Hampton Cove, Madison, and all of Greater Huntsville`,
-  internalLinks: ["/local-seo-services/","/seo-services-huntsville/","/digital-marketing-agency-huntsville/","/local-seo-services-birmingham/"],
+  internalLinks: ["/local-seo-services/","/seo-services-huntsville/","/digital-marketing-agency-in-huntsville/","/local-seo-services-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {

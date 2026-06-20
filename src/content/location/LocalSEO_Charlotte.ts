@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Concord motorsports services | Motorsports 
 
 Phone +1-888-555-CLICK | charlotte@clickmastersdigitalmarketing.com
 Uptown Charlotte, Concord, Huntersville, Mooresville, and all of Greater Charlotte`,
-  internalLinks: ["/local-seo-services/","/seo-services-charlotte/","/digital-marketing-agency-charlotte/","/local-seo-services-atlanta/"],
+  internalLinks: ["/local-seo-services/","/seo-services-charlotte/","/digital-marketing-agency-in-charlotte/","/local-seo-services-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

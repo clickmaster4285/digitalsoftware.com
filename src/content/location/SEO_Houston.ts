@@ -105,7 +105,7 @@ Q: GEO/AEO for Houston energy sector? A: Shell and ExxonMobil procurement using 
 Get Your Free Houston SEO Audit: Phone +1-888-555-CLICK
 Email: houston@clickmastersdigitalmarketing.com
 Energy Corridor, Medical Center, The Woodlands, and all of Greater Houston`,
-  internalLinks: ["/digital-marketing-agency-houston/","/seo-services/","/seo-services-dallas/","/seo-services-austin/","/industries/oil-gas/","/industries/healthcare/"],
+  internalLinks: ["/digital-marketing-agency-in-houston/","/seo-services/","/seo-services-dallas/","/seo-services-austin/","/industries/oil-gas/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {

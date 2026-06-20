@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Tulsa midstream consulting | Williams commu
 
 Phone +1-888-555-CLICK | tulsa@clickmastersdigitalmarketing.com
 Southern Hills, Utica Square, Blue Dome, Brookside, and all of Greater Tulsa`,
-  internalLinks: ["/local-seo-services/","/seo-services-tulsa/","/digital-marketing-agency-tulsa/","/local-seo-services-oklahoma-city/"],
+  internalLinks: ["/local-seo-services/","/seo-services-tulsa/","/digital-marketing-agency-in-tulsa/","/local-seo-services-oklahoma-city/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | Via Christi: cited | HIPAA: clean | New patients: +3x |
 
 Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
 Andover, Derby, Old Town, Delano, and all of Greater Wichita`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-wichita/","/seo-services-wichita/","/web-design-agency-kansas-city/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-wichita/","/seo-services-wichita/","/web-design-agency-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

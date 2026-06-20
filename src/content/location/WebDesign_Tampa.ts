@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T recognised | TGH affiliation: cited in patient surveys | 
 
 Phone +1-888-555-CLICK | tampa@clickmastersdigitalmarketing.com
 South Tampa, WestShore, St. Pete, Clearwater, and all of Tampa Bay`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-tampa/","/seo-services-tampa/","/web-design-agency-miami/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-tampa/","/seo-services-tampa/","/web-design-agency-miami/"],
   
   publishingChecklist: {
     onPageSeo: {

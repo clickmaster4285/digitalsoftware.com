@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-SanAntonio.xlsx
 // Service: DigitalMarketing
 // City: SanAntonio
-// URL: /digital-marketing-agency-san-antonio/
+// URL: /digital-marketing-agency-in-san-antonio/
 // Generated: 2026-06-20T06:12:59.302Z
 
 export const DigitalMarketing_SanAntonio = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_SanAntonio = {
   serviceSlug: "digital-marketing",
   city: "SanAntonio",
   citySlug: "san-antonio",
-  slug: "/digital-marketing-agency-san-antonio/",
+  slug: "/digital-marketing-agency-in-san-antonio/",
   
   h1: `Digital Marketing Agency San Antonio — Military Community Revenue, Bilingual Growth, and Texas' Most Valuable First-Mover Digital Window`,
   primaryKw: `digital marketing agency san antonio`,
   formula: `BAB — San Antonio businesses at below-commercial-potential digital investment → military community invisible + Spanish-speaking market underserved + Austin/national competitors entering → CLICK Growth System for Texas' most commercially underserved major city`,
   seoTitle: `Digital Marketing Agency San Antonio | Military, Bilingual & Texas Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in San Antonio. Military community revenue programmes, bilingual Spanish/English healthcare, and first-mover digital growth for Texas' most commercially underserved major city. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Antonio Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-san-antonio/","address":{"@type":"PostalAddress","addressLocality":"San Antonio","addressRegion":"TX","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Antonio Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-san-antonio/","address":{"@type":"PostalAddress","addressLocality":"San Antonio","addressRegion":"TX","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > San Antonio, TX`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN SAN ANTONIO?
@@ -114,14 +114,14 @@ Q: How quickly does San Antonio digital marketing produce results? A: SEO page 1
 Get Your Free San Antonio Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: sanantonio@clickmastersdigitalmarketing.com
 Stone Oak, Westside, JBSA community, New Braunfels, and all of Greater San Antonio`,
-  internalLinks: ["/seo-services-san-antonio/","/google-ads-management-san-antonio/","/digital-marketing-agency-usa/","/digital-marketing-agency-austin/","/industries/healthcare/","/local-seo-services-san-antonio/"],
+  internalLinks: ["/seo-services-san-antonio/","/google-ads-management-san-antonio/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-austin/","/industries/healthcare/","/local-seo-services-san-antonio/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-san-antonio/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-san-antonio/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -94,7 +94,7 @@ Results (10 months): SB 262-accurate baseline established | YMYL: E-E-A-T recogn
 
 Phone +1-888-555-CLICK | tampa@clickmastersdigitalmarketing.com
 South Tampa, St. Petersburg, Clearwater, and all of Tampa Bay`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-tampa/","/seo-services-miami/","/seo-services-atlanta/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-tampa/","/seo-services-miami/","/seo-services-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

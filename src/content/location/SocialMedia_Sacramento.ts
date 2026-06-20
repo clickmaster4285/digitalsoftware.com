@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.0% | Midtown community edito
 
 Phone +1-888-555-CLICK | sacramento@clickmastersdigitalmarketing.com
 Midtown, Land Park, Oak Park, Folsom, and all of Greater Sacramento`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-sacramento/","/seo-services-sacramento/","/social-media-marketing-san-diego/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-sacramento/","/seo-services-sacramento/","/social-media-marketing-san-diego/"],
   
   publishingChecklist: {
     onPageSeo: {

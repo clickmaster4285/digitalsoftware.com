@@ -92,7 +92,7 @@ Results: FINRA/SEC: clean | Fifth Third re-engagement: 40% | Western & Southern 
 
 Phone +1-888-555-CLICK | cincinnati@clickmastersdigitalmarketing.com
 Blue Ash, Mason, West Chester, OTR, and all of Greater Cincinnati`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-cincinnati/","/seo-services-cincinnati/","/email-marketing-cleveland/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-cincinnati/","/seo-services-cincinnati/","/email-marketing-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {

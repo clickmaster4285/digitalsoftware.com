@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-DesMoines.xlsx
 // Service: DigitalMarketing
 // City: DesMoines
-// URL: /digital-marketing-agency-des-moines/
+// URL: /digital-marketing-agency-in-des-moines/
 // Generated: 2026-06-20T06:12:58.880Z
 
 export const DigitalMarketing_DesMoines = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_DesMoines = {
   serviceSlug: "digital-marketing",
   city: "DesMoines",
   citySlug: "des-moines",
-  slug: "/digital-marketing-agency-des-moines/",
+  slug: "/digital-marketing-agency-in-des-moines/",
   
   h1: `Digital Marketing Agency Des Moines — Principal Financial Revenue, EMC Insurance B2B, UnityPoint YMYL, and Iowa Insurance Capital Commercial Growth`,
   primaryKw: `digital marketing agency des moines`,
   formula: `BAB — Des Moines Principal Financial FINRA/SEC vendors invisible + EMC/Farm Bureau FINRA unreached + UnityPoint/MercyOne YMYL unreached + Meredith media B2B unaddressed + Iowa CDPA non-compliant → CLICK Growth System for Iowa's insurance and financial services capital`,
   seoTitle: `Digital Marketing Agency Des Moines | Principal Financial Revenue & EMC Insurance | Clickmasters`,
   meta: `Clickmasters digital marketing in Des Moines. Principal Financial FINRA/SEC revenue, EMC Insurance B2B, UnityPoint/MercyOne YMYL, and Iowa CDPA-native analytics. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Des Moines Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-des-moines/","address":{"@type":"PostalAddress","addressLocality":"Des Moines","addressRegion":"IA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Des Moines Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-des-moines/","address":{"@type":"PostalAddress","addressLocality":"Des Moines","addressRegion":"IA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN DES MOINES?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 9 Des Moines health IT queries | UnityPoint: eva
 
 Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
 West Des Moines, Ankeny, Urbandale, East Village, and all of Greater Des Moines`,
-  internalLinks: ["/seo-services-des-moines/","/digital-marketing-agency-usa/","/digital-marketing-agency-omaha/","/digital-marketing-agency-kansas-city/"],
+  internalLinks: ["/seo-services-des-moines/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-omaha/","/digital-marketing-agency-in-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-des-moines/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-des-moines/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

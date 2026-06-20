@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Miami.xlsx
 // Service: DigitalMarketing
 // City: Miami
-// URL: /digital-marketing-agency-miami/
+// URL: /digital-marketing-agency-in-miami/
 // Generated: 2026-06-20T06:12:59.076Z
 
 export const DigitalMarketing_Miami = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Miami = {
   serviceSlug: "digital-marketing",
   city: "Miami",
   citySlug: "miami",
-  slug: "/digital-marketing-agency-miami/",
+  slug: "/digital-marketing-agency-in-miami/",
   
   h1: `Digital Marketing Agency Miami — Bilingual LATAM-Gateway Revenue Growth for America's Most Commercially Bilingual Market`,
   primaryKw: `digital marketing agency miami`,
   formula: `BAB — Miami businesses with English-only digital marketing missing 45% Spanish-preference market + LATAM B2B gateway opportunity untapped + Florida SB 262 creating compliance exposure → CLICK Growth System for America's most commercially bilingual market`,
   seoTitle: `Digital Marketing Agency Miami | Bilingual LATAM-Gateway Revenue Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Miami. Bilingual English/Spanish LATAM-gateway revenue growth for Brickell financial services, South Florida healthcare, and Miami's most commercially distinct market. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Miami Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-miami/","address":{"@type":"PostalAddress","addressLocality":"Miami","addressRegion":"FL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Miami Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-miami/","address":{"@type":"PostalAddress","addressLocality":"Miami","addressRegion":"FL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Miami, FL`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN MIAMI?
@@ -116,14 +116,14 @@ Q: How quickly does Miami bilingual digital marketing produce results? A: Spanis
 Get Your Free Miami Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: miami@clickmastersdigitalmarketing.com
 Brickell, Coral Gables, Doral, Wynwood, and all of South Florida`,
-  internalLinks: ["/seo-services-miami/","/local-seo-services-miami/","/digital-marketing-agency-usa/","/digital-marketing-agency-houston/","/industries/financial-services/","/industries/healthcare/"],
+  internalLinks: ["/seo-services-miami/","/local-seo-services-miami/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-houston/","/industries/financial-services/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-miami/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-miami/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

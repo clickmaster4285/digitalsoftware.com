@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 9 Des Moines health IT queries | UnityPoint: eva
 
 Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
 West Des Moines, Ankeny, Urbandale, East Village, and all of Greater Des Moines`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-des-moines/","/seo-services-omaha/","/seo-services-kansas-city/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-des-moines/","/seo-services-omaha/","/seo-services-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

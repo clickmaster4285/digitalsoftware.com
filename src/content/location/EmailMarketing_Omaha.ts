@@ -96,7 +96,7 @@ Results: May Annual Meeting: 4.2x above average | June College World Series: 3.8
 
 Phone +1-888-555-CLICK | omaha@clickmastersdigitalmarketing.com
 Old Market, Dundee, Aksarben, Bellevue, and all of Greater Omaha`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-omaha/","/seo-services-omaha/","/email-marketing-kansas-city/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-omaha/","/seo-services-omaha/","/email-marketing-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

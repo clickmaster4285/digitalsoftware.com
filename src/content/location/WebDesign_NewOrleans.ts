@@ -92,7 +92,7 @@ Results: Garden District premium positioning: booking rate +40% | Average daily 
 
 Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
 Metairie, Garden District, Uptown, French Quarter, and all of Greater New Orleans`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-new-orleans/","/seo-services-new-orleans/","/web-design-agency-houston/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-new-orleans/","/seo-services-new-orleans/","/web-design-agency-houston/"],
   
   publishingChecklist: {
     onPageSeo: {

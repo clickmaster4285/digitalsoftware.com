@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Wichita.xlsx
 // Service: DigitalMarketing
 // City: Wichita
-// URL: /digital-marketing-agency-wichita/
+// URL: /digital-marketing-agency-in-wichita/
 // Generated: 2026-06-20T06:12:59.434Z
 
 export const DigitalMarketing_Wichita = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Wichita = {
   serviceSlug: "digital-marketing",
   city: "Wichita",
   citySlug: "wichita",
-  slug: "/digital-marketing-agency-wichita/",
+  slug: "/digital-marketing-agency-in-wichita/",
   
   h1: `Digital Marketing Agency Wichita — Spirit AeroSystems Revenue, Textron Aviation Business Aviation, Koch Industries Industrial, and Air Capital Commercial Growth`,
   primaryKw: `digital marketing agency wichita`,
   formula: `BAB — Wichita Spirit AeroSystems ITAR vendors invisible + Textron Aviation/Cessna business aviation unreached + Koch Industries private industrial unaddressed + Via Christi YMYL unreached + Evergy/Westar utility unaddressed → CLICK Growth System for the Air Capital's aerospace, private industrial, and healthcare commercial ecosystem`,
   seoTitle: `Digital Marketing Agency Wichita | Spirit AeroSystems ITAR-Bounded & Textron Aviation | Clickmasters`,
   meta: `Clickmasters digital marketing in Wichita. Spirit AeroSystems ITAR-bounded aerospace revenue, Textron Aviation/Cessna/Beechcraft business aviation, Koch Industries industrial, and Via Christi/Wesley YMYL. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Wichita Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-wichita/","address":{"@type":"PostalAddress","addressLocality":"Wichita","addressRegion":"KS","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Wichita Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-wichita/","address":{"@type":"PostalAddress","addressLocality":"Wichita","addressRegion":"KS","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN WICHITA?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 9 Wichita health IT queries | Via Christi: evalu
 
 Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
 Andover, Derby, Old Town, and all of Greater Wichita`,
-  internalLinks: ["/seo-services-wichita/","/digital-marketing-agency-usa/","/digital-marketing-agency-oklahoma-city/","/digital-marketing-agency-kansas-city/"],
+  internalLinks: ["/seo-services-wichita/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-oklahoma-city/","/digital-marketing-agency-in-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-wichita/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-wichita/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

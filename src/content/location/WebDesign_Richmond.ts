@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | VCU: cited | HIPAA/VCDPA: Virginia AG pre-audit passed 
 
 Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com
 Henrico County, Chesterfield, Midlothian, and all of Greater Richmond`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-richmond/","/seo-services-richmond/","/web-design-agency-washington-dc/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-richmond/","/seo-services-richmond/","/web-design-agency-washington-dc/"],
   
   publishingChecklist: {
     onPageSeo: {

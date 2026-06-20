@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Albuquerque.xlsx
 // Service: DigitalMarketing
 // City: Albuquerque
-// URL: /digital-marketing-agency-albuquerque/
+// URL: /digital-marketing-agency-in-albuquerque/
 // Generated: 2026-06-20T06:12:58.666Z
 
 export const DigitalMarketing_Albuquerque = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Albuquerque = {
   serviceSlug: "digital-marketing",
   city: "Albuquerque",
   citySlug: "albuquerque",
-  slug: "/digital-marketing-agency-albuquerque/",
+  slug: "/digital-marketing-agency-in-albuquerque/",
   
   h1: `Digital Marketing Agency Albuquerque — Sandia Labs ITAR Revenue, Intel Rio Rancho Enterprise, Kirtland Military, and Duke City Commercial Growth`,
   primaryKw: `digital marketing agency albuquerque`,
   formula: `BAB — Albuquerque Sandia/Los Alamos ITAR vendors invisible + Intel Rio Rancho semiconductor unaddressed + Kirtland AFB military unreached + UNM Health YMYL unaddressed + Presbyterian managed care unaddressed → CLICK Growth System for New Mexico's national security, semiconductor, and healthcare capital`,
   seoTitle: `Digital Marketing Agency Albuquerque | Sandia Labs ITAR & Intel Rio Rancho Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Albuquerque. Sandia National Labs ITAR-bounded B2B revenue, Intel Rio Rancho semiconductor enterprise, Kirtland AFB military community, and UNM Health/Presbyterian YMYL. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Albuquerque Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-albuquerque/","address":{"@type":"PostalAddress","addressLocality":"Albuquerque","addressRegion":"NM","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Albuquerque Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-albuquerque/","address":{"@type":"PostalAddress","addressLocality":"Albuquerque","addressRegion":"NM","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN ALBUQUERQUE?
@@ -109,14 +109,14 @@ Results (11 months): Military organic leads: +3x | New military AUM: \$12M | FIN
 
 Phone +1-888-555-CLICK | albuquerque@clickmastersdigitalmarketing.com
 Rio Rancho, Corrales, Nob Hill, Northeast Heights, and all of Greater Albuquerque`,
-  internalLinks: ["/seo-services-albuquerque/","/digital-marketing-agency-usa/","/digital-marketing-agency-denver/","/digital-marketing-agency-salt-lake-city/"],
+  internalLinks: ["/seo-services-albuquerque/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-denver/","/digital-marketing-agency-in-salt-lake-city/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-albuquerque/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-albuquerque/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

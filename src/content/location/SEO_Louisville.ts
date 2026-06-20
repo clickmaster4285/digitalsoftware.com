@@ -98,7 +98,7 @@ Results (10 months): Page 1 for 9 Louisville healthcare queries | YMYL: E-E-A-T 
 
 Phone +1-888-555-CLICK | louisville@clickmastersdigitalmarketing.com
 St. Matthews, Jeffersontown, Shelbyville, and all of Greater Louisville`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-louisville/","/seo-services-nashville/","/seo-services-cincinnati/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-louisville/","/seo-services-nashville/","/seo-services-cincinnati/"],
   
   publishingChecklist: {
     onPageSeo: {

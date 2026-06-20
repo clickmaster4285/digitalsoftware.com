@@ -111,7 +111,7 @@ Q: How long does LA web design take? A: DTC: 8-14 weeks. Entertainment B2B (clea
 Get Your Free LA Website Audit: Phone +1-888-555-CLICK
 Email: losangeles@clickmastersdigitalmarketing.com
 Culver City, Santa Monica, Hollywood, Silver Lake, and all of Greater Los Angeles`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-los-angeles/","/seo-services-los-angeles/","/web-design-agency-san-francisco/","/industries/entertainment/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-los-angeles/","/seo-services-los-angeles/","/web-design-agency-san-francisco/","/industries/entertainment/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {

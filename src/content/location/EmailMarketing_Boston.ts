@@ -108,7 +108,7 @@ Q: How long does Boston pharma email produce CRO pipeline results? A: First Pfiz
 Get Your Free Boston Email Marketing Audit: Phone +1-888-555-CLICK
 Email: boston@clickmastersdigitalmarketing.com
 Back Bay, Kendall Square, Longwood, Cambridge, and all of Greater Boston`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-boston/","/seo-services-boston/","/email-marketing-new-york/","/integrations/hubspot-marketing/","/industries/healthcare-tech/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-boston/","/seo-services-boston/","/email-marketing-new-york/","/integrations/hubspot-marketing/","/industries/healthcare-tech/"],
   
   publishingChecklist: {
     onPageSeo: {

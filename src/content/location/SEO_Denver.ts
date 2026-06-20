@@ -105,7 +105,7 @@ Q: GEO/AEO for Denver? A: Ball Aerospace and utility procurement using ChatGPT/P
 Get Your Free Denver SEO Audit: Phone +1-888-555-CLICK
 Email: denver@clickmastersdigitalmarketing.com
 Englewood, Cherry Creek, Boulder, Colorado Springs, and all of Colorado`,
-  internalLinks: ["/digital-marketing-agency-denver/","/seo-services/","/seo-services-dallas/","/seo-services-seattle/","/industries/manufacturing/","/industries/clean-energy/"],
+  internalLinks: ["/digital-marketing-agency-in-denver/","/seo-services/","/seo-services-dallas/","/seo-services-seattle/","/industries/manufacturing/","/industries/clean-energy/"],
   
   publishingChecklist: {
     onPageSeo: {

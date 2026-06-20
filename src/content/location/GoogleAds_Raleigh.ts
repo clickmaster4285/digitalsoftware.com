@@ -94,7 +94,7 @@ Results: In-migration CPL: \$160 vs \$3,200 generic Triangle | In-migration qual
 
 Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
 Durham, Chapel Hill, Cary, and all of the Research Triangle`,
-  internalLinks: ["/digital-marketing-agency-raleigh/","/seo-services-raleigh/","/google-ads-management-services/","/google-ads-management-charlotte/"],
+  internalLinks: ["/digital-marketing-agency-in-raleigh/","/seo-services-raleigh/","/google-ads-management-services/","/google-ads-management-charlotte/"],
   
   publishingChecklist: {
     onPageSeo: {

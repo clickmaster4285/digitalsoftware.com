@@ -92,7 +92,7 @@ Results: YMYL E-E-A-T: recognised | Atrium display: cited in patient surveys | H
 
 Phone +1-888-555-CLICK | charlotte@clickmastersdigitalmarketing.com
 Uptown Charlotte, Concord, Huntersville, and all of Greater Charlotte`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-charlotte/","/seo-services-charlotte/","/web-design-agency-atlanta/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-charlotte/","/seo-services-charlotte/","/web-design-agency-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -105,7 +105,7 @@ Q: How long does SF SEO take? A: Engineering-community rankings 5-8 months. GEO/
 Get Your Free SF SEO Audit: Phone +1-888-555-CLICK
 Email: sanfrancisco@clickmastersdigitalmarketing.com
 SOMA, Mission Bay, FiDi, Oakland, Palo Alto, and all of the Bay Area`,
-  internalLinks: ["/digital-marketing-agency-san-francisco/","/seo-services/","/seo-services-seattle/","/seo-services-los-angeles/","/industries/ai-machine-learning/","/industries/fintech/"],
+  internalLinks: ["/digital-marketing-agency-in-san-francisco/","/seo-services/","/seo-services-seattle/","/seo-services-los-angeles/","/industries/ai-machine-learning/","/industries/fintech/"],
   
   publishingChecklist: {
     onPageSeo: {

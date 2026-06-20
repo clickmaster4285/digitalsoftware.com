@@ -111,7 +111,7 @@ Q: What is Pacific NW authentic design? A: B Corp with audit numbers, sustainabi
 Get Your Free Seattle Website Audit: Phone +1-888-555-CLICK
 Email: seattle@clickmastersdigitalmarketing.com
 South Lake Union, Bellevue, Redmond, Capitol Hill, and all of Greater Seattle`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-seattle/","/seo-services-seattle/","/web-design-agency-portland/","/industries/technology/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-seattle/","/seo-services-seattle/","/web-design-agency-portland/","/industries/technology/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {

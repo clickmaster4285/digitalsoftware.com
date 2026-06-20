@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 9 queries | UT Medical: cited | YMYL: E-E-A-T | 
 
 Phone +1-888-555-CLICK | knoxville@clickmastersdigitalmarketing.com
 Market Square, Farragut, Oak Ridge, and all of Greater Knoxville`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-knoxville/","/seo-services-knoxville/","/content-marketing-nashville/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-knoxville/","/seo-services-knoxville/","/content-marketing-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

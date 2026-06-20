@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.0% | Ohio City community edi
 
 Phone +1-888-555-CLICK | cleveland@clickmastersdigitalmarketing.com
 Tremont, Ohio City, Mayfield Heights, Beachwood, and all of Greater Cleveland`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-cleveland/","/seo-services-cleveland/","/social-media-marketing-pittsburgh/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-cleveland/","/seo-services-cleveland/","/social-media-marketing-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {

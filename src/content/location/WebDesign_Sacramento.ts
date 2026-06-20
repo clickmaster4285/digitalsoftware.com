@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | UC Davis NCI: cited | HIPAA/CCPA: California AG pre-aud
 
 Phone +1-888-555-CLICK | sacramento@clickmastersdigitalmarketing.com
 Folsom, Roseville, Elk Grove, Midtown, and all of Greater Sacramento`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-sacramento/","/seo-services-sacramento/","/web-design-agency-san-diego/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-sacramento/","/seo-services-sacramento/","/web-design-agency-san-diego/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -105,7 +105,7 @@ Q: Delaware Valley vs NYC Google Ads efficiency? A: 20-25% below NYC CPCs. 'Card
 Get Your Free Philadelphia Google Ads Audit: Phone +1-888-555-CLICK
 Email: philadelphia@clickmastersdigitalmarketing.com
 Center City, Main Line, King of Prussia, and all of the Delaware Valley`,
-  internalLinks: ["/digital-marketing-agency-philadelphia/","/seo-services-philadelphia/","/google-ads-management-services/","/google-ads-management-boston/","/industries/healthcare/","/industries/legal/"],
+  internalLinks: ["/digital-marketing-agency-in-philadelphia/","/seo-services-philadelphia/","/google-ads-management-services/","/google-ads-management-boston/","/industries/healthcare/","/industries/legal/"],
   
   publishingChecklist: {
     onPageSeo: {

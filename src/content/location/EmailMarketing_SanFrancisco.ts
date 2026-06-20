@@ -116,7 +116,7 @@ Q: How does CCPA inflate SF email metrics? A: Above-average opt-out rates cause 
 Get Your Free SF Email Marketing Audit: Phone +1-888-555-CLICK
 Email: sanfrancisco@clickmastersdigitalmarketing.com
 SOMA, Mission Bay, FiDi, Oakland, Palo Alto, and all of the Bay Area`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-san-francisco/","/seo-services-san-francisco/","/email-marketing-los-angeles/","/integrations/klaviyo-email-marketing/","/industries/ai-machine-learning/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-san-francisco/","/seo-services-san-francisco/","/email-marketing-los-angeles/","/integrations/klaviyo-email-marketing/","/industries/ai-machine-learning/"],
   
   publishingChecklist: {
     onPageSeo: {

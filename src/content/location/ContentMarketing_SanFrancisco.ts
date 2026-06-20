@@ -108,7 +108,7 @@ Q: How long does SF AI/ML technical content produce results? A: Engineering voca
 Get Your Free SF Content Marketing Audit: Phone +1-888-555-CLICK
 Email: sanfrancisco@clickmastersdigitalmarketing.com
 SoMa, Financial District, Mission Bay, Palo Alto, and all of the Bay Area`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-san-francisco/","/seo-services-san-francisco/","/content-marketing-seattle/","/industries/ai-ml/","/industries/technology/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-san-francisco/","/seo-services-san-francisco/","/content-marketing-seattle/","/industries/ai-ml/","/industries/technology/"],
   
   publishingChecklist: {
     onPageSeo: {

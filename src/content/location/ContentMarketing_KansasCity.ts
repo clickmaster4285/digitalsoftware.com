@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 9 KC paediatric health IT queries | YMYL: E-E-A-
 
 Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
 Crossroads KC, Overland Park, Leawood, North KC, and all of Greater Kansas City`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-kansas-city/","/seo-services-kansas-city/","/content-marketing-st-louis/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-kansas-city/","/seo-services-kansas-city/","/content-marketing-st-louis/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -105,7 +105,7 @@ Q: Portland vs Seattle Google Ads CPCs? A: 15-20% below Seattle. Nike/Intel voca
 Get Your Free Portland Google Ads Audit: Phone +1-888-555-CLICK
 Email: portland@clickmastersdigitalmarketing.com
 Pearl District, Beaverton, Hillsboro, Lake Oswego, and all of Greater Portland`,
-  internalLinks: ["/digital-marketing-agency-portland/","/seo-services-portland/","/google-ads-management-services/","/google-ads-management-seattle/","/industries/outdoor-apparel/","/industries/manufacturing/"],
+  internalLinks: ["/digital-marketing-agency-in-portland/","/seo-services-portland/","/google-ads-management-services/","/google-ads-management-seattle/","/industries/outdoor-apparel/","/industries/manufacturing/"],
   
   publishingChecklist: {
     onPageSeo: {

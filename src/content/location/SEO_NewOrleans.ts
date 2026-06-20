@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 9 New Orleans logistics queries | Port authority
 
 Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
 Metairie, Garden District, Uptown, and all of Greater New Orleans`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-new-orleans/","/seo-services-houston/","/seo-services-atlanta/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-new-orleans/","/seo-services-houston/","/seo-services-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -92,7 +92,7 @@ Results (10 months): CCPA-accurate content baseline: first established | Page 1 
 
 Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
 Kearny Mesa, Torrey Pines, La Jolla, and all of San Diego County`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-san-diego/","/seo-services-san-diego/","/content-marketing-los-angeles/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-san-diego/","/seo-services-san-diego/","/content-marketing-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {

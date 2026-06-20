@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 10 Triangle health IT queries | YMYL: E-E-A-T re
 
 Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
 Durham, Chapel Hill, Cary, and all of the Research Triangle`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-raleigh/","/seo-services-raleigh/","/content-marketing-charlotte/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-raleigh/","/seo-services-raleigh/","/content-marketing-charlotte/"],
   
   publishingChecklist: {
     onPageSeo: {

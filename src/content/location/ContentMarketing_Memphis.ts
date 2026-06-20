@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 9 Memphis retail analytics queries | AutoZone VP
 
 Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
 Germantown, Collierville, Bartlett, Cooper-Young, and all of Greater Memphis`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-memphis/","/seo-services-memphis/","/content-marketing-nashville/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-memphis/","/seo-services-memphis/","/content-marketing-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Charlotte.xlsx
 // Service: DigitalMarketing
 // City: Charlotte
-// URL: /digital-marketing-agency-charlotte/
+// URL: /digital-marketing-agency-in-charlotte/
 // Generated: 2026-06-20T06:12:58.746Z
 
 export const DigitalMarketing_Charlotte = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Charlotte = {
   serviceSlug: "digital-marketing",
   city: "Charlotte",
   citySlug: "charlotte",
-  slug: "/digital-marketing-agency-charlotte/",
+  slug: "/digital-marketing-agency-in-charlotte/",
   
   h1: `Digital Marketing Agency Charlotte — Banking Capital Revenue, NASCAR Motorsports B2B, and Southeast Financial Capital Growth`,
   primaryKw: `digital marketing agency charlotte`,
   formula: `BAB — Charlotte banking capital companies serving BofA/Truist through relationships only + NASCAR motorsports vendors with no digital visibility + Atrium/Novant health tech vendors invisible → CLICK Growth System for the Southeast's banking and motorsports capital`,
   seoTitle: `Digital Marketing Agency Charlotte | Banking Capital & NASCAR Motorsports | Clickmasters`,
   meta: `Clickmasters digital marketing in Charlotte. Bank of America/Truist banking capital revenue, NASCAR motorsports B2B, and Atrium/Novant healthcare for the Queen City. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Charlotte Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-charlotte/","address":{"@type":"PostalAddress","addressLocality":"Charlotte","addressRegion":"NC","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Charlotte Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-charlotte/","address":{"@type":"PostalAddress","addressLocality":"Charlotte","addressRegion":"NC","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN CHARLOTTE?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 11 Charlotte health IT queries | Atrium Health e
 
 Phone +1-888-555-CLICK | charlotte@clickmastersdigitalmarketing.com
 Uptown Charlotte, Concord, Huntersville, Mooresville, and all of Greater Charlotte`,
-  internalLinks: ["/seo-services-charlotte/","/digital-marketing-agency-usa/","/digital-marketing-agency-atlanta/","/digital-marketing-agency-dallas/"],
+  internalLinks: ["/seo-services-charlotte/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-atlanta/","/digital-marketing-agency-in-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-charlotte/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-charlotte/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

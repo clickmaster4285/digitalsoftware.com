@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.4% | Fells Point community e
 
 Phone +1-888-555-CLICK | baltimore@clickmastersdigitalmarketing.com
 Fells Point, Hampden, Roland Park, Towson, and all of Greater Baltimore`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-baltimore/","/seo-services-baltimore/","/social-media-marketing-pittsburgh/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-baltimore/","/seo-services-baltimore/","/social-media-marketing-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {

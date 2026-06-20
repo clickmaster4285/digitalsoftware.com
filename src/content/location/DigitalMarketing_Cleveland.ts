@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Cleveland.xlsx
 // Service: DigitalMarketing
 // City: Cleveland
-// URL: /digital-marketing-agency-cleveland/
+// URL: /digital-marketing-agency-in-cleveland/
 // Generated: 2026-06-20T06:12:58.827Z
 
 export const DigitalMarketing_Cleveland = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Cleveland = {
   serviceSlug: "digital-marketing",
   city: "Cleveland",
   citySlug: "cleveland",
-  slug: "/digital-marketing-agency-cleveland/",
+  slug: "/digital-marketing-agency-in-cleveland/",
   
   h1: `Digital Marketing Agency Cleveland — Cleveland Clinic YMYL Revenue, Parker Hannifin Manufacturing B2B, and Northeast Ohio Commercial Growth`,
   primaryKw: `digital marketing agency cleveland`,
   formula: `BAB — Cleveland Clinic health IT vendors invisible + Parker Hannifin/Lincoln Electric manufacturing vendors unaddressed + Progressive/KeyBank fintech unreached + Sherwin-Williams/Eaton Fortune 500 unaddressed → CLICK Growth System for the Forest City's healthcare and manufacturing capital`,
   seoTitle: `Digital Marketing Agency Cleveland | Cleveland Clinic & Parker Hannifin Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Cleveland. Cleveland Clinic YMYL health technology, Parker Hannifin manufacturing B2B, Progressive Insurance FINRA, and Northeast Ohio commercial growth. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Cleveland Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-cleveland/","address":{"@type":"PostalAddress","addressLocality":"Cleveland","addressRegion":"OH","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Cleveland Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-cleveland/","address":{"@type":"PostalAddress","addressLocality":"Cleveland","addressRegion":"OH","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3900,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN CLEVELAND?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 9 Cleveland insurance/fintech queries | Progress
 
 Phone +1-888-555-CLICK | cleveland@clickmastersdigitalmarketing.com
 Mayfield Heights, Beachwood, Westlake, and all of Greater Cleveland`,
-  internalLinks: ["/seo-services-cleveland/","/digital-marketing-agency-usa/","/digital-marketing-agency-cincinnati/","/digital-marketing-agency-pittsburgh/"],
+  internalLinks: ["/seo-services-cleveland/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-cincinnati/","/digital-marketing-agency-in-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-cleveland/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-cleveland/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

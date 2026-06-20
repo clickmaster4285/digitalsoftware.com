@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 11 Carmel financial planning queries | Lilly pro
 
 Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
 Carmel, Fishers, Zionsville, and all of Greater Indianapolis`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-indianapolis/","/seo-services-chicago/","/seo-services-nashville/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-indianapolis/","/seo-services-chicago/","/seo-services-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

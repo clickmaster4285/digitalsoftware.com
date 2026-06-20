@@ -105,7 +105,7 @@ Q: How long does Minneapolis Local SEO take? A: Medical Alley healthcare: 3-5 mo
 Get Your Free Minneapolis Local SEO Audit: Phone +1-888-555-CLICK
 Email: minneapolis@clickmastersdigitalmarketing.com
 Plymouth, Edina, Minnetonka, St. Paul, and all of the Twin Cities metro`,
-  internalLinks: ["/local-seo-services/","/seo-services-minneapolis/","/digital-marketing-agency-minneapolis/","/local-seo-services-chicago/","/tools/local-seo-audit/","/industries/healthcare/"],
+  internalLinks: ["/local-seo-services/","/seo-services-minneapolis/","/digital-marketing-agency-in-minneapolis/","/local-seo-services-chicago/","/tools/local-seo-audit/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {

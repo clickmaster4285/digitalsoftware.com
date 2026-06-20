@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 10 Richmond health IT queries | VCU Health: eval
 
 Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com
 Henrico County, Chesterfield, Midlothian, and all of Greater Richmond`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-richmond/","/seo-services-washington-dc/","/seo-services-charlotte/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-in-richmond/","/seo-services-washington-dc/","/seo-services-charlotte/"],
   
   publishingChecklist: {
     onPageSeo: {

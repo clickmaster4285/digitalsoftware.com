@@ -92,7 +92,7 @@ Results: UCSD display: cited in 68% of new patient surveys | HIPAA/CCPA: Califor
 
 Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
 Kearny Mesa, Torrey Pines, La Jolla, Point Loma, and all of San Diego County`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-san-diego/","/seo-services-san-diego/","/web-design-agency-los-angeles/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-san-diego/","/seo-services-san-diego/","/web-design-agency-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {

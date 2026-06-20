@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Des Moines insurance consulting | Principal
 
 Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
 Beaverdale, West Des Moines, Clive, East Village, and all of Greater Des Moines`,
-  internalLinks: ["/local-seo-services/","/seo-services-des-moines/","/digital-marketing-agency-des-moines/","/local-seo-services-omaha/"],
+  internalLinks: ["/local-seo-services/","/seo-services-des-moines/","/digital-marketing-agency-in-des-moines/","/local-seo-services-omaha/"],
   
   publishingChecklist: {
     onPageSeo: {

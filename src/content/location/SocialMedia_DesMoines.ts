@@ -92,7 +92,7 @@ Results (5 months): Iowa State Fair August: 4.2x above average | Drake Relays: 3
 
 Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
 East Village, Court Avenue, Ingersoll, West Des Moines, and all of Greater Des Moines`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-des-moines/","/seo-services-des-moines/","/social-media-marketing-omaha/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-des-moines/","/seo-services-des-moines/","/social-media-marketing-omaha/"],
   
   publishingChecklist: {
     onPageSeo: {

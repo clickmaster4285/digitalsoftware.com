@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Minneapolis.xlsx
 // Service: DigitalMarketing
 // City: Minneapolis
-// URL: /digital-marketing-agency-minneapolis/
+// URL: /digital-marketing-agency-in-minneapolis/
 // Generated: 2026-06-20T06:12:59.087Z
 
 export const DigitalMarketing_Minneapolis = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Minneapolis = {
   serviceSlug: "digital-marketing",
   city: "Minneapolis",
   citySlug: "minneapolis",
-  slug: "/digital-marketing-agency-minneapolis/",
+  slug: "/digital-marketing-agency-in-minneapolis/",
   
   h1: `Digital Marketing Agency Minneapolis — Medical Alley Revenue Growth, Fortune 500 MN Vendor, and Twin Cities Commercial Programme`,
   primaryKw: `digital marketing agency minneapolis`,
   formula: `BAB — Minneapolis Medical Alley KLAS ecosystem + Fortune 500 MN Target/UnitedHealth/3M vendor companies + Scandinavian evidence-over-promotion commercial culture → CLICK Growth System for the Twin Cities three-sector commercial opportunity`,
   seoTitle: `Digital Marketing Agency Minneapolis | Medical Alley & Fortune 500 MN Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Minneapolis. Medical Alley KLAS-calibrated health IT revenue, Fortune 500 Minnesota vendor programmes, and Scandinavian-evidence-standard Twin Cities growth. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Minneapolis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-minneapolis/","address":{"@type":"PostalAddress","addressLocality":"Minneapolis","addressRegion":"MN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Minneapolis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-minneapolis/","address":{"@type":"PostalAddress","addressLocality":"Minneapolis","addressRegion":"MN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN MINNEAPOLIS?
@@ -107,14 +107,14 @@ Results (10 months): FINRA findings: 0 all channels | Scandinavian-calibrated co
 
 Phone +1-888-555-CLICK | minneapolis@clickmastersdigitalmarketing.com
 Eden Prairie, Plymouth, Edina, St. Paul, and all of Twin Cities metro`,
-  internalLinks: ["/seo-services-minneapolis/","/web-design-agency-minneapolis/","/digital-marketing-agency-usa/","/digital-marketing-agency-chicago/"],
+  internalLinks: ["/seo-services-minneapolis/","/web-design-agency-minneapolis/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-minneapolis/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-minneapolis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

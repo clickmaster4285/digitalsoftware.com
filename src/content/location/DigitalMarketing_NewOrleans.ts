@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-NewOrleans.xlsx
 // Service: DigitalMarketing
 // City: NewOrleans
-// URL: /digital-marketing-agency-new-orleans/
+// URL: /digital-marketing-agency-in-new-orleans/
 // Generated: 2026-06-20T06:12:59.115Z
 
 export const DigitalMarketing_NewOrleans = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_NewOrleans = {
   serviceSlug: "digital-marketing",
   city: "NewOrleans",
   citySlug: "new-orleans",
-  slug: "/digital-marketing-agency-new-orleans/",
+  slug: "/digital-marketing-agency-in-new-orleans/",
   
   h1: `Digital Marketing Agency New Orleans — Ochsner Health Revenue, Entergy Energy B2B, Port Maritime Logistics, and Crescent City Commercial Growth`,
   primaryKw: `digital marketing agency new orleans`,
   formula: `BAB — New Orleans Ochsner/Tulane health IT vendors invisible + Entergy/Shell energy tech unaddressed + Port maritime logistics unaddressed + convention hospitality tech unaddressed → CLICK Growth System for the Crescent City's healthcare, energy, and maritime capital`,
   seoTitle: `Digital Marketing Agency New Orleans | Ochsner Health Revenue & Entergy Energy | Clickmasters`,
   meta: `Clickmasters digital marketing in New Orleans. Ochsner Health/Tulane YMYL revenue, Entergy Corporation energy B2B, Port of New Orleans maritime logistics, and Crescent City hospitality technology. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New Orleans Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-new-orleans/","address":{"@type":"PostalAddress","addressLocality":"New Orleans","addressRegion":"LA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New Orleans Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-new-orleans/","address":{"@type":"PostalAddress","addressLocality":"New Orleans","addressRegion":"LA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN NEW ORLEANS?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 9 New Orleans logistics queries | Port evaluatio
 
 Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
 Metairie, Garden District, Uptown, and all of Greater New Orleans`,
-  internalLinks: ["/seo-services-new-orleans/","/digital-marketing-agency-usa/","/digital-marketing-agency-houston/","/digital-marketing-agency-atlanta/"],
+  internalLinks: ["/seo-services-new-orleans/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-houston/","/digital-marketing-agency-in-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-new-orleans/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-new-orleans/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

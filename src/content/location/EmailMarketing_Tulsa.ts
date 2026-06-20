@@ -92,7 +92,7 @@ Results: GPA spring window: 3.8x above average | State Fair September: 4.0x | Ga
 
 Phone +1-888-555-CLICK | tulsa@clickmastersdigitalmarketing.com
 Blue Dome, Brookside, Broken Arrow, and all of Greater Tulsa`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-tulsa/","/seo-services-tulsa/","/email-marketing-oklahoma-city/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-tulsa/","/seo-services-tulsa/","/email-marketing-oklahoma-city/"],
   
   publishingChecklist: {
     onPageSeo: {

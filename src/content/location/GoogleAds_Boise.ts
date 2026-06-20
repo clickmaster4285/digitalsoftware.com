@@ -94,7 +94,7 @@ Results: HIPAA: clean | St. Luke's CPL: \$110 vs \$290 generic | New patients: +
 
 Phone +1-888-555-CLICK | boise@clickmastersdigitalmarketing.com
 Meridian, Eagle, Nampa, and all of Greater Boise`,
-  internalLinks: ["/digital-marketing-agency-boise/","/seo-services-boise/","/google-ads-management-services/","/google-ads-management-salt-lake-city/"],
+  internalLinks: ["/digital-marketing-agency-in-boise/","/seo-services-boise/","/google-ads-management-services/","/google-ads-management-salt-lake-city/"],
   
   publishingChecklist: {
     onPageSeo: {

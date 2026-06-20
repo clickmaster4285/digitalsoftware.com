@@ -96,7 +96,7 @@ Results (6 months): Instagram engagement: 1.6% to 5.2% | Durham food media featu
 
 Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
 Durham, Chapel Hill, Cary, and all of the Research Triangle`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-raleigh/","/seo-services-raleigh/","/social-media-marketing-charlotte/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-raleigh/","/seo-services-raleigh/","/social-media-marketing-charlotte/"],
   
   publishingChecklist: {
     onPageSeo: {

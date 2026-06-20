@@ -105,7 +105,7 @@ Q: How long does Dallas Local SEO take? A: Fortune 500 professional: 3-5 months.
 Get Your Free Dallas Local SEO Audit: Phone +1-888-555-CLICK
 Email: dallas@clickmastersdigitalmarketing.com
 Uptown, Plano, Frisco, Richardson, and all of DFW`,
-  internalLinks: ["/local-seo-services/","/seo-services-dallas/","/digital-marketing-agency-dallas/","/local-seo-services-houston/","/tools/local-seo-audit/","/industries/financial-services/"],
+  internalLinks: ["/local-seo-services/","/seo-services-dallas/","/digital-marketing-agency-in-dallas/","/local-seo-services-houston/","/tools/local-seo-audit/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

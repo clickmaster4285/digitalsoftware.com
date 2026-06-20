@@ -92,7 +92,7 @@ Results (5 months): Treefort season: 4.0x above average | Idaho State Fair: 3.8x
 
 Phone +1-888-555-CLICK | boise@clickmastersdigitalmarketing.com
 Hyde Park, North End, BoDo, Meridian, and all of Greater Boise`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-boise/","/seo-services-boise/","/social-media-marketing-salt-lake-city/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-boise/","/seo-services-boise/","/social-media-marketing-salt-lake-city/"],
   
   publishingChecklist: {
     onPageSeo: {

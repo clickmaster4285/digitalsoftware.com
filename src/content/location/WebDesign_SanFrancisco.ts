@@ -114,7 +114,7 @@ Q: What makes SF web design different from Seattle/Austin? A: AI/ML technical cr
 Get Your Free SF Website Audit: Phone +1-888-555-CLICK
 Email: sanfrancisco@clickmastersdigitalmarketing.com
 SOMA, Mission Bay, FiDi, Oakland, Palo Alto, and all of the Bay Area`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-san-francisco/","/seo-services-san-francisco/","/web-design-agency-los-angeles/","/industries/ai-machine-learning/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-san-francisco/","/seo-services-san-francisco/","/web-design-agency-los-angeles/","/industries/ai-machine-learning/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {

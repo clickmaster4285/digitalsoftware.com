@@ -111,7 +111,7 @@ Q: How long does Miami web design take? A: Bilingual: 8-14 weeks. Brickell finan
 Get Your Free Miami Website Audit: Phone +1-888-555-CLICK
 Email: miami@clickmastersdigitalmarketing.com
 Brickell, Coral Gables, Wynwood, Doral, and all of South Florida`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-miami/","/seo-services-miami/","/web-design-agency-houston/","/industries/financial-services/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-miami/","/seo-services-miami/","/web-design-agency-houston/","/industries/financial-services/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {

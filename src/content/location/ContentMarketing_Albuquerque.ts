@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 9 Albuquerque oncology queries | YMYL: E-E-A-T |
 
 Phone +1-888-555-CLICK | albuquerque@clickmastersdigitalmarketing.com
 Nob Hill, Rio Rancho, Corrales, Northeast Heights, and all of Greater Albuquerque`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-albuquerque/","/seo-services-albuquerque/","/content-marketing-denver/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-albuquerque/","/seo-services-albuquerque/","/content-marketing-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

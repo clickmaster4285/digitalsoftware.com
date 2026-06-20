@@ -105,7 +105,7 @@ Q: GEO/AEO for Portland? A: Nike VP and Intel procurement using ChatGPT/Perplexi
 Get Your Free Portland SEO Audit: Phone +1-888-555-CLICK
 Email: portland@clickmastersdigitalmarketing.com
 Pearl District, Beaverton, Hillsboro, Lake Oswego, and all of Greater Portland`,
-  internalLinks: ["/digital-marketing-agency-portland/","/seo-services/","/seo-services-seattle/","/seo-services-denver/","/industries/outdoor-apparel/","/industries/manufacturing/"],
+  internalLinks: ["/digital-marketing-agency-in-portland/","/seo-services/","/seo-services-seattle/","/seo-services-denver/","/industries/outdoor-apparel/","/industries/manufacturing/"],
   
   publishingChecklist: {
     onPageSeo: {

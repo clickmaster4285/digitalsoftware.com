@@ -94,7 +94,7 @@ Results: Nevada formation CPL: \$140 | CA in-migration estate planning leads: +3
 
 Phone +1-888-555-CLICK | lasvegas@clickmastersdigitalmarketing.com
 Henderson, Summerlin, North Las Vegas, and all of Greater Las Vegas`,
-  internalLinks: ["/digital-marketing-agency-las-vegas/","/seo-services-las-vegas/","/google-ads-management-services/","/google-ads-management-phoenix/"],
+  internalLinks: ["/digital-marketing-agency-in-las-vegas/","/seo-services-las-vegas/","/google-ads-management-services/","/google-ads-management-phoenix/"],
   
   publishingChecklist: {
     onPageSeo: {

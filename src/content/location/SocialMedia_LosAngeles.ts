@@ -105,7 +105,7 @@ Q: How does Clickmasters measure LA social media outcomes? A: Entertainment Link
 Get Your Free LA Social Media Audit: Phone +1-888-555-CLICK
 Email: losangeles@clickmastersdigitalmarketing.com
 Hollywood, Silver Lake, Santa Monica, Culver City, and all of Greater Los Angeles`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-los-angeles/","/seo-services-los-angeles/","/social-media-marketing-san-francisco/","/industries/entertainment/","/industries/technology/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-los-angeles/","/seo-services-los-angeles/","/social-media-marketing-san-francisco/","/industries/entertainment/","/industries/technology/"],
   
   publishingChecklist: {
     onPageSeo: {

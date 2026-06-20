@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Louisville health insurance consulting | Hu
 
 Phone +1-888-555-CLICK | louisville@clickmastersdigitalmarketing.com
 St. Matthews, Anchorage, Prospect, Highlands, and all of Greater Louisville`,
-  internalLinks: ["/local-seo-services/","/seo-services-louisville/","/digital-marketing-agency-louisville/","/local-seo-services-nashville/"],
+  internalLinks: ["/local-seo-services/","/seo-services-louisville/","/digital-marketing-agency-in-louisville/","/local-seo-services-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

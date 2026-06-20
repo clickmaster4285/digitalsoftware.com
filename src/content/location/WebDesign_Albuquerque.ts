@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | UNM NCI: cited | HIPAA: clean | New patients: +3x | LCP
 
 Phone +1-888-555-CLICK | albuquerque@clickmastersdigitalmarketing.com
 Rio Rancho, Corrales, Nob Hill, Northeast Heights, and all of Greater Albuquerque`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-albuquerque/","/seo-services-albuquerque/","/web-design-agency-denver/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-albuquerque/","/seo-services-albuquerque/","/web-design-agency-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

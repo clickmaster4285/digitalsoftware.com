@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.2% | OTR community editorial
 
 Phone +1-888-555-CLICK | cincinnati@clickmastersdigitalmarketing.com
 OTR, Hyde Park, Blue Ash, West Chester, and all of Greater Cincinnati`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-cincinnati/","/seo-services-cincinnati/","/social-media-marketing-cleveland/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-cincinnati/","/seo-services-cincinnati/","/social-media-marketing-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {

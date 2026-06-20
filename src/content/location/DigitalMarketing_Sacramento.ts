@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Sacramento.xlsx
 // Service: DigitalMarketing
 // City: Sacramento
-// URL: /digital-marketing-agency-sacramento/
+// URL: /digital-marketing-agency-in-sacramento/
 // Generated: 2026-06-20T06:12:59.251Z
 
 export const DigitalMarketing_Sacramento = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Sacramento = {
   serviceSlug: "digital-marketing",
   city: "Sacramento",
   citySlug: "sacramento",
-  slug: "/digital-marketing-agency-sacramento/",
+  slug: "/digital-marketing-agency-in-sacramento/",
   
   h1: `Digital Marketing Agency Sacramento — California State Government Revenue, CalPERS/CalSTRS FINRA, and Capital City Commercial Growth`,
   primaryKw: `digital marketing agency sacramento`,
   formula: `BAB — Sacramento CA state government IT vendors invisible + CalPERS/CalSTRS FINRA fintech unaddressed + UC Davis Health YMYL unreached + Intel Folsom enterprise unaddressed + CCPA non-compliant analytics → CLICK Growth System for California's capital city's government tech and pension investment ecosystem`,
   seoTitle: `Digital Marketing Agency Sacramento | CA State Government & CalPERS Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Sacramento. California state government tech revenue, CalPERS/CalSTRS FINRA institutional investment, UC Davis Health YMYL, and CCPA-native analytics. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Sacramento Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-sacramento/","address":{"@type":"PostalAddress","addressLocality":"Sacramento","addressRegion":"CA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Sacramento Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-sacramento/","address":{"@type":"PostalAddress","addressLocality":"Sacramento","addressRegion":"CA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3900,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN SACRAMENTO?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 10 Sacramento oncology queries | UC Davis NCI: c
 
 Phone +1-888-555-CLICK | sacramento@clickmastersdigitalmarketing.com
 Folsom, Roseville, Elk Grove, Midtown, and all of Greater Sacramento`,
-  internalLinks: ["/seo-services-sacramento/","/digital-marketing-agency-usa/","/digital-marketing-agency-san-diego/","/digital-marketing-agency-los-angeles/"],
+  internalLinks: ["/seo-services-sacramento/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-san-diego/","/digital-marketing-agency-in-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-sacramento/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-sacramento/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

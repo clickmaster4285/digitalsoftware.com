@@ -105,7 +105,7 @@ Q: How does Clickmasters measure Austin social media outcomes? A: In-migration: 
 Get Your Free Austin Social Media Audit: Phone +1-888-555-CLICK
 Email: austin@clickmastersdigitalmarketing.com
 South Congress, North Austin, The Domain, Round Rock, and all of Greater Austin`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-austin/","/seo-services-austin/","/social-media-marketing-dallas/","/industries/technology/","/industries/financial-services/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-austin/","/seo-services-austin/","/social-media-marketing-dallas/","/industries/technology/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

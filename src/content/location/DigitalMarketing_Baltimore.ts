@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Baltimore.xlsx
 // Service: DigitalMarketing
 // City: Baltimore
-// URL: /digital-marketing-agency-baltimore/
+// URL: /digital-marketing-agency-in-baltimore/
 // Generated: 2026-06-20T06:12:58.698Z
 
 export const DigitalMarketing_Baltimore = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Baltimore = {
   serviceSlug: "digital-marketing",
   city: "Baltimore",
   citySlug: "baltimore",
-  slug: "/digital-marketing-agency-baltimore/",
+  slug: "/digital-marketing-agency-in-baltimore/",
   
   h1: `Digital Marketing Agency Baltimore — Johns Hopkins Revenue, T. Rowe Price FINRA, Under Armour Brand, and Charm City Commercial Growth`,
   primaryKw: `digital marketing agency baltimore`,
   formula: `BAB — Baltimore Johns Hopkins health IT vendors invisible + T. Rowe Price FINRA fintech unaddressed + Under Armour sports brand unaddressed + NSA Fort Meade ITAR defence unaddressed → CLICK Growth System for the Charm City's world-class academic and financial capital`,
   seoTitle: `Digital Marketing Agency Baltimore | Johns Hopkins Revenue & T. Rowe Price FINRA | Clickmasters`,
   meta: `Clickmasters digital marketing in Baltimore. Johns Hopkins world-class health IT revenue, T. Rowe Price FINRA investment management, Under Armour brand, and NSA Fort Meade defence. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Baltimore Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-baltimore/","address":{"@type":"PostalAddress","addressLocality":"Baltimore","addressRegion":"MD","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Baltimore Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-baltimore/","address":{"@type":"PostalAddress","addressLocality":"Baltimore","addressRegion":"MD","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3900,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN BALTIMORE?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 9 Baltimore brand analytics queries | Under Armo
 
 Phone +1-888-555-CLICK | baltimore@clickmastersdigitalmarketing.com
 Towson, Columbia, Fells Point, Hampden, and all of Greater Baltimore`,
-  internalLinks: ["/seo-services-baltimore/","/digital-marketing-agency-usa/","/digital-marketing-agency-pittsburgh/","/digital-marketing-agency-washington-dc/"],
+  internalLinks: ["/seo-services-baltimore/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-pittsburgh/","/digital-marketing-agency-in-washington-dc/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-baltimore/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-baltimore/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

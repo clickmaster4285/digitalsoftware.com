@@ -108,7 +108,7 @@ Q: How long does Chicago Fortune 500 content produce results? A: Vocabulary rank
 Get Your Free Chicago Content Marketing Audit: Phone +1-888-555-CLICK
 Email: chicago@clickmastersdigitalmarketing.com
 West Loop, River North, Elk Grove Village, Naperville, and all of Chicagoland`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-chicago/","/seo-services-chicago/","/content-marketing-dallas/","/industries/manufacturing/","/industries/financial-services/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-chicago/","/seo-services-chicago/","/content-marketing-dallas/","/industries/manufacturing/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

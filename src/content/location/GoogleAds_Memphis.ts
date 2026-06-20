@@ -94,7 +94,7 @@ Results: HIPAA/TIPA: Tennessee AG compliant | Baptist CPL: \$110 vs \$300 generi
 
 Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
 Germantown, Collierville, Bartlett, Midtown, and all of Greater Memphis`,
-  internalLinks: ["/digital-marketing-agency-memphis/","/seo-services-memphis/","/google-ads-management-services/","/google-ads-management-nashville/"],
+  internalLinks: ["/digital-marketing-agency-in-memphis/","/seo-services-memphis/","/google-ads-management-services/","/google-ads-management-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

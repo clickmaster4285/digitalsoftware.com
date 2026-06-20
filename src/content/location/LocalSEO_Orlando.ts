@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Lake Nona hospitality tech | Disney communi
 
 Phone +1-888-555-CLICK | orlando@clickmastersdigitalmarketing.com
 Lake Nona, Winter Park, Kissimmee, and all of Greater Orlando`,
-  internalLinks: ["/local-seo-services/","/seo-services-orlando/","/digital-marketing-agency-orlando/","/local-seo-services-tampa/"],
+  internalLinks: ["/local-seo-services/","/seo-services-orlando/","/digital-marketing-agency-in-orlando/","/local-seo-services-tampa/"],
   
   publishingChecklist: {
     onPageSeo: {

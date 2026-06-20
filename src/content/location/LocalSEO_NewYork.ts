@@ -96,7 +96,7 @@ Results (4 months): Top 3 Local Pack SoHo creative services | SoHo creative comm
 
 Phone +1-888-555-CLICK | newyork@clickmastersdigitalmarketing.com
 Midtown, Wall Street, SoHo, Upper East Side, Brooklyn, and all of Greater New York`,
-  internalLinks: ["/local-seo-services/","/seo-services-new-york/","/digital-marketing-agency-new-york/","/local-seo-services-boston/"],
+  internalLinks: ["/local-seo-services/","/seo-services-new-york/","/digital-marketing-agency-in-new-york/","/local-seo-services-boston/"],
   
   publishingChecklist: {
     onPageSeo: {

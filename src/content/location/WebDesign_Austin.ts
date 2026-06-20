@@ -111,7 +111,7 @@ Q: HIPAA-compliant websites for Austin healthcare? A: Yes — HIPAA-covered ESP 
 Get Your Free Austin Website Audit: Phone +1-888-555-CLICK
 Email: austin@clickmastersdigitalmarketing.com
 South Congress, The Domain, Round Rock, Cedar Park, and all of Greater Austin`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-austin/","/seo-services-austin/","/web-design-agency-dallas/","/industries/technology/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-austin/","/seo-services-austin/","/web-design-agency-dallas/","/industries/technology/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {

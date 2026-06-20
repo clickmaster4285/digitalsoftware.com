@@ -109,7 +109,7 @@ Q: HIPAA-compliant bilingual websites for Houston healthcare? A: Yes — BAA-cov
 Get Your Free Houston Website Audit: Phone +1-888-555-CLICK
 Email: houston@clickmastersdigitalmarketing.com
 Energy Corridor, Medical Center, The Woodlands, and all of Greater Houston`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-houston/","/seo-services-houston/","/web-design-agency-dallas/","/industries/oil-gas/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-houston/","/seo-services-houston/","/web-design-agency-dallas/","/industries/oil-gas/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.2% | Winter Park editorial f
 
 Phone +1-888-555-CLICK | orlando@clickmastersdigitalmarketing.com
 Lake Nona, Mills 50, Winter Park, Thornton Park, and all of Greater Orlando`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-orlando/","/seo-services-orlando/","/social-media-marketing-tampa/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-orlando/","/seo-services-orlando/","/social-media-marketing-tampa/"],
   
   publishingChecklist: {
     onPageSeo: {

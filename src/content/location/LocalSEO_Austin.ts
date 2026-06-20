@@ -105,7 +105,7 @@ Q: How long does Austin Local SEO take? A: Healthcare/professional: 3-5 months. 
 Get Your Free Austin Local SEO Audit: Phone +1-888-555-CLICK
 Email: austin@clickmastersdigitalmarketing.com
 South Congress, The Domain, Round Rock, Cedar Park, and all of Greater Austin`,
-  internalLinks: ["/local-seo-services/","/seo-services-austin/","/digital-marketing-agency-austin/","/local-seo-services-dallas/","/tools/local-seo-audit/","/industries/healthcare/"],
+  internalLinks: ["/local-seo-services/","/seo-services-austin/","/digital-marketing-agency-in-austin/","/local-seo-services-dallas/","/tools/local-seo-audit/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {

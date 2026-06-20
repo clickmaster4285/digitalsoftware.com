@@ -92,7 +92,7 @@ Results: CA in-migration engagement: 3.8x above generic | Conversion within 90 d
 
 Phone +1-888-555-CLICK | boise@clickmastersdigitalmarketing.com
 Hyde Park, North End, Meridian, Eagle, and all of Greater Boise`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-boise/","/seo-services-boise/","/email-marketing-salt-lake-city/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-boise/","/seo-services-boise/","/email-marketing-salt-lake-city/"],
   
   publishingChecklist: {
     onPageSeo: {

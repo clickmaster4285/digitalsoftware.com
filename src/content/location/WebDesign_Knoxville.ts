@@ -92,7 +92,7 @@ Results: Market Square: visits +40% | Tennessee media: editorial | Revenue: +\$7
 
 Phone +1-888-555-CLICK | knoxville@clickmastersdigitalmarketing.com
 Farragut, Oak Ridge, Maryville, and all of Greater Knoxville`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-knoxville/","/seo-services-knoxville/","/web-design-agency-nashville/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-knoxville/","/seo-services-knoxville/","/web-design-agency-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

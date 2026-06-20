@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | UofL: cited | HIPAA: clean | New patients: +3x | LCP: 4
 
 Phone +1-888-555-CLICK | louisville@clickmastersdigitalmarketing.com
 St. Matthews, Jeffersontown, Shelbyville, and all of Greater Louisville`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-louisville/","/seo-services-louisville/","/web-design-agency-nashville/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-louisville/","/seo-services-louisville/","/web-design-agency-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

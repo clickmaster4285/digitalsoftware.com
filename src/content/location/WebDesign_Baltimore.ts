@@ -92,7 +92,7 @@ Results: Under Armour VP: passed due diligence | Demo: 0.2% to 1.6% | Brand pipe
 
 Phone +1-888-555-CLICK | baltimore@clickmastersdigitalmarketing.com
 Towson, Columbia, Fells Point, Hampden, and all of Greater Baltimore`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-baltimore/","/seo-services-baltimore/","/web-design-agency-pittsburgh/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-baltimore/","/seo-services-baltimore/","/web-design-agency-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -111,7 +111,7 @@ Q: What academic credentials matter for Boston web design? A: HMS faculty, Mass 
 Get Your Free Boston Website Audit: Phone +1-888-555-CLICK
 Email: boston@clickmastersdigitalmarketing.com
 Back Bay, Kendall Square, Longwood, Cambridge, and all of Greater Boston`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-boston/","/seo-services-boston/","/web-design-agency-new-york/","/industries/financial-services/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-boston/","/seo-services-boston/","/web-design-agency-new-york/","/industries/financial-services/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {

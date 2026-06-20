@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Jacksonville fintech consulting | FIS commu
 
 Phone +1-888-555-CLICK | jacksonville@clickmastersdigitalmarketing.com
 Ponte Vedra Beach, St. Johns, Riverside, Avondale, and all of Greater Jacksonville`,
-  internalLinks: ["/local-seo-services/","/seo-services-jacksonville/","/digital-marketing-agency-jacksonville/","/local-seo-services-orlando/"],
+  internalLinks: ["/local-seo-services/","/seo-services-jacksonville/","/digital-marketing-agency-in-jacksonville/","/local-seo-services-orlando/"],
   
   publishingChecklist: {
     onPageSeo: {

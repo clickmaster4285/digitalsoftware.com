@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Austin.xlsx
 // Service: DigitalMarketing
 // City: Austin
-// URL: /digital-marketing-agency-austin/
+// URL: /digital-marketing-agency-in-austin/
 // Generated: 2026-06-20T06:12:58.686Z
 
 export const DigitalMarketing_Austin = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Austin = {
   serviceSlug: "digital-marketing",
   city: "Austin",
   citySlug: "austin",
-  slug: "/digital-marketing-agency-austin/",
+  slug: "/digital-marketing-agency-in-austin/",
   
   h1: `Digital Marketing Agency Austin — In-Migration Revenue, Tesla/Apple Tech Corridor, and Texas Technology Capital Growth`,
   primaryKw: `digital marketing agency austin`,
   formula: `BAB — Austin CA in-migration + Tesla/Apple corridor + authentic Austin → CLICK Growth System for Texas tech capital`,
   seoTitle: `Digital Marketing Agency Austin | In-Migration Revenue & Tesla/Apple Tech | Clickmasters`,
   meta: `Clickmasters digital marketing in Austin. California in-migration professional revenue, Tesla/Apple tech corridor enterprise, and authentic Austin consumer programmes for Texas technology capital. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Austin Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-austin/","address":{"@type":"PostalAddress","addressLocality":"Austin","addressRegion":"TX","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Austin Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-austin/","address":{"@type":"PostalAddress","addressLocality":"Austin","addressRegion":"TX","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN AUSTIN?
@@ -107,14 +107,14 @@ Results (10 months): Organic sessions: +3x | Instagram: 1.2% to 4.8% engagement 
 
 Phone +1-888-555-CLICK | austin@clickmastersdigitalmarketing.com
 South Congress, North Austin, The Domain, Round Rock, and all of Greater Austin`,
-  internalLinks: ["/seo-services-austin/","/web-design-agency-austin/","/digital-marketing-agency-usa/","/digital-marketing-agency-dallas/"],
+  internalLinks: ["/seo-services-austin/","/web-design-agency-austin/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-austin/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-austin/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

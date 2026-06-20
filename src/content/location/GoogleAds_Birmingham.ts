@@ -90,7 +90,7 @@ Results: HIPAA: clean | Blue Cross CPL: \$110 vs \$290 generic | New patients: +
 
 Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
 Hoover, Vestavia Hills, Mountain Brook, and all of Greater Birmingham`,
-  internalLinks: ["/digital-marketing-agency-birmingham/","/seo-services-birmingham/","/google-ads-management-services/","/google-ads-management-huntsville/"],
+  internalLinks: ["/digital-marketing-agency-in-birmingham/","/seo-services-birmingham/","/google-ads-management-services/","/google-ads-management-huntsville/"],
   
   publishingChecklist: {
     onPageSeo: {

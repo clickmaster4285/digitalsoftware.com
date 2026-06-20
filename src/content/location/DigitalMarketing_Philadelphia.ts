@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Philadelphia.xlsx
 // Service: DigitalMarketing
 // City: Philadelphia
-// URL: /digital-marketing-agency-philadelphia/
+// URL: /digital-marketing-agency-in-philadelphia/
 // Generated: 2026-06-20T06:12:59.173Z
 
 export const DigitalMarketing_Philadelphia = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Philadelphia = {
   serviceSlug: "digital-marketing",
   city: "Philadelphia",
   citySlug: "philadelphia",
-  slug: "/digital-marketing-agency-philadelphia/",
+  slug: "/digital-marketing-agency-in-philadelphia/",
   
   h1: `Digital Marketing Agency Philadelphia — Revenue Growth for Eds and Meds, Main Line, and the Delaware Valley`,
   primaryKw: `digital marketing agency philadelphia`,
   formula: `BAB — Philadelphia businesses competing against Penn Medicine, Jefferson, and national firms without systematic digital programmes → invisible to in-market buyers → CLICK Growth System for Delaware Valley's Eds and Meds capital`,
   seoTitle: `Digital Marketing Agency Philadelphia | Eds & Meds & Main Line Revenue | Clickmasters`,
   meta: `Clickmasters digital marketing in Philadelphia. Eds and Meds revenue growth, Main Line professional services, and King of Prussia FDA corridor B2B for the Delaware Valley. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Philadelphia Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-philadelphia/","address":{"@type":"PostalAddress","addressLocality":"Philadelphia","addressRegion":"PA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Philadelphia Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-philadelphia/","address":{"@type":"PostalAddress","addressLocality":"Philadelphia","addressRegion":"PA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Philadelphia, PA`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN PHILADELPHIA?
@@ -114,14 +114,14 @@ Q: GEO/AEO for Philadelphia? A: Main Line patients and GSK/AstraZeneca procureme
 Get Your Free Philadelphia Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: philadelphia@clickmastersdigitalmarketing.com
 Center City, Main Line, King of Prussia, and all of the Delaware Valley`,
-  internalLinks: ["/seo-services-philadelphia/","/local-seo-services-philadelphia/","/digital-marketing-agency-usa/","/industries/healthcare/","/industries/legal/","/digital-marketing-agency-new-york/"],
+  internalLinks: ["/seo-services-philadelphia/","/local-seo-services-philadelphia/","/digital-marketing-agency-in-usa/","/industries/healthcare/","/industries/legal/","/digital-marketing-agency-in-new-york/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-philadelphia/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-in-philadelphia/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

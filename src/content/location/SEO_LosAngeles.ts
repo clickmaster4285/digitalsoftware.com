@@ -105,7 +105,7 @@ Q: GEO/AEO for LA? A: Netflix tech teams and Snap product managers using ChatGPT
 Get Your Free LA SEO Audit: Phone +1-888-555-CLICK
 Email: losangeles@clickmastersdigitalmarketing.com
 Culver City, Santa Monica, Hollywood, West Hollywood, and all of Greater Los Angeles`,
-  internalLinks: ["/digital-marketing-agency-los-angeles/","/seo-services/","/seo-services-san-francisco/","/seo-services-san-diego/","/industries/entertainment/","/industries/technology/"],
+  internalLinks: ["/digital-marketing-agency-in-los-angeles/","/seo-services/","/seo-services-san-francisco/","/seo-services-san-diego/","/industries/entertainment/","/industries/technology/"],
   
   publishingChecklist: {
     onPageSeo: {

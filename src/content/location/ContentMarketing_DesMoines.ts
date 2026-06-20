@@ -92,7 +92,7 @@ Results (10 months): Iowa State Fair content: 4.2x above average | Drake Relays:
 
 Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
 East Village, Court Avenue, West Des Moines, and all of Greater Des Moines`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-des-moines/","/seo-services-des-moines/","/content-marketing-omaha/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-des-moines/","/seo-services-des-moines/","/content-marketing-omaha/"],
   
   publishingChecklist: {
     onPageSeo: {

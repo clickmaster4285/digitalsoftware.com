@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T recognised | BJC affiliation: cited in patient surveys | 
 
 Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
 Clayton, Creve Coeur, Chesterfield, Hazelwood, and all of Greater St. Louis`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-st-louis/","/seo-services-st-louis/","/web-design-agency-chicago/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-st-louis/","/seo-services-st-louis/","/web-design-agency-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

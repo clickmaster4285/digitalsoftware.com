@@ -94,7 +94,7 @@ Results: HIPAA/TIPA: clean | UT Medical CPL: \$110 vs \$290 generic | New patien
 
 Phone +1-888-555-CLICK | knoxville@clickmastersdigitalmarketing.com
 Farragut, Oak Ridge, Maryville, and all of Greater Knoxville`,
-  internalLinks: ["/digital-marketing-agency-knoxville/","/seo-services-knoxville/","/google-ads-management-services/","/google-ads-management-nashville/"],
+  internalLinks: ["/digital-marketing-agency-in-knoxville/","/seo-services-knoxville/","/google-ads-management-services/","/google-ads-management-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

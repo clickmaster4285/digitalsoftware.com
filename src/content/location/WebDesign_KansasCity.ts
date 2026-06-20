@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | Children's Mercy cited | HIPAA: clean | New patients: +
 
 Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
 Overland Park, Leawood, Olathe, North KC, and all of Greater Kansas City`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-kansas-city/","/seo-services-kansas-city/","/web-design-agency-st-louis/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-kansas-city/","/seo-services-kansas-city/","/web-design-agency-st-louis/"],
   
   publishingChecklist: {
     onPageSeo: {
