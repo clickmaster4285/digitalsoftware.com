@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Sacramento
 // URL: /social-media-marketing-sacramento/
-// Generated: 2026-06-20T04:42:14.403Z
+// Generated: 2026-06-20T05:43:14.839Z
 
 export const SocialMedia_Sacramento = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ CALPERS/CALSTRS INSTITUTIONAL INVESTMENT COMMUNITY: CalPERS and CalSTRS create a
 
 AUTHENTIC SACRAMENTO CAPITAL CITY BRAND SOCIAL: Sacramento's Midtown neighbourhood — California's most underrated urban arts and food community — Land Park's established residential character (home to the Sacramento Zoo and William Land Park), and Oak Park's emerging creative neighbourhood create consumer brand Instagram and TikTok opportunities for businesses communicating genuine California capital city identity.`,
   features: ``,
+  pas: ``,
+  services: `SACRAMENTO CALIFORNIA STATE GOVERNMENT LINKEDIN:
+For Sacramento government technology vendors. CDT/CHHS/CalHR government IT vocabulary. California Digital Strategy/GovOps methodology. FI\$Cal/CalATERS operational specifics. CA state IT professional Sales Navigator. CCPA-aware social analytics.
+
+SACRAMENTO CALPERS/CALSTRS INSTITUTIONAL INVESTMENT LINKEDIN:
+For Sacramento financial technology vendors. FINRA-compliant CalPERS/CalSTRS vocabulary. Alternative investment/ESG methodology. Total portfolio management operational intelligence. Institutional pension fund professional community. CCPA-aware.
+
+SACRAMENTO AUTHENTIC CAPITAL CITY BRAND SOCIAL:
+For Midtown, Land Park, and Oak Park consumer brands. Midtown arts and food community vocabulary. Land Park William Land Park neighbourhood character. Oak Park emerging creative community. Authentic California capital city identity vs generic CA brand.`,
   caseStudies: `Case Study 1: Sacramento Government Tech — CA State IT Government LinkedIn
 Client: Government technology consulting, Sacramento (\$7.4M). Challenge: Generic LinkedIn. CDT/CHHS state IT community not engaging.
 Programme: FI\$Cal/CalATERS/GovOps vocabulary + CA Digital Strategy community + CDT/CHHS Sales Navigator

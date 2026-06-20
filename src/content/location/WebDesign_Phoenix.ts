@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Phoenix
 // URL: /web-design-agency-phoenix/
-// Generated: 2026-06-20T04:42:14.833Z
+// Generated: 2026-06-20T05:43:15.838Z
 
 export const WebDesign_Phoenix = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ TSMC FAB 21 SEMICONDUCTOR VENDOR CREDIBILITY: TSMC Fab 21 Chandler and Intel Oco
 CA IN-MIGRATION BAY AREA PROFESSIONAL QUALITY: Scottsdale and Chandler's rapidly growing California in-migration professional community evaluates professional service provider websites against Bay Area and Los Angeles quality standards — the credential depth, visual sophistication, and CA-to-AZ-specific content that CA-origin professionals expect. A Scottsdale financial advisory website without CFA/CFP credentials with verification links, without CA-to-AZ specific service pages demonstrating genuine Arizona transition expertise, and without the institutional visual quality that competes with Bay Area practice equivalents communicates professional inadequacy to Phoenix's fastest-growing highest-income demographic.
 
 MAYO CLINIC/BANNER YMYL HEALTHCARE DESIGN: Phoenix's Mayo Clinic Arizona Scottsdale campus and Banner Health academic system define the YMYL standard that Google evaluates healthcare content against in the Phoenix market — and the healthcare website credential standard that Phoenix's medically sophisticated CA in-migration patient community evaluates for specialist and primary care selection.`,
-  features: `FEATURES:
-
-TSMC Fab 21 Semiconductor Vendor Credibility Architecture:
+  features: `TSMC Fab 21 Semiconductor Vendor Credibility Architecture:
 For Chandler, Tempe, and Greater Phoenix semiconductor services companies. SEMI F47/C62/E10 compliance status display where applicable. ISO 14644-1 cleanroom classification documentation pages. Semiconductor case studies at TSMC/Intel appropriate confidentiality depth. ASML/semiconductor precision equipment vocabulary in service descriptions. The semiconductor vendor website that earns TSMC Fab 21 and Intel Ocotillo procurement digital due diligence clearance.
 
 CA In-Migration Bay Area Professional Quality Architecture:
@@ -37,6 +35,8 @@ For Scottsdale, Paradise Valley, and North Phoenix financial advisory, estate pl
 
 Mayo Clinic/Banner YMYL Healthcare Architecture:
 For Scottsdale and Phoenix healthcare practices. Mayo Clinic Arizona affiliation display where applicable. Banner Health/Dignity Health/HonorHealth system affiliations. UA College of Medicine-Phoenix and ASU Health Sciences faculty attribution. HIPAA-native data architecture. YMYL E-E-A-T optimised content structure.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Chandler Semiconductor Services — TSMC Fab 21 Vendor Credibility Redesign
 Client: Cleanroom services, Chandler (\$14M). Challenge: Website without semiconductor credential display. TSMC procurement dismissal during digital due diligence.
 Programme: SEMI F47/C62/ISO 14644-1 display + semiconductor case studies + cleanroom precision visual + TSMC vocabulary + sub-1.6s LCP

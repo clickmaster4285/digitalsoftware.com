@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Miami
 // URL: /social-media-marketing-miami/
-// Generated: 2026-06-20T04:42:14.233Z
+// Generated: 2026-06-20T05:43:14.616Z
 
 export const SocialMedia_Miami = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ FLORIDA SB 262-COMPLIANT CONSUMER SOCIAL: Florida's SB 262 (effective July 2024)
 
 BRICKELL FINRA-AWARE FINANCIAL LINKEDIN: Brickell's concentration of investment advisory, international banking, and LATAM-facing financial services creates a LinkedIn environment where FINRA Rule 2210 governs investment commentary in both English and Spanish. Every Brickell investment adviser LinkedIn post — in either language — is a FINRA-regulated communication.`,
   features: ``,
+  pas: ``,
+  services: `BILINGUAL LATAM LINKEDIN MIAMI:
+For Brickell, Coral Gables, and Miami professional services serving the LATAM business community. Bilingual English/Spanish LinkedIn posts. Venezuelan estate planning content. Colombian corporate structure vocabulary. Argentine investment vehicle content. Brazilian market entry vocabulary. FINRA-compliant financial LinkedIn in both languages.
+
+FLORIDA SB 262-COMPLIANT CONSUMER INSTAGRAM AND TIKTOK:
+For Miami DTC consumer brands, hospitality, and lifestyle businesses. SB 262-compliant Instagram retargeting consent management. CCPA-adjacent Florida privacy compliance for TikTok audience data. Bilingual consumer content (English/Spanish for Miami's bilingual consumer community). Florida AG-compliant social media audience analytics.
+
+BRICKELL FINRA-AWARE INVESTMENT LINKEDIN:
+For Brickell wealth managers and LATAM-facing investment advisory. FINRA Rule 2210-compliant bilingual investment LinkedIn. CFA-authored bilingual market commentary. GIPS-compliant performance language in both languages.`,
   caseStudies: `Case Study 1: Coral Gables International Law Firm — Bilingual LATAM LinkedIn
 Client: International law firm, Coral Gables (22 attorneys). Challenge: English-only LinkedIn missing Colombian/Venezuelan/Argentine professional community.
 Programme: Bilingual LinkedIn (English/Spanish) + Colombian US entry content + Venezuelan asset protection + Argentine investment vocabulary + Florida Bar-compliant

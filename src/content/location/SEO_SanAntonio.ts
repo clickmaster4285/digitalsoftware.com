@@ -2,7 +2,7 @@
 // Service: SEO
 // City: SanAntonio
 // URL: /seo-services-san-antonio/
-// Generated: 2026-06-20T04:42:13.894Z
+// Generated: 2026-06-20T05:43:14.050Z
 
 export const SEO_SanAntonio = {
   service: "SEO",
@@ -28,6 +28,17 @@ BILINGUAL SPANISH/ENGLISH SEO: San Antonio's 63% Hispanic/Latino community gener
 
 STMC HEALTHCARE AND HEALTH TECH SEO: The South Texas Medical Center's 36,000 employees and 60+ healthcare institutions generate healthcare IT, medical services, and clinical technology searches that create organic authority opportunities for health technology vendors and clinical services companies competing for STMC ecosystem procurement.`,
   features: ``,
+  pas: `PROBLEM: The Northwest San Antonio fee-only financial advisory with genuine JBSA military client expertise — TSP management, SCRA knowledge, VA loan proficiency. Their website and content use generic 'San Antonio financial adviser' vocabulary throughout. Zero content addressing 'TSP rollover adviser San Antonio.' Zero bilingual Spanish content for the 63% San Antonio Hispanic community. Zero JBSA-specific keyword coverage. The most commercially valuable audiences in San Antonio — military community and bilingual community — can't find this firm organically.
+
+SOLUTION: Clickmasters San Antonio SEO delivers JBSA military vocabulary authority, bilingual Spanish/English keyword coverage, STMC health tech organic presence, and GEO/AEO citation architecture.`,
+  services: `SAN ANTONIO JBSA MILITARY VOCABULARY SEO:
+For financial advisory, healthcare, legal, and professional services. TSP rollover, SCRA, VA loan, military retirement pay, PCS financial planning vocabulary. Fort Sam Houston, Lackland AFB, Randolph AFB proximity content. FINRA-compliant financial SEO content.
+
+SAN ANTONIO BILINGUAL SPANISH/ENGLISH SEO:
+For healthcare, legal, professional services, and consumer businesses. Spanish-language keyword research calibrated to South Texas/Tejano search vocabulary. Bilingual content clusters: English + Spanish parallel content. HIPAA-compliant bilingual healthcare SEO. Spanish-language GEO/AEO architecture.
+
+SAN ANTONIO STMC HEALTH TECH SEO:
+For health technology vendors and clinical services. University Health System and UT Health San Antonio keyword authority. STMC clinical vocabulary. HCAHPS/VBP health system content. HIPAA-compliant SEO.`,
   caseStudies: `Case Study 1: Northwest SA Financial Advisory — JBSA Military Vocabulary SEO
 Client: Fee-only RIA (\$220M AUM). Challenge: Zero JBSA military vocabulary content. JBSA community not finding through organic search.
 Programme: TSP rollover/SCRA/VA loan content + JBSA vocabulary keyword architecture + FINRA-compliant content + GEO/AEO

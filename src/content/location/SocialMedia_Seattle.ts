@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Seattle
 // URL: /social-media-marketing-seattle/
-// Generated: 2026-06-20T04:42:14.468Z
+// Generated: 2026-06-20T05:43:14.971Z
 
 export const SocialMedia_Seattle = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ MHMD-AWARE HEALTHCARE SOCIAL: Washington's MHMD Act creates requirements for soc
 
 AUTHENTIC PACIFIC NORTHWEST BRAND SOCIAL: Seattle's consumer community evaluates brand social media through the Pacific Northwest's authenticity-intelligence lens: B Corp score specificity, genuine outdoor culture references (the Cascade Range by name, the Puget Sound by name), and the authentic Pacific Northwest community vocabulary that distinguishes locally-rooted brands from commercial approximations.`,
   features: ``,
+  pas: ``,
+  services: `AMAZON-STANDARD ANALYTICAL PRECISION LINKEDIN:
+For South Lake Union, Bellevue, and Redmond technology and professional services companies. Amazon analytical precision content: specific performance benchmarks, documented deployment timelines, verifiable commercial evidence. AWS vocabulary. CRM integration reference content. Enterprise pipeline reporting vocabulary in thought leadership.
+
+SEATTLE MHMD-AWARE HEALTHCARE SOCIAL:
+For Washington healthcare practices and health technology companies. MHMD-aware content review: health condition signals excluded from standard social analytics. HIPAA dual-compliance social content. Washington AG-aware clinical social content. MHMD-safe patient engagement on Instagram and Facebook.
+
+SEATTLE AUTHENTIC PACIFIC NORTHWEST CONSUMER SOCIAL:
+For Seattle's outdoor brands, sustainable consumer companies, and Pacific NW B2B businesses. Cascade Range and Puget Sound specific vocabulary. B Corp score specificity. Named Pacific NW conservation communities. Seattle authentic neighbourhood vocabulary.`,
   caseStudies: `Case Study 1: Bellevue Enterprise SaaS — Amazon-Standard LinkedIn Authority
 Client: Enterprise operations SaaS, Bellevue (\$18M ARR). Challenge: Generic LinkedIn content earning zero Amazon/Microsoft engineering engagement.
 Programme: Head of Engineering LinkedIn + specific performance benchmark content + CRM integration vocabulary + Amazon analytical precision standard

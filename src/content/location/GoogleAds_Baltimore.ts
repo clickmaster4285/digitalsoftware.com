@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Baltimore
 // URL: /google-ads-management-baltimore/
-// Generated: 2026-06-20T04:42:12.240Z
+// Generated: 2026-06-20T05:43:10.500Z
 
 export const GoogleAds_Baltimore = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ T. ROWE PRICE/LEGG MASON FINRA INVESTMENT MANAGEMENT GOOGLE ADS: T. Rowe Price's
 
 UNDER ARMOUR SPORTS BRAND B2B GOOGLE ADS: Under Armour's Brand House headquarters generates sports performance brand B2B procurement searches. 'Sports performance brand analytics consulting Baltimore Under Armour,' 'athletic apparel retail analytics Maryland UA vendor,' and 'sports marketing ROI consulting Baltimore brand' represent unique Baltimore brand vocabulary at Maryland CPCs below New York brand marketing equivalents.`,
   features: ``,
+  pas: `PROBLEM: The Baltimore health IT company spending \$5,400/month on 'health IT consulting Baltimore' and 'clinical analytics Maryland.' Johns Hopkins Medicine's new VP Digital Health from Partners Healthcare Boston searches 'Johns Hopkins Medicine clinical analytics vendor Baltimore' and 'Armstrong Institute patient safety technology Maryland.' Neither in the campaign. \$64K annual spend on generic vocabulary completely misses the most prestigious YMYL health IT vocabulary in the US — Johns Hopkins' Baltimore HQ clinical operational vocabulary.
+
+SOLUTION: Clickmasters Baltimore Google Ads delivers Johns Hopkins Medicine HIPAA world-class vocabulary, T. Rowe Price FINRA-compliant investment management, and Under Armour sports brand B2B — at Maryland CPCs below Boston and New York equivalents.`,
+  services: `BALTIMORE JOHNS HOPKINS MEDICINE HIPAA GOOGLE ADS:
+For Baltimore health IT vendors. Johns Hopkins/Armstrong Institute/Bloomberg vocabulary. World-class YMYL clinical content. HIPAA server-side conversion tracking. JHM/MedStar community audience signals.
+
+BALTIMORE T. ROWE PRICE FINRA INVESTMENT GOOGLE ADS:
+For Baltimore financial technology vendors. FINRA Rule 2210-compliant ad content. T. Rowe Price investment management vocabulary. Legg Mason/Franklin Templeton community. SEC Marketing Rule-compliant landing pages.
+
+BALTIMORE UNDER ARMOUR SPORTS BRAND GOOGLE ADS:
+For Baltimore creative technology and retail analytics vendors. Under Armour sports performance brand vocabulary. Athletic apparel retail analytics. Sports marketing ROI measurement. Maryland brand community audience.`,
   caseStudies: `Case Study 1: Baltimore Health IT — Johns Hopkins Medicine World-Class HIPAA PPC
 Client: Clinical analytics, Baltimore (\$7.4M ARR). Challenge: \$64K annual spend missing JHM/Armstrong world-class vocabulary.
 Programme: JHM/Armstrong Institute/Bloomberg vocabulary + HIPAA server-side + JHM community audience + world-class clinical landing pages

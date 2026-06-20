@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: SanFrancisco
 // URL: /digital-marketing-agency-san-francisco/
-// Generated: 2026-06-20T04:42:11.582Z
+// Generated: 2026-06-20T05:43:08.974Z
 
 export const DigitalMarketing_SanFrancisco = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "SanFrancisco",
   citySlug: "san-francisco",
-  slug: "/digital-marketing-agency-san-francisco/",
+  slug: "/digital-marketing-agency-san-in-francisco/",
   
   h1: `Digital Marketing Agency San Francisco — AI/ML Technical Authority, GEO-First Commercial Programme, and CCPA-Native Growth`,
   primaryKw: `digital marketing agency san francisco`,
@@ -28,6 +28,20 @@ CCPA-NATIVE MEASUREMENT FOUNDATION: California's CCPA and CPRA create a systemat
 
 GEO/AEO FIRST-MOVER OPPORTUNITY: SF's professional community has the highest AI search tool adoption rate of any US commercial city. The enterprise ML engineer at a Series B startup who researches infrastructure vendors doesn't exclusively use Google — they use ChatGPT, Perplexity, and Claude for professional research at above-average rates. The first SF AI infrastructure vendor to establish GEO and AEO content signals earns citation positions in the AI-generated answers for SF's highest-value B2B procurement searches before competitors build comparable AI search visibility.`,
   features: ``,
+  pas: ``,
+  services: `SEO SAN FRANCISCO: AI/ML engineering technical vocabulary authority. GEO/AEO first-mover architecture. CCPA-native analytics. Series B-credible demand attribution. /seo-services-san-francisco/
+
+GOOGLE ADS SAN FRANCISCO: AI/ML enterprise vocabulary PPC. CCPA Consent Mode v2. Series B investor-credible enterprise pipeline attribution. /google-ads-management-san-francisco/
+
+CONTENT MARKETING SF: Benchmark-cited ML technical content. arXiv-adjacent white papers. GEO/AEO model citation architecture. CCPA-accurate content analytics. /content-marketing-san-francisco/
+
+LINKEDIN SF: AI/ML engineering-precision thought leadership. CCPA-native social analytics. FINRA for fintech. GEO/AEO social content architecture. /social-media-marketing-san-francisco/
+
+EMAIL SF: AI/ML enterprise pipeline HubSpot nurture. CCPA-compliant Klaviyo DTC. Series B-credible pipeline attribution. FINRA for fintech.
+
+LOCAL SEO SF: Creator economy GBP quality. CCPA-native review analytics. 88-city-adjacent SF neighbourhood specificity. /local-seo-services-san-francisco/
+
+WEB DESIGN SF: AI/ML technical credibility. CCPA-native privacy architecture. Sub-1.5s LCP. SOC 2 display. /web-design-agency-san-francisco/`,
   caseStudies: `Case Study 1: SoMa AI Infrastructure Company — Full CCPA-Native Digital Programme
 Client: AI infrastructure SaaS, SoMa (\$24M ARR). Challenge: CCPA non-compliant all channels. Inaccurate measurement. LinkedIn misaligned with engineering-culture buyer. Zero GEO/AEO.
 Programme: CCPA-native rebuild all channels + SEO (AI/ML technical) + Google Ads (enterprise vocabulary) + LinkedIn (benchmark citations) + GEO/AEO architecture

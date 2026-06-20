@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Portland
 // URL: /local-seo-services-portland/
-// Generated: 2026-06-20T04:42:13.363Z
+// Generated: 2026-06-20T05:43:12.528Z
 
 export const LocalSEO_Portland = {
   service: "LocalSEO",
@@ -28,6 +28,19 @@ NIKE AND ADIDAS B2B LOCAL PACK: Portland's Nike headquarters in Beaverton and Ad
 
 INTEL HILLSBORO CORRIDOR: Intel's Hillsboro campus creates a technology professional residential community in Washington County whose near-me searches follow the analytical precision of the semiconductor engineering community — above-average review quality scrutiny, above-average importance of technical credential display, and above-average expectation of professional service provider sophistication.`,
   features: ``,
+  pas: `PROBLEM: The Southeast Portland wellness studio with B Corp certification, bluesign-certified equipment, and genuine community involvement has a GBP description that says 'Holistic wellness for the Portland community. Come experience our unique approach to health and healing.' The Portland searcher who evaluates this GBP against the studio's competitor — whose GBP description cites the B Corp certification year, lists the specific bluesign certifications, mentions the three Portland schools they partner with, and shows 18-month-old professional photography of genuine community events — chooses the competitor. Portland's authenticity standard is not merely a values preference; it is a commercial purchase driver.
+
+AGITATION: Portland's Local Pack competition is rising as national brands with systematic GBP management programmes enter Oregon's market. The national yoga chain that opened in the Pearl District with 180 pre-seeded reviews and a professionally managed GBP is competing against local Portland studios that haven't invested in GBP management — and Portland's local searchers, despite their preference for locally-owned businesses, are selecting providers with stronger GBP presence.
+
+SOLUTION: Clickmasters Portland Local SEO provides the authenticity-calibrated, evidence-specific, locally-grounded GBP programme that earns genuine trust from Portland's most demanding local business evaluators.`,
+  services: `PORTLAND AUTHENTIC-VALUES LOCAL SEO:
+GBP management calibrated to Portland's above-average authenticity standard. Specific-evidence GBP descriptions: B Corp certification year and score, bluesign/OEKO-TEX certifications, LEED compatibility, specific community partnerships, actual carbon reduction data. Authentic GBP Post content: real Portland community events, genuine outdoor culture participation (named Mt. Hood/Coast Range destinations), specific sustainability achievements with data. Review programme producing Portland-authenticity-standard responses: honest, humble, specific — not marketing language.
+
+NIKE/ADIDAS ECOSYSTEM B2B LOCAL SEO:
+For Beaverton and Portland vendors serving the Nike/Adidas professional community. Athletic industry credential display in GBP: bluesign, OEKO-TEX, HIGG Index, Cradle to Cradle certifications. Sustainable material science vocabulary. Brand values-aligned GBP content demonstrating genuine athletic industry expertise. The B2B GBP that earns vendor consideration from Portland's most identity-conscious corporate community.
+
+INTEL HILLSBORO PROFESSIONAL SERVICES LOCAL SEO:
+For the professional services, healthcare, and consumer businesses serving Intel's Hillsboro professional residential community. Technical credential display appropriate to semiconductor professional audience expectations. Washington County local authority: Hillsboro, Beaverton, Tigard, Tualatin neighbourhood landing pages.`,
   caseStudies: `Case Study 1: Pearl District Wellness Studio — Authentic-Values GBP Programme
 Client: Wellness studio, Pearl District Portland (1 location, B Corp certified). Challenge: Generic GBP description below Portland authenticity standard. Competitor with authentic-specific GBP outranking despite lower service quality.
 Programme: B Corp certification + specific evidence GBP rebuild + authentic community event Posts + Portland honest review programme

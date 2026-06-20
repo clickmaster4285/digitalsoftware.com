@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: LosAngeles
 // URL: /email-marketing-los-angeles/
-// Generated: 2026-06-20T04:42:11.958Z
+// Generated: 2026-06-20T05:43:09.415Z
 
 export const EmailMarketing_LosAngeles = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ CCPA-NATIVE EMAIL MEASUREMENT ACCURACY: California's CCPA and CPRA create a meas
 ENTERTAINMENT B2B PIPELINE EMAIL: The entertainment B2B sales cycle in LA — from initial contact with a Netflix content operations team to formal vendor evaluation — typically runs 90-180 days. Email is the relationship maintenance channel that keeps entertainment vendor relationships warm through this extended cycle. Entertainment B2B email that demonstrates genuine knowledge of production pipeline vocabulary — IMF deliverables, DCP mastering workflow, SVOD content acquisition economics — earns engagement from the studio operations professionals who make vendor decisions. Generic 'thought leadership' newsletter content earns unsubscribes from LA's entertainment professional community.
 
 SILICON BEACH ENTERPRISE NURTURE: Silicon Beach's Snap, Google, YouTube, and the enterprise technology ecosystem create a B2B email market that evaluates vendor communications with analytical precision. Enterprise nurture email for Silicon Beach technology companies must demonstrate genuine product-level technical depth — not aspirational brand positioning — to maintain engagement from LA's engineering-culture enterprise buyers.`,
-  features: `FEATURES:
-
-CCPA-Native Klaviyo and HubSpot Email Architecture:
+  features: `CCPA-Native Klaviyo and HubSpot Email Architecture:
 Every LA email programme built on CPRA-compliant data minimisation from day one. Klaviyo CPRA compliance: consent management for subscriber data collection, email preference management meeting California AG standards, server-side attribution connecting email engagement to Shopify/Salesforce pipeline without consent-denied data loss. The email measurement foundation that produces CCPA-accurate performance data in California's above-average opt-out market — lower initially reported numbers that reflect genuine commercial performance rather than consent-inflated vanity metrics.
 
 Entertainment B2B HubSpot Pipeline Nurture:
@@ -37,6 +35,15 @@ For Culver City post-production technology, Hollywood entertainment services, an
 
 Silicon Beach Enterprise HubSpot Nurture:
 For Santa Monica, Venice, and Playa Vista technology companies. Technically precise enterprise content at Silicon Beach analytical standard. DTC platform integration technical updates for commerce technology companies. AI/ML product-level communications for AI infrastructure companies. CPRA-compliant HubSpot CRM attribution connecting email engagement to enterprise pipeline.`,
+  pas: ``,
+  services: `LA ENTERTAINMENT B2B EMAIL (HUBSPOT):
+For Culver City, Hollywood, and Burbank entertainment B2B vendors. Production vocabulary content tracks. Named studio account sequences (Netflix/Disney+/WB/A24). CCPA-compliant CRM attribution. Entertainment industry CPL reporting.
+
+LA SILICON BEACH ENTERPRISE EMAIL (HUBSPOT CCPA-NATIVE):
+For Santa Monica, Venice, Playa Vista technology companies. CPRA-compliant HubSpot. Technically precise enterprise nurture. AI/ML product-level communications. DTC platform integration vocabulary. Pipeline reporting in commercial language.
+
+LA DTC BRAND EMAIL (KLAVIYO CCPA-NATIVE):
+For LA's consumer brands, beauty DTC, lifestyle, and Shopify businesses. CPRA-native Klaviyo. Creator economy email aesthetic. 12-flow automation at creator economy production standard. Server-side attribution for CCPA-accurate Shopify revenue measurement.`,
   caseStudies: `Case Study 1: Culver City Post-Production Technology — Entertainment B2B Pipeline Nurture
 Client: Post-production software, Culver City (\$8.4M ARR). Challenge: Studio contacts going cold after initial meetings. Generic email nurture below entertainment professional standard.
 Programme: HubSpot entertainment vocabulary nurture + Netflix/Disney+ named studio sequences + IMF/DCP content tracks + CCPA-compliant attribution

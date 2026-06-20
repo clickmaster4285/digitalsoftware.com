@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Omaha
 // URL: /email-marketing-omaha/
-// Generated: 2026-06-20T04:42:12.028Z
+// Generated: 2026-06-20T05:43:09.866Z
 
 export const EmailMarketing_Omaha = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ BERKSHIRE HATHAWAY ANNUAL MEETING FINRA INVESTMENT PIPELINE EMAIL: Berkshire's p
 UNION PACIFIC RAIL LOGISTICS TECHNOLOGY NURTURE: Union Pacific procurement cycles run 90-180 days for rail analytics and logistics technology vendor evaluation. NDPA-compliant email with Union Pacific's operational vocabulary: freight routing optimisation updates, intermodal logistics analytics intelligence.
 
 NEBRASKA NDPA-COMPLIANT GATE CITY COMMERCIAL REVENUE: Nebraska NDPA (effective January 1, 2025) requires NDPA-compliant subscriber data collection and opt-out mechanisms for all Omaha email marketing channels.`,
-  features: `FEATURES:
-
-Berkshire Annual Meeting FINRA Investment Pipeline HubSpot:
+  features: `Berkshire Annual Meeting FINRA Investment Pipeline HubSpot:
 For Omaha financial technology and investment analytics vendors. Value investing methodology operational intelligence email. Insurance float analytics (GEICO, General Re). Berkshire subsidiary performance management content. Annual Meeting seasonal email calendar:
  - Pre-Annual Meeting (mid-April): peak Berkshire open rate window
  - Annual Meeting week (first May weekend): peak investment community engagement
@@ -41,6 +39,8 @@ For Omaha rail and logistics technology vendors. Freight routing optimisation in
 
 Nebraska Medicine HIPAA Healthcare Procurement:
 For Omaha health technology vendors. Nebraska Medicine NCI cancer research intelligence. UNMC academic medical programme content. HIPAA-compliant NDPA-compliant data handling.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Omaha Financial Technology — Berkshire Annual Meeting FINRA Pipeline
 Client: Investment analytics, Omaha (\$6.4M ARR). Challenge: Berkshire community cold. Generic investment newsletter. Non-FINRA. No Annual Meeting seasonal strategy.
 Programme: Berkshire FINRA value investing + Annual Meeting seasonal calendar + named sequences + NDPA-compliant

@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Sacramento
 // URL: /local-seo-services-sacramento/
-// Generated: 2026-06-20T04:42:13.404Z
+// Generated: 2026-06-20T05:43:12.586Z
 
 export const LocalSEO_Sacramento = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ UC DAVIS HEALTH/SUTTER ACADEMIC MEDICAL CREDENTIAL: UC Davis Health — NCI-desi
 
 EAST SACRAMENTO/FOLSOM PROFESSIONAL QUALITY STANDARD: East Sacramento's Land Park, East Sacramento, and Fabulous Forties neighbourhoods — home to Sacramento's most established professional residential community — and Folsom's growing technology professional community (Intel campus proximity) represent the highest-income professional communities in the Sacramento region.`,
   features: ``,
+  pas: `PROBLEM: The Folsom financial advisory with a CalPERS investment officer and Intel Folsom engineer client base — 20 reviews, generic 'Folsom wealth management' GBP, no CFA verification, no CalPERS/Intel professional community vocabulary, non-CCPA. A relocating CalPERS Senior Portfolio Manager from New York searches 'fee-only financial adviser Folsom CFA CalPERS Sacramento.' GBP: 20 reviews (New York adviser had 140+), no CFA Institute verification, no CalPERS community signal. He selects the firm with 108 reviews, CFA Institute verification, 'specialists in financial planning for CalPERS, Intel, and Sacramento government professionals in Folsom.'
+
+SOLUTION: Clickmasters Sacramento Local SEO provides the CA state government proximity, UC Davis/Sutter academic medical, and East Sacramento/Folsom professional quality standard GBP programme.`,
+  services: `SACRAMENTO CA STATE GOVERNMENT PROXIMITY B2B GBP:
+For downtown Sacramento and K Street government-adjacent vendors. CA state IT vocabulary in GBP service descriptions. Government technology community proximity signals. State government professional photography. CCPA-native review analytics.
+
+SACRAMENTO UC DAVIS/SUTTER YMYL ACADEMIC GBP:
+For Sacramento healthcare practices. UC Davis Health NCI Cancer Center programme affiliation. California MIND Institute vocabulary. Sutter Health system affiliation. HIPAA-compliant CCPA-native review management.
+
+SACRAMENTO EAST SACRAMENTO/FOLSOM PROFESSIONAL QUALITY GBP:
+For East Sacramento and Folsom professional services. CFA/CFP with CFA Institute/CFP Board verification. CalPERS/Intel professional community vocabulary. East Sacramento professional photography. CCPA-native FINRA-aware.`,
   caseStudies: `Case Study 1: Folsom Financial Advisory — CalPERS/Intel Professional Quality GBP
 Client: Fee-only RIA, Folsom (\$200M AUM). Challenge: GBP below CalPERS/Intel professional quality standard.
 Programme: CFA Institute verification + CalPERS/Intel community vocabulary + CCPA-native + FINRA-aware + Folsom professional photography

@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Knoxville
 // URL: /content-marketing-knoxville/
-// Generated: 2026-06-20T04:42:10.762Z
+// Generated: 2026-06-20T05:43:06.462Z
 
 export const ContentMarketing_Knoxville = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ TVA/ORNL UTILITY AND ITAR-ADJACENT NUCLEAR CONTENT AUTHORITY: TVA — the US's l
 PILOT FLYING J FLEET LOGISTICS CONTENT: Pilot Flying J's 900+ travel centre network creates trucking analytics, fleet management, and fuel operations content marketing opportunities. American Trucking Associations (ATA) editorial community engagement amplifies Pilot Flying J fleet content authority.
 
 UT MEDICAL/COVENANT YMYL CONTENT: East Tennessee's only Level 1 Trauma Center vocabulary, Covenant Health system content, HIPAA/TIPA-native clinical case studies.`,
-  features: `FEATURES:
-
-TVA/ORNL Utility and ITAR-Adjacent Nuclear Content Authority:
+  features: `TVA/ORNL Utility and ITAR-Adjacent Nuclear Content Authority:
 ITAR vocabulary review every ORNL piece. TVA nuclear/grid/renewable operational content. EEI and ANS editorial communities. GEO/AEO for Knoxville TVA AI search queries. Tennessee TIPA-native analytics.
 
 Pilot Flying J Fleet Logistics Content:
@@ -37,6 +35,8 @@ Pilot Flying J travel centre operations vocabulary. Fleet fuel management method
 
 UT Medical/Covenant YMYL Tennessee Valley Content:
 UT Medical Level 1 Trauma vocabulary. Covenant Health YMYL. HIPAA/TIPA-native clinical. Tennessee Valley seasonal — Big Orange UT Volunteers community.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Knoxville Energy — TVA/ORNL ITAR-Adjacent Content Authority
 Client: Utility analytics, Knoxville (\$5.4M ARR). Challenge: ITAR exposure in ORNL content. Generic energy blog.
 Programme: ITAR review (exposure eliminated) + TVA nuclear/grid content + EEI/ANS editorial + GEO/AEO

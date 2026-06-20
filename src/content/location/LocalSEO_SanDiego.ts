@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: SanDiego
 // URL: /local-seo-services-san-diego/
-// Generated: 2026-06-20T04:42:13.430Z
+// Generated: 2026-06-20T05:43:12.623Z
 
 export const LocalSEO_SanDiego = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ UCSD/SCRIPPS ACADEMIC MEDICAL GBP CREDENTIAL STANDARD: San Diego's University of
 
 CCPA-NATIVE REVIEW ANALYTICS: California's CCPA and CPRA create requirements for review acquisition programme data handling. GBP review analytics and review request email data collection must be CCPA-compliant for San Diego businesses to avoid California AG enforcement exposure.`,
   features: ``,
+  pas: `PROBLEM: The Kearny Mesa financial advisory serving the defence contractor professional community — 28 reviews at 4.6 stars, generic 'wealth management for San Diego professionals' description, no defence community vocabulary, no CMMC/AS9100D-adjacent financial planning content. The Northrop Grumman programme manager newly arrived from Fairfax, Virginia searches 'financial adviser Kearny Mesa defence contractor' and 'wealth management engineer San Diego military' — finds the firm's GBP. Reads: generic description, 28 reviews, no defence community credibility signals. Selects the Kearny Mesa firm 0.8 miles further with 124 reviews, 'financial planning for defence contractor professionals' in the GBP description, and FINRA-aware review management.
+
+SOLUTION: Clickmasters San Diego Local SEO provides the defence community GBP, UCSD/Scripps-credentialled academic medical, and CCPA-native review management programme.`,
+  services: `SAN DIEGO DEFENCE COMMUNITY GBP MANAGEMENT:
+For Kearny Mesa, Point Loma, and Sorrento Valley professional services businesses. Defence community vocabulary in GBP descriptions. CMMC/AS9100D community proximity signals. Cleared professional community photography. FINRA-aware review management for defence financial advisory. CCPA-native review analytics.
+
+SAN DIEGO UCSD/SCRIPPS ACADEMIC MEDICAL GBP:
+For UCSD Health-adjacent and Scripps Health-affiliated practices. UCSD Health system affiliation badge. UC San Diego School of Medicine faculty attribution. Scripps Health/Sharp Healthcare system affiliations. HIPAA-compliant review management. CCPA-native analytics.
+
+SAN DIEGO NEIGHBOURHOOD-PRECISE CONSUMER GBP:
+For La Jolla, North Park, Ocean Beach, and Little Italy businesses. California authentic coastal vocabulary. Neighbourhood-specific GBP descriptions. CCPA-native review analytics.`,
   caseStudies: `Case Study 1: Kearny Mesa Financial Advisory — Defence Community GBP Rebuild
 Client: RIA, Kearny Mesa (\$180M AUM, 60% defence contractor clients). Challenge: Generic GBP missing defence community vocabulary. 28 reviews below defence professional standard.
 Programme: Defence community vocabulary GBP + CMMC proximity signals + FINRA-aware reviews + CCPA analytics

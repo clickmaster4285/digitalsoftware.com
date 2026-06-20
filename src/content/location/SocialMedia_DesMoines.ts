@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: DesMoines
 // URL: /social-media-marketing-des-moines/
-// Generated: 2026-06-20T04:42:14.097Z
+// Generated: 2026-06-20T05:43:14.482Z
 
 export const SocialMedia_DesMoines = {
   service: "SocialMedia",
@@ -27,9 +27,7 @@ PRINCIPAL FINANCIAL FINRA RETIREMENT/INSURANCE LINKEDIN: Principal Financial's D
 EMC/FARM BUREAU IOWA INSURANCE PROFESSIONAL COMMUNITY: EMC Insurance and Farm Bureau Financial Services create an Iowa insurance LinkedIn professional community evaluating technology vendor content against Iowa commercial lines and agricultural insurance operational precision.
 
 AUTHENTIC IOWA CAPITAL CONSUMER BRAND SOCIAL: Des Moines' East Village arts neighbourhood — one of the Midwest's most vibrant and fastest-growing arts and food communities — Court Avenue entertainment district, and Ingersoll Avenue's independent commercial strip create consumer brand social opportunities. Iowa State Fair (August) and Drake Relays (April) create seasonally leverageable Iowa capital brand moments.`,
-  features: `FEATURES:
-
-Principal Financial FINRA Retirement/Insurance LinkedIn:
+  features: `Principal Financial FINRA Retirement/Insurance LinkedIn:
 For Des Moines insurance and investment technology vendors. FINRA-compliant Principal retirement/group insurance vocabulary. Principal Bank financial operations content. Iowa insurance capital professional Sales Navigator.
 
 EMC/Farm Bureau Iowa Insurance LinkedIn:
@@ -37,6 +35,8 @@ For Des Moines insurance technology vendors. EMC commercial lines vocabulary. Fa
 
 Authentic Iowa Capital Consumer Brand Social:
 For East Village, Court Avenue, and Ingersoll consumer brands. East Village arts community vocabulary — Iowa's most vibrant emerging neighbourhood. Court Avenue entertainment district character. Ingersoll Avenue independent commercial strip. Iowa State Fair August seasonal — 1 million+ visitors, 11 days. Drake Relays April seasonal — world-class track and field.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Des Moines Financial Technology — Principal Financial FINRA LinkedIn
 Client: Investment analytics, Des Moines (\$6.4M ARR). Challenge: Generic LinkedIn. Principal insurance community not engaging.
 Programme: Principal FINRA retirement/group insurance vocabulary + Iowa insurance capital Sales Navigator

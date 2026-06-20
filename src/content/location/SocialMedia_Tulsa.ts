@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Tulsa
 // URL: /social-media-marketing-tulsa/
-// Generated: 2026-06-20T04:42:14.499Z
+// Generated: 2026-06-20T05:43:15.048Z
 
 export const SocialMedia_Tulsa = {
   service: "SocialMedia",
@@ -27,9 +27,7 @@ WILLIAMS/ONEOK MIDSTREAM ENERGY LINKEDIN: Williams Companies and ONEOK create a 
 BOK FINANCIAL BANKING COMMUNITY: BOK Financial's \$50+ billion asset operations create a Tulsa banking LinkedIn community evaluating technology vendor content against FINRA-compliant banking operational precision.
 
 AUTHENTIC OIL CAPITAL CONSUMER BRAND SOCIAL: Tulsa's Blue Dome entertainment district (named for the iconic 1920s Art Deco Gulf Oil filling station), Brookside's Peoria Avenue independent commercial community, Cherry Street's arts and dining neighbourhood, and the Gathering Place — the \$465 million privately funded public park on the Arkansas River — create consumer brand social opportunities for businesses communicating genuine Tulsa identity.`,
-  features: `FEATURES:
-
-Williams/ONEOK Midstream Energy LinkedIn:
+  features: `Williams/ONEOK Midstream Energy LinkedIn:
 For Tulsa midstream technology vendors. Williams Transco/Northwest Pipeline operational vocabulary. ONEOK NGL/gathering/processing precision. Midstream energy infrastructure Sales Navigator.
 
 BOK Financial Banking LinkedIn:
@@ -37,6 +35,8 @@ For Tulsa banking technology vendors. BOK Financial FINRA-compliant vocabulary. 
 
 Authentic Oil Capital Consumer Brand Social:
 For Blue Dome, Brookside, Cherry Street, and Gathering Place brands. Blue Dome 1920s Art Deco heritage vocabulary. Brookside Peoria Avenue independent community character. Gathering Place riverside park (\$465M privately funded) identity. Cherry Street arts and dining neighbourhood.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Tulsa Midstream Technology — Williams/ONEOK LinkedIn
 Client: Midstream analytics, Tulsa (\$5.4M ARR). Challenge: Generic LinkedIn. Williams/ONEOK midstream community not engaging.
 Programme: Williams Transco/ONEOK NGL vocabulary + midstream energy Sales Navigator

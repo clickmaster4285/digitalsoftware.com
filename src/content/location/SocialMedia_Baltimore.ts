@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Baltimore
 // URL: /social-media-marketing-baltimore/
-// Generated: 2026-06-20T04:42:14.013Z
+// Generated: 2026-06-20T05:43:14.334Z
 
 export const SocialMedia_Baltimore = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ T. ROWE PRICE INSTITUTIONAL INVESTMENT MANAGEMENT COMMUNITY: T. Rowe Price's \$1
 
 AUTHENTIC CHARM CITY CONSUMER BRAND SOCIAL: Baltimore's Fells Point waterfront neighbourhood, Hampden's 'The Avenue' independent commercial community, and Roland Park's established residential character create consumer brand Instagram and TikTok opportunities for businesses communicating genuine Baltimore identity — the authentic Charm City character that distinguishes genuinely locally-rooted Baltimore brands from generic Mid-Atlantic commercial approximations.`,
   features: ``,
+  pas: ``,
+  services: `BALTIMORE JOHNS HOPKINS #1 CLINICAL LINKEDIN:
+For Baltimore health IT vendors. Armstrong Institute patient safety vocabulary. Bloomberg School epidemiology/public health methodology. Johns Hopkins #1 clinical precision content. JHM/Bloomberg School Sales Navigator.
+
+BALTIMORE T. ROWE PRICE INVESTMENT LINKEDIN:
+For Baltimore financial technology vendors. FINRA Rule 2210-compliant LinkedIn. T. Rowe Price equity research/quantitative vocabulary. Legg Mason/Franklin community. Institutional investment management precision content.
+
+BALTIMORE AUTHENTIC CHARM CITY BRAND SOCIAL:
+For Fells Point, Hampden, and Roland Park consumer brands. Fells Point waterfront community vocabulary. Hampden 'The Avenue' independent commercial character. Roland Park established residential identity. Authentic Charm City vs generic Mid-Atlantic brand.`,
   caseStudies: `Case Study 1: Baltimore Health IT — Johns Hopkins #1 Clinical LinkedIn
 Client: Clinical analytics, Baltimore (\$7.4M ARR). Challenge: Generic LinkedIn. Johns Hopkins #1 clinical community not engaging.
 Programme: Armstrong Institute/Bloomberg School vocabulary + JHM #1 precision content + JHM/Bloomberg Sales Navigator

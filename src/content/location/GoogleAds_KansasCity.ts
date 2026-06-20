@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: KansasCity
 // URL: /google-ads-management-kansas-city/
-// Generated: 2026-06-20T04:42:12.393Z
+// Generated: 2026-06-20T05:43:10.784Z
 
 export const GoogleAds_KansasCity = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ GARMIN/OVERLAND PARK ENTERPRISE TECHNOLOGY GOOGLE ADS: Garmin's Olathe campus an
 
 CHILDREN'S MERCY/KU MEDICAL HIPAA PATIENT ACQUISITION: Children's Mercy Kansas City and University of Kansas Medical Center create healthcare patient acquisition PPC markets requiring HIPAA server-side conversion tracking and paediatric/academic medical vocabulary throughout.`,
   features: ``,
+  pas: `PROBLEM: The North Kansas City health IT integration consulting firm spending \$6,000/month on 'health IT consulting Kansas City' and 'EHR integration Missouri.' Oracle Health's new VP Platform Partnerships searches 'Cerner PowerChart integration consulting North Kansas City' and 'Oracle Health Millennium implementation partner KC healthcare.' Neither in the campaign. \$72K annual spend on generic vocabulary completely misses Oracle Health's specific operational vocabulary — the most commercially concentrated health IT B2B search opportunity in the Midwest.
+
+SOLUTION: Clickmasters Kansas City Google Ads delivers Oracle Health/Cerner operational vocabulary, Garmin/Overland Park enterprise precision tech, Children's Mercy/KU Medical HIPAA patient acquisition — at Midwest CPCs below coastal health IT equivalents.`,
+  services: `KANSAS CITY ORACLE HEALTH/CERNER HIPAA GOOGLE ADS:
+For North Kansas City and Greater KC health IT vendors. Cerner PowerChart/Millennium/CommunityWorks vocabulary. Oracle Health FHIR/HL7 interoperability PPC. HIPAA server-side conversion tracking. Oracle Health audience signals.
+
+KANSAS CITY GARMIN/OVERLAND PARK ENTERPRISE GOOGLE ADS:
+For Overland Park technology vendors. Garmin precision navigation/aviation vocabulary. Automotive OEM technology partnership vocabulary. Overland Park enterprise tech community audience.
+
+KANSAS CITY CHILDREN'S MERCY/KU HIPAA PATIENT ACQUISITION:
+For KC healthcare practices and health technology. HIPAA server-side conversion tracking. Children's Mercy paediatric vocabulary. KU School of Medicine academic community audience.`,
   caseStudies: `Case Study 1: North KC Health IT — Oracle Health/Cerner Vocabulary HIPAA PPC
 Client: EHR consulting, North KC (\$7.4M). Challenge: \$72K spend on generic vocabulary. Oracle Health Cerner searches unreached.
 Programme: PowerChart/Millennium/FHIR vocabulary + HIPAA server-side + Oracle Health audience + CRM import

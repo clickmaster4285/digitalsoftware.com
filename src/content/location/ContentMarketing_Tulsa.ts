@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Tulsa
 // URL: /content-marketing-tulsa/
-// Generated: 2026-06-20T04:42:10.989Z
+// Generated: 2026-06-20T05:43:08.161Z
 
 export const ContentMarketing_Tulsa = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ WILLIAMS/ONEOK MIDSTREAM NATURAL GAS CONTENT AUTHORITY: Tulsa's most commerciall
 BOK FINANCIAL FINRA BANKING CONTENT: BOK Financial's \$50+ billion asset regional banking operations create financial technology content marketing opportunities for vendors demonstrating FINRA-compliant commercial banking, wealth management, and mortgage analytics vocabulary.
 
 OIL CAPITAL AUTHENTIC COMMERCIAL VOICE: Tulsa's Art Deco heritage — the most significant concentration of Art Deco architecture in the US after New York and Miami — and the Gathering Place's world-class public park create authentic Tulsa brand content opportunities.`,
-  features: `FEATURES:
-
-Williams/ONEOK Midstream Natural Gas Content Authority:
+  features: `Williams/ONEOK Midstream Natural Gas Content Authority:
 For Tulsa midstream energy technology vendors. Williams Transco operations optimisation methodology. ONEOK NGL fractionation analytics. Natural gas gathering and processing intelligence. Midstream infrastructure technology content. Society of Petroleum Engineers (SPE) and Gas Processors Association (GPA Midstream) editorial community programme. GEO/AEO for Tulsa Williams/ONEOK AI search queries.
 
 BOK Financial FINRA Banking Content:
@@ -37,6 +35,8 @@ For Tulsa banking technology vendors. FINRA Rule 2210-compliant content workflow
 
 Oil Capital Authentic Commercial Voice Content:
 For Tulsa consumer brands. Art Deco heritage content programme. Gathering Place (\$465M riverside park) community content. Brookside/Cherry Street seasonal community content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Tulsa Midstream Technology — Williams/ONEOK Content Authority
 Client: Midstream analytics, Tulsa (\$5.4M ARR). Challenge: Generic energy content. Williams/ONEOK community not finding.
 Programme: Williams Transco/ONEOK NGL content + SPE/GPA Midstream editorial + GEO/AEO

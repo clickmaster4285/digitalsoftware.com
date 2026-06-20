@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: KansasCity
 // URL: /local-seo-services-kansas-city/
-// Generated: 2026-06-20T04:42:13.112Z
+// Generated: 2026-06-20T05:43:12.166Z
 
 export const LocalSEO_KansasCity = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ CHILDREN'S MERCY ACADEMIC MEDICAL CREDENTIAL: Children's Mercy Kansas City — c
 
 LEAWOOD/OVERLAND PARK PROFESSIONAL QUALITY STANDARD: Leawood and Overland Park's professional communities — concentrated around the Sprint/T-Mobile campus, Garmin Olathe, and Kansas City's southern professional corridor — evaluate GBPs with the Midwest Fortune 500 institutional precision characteristic of Johnson County, Kansas's above-average household income demographic.`,
   features: ``,
+  pas: `PROBLEM: The Leawood financial advisory with a growing Oracle Health and Garmin professional client base — 22 reviews at 4.6 stars, generic 'Leawood wealth management' GBP description, no CFA verification link, no Oracle Health/Garmin professional community vocabulary. The Oracle Health Clinical Informaticist who relocated from Boston searches 'fee-only financial adviser Leawood CFA Kansas City tech professional.' GBP: 22 reviews (Boston adviser had 140+), no CFP Board verification, no Oracle Health community signal. She selects the Leawood firm with 110 reviews, CFP Board verification, and 'specialists in financial planning for Oracle Health, Garmin, and KC tech professionals.'
+
+SOLUTION: Clickmasters Kansas City Local SEO provides the Oracle Health proximity, Children's Mercy academic medical, and Leawood/Overland Park professional quality standard GBP programme.`,
+  services: `KANSAS CITY ORACLE HEALTH/CERNER PROXIMITY B2B GBP:
+For North KC health IT vendors and professional services. Oracle Health Cerner operational vocabulary in GBP descriptions. FHIR/HL7 proximity signals. North KC Oracle Health campus photography. HIPAA-aware review management.
+
+KANSAS CITY CHILDREN'S MERCY ACADEMIC MEDICAL GBP:
+For KC paediatric healthcare practices and health technology. Children's Mercy Kansas City programme affiliation. University of Kansas Medical Center/KU SOM faculty attribution. HIPAA-compliant review management.
+
+KANSAS CITY LEAWOOD/OVERLAND PARK PROFESSIONAL QUALITY GBP:
+For Leawood and Overland Park professional services. CFA/CFP with CFP Board verification. Oracle Health/Garmin professional community vocabulary. Johnson County professional quality standard. FINRA-aware review management.`,
   caseStudies: `Case Study 1: Leawood Financial Advisory — Oracle Health/Garmin Professional Quality GBP
 Client: Fee-only RIA, Leawood (\$200M AUM). Challenge: GBP below Johnson County professional standard. Oracle Health/Garmin community not engaging.
 Programme: CFP Board verification + Oracle Health/Garmin community vocabulary + FINRA-aware + Leawood professional photography

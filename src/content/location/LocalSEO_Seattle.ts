@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Seattle
 // URL: /local-seo-services-seattle/
-// Generated: 2026-06-20T04:42:13.448Z
+// Generated: 2026-06-20T05:43:12.655Z
 
 export const LocalSEO_Seattle = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ MHMD HEALTHCARE REVIEW MANAGEMENT: Washington's My Health MY Data Act creates re
 
 PACIFIC NORTHWEST AUTHENTIC GBP STANDARD: Seattle's professional and consumer communities evaluate GBP descriptions through the Pacific Northwest authenticity lens — B Corp certification with specific impact score (not just the badge), named environmental programme partnerships, and the specific Seattle neighbourhood vocabulary (Capitol Hill creative community, Ballard maritime heritage, Fremont tech-creative, Bellevue suburban professional) that distinguishes genuinely locally-rooted businesses from commercial approximations.`,
   features: ``,
+  pas: `PROBLEM: The South Lake Union internal medicine practice with 2 UW-affiliated physicians — 38 reviews, 4.8 stars — whose GBP shows suspicious temporal clustering (24 reviews arriving in a 12-day period), no UW Medicine affiliation badge, and a generic 'quality healthcare for the South Lake Union community' description. The Amazon operations VP evaluating primary care options runs the same analytical process she uses to evaluate product reviews: 24 reviews in 12 days triggers manipulation signal. No UW affiliation. No MHMD-compliant review evidence. She selects the Westlake/South Lake Union practice with 112 reviews showing credible temporal distribution, UW Medicine system affiliation, and a GBP description mentioning Amazon employee preventive care specifically.
+
+SOLUTION: Clickmasters Seattle Local SEO provides the Amazon data-standard quality, MHMD-compliant, Pacific Northwest authentic GBP programme.`,
+  services: `SEATTLE AMAZON DATA-CULTURE GBP MANAGEMENT:
+For South Lake Union, Bellevue, and Redmond professional services businesses. Amazon analytical GBP quality: statistically credible temporal distribution, reviewer profile diversity signals, 100% substantive response rate. Amazon/Microsoft professional community vocabulary in service descriptions. University of Washington system affiliation for healthcare. Sub-year photography programme.
+
+SEATTLE MHMD-COMPLIANT HEALTHCARE GBP:
+For Washington healthcare practices. MHMD-compliant review acquisition: health condition data excluded from review request workflow. HIPAA dual-compliance review management. UW Medicine and Virginia Mason Franciscan system affiliation display. Washington AG pre-audit readiness standard.
+
+SEATTLE PACIFIC NW AUTHENTIC CONSUMER GBP:
+For Capitol Hill, Ballard, Fremont, and Seattle's neighbourhood consumer businesses. B Corp specific-score GBP display. Named Pacific NW environmental programme partnerships. Authentic Seattle neighbourhood vocabulary (not generic 'Pacific Northwest outdoor lifestyle'). Cascades and Puget Sound specific community content.`,
   caseStudies: `Case Study 1: South Lake Union Internal Medicine — Amazon-Standard MHMD GBP Rebuild
 Client: Internal medicine, South Lake Union (2 physicians, UW Medicine affiliated). Challenge: Suspicious review clustering. Non-MHMD review workflow. Amazon community evaluating review quality as manipulated.
 Programme: MHMD-compliant review rebuild + Amazon-standard temporal distribution + UW Medicine affiliation display + Amazon community-precision photography

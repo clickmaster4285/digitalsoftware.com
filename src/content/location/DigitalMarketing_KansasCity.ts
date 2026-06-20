@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: KansasCity
 // URL: /digital-marketing-agency-kansas-city/
-// Generated: 2026-06-20T04:42:11.313Z
+// Generated: 2026-06-20T05:43:08.642Z
 
 export const DigitalMarketing_KansasCity = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "KansasCity",
   citySlug: "kansas-city",
-  slug: "/digital-marketing-agency-kansas-city/",
+  slug: "/digital-marketing-agency-in-kansas-city/",
   
   h1: `Digital Marketing Agency Kansas City — Oracle Health Revenue, Hallmark Brand, Garmin Enterprise, and Heart of America Commercial Growth`,
   primaryKw: `digital marketing agency kansas city`,
@@ -30,6 +30,20 @@ GARMIN/OVERLAND PARK TECHNOLOGY ENTERPRISE DIGITAL MARKETING: Garmin's Olathe, K
 
 KANSAS CITY SPORTS AND EVENTS ECONOMY DIGITAL MARKETING: The Kansas City Chiefs (NFL), Kansas City Royals (MLB), and Sporting KC (MLS) create sports B2B digital marketing opportunities — plus the event hospitality and convention economy at Kansas City Convention Center serving major national events.`,
   features: ``,
+  pas: ``,
+  services: `SEO KC: Oracle Health/Cerner vocabulary. Hallmark/Garmin enterprise. Children's Mercy/KU Medical YMYL. /seo-services-kansas-city/
+
+GOOGLE ADS KC: Oracle Health HIPAA healthcare. Hallmark retail brand. Garmin enterprise tech. Children's Mercy HIPAA patient acquisition.
+
+CONTENT MARKETING KC: Cerner PowerChart/Millennium authority. Hallmark consumer brand operational. Garmin precision tech. Children's Mercy/KU YMYL clinical.
+
+LINKEDIN KC: Oracle Health clinical IT LinkedIn. Hallmark brand executive community. Garmin precision tech. 18th & Vine/Crossroads authentic KC.
+
+EMAIL KC: Oracle Health/Cerner named pipeline HubSpot. Hallmark brand procurement nurture. Children's Mercy/KU HIPAA health system. FINRA-compliant.
+
+LOCAL SEO KC: Oracle Health proximity GBP. Children's Mercy academic medical credential. Leawood/Overland Park professional quality standard.
+
+WEB DESIGN KC: Oracle Health/Cerner HIPAA institutional. Hallmark brand quality. Children's Mercy YMYL HIPAA.`,
   caseStudies: `Case Study 1: North KC Health IT — Oracle Health/Cerner Full Programme
 Client: EHR consulting, North KC (\$7.4M). Challenge: New Oracle Health VP without connections — invisible. Zero Cerner vocabulary.
 Programme: SEO (PowerChart/Millennium) + LinkedIn (Oracle Health community) + email (Cerner named pipeline) + content (FHIR/HL7 authority)

@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Albuquerque
 // URL: /email-marketing-albuquerque/
-// Generated: 2026-06-20T04:42:11.673Z
+// Generated: 2026-06-20T05:43:09.080Z
 
 export const EmailMarketing_Albuquerque = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ SANDIA/LANL ITAR-REVIEWED NATIONAL SECURITY PIPELINE EMAIL: Sandia National Labs
 INTEL RIO RANCHO SEMICONDUCTOR TECHNOLOGY NURTURE: Intel Rio Rancho's procurement cycles run 60-150 days for semiconductor equipment, materials, and technology vendor evaluation. Email nurture with Intel-calibre semiconductor vocabulary: fab process technology updates, advanced semiconductor materials intelligence, and semiconductor manufacturing analytics content.
 
 KIRTLAND AFB MILITARY 5-STAGE NEW MEXICO ONBOARDING: Kirtland AFB — home to AFRL, DTRA, and significant nuclear command elements — creates a military professional email onboarding opportunity for financial advisory, healthcare, legal, and mortgage services. Stage 1 Kirtland welcome → Stage 2 New Mexico financial guide → Stage 3 Albuquerque healthcare navigation → Stage 4 Duke City neighbourhood professional services guide → Stage 5 Sandia/national security and Intel professional community connection.`,
-  features: `FEATURES:
-
-Sandia/LANL ITAR-Reviewed National Security Pipeline HubSpot:
+  features: `Sandia/LANL ITAR-Reviewed National Security Pipeline HubSpot:
 For Albuquerque national security technology and consulting vendors. ITAR vocabulary review for every email before sending. Sandia-published computing/cybersecurity research intelligence email content. Advanced manufacturing/materials science from publicly available DOE/NNSA publications. AFRL research programme updates. HubSpot Sandia/LANL/AFRL named account sequences. 90-180 day national security procurement deal-stage triggers. ITAR review documentation retained.
 
 Intel Rio Rancho Semiconductor Technology Nurture:
@@ -37,6 +35,8 @@ For Rio Rancho semiconductor equipment vendors. Fab process technology update em
 
 Kirtland AFB Military 5-Stage New Mexico Onboarding:
 For Albuquerque financial advisory, healthcare, legal, and mortgage services. Stage 1: Kirtland AFB/Duke City welcome. Stage 2: New Mexico financial planning guide. Stage 3: Albuquerque healthcare navigation — UNM Health, Presbyterian Healthcare, Lovelace Health. Stage 4: Duke City neighbourhood guide — Nob Hill, Corrales, Rio Rancho, Northeast Heights, Four Hills. Stage 5: Sandia/national security and Intel Rio Rancho professional community connection.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Albuquerque National Security Tech — Sandia/LANL ITAR-Reviewed Pipeline
 Client: Technology consulting, Albuquerque (\$5.4M). Challenge: ITAR-controlled vocabulary in existing email creating export control exposure. Sandia/LANL contacts cold.
 Programme: ITAR vocabulary review all existing email + Sandia/LANL publicly releasable content + ITAR-reviewed HubSpot sequences

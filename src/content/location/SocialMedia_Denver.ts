@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Denver
 // URL: /social-media-marketing-denver/
-// Generated: 2026-06-20T04:42:14.091Z
+// Generated: 2026-06-20T05:43:14.466Z
 
 export const SocialMedia_Denver = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ NREL CLEAN ENERGY LINKEDIN AND COMMUNITY: Denver's clean energy community — an
 
 COLORADO IN-MIGRATION PROFESSIONAL SOCIAL: Denver's extraordinary in-migration wave has imported a professional community from California, Texas, and New York whose social media standards reflect their previous cities. The Cherry Creek professional from San Jose evaluates service provider Instagram and LinkedIn content with California digital sophistication.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING DENVER (AEROSPACE AND DEFENCE — ITAR-AWARE):
+For Englewood, Aurora, and Colorado Springs defence aerospace supply chain companies. ITAR-aware content review before every LinkedIn post: publicly releasable defence vocabulary only. AS9100D programme management thought leadership. DCAA compliance insights. Colorado aerospace supply chain community engagement. AIAA, INCOSE, and NDIA LinkedIn community participation. Sales Navigator defence programme community pipeline development.
+
+DENVER NREL CLEAN ENERGY LINKEDIN AND SOCIAL:
+For the solar, wind, and clean technology companies in Denver's NREL-adjacent ecosystem. NREL Technical Report-cited content. DOE programme vocabulary. Clean energy community LinkedIn engagement. CleanTechnica and PV Magazine social sharing integration. Colorado Energy Office community participation. The technically precise clean energy social programme that earns genuine NREL community credibility.
+
+DENVER IN-MIGRATION AUTHENTIC CONSUMER AND PROFESSIONAL SOCIAL:
+For Denver healthcare practices, financial advisory, and consumer brands serving Colorado's in-migration community. Authentic Colorado content: specific Cherry Creek neighbourhood character, specific Colorado outdoor culture (not generic mountain imagery), genuine Colorado community integration evidence. Instagram and LinkedIn for in-migration professional community establishment.`,
   caseStudies: `Case Study 1: Englewood Aerospace Company — ITAR-Aware LinkedIn Authority
 Client: Precision aerospace machining, Englewood CO (\$12M, AS9100D/ITAR). Challenge: Inactive LinkedIn page. Ball/Lockheed programme managers not seeing AS9100D expertise.
 Programme: VP Engineering LinkedIn programme + ITAR-aware AS9100D content + AIAA community + Sales Navigator defence pipeline

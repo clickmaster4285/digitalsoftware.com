@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Atlanta
 // URL: /social-media-marketing-atlanta/
-// Generated: 2026-06-20T04:42:13.995Z
+// Generated: 2026-06-20T05:43:14.213Z
 
 export const SocialMedia_Atlanta = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ TRANSACTION ALLEY FINTECH PROFESSIONAL LINKEDIN: Atlanta's NCR Voyix, Global Pay
 
 AUTHENTIC GEORGIA CONSUMER BRAND SOCIAL: Atlanta's Inman Park creative community, Virginia-Highland independent character, BeltLine arts corridor, and Ponce City Market commercial community create consumer brand Instagram opportunities for businesses demonstrating genuine Atlanta cultural identity — the specific neighbourhood vocabulary that distinguishes locally-rooted Atlanta brands from commercial approximations.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING ATLANTA (FORTUNE 500 OPERATIONAL):
+For Midtown, Buckhead, and Atlanta companies competing for Delta, Coca-Cola, Home Depot, NCR, and UPS procurement. Fortune 500-specific content: Delta IDG/IROPS/hub-and-spoke operational specifics, Coca-Cola Freestyle analytics/global supply chain, Home Depot PRO contractor segment/store operations. Transaction Alley PCI-DSS and payment vocabulary for NCR/Global Payments. FINRA-compliant for Buckhead financial services. Sales Navigator Fortune 500 Atlanta pipeline.
+
+ATLANTA TRANSACTION ALLEY FINTECH PROFESSIONAL LINKEDIN:
+For NCR Voyix, Global Payments, and Fiserv ecosystem vendors in Sandy Springs and Dunwoody. PCI-DSS compliance vocabulary at Level 1 merchant precision. Tokenisation and EMV implementation technical specifics. Interchange optimisation content. FinTech Atlanta community engagement. American Banker editorial integration.
+
+ATLANTA AUTHENTIC GEORGIA CONSUMER BRAND SOCIAL:
+For Inman Park, Virginia-Highland, Ponce City Market, and BeltLine-adjacent consumer brands. Authentic Atlanta neighbourhood vocabulary: Inman Park bungalow community, Virginia-Highland walkable character, BeltLine arts corridor culture, Ponce City Market urban mixed-use community. Georgia Grown and Southern food culture content.`,
   caseStudies: `Case Study 1: Midtown Management Consulting — Delta/Coca-Cola Fortune 500 LinkedIn
 Client: Management consulting, Midtown (\$9M ARR). Challenge: New Delta CDO and Coca-Cola CPO not engaging generic thought leadership LinkedIn.
 Programme: Delta IDG/hub-and-spoke content + Coca-Cola Freestyle/supply chain + Home Depot PRO vocabulary + FINRA-aware + Sales Navigator Fortune 500

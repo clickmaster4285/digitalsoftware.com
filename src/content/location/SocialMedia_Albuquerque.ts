@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Albuquerque
 // URL: /social-media-marketing-albuquerque/
-// Generated: 2026-06-20T04:42:13.986Z
+// Generated: 2026-06-20T05:43:14.197Z
 
 export const SocialMedia_Albuquerque = {
   service: "SocialMedia",
@@ -27,9 +27,7 @@ SANDIA/LANL ITAR-BOUNDED NATIONAL SECURITY LINKEDIN: Sandia National Labs and Lo
 INTEL RIO RANCHO SEMICONDUCTOR ENGINEERING COMMUNITY: Intel's Rio Rancho campus creates a semiconductor engineering LinkedIn community evaluating technology vendor content against the operational precision of a global semiconductor leader. Semiconductor equipment and materials technology vendors need LinkedIn demonstrating Intel Rio Rancho-calibre semiconductor vocabulary: fab process technology, advanced materials characterisation, and semiconductor manufacturing intelligence.
 
 AUTHENTIC DUKE CITY CONSUMER BRAND SOCIAL: Albuquerque's Nob Hill neighbourhood — the most vibrant independent retail and arts community in New Mexico — Old Town's historic adobe commercial district, and Corrales' rural agricultural community create consumer brand social opportunities for businesses communicating genuine Albuquerque identity. October's Albuquerque International Balloon Fiesta — the world's largest hot air balloon festival, drawing 800,000+ annual visitors — creates an extraordinary seasonal social engagement window unique in the T3 series.`,
-  features: `FEATURES:
-
-Sandia/LANL ITAR-Bounded National Security LinkedIn:
+  features: `Sandia/LANL ITAR-Bounded National Security LinkedIn:
 For Albuquerque national security technology vendors. ITAR vocabulary review for every LinkedIn content piece. Sandia/LANL publicly releasable computing/cybersecurity/manufacturing community vocabulary. DOE/NNSA publicly available research community intelligence. Kirtland AFB AFRL publicly releasable community. National security research professional Sales Navigator.
 
 Intel Rio Rancho Semiconductor Engineering LinkedIn:
@@ -37,6 +35,8 @@ For Rio Rancho semiconductor equipment vendors. Intel Rio Rancho fab process tec
 
 Authentic Duke City Brand Social:
 For Nob Hill, Old Town, and Corrales consumer brands. Nob Hill Central Avenue independent arts and food community vocabulary. Old Town historic adobe commercial district character. Corrales agricultural and pastoral community identity. October Balloon Fiesta seasonal social calendar awareness — world's largest balloon festival engagement window.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Albuquerque National Security Tech — Sandia/LANL ITAR-Bounded LinkedIn
 Client: Technology consulting, Albuquerque (\$5.4M). Challenge: ITAR-controlled vocabulary in existing LinkedIn creating export control exposure. Sandia community not engaging.
 Programme: ITAR vocabulary review all LinkedIn content + Sandia/LANL publicly releasable vocabulary + national security Sales Navigator

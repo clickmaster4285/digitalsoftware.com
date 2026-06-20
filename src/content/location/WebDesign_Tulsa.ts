@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Tulsa
 // URL: /web-design-agency-tulsa/
-// Generated: 2026-06-20T04:42:14.992Z
+// Generated: 2026-06-20T05:43:16.112Z
 
 export const WebDesign_Tulsa = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ WILLIAMS/ONEOK MIDSTREAM NATURAL GAS INSTITUTIONAL VENDOR CREDIBILITY: Williams 
 BOK FINANCIAL FINRA-COMPLIANT BANKING ENTERPRISE QUALITY: BOK Financial's \$50+ billion asset operations create banking technology vendor website requirements: FINRA Rule 2210-compliant throughout, commercial banking technology vocabulary in service pages, wealth management platform operational specifics, and the FINRA-compliant banking enterprise visual quality that BOK Financial's Tulsa headquarters evaluates.
 
 AUTHENTIC TULSA CONSUMER BRAND DESIGN: Tulsa's Blue Dome entertainment district — named for its iconic Art Deco Gulf Oil building — Brookside's independent food and retail community along Peoria Avenue, and the Gathering Place's world-class riverside park create consumer brand opportunities for businesses communicating genuine Oil Capital identity beyond generic Oklahoma commercial design.`,
-  features: `FEATURES:
-
-Williams/ONEOK Midstream Institutional Credibility Architecture:
+  features: `Williams/ONEOK Midstream Institutional Credibility Architecture:
 For Tulsa midstream energy technology companies. Williams Transco pipeline operations service descriptions. ONEOK natural gas gathering/NGL service pages. Midstream infrastructure enterprise visual quality.
 
 BOK Financial FINRA Banking Enterprise Quality Architecture:
@@ -37,6 +35,8 @@ For Tulsa banking technology vendors. FINRA Rule 2210-compliant. Commercial bank
 
 Authentic Tulsa Consumer Brand Architecture:
 For Blue Dome, Brookside, and Cherry Street consumer brands. Blue Dome Art Deco architectural vocabulary. Brookside Peoria Avenue independent community character. Gathering Place riverside park identity. Cherry Street arts and dining neighbourhood. Authentic Tulsa Oil Capital identity.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Tulsa Midstream Technology — Williams/ONEOK Institutional Credibility Redesign
 Client: Midstream analytics, Tulsa (\$5.4M ARR). Challenge: Website without midstream institutional credibility. Williams VP dismissal.
 Programme: Williams Transco/ONEOK NGL vocabulary + midstream enterprise visual + CWV (5.0s to 1.4s)

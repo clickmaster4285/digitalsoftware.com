@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Denver
 // URL: /web-design-agency-denver/
-// Generated: 2026-06-20T04:42:14.625Z
+// Generated: 2026-06-20T05:43:15.329Z
 
 export const WebDesign_Denver = {
   service: "WebDesign",
@@ -37,6 +37,15 @@ For Denver's solar technology, wind energy, and clean technology companies. NREL
 
 California In-Migration Professional Quality Architecture:
 For Cherry Creek financial advisory, Denver healthcare, and professional services businesses. Bay Area-calibre credential display: CFA/CFP/NAPFA charter with verification links for financial advisory. MD with academic medical system affiliations for healthcare (University of Colorado Health, UCHealth system). The professional services website that earns trust from the relocated Mountain View or Palo Alto professional who evaluates Denver service providers against Bay Area quality standards.`,
+  pas: ``,
+  services: `DENVER AEROSPACE WEBSITE DESIGN (ITAR-BOUNDED):
+For defence aerospace supply chain companies. ITAR-bounded credential display (AS9100D/DCAA/cleared facility). CAGE/DUNS verification links. Defence capability vocabulary in publicly releasable terms. CWV sub-2.0s LCP. WCAG 2.1 AA.
+
+DENVER NREL CLEAN ENERGY WEBSITE DESIGN:
+For NREL-adjacent clean energy companies. NREL Technical Report collaboration with DOI links. DOE EERE programme display. LEED/ENERGY STAR with verification. Colorado Energy Office partnership display. Evidence-based visual design.
+
+DENVER CA IN-MIGRATION PROFESSIONAL WEBSITE DESIGN:
+For Cherry Creek financial advisory, Denver healthcare, and professional services. Bay Area credential standard. CFA/CFP/NAPFA with verification. UCHealth/UofC Health system affiliations. FINRA/HIPAA compliance. Colorado in-migration professional vocabulary.`,
   caseStudies: `Case Study 1: Englewood Aerospace Manufacturer — ITAR-Bounded Credential Redesign
 Client: Precision aerospace machining, Englewood (\$12M, AS9100D/DCAA/ITAR). Challenge: Website without AS9100D/DCAA credential display. Ball Aerospace procurement dismissing during digital due diligence.
 Programme: ITAR-bounded AS9100D/DCAA display + CAGE/DUNS verification links + cleared facility communication + CWV (5.2s to 1.4s)

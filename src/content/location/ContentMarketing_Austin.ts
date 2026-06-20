@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Austin
 // URL: /content-marketing-austin/
-// Generated: 2026-06-20T04:42:10.563Z
+// Generated: 2026-06-20T05:43:05.893Z
 
 export const ContentMarketing_Austin = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ CALIFORNIA IN-MIGRATION PROFESSIONAL CONTENT: Austin's 25%+ population growth fr
 TEXAS TECH CAPITAL B2B CONTENT: Austin's Series A and B technology company ecosystem — anchored by the Tesla Gigafactory, Apple campus, and Oracle headquarters — creates specific B2B content marketing opportunities for the technology vendors, professional services companies, and enterprise software businesses competing for procurement from Austin's rapidly expanding tech corporate community. Content demonstrating specific knowledge of Texas tech startup commercial culture, Series A demand signal vocabulary, and the operational language of Austin's venture-backed ecosystem earns organic authority in searches that Austin's most commercially valuable B2B audience makes.
 
 AUTHENTIC AUSTIN BRAND CONTENT: Austin's creative community — South Congress's independent brand culture, East Austin's artist community, Barton Springs's outdoor lifestyle — creates specific consumer content marketing opportunities for brands that communicate genuine Austin character rather than generic Texas lifestyle content.`,
-  features: `FEATURES:
-
-California In-Migration Professional Content:
+  features: `California In-Migration Professional Content:
 Content calibrated to Austin's California in-migration professional community's specific transition needs. California vs Texas state income tax: the 13.3% vs 0% comparison for high-income technology professionals. RSU and ESPP equity compensation taxation in the year of California residency change. California domicile change legal requirements for Austin in-migration professionals. Austin healthcare system navigation for professionals accustomed to Bay Area health plan options. The in-migration professional content library that earns above-average organic engagement from Austin's highest-income demographic.
 
 Texas Tech Capital B2B Authority Content:
@@ -37,6 +35,15 @@ For technology vendors, professional services companies, and enterprise software
 
 Authentic Austin Brand Content:
 For Austin's South Congress and East Austin consumer brands. South Congress Avenue independent spirit content. East Austin creative community content. Austin outdoor culture with specific local references. The authentic brand content that earns genuine community trust from Austin's rapidly growing creative-community audience.`,
+  pas: ``,
+  services: `AUSTIN IN-MIGRATION PROFESSIONAL CONTENT:
+For financial advisory, healthcare, and professional services businesses serving CA/NY/IL in-migration community. CA-to-TX state income tax series (0% vs 13.3%). RSU/ESPP equity transition content. Domicile change legal content. Austin healthcare navigation. FINRA-compliant financial content.
+
+AUSTIN TECH CAPITAL B2B CONTENT:
+For technology vendors and professional services in Austin's venture-backed ecosystem. Series A demand signal vocabulary. Tesla/Apple operational content. Capital Factory and Austin tech community content. GEO/AEO for Austin B2B technology searches.
+
+AUSTIN AUTHENTIC BRAND CONTENT:
+For South Congress, East Austin, and authentic Austin consumer brands. South Congress independence content. East Austin creative community. Barton Springs/Greenbelt outdoor culture. Authentic Austin local character.`,
   caseStudies: `Case Study 1: South Congress Financial Advisory — CA In-Migration Content Programme
 Client: Fee-only RIA, South Congress (\$280M AUM). Challenge: CA in-migration professionals not finding Austin-specific RSU/tax content.
 Programme: CA-to-TX income tax series + RSU equity transition + FINRA-compliant + domicile change legal

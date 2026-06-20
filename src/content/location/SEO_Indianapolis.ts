@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Indianapolis
 // URL: /seo-services-indianapolis/
-// Generated: 2026-06-20T04:42:13.650Z
+// Generated: 2026-06-20T05:43:13.111Z
 
 export const SEO_Indianapolis = {
   service: "SEO",
@@ -30,6 +30,17 @@ INDIANA UNIVERSITY HEALTH ACADEMIC MEDICAL YMYL: Indiana University Health — c
 
 INDIANAPOLIS 500/MOTORSPORTS B2B SEO: The Indianapolis Motor Speedway (Indy 500, NASCAR Brickyard, F1 US GP), Penske Entertainment, and IndyCar Series headquarters create a motorsports B2B commercial community — smaller than Charlotte but commercially distinct.`,
   features: ``,
+  pas: `PROBLEM: The Indianapolis pharmaceutical consulting company with genuine Eli Lilly relationships. Zero FDA pharmaceutical operational vocabulary in website or content. Eli Lilly's new VP of Global Manufacturing Operations from Pfizer Ireland searches 'GMP API manufacturing consultant Indianapolis' and 'CMC regulatory consulting Lilly vendor Indiana.' The company appears for neither search. The most commercially significant pharmaceutical B2B vocabulary in the Midwest — Eli Lilly's Indianapolis HQ procurement vocabulary — goes uncaptured.
+
+SOLUTION: Clickmasters Indianapolis SEO delivers Eli Lilly pharmaceutical vocabulary authority, Cummins/Simon Property Fortune 500 organic, IU Health YMYL academic medical content, and GEO/AEO first-mover architecture.`,
+  services: `INDIANAPOLIS ELI LILLY PHARMACEUTICAL SEO:
+For Indianapolis pharmaceutical consulting and services companies. FDA vocabulary: CMC/GMP/API manufacturing, IND/NDA submission, Phase I-III clinical, Lilly operational vocabulary. Eli Lilly/Corteva community content. FINRA-aware for pharma financial services.
+
+INDIANAPOLIS CUMMINS/SIMON PROPERTY FORTUNE 500 SEO:
+For Indianapolis consulting and technology vendors. Cummins diesel/power solutions operational vocabulary. Simon Property REIT/retail management vocabulary. Allison Transmission/Salesforce Indianapolis enterprise vocabulary.
+
+INDIANAPOLIS IU HEALTH ACADEMIC MEDICAL YMYL SEO:
+For Indianapolis healthcare practices and health technology. IU Health/IU School of Medicine academic affiliation content. Eskenazi Health/Community Health Network academic content. HIPAA-compliant YMYL content.`,
   caseStudies: `Case Study 1: Indianapolis Pharma Consulting — Eli Lilly GMP/API SEO Authority
 Client: GMP manufacturing consulting, Indianapolis (\$6.8M). Challenge: Zero FDA GMP/API vocabulary. New Lilly VP Manufacturing not finding through organic.
 Programme: GMP/API/CMC Lilly vocabulary + IND/NDA content + HIPAA analytics + GEO/AEO

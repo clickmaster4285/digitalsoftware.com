@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Columbia
 // URL: /seo-services-columbia-sc/
-// Generated: 2026-06-20T04:42:13.590Z
+// Generated: 2026-06-20T05:43:13.018Z
 
 export const SEO_Columbia = {
   service: "SEO",
@@ -28,6 +28,17 @@ DOMINION ENERGY SOUTH CAROLINA UTILITY B2B SEO: Dominion Energy South Carolina's
 
 PRISMA HEALTH MIDLANDS/MUSC HEALTH YMYL SEO: Prisma Health Midlands — the Midlands region's largest health system — and MUSC Health (Medical University of South Carolina) create the YMYL academic medical standard for Columbia. South Carolina SCDPA (effective January 1, 2025) applies to all analytics channels.`,
   features: ``,
+  pas: `PROBLEM: The Columbia financial advisory with a Fort Jackson officer and Dominion Energy executive client base — 20 reviews, generic 'Columbia wealth management' GBP. A Fort Jackson colonel transitioning after 20 years searches 'fee-only financial adviser Columbia SC CFA Fort Jackson military transition.' Generic GBP. He selects the firm with 108 reviews, CFA, 'financial planning for Fort Jackson military transitions, Dominion Energy, and Columbia SC government professionals.'
+
+SOLUTION: Clickmasters Columbia SC SEO delivers Fort Jackson military community, Dominion Energy utility, Prisma Health YMYL, SCDPA-native, and GEO/AEO first-mover.`,
+  services: `COLUMBIA FORT JACKSON MILITARY COMMUNITY SEO:
+Fort Jackson BCT graduation/PCS transition vocabulary. US Army military professional community. FINRA-aware military financial planning. SCDPA-native analytics.
+
+COLUMBIA DOMINION ENERGY SC UTILITY SEO:
+Dominion Energy SC grid/utility vocabulary. South Carolina utility engineering community. SCDPA-native analytics.
+
+COLUMBIA PRISMA HEALTH/MUSC YMYL SEO:
+Prisma Health Midlands academic vocabulary. MUSC Health vocabulary. HIPAA/SCDPA-native healthcare.`,
   caseStudies: `Case Study 1: Columbia Financial Advisory — Fort Jackson Military Transition SEO
 Client: Fee-only RIA, Columbia (\$140M AUM). Challenge: Zero Fort Jackson military transition vocabulary. Colonel transitions not finding.
 Programme: Fort Jackson BCT/PCS vocabulary + military transition financial planning + FINRA-aware + SCDPA-native + GEO/AEO

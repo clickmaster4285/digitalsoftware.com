@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Portland
 // URL: /email-marketing-portland/
-// Generated: 2026-06-20T04:42:12.066Z
+// Generated: 2026-06-20T05:43:10.035Z
 
 export const EmailMarketing_Portland = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ AUTHENTIC-VALUES EMAIL STANDARD: Portland's commercial culture applies the same 
 NIKE AND ADIDAS ECOSYSTEM EMAIL: Nike's Beaverton campus and Adidas North America's Portland headquarters create a B2B procurement culture that expects vendor email to demonstrate genuine brand values alignment. The Nike procurement manager who evaluates sustainable material suppliers receives dozens of 'sustainable' vendor emails weekly. The vendor whose email provides specific bluesign and HIGG Index metrics, specific environmental performance data, and the authentic athletic brand expertise that Nike's procurement culture values earns the commercial consideration that generic email cannot.
 
 INTEL HILLSBORO ENGINEERING EMAIL: Intel's Hillsboro semiconductor engineering professional community evaluates B2B email with analytical precision. Email content must be technically accurate, data-supported, and respectful of the engineering professional's time. Generic B2B marketing email from technology vendors earns immediate disengagement from Portland's Intel-adjacent engineering community.`,
-  features: `FEATURES:
-
-Authentic-Values B2B Nurture:
+  features: `Authentic-Values B2B Nurture:
 Portland B2B email built to the Pacific Northwest's evidence standard. Specific certification updates over generic sustainability claims. Actual performance data over aspirational commitments. Honest timeline and process communications that respect the Portland professional's above-average BS detection. The email programme that earns genuine trust from Portland's commercial community rather than the performative trust that generic marketing email seeks.
 
 Nike/Adidas Ecosystem Pipeline Nurture:
@@ -37,6 +35,15 @@ HubSpot-integrated pipeline nurture for Beaverton and Portland vendors competing
 
 Intel Hillsboro Technical B2B Email:
 For the technology vendors, professional services, and B2B companies serving Intel's Hillsboro semiconductor professional community. Engineering-precision email: technically accurate content, data-supported claims, respectful of reader's time. SEMI standards and semiconductor technical vocabulary where applicable.`,
+  pas: ``,
+  services: `PORTLAND NIKE/ADIDAS ECOSYSTEM VENDOR EMAIL (HUBSPOT):
+Pipeline nurture for sustainable material, performance fabric, and athletic brand service vendors competing for Nike and Adidas procurement. Brand values-calibrated content: bluesign/OEKO-TEX/HIGG metrics, environmental performance, sustainable supply chain transparency. Named account sequences for specific Nike and Adidas procurement team development. HIGG Index benchmark communications.
+
+PORTLAND INTEL HILLSBORO B2B EMAIL:
+For technology vendors, precision services, and professional services companies serving Intel's Hillsboro semiconductor professional community. SEMI standards vocabulary. Engineering-precision content format. Semiconductor technical vocabulary. Intel/AMD/NVIDIA ecosystem B2B nurture.
+
+PACIFIC NORTHWEST CONSUMER BRAND EMAIL (KLAVIYO):
+For Portland's outdoor apparel, sustainable consumer, and Pacific Northwest lifestyle DTC brands. Authentic-values Klaviyo: B Corp certification content with specific data, genuine outdoor culture content (named Oregon trails, Pacific NW community events), honest sustainability evidence. 10-flow automation at the editorial quality Portland's design-literate consumer audience evaluates.`,
   caseStudies: `Case Study 1: Beaverton Sustainable Material Supplier — Nike Ecosystem Vendor Pipeline
 Client: Performance sustainable fabric company, Beaverton (\$9.4M). Challenge: Nike and Adidas procurement contacts going cold. Generic email nurture not demonstrating brand values alignment.
 Programme: Nike ecosystem 6-stage nurture + bluesign/OEKO-TEX metric updates + HIGG Index benchmark communications + authentic evidence standard

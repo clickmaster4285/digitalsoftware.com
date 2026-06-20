@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: DesMoines
 // URL: /email-marketing-des-moines/
-// Generated: 2026-06-20T04:42:11.874Z
+// Generated: 2026-06-20T05:43:09.280Z
 
 export const EmailMarketing_DesMoines = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ PRINCIPAL FINANCIAL FINRA RETIREMENT/INSURANCE PIPELINE EMAIL: Principal Financi
 EMC/FARM BUREAU IOWA INSURANCE TECHNOLOGY NURTURE: EMC Insurance and Farm Bureau Financial Services procurement cycles run 90-180 days. FINRA-aware email with EMC commercial lines operational intelligence and Farm Bureau agricultural insurance content.
 
 IOWA STATE FAIR SEASONAL COMMERCIAL EMAIL: Iowa State Fair (August, Des Moines) creates the most commercially significant consumer email engagement window in Iowa. Consumer brands, retail, and hospitality businesses whose email timing anticipates Iowa State Fair earn 3-4x above-average engagement from Iowa's most commercially active annual consumer event. Drake Relays (April, Drake University) creates Iowa's highest spring sports community email engagement window.`,
-  features: `FEATURES:
-
-Principal Financial FINRA Retirement/Insurance Pipeline HubSpot:
+  features: `Principal Financial FINRA Retirement/Insurance Pipeline HubSpot:
 For Des Moines insurance and investment technology vendors. FINRA-compliant retirement plan administration intelligence email. Group insurance benefits analytics updates. Principal Bank operational content. LIMRA/LOMA conference season email timing. HubSpot Principal/EMC/Farm Bureau named sequences. 90-180 day Iowa insurance procurement triggers. Iowa CDPA-compliant data handling.
 
 EMC/Farm Bureau Iowa Insurance Technology Nurture:
@@ -37,6 +35,8 @@ For Des Moines insurance technology vendors. EMC commercial lines operational in
 
 Iowa State Fair Seasonal Commercial Email:
 For Des Moines consumer brands. Pre-State Fair (late July): Iowa community preview content. State Fair week (August): peak Iowa consumer engagement activation. Post-State Fair (late August): community follow-through content. Drake Relays (April): Iowa athletics community content. Iowa CDPA-compliant.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Des Moines Financial Technology — Principal Financial FINRA Pipeline
 Client: Investment analytics, Des Moines (\$6.4M ARR). Challenge: Principal/EMC contacts cold. Generic insurance newsletter. Non-FINRA email.
 Programme: Principal FINRA retirement/group insurance email + LIMRA/LOMA seasonal timing + named sequences + Iowa CDPA-compliant

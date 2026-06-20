@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Minneapolis
 // URL: /content-marketing-minneapolis/
-// Generated: 2026-06-20T04:42:10.826Z
+// Generated: 2026-06-20T05:43:06.723Z
 
 export const ContentMarketing_Minneapolis = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ FDA-AWARE MEDICAL ALLEY CONTENT: Minneapolis's Medical Alley companies — Medtr
 KLAS/HIMSS CITATION ARCHITECTURE: KLAS Research is the most authoritative source of health IT vendor performance data in the US. A Minneapolis health IT company whose content cites specific KLAS ratings, HIMSS Analytics benchmarks, and peer-reviewed clinical informatics research communicates a fundamentally different quality of vendor authority than a company citing generic industry statistics.
 
 FORTUNE 500 MINNESOTA VENDOR CONTENT: Target, UnitedHealth Group, Best Buy, 3M, and General Mills — Minneapolis's Fortune 500 anchors — set a commercial content standard that their vendor ecosystem must meet. The B2B company competing for Target's supply chain consideration needs content demonstrating specific supply chain expertise, not generic retail industry knowledge.`,
-  features: `FEATURES:
-
-FDA-Aware Medical Device Content:
+  features: `FDA-Aware Medical Device Content:
 Clinical evidence content reviewed against FDA promotional guidelines before publication. KLAS Research rating citations with specific scores and dates. Peer-reviewed journal citations (NEJM, JAMA, BMJ for clinical evidence). HIMSS Analytics benchmark data integration. MD and RN author attribution for clinical content. The content that earns genuine credibility from health system procurement teams that evaluate FDA regulatory compliance as part of vendor due diligence.
 
 KLAS/HIMSS Citation Architecture:
@@ -37,6 +35,15 @@ Content structured to earn authority from the health IT professional community: 
 
 Fortune 500 Minnesota Vendor Content:
 Target supply chain optimisation and retail operations thought leadership. UnitedHealth Group and Optum clinical innovation content. 3M advanced materials and manufacturing precision content. General Mills food science and supply chain content. The category-specific Fortune 500 vendor content that earns evaluation from Minneapolis's corporate procurement community.`,
+  pas: ``,
+  services: `MEDICAL ALLEY HEALTH IT CONTENT (FDA-AWARE):
+For Plymouth, Eden Prairie, and Minneapolis health technology companies. KLAS citation content. Peer-reviewed journal reference architecture. HIMSS editorial placement. MD+DI and HealthcareITNews editorial programme. FDA-aware content review. American Journal of Managed Care and NEJM Catalyst citation architecture.
+
+MINNEAPOLIS MEDICAL DEVICE CONTENT (FDA-AWARE):
+For Medical Alley cardiac, orthopaedic, diabetes, and surgical device companies. Clinical study content at FDA promotional compliance standard. Device-specific FDA 510(k)/PMA clearance communication content. AAMI and MDDI editorial placement. Peer-reviewed clinical evidence citation at the standard that IDN clinical technology committees evaluate.
+
+FORTUNE 500 MINNESOTA VENDOR B2B CONTENT:
+For Target, UnitedHealth, Best Buy, 3M, and Cargill ecosystem vendors. Category-specific thought leadership (retail, health insurance, consumer electronics, manufacturing, agriculture). Minneapolis/St. Paul Business Journal editorial programme. Twin Cities Business editorial placement. The B2B content that earns Fortune 500 vendor consideration.`,
   caseStudies: `Case Study 1: Plymouth Medical Device — KLAS/HIMSS Authority Programme, 16 IDN Evaluations
 Client: Clinical workflow device, Plymouth MN (\$18M, FDA cleared). Challenge: Zero content. IDN procurement managers not finding company during vendor research.
 Programme: KLAS citation content + HIMSS editorial + MD-authored clinical content + MD+DI placement

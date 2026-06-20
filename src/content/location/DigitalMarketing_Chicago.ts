@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Chicago
 // URL: /digital-marketing-agency-chicago/
-// Generated: 2026-06-20T04:42:11.174Z
+// Generated: 2026-06-20T05:43:08.454Z
 
 export const DigitalMarketing_Chicago = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Chicago",
   citySlug: "chicago",
-  slug: "/digital-marketing-agency-chicago/",
+  slug: "/digital-marketing-agency-in-chicago/",
   
   h1: `Digital Marketing Agency Chicago — Fortune 500 Revenue Growth for America's Midwest Commercial Capital`,
   primaryKw: `digital marketing agency chicago`,
@@ -26,6 +26,20 @@ FORTUNE 500 CHICAGO COMMERCIAL CULTURE: Chicago's Fortune 500 corporate communit
 
 COMPLIANCE-INTENSIVE DIGITAL ENVIRONMENT: Chicago's digital marketing environment is the second most compliance-intensive of any US city outside New York. FINRA Rule 2210 for the CME Group and Northern Trust financial ecosystem. HIPAA for Northwestern Medicine and Rush University Medical Center-adjacent healthcare. Illinois Biometric Information Privacy Act (BIPA) for companies operating digital marketing programmes collecting biometric data in Illinois. Illinois Attorney General oversight of consumer data practices. The Chicago digital marketing agency that doesn't navigate these compliance frameworks creates regulatory exposure with every campaign.`,
   features: ``,
+  pas: ``,
+  services: `SEO CHICAGO: Fortune 500 procurement vocabulary authority. Manufacturing AS9100/IATF technical content. FINRA-compliant financial. HIPAA healthcare. /seo-services-chicago/
+
+GOOGLE ADS CHICAGO: Fortune 500 procurement targeting with CRM attribution. Manufacturing B2B enterprise PPC. FINRA-compliant financial advertising. HIPAA healthcare patient acquisition.
+
+CONTENT MARKETING CHICAGO: Caterpillar/Boeing/Abbott-calibrated thought leadership. FINRA-compliant investment commentary. Manufacturing technical authority. Crain's/ABC editorial.
+
+LINKEDIN CHICAGO: Fortune 500 executive thought leadership. Manufacturing supplier community. FINRA-compliant investment social. /social-media-marketing-chicago/
+
+EMAIL CHICAGO: Fortune 500 pipeline nurture (90-180 day cycle). FINRA-compliant investment email. HIPAA patient retention. /email-marketing-chicago/
+
+LOCAL SEO CHICAGO: Fortune 500 proximity Local Pack. Chicagoland neighbourhood. FINRA/HIPAA-compliant review management. /local-seo-services-chicago/
+
+WEB DESIGN CHICAGO: Fortune 500 vendor credibility. Manufacturing ISO display. FINRA/HIPAA institutional. /web-design-agency-chicago/`,
   caseStudies: `Case Study 1: West Loop Management Consulting — Fortune 500 Multi-Channel Programme
 Client: Management consulting, West Loop (\$12M). Challenge: 3 new Fortune 500 executives without existing connections Googling — company invisible. 13 relationships at tenure risk.
 Programme: SEO (Fortune 500 vocabulary) + Google Ads (Caterpillar/Boeing/Abbott) + LinkedIn (executive thought leadership) + email (90-day nurture)

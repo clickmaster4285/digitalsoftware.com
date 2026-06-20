@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Denver
 // URL: /email-marketing-denver/
-// Generated: 2026-06-20T04:42:11.863Z
+// Generated: 2026-06-20T05:43:09.268Z
 
 export const EmailMarketing_Denver = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ ITAR-AWARE AEROSPACE EMAIL NURTURE: Denver's Lockheed Martin, Ball Aerospace, an
 NREL CLEAN ENERGY VENDOR EMAIL: Denver's clean energy community — anchored by the National Renewable Energy Laboratory in Golden — evaluates vendor email communications through a technical precision lens. Generic 'clean energy industry insights' newsletters earn unsubscribes from the NREL-adjacent community. Email content that cites specific NREL Technical Reports (with DOI references), references DOE programme outcomes accurately, and demonstrates genuine understanding of Colorado's clean energy market dynamics earns above-average engagement from Denver's most technically sophisticated commercial community.
 
 CA IN-MIGRATION PROFESSIONAL ONBOARDING: Denver's 20%+ population growth includes a significant California in-migration wave whose recently-arrived professionals are actively seeking service relationships. A 5-stage California-to-Colorado professional onboarding sequence specifically addressing state income tax changes, Colorado healthcare provider navigation, and Denver neighbourhood integration earns above-average engagement from Colorado's highest-income incoming professional community.`,
-  features: `FEATURES:
-
-ITAR-Aware Aerospace Pipeline Email (HubSpot):
+  features: `ITAR-Aware Aerospace Pipeline Email (HubSpot):
 For Englewood, Aurora, and Colorado Springs defence aerospace supply chain companies. ITAR-aware email content review: publicly releasable defence vocabulary only — AS9100D quality management insights, DCAA compliance updates, AIAA technical community content. HubSpot deal-stage triggers calibrated to 120-240 day defence procurement cycles. Named account sequences for Lockheed Martin, Ball Aerospace, and ULA programme manager contacts. The ITAR-compliant email programme that maintains defence pipeline relationships through Colorado's extended aerospace evaluation cycles.
 
 NREL-Cited Clean Energy Nurture Email:
@@ -37,6 +35,15 @@ For Denver's solar technology, wind energy, and clean technology companies. NREL
 
 California In-Migration Professional Onboarding:
 For Cherry Creek financial advisory, Denver healthcare, and professional services businesses serving Colorado's CA/TX in-migration wave. 5-stage CO onboarding sequence: CA vs CO state income tax briefing, Colorado HSA vs CA health plan comparison, Denver neighbourhood financial planning guide, Colorado estate planning considerations. FINRA-compliant financial email throughout.`,
+  pas: ``,
+  services: `DENVER AEROSPACE EMAIL (ITAR-AWARE HUBSPOT):
+For defence aerospace supply chain companies. ITAR-aware content review for every email. AS9100D/DCAA/AIAA vocabulary. HubSpot Lockheed/Ball named account sequences. 120-240 day defence procurement cycle deal-stage triggers.
+
+DENVER NREL CLEAN ENERGY EMAIL:
+For NREL-adjacent clean energy companies. NREL Technical Report DOI citations in email content. DOE EERE programme vocabulary. PV Magazine/CleanTechnica editorial updates. Colorado Energy Office regulatory updates.
+
+DENVER CA IN-MIGRATION PROFESSIONAL EMAIL:
+For financial advisory, healthcare, and professional services serving CA in-migration. 5-stage CO onboarding sequence. CA vs CO income tax briefing. Colorado healthcare navigation. FINRA-compliant financial email.`,
   caseStudies: `Case Study 1: Englewood Aerospace Company — ITAR-Aware Procurement Pipeline
 Client: Precision aerospace machining, Englewood (\$12M, AS9100D/ITAR). Challenge: Lockheed/Ball contacts going cold in 120-day procurement cycles. ITAR-compliant nurture content absent.
 Programme: ITAR-aware AS9100D content + HubSpot Lockheed/Ball sequences + DCAA compliance updates + AIAA technical

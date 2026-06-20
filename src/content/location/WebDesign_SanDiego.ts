@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: SanDiego
 // URL: /web-design-agency-san-diego/
-// Generated: 2026-06-20T04:42:14.930Z
+// Generated: 2026-06-20T05:43:16.015Z
 
 export const WebDesign_SanDiego = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ ITAR-BOUNDED DEFENCE CREDENTIAL ARCHITECTURE: San Diego's defence contractor web
 TORREY PINES LIFE SCIENCE YMYL AUTHORITY: San Diego's Torrey Pines Mesa pharmaceutical and biotech companies need websites communicating FDA regulatory compliance awareness, CLIA/CAP laboratory certification, IRB affiliation display, and Phase I-III clinical research service description at the vocabulary precision that Illumina, J&J Janssen, and Pfizer's San Diego procurement community evaluates for CRO and CDMO vendor selection.
 
 CCPA-NATIVE ANALYTICS: California's CCPA and CPRA create specific requirements for website analytics data collection. A San Diego website without CCPA-native analytics is both creating California AG enforcement exposure and producing inaccurate website performance data — due to California's above-average opt-out rates in analytics consent.`,
-  features: `FEATURES:
-
-ITAR-Bounded Defence Credential Architecture:
+  features: `ITAR-Bounded Defence Credential Architecture:
 For Kearny Mesa, Point Loma, and San Diego defence technology companies. CMMC Level 2 assessment status display. AS9100D accreditation with CAGE code and DUNS verification links. DCAA accounting system compliance display. DoD supplier diversity certifications (SDVOSB, 8(a), HUBZone where applicable). Cleared facility status in publicly releasable language. CUI-awareness in website content design. The defence website that earns NAVWAR and Northrop Grumman procurement evaluation without ITAR exposure.
 
 Torrey Pines Life Science YMYL Architecture:
@@ -37,6 +35,8 @@ For Torrey Pines Mesa CROs, CDMOs, and pharmaceutical technology companies. FDA 
 
 UCSD Health/Scripps YMYL Healthcare Architecture:
 For La Jolla and San Diego healthcare practices. UCSD Health system affiliation display. Scripps Health system badge. UC San Diego School of Medicine faculty attribution. HIPAA-native data handling. CCPA-compliant patient data architecture.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Kearny Mesa Defence Tech — ITAR-Bounded Credential Redesign
 Client: Electronic warfare systems company, Kearny Mesa (\$16M, AS9100D/CMMC). Challenge: Website without CMMC/AS9100D/DCAA credential display. NAVWAR procurement digital due diligence dismissal.
 Programme: ITAR-bounded CMMC/AS9100D credential display + CAGE/DUNS verification + DCAA compliance display + CWV (5.6s to 1.4s) + CCPA-native

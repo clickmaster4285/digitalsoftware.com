@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Richmond
 // URL: /email-marketing-richmond/
-// Generated: 2026-06-20T04:42:12.079Z
+// Generated: 2026-06-20T05:43:10.081Z
 
 export const EmailMarketing_Richmond = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ CAPITAL ONE ML FINRA-COMPLIANT FINTECH PIPELINE EMAIL: Capital One's procurement
 DOMINION ENERGY CVOW AND CLEAN ENERGY TECHNOLOGY NURTURE: Dominion Energy's procurement cycles run 90-180 days for clean energy technology, grid intelligence, and utility analytics vendor evaluation. Email nurture maintaining Dominion procurement relationships requires Dominion's clean energy vocabulary: CVOW offshore wind development programme intelligence updates, grid modernisation clean energy integration operational content, carbon neutrality transition programme progress updates.
 
 VIRGINIA VCDPA-COMPLIANT PROFESSIONAL REVENUE: All Richmond email marketing requires Virginia VCDPA-compliant subscriber data collection, VCDPA opt-out mechanism implementation, and VCDPA-accurate email performance analytics — as standard in every Richmond email programme.`,
-  features: `FEATURES:
-
-Capital One ML FINRA-Compliant Fintech Pipeline HubSpot:
+  features: `Capital One ML FINRA-Compliant Fintech Pipeline HubSpot:
 For Henrico County ML analytics and financial technology vendors. Machine learning credit decisioning operational intelligence email. Consumer lending analytics methodology updates. Real-time credit risk modelling operational content. FINRA Rule 2210-compliant email workflow throughout. HubSpot Capital One/Markel/Federal Reserve Bank of Richmond named account sequences. 90-180 day ML fintech procurement deal-stage triggers. Virginia VCDPA-compliant email data handling.
 
 Dominion Energy CVOW and Clean Energy Technology Nurture:
@@ -37,6 +35,8 @@ For Richmond energy technology vendors. CVOW offshore wind development programme
 
 VCU Health/Bon Secours HIPAA Healthcare Procurement:
 For Richmond health technology vendors. VCU Health System clinical programme vocabulary. Bon Secours Virginia operational content. HIPAA-compliant VCDPA-compliant email data handling. 90-180 day Virginia academic health system procurement triggers.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Henrico County ML Fintech — Capital One ML FINRA Pipeline
 Client: ML analytics, Henrico County (\$6.4M ARR). Challenge: Capital One ML contacts cold in 120-day cycles. Generic data science newsletter. Non-FINRA email.
 Programme: Capital One ML credit decisioning/consumer analytics email + FINRA-compliant + Capital One named sequences + VCDPA-compliant

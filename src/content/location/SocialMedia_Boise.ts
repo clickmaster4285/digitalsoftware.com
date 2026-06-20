@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Boise
 // URL: /social-media-marketing-boise/
-// Generated: 2026-06-20T04:42:14.030Z
+// Generated: 2026-06-20T05:43:14.367Z
 
 export const SocialMedia_Boise = {
   service: "SocialMedia",
@@ -27,9 +27,7 @@ MICRON TECHNOLOGY SEMICONDUCTOR ENGINEERING LINKEDIN: Micron Technology's Boise 
 ALBERTSONS GROCERY RETAIL ANALYTICS COMMUNITY: Albertsons' Boise headquarters creates a LinkedIn grocery retail analytics professional community evaluating technology vendor content against the operational intelligence of the US's second-largest supermarket chain.
 
 AUTHENTIC CITY OF TREES CONSUMER BRAND SOCIAL: Boise's Hyde Park neighbourhood — a charming walkable North End commercial strip — the North End's arts and cycling community, BoDo's downtown entertainment and food scene, and the Boise Foothills' mountain biking trails create consumer brand social opportunities. The Treefort Music Festival (March) and Idaho State Fair (September) create seasonally leverageable Boise brand moments.`,
-  features: `FEATURES:
-
-Micron Technology Semiconductor LinkedIn:
+  features: `Micron Technology Semiconductor LinkedIn:
 For Boise semiconductor equipment and technology vendors. Micron DRAM process optimisation vocabulary. NAND flash cell design methodology. Wafer-level packaging intelligence. HP Inc enterprise community. Micron semiconductor engineering Sales Navigator.
 
 Albertsons Grocery Retail Analytics LinkedIn:
@@ -37,6 +35,8 @@ For Boise retail analytics and CPG vendors. Albertsons shopper/CPG analytics voc
 
 Authentic City of Trees Consumer Brand Social:
 For Hyde Park, North End, BoDo, and Foothills consumer brands. Hyde Park North End walkable commercial vocabulary. BoDo entertainment and food scene character. Boise Foothills mountain biking outdoor lifestyle. Treefort Music Festival March seasonal — indie music community. Idaho State Fair September seasonal — Treasure Valley community.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Boise Semiconductor — Micron Technology Engineering LinkedIn
 Client: Semiconductor equipment, Boise (\$5.4M ARR). Challenge: Generic LinkedIn. Micron semiconductor community not engaging.
 Programme: Micron DRAM/NAND/wafer vocabulary + semiconductor engineering Sales Navigator

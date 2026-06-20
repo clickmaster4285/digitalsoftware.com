@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Orlando
 // URL: /content-marketing-orlando/
-// Generated: 2026-06-20T04:42:10.872Z
+// Generated: 2026-06-20T05:43:07.262Z
 
 export const ContentMarketing_Orlando = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ DISNEY/UNIVERSAL HOSPITALITY OPERATIONAL CONTENT AUTHORITY: Orlando's most comme
 LAKE NONA MEDICAL CITY LIFE SCIENCE CONTENT: Lake Nona Medical City's UCF College of Medicine, UF Health, and 200+ bioscience companies create a Central Florida life science content marketing community where first-mover health technology and biotech content authority — UCF COM clinical research programme, UF Health clinical enterprise methodology, Nemours Children's paediatric research, and Lake Nona bioscience innovation vocabulary — earns above-average organic authority from Central Florida's most rapidly growing academic health campus.
 
 ADVENTHEALTH/NEMOURS YMYL ACADEMIC HEALTHCARE CONTENT: AdventHealth's 80+ hospital network and Nemours Children's nationally ranked paediatric programme create health technology and patient acquisition YMYL content marketing opportunities in Central Florida's most comprehensive academic healthcare environment.`,
-  features: `FEATURES:
-
-Disney/Universal Hospitality Operational Content Authority Programme:
+  features: `Disney/Universal Hospitality Operational Content Authority Programme:
 For Lake Nona and Greater Orlando hospitality technology companies. Disney Parks content library: MagicBand+ RFID-enabled crowd flow optimisation methodology, theme park capacity management operational intelligence, resort food and beverage analytics content. Universal Epic Universe guest experience technology content. Hospitality Technology (HTNG community) editorial programme. HSMAI (Hospitality Sales and Marketing Association International) community editorial. GEO/AEO for Orlando Disney/Universal hospitality technology AI search queries.
 
 Lake Nona Medical City Life Science Content:
@@ -37,6 +35,8 @@ For Lake Nona health IT and biotech vendors. UCF College of Medicine research pr
 
 AdventHealth/Nemours YMYL Academic Healthcare Content:
 For Orlando healthcare practices and health technology. AdventHealth network clinical vocabulary content. Nemours Children's paediatric academic research community. UCF College of Medicine faculty content. HIPAA-compliant clinical case studies. SB 262-native content analytics.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Lake Nona Hospitality Tech — Disney/Universal Content Authority
 Client: Guest experience analytics, Lake Nona (\$6.8M ARR). Challenge: Generic analytics content. Disney/Universal community not finding organically.
 Programme: MagicBand+/capacity management/resort revenue content + HTNG/HSMAI editorial + GEO/AEO

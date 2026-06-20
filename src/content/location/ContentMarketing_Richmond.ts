@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Richmond
 // URL: /content-marketing-richmond/
-// Generated: 2026-06-20T04:42:10.915Z
+// Generated: 2026-06-20T05:43:07.457Z
 
 export const ContentMarketing_Richmond = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ CAPITAL ONE ML CREDIT DECISIONING FINTECH CONTENT AUTHORITY: Richmond's most com
 DOMINION ENERGY OFFSHORE WIND AND CARBON NEUTRALITY CLEAN ENERGY CONTENT: Dominion Energy's offshore wind development programme — one of the largest in the US — and carbon neutrality commitments create a clean energy content marketing opportunity for energy technology vendors demonstrating Dominion's clean energy transition vocabulary: CVOW (Coastal Virginia Offshore Wind) development programme specifics, grid modernisation clean energy integration operational intelligence, and carbon neutrality programme transition methodology.
 
 VCU HEALTH/BON SECOURS YMYL ACADEMIC CLINICAL CONTENT: Virginia Commonwealth University Health System and Bon Secours Virginia create YMYL health technology and patient acquisition content marketing opportunities in Central Virginia's most comprehensive academic healthcare environment.`,
-  features: `FEATURES:
-
-Capital One ML Credit Decisioning Fintech Content Authority Programme:
+  features: `Capital One ML Credit Decisioning Fintech Content Authority Programme:
 For Henrico County ML analytics and financial technology companies. Machine learning credit decisioning feature engineering methodology content. Consumer lending behaviour analytics operational intelligence. Real-time credit risk modelling methodology. Digital banking ML model monitoring insights. FINRA Rule 2210-compliant content workflow. O'Reilly AI/ML community editorial programme. IEEE Computational Intelligence community. GEO/AEO for Richmond Capital One ML credit decisioning AI search queries. Virginia VCDPA-native analytics.
 
 Dominion Energy Offshore Wind and Clean Energy Content:
@@ -37,6 +35,8 @@ For Richmond energy technology vendors. CVOW (Coastal Virginia Offshore Wind) de
 
 VCU Health/Bon Secours YMYL Academic Clinical Content:
 For Richmond healthcare practices and health technology. VCU Health System academic clinical vocabulary. Bon Secours Virginia Health System affiliation vocabulary. HIPAA-compliant VCDPA-native clinical case studies. YMYL E-E-A-T Central Virginia academic medical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Henrico County ML Fintech — Capital One ML Content Authority
 Client: ML analytics, Henrico County (\$6.4M ARR). Challenge: Generic ML content. Capital One ML community not finding organically.
 Programme: Capital One ML credit decisioning/consumer analytics content + O'Reilly/IEEE ML community + FINRA-compliant + GEO/AEO + VCDPA-native

@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: DesMoines
 // URL: /local-seo-services-des-moines/
-// Generated: 2026-06-20T04:42:13.073Z
+// Generated: 2026-06-20T05:43:11.935Z
 
 export const LocalSEO_DesMoines = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ UNITYPOINT/MERCYONE YMYL ACADEMIC MEDICAL CREDENTIAL: UnityPoint Health — Iowa
 
 BEAVERDALE/WEST DES MOINES/CLIVE PROFESSIONAL QUALITY: Beaverdale's established residential arts community, West Des Moines' rapidly growing suburban professional corridor (home to Principal Financial's largest suburban campus), and Clive's high-income community represent the highest-income residential markets in Greater Des Moines.`,
   features: ``,
+  pas: `PROBLEM: The Beaverdale financial advisory with a Principal Financial retirement actuary and EMC Insurance executive client base — 20 reviews, generic 'Des Moines wealth management' GBP, no CFA verification, no Principal/EMC insurance vocabulary, non-CDPA. The Principal Financial VP Group Benefits who relocated from Hartford searches 'fee-only financial adviser Beaverdale CFA Principal Financial Des Moines.' GBP: 20 reviews, no CFA verification. She selects the Beaverdale firm with 108 reviews, CFA, 'financial planning for Principal Financial, EMC Insurance, and Des Moines insurance professionals.'
+
+SOLUTION: Clickmasters Des Moines Local SEO provides the Principal Financial insurance capital proximity, UnityPoint/MercyOne YMYL, and Beaverdale/West Des Moines/Clive professional quality GBP programme.`,
+  services: `DES MOINES PRINCIPAL/EMC INSURANCE CAPITAL PROXIMITY GBP:
+For Downtown Des Moines and West Des Moines insurance adjacent vendors. Principal FINRA retirement/insurance vocabulary in GBP. Insurance capital proximity signals. Iowa insurance professional photography. FINRA-aware Iowa CDPA-native review analytics.
+
+DES MOINES UNITYPOINT/MERCYONE YMYL GBP:
+For Des Moines healthcare practices. UnityPoint Health system affiliation. MercyOne Iowa vocabulary. HIPAA/Iowa CDPA-native review management.
+
+DES MOINES BEAVERDALE/WEST DES MOINES/CLIVE PROFESSIONAL QUALITY GBP:
+For Beaverdale, West Des Moines, and Clive professional services. CFA/CFP with CFA Institute/CFP Board verification. Principal/EMC/Farm Bureau executive community vocabulary. Iowa insurance capital professional photography. FINRA-aware CDPA-native.`,
   caseStudies: `Case Study 1: Beaverdale Financial Advisory — Principal/EMC Insurance Capital GBP
 Client: Fee-only RIA, Beaverdale (\$180M AUM). Challenge: GBP below Principal/EMC insurance professional standard.
 Programme: CFA verification + Principal/EMC/Farm Bureau vocabulary + FINRA-aware + Iowa CDPA-native + Beaverdale professional photography

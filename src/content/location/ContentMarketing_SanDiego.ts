@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: SanDiego
 // URL: /content-marketing-san-diego/
-// Generated: 2026-06-20T04:42:10.938Z
+// Generated: 2026-06-20T05:43:07.539Z
 
 export const ContentMarketing_SanDiego = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ ITAR-BOUNDED DEFENCE CONTENT AUTHORITY: San Diego's defence technology companies
 FDA-AWARE TORREY PINES LIFE SCIENCE YMYL: Torrey Pines Mesa's pharmaceutical and biotech content marketing requires FDA promotional compliance awareness throughout: no pre-approval clinical efficacy claims in case studies, balanced evidence presentation in all clinical data content, IRB-aware clinical research service descriptions, and the CLIA/CAP credentialling depth that earns genuine Illumina, Pfizer, and J&J Janssen pre-engagement credibility.
 
 CCPA-NATIVE ANALYTICS ACCURACY: CCPA-non-compliant content analytics overstate San Diego organic performance by 25-35% — creating false baselines that lead to misallocation of content investment. CCPA-native content analytics produce accurate performance measurement that San Diego's data-driven defence and life science companies accept as commercially credible.`,
-  features: `FEATURES:
-
-ITAR-Bounded Defence Content Programme:
+  features: `ITAR-Bounded Defence Content Programme:
 For Kearny Mesa, Point Loma, and San Diego defence technology companies. CMMC Level 2/Level 3 implementation guides in publicly releasable vocabulary. AS9100D quality management operational insights. DCAA compliance briefings. DoD supplier diversity programme content. NIST SP 800-171 assessment methodology content. Defence supply chain resilience analysis. Cleared facility community operational intelligence. The ITAR-bounded content library that earns NAVWAR and Northrop organic discovery and LinkedIn engagement — without ITAR exposure.
 
 FDA-Aware Torrey Pines Life Science YMYL Content:
@@ -37,6 +35,8 @@ For Torrey Pines Mesa CROs, CDMOs, and biotech service companies. FDA Phase I-II
 
 UCSD/Scripps YMYL Healthcare Content:
 For La Jolla and San Diego healthcare practices. UCSD Health system affiliation content. UC San Diego School of Medicine research content. Scripps Health clinical authority content. HIPAA-compliant content analytics. CCPA-native patient-facing content data.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Kearny Mesa Defence Tech — ITAR-Bounded Content Authority Programme
 Client: Electronic warfare company, Kearny Mesa (\$12M, AS9100D/CMMC). Challenge: Zero defence vocabulary organic presence. ITAR concerns preventing content investment.
 Programme: ITAR-bounded CMMC/AS9100D/DCAA content + NAVWAR community LinkedIn + ITAR-compliant content review + GEO/AEO

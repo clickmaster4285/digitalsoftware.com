@@ -2,7 +2,7 @@
 // Service: SEO
 // City: DesMoines
 // URL: /seo-services-des-moines/
-// Generated: 2026-06-20T04:42:13.611Z
+// Generated: 2026-06-20T05:43:13.058Z
 
 export const SEO_DesMoines = {
   service: "SEO",
@@ -30,6 +30,17 @@ UNITYPOINT HEALTH AND MERCYONE YMYL SEO: UnityPoint Health — Iowa's most promi
 
 IOWA CDPA ANALYTICS: Iowa Consumer Data Protection Act (CDPA, effective January 1, 2025) creates analytics compliance requirements for all Des Moines digital marketing.`,
   features: ``,
+  pas: `PROBLEM: The Des Moines financial technology company with genuine Principal Financial relationships. Zero Principal retirement plan/group insurance vocabulary in website. Principal appointed a new VP of Technology Platforms from Fidelity. He searches 'retirement plan administration technology vendor Des Moines Principal Financial' and 'group insurance benefits platform Iowa FINRA.' Company appears for neither. Principal Financial — managing \$700+ billion — is headquartered in Des Moines and generates FINRA/SEC insurance and investment vocabulary that no Des Moines SEO agency addresses.
+
+SOLUTION: Clickmasters Des Moines SEO delivers Principal Financial FINRA/SEC investment/insurance authority, EMC Insurance, UnityPoint/MercyOne YMYL, Iowa CDPA-native, and GEO/AEO first-mover.`,
+  services: `DES MOINES PRINCIPAL FINANCIAL FINRA/SEC SEO:
+For Des Moines financial technology and investment vendors. Principal Financial retirement plan/group insurance vocabulary. FINRA Rule 2210-compliant content. SEC Marketing Rule compliance. Iowa CDPA-native analytics.
+
+DES MOINES EMC/FARM BUREAU INSURANCE SEO:
+For Des Moines insurance technology vendors. EMC Insurance commercial lines vocabulary. Farm Bureau Financial vocabulary. Iowa insurance community. CDPA-native.
+
+DES MOINES UNITYPOINT/MERCYONE YMYL SEO:
+For Des Moines healthcare practices and health technology. UnityPoint Health system vocabulary. MercyOne Iowa vocabulary. HIPAA/CDPA-native healthcare content. YMYL E-E-A-T.`,
   caseStudies: `Case Study 1: Des Moines Financial Technology — Principal Financial FINRA/SEC SEO
 Client: Investment analytics, Des Moines (\$6.4M ARR). Challenge: Zero Principal retirement plan/group insurance vocabulary. VP Technology not finding.
 Programme: Principal FINRA/SEC retirement/insurance vocabulary + CDPA-native + GEO/AEO

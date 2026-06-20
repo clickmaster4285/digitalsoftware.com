@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Nashville
 // URL: /content-marketing-nashville/
-// Generated: 2026-06-20T04:42:10.833Z
+// Generated: 2026-06-20T05:43:06.842Z
 
 export const ContentMarketing_Nashville = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ NASHVILLE HEALTHCARE CAPITAL CONTENT AUTHORITY: Nashville's HCA Healthcare, Envi
 AMAZON EAST BANK ANALYTICAL CONTENT PRECISION: Amazon's East Bank Nashville campus has imposed the same analytical content standard on Nashville's commercial market as Amazon has imposed on Seattle's. Content for Nashville's Amazon East Bank professional community — and for the vendors competing for Amazon East Bank procurement — must meet Amazon's data-driven evidence standard: specific commercial metrics, documented methodology, evidence-based claims. Aspirational brand content and general industry insights earn the same response from Amazon's Nashville professional community as from Amazon's Seattle team.
 
 MUSIC CITY AUTHENTIC ENTERTAINMENT CONTENT: Nashville's music, entertainment, and creative economy creates specific content marketing opportunities for production businesses, music industry services, and the creative economy companies whose professional community actively consumes and evaluates music industry content.`,
-  features: `FEATURES:
-
-Nashville Healthcare Capital B2B Content:
+  features: `Nashville Healthcare Capital B2B Content:
 Vendor content calibrated to HCA Healthcare's specific operational vocabulary. HCA's quality improvement programmes: HCAHPS top-box performance, 30-day readmission rates, surgical site infection prevention. Envision's emergency medicine staffing and value-based operations vocabulary. Community Health Systems' rural health system digital transformation challenges. Nashville Health Council editorial programme. Health Affairs, NEJM Catalyst, and Health Affairs Forefront editorial placement. HIPAA-compliant clinical content architecture. The healthcare capital content library that earns pre-RFP credibility from Nashville's most commercially significant healthcare buyers.
 
 Amazon East Bank Analytical Precision Content:
@@ -37,6 +35,15 @@ Content at Amazon's analytical evidence standard for East Bank professional comm
 
 Music City Entertainment and Authentic Nashville Content:
 For Music Row entertainment business services, Nashville hospitality, and the authentic Nashville consumer brands. Billboard, Pollstar, and Music Row editorial programme. Nashville authentic cultural content: East Nashville independent spirit, Germantown artisanal quality, Music Row creative heritage. The authentic Nashville brand content that earns genuine community trust from the world's most commercially sophisticated country music community.`,
+  pas: ``,
+  services: `NASHVILLE HEALTHCARE CAPITAL CONTENT (HIPAA-COMPLIANT):
+For HCA Healthcare ecosystem vendors, Envision-adjacent services companies, and Nashville health technology companies. HCAHPS/VBP/ACO operational authority content. Nashville Health Council editorial programme. Health Affairs/NEJM Catalyst editorial placement. HIPAA-compliant clinical evidence content.
+
+NASHVILLE AMAZON EAST BANK B2B CONTENT:
+For technology and professional services companies competing for Amazon East Bank procurement. Amazon analytical precision standard content. AWS vocabulary for technology vendors. Supply chain and operational efficiency content. Evidence-based commercial claims with documented methodology.
+
+MUSIC CITY ENTERTAINMENT CONTENT:
+For Music Row entertainment services, Nashville hospitality, and authentic Nashville consumer brands. Billboard/Pollstar editorial programme. Nashville authentic cultural content. Country music industry B2B vocabulary. Nashville Convention & Visitors Corp community content integration.`,
   caseStudies: `Case Study 1: Nashville Health IT Company — HCA Ecosystem Healthcare Capital Content
 Client: Clinical analytics SaaS, Nashville (\$8.4M ARR). Challenge: Generic healthcare content. HCA and Envision procurement not discovering via content.
 Programme: HCAHPS/VBP/ACO operational content + Nashville Health Council editorial + Health Affairs HARO + HIPAA architecture + GEO/AEO

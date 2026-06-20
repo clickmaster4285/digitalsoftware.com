@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Portland
 // URL: /google-ads-management-portland/
-// Generated: 2026-06-20T04:42:12.785Z
+// Generated: 2026-06-20T05:43:11.313Z
 
 export const GoogleAds_Portland = {
   service: "GoogleAds",
@@ -28,6 +28,19 @@ NIKE/ADIDAS ECOSYSTEM B2B PPC: When Nike's sourcing team searches Google for per
 
 INTEL HILLSBORO SEMICONDUCTOR PPC: Intel's semiconductor procurement staff searches with SEMI standards vocabulary. Google Ads targeting SEMI F47, SEMI C62, cleanroom ISO 14644-1 classification vocabulary reaches Intel's procurement community at above-average commercial intent. Generic 'semiconductor services Portland' keywords don't.`,
   features: ``,
+  pas: `PROBLEM: The Beaverton performance fabric company running \$12,000/month in Google Ads targeting 'sustainable fabric manufacturer Oregon' and 'eco-friendly performance materials Beaverton.' The campaigns generate 180 form fills at \$67 CPL — but examination of the actual form fills shows: 94% from small-volume buyers below the company's minimum \$50,000 order threshold. Nike's and Adidas's sourcing teams — who search for 'bluesign certified performance fabric HIGG compliant Oregon' — are not in the campaign's keyword set. The \$144,000 annual investment is reaching the wrong audience with the wrong vocabulary.
+
+AGITATION: Portland's Nike and Intel ecosystem Google Ads market is underinvested by most Oregon businesses — creating a first-mover window where bluesign/HIGG vocabulary and SEMI standards campaigns establish audience data advantages.
+
+SOLUTION: Clickmasters Portland Google Ads delivers authentic-values vocabulary, Nike ecosystem B2B precision, Intel Hillsboro semiconductor specificity, and Oregon consumer authentic campaigns — with CRM pipeline attribution reporting qualified pipeline value.`,
+  services: `PORTLAND NIKE/ADIDAS ECOSYSTEM B2B GOOGLE ADS:
+For Beaverton and Portland sustainable material, performance technology, and athletic brand service vendors. bluesign/OEKO-TEX/HIGG vocabulary keyword strategy targeting Nike and Adidas sourcing team searches. Authentic-values ad copy calibrated to brand values precision of Portland's athletic industry procurement community. Salesforce/HubSpot offline import attributing Nike/Adidas evaluations to specific campaigns.
+
+PORTLAND INTEL HILLSBORO SEMICONDUCTOR GOOGLE ADS:
+For Hillsboro semiconductor services, testing, and equipment vendors. SEMI F47/C62/E10 vocabulary. Cleanroom ISO 14644-1 classification keywords. Intel and TSMC ecosystem audience signals. CRM attribution for semiconductor B2B sales cycles.
+
+PORTLAND AUTHENTIC CONSUMER AND B2B GOOGLE ADS:
+For Portland's sustainable consumer brands, DTC companies, and B2B businesses. Authenticity-calibrated ad copy: specific certifications (B Corp), specific evidence vocabulary, Pacific Northwest authentic cultural language. Oregon consumer campaigns with above-average CTR from authenticity-self-selecting click population.`,
   caseStudies: `Case Study 1: Beaverton Performance Fabric — Nike Ecosystem Vocabulary PPC Rebuild
 Client: Sustainable performance fabric, Beaverton (\$9.4M). Challenge: \$144K annual spend reaching small-volume buyers. Nike/Adidas procurement vocabulary absent.
 Programme: bluesign/OEKO-TEX/HIGG vocabulary + Nike/Adidas sourcing audience signals + authentic-values ad copy + Salesforce offline import

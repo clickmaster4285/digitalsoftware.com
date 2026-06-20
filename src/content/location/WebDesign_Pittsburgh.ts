@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Pittsburgh
 // URL: /web-design-agency-pittsburgh/
-// Generated: 2026-06-20T04:42:14.844Z
+// Generated: 2026-06-20T05:43:15.873Z
 
 export const WebDesign_Pittsburgh = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ UPMC WORLD-CLASS INTERNATIONALLY-ORIENTED INSTITUTIONAL DESIGN: UPMC's global op
 CMU AI CORRIDOR VENDOR CREDIBILITY: Carnegie Mellon University's Machine Learning Department, National Robotics Engineering Center, and the Pittsburgh AI Corridor's applied AI enterprise community evaluate AI technology vendor websites with the technical precision of world-class AI research. AI consulting companies and robotics technology vendors competing for Aurora Innovation, Google AI Pittsburgh, and CMU community consideration need websites demonstrating genuine machine learning and autonomous vehicle operational vocabulary, CMU research programme affiliation where applicable, and the technical institutional quality that earns AI Corridor procurement consideration.
 
 PPG/PNC FINRA-COMPLIANT PROFESSIONAL DESIGN: PPG Industries' specialty coatings technology and PNC Financial's FINRA-active operations create vendor website requirements including specialty materials vocabulary and FINRA Rule 2210-compliant financial services design.`,
-  features: `FEATURES:
-
-UPMC World-Class Internationally-Oriented Institutional Architecture:
+  features: `UPMC World-Class Internationally-Oriented Institutional Architecture:
 For Pittsburgh health IT vendors and healthcare practices. UPMC Hillman Cancer Center/Presbyterian/Transplantation clinical vocabulary in service description pages. UPMC International affiliation display where applicable. Multilingual accessibility awareness (UPMC International patient communities). HIPAA-native data architecture with internationally-oriented data handling. YMYL E-E-A-T optimised to world-class academic medical standard. CWV sub-1.6s LCP — performant for UPMC's internationally distributed research community.
 
 CMU AI Corridor Vendor Authority Architecture:
@@ -37,6 +35,8 @@ For Pittsburgh AI technology and robotics companies. CMU Machine Learning/Roboti
 
 PPG/PNC FINRA-Compliant Professional Design:
 For Pittsburgh enterprise technology and financial vendors. PPG specialty coatings vocabulary: aerospace coatings, automotive OEM coatings, industrial protective coatings. PNC Financial platform vocabulary. FINRA Rule 2210-compliant website content from wireframe. SEC Marketing Rule-compliant performance displays.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Pittsburgh Health IT — UPMC World-Class International Redesign
 Client: Clinical analytics, Pittsburgh (\$7.4M ARR). Challenge: Website without UPMC world-class internationally-oriented credibility. UPMC International due diligence dismissal.
 Programme: UPMC Hillman/Presbyterian/International vocabulary + world-class YMYL visual + HIPAA-native + multilingual accessibility + CWV (5.4s to 1.4s)

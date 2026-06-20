@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Miami
 // URL: /email-marketing-miami/
-// Generated: 2026-06-20T04:42:11.978Z
+// Generated: 2026-06-20T05:43:09.491Z
 
 export const EmailMarketing_Miami = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ BILINGUAL LATAM PIPELINE EMAIL: The Miami professional services firm — wealth 
 FLORIDA SB 262-COMPLIANT EMAIL MEASUREMENT: Florida's SB 262 (effective July 2024) creates specific consumer data privacy requirements for email programme subscriber data collection, email analytics, and marketing automation data handling. Miami email programmes without SB 262-compliant data management are creating Florida AG enforcement exposure across every subscriber interaction. SB 262-compliant email architecture — consent management for subscriber data, appropriate data minimisation in email analytics events — protects Miami businesses from AG enforcement while maintaining the performance measurement data needed for programme optimisation.
 
 BRICKELL FINRA-AWARE FINANCIAL EMAIL: Brickell's concentration of wealth management firms and LATAM-facing financial services creates a specific email marketing requirement: FINRA Rule 2210 governs investment email content in both English and Spanish. Bilingual investment commentary, bilingual GIPS-compliant performance communication, and bilingual regulatory disclosures must all meet FINRA standards regardless of the language in which they're communicated.`,
-  features: `FEATURES:
-
-Bilingual LATAM Pipeline HubSpot Nurture:
+  features: `Bilingual LATAM Pipeline HubSpot Nurture:
 For Brickell wealth management, Coral Gables legal, and Miami healthcare businesses serving LATAM-origin clients. HubSpot language-conditional email automation: English-language professional communications for English-preference contacts, Spanish-language professional communications for Spanish-preference contacts — automatically triggered by language preference data. LATAM community-specific content tracks: Venezuelan estate planning content, Colombian corporate holding structure content, Argentine currency hedging content, Brazilian FBAR content. FINRA-compliant bilingual investment email for Brickell financial advisory.
 
 Florida SB 262-Compliant Klaviyo and HubSpot:
@@ -37,6 +35,15 @@ For Miami's DTC consumer brands, healthcare practices, and professional services
 
 Brickell FINRA-Aware Investment Email:
 For Brickell wealth managers and LATAM-facing investment advisory. FINRA Rule 2210-compliant bilingual investment email: English and Spanish investment commentary both FINRA-reviewed. Bilingual GIPS-compliant performance communication. Bilingual LATAM estate and tax planning content. ADV Part 2 bilingual annual update.`,
+  pas: ``,
+  services: `MIAMI BILINGUAL LATAM PIPELINE EMAIL (HUBSPOT):
+For Brickell, Coral Gables, and Miami professional services with LATAM client base. Language-conditional HubSpot automation. LATAM community-specific content tracks (Venezuelan/Colombian/Argentine/Brazilian). FINRA-compliant bilingual for financial. HIPAA-compliant bilingual for healthcare.
+
+MIAMI FLORIDA SB 262-COMPLIANT CONSUMER EMAIL (KLAVIYO):
+For Miami DTC brands and consumer businesses. SB 262-compliant consent management. Klaviyo bilingual English/Spanish automation. Server-side Shopify attribution. Florida AG-compliant data handling.
+
+MIAMI BRICKELL FINRA INVESTMENT EMAIL:
+For Brickell wealth managers and international banking. FINRA Rule 2210 bilingual compliance. Bilingual GIPS performance. ADV Part 2 bilingual annual update. LATAM HNWI relationship maintenance.`,
   caseStudies: `Case Study 1: Brickell Wealth Management — Bilingual LATAM HubSpot Programme
 Client: RIA, Brickell (\$2.8B AUM, 35% LATAM-origin). Challenge: English-only email losing LATAM client engagement. Venezuelan/Colombian clients receiving English communications against their preference.
 Programme: Language-conditional HubSpot + LATAM community content tracks + FINRA bilingual compliance + SB 262

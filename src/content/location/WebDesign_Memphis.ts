@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Memphis
 // URL: /web-design-agency-memphis/
-// Generated: 2026-06-20T04:42:14.726Z
+// Generated: 2026-06-20T05:43:15.539Z
 
 export const WebDesign_Memphis = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ FEDEX WORLD TECHNOLOGY CENTER LOGISTICS INSTITUTIONAL CREDIBILITY: The FedEx Wor
 ST. JUDE WORLD-CLASS YMYL HIPAA TIPA ACADEMIC PAEDIATRIC ONCOLOGY: St. Jude Children's Research Hospital's world-class philanthropic-academic mission — sharing research discoveries freely globally — creates the highest YMYL healthcare website content standard in Memphis, and among the most prestigious in the US. Health technology vendors and healthcare organisations need websites demonstrating St. Jude's paediatric oncology vocabulary, childhood cancer genomics research community, computational biology methodology, HIPAA-native and Tennessee TIPA-native data architecture, and the world-class institutional visual quality that St. Jude's global mission demands.
 
 AUTOZONE AUTOMOTIVE RETAIL ENTERPRISE QUALITY: AutoZone's Memphis headquarters and International Paper's enterprise operations create automotive retail analytics and paper/packaging manufacturing vendor website requirements at Fortune 500 institutional quality standards.`,
-  features: `FEATURES:
-
-FedEx World Technology Center Logistics Institutional Architecture:
+  features: `FedEx World Technology Center Logistics Institutional Architecture:
 For Memphis logistics technology and supply chain companies. FedEx Ground network optimisation service description pages. Express air hub operations technology operational specifics. Freight last-mile delivery analytics methodology. Supply chain visibility platform integration service pages. FedEx WTC institutional visual quality. Tennessee TIPA-native analytics.
 
 St. Jude World-Class YMYL HIPAA TIPA Academic Paediatric Oncology Architecture:
@@ -37,6 +35,8 @@ For Memphis health technology vendors and healthcare practices. St. Jude paediat
 
 AutoZone/International Paper Fortune 500 Retail Enterprise Quality Architecture:
 For Memphis automotive analytics and packaging technology vendors. AutoZone automotive retail analytics vocabulary. International Paper packaging technology operational specifics. Baptist Memorial/Methodist Le Bonheur clinical vocabulary. Tennessee TIPA-native analytics.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Memphis Logistics Technology — FedEx WTC Institutional Credibility Redesign
 Client: Supply chain analytics, Memphis (\$5.4M ARR). Challenge: Website without FedEx WTC institutional credibility. FedEx VP dismissal during digital due diligence.
 Programme: FedEx Ground/Express/Freight/supply chain vocabulary pages + WTC institutional visual + TIPA-native + CWV (5.0s to 1.4s)

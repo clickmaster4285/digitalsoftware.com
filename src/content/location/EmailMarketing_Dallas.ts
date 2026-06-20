@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Dallas
 // URL: /email-marketing-dallas/
-// Generated: 2026-06-20T04:42:11.851Z
+// Generated: 2026-06-20T05:43:09.258Z
 
 export const EmailMarketing_Dallas = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ FORTUNE 500 DFW VENDOR PIPELINE EMAIL: AT&T, Toyota, Schwab, CBRE, and McKesson 
 TELECOM CORRIDOR ENTERPRISE EMAIL: AT&T's Telecom Corridor at Richardson and Plano creates a specific B2B email nurture opportunity. Enterprise technology vendors maintaining OSS/BSS, 5G, and carrier-grade SLA vocabulary content in email nurture sequences maintain commercial relationship continuity with AT&T ecosystem procurement through DFW's 120-180 day enterprise technology evaluation cycles.
 
 DFW IN-MIGRATION PROFESSIONAL ONBOARDING: DFW's 30%+ corporate relocation growth includes professionals from New York, Chicago, and San Jose who are actively establishing Texas service relationships. A targeted onboarding email sequence addressing New York-to-Texas relocation, the Texas no-income-tax financial planning opportunity, and Austin/DFW-specific professional service navigation earns above-average engagement from DFW's highest-income new resident demographic.`,
-  features: `FEATURES:
-
-Fortune 500 DFW Vendor Pipeline HubSpot:
+  features: `Fortune 500 DFW Vendor Pipeline HubSpot:
 For companies competing for AT&T, Toyota, Schwab, and CBRE procurement. Company-specific operational vocabulary content tracks: AT&T telecom OSS/BSS operational intelligence, Toyota supply chain efficiency content, Schwab financial operations content. HubSpot deal-stage triggers calibrated to DFW's 90-180 day Fortune 500 procurement cycles. Named account sequences. Salesforce/HubSpot offline import attributing email-nurtured Fortune 500 contacts to specific pipeline.
 
 Telecom Corridor Enterprise HubSpot:
@@ -37,6 +35,8 @@ For enterprise technology vendors serving AT&T Telecom Corridor. OSS/BSS operati
 
 DFW In-Migration Professional Onboarding:
 For financial advisory, healthcare, and professional services businesses serving DFW's NY/Chicago/CA in-migration community. New York-to-Texas transition onboarding: no state income tax planning, DFW neighbourhood financial guide, Texas vs New York estate planning. FINRA-compliant financial email throughout.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Uptown Dallas Consulting — AT&T/Toyota Fortune 500 Pipeline Email
 Client: Management consulting, Uptown (\$8.4M). Challenge: AT&T and Toyota contacts going cold after initial meetings.
 Programme: AT&T OSS/BSS vocabulary + Toyota supply chain content + HubSpot Fortune 500 named sequences + deal-stage triggers

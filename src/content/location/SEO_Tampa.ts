@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Tampa
 // URL: /seo-services-tampa/
-// Generated: 2026-06-20T04:42:13.951Z
+// Generated: 2026-06-20T05:43:14.153Z
 
 export const SEO_Tampa = {
   service: "SEO",
@@ -28,6 +28,17 @@ MACDILL AFB MILITARY COMMUNITY SEO: MacDill Air Force Base — home to US CENTCO
 
 FLORIDA SB 262 ANALYTICS ACCURACY: Florida's SB 262 (effective July 2024) creates requirements for website analytics data collection that affect organic performance measurement accuracy. SB 262-native analytics produce the accurate organic performance baseline needed for Tampa digital marketing investment decisions.`,
   features: ``,
+  pas: `PROBLEM: The Tampa healthcare technology company with genuine Moffitt Cancer Center and TGH relationships — zero Moffitt/TGH/USF Health vocabulary in website or content. A new Moffitt VP of Clinical Operations from MD Anderson searches 'oncology clinical analytics vendor Tampa Bay' and 'NCI-designated cancer centre IT vendor Tampa.' The Tampa company appears for neither search. Zero MacDill AFB military vocabulary despite a 45,000+ military community generating professional services searches in Tampa Bay.
+
+SOLUTION: Clickmasters Tampa SEO delivers Moffitt/TGH YMYL academic medical authority, MacDill AFB military community organic, Florida SB 262-native analytics, and GEO/AEO first-mover architecture.`,
+  services: `TAMPA MOFFITT/TGH YMYL ACADEMIC MEDICAL SEO:
+For Tampa healthcare practices and health technology. Moffitt Cancer Center NCI-designated comprehensive cancer centre vocabulary. Tampa General Hospital system affiliation. USF Health Morsani College of Medicine academic content. HIPAA-compliant YMYL content. Florida SB 262-native analytics.
+
+TAMPA MACDILL AFB MILITARY COMMUNITY SEO:
+For financial advisory, healthcare, legal, and professional services. TSP management, SCRA, VA loan, military retirement vocabulary. CENTCOM/SOCOM community professional content. PCS cycle-aware content timing. FINRA-compliant financial SEO.
+
+TAMPA FLORIDA SB 262-NATIVE ANALYTICS SEO:
+For all Tampa businesses. SB 262-compliant organic analytics. Accurate organic session measurement excluding Florida opt-out data. Florida AG pre-audit ready analytics.`,
   caseStudies: `Case Study 1: Tampa Health IT Vendor — Moffitt/TGH YMYL SEO Authority
 Client: Oncology analytics SaaS, Tampa (\$7.4M ARR). Challenge: Zero Moffitt/NCI vocabulary. New Moffitt VP from MD Anderson not finding through organic.
 Programme: Moffitt NCI vocabulary + TGH/USF Health academic content + YMYL E-E-A-T + SB 262-native analytics + GEO/AEO

@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Huntsville
 // URL: /web-design-agency-huntsville/
-// Generated: 2026-06-20T04:42:14.656Z
+// Generated: 2026-06-20T05:43:15.386Z
 
 export const WebDesign_Huntsville = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ NASA MARSHALL ITAR-BOUNDED AEROSPACE INSTITUTIONAL CREDIBILITY: NASA Marshall an
 REDSTONE ARSENAL ITAR-BOUNDED US ARMY DEFENCE QUALITY: Redstone Arsenal's AMCOM, MDA, and SMDC evaluate technology vendor websites against US Army programme management institutional standards. ITAR vocabulary review for all website content: AMCOM/MDA publicly available programme vocabulary, systems engineering methodology pages from public domain Army technical content, and the defence programme management institutional quality Redstone expects.
 
 HUNTSVILLE HOSPITAL YMYL HIPAA ACADEMIC HEALTHCARE: Huntsville Hospital — one of the Southeast's largest health systems — creates YMYL healthcare website requirements with HIPAA-native Alabama data architecture.`,
-  features: `FEATURES:
-
-NASA Marshall ITAR-Bounded Aerospace Institutional Credibility Architecture:
+  features: `NASA Marshall ITAR-Bounded Aerospace Institutional Credibility Architecture:
 For Huntsville aerospace technology companies. ITAR vocabulary review applied to all website content before launch with documentation. SLS/Artemis publicly releasable vocabulary in service descriptions. Rocket propulsion research from public NASA technical reports. Cummings Research Park aerospace institutional visual quality. ITAR review documentation provided at launch.
 
 Redstone Arsenal ITAR-Bounded US Army Defence Quality Architecture:
@@ -37,6 +35,8 @@ For Huntsville defence technology vendors. AMCOM/MDA/SMDC publicly available pro
 
 Huntsville Hospital YMYL HIPAA Academic Healthcare Architecture:
 For Huntsville healthcare practices. Huntsville Hospital system programme vocabulary. UAH academic medical community vocabulary. HIPAA-native Alabama data architecture. YMYL E-E-A-T Alabama academic medical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Huntsville Aerospace — NASA Marshall ITAR-Bounded Credibility Redesign
 Client: Aerospace systems engineering, Huntsville (\$6.4M ARR). Challenge: ITAR-controlled vocabulary on existing website. NASA Marshall dismissal. No SLS/Artemis public vocabulary.
 Programme: ITAR vocabulary review all pages + SLS/Artemis publicly releasable vocabulary + aerospace institutional visual + ITAR documentation + CWV (5.0s to 1.4s)

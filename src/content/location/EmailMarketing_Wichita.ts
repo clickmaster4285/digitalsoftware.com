@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Wichita
 // URL: /email-marketing-wichita/
-// Generated: 2026-06-20T04:42:12.183Z
+// Generated: 2026-06-20T05:43:10.403Z
 
 export const EmailMarketing_Wichita = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ SPIRIT AEROSYSTEMS ITAR-REVIEWED AEROSPACE PIPELINE EMAIL: Spirit AeroSystems pr
 TEXTRON AVIATION BUSINESS AVIATION NURTURE: Textron Aviation procurement cycles run 90-180 days. Email with Cessna/Beechcraft turboprop/jet systems updates, business aviation MRO methodology, avionics integration intelligence.
 
 WICHITA RIVERFEST AND NBAA SEASONAL EMAIL: Wichita Riverfest (June, 9 days, 350,000+ visitors) creates a consumer brand email engagement window. NBAA Business Aviation Convention and Exhibition (October/November) creates a business aviation professional email engagement window — Wichita vendors who send Cessna/Beechcraft/Textron Aviation-precision content around NBAA earn above-average business aviation professional engagement. McConnell AFB military 5-stage Kansas onboarding for professional services.`,
-  features: `FEATURES:
-
-Spirit AeroSystems ITAR-Reviewed Aerospace Pipeline HubSpot:
+  features: `Spirit AeroSystems ITAR-Reviewed Aerospace Pipeline HubSpot:
 ITAR vocabulary review every email. Spirit publicly releasable aerostructures updates. Textron Aviation community content. HubSpot Spirit/Textron/Koch named sequences. 90-270 day aerospace triggers. ITAR documentation retained.
 
 Textron Aviation Business Aviation Nurture:
@@ -37,6 +35,8 @@ Cessna/Beechcraft turboprop/jet systems updates. Business aviation MRO intellige
 
 Air Capital Seasonal Commercial Email:
 Wichita Riverfest June consumer activation. NBAA convention season (October/November): business aviation professional engagement window. McConnell AFB military 5-stage Kansas onboarding: TSP/SCRA/VA professional services.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Wichita Aerospace — Spirit AeroSystems ITAR-Reviewed Pipeline
 Client: Aerospace technology, Wichita (\$6.4M ARR). Challenge: ITAR in existing emails. Spirit/Textron contacts cold.
 Programme: ITAR review + Spirit/Textron publicly releasable email + ITAR-reviewed sequences

@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Houston
 // URL: /web-design-agency-houston/
-// Generated: 2026-06-20T04:42:14.642Z
+// Generated: 2026-06-20T05:43:15.369Z
 
 export const WebDesign_Houston = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ ENERGY CORRIDOR API/HSE CREDIBILITY ARCHITECTURE: Houston's ExxonMobil, Shell, B
 BILINGUAL HIPAA HEALTHCARE ARCHITECTURE: Houston's 44% Hispanic/Latino population makes bilingual web design the commercial baseline for healthcare, dental, and professional services businesses. A healthcare practice serving Houston's Westside, Gulfton, or Pasadena communities with an English-only website is communicating to its primary patient demographic in a language that is not their first. Bilingual HIPAA web design — with native Spanish content, HIPAA-compliant bilingual forms with BAA-covered processors, and Spanish appointment booking — captures the full addressable patient acquisition opportunity for Houston's bilingual healthcare market.
 
 TEXAS MEDICAL CENTER INSTITUTIONAL STANDARD: The world's largest medical complex — 14 million annual patient visits — sets the clinical institutional design quality that Houston's healthcare community evaluates. Healthcare practices and health technology vendors near STMC need websites communicating at the institutional quality and clinical credential depth that Houston's medically sophisticated patient and procurement communities expect.`,
-  features: `FEATURES:
-
-API/HSE Energy Credibility Architecture:
+  features: `API/HSE Energy Credibility Architecture:
 For Energy Corridor, Westchase, and Houston area energy services, technology, and equipment companies. Specific API certification display: registration numbers, certification scope, expiry dates. HSE performance data in operator-standard TRIR/LTIR format. ISNetworld contractor prequalification display. OSHA incident rate history. Gulf of Mexico operational depth and scope documentation. The technical credibility that passes ExxonMobil and Shell implicit vendor website qualification.
 
 Bilingual HIPAA Healthcare Architecture:
@@ -37,6 +35,15 @@ For Houston healthcare practices, dental offices, and medical services businesse
 
 TMC Institutional Quality Standard:
 For Texas Medical Center-adjacent practices, health technology vendors, and medical equipment suppliers. Clinical credential architecture: physician training, board certifications, UT Health Houston/UTHealth affiliations, STMC member organisation display. HIPAA-compliant data handling throughout.`,
+  pas: ``,
+  services: `HOUSTON ENERGY WEBSITE DESIGN (API/HSE):
+For Energy Corridor, Westchase, and Houston energy services companies. API registration number display. TRIR/LTIR HSE performance data. ISNetworld display. GOM operational depth documentation. The energy vendor website that passes ExxonMobil and Shell digital due diligence.
+
+HOUSTON BILINGUAL HEALTHCARE WEBSITE DESIGN (HIPAA):
+For multi-location health groups and specialty practices serving Houston's bilingual community. Native bilingual English/Spanish. HIPAA-compliant bilingual forms (BAA-covered). Spanish appointment booking. Mobile-first CWV (sub-2.0s LCP). WCAG 2.1 AA.
+
+HOUSTON TMC INSTITUTIONAL WEBSITE DESIGN:
+For TMC-adjacent practices, health technology vendors, and medical services companies. UT Health Houston affiliation display. Clinical credential depth. HIPAA-compliant architecture. TMC institutional quality visual standard.`,
   caseStudies: `Case Study 1: Energy Corridor Offshore Services — API/HSE Credibility Redesign
 Client: Offshore inspection services, Houston (\$22M, API Q1/Q2, TRIR 0.6). Challenge: Website with no API registration numbers, no TRIR/LTIR display. ExxonMobil/Shell procurement dismissing during digital due diligence.
 Programme: API certification architecture + TRIR/LTIR display + ISNetworld display + GOM operational depth pages + CWV

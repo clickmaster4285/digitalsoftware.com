@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Tampa
 // URL: /local-seo-services-tampa/
-// Generated: 2026-06-20T04:42:13.464Z
+// Generated: 2026-06-20T05:43:12.702Z
 
 export const LocalSEO_Tampa = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ MACDILL AFB MILITARY TRUST SIGNALS: Tampa's 45,000+ CENTCOM and SOCOM military p
 
 FLORIDA SB 262 REVIEW ANALYTICS COMPLIANCE: Florida's SB 262 (July 2024) creates requirements for review acquisition programme data handling and GBP review analytics. Tampa businesses with non-SB 262 review programmes create Florida AG enforcement exposure with every review request sent to Florida residents.`,
   features: ``,
+  pas: `PROBLEM: The South Tampa internal medicine practice with 2 USF Health-affiliated physicians — 28 reviews at 4.7 stars, generic 'quality healthcare for South Tampa' description, no TGH affiliation badge, no USF Health Morsani faculty attribution, non-HIPAA review management, non-SB 262 review analytics. The MacDill SOCOM Colonel searching 'internal medicine near MacDill South Tampa TRICARE' reads the GBP: 28 reviews, no TGH affiliation, no TRICARE acceptance display. She selects the South Tampa practice with 118 reviews, TGH system affiliation badge, TRICARE acceptance displayed, and HIPAA-compliant review management.
+
+SOLUTION: Clickmasters Tampa Local SEO provides the Moffitt/TGH-credentialled, MacDill military trust signal, SB 262-compliant GBP programme.`,
+  services: `TAMPA MOFFITT/TGH ACADEMIC MEDICAL GBP:
+For Tampa healthcare practices and health technology. Moffitt Cancer Center proximity/affiliation display. TGH/USF Health system affiliation badge. USF Health Morsani College of Medicine faculty attribution. HIPAA-compliant review management. SB 262-native review analytics.
+
+TAMPA MACDILL MILITARY TRUST SIGNAL GBP:
+For South Tampa professional services. TRICARE acceptance display (healthcare). SCRA acknowledgment (financial). VA benefits awareness (legal/mortgage). PCS-cycle seasonal GBP Posts (spring/summer). MacDill community professional photography.
+
+TAMPA NEIGHBOURHOOD-PRECISE LOCAL SEO:
+For Ybor City, Seminole Heights, South Tampa, and Hyde Park. Neighbourhood-specific GBP vocabulary. SB 262-native review analytics. Florida authentic community GBP Posts.`,
   caseStudies: `Case Study 1: South Tampa Internal Medicine — TGH Academic Medical MacDill GBP
 Client: Internal medicine, South Tampa (2 physicians, TGH-affiliated). Challenge: 28 reviews, no TGH affiliation, no TRICARE display, non-HIPAA reviews, non-SB 262 analytics.
 Programme: TGH affiliation badge + USF Morsani attribution + TRICARE display + HIPAA review + SB 262-native analytics

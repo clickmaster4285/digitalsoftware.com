@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: StLouis
 // URL: /email-marketing-st-louis/
-// Generated: 2026-06-20T04:42:12.142Z
+// Generated: 2026-06-20T05:43:10.349Z
 
 export const EmailMarketing_StLouis = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ BOEING BDS ITAR-BOUNDED PIPELINE EMAIL: Boeing Defense, Space & Security procure
 FINRA-COMPLIANT EDWARD JONES FINANCIAL NURTURE: Edward Jones' Creve Coeur financial technology procurement cycles run 90-180 days. Email nurture content must be FINRA Rule 2210-compliant throughout — no investment performance guarantees, no unsubstantiated comparative claims, and SEC Marketing Rule-compliant case study references in every email. Financial advisor productivity operational intelligence, wealth management platform operational insights, and fintech innovation content at the Creve Coeur institutional standard earns above-average re-engagement from Edward Jones technology procurement.
 
 CENTENE/BJC HIPAA HEALTHCARE PROCUREMENT EMAIL: Centene Corporation's managed care procurement and BJC HealthCare's health system evaluation cycles run 90-180 days. HEDIS quality measure operational content, risk adjustment methodology intelligence, and health system HCAHPS/VBP operational specifics maintain Centene and BJC procurement contact relationships.`,
-  features: `FEATURES:
-
-Boeing BDS ITAR-Bounded Pipeline HubSpot:
+  features: `Boeing BDS ITAR-Bounded Pipeline HubSpot:
 For Hazelwood aerospace services and technology vendors. ITAR vocabulary review for every email before sending. AS9100D Revision D quality update content tracks. DCAA compliance intelligence emails. NDIA/AIA industry news summaries. DoD supply chain cybersecurity (CMMC) operational updates. HubSpot Boeing BDS supply chain named account sequences. 120-240 day defence prime contractor procurement deal-stage triggers.
 
 FINRA-Compliant Edward Jones Financial Nurture:
@@ -37,6 +35,8 @@ For Creve Coeur financial technology companies. FINRA Rule 2210 compliance revie
 
 Centene/BJC HIPAA Healthcare Procurement Email:
 For Clayton and St. Louis health technology vendors. HEDIS quality measure operational updates. Risk adjustment methodology intelligence. BJC HealthCare HCAHPS/VBP operational specifics. WashU School of Medicine research programme updates. HIPAA-compliant email data handling throughout.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Hazelwood Aerospace Quality — Boeing BDS ITAR Pipeline
 Client: Aerospace quality consulting, Hazelwood (\$8.4M). Challenge: Boeing BDS contacts cold in 150-day procurement cycles. Non-ITAR-reviewed generic email.
 Programme: ITAR-bounded AS9100D/DCAA email + Boeing BDS named sequences + ITAR review every email + NDIA community updates

@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: LosAngeles
 // URL: /digital-marketing-agency-los-angeles/
-// Generated: 2026-06-20T04:42:11.350Z
+// Generated: 2026-06-20T05:43:08.680Z
 
 export const DigitalMarketing_LosAngeles = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "LosAngeles",
   citySlug: "los-angeles",
-  slug: "/digital-marketing-agency-los-angeles/",
+  slug: "/digital-marketing-agency-in-los-angeles/",
   
   h1: `Digital Marketing Agency Los Angeles — Entertainment B2B, Silicon Beach Technology, and Creator Economy Revenue Growth`,
   primaryKw: `digital marketing agency los angeles`,
@@ -30,6 +30,20 @@ SILICON BEACH TECHNOLOGY: Santa Monica, Venice, and Playa Vista's technology eco
 
 CREATOR ECONOMY DTC: LA is where the creator economy was invented and where it is most commercially sophisticated. DTC brands, consumer technology companies, and lifestyle businesses operating in LA compete for consumer attention in the world's most socially sophisticated consumer market — where the creator economy professional standard is the minimum consumer expectation, not the aspirational ceiling.`,
   features: ``,
+  pas: ``,
+  services: `SEO LOS ANGELES: Entertainment production B2B vocabulary. Silicon Beach AI/ML technical authority. CCPA-native analytics. 88-city geographic specificity. /seo-services-los-angeles/
+
+GOOGLE ADS LOS ANGELES: Entertainment B2B DCP/IMF vocabulary PPC. Silicon Beach CCPA-native enterprise PPC. Creator economy DTC Klaviyo/Shopify attribution. /google-ads-management-los-angeles/
+
+CONTENT MARKETING LOS ANGELES: Entertainment production authority content. Silicon Beach technical B2B content. Creator economy DTC brand content. Variety/Hollywood Reporter editorial. /content-marketing-los-angeles/
+
+SOCIAL MEDIA LOS ANGELES: Entertainment industry LinkedIn. Creator economy Instagram/TikTok. Silicon Beach B2B LinkedIn. CCPA-compliant audience data. /social-media-marketing-los-angeles/
+
+EMAIL LOS ANGELES: Entertainment B2B pipeline nurture. Silicon Beach enterprise HubSpot. Creator economy DTC Klaviyo (CCPA-compliant). /email-marketing-los-angeles/
+
+LOCAL SEO LOS ANGELES: 88-city geographic specificity. CCPA-compliant GBP analytics. Creator economy business review management.
+
+WEB DESIGN LOS ANGELES: Creator economy visual standard. Entertainment B2B credibility. Silicon Beach technical precision. CCPA-native. /web-design-agency-los-angeles/`,
   caseStudies: `Case Study 1: Culver City Post-Production Technology — Entertainment B2B Full Programme
 Client: Post-production software, Culver City (\$8.4M ARR). Challenge: CCPA-inflated metrics. Entertainment vocabulary absent. Instagram below creator economy standard.
 Programme: CCPA-native rebuild (all channels) + SEO (IMF/DCP vocabulary) + Google Ads (entertainment B2B) + LinkedIn (production precision) + Instagram (creator economy standard)

@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Boston
 // URL: /email-marketing-boston/
-// Generated: 2026-06-20T04:42:11.782Z
+// Generated: 2026-06-20T05:43:09.175Z
 
 export const EmailMarketing_Boston = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ KENDALL SQUARE PHARMA PIPELINE EMAIL: Boston's Kendall Square CRO and CDMO vendo
 FINRA-COMPLIANT BACK BAY INVESTMENT EMAIL: Boston's Back Bay wealth management community publishes investment commentary, quarterly market analysis, and financial planning content in email format. Every investment email from a registered representative or investment adviser is a FINRA Rule 2210-governed communication. Boston investment email programmes without FINRA compliance review are accumulating enforcement risk at the sending frequency of the financial services community's most active content channel.
 
 MASSACHUSETTS CDPA-COMPLIANT EMAIL INFRASTRUCTURE: Massachusetts' Consumer Data Privacy Act (January 2025) creates specific requirements for email subscriber data collection, marketing automation data handling, and email analytics. Boston email programmes without CDPA-compliant infrastructure are creating Massachusetts AG enforcement exposure with every subscriber interaction.`,
-  features: `FEATURES:
-
-Kendall Square Pharma Pipeline HubSpot Nurture:
+  features: `Kendall Square Pharma Pipeline HubSpot Nurture:
 For Cambridge CROs, CDMOs, and pharmaceutical technology vendors. FDA-aware email content review for every nurture piece: balanced clinical evidence presentation, no pre-approval claims, IRB-aware clinical study service descriptions. Phase I-III clinical research operational vocabulary content tracks. Named pharma account sequences (Pfizer/BMS/Novartis/AZ Cambridge contacts). HubSpot deal-stage triggers calibrated to Kendall Square's 180-360 day pharma procurement cycles. Massachusetts CDPA-compliant subscriber data handling.
 
 FINRA-Compliant Back Bay Investment Email:
@@ -37,6 +35,15 @@ For Back Bay wealth managers, Fidelity ecosystem RIAs, and Massachusetts investm
 
 HMS/Dana-Farber Academic Healthcare Email:
 For HMS-affiliated practices, Longwood Medical Area physicians, and healthcare technology companies. HIPAA-covered ESP (HubSpot with BAA). HMS-credentialled clinical case study email. Dana-Farber clinical research update content. Massachusetts CDPA-compliant patient data handling.`,
+  pas: ``,
+  services: `BOSTON KENDALL SQUARE PHARMA PIPELINE (HUBSPOT FDA-AWARE):
+For Cambridge CROs/CDMOs and pharmaceutical technology vendors. FDA-aware email content review. Phase I-III clinical vocabulary tracks. Named pharma account sequences. 180-360 day procurement cycle deal-stage triggers. CDPA-compliant.
+
+BOSTON FINRA-COMPLIANT INVESTMENT EMAIL:
+For Back Bay wealth managers and Fidelity RIAs. FINRA Rule 2210 compliant quarterly investment commentary. CFA-authored. GIPS performance email. Massachusetts Securities Division awareness. CDPA-compliant data.
+
+BOSTON ACADEMIC HEALTHCARE EMAIL (HIPAA + CDPA):
+For HMS/Dana-Farber practices. HIPAA-covered ESP with BAA. HMS clinical credential email. CDPA-compliant patient data. Appointment retention.`,
   caseStudies: `Case Study 1: Kendall Square CRO — Pharma Procurement Pipeline Nurture
 Client: Phase I-II CRO, Cambridge MA (\$18M). Challenge: Pfizer/BMS contacts going cold in 180-day procurement cycles. Non-CDPA email. Generic content below FDA compliance standard.
 Programme: FDA-aware clinical vocabulary nurture + named Pfizer/BMS sequences + CDPA-compliant infrastructure + HubSpot pharma deal-stage

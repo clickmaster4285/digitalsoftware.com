@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: OklahomaCity
 // URL: /email-marketing-oklahoma-city/
-// Generated: 2026-06-20T04:42:12.023Z
+// Generated: 2026-06-20T05:43:09.789Z
 
 export const EmailMarketing_OklahomaCity = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ DEVON/EXPAND ENERGY OIL AND GAS E&P PIPELINE EMAIL: Devon Energy and Expand Ener
 INTEGRIS/OU HEALTH HIPAA HEALTH IT NURTURE: INTEGRIS Health and OU Health Sciences Center procurement cycles run 90-180 days for health technology vendor evaluation. HIPAA-compliant email nurture with INTEGRIS system operational vocabulary and OU Medicine NCI research community content.
 
 TINKER AFB MILITARY 5-STAGE OKLAHOMA ONBOARDING: Tinker AFB — home to Oklahoma City ALC with 26,000+ employees, the largest Air Force installation by workforce in the US — creates a substantial military professional email onboarding opportunity. Stage 1 Tinker AFB/OKC welcome → Stage 2 Oklahoma financial guide → Stage 3 OKC healthcare navigation → Stage 4 Greater OKC neighbourhood professional services guide → Stage 5 Devon/Expand Energy and Paycom professional community connection.`,
-  features: `FEATURES:
-
-Devon/Expand Energy E&P Pipeline HubSpot:
+  features: `Devon/Expand Energy E&P Pipeline HubSpot:
 For OKC oil and gas technology vendors. Devon STACK/SCOOP operational intelligence email updates. Expand Energy natural gas processing content. OGE Energy utility operational intelligence. HubSpot Devon/Expand/OGE named sequences. 90-180 day E&P procurement triggers.
 
 INTEGRIS/OU Health HIPAA Health IT Nurture:
@@ -37,6 +35,8 @@ For OKC health IT vendors. INTEGRIS Health system programme content. OU Medicine
 
 Tinker AFB Military 5-Stage Oklahoma Onboarding:
 For OKC professional services targeting military community. Stage 1: Tinker AFB/OKC welcome — largest Air Force installation by workforce. Stage 2: Oklahoma financial planning guide. Stage 3: OKC healthcare navigation — INTEGRIS Health, OU Health, Mercy Health. Stage 4: Greater OKC neighbourhood guide — Edmond, Nichols Hills, Midwest City, Norman, Yukon. Stage 5: Devon/Expand Energy and Paycom professional community connection.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: OKC Energy Technology — Devon/Expand Energy E&P Pipeline
 Client: Energy analytics, OKC (\$5.4M ARR). Challenge: Devon/Expand contacts cold. Generic energy newsletter below E&P precision.
 Programme: Devon STACK/SCOOP/Expand natural gas email + HubSpot named sequences + 90-day E&P triggers

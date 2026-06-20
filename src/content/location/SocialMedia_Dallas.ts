@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Dallas
 // URL: /social-media-marketing-dallas/
-// Generated: 2026-06-20T04:42:14.080Z
+// Generated: 2026-06-20T05:43:14.454Z
 
 export const SocialMedia_Dallas = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ TELECOM CORRIDOR ENGINEERING PRECISION LINKEDIN: AT&T's massive Telecom Corridor
 
 DFW TEXAS COMMERCIAL DIRECTNESS CONSUMER SOCIAL: DFW's consumer social community evaluates brand Instagram and TikTok with Texas commercial directness — specific value, specific evidence, direct commercial personality. Aspirational brand content without specific DFW community roots earns the same response as generic enterprise B2B content earns from Fortune 500 procurement — a scroll-past.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING DALLAS (FORTUNE 500 DFW):
+For Uptown, Plano, and Dallas companies competing for AT&T, Toyota, Schwab, and CBRE procurement. Fortune 500-specific operational vocabulary: AT&T OSS/BSS/5G vocabulary, Toyota supply chain specifics, Schwab financial operations content, CBRE commercial real estate vocabulary. FINRA-compliant content for financial services. Sales Navigator DFW Fortune 500 pipeline development.
+
+DALLAS AT&T TELECOM CORRIDOR LINKEDIN:
+For Richardson and Plano enterprise technology vendors. OSS/BSS engineering precision LinkedIn. 5G network architecture vocabulary. Carrier-grade reliability content. AT&T/Ericsson ecosystem Sales Navigator.
+
+DFW AUTHENTIC CONSUMER BRAND SOCIAL:
+For Dallas's Uptown, Bishop Arts District, and authentic DFW consumer brands. Texas commercial directness in Instagram content: specific value, named DFW community vocabulary, direct brand personality. Bishop Arts District creative community engagement. Frisco and Plano premium suburban consumer community.`,
   caseStudies: `Case Study 1: Uptown Dallas Technology Consulting — Schwab/AT&T Fortune 500 LinkedIn
 Client: Technology consulting, Uptown (\$8.4M). Challenge: Generic LinkedIn. New Schwab/AT&T/Toyota executives not engaging.
 Programme: Schwab operational vocabulary + AT&T OSS/BSS + Toyota supply chain + FINRA-compliant + Sales Navigator Fortune 500

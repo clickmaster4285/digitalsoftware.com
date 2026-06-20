@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Phoenix
 // URL: /email-marketing-phoenix/
-// Generated: 2026-06-20T04:42:12.050Z
+// Generated: 2026-06-20T05:43:09.956Z
 
 export const EmailMarketing_Phoenix = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ TSMC/INTEL SEMICONDUCTOR PROCUREMENT PIPELINE EMAIL: Chandler's TSMC Fab 21 and 
 CA IN-MIGRATION ARIZONA 5-STAGE PROFESSIONAL ONBOARDING: Phoenix's California in-migration wave creates an email marketing commercial opportunity — the newly arrived CA-origin high-income professional establishing Arizona service relationships is actively consuming CA-to-AZ transition content. A 5-stage California-to-Arizona professional onboarding sequence addressing California 13.3% vs Arizona 4.5% flat income tax, RSU equity compensation Arizona planning, Arizona estate planning vs California Proposition 19, and Arizona healthcare navigation earns above-average engagement from Phoenix's fastest-growing highest-income demographic.
 
 MAYO CLINIC/BANNER HEALTH PROCUREMENT RELATIONSHIP EMAIL: Phoenix health technology vendors competing for Mayo Clinic Arizona, Banner Health, Dignity Health, and HonorHealth procurement have procurement cycles running 90-180 days. Email nurture with HCAHPS, VBP, and ACO operational vocabulary maintains procurement relationship continuity through Phoenix's healthcare enterprise evaluation cycles.`,
-  features: `FEATURES:
-
-TSMC/Intel Semiconductor Procurement Pipeline HubSpot:
+  features: `TSMC/Intel Semiconductor Procurement Pipeline HubSpot:
 For Chandler semiconductor services and technology vendors. Named account sequences for TSMC Fab 21 and Intel Ocotillo procurement contacts. SEMI-standards-precise email content tracks: SEMI F47/C62/E10 operational updates, ISO 14644-1 cleanroom management insights, semiconductor supply chain resilience analysis. HubSpot deal-stage triggers calibrated to 90-240 day semiconductor procurement cycles. SEMI community intelligence emails (SEMICON West updates, Arizona semiconductor ecosystem news).
 
 California In-Migration Arizona 5-Stage Professional Onboarding:
@@ -37,6 +35,8 @@ For Scottsdale and Chandler financial advisory, healthcare, and professional ser
 
 Mayo Clinic/Banner Health Procurement Nurture:
 For Phoenix health technology vendors. HCAHPS/VBP/ACO operational vocabulary email content tracks. Mayo Clinic Arizona and Banner Health named account HubSpot sequences. 90-180 day health system procurement cycle deal-stage triggers. HIPAA-compliant email data handling.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Chandler Semiconductor Services — TSMC/Intel Pipeline Nurture
 Client: Cleanroom services, Chandler (\$14M). Challenge: TSMC/Intel contacts cold in 120-180 day procurement cycles. Generic email below SEMI vocabulary standard.
 Programme: SEMI F47/C62/ISO 14644-1 email content + HubSpot TSMC/Intel named sequences + semiconductor supply chain intelligence + 150-day deal-stage triggers

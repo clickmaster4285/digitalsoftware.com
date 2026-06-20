@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Baltimore
 // URL: /web-design-agency-baltimore/
-// Generated: 2026-06-20T04:42:14.543Z
+// Generated: 2026-06-20T05:43:15.134Z
 
 export const WebDesign_Baltimore = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ JOHNS HOPKINS #1 INSTITUTIONAL YMYL DESIGN: Johns Hopkins Hospital's historicall
 T. ROWE PRICE FINRA-COMPLIANT INSTITUTIONAL INVESTMENT QUALITY: T. Rowe Price's \$1.3 trillion AUM institutional investment management operations create a financial technology vendor website standard calibrated to the compliance precision of the most sophisticated institutional investment manager in Maryland. FINRA Rule 2210-compliant website content from wireframe through launch, SEC Marketing Rule-compliant performance displays, T. Rowe Price institutional investment vocabulary in service descriptions, and the institutional visual quality that a \$1.3 trillion AUM firm expects from technology partners.
 
 UNDER ARMOUR SPORTS PERFORMANCE BRAND VISUAL IDENTITY: Under Armour's Brand House headquarters in Baltimore creates specific website design requirements for creative technology and brand analytics vendors — athletic brand performance visual quality, sports performance brand lifecycle vocabulary in service descriptions, and the authentic performance brand identity that Under Armour's Brand House team evaluates for creative vendor consideration.`,
-  features: `FEATURES:
-
-Johns Hopkins #1 Institutional YMYL Architecture:
+  features: `Johns Hopkins #1 Institutional YMYL Architecture:
 For Baltimore health IT vendors and healthcare practices. Johns Hopkins Medicine clinical research programme vocabulary pages. Armstrong Institute for Patient Safety operational service descriptions. Bloomberg School MPH/DrPH community vocabulary. Johns Hopkins Technology Ventures partnership credentials. HIPAA-native data architecture. #1 US YMYL E-E-A-T optimised content structure. CWV sub-1.6s LCP.
 
 T. Rowe Price FINRA-Compliant Institutional Investment Quality Architecture:
@@ -37,6 +35,8 @@ For Baltimore financial technology companies. FINRA Rule 2210-compliant website 
 
 Under Armour Sports Performance Brand Design Architecture:
 For Baltimore creative technology and retail analytics vendors. Athletic brand performance visual quality at Under Armour Brand House standard. Sports performance brand lifecycle vocabulary in service descriptions. Sports marketing ROI methodology pages. Performance athletic apparel retail analytics vocabulary.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Baltimore Health IT — Johns Hopkins #1 Institutional YMYL Redesign
 Client: Clinical analytics, Baltimore (\$7.4M ARR). Challenge: Website without Johns Hopkins #1 institutional credibility. JHM procurement dismissal.
 Programme: JHM/Armstrong Institute/Bloomberg vocabulary pages + #1 YMYL visual quality + HIPAA-native + CWV (5.2s to 1.4s)

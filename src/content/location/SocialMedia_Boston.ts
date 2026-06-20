@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Boston
 // URL: /social-media-marketing-boston/
-// Generated: 2026-06-20T04:42:14.036Z
+// Generated: 2026-06-20T05:43:14.386Z
 
 export const SocialMedia_Boston = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ FINRA-COMPLIANT BACK BAY FINANCIAL LINKEDIN: Boston's Fidelity ecosystem, Back B
 
 HMS-CREDENTIALLED ACADEMIC HEALTHCARE SOCIAL: Boston's Harvard Medical School, Mass General Brigham, and Dana-Farber Cancer Institute define the YMYL social media standard in New England. Healthcare LinkedIn and Instagram content for Boston practices and health technology companies must demonstrate HMS-calibre institutional authority — attending physician attribution, peer-reviewed citation, and the clinical precision that Boston's medically sophisticated professional community evaluates.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING BOSTON (KENDALL SQUARE FDA-AWARE):
+For Cambridge CROs, CDMOs, and pharmaceutical technology companies. FDA-aware content review before every LinkedIn post: Phase I-III clinical methodology vocabulary, CLIA/CAP certification content, IRB-aware clinical research communication. Harvard Medical School and Dana-Farber collaboration content. Stat News and FiercePharma community engagement. Pharmaceutical procurement audience relationship development via Sales Navigator. The FDA-compliant LinkedIn that earns genuine Kendall Square pharma community credibility.
+
+BOSTON FINRA-COMPLIANT FINANCIAL LINKEDIN:
+For Back Bay wealth managers, Fidelity ecosystem RIAs, and Massachusetts investment advisory. FINRA Rule 2210-compliant LinkedIn posts: no guaranteed return language, appropriate risk disclosures, compliant testimonial architecture. CFA-authored investment commentary. Massachusetts Securities Division compliance. Zero FINRA findings for Boston financial services LinkedIn clients post-implementation.
+
+BOSTON ACADEMIC HEALTHCARE LINKEDIN AND INSTAGRAM:
+For HMS-affiliated practices, Mass General Brigham-adjacent physicians, and healthcare technology companies. Attending physician attribution with HMS faculty appointments and Partners/MGH system affiliations. NEJM/JAMA/NEJM Catalyst citation-based clinical LinkedIn. HIPAA-aware healthcare social content.`,
   caseStudies: `Case Study 1: Kendall Square CDMO — FDA-Aware Pharmaceutical LinkedIn
 Client: Bioanalytical CDMO, Cambridge MA (\$14M). Challenge: Pfizer and BMS clinical development teams not seeing clinical expertise. Borderline FDA promotional language in existing posts.
 Programme: CSO LinkedIn programme + FDA-aware Phase I-III content + CLIA/CAP credential display + Stat News community

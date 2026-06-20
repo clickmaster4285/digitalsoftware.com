@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: NewOrleans
 // URL: /content-marketing-new-orleans/
-// Generated: 2026-06-20T04:42:10.843Z
+// Generated: 2026-06-20T05:43:06.911Z
 
 export const ContentMarketing_NewOrleans = {
   service: "ContentMarketing",
@@ -29,9 +29,7 @@ ENTERGY CORPORATION GRID MODERNISATION CONTENT: Entergy New Orleans' utility tec
 PORT OF NEW ORLEANS MARITIME LOGISTICS CONTENT: The Port of New Orleans' status as the largest US import port for coffee, rubber, and steel creates maritime logistics supply chain content marketing opportunities unique to Louisiana.
 
 NEW ORLEANS CONVENTION HOSPITALITY SEASONAL CONTENT: New Orleans' position as the US's second-largest convention city, combined with the world's most commercially leverageable events calendar — Mardi Gras (February/March), Jazz Fest (April-May), French Quarter Festival, Essence Festival — creates hospitality technology content marketing with seasonal commercial timing that no other US city can replicate.`,
-  features: `FEATURES:
-
-Ochsner/Tulane YMYL Clinical Research Content Authority Programme:
+  features: `Ochsner/Tulane YMYL Clinical Research Content Authority Programme:
 For New Orleans healthcare practices and health technology vendors. Ochsner Health cardiac and oncology clinical outcome analytics content. Tulane School of Medicine (est. 1834) academic research community. LSU Health Sciences Center New Orleans clinical programme. Louisiana YMYL academic medical content at NEJM/JAMA precision. AAMC (Association of American Medical Colleges) and Society of Hospital Medicine community editorial. GEO/AEO for New Orleans Ochsner/Tulane AI search queries.
 
 Entergy Corporation Grid Modernisation Content:
@@ -39,6 +37,8 @@ For New Orleans energy technology vendors. Entergy utility grid modernisation me
 
 New Orleans Convention Hospitality Seasonal Content:
 For New Orleans hospitality technology vendors. Mardi Gras season pre/post content calendar. Jazz Fest cultural hospitality operational content. Ernest N. Morial Convention Center event technology vocabulary. New Orleans convention management operational insights.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: New Orleans Health IT — Ochsner/Tulane YMYL Content Authority
 Client: Clinical analytics, New Orleans (\$5.4M ARR). Challenge: Generic health IT content. Ochsner/Tulane community not finding organically.
 Programme: Ochsner/Tulane/LSU Health YMYL content + AAMC/Society of Hospital Medicine editorial + GEO/AEO

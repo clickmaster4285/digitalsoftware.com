@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: SanDiego
 // URL: /email-marketing-san-diego/
-// Generated: 2026-06-20T04:42:12.111Z
+// Generated: 2026-06-20T05:43:10.283Z
 
 export const EmailMarketing_SanDiego = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ ITAR-BOUNDED DEFENCE PIPELINE EMAIL: San Diego's defence technology companies se
 TORREY PINES PHARMACEUTICAL PROCUREMENT NURTURE: Torrey Pines Mesa's pharmaceutical procurement cycles run 120-360 days for CRO/CDMO vendor selection. Email nurture content maintaining Pfizer, J&J Janssen, and Illumina contact relationships through these extended life science evaluation cycles must be FDA-aware: no pre-approval efficacy claims, balanced evidence presentation in clinical data content, and IRB-aware clinical research service descriptions.
 
 CCPA-COMPLIANT CALIFORNIA EMAIL INFRASTRUCTURE: California's CCPA and CPRA create specific requirements for email programme subscriber data collection, marketing automation data handling, and email analytics. San Diego email programmes without CCPA-compliant infrastructure create California AG enforcement exposure and produce inaccurate email performance data due to California's above-average opt-out rates in email consent management.`,
-  features: `FEATURES:
-
-ITAR-Bounded Defence Pipeline HubSpot:
+  features: `ITAR-Bounded Defence Pipeline HubSpot:
 For Kearny Mesa, Point Loma, and San Diego defence technology companies. ITAR-bounded email content review for every nurture piece. CMMC operational insights. AS9100D quality update content. DCAA compliance briefings. DoD regulatory change updates. HubSpot NAVWAR/Northrop/Leidos/BAE named account sequences. Deal-stage triggers for 90-240 day defence procurement cycles. CCPA-compliant subscriber data handling.
 
 Torrey Pines Pharmaceutical Procurement Nurture:
@@ -37,6 +35,8 @@ For Torrey Pines Mesa CROs, CDMOs, and biotech service companies. FDA-aware cont
 
 CCPA-Compliant California Consumer and Professional Services Email:
 For San Diego healthcare, legal, financial, and consumer businesses. CCPA-compliant consent management for subscriber data collection. CPRA-compliant marketing automation data handling. HIPAA dual-compliance for healthcare. FINRA-compliant for financial advisory. Klaviyo CCPA-native DTC consumer email.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Kearny Mesa Defence Tech — ITAR-Bounded NAVWAR Pipeline Nurture
 Client: Electronic warfare tech, Kearny Mesa (\$12M, AS9100D/CMMC). Challenge: NAVWAR/Northrop contacts going cold in 180-day procurement cycles. Non-CCPA email.
 Programme: ITAR-bounded CMMC/AS9100D nurture + HubSpot NAVWAR/Northrop sequences + CCPA-compliant infrastructure

@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: SanAntonio
 // URL: /email-marketing-san-antonio/
-// Generated: 2026-06-20T04:42:12.105Z
+// Generated: 2026-06-20T05:43:10.265Z
 
 export const EmailMarketing_SanAntonio = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ JBSA MILITARY COMMUNITY PCS-AWARE EMAIL: San Antonio's 80,000+ active duty and v
 BILINGUAL HIPAA PATIENT RETENTION: San Antonio's 65% Hispanic/Latino population creates a bilingual patient email challenge that is more commercially significant than in any other Texas city. The Spanish-speaking patient receiving English-only appointment reminders, post-visit follow-up, and health education emails is experiencing a subtle but persistent communication friction that over time contributes to above-average healthcare switching behaviour. Bilingual HIPAA patient email — with genuine South Texas Spanish content (not translated English) — reduces this friction and improves retention among San Antonio's primary patient demographic.
 
 SOUTH TEXAS MEDICAL CENTER B2B PIPELINE: The South Texas Medical Center generates health technology and medical services procurement decisions that span 90-180 day evaluation cycles. HubSpot-integrated email nurture specifically for STMC's procurement community maintains vendor relationships through these extended cycles.`,
-  features: `FEATURES:
-
-JBSA Military Community PCS-Aware Email Sequences:
+  features: `JBSA Military Community PCS-Aware Email Sequences:
 For San Antonio professional services, healthcare, and consumer service businesses serving the JBSA military community. PCS-transition acknowledgment email (stage-appropriate communication recognising the military family's relocation milestone). Pre-PCS appreciation and referral invitation sequence. Post-PCS returnee welcome (when military families return to JBSA for subsequent assignments). Military family network referral programme email. The email programme that converts the PCS cycle from a client attrition risk into a referral generation opportunity.
 
 Bilingual HIPAA Patient Retention (South Texas Standard):
@@ -37,6 +35,15 @@ For San Antonio healthcare practices with bilingual patient populations. Genuine
 
 STMC B2B Pipeline Nurture (HubSpot):
 For health technology vendors, medical equipment suppliers, and healthcare services companies competing for STMC procurement. HubSpot deal-stage-triggered nurture for STMC's procurement cycles. HIPAA-aware B2B content. Named STMC member organisation account sequences.`,
+  pas: ``,
+  services: `SAN ANTONIO MILITARY COMMUNITY EMAIL (HUBSPOT):
+JBSA PCS-aware pipeline nurture for healthcare, financial advisory, legal, and consumer service businesses. PCS-transition acknowledgment sequences. Military network referral programme email. BAH/BAS/TSP/VA loan content tracks. Military family appreciation communications. HubSpot military community pipeline tracking.
+
+SAN ANTONIO BILINGUAL HEALTHCARE EMAIL (HIPAA):
+Bilingual Spanish/English patient retention for STMC-adjacent practices and multi-location health groups. Language-conditional HIPAA-compliant ESP (HubSpot with BAA or Salesforce Health Cloud). South Texas Spanish vocabulary. Bilingual lapsed patient reactivation. Annual bilingual preventive care programme.
+
+SAN ANTONIO STMC B2B PIPELINE NURTURE:
+For health technology, medical equipment, and healthcare services companies competing for STMC procurement. HubSpot STMC nurture (6-stage). HIPAA-aware B2B content. Named STMC account sequences. Deal-stage automation.`,
   caseStudies: `Case Study 1: Stone Oak Financial Advisory — JBSA Military Pipeline Email
 Client: Wealth management, Stone Oak (\$180M AUM, military/veteran focus). Challenge: Military clients leaving upon PCS orders without referral generation. No systematic military community email.
 Programme: PCS-aware acknowledgment + military network referral programme + VA/TSP content tracks + HubSpot military pipeline tracking

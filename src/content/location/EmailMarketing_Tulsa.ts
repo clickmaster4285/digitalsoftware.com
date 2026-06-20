@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Tulsa
 // URL: /email-marketing-tulsa/
-// Generated: 2026-06-20T04:42:12.173Z
+// Generated: 2026-06-20T05:43:10.381Z
 
 export const EmailMarketing_Tulsa = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ WILLIAMS/ONEOK MIDSTREAM PIPELINE EMAIL: Williams and ONEOK procurement cycles r
 BOK FINANCIAL FINRA BANKING NURTURE: BOK Financial's procurement cycles run 90-180 days for banking technology vendor evaluation. FINRA-compliant email with BOK Financial's commercial banking vocabulary and wealth management operational intelligence.
 
 GPA MIDSTREAM ANNUAL CONFERENCE AND OIL CAPITAL SEASONAL: The Gas Processors Association (GPA Midstream) Annual Conference — typically held in San Antonio in spring but drawing significant Tulsa attendance — creates a seasonal email engagement window for midstream energy vendors. The Tulsa State Fair (September) and Gathering Place seasonal events create consumer brand email engagement windows unique to Tulsa.`,
-  features: `FEATURES:
-
-Williams/ONEOK Midstream Pipeline HubSpot:
+  features: `Williams/ONEOK Midstream Pipeline HubSpot:
 For Tulsa midstream technology vendors. Williams Transco pipeline optimisation intelligence. ONEOK NGL fractionation methodology content. Natural gas gathering/processing updates. HubSpot Williams/ONEOK named sequences. 90-180 day midstream procurement triggers.
 
 BOK Financial FINRA Banking Nurture:
@@ -37,6 +35,8 @@ For Tulsa banking technology vendors. FINRA-compliant BOK Financial commercial b
 
 Oil Capital Seasonal Commercial Email:
 For Tulsa consumer brands and hospitality. GPA Midstream Conference season (spring): midstream community engagement window. Tulsa State Fair (September): peak consumer retail engagement. Gathering Place seasonal events: community brand awareness calendar.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Tulsa Midstream Technology — Williams/ONEOK Pipeline
 Client: Midstream analytics, Tulsa (\$5.4M ARR). Challenge: Williams/ONEOK contacts cold. Generic energy newsletter.
 Programme: Williams Transco/ONEOK NGL email + HubSpot named sequences + 90-day midstream triggers

@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Tulsa
 // URL: /local-seo-services-tulsa/
-// Generated: 2026-06-20T04:42:13.469Z
+// Generated: 2026-06-20T05:43:12.718Z
 
 export const LocalSEO_Tulsa = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ SAINT FRANCIS/OU MEDICINE YMYL ACADEMIC MEDICAL CREDENTIAL: Saint Francis Health
 
 SOUTHERN HILLS/UTICA SQUARE PROFESSIONAL QUALITY: Southern Hills' established Country Club district and Utica Square — Tulsa's premier luxury retail destination, anchored by Saks Fifth Avenue — represent the highest-income professional communities in Greater Tulsa.`,
   features: ``,
+  pas: `PROBLEM: The South Tulsa financial advisory with a Williams Companies engineer and ONEOK VP client base — 20 reviews, generic 'Tulsa wealth management' GBP, no CFA verification, no Williams/ONEOK vocabulary. The Williams VP Digital Operations who relocated from Houston searches 'fee-only financial adviser South Tulsa CFA Williams midstream.' GBP: 20 reviews, no CFA Institute verification. He selects the firm with 108 reviews, CFA, 'financial planning for Williams Companies, ONEOK, and BOK Financial professionals in South Tulsa.'
+
+SOLUTION: Clickmasters Tulsa Local SEO provides the Williams/ONEOK midstream proximity, Saint Francis/OU Medicine YMYL, and Southern Hills/Utica Square professional quality GBP programme.`,
+  services: `TULSA WILLIAMS/ONEOK MIDSTREAM PROXIMITY B2B GBP:
+For downtown Tulsa and South Tulsa midstream adjacent vendors. Williams Transco/ONEOK NGL vocabulary in GBP. Downtown Tulsa midstream proximity signals. Midstream energy professional photography.
+
+TULSA SAINT FRANCIS/OU MEDICINE YMYL GBP:
+For Tulsa healthcare practices. Saint Francis Health programme vocabulary. OU Medicine OSU Medical vocabulary. HIPAA-compliant review management.
+
+TULSA SOUTHERN HILLS/UTICA SQUARE PROFESSIONAL QUALITY GBP:
+For South Tulsa professional services. CFA/CFP with CFA Institute/CFP Board verification. Williams/ONEOK/BOK professional community vocabulary. Utica Square luxury professional photography. FINRA-aware.`,
   caseStudies: `Case Study 1: South Tulsa Financial Advisory — Williams/ONEOK Professional Quality GBP
 Client: Fee-only RIA, South Tulsa (\$160M AUM). Challenge: GBP below Williams/ONEOK professional standard.
 Programme: CFA verification + Williams/ONEOK/BOK vocabulary + FINRA-aware + Utica Square professional photography

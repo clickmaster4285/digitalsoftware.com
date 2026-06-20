@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Minneapolis
 // URL: /web-design-agency-minneapolis/
-// Generated: 2026-06-20T04:42:14.746Z
+// Generated: 2026-06-20T05:43:15.573Z
 
 export const WebDesign_Minneapolis = {
   service: "WebDesign",
@@ -40,6 +40,15 @@ For Minneapolis healthcare practices and health technology companies. HIPAA-nati
 
 Core Web Vitals and WCAG 2.1 AA:
 LCP under 2.5 seconds, CLS under 0.1. Minnesota state contract eligibility requires WCAG 2.1 AA.`,
+  pas: ``,
+  services: `MINNEAPOLIS MEDICAL ALLEY WEBSITE DESIGN:
+For Plymouth, Eden Prairie, and Maple Grove Medical Alley device and health technology companies. FDA clearance display architecture. KLAS rating integration. Peer-reviewed clinical evidence pages. HIPAA-compliant data handling. The clinical credibility website that earns health system vendor evaluation invitations.
+
+MINNEAPOLIS FORTUNE 500 VENDOR WEBSITE DESIGN:
+For companies competing for Target, UnitedHealth, Best Buy, 3M, and Cargill procurement. Institutional visual quality with Scandinavian design precision. Named executive credential display. Fortune 500-scale case study architecture. ISO/SOC 2/IATF certification display. The vendor credibility website that earns Fortune 500 procurement evaluation consideration.
+
+TWIN CITIES PROFESSIONAL SERVICES WEBSITE DESIGN:
+For Minneapolis healthcare practices, financial advisory, legal, and professional services businesses. HIPAA-compliant healthcare. FINRA-aware financial services. Minnesota bar-compliant legal. Clean Scandinavian design precision. The professional quality website that earns trust from Minnesota's commercially discerning professional community.`,
   caseStudies: `Case Study 1: Plymouth Medical Device Company — FDA/KLAS Credibility Redesign
 Client: Cardiac monitoring device, Plymouth MN (\$18M, FDA 510k). Challenge: Website without FDA clearance display, no KLAS rating, no peer-reviewed clinical evidence. IDN procurement teams not finding clinical credibility during digital due diligence.
 Programme: FDA 510k display + KLAS rating integration + peer-reviewed evidence architecture + HIPAA compliance + sub-2.0s LCP

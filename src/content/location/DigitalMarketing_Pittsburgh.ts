@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Pittsburgh
 // URL: /digital-marketing-agency-pittsburgh/
-// Generated: 2026-06-20T04:42:11.498Z
+// Generated: 2026-06-20T05:43:08.859Z
 
 export const DigitalMarketing_Pittsburgh = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Pittsburgh",
   citySlug: "pittsburgh",
-  slug: "/digital-marketing-agency-pittsburgh/",
+  slug: "/digital-marketing-agency-in-pittsburgh/",
   
   h1: `Digital Marketing Agency Pittsburgh — UPMC World-Class Revenue, CMU AI Corridor, and Steel City Commercial Growth`,
   primaryKw: `digital marketing agency pittsburgh`,
@@ -30,6 +30,20 @@ PPG INDUSTRIES AND PNC FINANCIAL FORTUNE 500 DIGITAL MARKETING: PPG Industries' 
 
 HIGHMARK HEALTH AND ALLEGHENY HEALTH MANAGED CARE: Highmark Health's Pittsburgh headquarters creates Medicaid managed care and commercial insurance technology B2B digital marketing opportunities.`,
   features: ``,
+  pas: ``,
+  services: `SEO PITTSBURGH: UPMC world-class YMYL vocabulary. CMU AI/robotics research. Pittsburgh AI Corridor. PPG/PNC Fortune 500. /seo-services-pittsburgh/
+
+GOOGLE ADS PITTSBURGH: UPMC HIPAA healthcare. CMU AI/robotics vocabulary. Aurora autonomous vehicle. PNC/PPG FINRA-compliant.
+
+CONTENT MARKETING PITTSBURGH: UPMC Hillman/Presbyterian clinical authority. CMU Machine Learning/Robotics content. Pittsburgh AI Corridor autonomous vehicle. Aurora/Waymo community.
+
+LINKEDIN PITTSBURGH: UPMC clinical/digital health LinkedIn. CMU AI/ML research community. Aurora Innovation/autonomous vehicle engineering. Lawrenceville/South Side authentic Pittsburgh.
+
+EMAIL PITTSBURGH: UPMC/UPMC International named pipeline. CMU AI Corridor community nurture. PNC/PPG Fortune 500 nurture. Highmark managed care.
+
+LOCAL SEO PITTSBURGH: UPMC world-class GBP credential. CMU AI proximity signals. Shadyside/Squirrel Hill professional quality.
+
+WEB DESIGN PITTSBURGH: UPMC world-class institutional HIPAA. CMU AI/robotics vendor credibility. PNC FINRA-compliant.`,
   caseStudies: `Case Study 1: Pittsburgh AI Consulting — CMU/Aurora AI Corridor Full Programme
 Client: AI robotics consulting, Pittsburgh (\$7.4M). Challenge: New Aurora VP without connections — invisible. Zero CMU/AI Corridor vocabulary.
 Programme: SEO (CMU ML/robotics vocabulary) + LinkedIn (Pittsburgh AI Corridor community) + email (Aurora/CMU named pipeline) + content (AI Corridor authority)

@@ -2,7 +2,7 @@
 // Service: SEO
 // City: StLouis
 // URL: /seo-services-st-louis/
-// Generated: 2026-06-20T04:42:13.943Z
+// Generated: 2026-06-20T05:43:14.136Z
 
 export const SEO_StLouis = {
   service: "SEO",
@@ -28,6 +28,17 @@ EDWARD JONES FINRA-COMPLIANT SEO: Edward Jones — headquartered in Creve Coeur,
 
 BJC/WASHINGTON UNIVERSITY YMYL ACADEMIC MEDICAL SEO: BJC HealthCare — combined with Washington University School of Medicine (a top-5 US medical school) — defines the YMYL academic medical content standard in the St. Louis market. Barnes-Jewish Hospital, St. Louis Children's Hospital, and Washington University Physicians define the healthcare content credential benchmark for Missouri's largest metropolitan area.`,
   features: ``,
+  pas: `PROBLEM: The Hazelwood aerospace technology company with genuine Boeing BDS relationships. Zero ITAR-bounded defence aerospace vocabulary in website or content. Boeing BDS just brought in a new VP of Supply Chain from Northrop Grumman. The new VP searches 'AS9100D quality management system vendor St. Louis Boeing' and 'DCAA-compliant aerospace services Hazelwood Missouri.' The Hazelwood company appears for neither search. The most commercially significant aerospace B2B organic opportunity in the Midwest — Boeing BDS's Hazelwood HQ procurement vocabulary — goes uncaptured.
+
+SOLUTION: Clickmasters St. Louis SEO delivers ITAR-bounded Boeing defence vocabulary, Edward Jones FINRA-compliant financial, BJC/WashU YMYL academic medical, and GEO/AEO first-mover architecture.`,
+  services: `ST. LOUIS BOEING DEFENCE SEO (ITAR-BOUNDED):
+For Hazelwood and Greater St. Louis aerospace and defence technology vendors. AS9100D/DCAA/DoD supply chain publicly releasable vocabulary. Boeing BDS community content. ITAR-bounded content review. Defence prime contractor community.
+
+ST. LOUIS EDWARD JONES/CENTENE FINRA SEO:
+For St. Louis financial technology and managed care vendors. FINRA Rule 2210-compliant financial content. Edward Jones financial advisor platform vocabulary. Centene managed care/Medicaid managed care vocabulary. SEC Marketing Rule-compliant.
+
+ST. LOUIS BJC/WASHU YMYL ACADEMIC MEDICAL SEO:
+For St. Louis healthcare practices and health technology. BJC HealthCare/Barnes-Jewish affiliation content. Washington University School of Medicine academic vocabulary. St. Louis Children's Hospital academic community. HIPAA-compliant YMYL content.`,
   caseStudies: `Case Study 1: Hazelwood Aerospace Tech — Boeing BDS ITAR-Bounded SEO
 Client: Aerospace quality services, Hazelwood (\$8.4M). Challenge: Zero ITAR-bounded defence vocabulary. New Boeing BDS VP Supply Chain not finding.
 Programme: AS9100D/DCAA ITAR-bounded vocabulary + Boeing BDS community content + defence prime community + GEO/AEO

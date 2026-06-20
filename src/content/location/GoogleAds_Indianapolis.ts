@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Indianapolis
 // URL: /google-ads-management-indianapolis/
-// Generated: 2026-06-20T04:42:12.375Z
+// Generated: 2026-06-20T05:43:10.733Z
 
 export const GoogleAds_Indianapolis = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ CUMMINS ENTERPRISE COMMERCIAL POWER GOOGLE ADS: Cummins Inc.'s commercial engine
 
 IU HEALTH HIPAA PATIENT ACQUISITION GOOGLE ADS: Indiana University Health and Eskenazi Health create a healthcare patient acquisition PPC landscape requiring HIPAA server-side conversion tracking and IU academic medical community vocabulary.`,
   features: ``,
+  pas: `PROBLEM: The Indianapolis GMP pharmaceutical consulting firm spending \$7,200/month on 'pharmaceutical consulting Indianapolis' and 'FDA regulatory consulting Indiana.' Eli Lilly's new VP Global Manufacturing from Pfizer searches 'GMP API manufacturing validation consultant Indianapolis' and 'CMC pharmaceutical regulatory consulting Lilly vendor Indiana.' Neither search is in the campaign. \$86K annual spend on generic vocabulary completely misses Eli Lilly's GMP manufacturing operational vocabulary — the most commercially significant B2B procurement search in Indiana.
+
+SOLUTION: Clickmasters Indianapolis Google Ads delivers Eli Lilly GMP/FDA pharmaceutical vocabulary, Cummins commercial power enterprise community, IU Health HIPAA patient acquisition, and FINRA-compliant financial advertising — at Indiana CPCs 20-30% below Boston and Chicago equivalents.`,
+  services: `INDIANAPOLIS ELI LILLY PHARMACEUTICAL GOOGLE ADS:
+For Indianapolis pharma consulting and services companies. GMP API manufacturing, CMC regulatory, IND/NDA vocabulary. Eli Lilly/Corteva/Elanco audience signals. FDA-aware landing pages. HIPAA healthcare where applicable.
+
+INDIANAPOLIS CUMMINS ENTERPRISE GOOGLE ADS:
+For Indianapolis fleet and commercial power technology vendors. Cummins diesel/clean transportation vocabulary. Fleet management and power solutions enterprise. Allison Transmission community. Simon Property REIT vocabulary.
+
+INDIANAPOLIS IU HEALTH HIPAA PATIENT ACQUISITION:
+For Indianapolis healthcare practices and health technology. HIPAA server-side conversion tracking. IU Health/Eskenazi community vocabulary. Carmel professional community healthcare audience.`,
   caseStudies: `Case Study 1: Indianapolis Pharma Consulting — Eli Lilly GMP Vocabulary PPC
 Client: GMP manufacturing consulting, Indianapolis (\$6.8M). Challenge: \$86K annual spend on generic vocabulary. Lilly GMP vocabulary searches unreached.
 Programme: GMP/API/CMC vocabulary + Lilly/Corteva audience + FDA-aware landing pages + CRM import

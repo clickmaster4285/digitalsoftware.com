@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Raleigh
 // URL: /web-design-agency-raleigh/
-// Generated: 2026-06-20T04:42:14.868Z
+// Generated: 2026-06-20T05:43:15.925Z
 
 export const WebDesign_Raleigh = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ RTP PHARMACEUTICAL FDA-AWARE INSTITUTIONAL CREDIBILITY: Research Triangle Park's
 DUKE/UNC YMYL ACADEMIC MEDICAL DESIGN: Duke University Hospital's research-intensive academic medical standard and UNC Hospitals Chapel Hill's clinical research authority define the YMYL E-E-A-T standard for healthcare content in the Triangle. Healthcare practices and health technology companies competing in the Research Triangle healthcare market need websites with Duke Medicine or UNC Health system affiliation display, Brody School of Medicine/UNC School of Medicine faculty attribution where applicable, and HIPAA-native data architecture.
 
 RESEARCH TRIANGLE TECH ENTERPRISE CREDIBILITY: Cisco's RTP campus, Red Hat's Durham headquarters, and Lenovo North America's Morrisville headquarters create a technology enterprise buyer community evaluating vendor websites against the institutional quality of Fortune 100 technology companies. Technology vendors competing for RTP enterprise tech procurement need websites demonstrating institutional credibility at Red Hat/Cisco/Lenovo procurement quality expectations.`,
-  features: `FEATURES:
-
-RTP Pharmaceutical FDA-Aware Institutional Credibility:
+  features: `RTP Pharmaceutical FDA-Aware Institutional Credibility:
 For Durham, RTP, and Triangle pharmaceutical consulting and services companies. FDA regulatory compliance awareness in website content. CMC operational methodology service description pages. IRB affiliation display. CLIA/CAP laboratory certification where applicable. FDA 483 response management experience communication. Clinical institutional visual quality at Biogen/GSK vendor evaluation standard. HIPAA-native data architecture.
 
 Duke/UNC YMYL Academic Medical Architecture:
@@ -37,6 +35,8 @@ For Triangle healthcare practices and health technology companies. Duke Universi
 
 Research Triangle Tech Enterprise Credibility:
 For RTP technology vendors. Red Hat/Cisco/Lenovo enterprise procurement quality visual standard. Open source enterprise credential display. Cisco networking partner certifications. CWV sub-1.6s LCP for RTP tech community.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Durham Pharma Consulting — RTP FDA Institutional Credibility Redesign
 Client: CMC regulatory consulting, Durham (\$6.8M). Challenge: Website without FDA regulatory institutional credibility. Biogen/GSK procurement dismissal during digital due diligence.
 Programme: FDA-aware CMC methodology pages + IRB/CLIA display + pharma institutional visual + CWV (5.2s to 1.4s)

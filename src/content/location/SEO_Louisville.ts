@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Louisville
 // URL: /seo-services-louisville/
-// Generated: 2026-06-20T04:42:13.706Z
+// Generated: 2026-06-20T05:43:13.283Z
 
 export const SEO_Louisville = {
   service: "SEO",
@@ -32,6 +32,17 @@ UOFL HEALTH AND NORTON HEALTHCARE YMYL SEO: University of Louisville Health — 
 
 KENTUCKY DERBY SEASONAL SEO: Churchill Downs' Kentucky Derby (first Saturday in May) creates a nationally recognised seasonal commercial content opportunity for Louisville businesses.`,
   features: ``,
+  pas: `PROBLEM: The Louisville health technology company with genuine Humana relationships. Zero Humana Medicare Advantage/Stars ratings vocabulary in website. Humana appointed a new VP of Value-Based Care Technology from CVS/Aetna. He searches 'Medicare Advantage analytics vendor Louisville Humana' and 'value-based care technology partner Kentucky.' Company appears for neither. Humana — one of the US's largest Medicare Advantage plans — is headquartered in Louisville and generates B2B vocabulary that no Louisville SEO agency addresses at the required health insurance operational specificity.
+
+SOLUTION: Clickmasters Louisville SEO delivers Humana Medicare Advantage/Stars ratings B2B authority, GE Appliances manufacturing, Churchill Downs hospitality/gaming, UofL Health/Norton YMYL, and Kentucky Derby seasonal content first-mover.`,
+  services: `LOUISVILLE HUMANA HEALTH INSURANCE TECHNOLOGY SEO:
+For Louisville health insurance technology vendors. Humana Medicare Advantage/Stars ratings vocabulary. Value-based care analytics content. HEDIS quality measure vocabulary. Brown-Forman spirits brand adjacent.
+
+LOUISVILLE GE APPLIANCES/MANUFACTURING B2B SEO:
+For Louisville manufacturing technology vendors. GE Appliances manufacturing vocabulary. Smart home technology analytics. Louisville manufacturing supply chain content.
+
+LOUISVILLE CHURCHILL DOWNS/UOFL HEALTH YMYL/GAMING SEO:
+For Louisville hospitality and healthcare vendors. Churchill Downs hospitality/gaming technology. UofL Health/Norton YMYL academic medical. Kentucky Derby seasonal content. HIPAA-compliant YMYL.`,
   caseStudies: `Case Study 1: Louisville Health Technology — Humana Medicare Advantage SEO
 Client: Health insurance analytics, Louisville (\$5.4M ARR). Challenge: Zero Humana Medicare Advantage/Stars vocabulary. New VP Value-Based Care not finding.
 Programme: Humana Medicare Advantage/Stars ratings/value-based care vocabulary + GEO/AEO

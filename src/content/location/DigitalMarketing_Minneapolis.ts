@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Minneapolis
 // URL: /digital-marketing-agency-minneapolis/
-// Generated: 2026-06-20T04:42:11.411Z
+// Generated: 2026-06-20T05:43:08.723Z
 
 export const DigitalMarketing_Minneapolis = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Minneapolis",
   citySlug: "minneapolis",
-  slug: "/digital-marketing-agency-minneapolis/",
+  slug: "/digital-marketing-agency-in-minneapolis/",
   
   h1: `Digital Marketing Agency Minneapolis — Medical Alley Revenue Growth, Fortune 500 MN Vendor, and Twin Cities Commercial Programme`,
   primaryKw: `digital marketing agency minneapolis`,
@@ -28,6 +28,20 @@ FORTUNE 500 MINNESOTA COMMERCIAL PRECISION: Target, UnitedHealth Group, 3M, Gene
 
 SCANDINAVIAN COMMERCIAL CULTURE: Minneapolis's Scandinavian heritage creates a professional and consumer commercial culture that rewards understated specific evidence over promotional positioning. Digital marketing calibrated to this cultural standard — KLAS scores with specific year and rating category context rather than 'industry-leading' claims, Target supply chain specifics rather than 'Fortune 500 supply chain solutions' — earns proportionally higher commercial engagement from the Twin Cities professional community.`,
   features: ``,
+  pas: ``,
+  services: `SEO MINNEAPOLIS: Medical Alley KLAS/IDN vocabulary authority. Fortune 500 MN operational specificity. HIPAA healthcare. FINRA financial. /seo-services-minneapolis/
+
+GOOGLE ADS MINNEAPOLIS: Medical Alley health IT patient acquisition PPC. Fortune 500 MN enterprise procurement. FINRA-compliant UnitedHealth financial. HIPAA healthcare.
+
+CONTENT MARKETING MINNEAPOLIS: KLAS-calibrated clinical content. Target/UnitedHealth/3M operational authority. Scandinavian-understated evidence content. HIMSS Twin Cities community. /content-marketing-minneapolis/
+
+LINKEDIN MINNEAPOLIS: Medical Alley IDN clinical executive targeting. Fortune 500 MN thought leadership. FINRA financial. Scandinavian evidence-standard professional social. /social-media-marketing-minneapolis/
+
+EMAIL MINNEAPOLIS: HIMSS Twin Cities reactivation. Fortune 500 MN 90-180 day pipeline nurture. HIPAA healthcare retention. FINRA financial. /email-marketing-minneapolis/
+
+LOCAL SEO MINNEAPOLIS: Medical Alley proximity GBP. Scandinavian evidence-standard review management. FINRA/HIPAA compliance. /local-seo-services-minneapolis/
+
+WEB DESIGN MINNEAPOLIS: Medical Alley KLAS institutional credibility. Scandinavian design precision. HIPAA healthcare. /web-design-agency-minneapolis/`,
   caseStudies: `Case Study 1: Eden Prairie Health IT — Medical Alley Full Digital Programme
 Client: Population health analytics SaaS, Eden Prairie (\$12M ARR). Challenge: 3 new Medical Alley IDN executives without existing relationships — company invisible across digital channels.
 Programme: SEO (KLAS/IDN vocabulary) + LinkedIn (IDN clinical executive) + email (HIMSS Twin Cities reactivation) + content (KLAS clinical thought leadership)

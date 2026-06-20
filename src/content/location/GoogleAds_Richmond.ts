@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Richmond
 // URL: /google-ads-management-richmond/
-// Generated: 2026-06-20T04:42:12.812Z
+// Generated: 2026-06-20T05:43:11.348Z
 
 export const GoogleAds_Richmond = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ DOMINION ENERGY CLEAN ENERGY AND GRID MODERNISATION GOOGLE ADS: Dominion Energy 
 
 VCU HEALTH/BON SECOURS HIPAA VCDPA PATIENT ACQUISITION: VCU Health and Bon Secours Virginia Health System create healthcare patient acquisition and health technology PPC markets requiring both HIPAA-compliant server-side conversion tracking and Virginia VCDPA consent management.`,
   features: ``,
+  pas: `PROBLEM: The Henrico County ML analytics company spending \$4,800/month on 'machine learning consulting Richmond' and 'data analytics Virginia.' Capital One's new VP Machine Learning Engineering searches 'machine learning credit decisioning analytics vendor Capital One Henrico County' and 'consumer lending ML analytics partner Richmond.' Neither in the campaign. \$57K annual spend misses Capital One's specific ML credit decisioning vocabulary — the most commercially advanced fintech operational language in Virginia.
+
+SOLUTION: Clickmasters Richmond Google Ads delivers Capital One FINRA ML vocabulary, Dominion Energy clean energy technology, VCU Health/Bon Secours HIPAA VCDPA patient acquisition — at Virginia CPCs below Washington DC and Charlotte equivalents.`,
+  services: `RICHMOND CAPITAL ONE FINRA ML GOOGLE ADS:
+For Henrico County fintech and analytics vendors. Capital One ML credit decisioning vocabulary. FINRA Rule 2210-compliant ad content. Consumer lending technology. Virginia VCDPA consent management.
+
+RICHMOND DOMINION ENERGY CLEAN ENERGY GOOGLE ADS:
+For Richmond energy technology vendors. Dominion Energy offshore wind/carbon neutrality vocabulary. Grid modernisation technology. Clean energy transition. Virginia utility community.
+
+RICHMOND VCU HEALTH/BON SECOURS HIPAA VCDPA GOOGLE ADS:
+For Richmond healthcare practices and health technology. HIPAA server-side conversion tracking. Virginia VCDPA consent management. VCU Health academic vocabulary. Bon Secours Virginia community.`,
   caseStudies: `Case Study 1: Henrico County Fintech — Capital One ML/FINRA PPC
 Client: ML analytics, Henrico County (\$6.4M ARR). Challenge: \$57K spend missing Capital One ML vocabulary. Non-FINRA.
 Programme: Capital One ML credit decisioning vocabulary + FINRA-compliant + VCDPA consent management

@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Miami
 // URL: /digital-marketing-agency-miami/
-// Generated: 2026-06-20T04:42:11.397Z
+// Generated: 2026-06-20T05:43:08.712Z
 
 export const DigitalMarketing_Miami = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Miami",
   citySlug: "miami",
-  slug: "/digital-marketing-agency-miami/",
+  slug: "/digital-marketing-agency-in-miami/",
   
   h1: `Digital Marketing Agency Miami — Bilingual LATAM-Gateway Revenue Growth for America's Most Commercially Bilingual Market`,
   primaryKw: `digital marketing agency miami`,
@@ -28,6 +28,20 @@ LATAM-GATEWAY COMMERCIAL OPPORTUNITY: Miami's position as the primary US gateway
 
 FLORIDA SB 262 COMPLIANCE DIGITAL MARKETING: Florida's SB 262 (effective July 2024) creates specific consumer data privacy requirements for digital marketing analytics, ad tracking, and email data collection. Miami businesses running digital marketing programmes without SB 262-compliant data management are creating Florida AG enforcement exposure across every digital channel simultaneously.`,
   features: ``,
+  pas: ``,
+  services: `SEO MIAMI: Bilingual English/Spanish organic authority. LATAM B2B gateway content. Florida SB 262-compliant analytics. FINRA/HIPAA compliance. /seo-services-miami/
+
+GOOGLE ADS MIAMI: Bilingual English/Spanish campaigns (Spanish CPL typically 20-30% below English). Florida SB 262 consent management. FINRA-compliant financial ads. HIPAA healthcare patient acquisition.
+
+CONTENT MARKETING MIAMI: LATAM-calibrated Spanish B2B content. English thought leadership for US community. Bilingual Miami consumer content. FINRA-compliant investment content.
+
+SOCIAL MEDIA MIAMI: Bilingual LinkedIn (Brickell financial + LATAM B2B). Spanish Instagram/Facebook (consumer + healthcare). WhatsApp Business API for LATAM B2B community.
+
+EMAIL MIAMI: Bilingual HubSpot CRM (language-conditional). LATAM relationship maintenance. Bilingual HIPAA patient retention. Florida SB 262-compliant data management. /email-marketing-miami/
+
+LOCAL SEO MIAMI: Bilingual English/Spanish Local Pack. LATAM B2B proximity signalling. FINRA/HIPAA review management. /local-seo-services-miami/
+
+WEB DESIGN MIAMI: Bilingual HIPAA healthcare. FINRA-compliant financial. LATAM B2B institutional credibility. /web-design-miami/ (forthcoming)`,
   caseStudies: `Case Study 1: Brickell Wealth Management — Bilingual LATAM Full Digital Programme
 Client: RIA, Brickell (\$2.8B AUM, 35% LATAM-origin). Challenge: English-only digital missing 35% LATAM HNW audience. Venezuelan/Colombian searchers finding Coral Gables competitors.
 Programme: Bilingual SEO + bilingual Google Ads + Spanish LinkedIn + bilingual email (HubSpot) + SB 262 compliance

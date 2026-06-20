@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Miami
 // URL: /local-seo-services-miami/
-// Generated: 2026-06-20T04:42:13.195Z
+// Generated: 2026-06-20T05:43:12.299Z
 
 export const LocalSEO_Miami = {
   service: "LocalSEO",
@@ -28,6 +28,19 @@ FLORIDA SB 262 REVIEW ANALYTICS: Florida's SB 262 (July 2024) creates requiremen
 
 BRICKELL INSTITUTIONAL FINANCIAL GBP: Brickell's concentration of LATAM-facing wealth managers, private banks, and investment advisors creates a financial GBP quality standard requiring bilingual CFA/CFP credentials with authority verification links, FINRA-aware bilingual review management, and institutional-quality photography that communicates the international financial sophistication of Miami's most commercially valuable professional community.`,
   features: ``,
+  pas: `PROBLEM: The Brickell wealth management firm with \$2.2B AUM — strong Colombian and Venezuelan client base — whose GBP shows 32 reviews at 4.7 stars, an English-only description, and no bilingual content. The Venezuelan family office representative searching 'asesor financiero wealth management Brickell bilingüe Venezuela experiencia' reads the English-only GBP and concludes the firm doesn't prioritise the Spanish-speaking LATAM community. She selects the Brickell firm with 148 reviews, a bilingual Spanish description citing Venezuelan community estate planning expertise, and FINRA-compliant Spanish review management.
+
+AGITATION: Miami's bilingual Local Pack competition is rising as national financial chains and digitally sophisticated bilingual firms invest in systematic Spanish GBP management — raising the bilingual standard that English-only Miami businesses must match.
+
+SOLUTION: Clickmasters Miami Local SEO provides the bilingual LATAM-authentic, Brickell institutional credential, SB 262-compliant GBP programme that earns Miami's most commercially valuable LATAM professional community trust.`,
+  services: `MIAMI BILINGUAL LATAM GBP MANAGEMENT:
+For all Miami businesses serving the bilingual community. Native South Florida Spanish descriptions — Venezuelan, Colombian, Cuban, Argentine community vocabulary (not translated English). Bilingual GBP Posts with LATAM cultural calendar content. Bilingual review responses. Florida SB 262-compliant review data analytics. HIPAA-compliant bilingual for healthcare. Florida Bar-compliant bilingual for legal.
+
+MIAMI BRICKELL INSTITUTIONAL FINANCIAL GBP:
+For Brickell wealth managers and private banking. Bilingual CFA/CFP/CIMA with authority verification links. FINRA-aware bilingual review management. GIPS-compliant performance language in bilingual GBP. Institutional international quality photography. SB 262-compliant analytics.
+
+MIAMI NEIGHBOURHOOD-PRECISE LOCAL SEO:
+For Coral Gables, Wynwood, Coconut Grove, and Doral neighbourhood businesses. Each Miami neighbourhood has distinct commercial vocabulary. Coral Gables Mediterranean professional community. Wynwood creative arts DTC. Doral Venezuelan/Colombian business community. Coconut Grove family professional.`,
   caseStudies: `Case Study 1: Brickell Wealth Management — Bilingual LATAM Institutional GBP Rebuild
 Client: Private wealth RIA, Brickell (\$2.2B AUM, 40% LATAM-origin). Challenge: English-only GBP. 32 reviews. LATAM community evaluating as institutionally indifferent.
 Programme: Native bilingual GBP (Venezuelan/Colombian estate planning vocabulary) + bilingual CFA verification links + FINRA bilingual review management + SB 262 analytics

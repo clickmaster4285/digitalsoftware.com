@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Albuquerque
 // URL: /google-ads-management-albuquerque/
-// Generated: 2026-06-20T04:42:12.196Z
+// Generated: 2026-06-20T05:43:10.433Z
 
 export const GoogleAds_Albuquerque = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ INTEL RIO RANCHO SEMICONDUCTOR ENTERPRISE GOOGLE ADS: Intel Rio Rancho generates
 
 UNM HEALTH/PRESBYTERIAN HIPAA PATIENT ACQUISITION: UNM Health Sciences Center and Presbyterian Healthcare Services create healthcare patient acquisition PPC requiring HIPAA server-side conversion tracking in New Mexico's most comprehensive academic medical environment.`,
   features: ``,
+  pas: `PROBLEM: The Albuquerque technology consulting firm spending \$4,800/month on 'technology consulting Albuquerque' and 'IT services New Mexico.' Sandia Labs' new Associate Lab Director searches 'computing systems consulting Sandia National Labs Albuquerque' and 'cybersecurity research technology partner Kirtland AFB New Mexico.' Neither in the campaign. \$57K spend misses New Mexico's most commercially specific national security technology B2B vocabulary — Sandia/Kirtland ITAR-bounded publicly releasable community language.
+
+SOLUTION: Clickmasters Albuquerque Google Ads delivers Sandia/ITAR-bounded national security community vocabulary, Intel Rio Rancho semiconductor, UNM Health/Presbyterian HIPAA — at New Mexico CPCs below Denver and Phoenix equivalents.`,
+  services: `ALBUQUERQUE SANDIA/ITAR-BOUNDED NATIONAL SECURITY COMMUNITY GOOGLE ADS:
+For Albuquerque national security technology and consulting vendors. Sandia/LANL publicly releasable community vocabulary. AFRL/Kirtland national security technology. ITAR vocabulary review for all ad content and landing pages.
+
+ALBUQUERQUE INTEL RIO RANCHO SEMICONDUCTOR GOOGLE ADS:
+For Rio Rancho semiconductor equipment and technology vendors. Intel Rio Rancho semiconductor vocabulary. Fab manufacturing technology. Semiconductor materials analytics.
+
+ALBUQUERQUE UNM HEALTH/PRESBYTERIAN HIPAA GOOGLE ADS:
+For Albuquerque healthcare practices and health technology. HIPAA server-side conversion tracking. UNM Health NCI Cancer Center vocabulary. Presbyterian Healthcare New Mexico audience.`,
   caseStudies: `Case Study 1: Albuquerque National Security Tech — Sandia ITAR-Bounded Community PPC
 Client: Technology consulting, Albuquerque (\$5.4M). Challenge: \$57K spend missing Sandia/ITAR community vocabulary.
 Programme: Sandia/LANL publicly releasable vocabulary + AFRL community + ITAR vocabulary review all ads

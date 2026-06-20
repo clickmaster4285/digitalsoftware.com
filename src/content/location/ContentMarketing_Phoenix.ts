@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Phoenix
 // URL: /content-marketing-phoenix/
-// Generated: 2026-06-20T04:42:10.883Z
+// Generated: 2026-06-20T05:43:07.345Z
 
 export const ContentMarketing_Phoenix = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ TSMC FAB 21 SEMICONDUCTOR SEMI CONTENT AUTHORITY: TSMC's \$40B Fab 21 investment
 CA IN-MIGRATION ARIZONA FINANCIAL CONTENT LIBRARY: Phoenix's California in-migration wave creates the most commercially significant content marketing opportunity in Arizona professional services history. The Bay Area executive who relocated to Scottsdale, the San Diego engineer who bought in Chandler, and the Los Angeles professional who settled in Gilbert are all actively consuming content addressing their Arizona transition — California 13.3% vs Arizona 4.5% flat income tax, California Proposition 19 vs Arizona estate planning, Arizona business entity comparison — during the 12-month window when professional service relationships are established. Financial advisory, estate planning, and professional services businesses that build this CA-to-AZ content library earn organic authority and conversion from Phoenix's fastest-growing highest-income demographic at Arizona CPCs well below California content marketing equivalents.
 
 MAYO CLINIC/BANNER YMYL HEALTHCARE CONTENT: Phoenix's Mayo Clinic Arizona and Banner Health academic medical system define the YMYL E-E-A-T standard for healthcare content in the Greater Phoenix market. Health technology vendors, independent practices, and clinical services companies competing in Phoenix's rapidly growing healthcare market need content demonstrating Mayo Clinic/Banner-calibre institutional authority.`,
-  features: `FEATURES:
-
-TSMC Fab 21 Semiconductor SEMI Content Programme:
+  features: `TSMC Fab 21 Semiconductor SEMI Content Programme:
 For Chandler, Tempe, and Greater Phoenix semiconductor services companies. SEMI standards content library: SEMI F47 voltage sag immunity implementation guides, SEMI C62 ultra-clean chemistry operational briefs, SEMI E10 reliability analysis, ISO 14644-1 cleanroom classification documentation. TSMC Fab 21 supply chain resilience analysis. Intel Ocotillo operational intelligence. Arizona semiconductor ecosystem content. SEMI community editorial — SEMICON West and Arizona technology conferences. GEO/AEO first-mover for Phoenix TSMC procurement AI search queries. The SEMI standards content library that earns TSMC Fab 21 procurement organic discovery.
 
 CA In-Migration Arizona Financial Content Library:
@@ -37,6 +35,8 @@ For Scottsdale, Chandler, and North Phoenix financial advisory, estate planning,
 
 Mayo Clinic/Banner YMYL Healthcare Content:
 For Phoenix healthcare practices and health technology companies. Mayo Clinic Arizona Scottsdale affiliation content. Banner Health/Dignity Health clinical vocabulary. ASU Health Sciences and UA College of Medicine-Phoenix research content. HIPAA-compliant content analytics. HCAHPS/VBP health system procurement vocabulary.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Chandler Semiconductor Services — TSMC Fab 21 SEMI Content Authority
 Client: Cleanroom precision services, Chandler (\$14M). Challenge: Zero SEMI content. TSMC Fab 21 procurement not finding through organic search.
 Programme: SEMI F47/C62/E10/ISO 14644-1 content library + TSMC community thought leadership + SEMICON West editorial + GEO/AEO

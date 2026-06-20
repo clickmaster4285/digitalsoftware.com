@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Baltimore
 // URL: /email-marketing-baltimore/
-// Generated: 2026-06-20T04:42:11.711Z
+// Generated: 2026-06-20T05:43:09.125Z
 
 export const EmailMarketing_Baltimore = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ JOHNS HOPKINS MEDICINE/BLOOMBERG SCHOOL WORLD-CLASS PIPELINE EMAIL: Johns Hopkin
 T. ROWE PRICE FINRA-COMPLIANT INSTITUTIONAL INVESTMENT NURTURE: T. Rowe Price's institutional investment technology procurement runs 90-180 days. FINRA Rule 2210-compliant email content maintaining T. Rowe Price research analyst and technology procurement relationship continuity requires institutional investment precision: equity research methodology updates, quantitative strategies operational intelligence, global fixed income analytics content — within FINRA advertising compliance throughout.
 
 UNDER ARMOUR SPORTS BRAND SEASONAL PROCUREMENT NURTURE: Under Armour's seasonal brand planning calendar creates specific email marketing procurement windows for creative technology and retail analytics vendors — parallel to Hallmark's seasonal FMCG calendar but calibrated to Under Armour's athletic performance brand: Q4 holiday athletic gifting season planning, Q1 spring/summer training season, and Q3 back-to-school athletic category planning.`,
-  features: `FEATURES:
-
-Johns Hopkins Medicine/Bloomberg School World-Class Pipeline HubSpot:
+  features: `Johns Hopkins Medicine/Bloomberg School World-Class Pipeline HubSpot:
 For Baltimore health IT vendors. Armstrong Institute Zero Harm methodology email content. Bloomberg School epidemiology research intelligence email tracks. Johns Hopkins Technology Ventures partnership news. NEJM/JAMA precision clinical content in email. HubSpot Johns Hopkins Medicine/Bloomberg School named account sequences. 90-180 day world-class health system procurement deal-stage triggers. HIPAA-compliant Maryland MPIPA-aware email data handling.
 
 T. Rowe Price FINRA-Compliant Institutional Investment Nurture:
@@ -37,6 +35,8 @@ For Baltimore financial technology companies. FINRA Rule 2210-compliant email th
 
 Under Armour Sports Brand Seasonal Procurement Nurture:
 For Baltimore creative technology and retail analytics vendors. UA seasonal planning calendar-aware email: Q4 holiday athletic gifting, Q1 spring/summer training, Q3 back-to-school. Sports performance brand operational intelligence. Athletic apparel retail category management insights.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Baltimore Health IT — Johns Hopkins/Bloomberg World-Class Pipeline
 Client: Clinical analytics, Baltimore (\$7.4M ARR). Challenge: JHM/Bloomberg contacts cold in 120-day cycles. Generic newsletter below world-class standard.
 Programme: Armstrong/Bloomberg/JHM email content + NEJM precision + JHM/Bloomberg named sequences + HIPAA/MPIPA-compliant

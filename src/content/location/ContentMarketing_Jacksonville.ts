@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Jacksonville
 // URL: /content-marketing-jacksonville/
-// Generated: 2026-06-20T04:42:10.746Z
+// Generated: 2026-06-20T05:43:06.399Z
 
 export const ContentMarketing_Jacksonville = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ FIS GLOBAL WORLD-LARGEST-FINTECH CONTENT AUTHORITY: Jacksonville's most commerci
 FLORIDA BLUE HEDIS MANAGED CARE CONTENT: Florida Blue's 10 million+ member managed care operations create insurance technology content marketing opportunities for vendors demonstrating HEDIS quality measures, utilisation management operational intelligence, provider network management specifics, and health plan member engagement analytics within FINRA-adjacent insurance regulatory compliance.
 
 BAPTIST HEALTH/NEMOURS WOLFSON YMYL ACADEMIC HEALTHCARE CONTENT: Baptist Health Jacksonville's position as the region's largest not-for-profit health system and Nemours Wolfson Children's nationally ranked paediatric programme create YMYL health technology content marketing opportunities in Northeast Florida's most comprehensive academic healthcare environment.`,
-  features: `FEATURES:
-
-FIS Global World-Largest-Fintech Content Authority Programme:
+  features: `FIS Global World-Largest-Fintech Content Authority Programme:
 For Jacksonville banking technology and payment vendors. FIS Modern Banking Platform real-time core integration methodology articles. ISO 20022 migration operational intelligence content. FIS Worldpay payment rail optimisation methodology. Wealth management platform technical operational specifics. Capital markets infrastructure implementation guidance. FINRA Rule 2210-compliant content workflow. American Bankers Association (ABA) and Financial Services Roundtable editorial community. GEO/AEO for Jacksonville FIS Global and banking technology AI search queries.
 
 Florida Blue HEDIS Managed Care Content:
@@ -37,6 +35,8 @@ For Jacksonville insurance technology vendors. HEDIS quality measure integration
 
 Baptist Health/Nemours Wolfson YMYL Academic Healthcare Content:
 For Jacksonville healthcare practices and health technology. Baptist Health Jacksonville clinical vocabulary content. Nemours Wolfson Children's paediatric academic research community. UF Health Jacksonville affiliate academic content. HIPAA-compliant clinical case studies. SB 262-native content analytics.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Jacksonville Fintech — FIS Global World-Largest-Fintech Content Authority
 Client: Banking technology SaaS, Jacksonville (\$6.8M ARR). Challenge: Generic fintech content. FIS Global 130-country precision community not finding organically.
 Programme: FIS Modern Banking/ISO 20022/Worldpay content + ABA community editorial + FINRA-compliant + GEO/AEO + SB 262-native

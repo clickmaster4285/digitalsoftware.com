@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Raleigh
 // URL: /google-ads-management-raleigh/
-// Generated: 2026-06-20T04:42:12.799Z
+// Generated: 2026-06-20T05:43:11.327Z
 
 export const GoogleAds_Raleigh = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ CISCO/RED HAT ENTERPRISE TECHNOLOGY GOOGLE ADS: Cisco's RTP campus, Red Hat's Du
 
 TRIANGLE IN-MIGRATION PROFESSIONAL SERVICES GOOGLE ADS: Raleigh-Durham's 18%+ population growth from DC/NY/Midwest in-migration creates specific Google Ads commercial opportunities for financial advisory, healthcare, and estate planning businesses — with Triangle in-migration professional vocabulary (DC-to-NC, NY-to-NC, cost of living comparison, North Carolina income tax) earning above-average conversion rates at North Carolina CPCs below DC and New York equivalents.`,
   features: ``,
+  pas: `PROBLEM: The Durham CMC regulatory consulting firm spending \$7,200/month on 'regulatory consulting North Carolina' and 'FDA consulting Durham.' Biogen's new VP of Regulatory Affairs from San Francisco Googles 'CMC validation regulatory consulting RTP' and 'IND submission consultant Research Triangle Park.' Neither search is in the campaign's keyword set. \$86K annual spend on generic vocabulary completely misses the specific FDA operational vocabulary that Biogen, GSK, and Novo Nordisk procurement uses in Triangle regulatory consulting searches.
+
+SOLUTION: Clickmasters Raleigh Google Ads delivers RTP pharmaceutical FDA vocabulary, Cisco/Red Hat enterprise community PPC, Triangle in-migration professional services, and HIPAA-compliant healthcare campaigns — at North Carolina CPCs 20-30% below Boston and San Francisco pharmaceutical equivalents.`,
+  services: `RALEIGH RTP PHARMACEUTICAL GOOGLE ADS:
+For Durham and RTP pharmaceutical, biotech, and clinical services vendors. CMC regulatory, IND/NDA submission, Phase I-III CRO vocabulary. Biogen/GSK/Novo Nordisk audience signals. FDA-aware landing pages. HIPAA-compliant healthcare PPC.
+
+RALEIGH CISCO/RED HAT ENTERPRISE GOOGLE ADS:
+For RTP technology vendors. Cisco networking, Red Hat open source enterprise, IBM enterprise AI vocabulary. RTP tech campus audience signals. CRM offline import.
+
+RALEIGH TRIANGLE IN-MIGRATION PROFESSIONAL GOOGLE ADS:
+For Cary, North Raleigh, and Chapel Hill financial advisory, healthcare, estate planning. DC-to-NC/NY-to-NC transition vocabulary. NC income tax comparison. FINRA-compliant financial. HIPAA healthcare.`,
   caseStudies: `Case Study 1: Durham CMC Regulatory Consulting — RTP Pharma FDA Vocabulary PPC
 Client: CMC regulatory consulting, Durham (\$6.8M). Challenge: \$86K annual spend on generic vocabulary. Biogen/GSK FDA vocabulary searches unreached.
 Programme: CMC/IND/Phase I vocabulary + Biogen/GSK audience + FDA-aware landing pages + CRM import

@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Jacksonville
 // URL: /social-media-marketing-jacksonville/
-// Generated: 2026-06-20T04:42:14.134Z
+// Generated: 2026-06-20T05:43:14.530Z
 
 export const SocialMedia_Jacksonville = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ FLORIDA BLUE MANAGED CARE INSURANCE PROFESSIONAL COMMUNITY: Florida Blue's 10 mi
 
 AUTHENTIC FIRST COAST CONSUMER BRAND SOCIAL: Jacksonville's Riverside neighbourhood — Florida's most significant concentration of early 20th century Craftsman and Foursquare architecture alongside a thriving independent arts community — Avondale's historic commercial village character, and San Marco's Spanish Mediterranean neighbourhood create consumer brand social opportunities for businesses communicating genuine First Coast community identity.`,
   features: ``,
+  pas: ``,
+  services: `JACKSONVILLE FIS GLOBAL FINTECH LINKEDIN:
+For Jacksonville banking technology and payment vendors. FIS Modern Banking Platform/Worldpay/wealth vocabulary. FIS 130-country precision operational content. Florida Blue HEDIS managed care vocabulary. FINRA-compliant LinkedIn. FIS/Florida Blue Sales Navigator.
+
+JACKSONVILLE NAS MILITARY PROFESSIONAL LINKEDIN:
+For financial advisory, legal, and mortgage services. NAS Jacksonville/Mayport military community content. TSP/SCRA/VA loan LinkedIn vocabulary. Military family professional community. PCS-season-aware military content.
+
+JACKSONVILLE AUTHENTIC FIRST COAST BRAND SOCIAL:
+For Riverside, Avondale, and San Marco consumer brands. Riverside Craftsman arts community vocabulary. Avondale village character. San Marco Spanish Mediterranean neighbourhood. Authentic First Coast identity vs generic Florida brand.`,
   caseStudies: `Case Study 1: Jacksonville Fintech — FIS Global World-Largest-Fintech LinkedIn
 Client: Banking technology SaaS, Jacksonville (\$6.8M ARR). Challenge: Generic LinkedIn. FIS Global 130-country precision community not engaging.
 Programme: FIS Modern Banking/Worldpay/ISO 20022 vocabulary + Florida Blue HEDIS + FIS/Florida Blue Sales Navigator

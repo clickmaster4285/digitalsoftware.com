@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Cincinnati
 // URL: /email-marketing-cincinnati/
-// Generated: 2026-06-20T04:42:11.822Z
+// Generated: 2026-06-20T05:43:09.226Z
 
 export const EmailMarketing_Cincinnati = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ P&G/KROGER FMCG CONSUMER GOODS PIPELINE EMAIL: Procter & Gamble and Kroger procu
 CINCINNATI CHILDREN'S HIPAA HEALTHCARE PROCUREMENT EMAIL: Cincinnati Children's Hospital Medical Center procurement cycles run 90-180 days for health technology vendor evaluation. Email nurture with Cincinnati Children's clinical vocabulary, University of Cincinnati Medical Center research programme content, and HIPAA-compliant paediatric data handling maintains procurement relationship continuity.
 
 FIFTH THIRD BANK FINRA-COMPLIANT FINANCIAL EMAIL: Fifth Third Bank's financial technology procurement and Western & Southern Financial Group's insurance technology procurement create FINRA Rule 2210-compliant financial email marketing opportunities.`,
-  features: `FEATURES:
-
-P&G/Kroger FMCG Consumer Goods Pipeline HubSpot:
+  features: `P&G/Kroger FMCG Consumer Goods Pipeline HubSpot:
 For Blue Ash and Cincinnati consumer goods technology and consulting vendors. FMCG brand management operational content tracks. P&G brand building framework update emails. Kroger 84.51° consumer analytics intelligence emails. HubSpot P&G/Kroger named account sequences. Seasonal FMCG calendar-aware timing: Q4 brand planning (P&G annual reviews), Q3 holiday grocery planning (Kroger), Q1 spring category reset. 90-180 day FMCG procurement deal-stage triggers.
 
 Cincinnati Children's HIPAA Healthcare Procurement Email:
@@ -37,6 +35,8 @@ For Cincinnati paediatric health technology vendors. Cincinnati Children's clini
 
 Fifth Third Bank FINRA-Compliant Financial Email:
 For Cincinnati financial technology vendors. FINRA Rule 2210-compliant email content. Fifth Third Bank financial technology operational intelligence. Western & Southern insurance technology content. SEC Marketing Rule-compliant case study references.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Blue Ash Consumer Analytics — P&G/Kroger FMCG Seasonal Pipeline
 Client: Consumer analytics, Blue Ash (\$7.4M). Challenge: P&G/Kroger contacts cold in 120-day cycles. Generic newsletter. Non-seasonal-aware timing.
 Programme: FMCG brand planning email + seasonal FMCG calendar-aware timing + P&G/Kroger named HubSpot sequences

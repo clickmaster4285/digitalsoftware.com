@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: SaltLakeCity
 // URL: /email-marketing-salt-lake-city/
-// Generated: 2026-06-20T04:42:12.094Z
+// Generated: 2026-06-20T05:43:10.152Z
 
 export const EmailMarketing_SaltLakeCity = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ SILICON SLOPES ENTERPRISE TECHNOLOGY PIPELINE EMAIL: Silicon Slopes enterprise c
 GOLDMAN SACHS FINRA-COMPLIANT INSTITUTIONAL INVESTMENT NURTURE: Goldman Sachs's 3,000+ Salt Lake City employees create institutional financial technology procurement cycles of 90-180 days. FINRA-compliant email nurture with Goldman's institutional operational vocabulary: institutional trading systems operational updates, investment banking workflow automation intelligence, and wealth management platform content — within FINRA Rule 2210 compliance boundaries throughout.
 
 CALIFORNIA-TO-UTAH PROFESSIONAL IN-MIGRATION 5-STAGE ONBOARDING: Salt Lake City's growing California in-migration professional community — attracted by California's 13.3% top income tax rate vs Utah's flat 4.65% — creates professional services email marketing opportunities parallel to Phoenix and Las Vegas. Stage 1 CA-to-UT welcome → Stage 2 Utah 4.65% flat tax vs California 13.3% tax savings guide → Stage 3 Salt Lake City healthcare navigation (U of U Health, Primary Children's, Intermountain) → Stage 4 Wasatch Front neighbourhood professional services guide (Sugar House, Draper, South Jordan, Lehi) → Stage 5 Silicon Slopes and Utah professional community connection.`,
-  features: `FEATURES:
-
-Silicon Slopes Enterprise Technology Pipeline HubSpot:
+  features: `Silicon Slopes Enterprise Technology Pipeline HubSpot:
 For South Jordan, Draper, and Greater SLC enterprise technology vendors. Qualtrics XM driver analysis methodology email updates. Domo BI cloud data pipeline architecture intelligence. Pluralsight Skill IQ enterprise assessment insights. HubSpot Qualtrics/Domo/Pluralsight named account sequences. 60-150 day Silicon Slopes enterprise procurement deal-stage triggers. UCPA-compliant email data handling.
 
 Goldman Sachs FINRA-Compliant Institutional Investment Nurture:
@@ -37,6 +35,8 @@ For SLC financial technology companies. FINRA Rule 2210-compliant email workflow
 
 California-to-Utah 5-Stage Professional In-Migration Onboarding:
 For SLC financial advisory, healthcare, and professional services. Stage 1: CA-to-UT welcome to the Wasatch Front. Stage 2: Utah 4.65% flat tax vs CA 13.3% savings analysis. Stage 3: SLC healthcare navigation — U of U Health, Primary Children's, Intermountain. Stage 4: Wasatch Front neighbourhood professional services guide — Sugar House, Avenues, Draper, Lehi, South Jordan. Stage 5: Silicon Slopes and Utah professional community connection. UCPA-compliant. FINRA where applicable.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: South Jordan Enterprise Software — Silicon Slopes Qualtrics/Domo Pipeline
 Client: Enterprise analytics, South Jordan (\$6.4M ARR). Challenge: Qualtrics/Domo contacts cold in 90-day cycles. Generic enterprise newsletter.
 Programme: Qualtrics XM/Domo BI/Pluralsight email content + named sequences + 90-day Silicon Slopes triggers + UCPA-compliant

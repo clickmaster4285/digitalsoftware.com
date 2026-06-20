@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Tampa
 // URL: /google-ads-management-tampa/
-// Generated: 2026-06-20T04:42:12.917Z
+// Generated: 2026-06-20T05:43:11.565Z
 
 export const GoogleAds_Tampa = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ MACDILL AFB MILITARY COMMUNITY GOOGLE ADS: MacDill's 45,000+ CENTCOM and SOCOM m
 
 FLORIDA SB 262 CONSENT MODE V2: Florida's SB 262 creates specific requirements for Google Ads conversion tracking in Florida. SB 262-compliant Consent Mode v2 implementation produces accurate conversion measurement that avoids Florida AG enforcement exposure and provides the honest attribution baseline that Tampa's growing digital-first commercial community accepts as credible.`,
   features: ``,
+  pas: `PROBLEM: The South Tampa financial advisory spending \$6,000/month on 'financial adviser Tampa' and 'wealth management Tampa.' MacDill AFB is 15 minutes away with 45,000+ CENTCOM/SOCOM military professionals — the highest income-density military community per capita in Florida. 'Fee-only financial adviser Tampa CENTCOM military TSP,' 'VA loan mortgage specialist MacDill,' 'SCRA financial planning South Tampa' — these searches have zero competition, above-average conversion intent, and represent qualified leads worth \$500K-\$2M+ in AUM per client. None in the campaign's keyword set.
+
+SOLUTION: Clickmasters Tampa Google Ads delivers Moffitt/TGH NCI healthcare vocabulary, MacDill CENTCOM/SOCOM military precision, Florida in-migration no-income-tax professional services, and SB 262 Consent Mode v2 — at Florida CPCs 15-20% below New York equivalents.`,
+  services: `TAMPA MOFFITT/TGH HIPAA HEALTHCARE GOOGLE ADS:
+For Tampa health IT vendors and healthcare practices. NCI oncology vocabulary: 'cancer centre analytics vendor Tampa,' 'NCI clinical informatics Tampa.' HIPAA server-side conversion tracking. Moffitt/TGH audience signals. SB 262 Consent Mode v2.
+
+TAMPA MACDILL MILITARY COMMUNITY GOOGLE ADS:
+For South Tampa and Tampa Bay professional services. CENTCOM/SOCOM military vocabulary: TSP management, SCRA protection, VA loan, military retirement. MacDill community audience signals. FINRA-compliant financial. SB 262 Consent Mode v2.
+
+TAMPA FLORIDA IN-MIGRATION PROFESSIONAL GOOGLE ADS:
+For Tampa financial advisory, estate planning, healthcare serving in-migration. NY-to-FL/NJ-to-FL no-income-tax vocabulary. Florida estate planning vs Northeast. FINRA-compliant. SB 262 Consent Mode v2.`,
   caseStudies: `Case Study 1: Tampa Health IT Vendor — Moffitt NCI Vocabulary HIPAA PPC
 Client: Oncology analytics SaaS, Tampa (\$7.4M ARR). Challenge: Generic 'healthcare technology Tampa' missing NCI vocabulary. Non-HIPAA tracking.
 Programme: NCI oncology vocabulary + HIPAA server-side + Moffitt audience signals + SB 262 Consent Mode v2

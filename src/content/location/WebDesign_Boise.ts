@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Boise
 // URL: /web-design-agency-boise/
-// Generated: 2026-06-20T04:42:14.560Z
+// Generated: 2026-06-20T05:43:15.182Z
 
 export const WebDesign_Boise = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ MICRON TECHNOLOGY SEMICONDUCTOR INSTITUTIONAL VENDOR CREDIBILITY: Micron Technol
 ALBERTSONS COMPANIES GROCERY RETAIL ENTERPRISE QUALITY: Albertsons' 2,200+ store national network creates grocery retail technology vendor website requirements: shopper analytics platform service pages, CPG supplier analytics methodology, loyalty programme technology service descriptions, and the retail enterprise institutional quality that Albertsons' Boise headquarters procurement evaluates.
 
 ST. LUKE'S/SAINT ALPHONSUS YMYL HIPAA ACADEMIC HEALTHCARE: St. Luke's Health System — Idaho's largest with 190+ physician clinics — and Saint Alphonsus Regional Medical Center (Trinity Health) create YMYL healthcare website requirements with HIPAA-native Idaho data architecture.`,
-  features: `FEATURES:
-
-Micron Technology Semiconductor Institutional Credibility Architecture:
+  features: `Micron Technology Semiconductor Institutional Credibility Architecture:
 For Boise semiconductor equipment and technology companies. DRAM memory cell architecture analytics service descriptions. NAND flash fabrication technology service pages. Semiconductor wafer processing methodology. HP Inc enterprise technology community. Micron semiconductor enterprise institutional visual quality.
 
 Albertsons Grocery Retail Enterprise Quality Architecture:
@@ -37,6 +35,8 @@ For Boise retail analytics and CPG technology vendors. Shopper analytics platfor
 
 St. Luke's/Saint Alphonsus YMYL HIPAA Academic Healthcare Architecture:
 For Boise healthcare practices. St. Luke's Health System programme affiliation. Saint Alphonsus Trinity Health vocabulary. HIPAA-native Idaho data architecture. YMYL E-E-A-T Treasure Valley academic medical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Boise Semiconductor — Micron Technology Institutional Credibility Redesign
 Client: Semiconductor equipment, Boise (\$5.4M ARR). Challenge: Website without Micron semiconductor institutional credibility. Micron VP dismissal.
 Programme: Micron DRAM/NAND/wafer vocabulary pages + semiconductor enterprise visual + CWV (5.0s to 1.4s)

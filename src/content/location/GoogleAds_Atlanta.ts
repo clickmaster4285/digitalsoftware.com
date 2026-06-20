@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Atlanta
 // URL: /google-ads-management-atlanta/
-// Generated: 2026-06-20T04:42:12.207Z
+// Generated: 2026-06-20T05:43:10.461Z
 
 export const GoogleAds_Atlanta = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ TRANSACTION ALLEY FINTECH GOOGLE ADS: Atlanta's \$8T annual payment processing e
 
 HIPAA/FINRA COMPLIANCE: Atlanta's Emory Healthcare ecosystem and Buckhead financial advisory community require HIPAA-compliant patient acquisition and FINRA-compliant financial services PPC — the compliance standards that distinguish Clickmasters' Atlanta Google Ads from the generic agencies running Atlanta enterprise PPC campaigns.`,
   features: ``,
+  pas: `PROBLEM: The Midtown Atlanta management consulting firm spending \$18,000/month on 'management consulting Atlanta' and 'enterprise technology consulting Georgia.' The new Delta CDO searches 'hub-and-spoke yield optimisation consultant Atlanta.' Not in the keyword set. The new Coca-Cola CPO searches 'Freestyle machine analytics analytics vendor Atlanta.' Not in the keyword set. The new NCR VP searches 'PCI-DSS Level 1 compliance consulting Sandy Springs.' Not in the keyword set. \$216K annual spend reaching a broad consulting audience but missing every Fortune 500 new executive Google search that represents the highest-converting pipeline opportunity.
+
+SOLUTION: Clickmasters Atlanta Google Ads delivers Fortune 500 operational vocabulary, Transaction Alley PCI-DSS precision, FINRA/HIPAA compliance, and CRM-attributed Fortune 500 pipeline — at Georgia CPCs 15-20% below New York equivalents.`,
+  services: `ATLANTA FORTUNE 500 ENTERPRISE GOOGLE ADS:
+For Midtown and Buckhead companies targeting Delta, Coca-Cola, Home Depot, and UPS procurement. Delta IDG/IROPS vocabulary. Coca-Cola Freestyle/supply chain. Home Depot PRO segment. FINRA-compliant for financial. CRM Salesforce/HubSpot offline import.
+
+ATLANTA TRANSACTION ALLEY FINTECH GOOGLE ADS:
+For Sandy Springs and Dunwoody fintech vendors. PCI-DSS Level 1 vocabulary. Tokenisation and EMV implementation. Interchange optimisation. Global Payments/NCR audience signals.
+
+ATLANTA HIPAA HEALTHCARE GOOGLE ADS:
+For Emory Healthcare-adjacent and Northside/Piedmont health tech vendors. HIPAA server-side conversion tracking. Clinical vocabulary. HCAHPS/VBP for health system procurement.`,
   caseStudies: `Case Study 1: Midtown Consulting Firm — Delta/Coca-Cola Fortune 500 PPC
 Client: Management consulting, Midtown (\$9M ARR). Challenge: Fortune 500 new executive vocabulary absent. \$216K annual spend missing top Fortune 500 searches.
 Programme: Delta IDG/Coca-Cola Freestyle vocabulary + Salesforce offline import + Fortune 500 institutional landing pages + FINRA-aware

@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Denver
 // URL: /content-marketing-denver/
-// Generated: 2026-06-20T04:42:10.695Z
+// Generated: 2026-06-20T05:43:06.326Z
 
 export const ContentMarketing_Denver = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ ITAR-BOUNDED AEROSPACE CONTENT: Content marketing for Denver's Lockheed Martin, 
 NREL CITATION CONTENT CREDIBILITY: The National Renewable Energy Laboratory in Golden has made specific NREL citation a content credibility standard in Denver's clean energy community. Generic clean energy statistics and aspirational sustainability language earn no credibility from Colorado's technically sophisticated clean energy procurement and investment community. Content that references specific NREL Technical Reports by DOI, cites NREL Solar Radiation Data Manual measurements, or references DOE EERE programme outcomes with specific programme names communicates genuine engagement with the research that governs Colorado's clean energy industry.
 
 COLORADO IN-MIGRATION CONTENT: Denver's 20%+ in-migration from California, Texas, and New York has created above-average demand for content that specifically addresses the professional needs of newly arrived Colorado residents: California-to-Colorado tax planning, Colorado-specific estate planning, the outdoor lifestyle integration content that resonates with in-migrants actively building Colorado community identity.`,
-  features: `FEATURES:
-
-ITAR-Bounded Aerospace Content:
+  features: `ITAR-Bounded Aerospace Content:
 For Englewood, Aurora, and Colorado Springs defence aerospace supply chain companies. ITAR content compliance review before every piece is published: publicly releasable vocabulary only. AS9100D quality management system content demonstrating operational mastery (not surface-level certification mention). DCAA accounting system insights. Defence supply chain resilience analysis using open-source programme information only. AIAA (American Institute of Aeronautics and Astronautics) Journal editorial placement. Aviation Week editorial programme. National Defence Magazine editorial. The ITAR-compliant content library that earns Lockheed Martin and Ball Aerospace organic and LinkedIn credibility.
 
 NREL Citation Clean Energy Content:
@@ -37,6 +35,15 @@ For Denver's solar technology, wind energy, and clean technology companies. NREL
 
 Colorado In-Migration Thought Leadership:
 For Denver healthcare, financial advisory, and professional services businesses serving the CA/TX/NY in-migration wave. California-to-Colorado state income tax content (California 13.3% top rate vs Colorado 4.55% flat). Colorado property tax structure comparisons. RSU and equity compensation Colorado tax planning. Denver neighbourhoods guide for in-migration professionals (Cherry Creek, Highlands Ranch, Park Meadows). The in-migration professional content that earns above-average engagement from Colorado's fastest-growing high-income demographic.`,
+  pas: ``,
+  services: `DENVER AEROSPACE CONTENT (ITAR-BOUNDED):
+For defence aerospace supply chain companies. ITAR compliance review for every piece. AS9100D/DCAA operational authority content. AIAA/Aviation Week/National Defence editorial. Publicly releasable defence vocabulary framework.
+
+DENVER CLEAN ENERGY CONTENT (NREL-CITED):
+For NREL-adjacent clean energy companies. NREL Technical Report DOI citations. DOE EERE vocabulary. PV Magazine/CleanTechnica editorial. Colorado Energy Office regulatory content. LEED/ENERGY STAR certification content.
+
+DENVER IN-MIGRATION PROFESSIONAL CONTENT:
+For healthcare, financial advisory, and professional services serving Colorado's CA/TX/NY in-migration community. CA-to-CO tax content. Colorado estate planning. RSU/equity Colorado planning. Denver neighbourhood guides. In-migration professional community content.`,
   caseStudies: `Case Study 1: Englewood Aerospace Company — ITAR-Bounded Content Programme
 Client: Precision aerospace machining, Englewood CO (\$12M, AS9100D/ITAR). Challenge: Zero content. Ball Aerospace Googling — California competitors appearing instead.
 Programme: ITAR-bounded AS9100D content + AIAA editorial + Aviation Week HARO + DCAA system content

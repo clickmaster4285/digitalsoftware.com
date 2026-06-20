@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Austin
 // URL: /social-media-marketing-austin/
-// Generated: 2026-06-20T04:42:14.003Z
+// Generated: 2026-06-20T05:43:14.315Z
 
 export const SocialMedia_Austin = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ TESLA/APPLE TECH CORRIDOR LINKEDIN: Tesla Gigafactory Texas in Del Valle and App
 
 AUTHENTIC AUSTIN CONSUMER SOCIAL: Austin's creative culture — South Congress Avenue's independent spirit, East Austin's artist community, the Domain's professional-lifestyle community — creates specific Instagram and TikTok content opportunities for Austin consumer brands that communicate genuine Austin cultural identity rather than performed Texas lifestyle aesthetics.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING AUSTIN (IN-MIGRATION PROFESSIONAL):
+For the financial advisory, healthcare, legal, and professional services businesses competing for Austin's Bay Area/NYC/Chicago in-migration professional community. Bay Area-calibrated investment vocabulary for RSU/ESPP/NQ stock option content. California-to-Texas domicile transition financial planning content. Tech professional employer ecosystem vocabulary: Google/Meta/Apple/Tesla professional community-specific content. FINRA-compliant financial content.
+
+AUSTIN TESLA/APPLE TECH CORRIDOR LINKEDIN:
+For the technology companies and professional services businesses competing for Tesla Gigafactory Texas and Apple campus ecosystem procurement. Engineering-precision vocabulary: automotive manufacturing quality (IATF 16949), electric vehicle supply chain, consumer electronics product development cycles. Analytical precision content standard calibrated to Tesla's and Apple's demanding engineering-community professional culture.
+
+AUSTIN AUTHENTIC CONSUMER BRAND SOCIAL:
+For Austin's South Congress, East Austin, and Domain consumer brands. Authentic Austin cultural content: South Congress independence, East Austin creative community, specific Austin outdoor culture (Barton Springs, Barton Creek Greenbelt, Lady Bird Lake). Creator partnerships with Austin's genuinely local creator community. Instagram and TikTok at the quality that Austin's rapidly growing creative-community audience evaluates.`,
   caseStudies: `Case Study 1: South Congress Financial Advisory — CA In-Migration LinkedIn
 Client: Fee-only RIA, South Congress Austin (\$280M AUM). Challenge: LinkedIn content below Bay Area in-migration professional standard. CA-to-TX RSU/domicile content absent.
 Programme: CA-to-TX RSU/NQ option content + Google/Meta/Apple professional vocabulary + FINRA-compliant + Bay Area in-migration community

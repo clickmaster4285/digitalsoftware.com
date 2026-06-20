@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: SanFrancisco
 // URL: /social-media-marketing-san-francisco/
-// Generated: 2026-06-20T04:42:14.459Z
+// Generated: 2026-06-20T05:43:14.953Z
 
 export const SocialMedia_SanFrancisco = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ CCPA-NATIVE SOCIAL ANALYTICS: California's CCPA and CPRA create specific require
 
 GEO/AEO SOCIAL CONTENT ARCHITECTURE: The SF professional community has the highest AI search tool adoption rate of any US commercial community. LinkedIn thought leadership content structured with GEO and AEO citation signals appears in ChatGPT, Perplexity, and Claude answers for the SF AI infrastructure procurement searches that represent the highest-value B2B leads in the world's most competitive technology market.`,
   features: ``,
+  pas: ``,
+  services: `AI/ML ENGINEERING-PRECISION LINKEDIN (SF B2B):
+For SF's AI infrastructure companies, machine learning platforms, and enterprise technology vendors. AI/ML technical LinkedIn: model card benchmark citations, specific evaluation framework references, documented technical methodology. arXiv-adjacent thought leadership. GitHub contribution reference display. Y Combinator and TechCrunch social community engagement. CCPA-native LinkedIn audience data management.
+
+SF CCPA-NATIVE SOCIAL ANALYTICS:
+For all SF businesses with social media programmes. CCPA/CPRA-compliant Instagram and LinkedIn retargeting consent management. CCPA-accurate social media performance measurement (excluding California opt-out data from analytics). Social media audience data collection meeting California AG compliance standards.
+
+SF FINTECH/ENTERPRISE B2B LINKEDIN:
+For SF's Salesforce ecosystem, fintech companies, and enterprise SaaS vendors. FINRA-compliant content for SF fintech. Series B-credible demand signal content. Technical precision at SF enterprise buyer standard.`,
   caseStudies: `Case Study 1: SoMa AI Infrastructure Company — Engineering-Precision LinkedIn
 Client: AI infrastructure SaaS, SoMa SF (\$16M ARR). Challenge: LinkedIn content below engineering precision standard. ML engineering buyers scrolling past aspirational AI claims.
 Programme: Principal Engineer LinkedIn + benchmark citation content + model card references + CCPA-native analytics

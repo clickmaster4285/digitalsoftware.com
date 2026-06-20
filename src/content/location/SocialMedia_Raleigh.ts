@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Raleigh
 // URL: /social-media-marketing-raleigh/
-// Generated: 2026-06-20T04:42:14.368Z
+// Generated: 2026-06-20T05:43:14.803Z
 
 export const SocialMedia_Raleigh = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ DUKE/UNC ACADEMIC PROFESSIONAL COMMUNITY: Duke University and UNC Chapel Hill cr
 
 AUTHENTIC TRIANGLE CONSUMER BRAND SOCIAL: Downtown Raleigh's Glenwood South and Fayetteville Street arts community, Durham's Ninth Street and American Tobacco District, and Chapel Hill's Franklin Street independent commercial character create consumer brand Instagram opportunities for businesses communicating genuine Triangle neighbourhood identity.`,
   features: ``,
+  pas: ``,
+  services: `RTP PHARMACEUTICAL/BIOTECH LINKEDIN:
+For Durham and RTP CROs, CDMOs, and pharma services. FDA regulatory vocabulary: Phase I-III methodology, FDA 483/Type A/B/C meeting content, CMC operational insights, biostatistics vocabulary. Biogen/GSK/Novo Nordisk community Sales Navigator. IRB affiliation display in LinkedIn content.
+
+RTP TECHNOLOGY ENTERPRISE LINKEDIN:
+For Cisco/Red Hat/IBM RTP campus vendors. Cisco networking operational precision. Red Hat open source enterprise specifics. IBM enterprise AI operational vocabulary. RTP tech community LinkedIn engagement.
+
+TRIANGLE AUTHENTIC CONSUMER BRAND SOCIAL:
+For downtown Raleigh, Durham Ninth Street, and Chapel Hill Franklin Street brands. Glenwood South arts district vocabulary. Durham American Tobacco District community. Chapel Hill independent commercial character.`,
   caseStudies: `Case Study 1: Durham CRO — RTP Pharma FDA-Precision LinkedIn
 Client: Phase II CRO, Durham (\$8.4M). Challenge: Generic clinical LinkedIn. Biogen/GSK not engaging clinical operational precision.
 Programme: FDA Phase I-III methodology content + biostatistics operational vocabulary + Biogen/GSK community Sales Navigator

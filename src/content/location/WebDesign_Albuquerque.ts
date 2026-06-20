@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Albuquerque
 // URL: /web-design-agency-albuquerque/
-// Generated: 2026-06-20T04:42:14.516Z
+// Generated: 2026-06-20T05:43:15.074Z
 
 export const WebDesign_Albuquerque = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ SANDIA LABS ITAR-BOUNDED PUBLICLY RELEASABLE INSTITUTIONAL CREDIBILITY: Sandia N
 INTEL RIO RANCHO SEMICONDUCTOR ENTERPRISE INSTITUTIONAL QUALITY: Intel's Rio Rancho campus evaluates technology vendor websites against the institutional quality of a global semiconductor leader: semiconductor equipment and manufacturing vocabulary in service descriptions, fab operations technology specifics, materials science analytical methodology, and the semiconductor enterprise institutional visual quality that Intel Rio Rancho engineering procurement evaluates.
 
 UNM HEALTH/PRESBYTERIAN YMYL HIPAA ACADEMIC HEALTHCARE: The University of New Mexico Health Sciences Center — New Mexico's only NCI-designated cancer centre — and Presbyterian Healthcare Services create YMYL healthcare website requirements with HIPAA-native data architecture for New Mexico's most comprehensive academic healthcare environment.`,
-  features: `FEATURES:
-
-Sandia Labs ITAR-Bounded Publicly Releasable Institutional Credibility Architecture:
+  features: `Sandia Labs ITAR-Bounded Publicly Releasable Institutional Credibility Architecture:
 For Albuquerque national security technology and consulting companies. ITAR vocabulary review applied to all website content before launch. Publicly releasable Sandia/LANL research community vocabulary in service descriptions. DOE/NNSA publicly available research programme vocabulary. National security technology institutional visual quality. ITAR vocabulary review documentation provided at launch.
 
 Intel Rio Rancho Semiconductor Enterprise Quality Architecture:
@@ -37,6 +35,8 @@ For Rio Rancho semiconductor equipment and technology vendors. Semiconductor equ
 
 UNM Health/Presbyterian YMYL HIPAA Academic Healthcare Architecture:
 For Albuquerque healthcare practices and health technology. UNM Health Sciences Center NCI Cancer Center programme affiliation. Presbyterian Healthcare New Mexico managed care vocabulary. HIPAA-native data architecture. YMYL E-E-A-T optimised New Mexico academic medical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Albuquerque National Security Tech — Sandia ITAR-Bounded Credibility Redesign
 Client: Technology consulting, Albuquerque (\$5.4M). Challenge: Website lacking Sandia ITAR-bounded institutional credibility. Non-ITAR-reviewed content creating exposure. Sandia dismissal.
 Programme: ITAR vocabulary review all content + Sandia/LANL publicly releasable vocabulary + national security institutional visual + CWV (5.0s to 1.4s)

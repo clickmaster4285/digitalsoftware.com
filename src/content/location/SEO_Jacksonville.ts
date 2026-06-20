@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Jacksonville
 // URL: /seo-services-jacksonville/
-// Generated: 2026-06-20T04:42:13.659Z
+// Generated: 2026-06-20T05:43:13.122Z
 
 export const SEO_Jacksonville = {
   service: "SEO",
@@ -30,6 +30,17 @@ NAS JACKSONVILLE AND MAYPORT NAVAL STATION MILITARY COMMUNITY SEO: Naval Air Sta
 
 FLORIDA SB 262 ANALYTICS ACCURACY: Identical to Tampa and Orlando SB 262 requirements for all Jacksonville digital marketing channels.`,
   features: ``,
+  pas: `PROBLEM: The Jacksonville fintech company with genuine FIS Global and Florida Blue relationships. Zero FIS payment processing/core banking vocabulary in website. FIS just appointed a new VP of Platform Partnerships from Fiserv. Florida Blue hired a new Chief Technology Officer from Humana. Neither knows the Jacksonville company. Both Google in fintech operational vocabulary. Zero digital marketing captures their searches. FIS — the world's largest fintech by revenue — is headquartered in Jacksonville and generates the most commercially significant fintech B2B vocabulary in Florida.
+
+SOLUTION: Clickmasters Jacksonville SEO delivers FIS Global/Florida Blue FINRA fintech authority, Baptist Health/Nemours Wolfson YMYL, NAS Jacksonville military community, Florida SB 262-native, and GEO/AEO first-mover.`,
+  services: `JACKSONVILLE FIS GLOBAL/FLORIDA BLUE FINRA SEO:
+For Jacksonville fintech and insurance technology vendors. FIS payment processing/core banking vocabulary. Florida Blue insurance technology. FINRA Rule 2210-compliant content. Fidelity National Financial community. SB 262-native analytics.
+
+JACKSONVILLE BAPTIST HEALTH/NEMOURS WOLFSON YMYL SEO:
+For Jacksonville healthcare practices and health technology. Baptist Health Jacksonville vocabulary. Nemours Wolfson Children's paediatric academic content. UF Health Jacksonville affiliate vocabulary. HIPAA/SB 262-native healthcare analytics.
+
+JACKSONVILLE NAS JACKSONVILLE/MAYPORT MILITARY SEO:
+For financial advisory, healthcare, and professional services. TSP, SCRA, VA loan military vocabulary. NAS Jax/Mayport CENTCOM community professional content. PCS-cycle-aware content. FINRA-compliant military financial.`,
   caseStudies: `Case Study 1: Jacksonville Fintech — FIS Global/Florida Blue FINRA SEO
 Client: Banking technology SaaS, Jacksonville (\$6.8M ARR). Challenge: Zero FIS/Florida Blue vocabulary. New FIS VP and Florida Blue CTO not finding.
 Programme: FIS payment/core banking vocabulary + Florida Blue insurance tech + FINRA-compliant content + SB 262-native + GEO/AEO

@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Indianapolis
 // URL: /digital-marketing-agency-indianapolis/
-// Generated: 2026-06-20T04:42:11.292Z
+// Generated: 2026-06-20T05:43:08.618Z
 
 export const DigitalMarketing_Indianapolis = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Indianapolis",
   citySlug: "indianapolis",
-  slug: "/digital-marketing-agency-indianapolis/",
+  slug: "/digital-marketing-agency-in-indianapolis/",
   
   h1: `Digital Marketing Agency Indianapolis — Eli Lilly Pharma Revenue, Cummins/Simon Fortune 500, and Crossroads of America Commercial Growth`,
   primaryKw: `digital marketing agency indianapolis`,
@@ -30,6 +30,20 @@ INDIANA UNIVERSITY HEALTH DIGITAL MARKETING: Indiana University Health, combined
 
 INDIANAPOLIS MOTORSPORTS B2B DIGITAL MARKETING: The Indianapolis Motor Speedway (Indy 500, Brickyard 400, F1 United States Grand Prix), IndyCar Series, and Penske Entertainment create a motorsports B2B commercial community — providing technology vendors, engineering services companies, and motorsports marketing businesses with specific digital marketing commercial opportunities similar to Charlotte but uniquely Indianapolis-calibrated.`,
   features: ``,
+  pas: ``,
+  services: `SEO INDIANAPOLIS: Eli Lilly GMP/FDA vocabulary. Cummins/Simon Fortune 500 operational. IU Health YMYL academic medical. FINRA financial. /seo-services-indianapolis/
+
+GOOGLE ADS INDIANAPOLIS: Eli Lilly pharmaceutical GMP PPC. Cummins enterprise vocabulary. IU Health HIPAA patient acquisition. FINRA-compliant Carmel financial.
+
+CONTENT MARKETING INDIANAPOLIS: GMP/FDA Eli Lilly authority content. Cummins commercial power operational content. IU School of Medicine YMYL clinical. Indianapolis motorsports technical.
+
+LINKEDIN INDIANAPOLIS: Eli Lilly/Corteva pharmaceutical LinkedIn. Cummins/Simon Fortune 500 executive community. IU Health clinical professional. Indy 500 motorsports B2B.
+
+EMAIL INDIANAPOLIS: Lilly/Corteva named account HubSpot pipeline. Cummins/Simon enterprise procurement nurture. IU Health procurement email. FINRA financial.
+
+LOCAL SEO INDIANAPOLIS: Eli Lilly pharmaceutical proximity GBP. IU Health academic medical credential. Carmel/Fishers professional community quality standard.
+
+WEB DESIGN INDIANAPOLIS: Eli Lilly pharma vendor credibility. IU Health YMYL HIPAA. Cummins/Simon institutional quality.`,
   caseStudies: `Case Study 1: Indianapolis Pharma Consulting — Eli Lilly/Corteva Full Digital Programme
 Client: GMP manufacturing consulting, Indianapolis (\$6.8M). Challenge: New Lilly/Corteva executives without connections — company invisible. Zero FDA vocabulary in digital.
 Programme: SEO (GMP/CMC/FDA vocabulary) + LinkedIn (Lilly pharma professional) + email (Lilly/Corteva named pipeline) + content (GMP authority)

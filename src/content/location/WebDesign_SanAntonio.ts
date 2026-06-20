@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: SanAntonio
 // URL: /web-design-agency-san-antonio/
-// Generated: 2026-06-20T04:42:14.919Z
+// Generated: 2026-06-20T05:43:15.999Z
 
 export const WebDesign_SanAntonio = {
   service: "WebDesign",
@@ -37,6 +37,15 @@ For healthcare, dental, and professional services businesses serving San Antonio
 
 South Texas Medical Center Institutional Standard:
 For STMC-adjacent healthcare practices, medical equipment suppliers, and health technology vendors. Clinical credential architecture: physician training, board certifications, STMC/UT Health San Antonio affiliations. HIPAA-compliant data handling throughout. Appointment booking integration meeting OCR technical standards. The institutional quality website that earns trust from STMC's medically sophisticated patient and procurement community.`,
+  pas: ``,
+  services: `SAN ANTONIO MILITARY COMMUNITY WEBSITE DESIGN:
+For healthcare, financial advisory, legal, and consumer services businesses serving the JBSA military community. Military community trust signal architecture. VA benefits navigation content. PCS-transition welcome messaging. SCRA-aware service descriptions for financial and legal services. The website that earns commercial trust from San Antonio's 80,000+ active duty and veteran population.
+
+SAN ANTONIO BILINGUAL HEALTHCARE WEBSITE DESIGN (HIPAA):
+For healthcare practices, dental offices, and medical services businesses serving San Antonio's 65% Hispanic community. Native bilingual English/Spanish design. HIPAA-compliant bilingual forms with BAA-covered processors. South Texas Spanish vocabulary. Bilingual appointment booking. Mobile-first for San Antonio's above-average mobile browsing rate.
+
+SAN ANTONIO STMC INSTITUTIONAL WEBSITE DESIGN:
+For STMC-adjacent practices, health technology vendors, and the medical services companies serving South Texas's largest healthcare complex. STMC and UT Health San Antonio affiliation display. Clinical credential depth. HIPAA-compliant data handling. The institutional website that earns trust from STMC's medically sophisticated community.`,
   caseStudies: `Case Study 1: Lackland Area Healthcare Practice — Military Community Redesign
 Client: Family medicine, SW San Antonio (near Lackland AFB, 2 locations). Challenge: English-only website with no military community signals. JBSA families not finding practice.
 Programme: Military community trust architecture + VA benefits content + PCS-transition messaging + bilingual English/Spanish + HIPAA + mobile CWV (4.8s to 1.6s)

@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: OklahomaCity
 // URL: /social-media-marketing-oklahoma-city/
-// Generated: 2026-06-20T04:42:14.302Z
+// Generated: 2026-06-20T05:43:14.680Z
 
 export const SocialMedia_OklahomaCity = {
   service: "SocialMedia",
@@ -27,9 +27,7 @@ DEVON/EXPAND ENERGY OIL AND GAS E&P LINKEDIN: Devon Energy and Expand Energy cre
 INTEGRIS/OU HEALTH CLINICAL ACADEMIC COMMUNITY: INTEGRIS Health and OU Health Sciences Center create an Oklahoma LinkedIn clinical community evaluating health technology vendor content against the most comprehensive health system and academic medical institution in the state.
 
 AUTHENTIC SOONER STATE CONSUMER BRAND SOCIAL: Oklahoma City's Bricktown canal district, Paseo Arts District's established Spanish-influenced arts community, and Midtown's walkable mixed-use neighbourhood create consumer brand social opportunities. The Oklahoma City Thunder's NBA identity creates a sports community social anchor unique to OKC — and distinctly powerful for Oklahoma brands communicating local civic pride.`,
-  features: `FEATURES:
-
-Devon/Expand Energy Oil and Gas E&P LinkedIn:
+  features: `Devon/Expand Energy Oil and Gas E&P LinkedIn:
 For OKC oil and gas technology and analytics vendors. Devon Energy STACK/SCOOP unconventional E&P vocabulary. Expand Energy natural gas processing operational specifics. OGE Energy utility community. Oklahoma E&P professional Sales Navigator.
 
 INTEGRIS/OU Health Clinical Academic LinkedIn:
@@ -37,6 +35,8 @@ For OKC health IT vendors. INTEGRIS Health system operational vocabulary. OU Med
 
 Authentic Sooner State Consumer Brand Social:
 For Bricktown, Paseo Arts District, and Midtown consumer brands. Bricktown canal district entertainment vocabulary. Paseo de España arts community (monthly art walks). Midtown walkable mixed-use community identity. OKC Thunder NBA civic pride — Thunder community seasons, playoff energy, local hero narrative.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: OKC Energy Technology — Devon/Expand Energy E&P LinkedIn
 Client: Energy analytics, OKC (\$5.4M ARR). Challenge: Generic LinkedIn. Devon/Expand Energy E&P community not engaging.
 Programme: Devon STACK/SCOOP/Expand Energy natural gas vocabulary + Oklahoma E&P Sales Navigator

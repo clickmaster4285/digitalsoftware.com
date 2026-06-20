@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Birmingham
 // URL: /web-design-agency-birmingham/
-// Generated: 2026-06-20T04:42:14.551Z
+// Generated: 2026-06-20T05:43:15.149Z
 
 export const WebDesign_Birmingham = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ REGIONS FINANCIAL FINRA COMMERCIAL BANKING INSTITUTIONAL CREDIBILITY: Regions Fi
 UAB WORLD-CLASS NCI YMYL HIPAA ACADEMIC HEALTHCARE: UAB Comprehensive Cancer Center — one of only 57 NCI-designated Comprehensive Cancer Centers — and UAB Medical Center (Alabama's largest hospital) create a world-class YMYL website standard in Birmingham: UAB NCI oncology research community vocabulary, Level 1 Trauma Center operational vocabulary, HIPAA-native Alabama data architecture.
 
 AUTHENTIC MAGIC CITY CONSUMER BRAND DESIGN: Five Points South's arts and entertainment district, Crestline Village's charming mountain community in the Homewood/Mountain Brook corridor, and Cahaba Heights' established residential neighbourhood create consumer brand design opportunities for businesses communicating genuine Birmingham identity.`,
-  features: `FEATURES:
-
-Regions Financial FINRA Commercial Banking Institutional Architecture:
+  features: `Regions Financial FINRA Commercial Banking Institutional Architecture:
 FINRA-compliant throughout. Commercial lending analytics service pages. Treasury management descriptions. Regions/Protective Life banking enterprise visual quality.
 
 UAB World-Class NCI YMYL HIPAA Architecture:
@@ -37,6 +35,8 @@ UAB NCI Comprehensive Cancer Center vocabulary. Level 1 Trauma Center operationa
 
 Authentic Magic City Consumer Brand Architecture:
 Five Points South arts community vocabulary. Crestline Village mountain community character. Cahaba Heights established neighbourhood identity. Vulcan Park (world's largest cast iron statue) — Birmingham's most iconic landmark vocabulary.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Birmingham Financial Technology — Regions FINRA Institutional Redesign
 Client: Banking analytics, Birmingham (\$6.4M ARR). Challenge: Non-FINRA website. No Regions vocabulary. CIO dismissal.
 Programme: FINRA-compliant redesign + Regions commercial lending/treasury vocabulary + enterprise visual + CWV

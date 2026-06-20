@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: StLouis
 // URL: /social-media-marketing-st-louis/
-// Generated: 2026-06-20T04:42:14.476Z
+// Generated: 2026-06-20T05:43:14.999Z
 
 export const SocialMedia_StLouis = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ EDWARD JONES FINANCIAL ADVISOR COMMUNITY LINKEDIN: Edward Jones' Creve Coeur hea
 
 AUTHENTIC GATEWAY CITY CONSUMER BRAND SOCIAL: St. Louis's authentic commercial community — The Hill's Italian neighbourhood heritage, Soulard's historic market district, Cherokee Street's eclectic arts economy, and the Cardinals/Blues community social fabric — creates consumer brand Instagram opportunities for businesses communicating genuine St. Louis neighbourhood identity.`,
   features: ``,
+  pas: ``,
+  services: `ST. LOUIS BOEING BDS LINKEDIN (ITAR-BOUNDED):
+For Hazelwood aerospace technology and quality vendors. AS9100D/DCAA/DoD supply chain ITAR-bounded LinkedIn. ITAR vocabulary review before every post. Boeing BDS engineering community Sales Navigator. Defence prime contractor community engagement.
+
+ST. LOUIS EDWARD JONES FINRA LINKEDIN:
+For Creve Coeur financial technology vendors. FINRA Rule 2210-compliant LinkedIn content. Edward Jones financial advisor platform vocabulary. Centene managed care community. Wealth management technology thought leadership.
+
+ST. LOUIS AUTHENTIC GATEWAY CITY BRAND SOCIAL:
+For The Hill, Soulard, Cherokee Street, and St. Louis authentic consumer brands. The Hill Italian heritage community vocabulary. Soulard historic market district content. Cherokee Street eclectic arts economy. Cardinals/Blues authentic community engagement.`,
   caseStudies: `Case Study 1: Hazelwood Aerospace Quality — Boeing BDS ITAR LinkedIn
 Client: Aerospace quality consulting, Hazelwood (\$8.4M). Challenge: Generic LinkedIn. Boeing BDS engineering community not engaging.
 Programme: AS9100D/DCAA/DoD ITAR-bounded content + Boeing BDS community Sales Navigator + ITAR review before every post

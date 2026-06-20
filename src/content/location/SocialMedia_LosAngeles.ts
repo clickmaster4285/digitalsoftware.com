@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: LosAngeles
 // URL: /social-media-marketing-los-angeles/
-// Generated: 2026-06-20T04:42:14.195Z
+// Generated: 2026-06-20T05:43:14.585Z
 
 export const SocialMedia_LosAngeles = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ ENTERTAINMENT INDUSTRY LINKEDIN: Hollywood's LinkedIn professional community —
 
 SILICON BEACH B2B SOCIAL: LA's Silicon Beach technology community evaluates B2B social media with the same analytical rigour as San Francisco — but with the additional LA commercial characteristic that it simultaneously exists within the world's most creator-economy-sophisticated consumer social media environment. Silicon Beach B2B companies competing for enterprise technology procurement need LinkedIn at the engineering-precision standard — while often also managing consumer social at the creator economy standard.`,
   features: ``,
+  pas: ``,
+  services: `ENTERTAINMENT INDUSTRY LINKEDIN LOS ANGELES:
+For Hollywood, Culver City, and Burbank entertainment business services, post-production technology, and entertainment strategy companies. Entertainment production vocabulary LinkedIn: SVOD acquisition criteria, theatrical window strategy, above/below-the-line budget vocabulary, content ROI metrics. Variety, Deadline, and Hollywood Reporter social community engagement. Netflix/Disney/WB ecosystem professional relationship development via Sales Navigator.
+
+LA CREATOR ECONOMY INSTAGRAM AND TIKTOK:
+For LA consumer brands, DTC companies, hospitality, and lifestyle businesses. Creator economy production standard: professional-grade creative direction, platform-native formats, creator partnership programme management. CCPA-compliant audience data for Instagram/TikTok retargeting. Influencer selection calibrated to LA creator community authenticity standards (micro-creator authentic community vs macro-creator paid promotional).
+
+SILICON BEACH B2B LINKEDIN:
+For Santa Monica, Venice, and Playa Vista technology companies. Engineering-precision LinkedIn content. DTC platform integration technical content. AI/ML vocabulary at LA's technology professional standard. CCPA-compliant LinkedIn audience data management.`,
   caseStudies: `Case Study 1: Mid-Wilshire Entertainment Consulting — Netflix Ecosystem LinkedIn
 Client: Entertainment strategy consulting, Mid-Wilshire (\$4.8M). Challenge: Generic LinkedIn earning zero entertainment professional engagement.
 Programme: Senior Partner LinkedIn + SVOD/streaming vocabulary + Variety/Deadline community + Sales Navigator entertainment ecosystem

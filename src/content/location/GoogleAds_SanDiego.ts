@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: SanDiego
 // URL: /google-ads-management-san-diego/
-// Generated: 2026-06-20T04:42:12.860Z
+// Generated: 2026-06-20T05:43:11.464Z
 
 export const GoogleAds_SanDiego = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ FDA-AWARE TORREY PINES LIFE SCIENCE GOOGLE ADS: Torrey Pines Mesa's pharmaceutic
 
 CCPA-NATIVE GOOGLE ADS MEASUREMENT: California's CCPA and CPRA affect Google Ads conversion tracking accuracy. CCPA non-compliant Google Ads programmes overstate conversions by 20-35% in California's above-average opt-out environment. CCPA Consent Mode v2 implementation produces accurate conversion measurement that San Diego's data-driven commercial culture accepts as commercially credible.`,
   features: ``,
+  pas: `PROBLEM: The Kearny Mesa CMMC consulting firm spending \$9,000/month on Google Ads targeting 'cybersecurity consulting San Diego' and 'IT compliance services California.' The NAVWAR programme manager who just assumed responsibility for a new supply chain programme Googles 'CMMC Level 2 implementation consultant San Diego' and 'NIST SP 800-171 gap assessment vendor San Diego Navy.' Neither search is in the campaign's keyword set. The \$108K annual spend reaches a broad IT compliance audience but misses every defence-specific procurement search that this consulting firm's genuinely most valuable audience makes.
+
+SOLUTION: Clickmasters San Diego Google Ads delivers CMMC/NIST defence vocabulary, FDA-aware Torrey Pines life science campaigns, HIPAA-compliant healthcare patient acquisition, and CCPA Consent Mode v2 accurate attribution.`,
+  services: `SAN DIEGO DEFENCE CONTRACTOR GOOGLE ADS (ITAR-BOUNDED):
+For Kearny Mesa, Point Loma, and San Diego defence technology companies. CMMC Level 2/Level 3 vocabulary. NIST SP 800-171/CSF vocabulary. AS9100D quality management. DCAA accounting. DoD supplier diversity. Northrop/Leidos/SAIC/BAE audience signals. CCPA Consent Mode v2.
+
+SAN DIEGO TORREY PINES LIFE SCIENCE GOOGLE ADS (FDA-AWARE):
+For Torrey Pines Mesa CROs, CDMOs, and biotech. FDA vocabulary: Phase I-III, CRO services, CLIA-certified bioanalytical, IND submission. HIPAA-compliant conversion tracking. Illumina/Pfizer/J&J audience signals. CCPA Consent Mode v2.
+
+SAN DIEGO CONSUMER AND PROFESSIONAL SERVICES GOOGLE ADS (CCPA):
+For San Diego healthcare, legal, financial, and consumer businesses. CCPA Consent Mode v2 throughout. HIPAA-compliant healthcare. FINRA-compliant financial. California-specific audience signals.`,
   caseStudies: `Case Study 1: Kearny Mesa CMMC Consulting — Defence Vocabulary PPC
 Client: CMMC consulting firm, Kearny Mesa (\$4.8M). Challenge: CMMC/NIST vocabulary absent from campaigns. NAVWAR procurement not reached.
 Programme: CMMC Level 2/NIST vocabulary + DoD audience signals + CCPA Consent Mode v2 + enterprise institutional landing pages

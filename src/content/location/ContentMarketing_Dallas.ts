@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Dallas
 // URL: /content-marketing-dallas/
-// Generated: 2026-06-20T04:42:10.677Z
+// Generated: 2026-06-20T05:43:06.307Z
 
 export const ContentMarketing_Dallas = {
   service: "ContentMarketing",
@@ -40,6 +40,15 @@ DFW B2B content built to perform in two channels simultaneously. Pillar content 
 
 GEO/AEO for DFW Corporate AI Search:
 DFW's Fortune 500 corporate community is increasingly using AI search tools for vendor research. When an AT&T procurement manager asks ChatGPT for recommended supply chain technology vendors in Dallas, or a Toyota procurement officer asks Perplexity for the best management consultants in DFW, the companies with GEO and AEO signals appear in those AI-generated answers.`,
+  pas: ``,
+  services: `DFW FORTUNE 500 VENDOR CONTENT PROGRAMME:
+B2B thought leadership for the companies building AT&T, Toyota, Schwab, and Home Depot vendor relationships. Category authority content addressing the specific procurement challenges that DFW's Fortune 500 community faces. ISO/IATF certification explanation content calibrated to procurement officer understanding. Dallas Morning News and Dallas Business Journal editorial placement. LinkedIn executive programme integration.
+
+DFW TECHNOLOGY CONTENT (TELECOM CORRIDOR):
+Technical thought leadership for the enterprise technology companies in Richardson, Plano, and Irving. AT&T ecosystem-calibrated content (network infrastructure, telecommunications, digital transformation). Enterprise technology trade publication placement (Fierce Telecom, Light Reading, RCR Wireless). The technical authority content that earns credibility from DFW's telecommunications-heavy corporate market.
+
+DFW PROFESSIONAL SERVICES CONTENT:
+Thought leadership for Dallas consulting, legal, financial advisory, and accounting firms. Texas State Bar-compliant legal content. FINRA-aware financial services content. Crain's Dallas Business Journal content programme. The professional services authority that earns vendor consideration from DFW's Fortune 500 corporate professional community.`,
   caseStudies: `Case Study 1: Plano Enterprise Software — Fortune 500 Content Programme, AT&T Vendor Status
 Client: Enterprise integration software, Plano TX (\$9.4M ARR). Challenge: AT&T procurement cited absence of thought leadership as vendor credibility gap. No content programme.
 Programme: Fortune 500 vendor content (8/month) + AT&T integration ecosystem vocabulary + Dallas Business Journal editorial + LinkedIn executive integration

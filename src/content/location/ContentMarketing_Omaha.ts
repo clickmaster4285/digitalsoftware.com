@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Omaha
 // URL: /content-marketing-omaha/
-// Generated: 2026-06-20T04:42:10.864Z
+// Generated: 2026-06-20T05:43:07.110Z
 
 export const ContentMarketing_Omaha = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ BERKSHIRE HATHAWAY FINRA/SEC VALUE INVESTING AND INSURANCE FLOAT CONTENT AUTHORI
 UNION PACIFIC RAIL LOGISTICS AND SUPPLY CHAIN CONTENT: Union Pacific's 32,000+ route mile rail network creates rail logistics and supply chain technology content marketing opportunities for vendors demonstrating operational intelligence: freight routing optimisation methodology, intermodal logistics analytics, rail network performance management.
 
 NEBRASKA MEDICINE NCI YMYL GREAT PLAINS ACADEMIC MEDICAL CONTENT: Nebraska Medicine — UNMC's NCI-designated cancer centre — creates YMYL health technology content marketing opportunities for vendors demonstrating the Great Plains' most prestigious academic medical vocabulary.`,
-  features: `FEATURES:
-
-Berkshire Hathaway FINRA/SEC Value Investing and Insurance Float Content Authority:
+  features: `Berkshire Hathaway FINRA/SEC Value Investing and Insurance Float Content Authority:
 For Omaha financial technology and investment analytics vendors. Value investing methodology — economic moat, margin of safety, intrinsic value operational vocabulary within FINRA boundaries. Insurance float management analytics (GEICO, General Re). Berkshire subsidiary operational intelligence. Annual Meeting seasonal content — four-week May window. CFA Institute and Omaha Financial Planning Association editorial communities. FINRA Rule 2210-compliant workflow. GEO/AEO for Omaha Berkshire FINRA AI search queries.
 
 Union Pacific Rail Logistics and Supply Chain Content:
@@ -37,6 +35,8 @@ For Omaha logistics technology vendors. Rail network analytics methodology. Frei
 
 Nebraska Medicine NCI YMYL Academic Content:
 For Omaha healthcare practices and health technology. Nebraska Medicine NCI Cancer Centre research content. UNMC academic medical vocabulary. Children's Hospital and Medical Center paediatric content. HIPAA-compliant NDPA-native clinical case studies.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Omaha Financial Technology — Berkshire FINRA Annual Meeting Content Authority
 Client: Investment analytics, Omaha (\$6.4M ARR). Challenge: Generic financial content. Berkshire community not finding.
 Programme: Berkshire FINRA value investing content + Annual Meeting May seasonal + CFA Institute editorial + FINRA-compliant + GEO/AEO

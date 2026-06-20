@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Albuquerque
 // URL: /digital-marketing-agency-albuquerque/
-// Generated: 2026-06-20T04:42:11.022Z
+// Generated: 2026-06-20T05:43:08.200Z
 
 export const DigitalMarketing_Albuquerque = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Albuquerque",
   citySlug: "albuquerque",
-  slug: "/digital-marketing-agency-albuquerque/",
+  slug: "/digital-marketing-agency-in-albuquerque/",
   
   h1: `Digital Marketing Agency Albuquerque — Sandia Labs ITAR Revenue, Intel Rio Rancho Enterprise, Kirtland Military, and Duke City Commercial Growth`,
   primaryKw: `digital marketing agency albuquerque`,
@@ -30,6 +30,20 @@ KIRTLAND AIR FORCE BASE MILITARY PROFESSIONAL COMMUNITY: Kirtland AFB — one of
 
 UNM HEALTH SCIENCES CENTER AND PRESBYTERIAN HEALTHCARE YMYL: The University of New Mexico Health Sciences Center — New Mexico's only NCI-designated cancer centre — and Presbyterian Healthcare Services define the YMYL academic medical standard for New Mexico's most populous city.`,
   features: ``,
+  pas: ``,
+  services: `SEO ALBUQUERQUE: Sandia/LANL ITAR-bounded publicly releasable vocabulary. Intel Rio Rancho semiconductor enterprise. Kirtland AFB military community. UNM Health YMYL. /seo-services-albuquerque/
+
+GOOGLE ADS ALBUQUERQUE: Sandia/ITAR-bounded community. Intel semiconductor enterprise. UNM Health HIPAA. Kirtland military TSP/SCRA/VA.
+
+CONTENT MARKETING ALBUQUERQUE: Sandia/LANL ITAR-bounded publicly releasable authority. Intel semiconductor operational. UNM Health NCI YMYL. Kirtland military professional.
+
+LINKEDIN ALBUQUERQUE: Sandia/LANL national security community. Intel Rio Rancho semiconductor engineering. Kirtland AFB military professional. Nob Hill/Old Town authentic Albuquerque.
+
+EMAIL ALBUQUERQUE: Sandia/LANL ITAR-reviewed named pipeline. Intel Rio Rancho semiconductor nurture. Kirtland military 5-stage NM onboarding. UNM Health HIPAA.
+
+LOCAL SEO ALBUQUERQUE: Sandia/LANL proximity GBP. UNM Health/Presbyterian YMYL. Rio Rancho/Northeast Heights professional quality.
+
+WEB DESIGN ALBUQUERQUE: Sandia ITAR-bounded institutional. Intel semiconductor credibility. UNM Health YMYL HIPAA.`,
   caseStudies: `Case Study 1: Albuquerque National Security Tech — Sandia/LANL ITAR Full Programme
 Client: Technology consulting, Albuquerque (\$5.4M). Challenge: New Sandia ALD without connections — invisible. Zero ITAR-bounded vocabulary.
 Programme: SEO (ITAR-bounded publicly releasable vocabulary) + LinkedIn (Sandia/LANL community) + email (Sandia named ITAR-reviewed pipeline) + ITAR vocabulary review every piece

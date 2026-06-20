@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Sacramento
 // URL: /google-ads-management-sacramento/
-// Generated: 2026-06-20T04:42:12.826Z
+// Generated: 2026-06-20T05:43:11.383Z
 
 export const GoogleAds_Sacramento = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ CALPERS/CALSTRS FINRA INSTITUTIONAL INVESTMENT GOOGLE ADS: CalPERS and CalSTRS g
 
 UC DAVIS HEALTH HIPAA CCPA PATIENT ACQUISITION: UC Davis Health's NCI-designated Comprehensive Cancer Center, UC Davis Medical Center, and Sutter Health's Sacramento network create healthcare patient acquisition and health technology PPC markets requiring both HIPAA-compliant server-side conversion tracking and CCPA Consent Mode — the same dual California compliance as San Diego and Los Angeles.`,
   features: ``,
+  pas: `PROBLEM: The Sacramento government technology consulting firm spending \$5,400/month on 'technology consulting Sacramento' and 'IT consulting California.' California CDT just issued a \$120M digital government services RFP. State procurement staff search 'FI\$Cal implementation consulting Sacramento state government' and 'CalATERS modernisation vendor California CDT.' Neither in the campaign. \$64K annual spend misses the most commercially specific government IT procurement vocabulary in the US — California's own California-specific IT system operational language.
+
+SOLUTION: Clickmasters Sacramento Google Ads delivers California state government IT vocabulary, CalPERS/CalSTRS FINRA-compliant institutional investment, UC Davis Health HIPAA CCPA patient acquisition — at California CPCs below San Francisco and Los Angeles equivalents.`,
+  services: `SACRAMENTO CALIFORNIA STATE GOVERNMENT TECH GOOGLE ADS:
+For Sacramento government technology vendors. CDT/CHHS/FI\$Cal/CalATERS vocabulary. Digital government service delivery. California state budget cycle-aware timing. CCPA Consent Mode.
+
+SACRAMENTO CALPERS/CALSTRS FINRA INSTITUTIONAL GOOGLE ADS:
+For Sacramento financial technology vendors. FINRA Rule 2210-compliant ad content. CalPERS/CalSTRS pension fund vocabulary. Alternative investment/ESG vocabulary. California institutional investment audience.
+
+SACRAMENTO UC DAVIS HEALTH HIPAA CCPA GOOGLE ADS:
+For Sacramento healthcare practices and health technology. HIPAA server-side conversion tracking. CCPA Consent Mode. UC Davis Health/Sutter vocabulary. NCI Cancer Center community.`,
   caseStudies: `Case Study 1: Sacramento Government Tech — CA State IT Vocabulary PPC
 Client: Government technology consulting, Sacramento (\$7.4M). Challenge: \$64K spend missing CA state IT vocabulary. CDT RFP shortlisting not achieved.
 Programme: CDT/CHHS/FI\$Cal/CalATERS vocabulary + CA budget cycle timing + CCPA Consent Mode

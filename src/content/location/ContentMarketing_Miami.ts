@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Miami
 // URL: /content-marketing-miami/
-// Generated: 2026-06-20T04:42:10.813Z
+// Generated: 2026-06-20T05:43:06.698Z
 
 export const ContentMarketing_Miami = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ BILINGUAL LATAM-GATEWAY CONTENT IMPERATIVE: An English-only content marketing pr
 FINRA-COMPLIANT BRICKELL FINANCIAL CONTENT: Back Bay's FINRA examination environment in Boston and CME Group's FINRA environment in Chicago have equivalents in Miami's Brickell financial community — where FINRA actively examines investment advisory content. Brickell wealth management firms publishing investment content without FINRA Rule 2210 compliance review are creating enforcement exposure with every piece. Bilingual investment content — Spanish and English — must meet FINRA standards in both languages.
 
 FLORIDA SB 262-COMPLIANT CONTENT ANALYTICS: Content programme performance measurement in Miami must be configured for Florida SB 262-compliant analytics — consent management for website visitor data, appropriate data minimisation in analytics events, and SB 262-compliant attribution. The Miami content marketing programme without SB 262 analytics compliance is creating Florida AG enforcement exposure and producing inaccurately attributed content performance data.`,
-  features: `FEATURES:
-
-Bilingual LATAM-Gateway B2B Content:
+  features: `Bilingual LATAM-Gateway B2B Content:
 Spanish and English content calibrated to Miami's LATAM professional community vocabulary. Venezuelan community: Venezuelan estate planning considerations for US-based assets, Venezuelan professional credential recognition for Miami healthcare and legal practice. Colombian community: Colombian business holding structures, Colombian corporate entity US market entry. Argentine community: Argentine currency exposure hedging strategies in Miami wealth management. Brazilian community: Brazilian FBAR reporting requirements for Miami assets. The bilingual LATAM authority content that earns genuine commercial trust from South Florida's most valuable commercial audience.
 
 FINRA-Compliant Brickell Financial Content:
@@ -37,6 +35,15 @@ For Brickell wealth managers and LATAM-facing investment advisory. FINRA Rule 22
 
 HIPAA-Compliant Bilingual Healthcare Content:
 For Miami healthcare practices serving bilingual communities. Spanish and English patient education content at YMYL standard. HIPAA-compliant clinical content architecture. Miami's Cuban-American, Venezuelan, and Colombian community medical vocabulary calibration. Florida SB 262-compliant content analytics.`,
+  pas: ``,
+  services: `MIAMI BILINGUAL LATAM B2B CONTENT:
+For Brickell professional services, Coral Gables legal, and LATAM-facing Miami businesses. Spanish + English content per LATAM community (Venezuelan, Colombian, Argentine, Brazilian). FINRA-compliant bilingual financial content. Florida Bar-compliant bilingual legal content. LATAM B2B vocabulary per market.
+
+MIAMI BRICKELL FINANCIAL CONTENT (FINRA-COMPLIANT):
+For Brickell wealth managers and international banking. FINRA Rule 2210 bilingual compliance. CFA-authored bilingual content. GIPS performance framework. LATAM estate and tax planning content.
+
+MIAMI BILINGUAL HEALTHCARE CONTENT (HIPAA + YMYL):
+For Miami healthcare practices serving bilingual communities. YMYL-standard bilingual content. HIPAA-compliant patient education. South Florida community medical vocabulary. Florida SB 262-compliant analytics.`,
   caseStudies: `Case Study 1: Brickell Wealth Management — Bilingual LATAM Financial Content Programme
 Client: RIA, Brickell (\$2.8B AUM, 35% LATAM-origin). Challenge: English-only content missing LATAM HNW audience. Venezuelan/Colombian community-specific content absent.
 Programme: Bilingual LATAM content (Venezuelan/Colombian/Argentine community vocabulary) + FINRA bilingual compliance + GIPS framework + SB 262 analytics

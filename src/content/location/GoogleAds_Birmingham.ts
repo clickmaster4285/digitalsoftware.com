@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Birmingham
 // URL: /google-ads-management-birmingham/
-// Generated: 2026-06-20T04:42:12.249Z
+// Generated: 2026-06-20T05:43:10.520Z
 
 export const GoogleAds_Birmingham = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ UAB NCI WORLD-CLASS YMYL HIPAA GOOGLE ADS: UAB Comprehensive Cancer Center gener
 
 BLUE CROSS ALABAMA/ENCOMPASS HEALTH HIPAA GOOGLE ADS: Blue Cross Alabama and Encompass Health generate health insurance and rehabilitation technology B2B and patient acquisition searches requiring HIPAA server-side tracking.`,
   features: ``,
+  pas: `PROBLEM: The Birmingham banking analytics company spending \$4,800/month on 'banking analytics Birmingham' and 'financial technology Alabama.' Regions Financial's new CIO searches 'commercial lending analytics Regions Financial Birmingham FINRA.' Neither in the campaign. \$57K missing Regions' specific FINRA commercial banking vocabulary.
+
+SOLUTION: Clickmasters Birmingham Google Ads delivers Regions FINRA banking, UAB NCI world-class YMYL HIPAA, Blue Cross Alabama/Encompass — at Alabama CPCs below Atlanta and Charlotte.`,
+  services: `BIRMINGHAM REGIONS/PROTECTIVE LIFE FINRA GOOGLE ADS:
+Regions commercial lending/treasury vocabulary. Protective Life annuity/insurance vocabulary. FINRA-compliant throughout.
+
+BIRMINGHAM UAB NCI WORLD-CLASS YMYL HIPAA GOOGLE ADS:
+UAB NCI Comprehensive Cancer Center vocabulary. World-class YMYL clinical content. HIPAA server-side tracking.
+
+BIRMINGHAM BLUE CROSS ALABAMA/ENCOMPASS HIPAA GOOGLE ADS:
+Blue Cross Alabama health insurance vocabulary. Encompass Health rehabilitation. HIPAA server-side tracking.`,
   caseStudies: `Case Study 1: Birmingham Financial Technology — Regions FINRA PPC
 Client: Banking analytics, Birmingham (\$6.4M ARR). Challenge: \$57K missing Regions FINRA vocabulary.
 Programme: Regions commercial lending/treasury vocabulary + FINRA + Alabama banking community

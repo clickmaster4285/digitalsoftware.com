@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: StLouis
 // URL: /web-design-agency-st-louis/
-// Generated: 2026-06-20T04:42:14.965Z
+// Generated: 2026-06-20T05:43:16.073Z
 
 export const WebDesign_StLouis = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ BOEING BDS ITAR-BOUNDED VENDOR CREDIBILITY: Boeing Defense, Space & Security's H
 EDWARD JONES FINRA/SEC INSTITUTIONAL FINANCIAL QUALITY: Edward Jones' Creve Coeur headquarters evaluates financial technology vendor websites with the FINRA Rule 2210 and SEC Marketing Rule compliance standard of a 19,000+ advisor wealth management firm. Investment performance displays, testimonials, and comparative claims must be FINRA-compliant throughout — from wireframe to publish. Financial technology vendor websites without this institutional compliance precision create both regulatory enforcement exposure and credibility failure in Creve Coeur financial services procurement.
 
 BJC/WASHINGTON UNIVERSITY YMYL ACADEMIC MEDICAL DESIGN: BJC HealthCare and Washington University School of Medicine define the YMYL credential standard for healthcare website content in the St. Louis market — requiring Barnes-Jewish Hospital system affiliation display, Washington University School of Medicine faculty attribution, and HIPAA-native data architecture.`,
-  features: `FEATURES:
-
-Boeing BDS ITAR-Bounded Vendor Credibility Architecture:
+  features: `Boeing BDS ITAR-Bounded Vendor Credibility Architecture:
 For Hazelwood and Greater St. Louis aerospace services and technology companies. AS9100D accreditation display with accreditation authority verification links. DCAA accounting system compliance display. ITAR programme experience in publicly releasable language. Cleared facility status display where applicable. Boeing BDS programme reference display within disclosure limits. ITAR-bounded vocabulary throughout — no controlled technical specifications. Boeing BDS-calibre institutional visual quality.
 
 Edward Jones FINRA/SEC Institutional Financial Architecture:
@@ -37,6 +35,8 @@ For Creve Coeur and Greater St. Louis financial technology companies. FINRA Rule
 
 BJC/Washington University YMYL Academic Medical Architecture:
 For St. Louis healthcare practices and health technology. BJC HealthCare/Barnes-Jewish affiliation display. Washington University School of Medicine faculty attribution. St. Louis Children's Hospital academic community. HIPAA-native data architecture. YMYL E-E-A-T content structure.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Hazelwood Aerospace Quality — Boeing BDS ITAR Credibility Redesign
 Client: Aerospace quality consulting, Hazelwood (\$8.4M). Challenge: Website without Boeing BDS vendor credibility. New VP Supply Chain dismissal during digital due diligence.
 Programme: AS9100D/DCAA display + ITAR vocabulary review + Boeing-calibre visual quality + CWV (5.2s to 1.4s)

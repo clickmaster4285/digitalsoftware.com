@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: OklahomaCity
 // URL: /content-marketing-oklahoma-city/
-// Generated: 2026-06-20T04:42:10.858Z
+// Generated: 2026-06-20T05:43:06.975Z
 
 export const ContentMarketing_OklahomaCity = {
   service: "ContentMarketing",
@@ -29,9 +29,7 @@ INTEGRIS/OU HEALTH NCI YMYL ACADEMIC CLINICAL CONTENT: INTEGRIS Health — Oklah
 PAYCOM HR SAAS ANALYTICS CONTENT: Paycom's Edmond headquarters — serving 36,000+ business clients with a single-database HR SaaS platform — creates HR technology content marketing opportunities at the most commercially significant HR SaaS company headquartered in Oklahoma.
 
 TINKER AFB ITAR-BOUNDED PUBLICLY RELEASABLE DEFENCE CONTENT: Tinker AFB's Oklahoma City ALC, Boeing B-52 sustainment programme, and AWACS E-3 Sentry fleet create ITAR-bounded publicly releasable content marketing opportunities.`,
-  features: `FEATURES:
-
-Devon/Expand Energy E&P Content Authority Programme:
+  features: `Devon/Expand Energy E&P Content Authority Programme:
 For OKC oil and gas technology and analytics vendors. Devon Energy STACK play production analytics operational methodology. SCOOP play reservoir engineering optimisation content. Expand Energy natural gas processing operational intelligence. Midstream infrastructure technology content. OGE Energy utility community content. Society of Petroleum Engineers (SPE) editorial community programme. GEO/AEO for OKC Devon Energy STACK/SCOOP AI search queries.
 
 INTEGRIS/OU Health NCI YMYL Academic Clinical Content:
@@ -39,6 +37,8 @@ For OKC health IT vendors. INTEGRIS Health system clinical programme content. OU
 
 Paycom HR SaaS Analytics and Tinker ITAR-Bounded Defence Content:
 For OKC HR technology and defence-adjacent vendors. Paycom HR SaaS analytics content — talent acquisition, payroll automation, employee self-service operational intelligence. Tinker AFB ITAR vocabulary review for every defence content piece. Oklahoma City ALC publicly releasable community content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: OKC Energy Technology — Devon/Expand Energy E&P Content Authority
 Client: Energy analytics, OKC (\$5.4M ARR). Challenge: Generic energy content. Devon/Expand Energy E&P community not finding organically.
 Programme: Devon STACK/SCOOP/Expand Energy natural gas content + SPE editorial community + GEO/AEO

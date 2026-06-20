@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: LasVegas
 // URL: /email-marketing-las-vegas/
-// Generated: 2026-06-20T04:42:11.949Z
+// Generated: 2026-06-20T05:43:09.398Z
 
 export const EmailMarketing_LasVegas = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ GAMING ENTERPRISE HUBSPOT PIPELINE: Las Vegas's gaming enterprise procurement cy
 CA IN-MIGRATION PROFESSIONAL ONBOARDING EMAIL: Las Vegas's California in-migration wave creates an above-average email marketing commercial opportunity — the newly arrived high-income professional from Los Angeles, the Bay Area, or San Diego who has just established Nevada residency is actively building new professional service relationships. A 5-stage California-to-Nevada professional onboarding sequence specifically addressing Nevada's 0% income tax vs California's 13.3% top marginal rate, Nevada estate planning vs California Proposition 19 considerations, and the professional service navigation content that helps high-income CA in-migration professionals establish their Las Vegas/Henderson/Summerlin service relationships earns above-average engagement and conversion from Nevada's fastest-growing highest-income demographic.
 
 NEVADA COMMERCIAL ADVANTAGE EMAIL CONTENT: Nevada's 0% state income tax, Nevada LLC privacy advantages, and Nevada trust law creates specific email marketing commercial content opportunities for financial advisory, estate planning, and business formation services whose subscriber community actively consumes Nevada commercial advantage content.`,
-  features: `FEATURES:
-
-Gaming Enterprise HubSpot Pipeline Nurture:
+  features: `Gaming Enterprise HubSpot Pipeline Nurture:
 For Henderson and Las Vegas gaming technology vendors. HubSpot named account sequences for MGM/Caesars/Wynn/Station procurement contacts. Casino-operational email content tracks: revenue management ROI methodology, gaming regulatory compliance efficiency, hospitality SaaS operational value. Deal-stage triggers calibrated to gaming enterprise's 90-180 day procurement cycles. FINRA-aware content for gaming financial services adjacent.
 
 California In-Migration 5-Stage Nevada Professional Onboarding:
@@ -37,6 +35,15 @@ For financial advisory, healthcare, estate planning, and professional services b
 
 Nevada Commercial Advantage Email Content:
 For estate planning attorneys, formation services, and financial advisory serving Las Vegas's Nevada-advantage commercial community. Monthly Nevada commercial intelligence email: Nevada LLC/trust law updates, Nevada tax law updates, California-to-Nevada relocation planning content. FINRA-compliant for financial advisory clients.`,
+  pas: ``,
+  services: `LAS VEGAS GAMING ENTERPRISE HUBSPOT:
+For gaming technology vendors. MGM/Caesars/Wynn/Station named sequences. Casino-operational vocabulary tracks. 90-180 day procurement deal-stage triggers.
+
+LAS VEGAS CA IN-MIGRATION 5-STAGE ONBOARDING:
+For financial advisory, healthcare, estate planning. 5-stage CA-to-NV professional onboarding. Nevada 0% income tax vs CA 13.3%. RSU equity planning. Nevada estate planning. FINRA-compliant.
+
+LAS VEGAS NEVADA COMMERCIAL ADVANTAGE EMAIL:
+For estate planning, formation services, financial advisory. Monthly Nevada commercial intelligence. Nevada LLC/trust law updates. CA-to-NV relocation content.`,
   caseStudies: `Case Study 1: Henderson Gaming Technology — MGM/Caesars Enterprise HubSpot Pipeline
 Client: Casino SaaS, Henderson (\$8M ARR). Challenge: MGM/Caesars contacts going cold in 120-day procurement cycles. Generic email below gaming operational standard.
 Programme: Gaming enterprise HubSpot + MGM/Caesars named sequences + casino-operational vocabulary content + 120-day deal-stage triggers

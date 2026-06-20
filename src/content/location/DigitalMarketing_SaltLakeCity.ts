@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: SaltLakeCity
 // URL: /digital-marketing-agency-salt-lake-city/
-// Generated: 2026-06-20T04:42:11.556Z
+// Generated: 2026-06-20T05:43:08.932Z
 
 export const DigitalMarketing_SaltLakeCity = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "SaltLakeCity",
   citySlug: "salt-lake-city",
-  slug: "/digital-marketing-agency-salt-lake-city/",
+  slug: "/digital-marketing-agency-in-salt-lake-city/",
   
   h1: `Digital Marketing Agency Salt Lake City — Silicon Slopes Revenue, Goldman Sachs FINRA, University of Utah YMYL, and Beehive State Commercial Growth`,
   primaryKw: `digital marketing agency salt lake city`,
@@ -30,6 +30,20 @@ UNIVERSITY OF UTAH HEALTH AND INTERMOUNTAIN HEALTH YMYL DIGITAL MARKETING: Unive
 
 CALIFORNIA IN-MIGRATION AND UTAH TAX ADVANTAGE: California's 13.3% top income tax rate vs Utah's flat 4.65% creates professional services digital marketing opportunities for financial advisory, legal, and real estate businesses serving Salt Lake City's growing California in-migration professional community — parallel to Phoenix and Las Vegas in-migration commercial opportunities.`,
   features: ``,
+  pas: ``,
+  services: `SEO SLC: Silicon Slopes Qualtrics/Domo/Pluralsight vocabulary. Goldman/Zions FINRA. U of U/Primary Children's YMYL. UCPA-native. /seo-services-salt-lake-city/
+
+GOOGLE ADS SLC: Silicon Slopes enterprise tech PPC. Goldman FINRA-compliant. U of U Health HIPAA patient. CA in-migration Utah tax. UCPA Consent Mode.
+
+CONTENT MARKETING SLC: Qualtrics XM/Domo BI/Pluralsight authority content. Goldman FINRA institutional. U of U/Primary Children's YMYL clinical. Utah CA in-migration.
+
+LINKEDIN SLC: Silicon Slopes enterprise tech LinkedIn. Goldman/Zions financial professional community. U of U Health clinical community. Sugar House/Avenues authentic SLC.
+
+EMAIL SLC: Qualtrics/Domo/Goldman named HubSpot pipeline. U of U HIPAA health system. CA in-migration Utah 5-stage onboarding. UCPA-compliant.
+
+LOCAL SEO SLC: Silicon Slopes proximity GBP. U of U/Primary Children's academic medical. East Bench/Holladay professional quality. UCPA-native.
+
+WEB DESIGN SLC: Silicon Slopes enterprise credibility. Goldman FINRA-compliant. U of U Health YMYL HIPAA.`,
   caseStudies: `Case Study 1: South Jordan Enterprise Software — Silicon Slopes Full Programme
 Client: Enterprise analytics, South Jordan (\$6.4M ARR). Challenge: New Qualtrics VP/Domo CRO without connections — invisible. Zero Silicon Slopes vocabulary.
 Programme: SEO (Qualtrics XM/Domo BI vocabulary) + LinkedIn (Silicon Slopes community) + email (Qualtrics/Domo named pipeline) + UCPA-native

@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Wichita
 // URL: /google-ads-management-wichita/
-// Generated: 2026-06-20T04:42:12.941Z
+// Generated: 2026-06-20T05:43:11.603Z
 
 export const GoogleAds_Wichita = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ TEXTRON AVIATION BUSINESS AVIATION GOOGLE ADS: Textron Aviation generates busine
 
 VIA CHRISTI/WESLEY HIPAA PATIENT ACQUISITION: Via Christi Health (Ascension) and Wesley Medical Center (HCA) create healthcare patient acquisition PPC requiring HIPAA server-side tracking.`,
   features: ``,
+  pas: `PROBLEM: The Wichita aerospace technology company spending \$4,200/month on 'aerospace technology Wichita' and 'manufacturing vendor Kansas.' Spirit's new VP Supplier Quality searches 'aerostructures quality technology vendor Spirit Wichita ITAR-bounded.' Neither in the campaign. \$50K spend misses Spirit's specific publicly releasable aerostructures vocabulary — the Air Capital's most commercially significant aerospace B2B vocabulary.
+
+SOLUTION: Clickmasters Wichita Google Ads delivers Spirit ITAR-bounded community, Textron Aviation business aviation, Via Christi HIPAA — at Kansas CPCs below Seattle and Dallas.`,
+  services: `WICHITA SPIRIT ITAR-BOUNDED COMMUNITY GOOGLE ADS:
+ITAR vocabulary review all ads and landing pages. Spirit aerostructures publicly releasable vocabulary. Composite manufacturing community. Kansas aerospace audience.
+
+WICHITA TEXTRON AVIATION BUSINESS AVIATION GOOGLE ADS:
+Cessna/Beechcraft turboprop/jet MRO vocabulary. Business aviation avionics. King Air/Citation community. Global business aviation audience.
+
+WICHITA VIA CHRISTI/WESLEY HIPAA GOOGLE ADS:
+HIPAA server-side conversion tracking. Via Christi/Ascension vocabulary. Wesley HCA vocabulary. Wichita family healthcare audience.`,
   caseStudies: `Case Study 1: Wichita Aerospace — Spirit AeroSystems ITAR Community PPC
 Client: Aerospace technology, Wichita (\$6.4M ARR). Challenge: \$50K missing Spirit aerostructures vocabulary. ITAR in ad content.
 Programme: ITAR review + Spirit publicly releasable vocabulary + Kansas aerospace audience

@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Louisville
 // URL: /local-seo-services-louisville/
-// Generated: 2026-06-20T04:42:13.168Z
+// Generated: 2026-06-20T05:43:12.251Z
 
 export const LocalSEO_Louisville = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ UOFL HEALTH/NORTON HEALTHCARE YMYL ACADEMIC MEDICAL CREDENTIAL: University of Lo
 
 ST. MATTHEWS/ANCHORAGE/PROSPECT PROFESSIONAL QUALITY STANDARD: St. Matthews (Louisville's most vibrant suburban professional community), Anchorage (Kentucky's most affluent small city, home to Louisville's highest-income professionals), and Prospect (Oldham County's premium residential community) represent the highest-income professional markets in Greater Louisville.`,
   features: ``,
+  pas: `PROBLEM: The St. Matthews financial advisory with a Humana Medicare Advantage executive and GE Appliances VP client base — 20 reviews, generic 'St. Matthews wealth management' GBP, no CFA verification, no Humana/GE community vocabulary. The Humana VP Stars Quality who relocated from Atlanta searches 'fee-only financial adviser St. Matthews CFA Humana Medicare professional Louisville.' GBP: 20 reviews, no CFA Institute verification, no Humana community signal. She selects the firm with 108 reviews, CFA verification, 'financial planning for Humana, GE Appliances, and Louisville Fortune 500 professionals in St. Matthews.'
+
+SOLUTION: Clickmasters Louisville Local SEO provides the Humana Medicare Advantage proximity, UofL Health/Norton YMYL, and St. Matthews/Anchorage professional quality GBP programme.`,
+  services: `LOUISVILLE HUMANA MEDICARE ADVANTAGE PROXIMITY B2B GBP:
+For Downtown and Prospect Louisville health insurance adjacent vendors. Humana Medicare Advantage/Stars vocabulary in GBP. Downtown Louisville/Prospect proximity signals. Health insurance professional photography. FINRA-aware.
+
+LOUISVILLE UOFL HEALTH/NORTON YMYL ACADEMIC GBP:
+For Louisville healthcare practices. University of Louisville Health System academic affiliation. Norton Healthcare programme vocabulary. HIPAA-compliant review management.
+
+LOUISVILLE ST. MATTHEWS/ANCHORAGE/PROSPECT PROFESSIONAL QUALITY GBP:
+For St. Matthews, Anchorage, and Prospect professional services. CFA/CFP with CFA Institute/CFP Board verification. Humana/GE Appliances/Churchill Downs executive community vocabulary. Derby City institutional professional photography. FINRA-aware.`,
   caseStudies: `Case Study 1: St. Matthews Financial Advisory — Humana/GE Appliances Executive Quality GBP
 Client: Fee-only RIA, St. Matthews (\$180M AUM). Challenge: GBP below Humana/GE Appliances executive standard.
 Programme: CFA Institute verification + Humana/GE Appliances/Churchill Downs community vocabulary + FINRA-aware + St. Matthews professional photography

@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Boise
 // URL: /content-marketing-boise/
-// Generated: 2026-06-20T04:42:10.599Z
+// Generated: 2026-06-20T05:43:05.989Z
 
 export const ContentMarketing_Boise = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ MICRON TECHNOLOGY DRAM/NAND SEMICONDUCTOR CONTENT AUTHORITY: Boise's most commer
 ALBERTSONS GROCERY RETAIL ANALYTICS CONTENT: Albertsons' 2,200+ store national network creates grocery retail analytics content marketing opportunities: shopper behaviour analytics methodology, CPG supplier analytics platform content, loyalty programme technology intelligence.
 
 CALIFORNIA IN-MIGRATION IDAHO TAX ADVANTAGE CONTENT: Boise's California in-migration professional community creates financial advisory, legal, and real estate content marketing opportunities for Idaho-based businesses demonstrating the Idaho tax advantage.`,
-  features: `FEATURES:
-
-Micron Technology DRAM/NAND Semiconductor Content Authority:
+  features: `Micron Technology DRAM/NAND Semiconductor Content Authority:
 For Boise semiconductor equipment and technology vendors. DRAM process optimisation methodology content. NAND flash cell design operational intelligence. Semiconductor yield analytics. IEEE ISSCC and SEMI community editorial programme. GEO/AEO for Boise Micron DRAM/NAND AI search queries.
 
 Albertsons Grocery Retail Analytics Content:
@@ -37,6 +35,8 @@ For Boise retail analytics and CPG vendors. Shopper behaviour analytics methodol
 
 California In-Migration Idaho Tax Advantage Content:
 For Boise professional services. Idaho 5.8% vs California 13.3% tax savings analysis content. Treasure Valley lifestyle comparison. Boise vs Bay Area cost of living content. Financial planning for California-to-Idaho relocators.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Boise Semiconductor — Micron Technology DRAM/NAND Content Authority
 Client: Semiconductor equipment, Boise (\$5.4M ARR). Challenge: Generic semiconductor content. Micron community not finding.
 Programme: Micron DRAM/NAND/wafer content + IEEE ISSCC/SEMI editorial + GEO/AEO

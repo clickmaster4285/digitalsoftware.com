@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Huntsville
 // URL: /seo-services-huntsville/
-// Generated: 2026-06-20T04:42:13.636Z
+// Generated: 2026-06-20T05:43:13.096Z
 
 export const SEO_Huntsville = {
   service: "SEO",
@@ -30,6 +30,17 @@ CUMMINGS RESEARCH PARK TECHNOLOGY B2B SEO: Cummings Research Park — the second
 
 HUNTSVILLE HOSPITAL AND UAH HEALTHCARE/ACADEMIC YMYL: Huntsville Hospital — one of the Southeast's largest health systems — and the University of Alabama in Huntsville (UAH) create YMYL academic healthcare and engineering community digital marketing opportunities.`,
   features: ``,
+  pas: `PROBLEM: The Huntsville aerospace technology company with genuine NASA Marshall relationships. Zero SLS integration/Artemis programme publicly releasable vocabulary in website. NASA Marshall appointed a new Director of Space Technology Programme. He searches 'Space Launch System integration technology vendor Huntsville NASA Marshall' and 'Artemis programme technology partner Alabama ITAR-bounded.' Company appears for neither. NASA Marshall — developer of the Saturn V, current developer of SLS — is headquartered in Huntsville and generates ITAR-bounded aerospace vocabulary that no Huntsville SEO agency addresses at the required precision.
+
+SOLUTION: Clickmasters Huntsville SEO delivers NASA Marshall ITAR-bounded publicly releasable aerospace authority, Redstone Arsenal defence B2B, UAH engineering, Cummings Research Park tech, and GEO/AEO first-mover.`,
+  services: `HUNTSVILLE NASA MARSHALL ITAR-BOUNDED AEROSPACE SEO:
+For Huntsville aerospace technology and engineering vendors. ITAR vocabulary review every piece. SLS/Artemis publicly releasable vocabulary. Rocket propulsion research community (public). Cummings Research Park tech community.
+
+HUNTSVILLE REDSTONE ARSENAL ITAR-BOUNDED DEFENCE SEO:
+For Huntsville defence technology vendors. AMCOM/MDA/SMDC publicly releasable vocabulary. ITAR vocabulary review every piece. US Army missile programme community (public). Systems engineering vocabulary.
+
+HUNTSVILLE UAH/HUNTSVILLE HOSPITAL YMYL SEO:
+For Huntsville healthcare and academic technology. UAH engineering research vocabulary. Huntsville Hospital YMYL. HIPAA-compliant healthcare content.`,
   caseStudies: `Case Study 1: Huntsville Aerospace Technology — NASA Marshall ITAR-Bounded SEO
 Client: Aerospace technology consulting, Huntsville (\$6.4M ARR). Challenge: Zero SLS/Artemis ITAR-bounded vocabulary. NASA Marshall Director not finding.
 Programme: ITAR vocabulary review all content + SLS/Artemis publicly releasable vocabulary + Cummings Research Park community + GEO/AEO

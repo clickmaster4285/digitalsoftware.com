@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Miami
 // URL: /web-design-agency-miami/
-// Generated: 2026-06-20T04:42:14.735Z
+// Generated: 2026-06-20T05:43:15.555Z
 
 export const WebDesign_Miami = {
   service: "WebDesign",
@@ -37,6 +37,15 @@ For Brickell wealth managers, international banking operations, and LATAM-facing
 
 Florida SB 262 Privacy Architecture:
 All Miami websites built with SB 262-compliant data privacy architecture: consumer data consent management for website analytics, contact form data handling meeting Florida AG standards, and privacy policy architecture reflecting SB 262's consumer rights. The web design that protects Miami businesses from Florida AG enforcement while communicating genuine data privacy values.`,
+  pas: ``,
+  services: `MIAMI BILINGUAL BUSINESS WEBSITE DESIGN:
+For healthcare practices, legal, and professional services businesses serving Miami's 45% Spanish-preference commercial audience. Native bilingual design — South Florida Spanish (Cuban-American, Venezuelan, Colombian, Argentine community specific). Florida SB 262-compliant. HIPAA-compliant bilingual forms with BAA for healthcare. Mobile-first CWV.
+
+MIAMI BRICKELL INSTITUTIONAL FINANCIAL WEBSITE DESIGN (FINRA/SEC):
+For Brickell wealth managers, international banking, and LATAM-facing financial services. FINRA/SEC compliance. GIPS display. ADV Part 2. Bilingual Spanish/English institutional design. LATAM professional credibility signals. Florida SB 262-compliant.
+
+MIAMI CONSUMER AND DTC WEBSITE DESIGN:
+For Miami's Wynwood creative brands, luxury hospitality, and South Florida DTC companies. Bilingual English/Spanish consumer design. Florida SB 262-compliant analytics. Creator economy visual standard for Miami's design-sophisticated consumer market. Shopify/WooCommerce at Miami Beach aesthetic quality.`,
   caseStudies: `Case Study 1: Brickell Wealth Management — Bilingual LATAM Institutional Redesign
 Client: RIA, Brickell (\$2.8B AUM, 35% LATAM-origin). Challenge: English-only website below LATAM institutional standard. FINRA violations present. Florida SB 262 non-compliant.
 Programme: Bilingual institutional redesign + FINRA/GIPS compliance + LATAM credibility architecture + ADV Part 2 + SB 262 consent management

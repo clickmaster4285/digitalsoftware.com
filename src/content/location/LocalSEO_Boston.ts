@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Boston
 // URL: /local-seo-services-boston/
-// Generated: 2026-06-20T04:42:13.015Z
+// Generated: 2026-06-20T05:43:11.726Z
 
 export const LocalSEO_Boston = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ KENDALL SQUARE PHARMA B2B PROXIMITY: Cambridge professional services and enterpr
 
 MASSACHUSETTS CDPA REVIEW ANALYTICS: Massachusetts' CDPA (January 2025) creates requirements for GBP review acquisition programme data — review request email data collection and review analytics must be CDPA-compliant. Boston businesses with non-CDPA review programmes are creating Massachusetts AG enforcement exposure.`,
   features: ``,
+  pas: `PROBLEM: The Back Bay specialist cardiology practice with 2 cardiologists — HMS-trained, MGH-affiliated — whose GBP shows 18 reviews at 4.8 stars, no HMS faculty attribution, no MGH system affiliation displayed, and 3-year-old photography. The Kendall Square biotech executive searching for a cardiologist evaluates the GBP: 18 reviews is below the Boston academic medical community standard; no HMS credential display; no MGH system affiliation. She selects the Back Bay cardiology practice 0.4 miles further with 124 reviews, HMS faculty appointments displayed, and a MGH system affiliation badge.
+
+SOLUTION: Clickmasters Boston Local SEO provides the HMS-credentialled, Kendall Square proximity-optimised, CDPA-compliant GBP programme.`,
+  services: `BOSTON HMS ACADEMIC MEDICAL GBP:
+For HMS-affiliated practices, Mass General Brigham-adjacent physicians, and Longwood healthcare. HMS faculty attribution. Partners/MGH system affiliation badge. Dana-Farber clinical research display. HIPAA-compliant review management. CDPA-compliant analytics.
+
+KENDALL SQUARE PHARMA PROXIMITY LOCAL SEO:
+For Cambridge professional services and enterprise vendors. Kendall Square proximity signals. Pharma community B2B vocabulary. CDMA Innovation Center/Broad Institute/MIT community proximity display.
+
+BOSTON FINRA FINANCIAL SERVICES GBP:
+For Back Bay wealth managers and Fidelity ecosystem RIAs. CFA/CFP credentials with verification links. FINRA-aware review management. CDPA-compliant analytics. Massachusetts Securities Division awareness.`,
   caseStudies: `Case Study 1: Back Bay Cardiology — HMS Academic Medical GBP Rebuild
 Client: Cardiology practice, Back Bay (2 cardiologists, HMS/MGH). Challenge: 18 reviews, no HMS display. Boston academic community evaluating as below-standard.
 Programme: HMS faculty display + MGH system affiliation + CDPA review programme + Longwood academic photography

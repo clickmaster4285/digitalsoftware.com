@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Indianapolis
 // URL: /email-marketing-indianapolis/
-// Generated: 2026-06-20T04:42:11.908Z
+// Generated: 2026-06-20T05:43:09.328Z
 
 export const EmailMarketing_Indianapolis = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ ELI LILLY/CORTEVA PHARMACEUTICAL PIPELINE EMAIL: Eli Lilly and Corteva Agriscien
 CUMMINS/SIMON PROPERTY FORTUNE 500 ENTERPRISE NURTURE: Cummins Inc. and Simon Property Group procurement cycles run 90-180 days for enterprise technology and professional services vendor engagement. Email nurture content maintaining Cummins and Simon procurement contact relationships requires Midwest Fortyne 500 evidence-analytical vocabulary: Cummins commercial engine and clean transportation operational specifics, Simon Property REIT/retail management intelligence, and the data-evidence-based content standard that Midwest Fortune 500 corporate culture expects.
 
 INDIANAPOLIS INDY 500 MOTORSPORTS VENDOR COMMUNITY: IndyCar Series, Penske Entertainment, and Indianapolis Motor Speedway vendor community create a motorsports B2B email marketing opportunity — with race calendar-aware timing parallel to Charlotte's NASCAR email strategy.`,
-  features: `FEATURES:
-
-Eli Lilly/Corteva Pharmaceutical Pipeline HubSpot:
+  features: `Eli Lilly/Corteva Pharmaceutical Pipeline HubSpot:
 For Indianapolis pharmaceutical consulting and services companies. FDA 21 CFR Part 211 GMP operational email content. CMC regulatory guidance analysis email tracks. ISPE/PDA community update emails. API manufacturing quality intelligence. HubSpot Lilly/Corteva/Elanco named account sequences. 180-360 day pharmaceutical procurement cycle deal-stage triggers.
 
 Cummins/Simon Property Fortune 500 Enterprise Nurture:
@@ -37,6 +35,8 @@ For Indianapolis enterprise technology and professional services vendors. Cummin
 
 Indy 500 Motorsports Vendor Community Email:
 For Indianapolis motorsports technology and services vendors. IndyCar race calendar-aware email timing: pre-500 (March-May vendor evaluation), mid-season, off-season strategic planning. Penske Entertainment/IMS named account sequences.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Indianapolis Pharma Consulting — Eli Lilly/Corteva GMP Pipeline
 Client: GMP manufacturing consulting, Indianapolis (\$6.8M). Challenge: Lilly/Corteva contacts cold in 180-day procurement cycles. Generic email below GMP vocabulary standard.
 Programme: FDA 21 CFR Part 211 GMP email + Lilly/Corteva named sequences + ISPE/PDA community updates + 200-day deal-stage triggers

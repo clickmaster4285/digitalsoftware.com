@@ -2,7 +2,7 @@
 // Service: SEO
 // City: SanJose
 // URL: /seo-services-san-jose/
-// Generated: 2026-06-20T04:42:13.920Z
+// Generated: 2026-06-20T05:43:14.104Z
 
 export const SEO_SanJose = {
   service: "SEO",
@@ -28,6 +28,21 @@ CCPA COMPLIANCE: All San Jose/Silicon Valley SEO programmes for California busin
 
 GEO/AEO PRIMACY: Silicon Valley's engineering-culture professionals are the most intensive AI search users in the United States. When a Silicon Valley CTO asks ChatGPT for recommended DevOps tooling or asks Perplexity for the best enterprise data management platforms, the brands that appear in those AI-generated answers are capturing the research phase of the buying journey before the prospect even reaches a website. GEO and AEO optimisation is not optional for Silicon Valley companies — it's the most commercially urgent digital marketing investment available.`,
   features: ``,
+  pas: `Silicon Valley's B2B technology companies are trapped in a paid media arms race that is destroying unit economics — and organic SEO is the only sustainable exit.
+
+PROBLEM: Silicon Valley's most competitive B2B SaaS keyword categories have reached CPC levels that make paid acquisition fundamentally uneconomic for most companies. "Enterprise data management software" at \$45+ CPC. "DevOps platform" at \$38+ CPC. "Cybersecurity software enterprise" at \$52+ CPC. These CPCs, combined with B2B conversion rates of 2-4% on well-optimised landing pages, produce CPLs of \$1,100-\$2,600+ that only make commercial sense when LTV is \$50,000+ and sales cycles are under 6 months. For the companies below that threshold, the paid acquisition math doesn't close — but the companies continue spending because they don't yet have an organic alternative.
+
+AGITATION: The Silicon Valley B2B companies that built comprehensive organic programmes 3-5 years ago are now generating 40-60% of their pipeline from organic at CACs of \$200-\$500 — a 3-10x improvement in unit economics relative to their paid-only competitors. The category keyword authority they built compounds every month: new backlinks strengthen rankings, new content expands the keyword footprint, and the domain authority that took 3 years to build takes 3+ years to replicate. The longer Silicon Valley companies delay organic investment, the wider the unit economics gap between them and their organically-established competitors.
+
+SOLUTION: Clickmasters Silicon Valley SEO provides the CCPA-compliant, technically rigorous, engineering-standard organic programme that Silicon Valley's B2B technology companies need to build the organic authority that makes their unit economics sustainable.`,
+  services: `SILICON VALLEY B2B SAAS SEO:
+Category keyword strategy for Silicon Valley's most competitive SaaS verticals — the specific commercial intent searches that buyers in your category make during vendor evaluation. Technical SEO that meets the performance standards of Silicon Valley's engineering culture: sub-1.5 second LCP, zero CLS, Next.js and React framework rendering optimisation. Content programme at the intellectual standard Silicon Valley's data-driven B2B buyers apply to vendor research. Integration and comparison page content capturing the mid-funnel buyers evaluating your product against specific alternatives. CCPA-compliant analytics with Enhanced Conversions for accurate attribution.
+
+SEMICONDUCTOR AND HARDWARE SEO (SEMICONDUCTOR CORRIDOR):
+SEO for San Jose and Santa Clara's semiconductor and hardware technology companies — AMD, Nvidia suppliers, Intel ecosystem vendors, and the fabless semiconductor design companies. Technical specification content (process nodes, package types, EDA software compatibility, JEDEC standards). IEEE publication citation architecture. Semiconductor trade publication link building (EE Times, Electronic Design, Semiconductor Digest). The engineering-credibility content that earns trust from Silicon Valley's most technically demanding buyer base.
+
+VENTURE-BACKED STARTUP SEO:
+Series A-C Silicon Valley startups building organic authority as a commercial traction signal for fundraising and as a long-term CAC reduction strategy. Startup-stage SEO: rapid technical foundation, category keyword capture, growth hacking content strategy calibrated to Silicon Valley's product-led growth culture. Series A/B traction metrics: organic sessions, demo requests, CAC from organic — the metrics that Silicon Valley investors evaluate as demand validation signals.`,
   caseStudies: `Case Study 1: San Jose SaaS Company — 58,000 Monthly Sessions, Series B
 Client: Enterprise data management SaaS, San Jose (\$18M ARR, Series A at engagement start)
 Challenge: Competing against Databricks, Snowflake, and Confluent for data management category searches. \$4,800 paid CAC from Google Ads. Zero organic presence.

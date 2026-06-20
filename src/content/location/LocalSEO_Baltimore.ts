@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Baltimore
 // URL: /local-seo-services-baltimore/
-// Generated: 2026-06-20T04:42:12.977Z
+// Generated: 2026-06-20T05:43:11.670Z
 
 export const LocalSEO_Baltimore = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ T. ROWE PRICE INSTITUTIONAL INVESTMENT PROFESSIONAL QUALITY STANDARD: T. Rowe Pr
 
 ROLAND PARK/GUILFORD/FELLS POINT PROFESSIONAL QUALITY STANDARD: Roland Park (Baltimore's most affluent residential neighbourhood, home to Johns Hopkins professors and T. Rowe Price executives), Guilford (established professional residential community), and Fells Point's revitalised waterfront professional community evaluate GBPs with the Charm City institutional professional standard.`,
   features: ``,
+  pas: `PROBLEM: The Roland Park financial advisory with a Johns Hopkins physician and T. Rowe Price portfolio manager client base — 20 reviews at 4.7 stars, generic 'Roland Park wealth management' GBP, no CFA verification, no JHM/TRP community vocabulary. The new T. Rowe Price Portfolio Manager who relocated from London searches 'fee-only financial adviser Roland Park Baltimore CFA T. Rowe Price community.' GBP: 20 reviews (London adviser had 130+), no CFA Institute verification visible, no TRP community signal. She selects the Roland Park firm with 108 reviews, CFA Institute verification, 'specialists in financial planning for Johns Hopkins and T. Rowe Price professionals in Roland Park and Guilford.'
+
+SOLUTION: Clickmasters Baltimore Local SEO provides the Johns Hopkins #1 world-class, T. Rowe Price institutional investment quality, and Roland Park/Guilford Charm City professional standard GBP programme.`,
+  services: `BALTIMORE JOHNS HOPKINS #1 WORLD-CLASS YMYL GBP:
+For Baltimore healthcare practices and health IT companies. Johns Hopkins Medicine programme affiliation (#1 world-class standard). Armstrong Institute faculty vocabulary. University of Maryland/MedStar Health affiliations. HIPAA-compliant Maryland MPIPA-aware review management.
+
+BALTIMORE T. ROWE PRICE INSTITUTIONAL INVESTMENT PROFESSIONAL GBP:
+For Baltimore financial advisory and professional services. CFA charterholder with CFA Institute verification. FINRA BrokerCheck verification. TRP/Legg Mason investment community vocabulary. Institutional investment management professional photography. FINRA-aware review management.
+
+BALTIMORE ROLAND PARK/GUILFORD/FELLS POINT PROFESSIONAL QUALITY GBP:
+For Roland Park, Guilford, and Fells Point professional services. JHM physician/TRP portfolio manager community vocabulary. Charm City institutional professional photography. Maryland MPIPA-aware consumer data.`,
   caseStudies: `Case Study 1: Roland Park Financial Advisory — JHM Physician/TRP Portfolio Manager GBP
 Client: Fee-only RIA, Roland Park (\$240M AUM). Challenge: GBP below JHM/TRP professional community standard. Relocating institutional professionals selecting competitors.
 Programme: CFA Institute verification + JHM physician/TRP portfolio manager vocabulary + FINRA-aware + Roland Park institutional photography

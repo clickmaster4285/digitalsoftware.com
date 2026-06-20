@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: NewYork
 // URL: /digital-marketing-agency-new-york/
-// Generated: 2026-06-20T04:42:11.448Z
+// Generated: 2026-06-20T05:43:08.765Z
 
 export const DigitalMarketing_NewYork = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "NewYork",
   citySlug: "new-york",
-  slug: "/digital-marketing-agency-new-york/",
+  slug: "/digital-marketing-agency-in-new-york/",
   
   h1: `Digital Marketing Agency New York — Wall Street Institutional Revenue and the World's Most Demanding Commercial Market`,
   primaryKw: `digital marketing agency new york`,
@@ -28,6 +28,20 @@ NYC ACADEMIC MEDICAL YMYL DIGITAL MARKETING: Google's quality rating guidelines 
 
 NYC LUXURY AND WORLD-CLASS CONSUMER BRAND DIGITAL MARKETING: New York City's consumer brand digital marketing environment is the world's most demanding quality benchmark — because NYC's consumer and professional communities evaluate brand digital marketing against the advertising industry that invented modern commercial communication. NYC consumer brands whose digital marketing fails to achieve the editorial quality standard of the publications and agencies that define this standard are invisible to the most commercially sophisticated consumer audience in the world.`,
   features: ``,
+  pas: ``,
+  services: `SEO NEW YORK: FINRA-compliant Wall Street vocabulary authority. NYC academic medical YMYL E-E-A-T. NYC consumer editorial brand quality. /seo-services-new-york/
+
+GOOGLE ADS NYC: FINRA-compliant financial services PPC. HIPAA-compliant patient acquisition. NYC luxury consumer editorial-quality advertising.
+
+CONTENT MARKETING NYC: CFA-authored FINRA-compliant investment content. NYU/Columbia YMYL academic medical authority. NYT-standard editorial brand content.
+
+LINKEDIN NYC: FINRA-compliant Wall Street professional LinkedIn. Academic medical clinical LinkedIn. NYC world-class consumer brand editorial social. /social-media-marketing-new-york/
+
+EMAIL NYC: FINRA-compliant quarterly investment commentary email. HIPAA patient retention. NYC luxury consumer Klaviyo. New York Privacy Act-aware data handling.
+
+LOCAL SEO NYC: Manhattan/Brooklyn/Queens neighbourhood precision. FINRA/HIPAA GBP review management. NYC editorial quality GBP photography. /local-seo-services-new-york/
+
+WEB DESIGN NYC: Wall Street FINRA/SEC/NYDFS institutional. NYU/Columbia YMYL. NYT/Condé Nast editorial brand. /web-design-agency-new-york/`,
   caseStudies: `Case Study 1: Midtown Hedge Fund — FINRA All-Channel Compliance Rebuild and HNW Revenue Growth
 Client: Multi-strategy hedge fund, Midtown (\$2.8B AUM). Challenge: 8 FINRA violations. All digital marketing suspended.
 Programme: FINRA Rule 2210 workflow integration (all 12 channels) + SEC Marketing Rule + NYDFS review + CFA-authored content + GIPS performance display

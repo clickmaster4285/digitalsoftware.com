@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Austin
 // URL: /web-design-agency-austin/
-// Generated: 2026-06-20T04:42:14.535Z
+// Generated: 2026-06-20T05:43:15.116Z
 
 export const WebDesign_Austin = {
   service: "WebDesign",
@@ -37,6 +37,15 @@ For North Austin and Del Valle technology and services vendors. IATF 16949 autom
 
 Authentic Austin Consumer Brand Design:
 For South Congress, East Austin, and Rainey Street consumer brands. Genuine Austin visual language: South Congress Avenue's indie brand aesthetic, East Austin's raw creative energy, the outdoor culture of Barton Creek Greenbelt. Not stock Texas photography — authentic Austin community imagery. The brand website that earns genuine community trust from Austin's creative-community audience.`,
+  pas: ``,
+  services: `AUSTIN IN-MIGRATION PROFESSIONAL WEBSITE DESIGN:
+For financial advisory, healthcare, and legal businesses serving CA/NY/IL in-migration community. Bay Area-calibre credential display. RSU/equity planning page architecture. Clinical credential depth at in-migration professional quality standard. FINRA-compliant for financial. HIPAA-compliant for healthcare. Texas State Bar-compliant for legal.
+
+AUSTIN TESLA/APPLE TECH CORRIDOR ENTERPRISE WEBSITE:
+For North Austin and Del Valle vendors in Tesla/Apple ecosystem. IATF 16949 automotive quality display. Consumer electronics precision pages. Engineering evidence depth. Sub-1.5s LCP. WCAG 2.1 AA.
+
+AUSTIN AUTHENTIC CONSUMER BRAND WEBSITE:
+For South Congress, East Austin, and Rainey Street consumer brands. Genuine Austin visual language. Shopify/WooCommerce at authentic Austin aesthetic. South Congress/East Austin cultural accuracy. Creator community photography direction.`,
   caseStudies: `Case Study 1: South Congress Financial Advisory — Bay Area In-Migration Professional Redesign
 Client: Fee-only RIA, South Congress (\$280M AUM). Challenge: Website below Bay Area in-migration professional quality standard. RSU/CA-to-TX planning pages absent. FINRA violations present.
 Programme: Bay Area professional quality redesign + RSU/equity planning page architecture + FINRA compliance + CA-to-TX in-migration credential display + CWV (4.8s to 1.6s)

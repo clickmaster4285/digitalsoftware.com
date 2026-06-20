@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Seattle
 // URL: /digital-marketing-agency-seattle/
-// Generated: 2026-06-20T04:42:11.596Z
+// Generated: 2026-06-20T05:43:08.983Z
 
 export const DigitalMarketing_Seattle = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Seattle",
   citySlug: "seattle",
-  slug: "/digital-marketing-agency-seattle/",
+  slug: "/digital-marketing-agency-in-seattle/",
   
   h1: `Digital Marketing Agency Seattle — Amazon-Standard Revenue Attribution for the Pacific Northwest's Technology Capital`,
   primaryKw: `digital marketing agency seattle`,
@@ -28,6 +28,20 @@ MHMD AS BASELINE HEALTHCARE COMPLIANCE: Washington's My Health MY Data Act has e
 
 PACIFIC NORTHWEST AUTHENTIC-VALUES DIGITAL: Seattle's consumer and B2B community applies an above-average authenticity standard to all digital marketing channels. Content, advertising, and social media that communicates specific evidence, genuine Pacific Northwest values, and the sustainability claims that Seattle's environmentally sophisticated community can verify earns engagement. Generic aspirational brand marketing earns scepticism.`,
   features: ``,
+  pas: ``,
+  services: `SEO SEATTLE: Amazon-standard organic attribution. AWS/Azure ecosystem technical content. MHMD-compliant healthcare. Pacific NW authentic sustainability. /seo-services-seattle/
+
+GOOGLE ADS SEATTLE: MHMD-compliant healthcare PPC. AWS ecosystem procurement targeting. Pacific NW consumer campaigns with CCPA-adjacent consent. Amazon-standard CRM pipeline attribution.
+
+CONTENT MARKETING SEATTLE: AWS/Azure engineering-community technical authority. MHMD-compliant healthcare content. Pacific NW authentic sustainability content. Amazon-standard pipeline attribution. /content-marketing-seattle/
+
+LINKEDIN SEATTLE: Amazon ecosystem executive thought leadership. Sales Navigator enterprise pipeline development. MHMD-aware healthcare LinkedIn. Amazon-standard attribution. /social-media-marketing-seattle/
+
+EMAIL SEATTLE: Amazon-standard enterprise nurture. MHMD-compliant patient retention. Pacific NW authentic consumer brand. HubSpot CRM integration.
+
+LOCAL SEO SEATTLE: Amazon data-standard review management. MHMD-compliant healthcare GBP. Pacific NW authentic local content. /local-seo-services-seattle/
+
+WEB DESIGN SEATTLE: Amazon-standard performance (sub-1.5s LCP). MHMD + HIPAA compliance. Pacific NW authentic design. /web-design-agency-seattle/`,
   caseStudies: `Case Study 1: South Lake Union AWS Partner — Amazon-Standard Full Attribution Programme
 Client: AWS data infrastructure SaaS, South Lake Union (\$16M ARR). Challenge: \$772,800 annual digital investment. Zero CRM attribution. CFO requesting commercial justification.
 Programme: All-channel Amazon-standard attribution rebuild (SEO + Google Ads + LinkedIn + content) + Salesforce integration + quarterly pipeline reporting

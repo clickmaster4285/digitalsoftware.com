@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Seattle
 // URL: /web-design-agency-seattle/
-// Generated: 2026-06-20T04:42:14.954Z
+// Generated: 2026-06-20T05:43:16.054Z
 
 export const WebDesign_Seattle = {
   service: "WebDesign",
@@ -37,6 +37,15 @@ Washington MHMD Act-native healthcare website design: consent management for con
 
 Pacific Northwest Authentic Design:
 Minimal, clean design communicating specific values. B Corp certification display with audit reference numbers. Sustainability evidence with specific data (carbon reduction figures, third-party audit results). Outdoor and Pacific Northwest community imagery featuring genuine Washington landscapes and community participation. The design language that earns genuine trust from Seattle's values-conscious professional community.`,
+  pas: ``,
+  services: `SEATTLE B2B TECHNOLOGY WEBSITE DESIGN:
+For South Lake Union, Bellevue Eastside, and Seattle technology companies. Amazon-standard performance engineering. Enterprise buyer credibility architecture (AWS Partner Network logo, SOC 2/ISO 27001 display, Microsoft for Startups membership). Technical product pages at the depth that Amazon and Microsoft's engineering-culture buyers evaluate. CCPA-aware data handling for California visitors.
+
+SEATTLE HEALTHCARE WEBSITE DESIGN (MHMD + HIPAA):
+For Seattle healthcare practices and health technology companies. MHMD and HIPAA dual-compliance architecture. Consumer health data consent management. MHMD-compliant appointment booking. Washington State AG awareness throughout data handling. The healthcare website that protects Seattle practices from MHMD enforcement while enabling digital patient acquisition.
+
+SEATTLE CONSUMER AND OUTDOOR BRAND WEBSITE DESIGN:
+For Seattle's outdoor gear brands, sustainable consumer companies, and Pacific Northwest lifestyle businesses. Authentic Pacific Northwest design. B Corp certification display. Sustainability evidence (not greenwashing). Shopify and WooCommerce at the editorial quality that Seattle's design-literate consumer audience evaluates.`,
   caseStudies: `Case Study 1: South Lake Union AWS Partner — Amazon-Standard Performance Redesign
 Client: AWS data infrastructure SaaS, South Lake Union (\$16M ARR). Challenge: Website loading 4.1s. Amazon-trained VP of Engineering cited performance as vendor credibility concern during evaluation.
 Programme: Amazon-standard performance engineering (Webflow + CDN) + AWS Partner Network architecture + SOC 2 display + enterprise buyer credibility

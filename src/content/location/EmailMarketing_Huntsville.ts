@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Huntsville
 // URL: /email-marketing-huntsville/
-// Generated: 2026-06-20T04:42:11.897Z
+// Generated: 2026-06-20T05:43:09.313Z
 
 export const EmailMarketing_Huntsville = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ NASA MARSHALL ITAR-REVIEWED AEROSPACE PIPELINE EMAIL: NASA Marshall and Cummings
 REDSTONE ARSENAL MILITARY 5-STAGE ALABAMA ONBOARDING: Redstone Arsenal employs 40,000+ military and civilian personnel — creating one of the Southeast's largest military professional email onboarding opportunities. Stage 1 Redstone/Huntsville welcome → Stage 2 Alabama financial planning guide → Stage 3 Huntsville healthcare navigation → Stage 4 Rocket City neighbourhood professional guide → Stage 5 NASA Marshall/Cummings Research Park and UAH professional community connection.
 
 HUNTSVILLE HOSPITAL HIPAA HEALTH SYSTEM NURTURE: Huntsville Hospital procurement cycles run 90-180 days. HIPAA-compliant email nurture with Huntsville Hospital system vocabulary and UAH academic medical content.`,
-  features: `FEATURES:
-
-NASA Marshall/Cummings ITAR-Reviewed Aerospace Pipeline HubSpot:
+  features: `NASA Marshall/Cummings ITAR-Reviewed Aerospace Pipeline HubSpot:
 For Huntsville aerospace technology vendors. ITAR vocabulary review every email before sending. SLS publicly available programme updates. Artemis mission support publicly available intelligence. HubSpot NASA Marshall/Boeing/Lockheed/L3Harris named sequences. 90-270 day aerospace procurement triggers. ITAR review documentation retained.
 
 Redstone Arsenal Military 5-Stage Alabama Onboarding:
@@ -37,6 +35,8 @@ For Huntsville professional services. Stage 1: Redstone Arsenal/Huntsville welco
 
 Huntsville Hospital HIPAA Health System Nurture:
 For Huntsville health technology vendors. Huntsville Hospital system programme content. UAH academic medicine vocabulary. HIPAA-compliant email data handling. 90-180 day Alabama health system procurement triggers.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Huntsville Aerospace — NASA Marshall ITAR-Reviewed Pipeline
 Client: Aerospace systems engineering, Huntsville (\$6.4M ARR). Challenge: ITAR-controlled vocabulary in existing email. NASA Marshall/Cummings contacts cold.
 Programme: ITAR review all existing email + SLS/Artemis publicly releasable content + ITAR-reviewed HubSpot sequences

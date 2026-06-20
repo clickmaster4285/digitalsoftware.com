@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Birmingham
 // URL: /local-seo-services-birmingham/
-// Generated: 2026-06-20T04:42:12.985Z
+// Generated: 2026-06-20T05:43:11.693Z
 
 export const LocalSEO_Birmingham = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ UAB WORLD-CLASS NCI YMYL GBP: UAB Comprehensive Cancer Center — one of only 57
 
 MOUNTAIN BROOK/VESTAVIA HILLS/HOMEWOOD PROFESSIONAL QUALITY: Mountain Brook's elite residential community (one of the wealthiest ZIP codes in Alabama), Vestavia Hills' high-income suburban professional corridor, and Homewood's established arts and professional community represent the highest-income professional residential markets in Greater Birmingham.`,
   features: ``,
+  pas: `PROBLEM: The Mountain Brook financial advisory with a Regions Financial VP and Blue Cross Alabama executive client base — 20 reviews, generic 'Birmingham wealth management' GBP, no CFA verification, no Regions/Blue Cross vocabulary. The Regions Financial VP Commercial Banking who joined from Wells Fargo searches 'fee-only financial adviser Mountain Brook CFA Regions Birmingham.' GBP: 20 reviews, no CFA verification. He selects the firm with 108 reviews, CFA, 'financial planning for Regions Financial, Blue Cross Alabama, and Encompass Health professionals in Mountain Brook.'
+
+SOLUTION: Clickmasters Birmingham Local SEO provides the Regions proximity, UAB world-class NCI YMYL, and Mountain Brook/Vestavia Hills professional quality GBP programme.`,
+  services: `BIRMINGHAM REGIONS FINANCIAL PROXIMITY B2B GBP:
+FINRA-compliant banking vocabulary in GBP. Downtown Birmingham Regions proximity signals. Protective Life/Blue Cross Alabama community vocabulary. Banking institutional photography.
+
+BIRMINGHAM UAB WORLD-CLASS NCI YMYL GBP:
+UAB NCI Comprehensive Cancer Center affiliation. Encompass Health rehabilitation vocabulary. Blue Cross Alabama health insurance vocabulary. HIPAA-compliant review management.
+
+BIRMINGHAM MOUNTAIN BROOK/VESTAVIA HILLS/HOMEWOOD PROFESSIONAL QUALITY GBP:
+CFA/CFP with CFA Institute/CFP Board verification. Regions/Blue Cross/Encompass executive vocabulary. Alabama institutional photography. FINRA-aware.`,
   caseStudies: `Case Study 1: Mountain Brook Financial Advisory — Regions/Blue Cross Professional Quality GBP
 Client: Fee-only RIA, Mountain Brook (\$180M AUM). Challenge: GBP below Regions/Blue Cross professional standard.
 Programme: CFA Institute verification + Regions/Blue Cross/Encompass vocabulary + FINRA-aware + Mountain Brook professional photography

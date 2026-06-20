@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Birmingham
 // URL: /digital-marketing-agency-birmingham/
-// Generated: 2026-06-20T04:42:11.098Z
+// Generated: 2026-06-20T05:43:08.310Z
 
 export const DigitalMarketing_Birmingham = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Birmingham",
   citySlug: "birmingham",
-  slug: "/digital-marketing-agency-birmingham/",
+  slug: "/digital-marketing-agency-in-birmingham/",
   
   h1: `Digital Marketing Agency Birmingham — Regions Financial Revenue, UAB World-Class YMYL, Blue Cross Alabama Insurance, and Magic City Commercial Growth`,
   primaryKw: `digital marketing agency birmingham`,
@@ -30,6 +30,20 @@ BLUE CROSS AND BLUE SHIELD OF ALABAMA AND ENCOMPASS HEALTH INSURANCE/REHABILITAT
 
 PROTECTIVE LIFE AND VULCAN MATERIALS FINRA AND INDUSTRIAL B2B: Protective Life Corporation (FINRA life insurance and annuity) and Vulcan Materials (the US's largest producer of construction aggregates, Birmingham HQ) create additional FINRA insurance and industrial B2B digital marketing opportunities.`,
   features: ``,
+  pas: ``,
+  services: `SEO BIRMINGHAM: Regions FINRA banking. UAB NCI world-class YMYL. Blue Cross Alabama insurance. Encompass rehabilitation. Protective Life FINRA. Vulcan industrial. /seo-services-birmingham/
+
+GOOGLE ADS BIRMINGHAM: Regions FINRA-compliant. UAB NCI HIPAA. Blue Cross Alabama. Encompass rehabilitation HIPAA. Alabama FINRA patient.
+
+CONTENT MARKETING BIRMINGHAM: Regions commercial banking authority. UAB NCI world-class. Blue Cross Alabama insurance. Encompass rehabilitation.
+
+LINKEDIN BIRMINGHAM: Regions banking community. UAB clinical research. Encompass rehabilitation. Five Points South/Crestline/Cahaba Heights authentic Birmingham.
+
+EMAIL BIRMINGHAM: Regions/Blue Cross/Encompass named pipeline. UAB HIPAA health system. Vulcan industrial nurture.
+
+LOCAL SEO BIRMINGHAM: Regions proximity GBP. UAB/Encompass YMYL. Mountain Brook/Vestavia Hills professional quality.
+
+WEB DESIGN BIRMINGHAM: Regions FINRA institutional. UAB world-class YMYL HIPAA. Encompass rehabilitation quality.`,
   caseStudies: `Case Study 1: Birmingham Financial Technology — Regions Financial Full Programme
 Client: Banking analytics, Birmingham (\$6.4M ARR). Challenge: New Regions CIO without connections — invisible. Zero commercial banking vocabulary.
 Programme: SEO (Regions FINRA vocabulary) + LinkedIn (Regions banking community) + email (Regions named pipeline)

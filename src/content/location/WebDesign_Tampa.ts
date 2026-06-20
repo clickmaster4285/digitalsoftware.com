@@ -2,14 +2,14 @@
 // Service: WebDesign
 // City: Tampa
 // URL: /web-design-agency-tampa/
-// Generated: 2026-06-20T04:42:14.979Z
+// Generated: 2026-06-20T05:43:16.091Z
 
 export const WebDesign_Tampa = {
   service: "WebDesign",
   serviceSlug: "web-design",
   city: "Tampa",
   citySlug: "tampa",
-  slug: "web-design-agency-tampa",
+  slug: "/web-design-agency-tampa/",
   
   h1: `Web Design Agency Tampa — Moffitt/TGH YMYL Academic Medical, MacDill Military Institutional Credibility, and SB 262-Native Design`,
   primaryKw: `web design agency tampa`,
@@ -27,9 +27,7 @@ MOFFITT/TGH YMYL ACADEMIC MEDICAL DESIGN: Moffitt Cancer Center — NCI-designat
 MACDILL AFB MILITARY INSTITUTIONAL CREDIBILITY: MacDill's CENTCOM and SOCOM commands create a military professional community evaluating professional service provider websites with the institutional precision of their professional context. A financial advisory, legal, or professional services website without military community trust signals — TRICARE acceptance display for healthcare, SCRA awareness in financial service descriptions, VA benefits acknowledgment — communicates institutional indifference to Tampa's 45,000+ military professional community.
 
 FLORIDA SB 262-NATIVE ANALYTICS: Florida's SB 262 creates requirements for website analytics data collection from Florida residents. SB 262-non-compliant website analytics create both Florida AG enforcement exposure and inaccurately inflated performance data that leads to poor digital marketing investment decisions.`,
-  features: `FEATURES:
-
-Moffitt/TGH YMYL Academic Medical Architecture:
+  features: `Moffitt/TGH YMYL Academic Medical Architecture:
 For Tampa healthcare practices and health technology companies. Moffitt Cancer Center programme affiliation display where applicable. Tampa General Hospital and USF Health Morsani College of Medicine system affiliations. NCI-designated cancer centre community credential vocabulary in clinical service descriptions. HIPAA-native data architecture with BAA-covered analytics processor. YMYL E-E-A-T optimised clinical content structure. Florida SB 262-native patient data handling.
 
 MacDill AFB Military Institutional Credibility Architecture:
@@ -37,6 +35,8 @@ For South Tampa and Tampa Bay professional services businesses. TRICARE acceptan
 
 Florida SB 262-Native Analytics Architecture:
 For all Tampa Bay businesses. SB 262-compliant consent management for website analytics data collection. Accurate analytics measurement excluding Florida opt-out data. Florida AG pre-audit ready data architecture. CWV sub-1.6s LCP for Tampa's growing digital-first Gulf Coast community.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Tampa Oncology Technology — Moffitt NCI YMYL HIPAA Redesign
 Client: Oncology analytics SaaS, Tampa (\$7.4M ARR). Challenge: Website without Moffitt NCI credential display. Non-HIPAA. Non-SB 262. 5.4s LCP.
 Programme: NCI/Moffitt vocabulary display + TGH/USF Health affiliations + HIPAA-native + SB 262-native + CWV (5.4s to 1.4s)

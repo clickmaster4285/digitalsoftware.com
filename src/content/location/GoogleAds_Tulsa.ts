@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Tulsa
 // URL: /google-ads-management-tulsa/
-// Generated: 2026-06-20T04:42:12.931Z
+// Generated: 2026-06-20T05:43:11.594Z
 
 export const GoogleAds_Tulsa = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ BOK FINANCIAL FINRA BANKING TECHNOLOGY GOOGLE ADS: BOK Financial generates comme
 
 SAINT FRANCIS/OU MEDICINE HIPAA PATIENT ACQUISITION: Saint Francis Health System and OU Medicine (OSU Medical Center) create healthcare patient acquisition PPC requiring HIPAA-compliant server-side conversion tracking.`,
   features: ``,
+  pas: `PROBLEM: The Tulsa midstream analytics company spending \$4,200/month on 'analytics consulting Tulsa' and 'energy technology Oklahoma.' Williams' new VP Digital Operations searches 'Transco pipeline control system vendor Tulsa Williams' and 'midstream natural gas processing analytics partner Oil Capital.' Neither in the campaign. \$50K spend misses Williams and ONEOK's specific midstream vocabulary — the most commercially concentrated midstream energy B2B procurement language in the US outside Houston.
+
+SOLUTION: Clickmasters Tulsa Google Ads delivers Williams/ONEOK midstream vocabulary, BOK Financial FINRA, Saint Francis/OU Medicine HIPAA — at Oklahoma CPCs below Houston and Dallas equivalents.`,
+  services: `TULSA WILLIAMS/ONEOK MIDSTREAM GOOGLE ADS:
+For Tulsa midstream technology vendors. Williams Transco/Northwest Pipeline vocabulary. ONEOK NGL/gathering/processing vocabulary. Midstream energy infrastructure audience.
+
+TULSA BOK FINANCIAL FINRA GOOGLE ADS:
+For Tulsa banking technology vendors. BOK Financial FINRA-compliant vocabulary. Commercial banking technology. Wealth management platform. Oklahoma banking community.
+
+TULSA SAINT FRANCIS/OU MEDICINE HIPAA GOOGLE ADS:
+For Tulsa healthcare. Saint Francis Health vocabulary. OU Medicine OSU vocabulary. HIPAA server-side conversion tracking.`,
   caseStudies: `Case Study 1: Tulsa Midstream Technology — Williams/ONEOK PPC
 Client: Midstream analytics, Tulsa (\$5.4M ARR). Challenge: \$50K spend missing Williams Transco/ONEOK NGL vocabulary.
 Programme: Williams Transco/ONEOK NGL/gathering vocabulary + midstream energy audience

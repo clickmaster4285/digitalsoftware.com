@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: KansasCity
 // URL: /email-marketing-kansas-city/
-// Generated: 2026-06-20T04:42:11.929Z
+// Generated: 2026-06-20T05:43:09.360Z
 
 export const EmailMarketing_KansasCity = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ ORACLE HEALTH/CERNER PROCUREMENT PIPELINE EMAIL: Oracle Health's health technolo
 HALLMARK CARDS SEASONAL PROCUREMENT NURTURE: Hallmark Cards' seasonal business calendar creates specific email marketing commercial opportunities for creative technology and brand analytics vendors. Hallmark procurement cycles accelerate in Q3 (Christmas product strategy), Q1 (Valentine's Day and Easter season review), and mid-year (summer seasonal planning and school back-to-school gifting strategy). Email nurture content calibrated to Hallmark's seasonal product calendar — consumer brand market timing intelligence, greeting card retail category management insights, seasonal gifting trend analysis — earns above-average procurement engagement during Hallmark's active seasonal evaluation windows.
 
 CHILDREN'S MERCY/KU HEALTHCARE PROCUREMENT EMAIL: Children's Mercy Kansas City and the University of Kansas Medical Center create health technology procurement email opportunities requiring HIPAA-compliant email data handling and paediatric/academic medical operational vocabulary.`,
-  features: `FEATURES:
-
-Oracle Health/Cerner FHIR/Millennium Pipeline HubSpot:
+  features: `Oracle Health/Cerner FHIR/Millennium Pipeline HubSpot:
 For North Kansas City health IT vendors. FHIR R4 interoperability intelligence email content. Cerner PowerChart ClinDoc operational updates. Oracle Health Millennium revenue cycle insights. CMS HCAHPS/MIPS operational content. HubSpot Oracle Health/Cerner named account sequences. 90-180 day health IT procurement deal-stage triggers. HIPAA-compliant email data handling.
 
 Hallmark Cards Seasonal Brand Procurement Nurture:
@@ -37,6 +35,8 @@ For Kansas City creative technology and brand analytics vendors. Seasonal email 
 
 Children's Mercy/KU HIPAA Healthcare Procurement Email:
 For Kansas City health technology vendors. Paediatric clinical vocabulary email content: Children's Mercy programme updates, KU Medical Center research community content. HIPAA-compliant email data handling. 90-180 day healthcare enterprise procurement cycle triggers.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: North KC Health IT — Oracle Health/Cerner Millennium Pipeline
 Client: EHR consulting, North KC (\$7.4M). Challenge: Oracle Health contacts cold in 120-day cycles. Generic health IT newsletter below Cerner vocabulary standard.
 Programme: FHIR R4/Millennium/HCAHPS email + Oracle Health named sequences + HIPAA-compliant + 120-day deal triggers

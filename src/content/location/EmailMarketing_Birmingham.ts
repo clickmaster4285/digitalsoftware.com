@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Birmingham
 // URL: /email-marketing-birmingham/
-// Generated: 2026-06-20T04:42:11.751Z
+// Generated: 2026-06-20T05:43:09.143Z
 
 export const EmailMarketing_Birmingham = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ REGIONS FINANCIAL FINRA COMMERCIAL BANKING PIPELINE EMAIL: Regions Financial pro
 UAB/ENCOMPASS HEALTH HIPAA HEALTH SYSTEM NURTURE: UAB Comprehensive Cancer Center and Encompass Health procurement cycles run 90-180 days. HIPAA-compliant email with UAB NCI oncology research intelligence, Encompass rehabilitation outcomes analytics content, and Blue Cross Alabama health insurance operational updates.
 
 MAGIC CITY SEASONAL COMMERCIAL EMAIL: Alabama's college football season (August–December) creates Birmingham's most commercially significant consumer email engagement window — UAB Blazers and Auburn Tiger/Alabama Crimson Tide alumni communities represent three distinct seasonal football audiences. Sloss Furnaces' major events calendar and Vulcan Park's community programming create additional authentic Magic City seasonal social moments.`,
-  features: `FEATURES:
-
-Regions Financial FINRA Commercial Banking Pipeline HubSpot:
+  features: `Regions Financial FINRA Commercial Banking Pipeline HubSpot:
 FINRA-compliant email throughout. Commercial lending analytics intelligence. Treasury management platform updates. HubSpot Regions/Protective Life named sequences. 90-180 day Alabama banking procurement triggers.
 
 UAB/Encompass Health HIPAA Health System Nurture:
@@ -37,6 +35,8 @@ UAB NCI oncology research intelligence. Encompass Health rehabilitation outcomes
 
 Magic City Seasonal Commercial Email:
 Alabama college football season (August–December) — UAB Blazers, Auburn Tigers, Alabama Crimson Tide seasonal engagement windows. Sloss Furnaces Metal Arts festival seasonal. Vulcan Park community programming calendar.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Birmingham Financial Technology — Regions FINRA Banking Pipeline
 Client: Banking analytics, Birmingham (\$6.4M ARR). Challenge: Regions/Protective Life contacts cold. Non-FINRA email.
 Programme: Regions FINRA commercial lending intelligence + FINRA-compliant HubSpot sequences

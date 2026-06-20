@@ -2,7 +2,7 @@
 // Service: SEO
 // City: KansasCity
 // URL: /seo-services-kansas-city/
-// Generated: 2026-06-20T04:42:13.668Z
+// Generated: 2026-06-20T05:43:13.136Z
 
 export const SEO_KansasCity = {
   service: "SEO",
@@ -30,6 +30,17 @@ GARMIN OLATHE TECHNOLOGY ENTERPRISE SEO: Garmin's Olathe, Kansas headquarters cr
 
 CHILDREN'S MERCY/KU MEDICAL YMYL SEO: Children's Mercy Kansas City — a nationally ranked children's hospital — and the University of Kansas Medical Center define the YMYL academic medical content standard in the Greater Kansas City market.`,
   features: ``,
+  pas: `PROBLEM: The North Kansas City health IT consulting company with genuine Oracle Health (Cerner) relationships. Zero Cerner PowerChart/Oracle Health Millennium vocabulary in website or content. Oracle Health just appointed a new VP of Platform Partnerships from Epic. The VP searches 'Cerner PowerChart consulting Kansas City' and 'Oracle Health Millennium integration partner KC.' The company appears for neither search. The most commercially significant health IT B2B vocabulary in the Midwest — Oracle Health/Cerner's Kansas City ecosystem vocabulary — is entirely uncaptured.
+
+SOLUTION: Clickmasters Kansas City SEO delivers Oracle Health Cerner vocabulary authority, Hallmark Cards brand content, Garmin enterprise, Children's Mercy/KU Medical YMYL, and GEO/AEO first-mover architecture.`,
+  services: `KANSAS CITY ORACLE HEALTH/CERNER HEALTH IT SEO:
+For North Kansas City and Greater KC health IT vendors. Cerner PowerChart/Millennium/CommunityWorks vocabulary. Oracle Health FHIR/HL7 interoperability. HCAHPS/CMS quality measure operational vocabulary. HIPAA-compliant YMYL content.
+
+KANSAS CITY HALLMARK/GARMIN ENTERPRISE SEO:
+For KC consumer brand and tech enterprise vendors. Hallmark consumer brand retail analytics vocabulary. Garmin precision navigation/automotive OEM vocabulary. Sprint/T-Mobile Overland Park tech community.
+
+KANSAS CITY CHILDREN'S MERCY/KU MEDICAL YMYL SEO:
+For KC healthcare practices and health technology. Children's Mercy Kansas City paediatric academic vocabulary. University of Kansas Medical Center academic content. KU School of Medicine faculty attribution. HIPAA-compliant YMYL content.`,
   caseStudies: `Case Study 1: North KC Health IT — Oracle Health/Cerner Vocabulary SEO
 Client: EHR consulting, North Kansas City (\$7.4M). Challenge: Zero Cerner PowerChart/Oracle Health vocabulary. New Oracle Health VP not finding.
 Programme: Cerner PowerChart/Millennium vocabulary + FHIR/HL7 interoperability + HCAHPS content + GEO/AEO

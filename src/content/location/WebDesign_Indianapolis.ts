@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Indianapolis
 // URL: /web-design-agency-indianapolis/
-// Generated: 2026-06-20T04:42:14.665Z
+// Generated: 2026-06-20T05:43:15.401Z
 
 export const WebDesign_Indianapolis = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ ELI LILLY PHARMACEUTICAL VENDOR INSTITUTIONAL CREDIBILITY: Eli Lilly and Company
 CUMMINS/SIMON PROPERTY FORTUNE 500 ENTERPRISE QUALITY: Cummins Inc.'s commercial engine and power solutions enterprise and Simon Property Group's global real estate operations create a Fortune 500 vendor evaluation community expecting enterprise-grade website institutional quality: clean commercial power solutions vocabulary, professional commercial photography, and the institutional visual precision that Fortune 500 Indiana headquarters procurement expects.
 
 IU HEALTH YMYL ACADEMIC MEDICAL DESIGN: Indiana University Health, combined with IU School of Medicine's 1,700+ resident physicians, defines the YMYL healthcare credential standard in Indianapolis. Healthcare practices need IU Health system affiliation display, IU School of Medicine faculty attribution, and HIPAA-native data architecture.`,
-  features: `FEATURES:
-
-Eli Lilly Pharmaceutical Vendor Credibility Architecture:
+  features: `Eli Lilly Pharmaceutical Vendor Credibility Architecture:
 For Indianapolis pharmaceutical consulting and services companies. GMP compliance framework descriptions at FDA 21 CFR Part 211 precision. CMC regulatory methodology service description pages. API manufacturing validation experience display. Phase I-III clinical operations service pages. IND/NDA submission process methodology. Pharmaceutical institutional visual quality at Lilly procurement evaluation standard. HIPAA-native data architecture.
 
 Cummins/Simon Property Fortune 500 Enterprise Quality Architecture:
@@ -37,6 +35,8 @@ For Indianapolis enterprise technology and professional services companies. Cumm
 
 IU Health YMYL Academic Medical Architecture:
 For Indianapolis healthcare practices and health technology. IU Health system affiliation display. Indiana University School of Medicine faculty attribution. Eskenazi Health/Community Health Network academic affiliations. HIPAA-native data architecture. YMYL E-E-A-T optimised clinical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Indianapolis Pharma Consulting — Eli Lilly GMP Vendor Credibility Redesign
 Client: GMP manufacturing consulting, Indianapolis (\$6.8M). Challenge: Website without pharmaceutical institutional credibility. Lilly procurement dismissal during digital due diligence.
 Programme: FDA 21 CFR Part 211 GMP methodology pages + CMC/API service pages + pharma institutional visual + CWV (5.2s to 1.4s)

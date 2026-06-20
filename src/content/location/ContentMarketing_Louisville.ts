@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Louisville
 // URL: /content-marketing-louisville/
-// Generated: 2026-06-20T04:42:10.789Z
+// Generated: 2026-06-20T05:43:06.527Z
 
 export const ContentMarketing_Louisville = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ HUMANA MEDICARE ADVANTAGE STARS CONTENT AUTHORITY: Louisville's most commerciall
 GE APPLIANCES SMART MANUFACTURING CONTENT: GE Appliances' Louisville campus creates manufacturing technology content marketing opportunities for vendors demonstrating smart manufacturing vocabulary: industrial IoT analytics methodology, connected appliance manufacturing operational intelligence, Louisville production optimisation content, and the smart manufacturing content that GE Appliances' engineering procurement evaluates.
 
 DERBY CITY SEASONAL BRAND VOICE: Louisville's Kentucky Derby (first Saturday in May) and year-round bourbon trail create a seasonally distinctive brand content marketing calendar. Consumer brands, hospitality technology vendors, and Louisville-rooted businesses whose content authentically engages Derby City seasonal vocabulary earn above-average organic engagement during Louisville's most commercially visible annual season.`,
-  features: `FEATURES:
-
-Humana Medicare Advantage Stars Content Authority Programme:
+  features: `Humana Medicare Advantage Stars Content Authority Programme:
 For Louisville health insurance technology vendors. Medicare Advantage Stars quality programme operational methodology articles. Value-based care measurement analytics content. HEDIS quality measure integration operational intelligence. America's Health Insurance Plans (AHIP) community editorial programme. GEO/AEO for Louisville Humana Medicare Advantage AI search queries.
 
 GE Appliances Smart Manufacturing Content:
@@ -37,6 +35,8 @@ For Louisville manufacturing technology vendors. Industrial IoT analytics method
 
 Derby City Seasonal Brand Voice Content:
 For Louisville consumer brands and hospitality technology. Kentucky Derby season content calendar — thoroughbred racing analytics, Churchill Downs operational hospitality, mint julep heritage vocabulary. Bourbon trail seasonal content — Kentucky distillery culture, Brown-Forman brand legacy, bourbon tourism operational specifics. Year-round Derby City authentic content library.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Louisville Health Insurance Technology — Humana Medicare Advantage Stars Content
 Client: Health insurance analytics, Louisville (\$5.4M ARR). Challenge: Generic health IT content. Humana Medicare Advantage community not finding.
 Programme: Humana Medicare Advantage/Stars/value-based care content + AHIP editorial community + GEO/AEO

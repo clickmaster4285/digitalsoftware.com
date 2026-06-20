@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Dallas
 // URL: /digital-marketing-agency-dallas/
-// Generated: 2026-06-20T04:42:11.215Z
+// Generated: 2026-06-20T05:43:08.534Z
 
 export const DigitalMarketing_Dallas = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Dallas",
   citySlug: "dallas",
-  slug: "/digital-marketing-agency-dallas/",
+  slug: "/digital-marketing-agency-in-dallas/",
   
   h1: `Digital Marketing Agency Dallas — Fortune 500 Revenue Growth for Texas' Corporate Commercial Capital`,
   primaryKw: `digital marketing agency dallas`,
@@ -26,6 +26,20 @@ DFW'S COMMERCIAL TRANSFORMATION: In the pre-2018 DFW commercial market, digital 
 
 FORTUNE 500 COMMERCIAL STANDARDS: Dallas businesses that compete for AT&T, Toyota, Schwab, and CBRE procurement need digital marketing calibrated to the commercial expectations of these Fortune 500 companies' relocated professional communities. LinkedIn thought leadership that earns engagement from AT&T's operational leadership. Google Ads that reach Toyota's supply chain procurement searches with the institutional credibility that earns click-through from a Fortune 500 audience. SEO content that appears when Charles Schwab's operations director Googles vendor candidates for a new category she's procuring for the first time.`,
   features: ``,
+  pas: ``,
+  services: `SEO DALLAS: Fortune 500 DFW procurement vocabulary authority. Telecom Corridor technology B2B. FINRA-compliant financial services. /seo-services-dallas/
+
+GOOGLE ADS DALLAS: Fortune 500 procurement targeting with CRM attribution. Telecom Corridor enterprise PPC. FINRA-compliant financial. HIPAA healthcare.
+
+CONTENT MARKETING DALLAS: AT&T/Toyota/Schwab-calibrated thought leadership. Texas commercial directness standard. LinkedIn-SEO dual channel. /content-marketing-dallas/
+
+LINKEDIN DALLAS: Executive thought leadership for Fortune 500 DFW corporate community. AT&T/Toyota/Schwab professional LinkedIn targeting. FINRA-aware investment content. /social-media-marketing-dallas/
+
+EMAIL DALLAS: Fortune 500 pipeline nurture (6-stage). Texas commercial directness email. FINRA-compliant investment email. /email-marketing-dallas/
+
+LOCAL SEO DALLAS: Top 3 Local Pack Uptown, Plano, Frisco, and DFW. /local-seo-services-dallas/
+
+WEB DESIGN DALLAS: Fortune 500 vendor credibility architecture. Telecom Corridor B2B design. /web-design-agency-dallas/`,
   caseStudies: `Case Study 1: Uptown Dallas Financial Services Consulting — Schwab Ecosystem Programme
 Client: Management consulting, Uptown (\$12M). Challenge: Zero Schwab/Westlake community presence. Fortune 500 financial operations procurement finding national firms.
 Programme: SEO (Schwab/financial operations vocabulary) + Google Ads (Fortune 500 financial) + LinkedIn (Schwab community targeting) + email (Fortune 500 nurture)

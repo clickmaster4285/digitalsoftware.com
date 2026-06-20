@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Atlanta
 // URL: /digital-marketing-agency-atlanta/
-// Generated: 2026-06-20T04:42:11.040Z
+// Generated: 2026-06-20T05:43:08.217Z
 
 export const DigitalMarketing_Atlanta = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Atlanta",
   citySlug: "atlanta",
-  slug: "/digital-marketing-agency-atlanta/",
+  slug: "/digital-marketing-agency-in-atlanta/",
   
   h1: `Digital Marketing Agency Atlanta — Fortune 500 Vendor Revenue Growth for Georgia's Southeast Commercial Capital`,
   primaryKw: `digital marketing agency atlanta`,
@@ -26,6 +26,20 @@ FORTUNE 500 ATLANTA COMMERCIAL CULTURE: Atlanta's Fortune 500 community evaluate
 
 TRANSACTION ALLEY DIGITAL MARKETING: Atlanta's payment technology ecosystem — NCR Voyix, Global Payments, Fiserv, and \$8T in annual transaction processing — creates a specific B2B digital marketing opportunity for enterprise fintech vendors, consulting companies, and technology services businesses whose buyer community uses PCI-DSS compliance vocabulary, interchange optimisation terminology, and payment processing technical precision as procurement evaluation criteria. Digital marketing deploying generic 'fintech solutions' language earns zero Transaction Alley procurement attention.`,
   features: ``,
+  pas: ``,
+  services: `SEO ATLANTA: Fortune 500 Delta/Coca-Cola/Home Depot vocabulary. Transaction Alley PCI-DSS authority. FINRA financial. HIPAA healthcare. /seo-services-atlanta/
+
+GOOGLE ADS ATLANTA: Fortune 500 enterprise procurement PPC. Transaction Alley fintech vocabulary. FINRA-compliant financial advertising. HIPAA patient acquisition.
+
+CONTENT MARKETING ATLANTA: Delta IDG/Coca-Cola Freestyle/Home Depot PRO operational authority. Transaction Alley PCI-DSS technical content. FINRA-compliant financial. Atlanta Business Chronicle editorial. /content-marketing-atlanta/
+
+LINKEDIN ATLANTA: Fortune 500 Atlanta executive thought leadership. Transaction Alley fintech professional LinkedIn. FINRA Buckhead financial.
+
+EMAIL ATLANTA: Fortune 500 pipeline nurture HubSpot (90-180 day cycles). Transaction Alley vendor nurture. HIPAA healthcare retention email. /email-marketing-atlanta/
+
+LOCAL SEO ATLANTA: Fortune 500 proximity Buckhead/Midtown GBP. Sandy Springs Transaction Alley B2B. FINRA/HIPAA review management. /local-seo-services-atlanta/
+
+WEB DESIGN ATLANTA: Fortune 500 vendor institutional credibility. Transaction Alley payment tech. HIPAA healthcare. /web-design-agency-atlanta/`,
   caseStudies: `Case Study 1: Midtown Technology Company — Fortune 500 Atlanta Full Digital Programme
 Client: Marketing technology SaaS, Midtown (\$9M ARR). Challenge: 3 new Fortune 500 C-suite executives arriving without connections — company invisible across all digital channels.
 Programme: SEO (Delta/Coca-Cola/Home Depot vocabulary) + Google Ads (Fortune 500 operational vocabulary) + LinkedIn (CDO/CPO thought leadership) + email (90-180 day Fortune 500 nurture)

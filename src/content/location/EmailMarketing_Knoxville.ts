@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Knoxville
 // URL: /email-marketing-knoxville/
-// Generated: 2026-06-20T04:42:11.940Z
+// Generated: 2026-06-20T05:43:09.376Z
 
 export const EmailMarketing_Knoxville = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ TVA/ORNL ITAR-REVIEWED UTILITY PIPELINE EMAIL: TVA procurement cycles run 90-180
 PILOT FLYING J FLEET NURTURE: Pilot Flying J procurement cycles run 90-180 days. Email: travel centre operations updates, fleet fuel management analytics, trucking operational intelligence.
 
 TENNESSEE VALLEY SEASONAL COMMERCIAL EMAIL: Tennessee Volunteers football season (September–January) creates Knoxville's highest annual consumer brand email engagement. Great Smoky Mountains peak tourism seasons (spring/fall colour) create hospitality email windows. Market Square events calendar creates year-round community email engagement.`,
-  features: `FEATURES:
-
-TVA/ORNL ITAR-Reviewed Utility Pipeline HubSpot:
+  features: `TVA/ORNL ITAR-Reviewed Utility Pipeline HubSpot:
 ITAR vocabulary review every email. TVA nuclear/grid/renewable intelligence. HubSpot TVA/ORNL/Pilot Flying J named sequences. 90-180 day utility procurement triggers. Tennessee TIPA-compliant data.
 
 Pilot Flying J Fleet Management Nurture:
@@ -37,6 +35,8 @@ Pilot Flying J travel centre operations updates. Fleet fuel analytics. Trucking 
 
 Tennessee Valley Seasonal Email:
 Tennessee Volunteers Big Orange season — September kickoff to bowl season. Great Smoky Mountains spring/fall colour peak hospitality windows. Market Square events calendar. Tennessee TIPA-compliant throughout.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Knoxville Energy — TVA/ORNL ITAR-Reviewed Pipeline
 Client: Utility analytics, Knoxville (\$5.4M ARR). Challenge: ITAR in existing emails. TVA/ORNL contacts cold.
 Programme: ITAR review + TVA nuclear/grid email + ORNL-reviewed sequences + Tennessee TIPA-compliant

@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: LasVegas
 // URL: /local-seo-services-las-vegas/
-// Generated: 2026-06-20T04:42:13.145Z
+// Generated: 2026-06-20T05:43:12.216Z
 
 export const LocalSEO_LasVegas = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ GAMING PROFESSIONAL COMMUNITY GBP: Las Vegas's gaming enterprise professional co
 
 HENDERSON/SUMMERLIN NEIGHBOURHOOD PRECISION: Las Vegas's Local Pack competitive landscape is neighbourhood-specific — Green Valley Ranch, Summerlin South, Henderson corporate district, and Downtown Las Vegas each require distinct GBP content strategies that communicate genuine neighbourhood community awareness.`,
   features: ``,
+  pas: `PROBLEM: The Henderson financial advisory serving a growing CA in-migration client base — 28 reviews at 4.6 stars, generic 'wealth management for Henderson families' description, no CFA verification link, no CA-to-NV financial planning content. The Sunnyvale product manager who relocated to Summerlin last year searches 'fee-only financial adviser Henderson CFA California relocation.' The GBP: 28 reviews (she had a Palo Alto adviser with 140+), no CFA verification visible, no CA-to-NV content signal. She selects the Henderson firm with 128 reviews, CFP Board verification link in description, and 'Specialising in California-to-Nevada relocation financial planning' in the GBP category description.
+
+SOLUTION: Clickmasters Las Vegas Local SEO provides the CA in-migration quality-standard, gaming-community-credentialled, Henderson/Summerlin neighbourhood-precise GBP programme.`,
+  services: `LAS VEGAS CA IN-MIGRATION PROFESSIONAL GBP:
+For Henderson, Summerlin, and Green Valley financial advisory, healthcare, and professional services. Bay Area-calibre GBP: CFA/CFP with verification links, sub-year professional photography, 100+ review velocity programme, CA-to-NV service content in GBP descriptions. FINRA-aware review management for financial advisory. HIPAA-compliant for healthcare.
+
+LAS VEGAS GAMING PROFESSIONAL COMMUNITY GBP:
+For professional services businesses serving Las Vegas gaming enterprise professionals. Gaming industry community vocabulary in GBP descriptions. Above-average GBP review quality programme. FINRA-aware for gaming financial advisory.
+
+HENDERSON/SUMMERLIN NEIGHBOURHOOD-PRECISE LOCAL SEO:
+For Henderson corporate district, Green Valley Ranch, Summerlin South, and Downtown Las Vegas businesses. Neighbourhood-specific GBP vocabulary. Authentic Nevada community content in GBP Posts.`,
   caseStudies: `Case Study 1: Henderson Financial Advisory — CA In-Migration Bay Area Quality GBP
 Client: Fee-only RIA, Henderson (\$240M AUM). Challenge: GBP below Bay Area professional standard. CA in-migration professionals selecting competitors.
 Programme: CFP Board verification link + CA-to-NV service description + Bay Area-quality review programme + FINRA-aware management

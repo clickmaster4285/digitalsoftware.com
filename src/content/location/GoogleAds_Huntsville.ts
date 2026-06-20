@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Huntsville
 // URL: /google-ads-management-huntsville/
-// Generated: 2026-06-20T04:42:12.366Z
+// Generated: 2026-06-20T05:43:10.717Z
 
 export const GoogleAds_Huntsville = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ REDSTONE ARSENAL ITAR-BOUNDED ARMY DEFENCE COMMUNITY GOOGLE ADS: AMCOM and MDA g
 
 HUNTSVILLE HOSPITAL HIPAA PATIENT ACQUISITION: Huntsville Hospital — the Southeast's largest non-metropolitan health system — creates healthcare patient acquisition PPC requiring HIPAA-compliant server-side conversion tracking.`,
   features: ``,
+  pas: `PROBLEM: The Huntsville aerospace systems engineering company spending \$4,800/month on 'systems engineering Huntsville' and 'aerospace technology Alabama.' NASA Marshall's new Director of Space Technology searches 'SLS propulsion integration technology vendor Huntsville NASA Marshall' and 'Artemis programme systems engineering partner Alabama.' Neither in the campaign. \$57K spend misses NASA Marshall's specific ITAR-bounded publicly releasable vocabulary. ITAR vocabulary review is required for every ad.
+
+SOLUTION: Clickmasters Huntsville Google Ads delivers NASA Marshall ITAR-bounded community, Redstone Arsenal Army defence, Huntsville Hospital HIPAA — at Alabama CPCs below DC Metro equivalents.`,
+  services: `HUNTSVILLE NASA MARSHALL ITAR-BOUNDED COMMUNITY GOOGLE ADS:
+For Huntsville aerospace technology vendors. SLS/Artemis publicly releasable vocabulary. Rocket propulsion research community (public). Cummings Research Park aerospace audience. ITAR vocabulary review all ads.
+
+HUNTSVILLE REDSTONE ARSENAL ARMY DEFENCE GOOGLE ADS:
+For Huntsville defence technology vendors. AMCOM/MDA/SMDC publicly releasable vocabulary. Army programme management community. ITAR vocabulary review all ads.
+
+HUNTSVILLE HOSPITAL HIPAA PATIENT ACQUISITION:
+For Huntsville healthcare. Huntsville Hospital vocabulary. HIPAA server-side conversion tracking. Alabama academic community.`,
   caseStudies: `Case Study 1: Huntsville Aerospace — NASA Marshall ITAR-Bounded Community PPC
 Client: Aerospace systems engineering, Huntsville (\$6.4M ARR). Challenge: \$57K missing NASA Marshall ITAR vocabulary. Non-ITAR-reviewed ads.
 Programme: SLS/Artemis publicly releasable vocabulary + Cummings Research Park audience + ITAR review all ads

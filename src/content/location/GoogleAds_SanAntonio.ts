@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: SanAntonio
 // URL: /google-ads-management-san-antonio/
-// Generated: 2026-06-20T04:42:12.849Z
+// Generated: 2026-06-20T05:43:11.447Z
 
 export const GoogleAds_SanAntonio = {
   service: "GoogleAds",
@@ -28,6 +28,19 @@ BILINGUAL HEALTHCARE PATIENT ACQUISITION: San Antonio's 63% Hispanic/Latino comm
 
 SOUTH TEXAS ENTERPRISE B2B: San Antonio's STMC, USAA, Valero, and CPS Energy create a South Texas enterprise B2B commercial community whose procurement staff searches with institutional vocabulary that most San Antonio Google Ads don't address.`,
   features: ``,
+  pas: `PROBLEM: The Northwest San Antonio fee-only financial advisory firm spending \$6,800/month on Google Ads targeting 'financial adviser San Antonio' and 'retirement planning San Antonio.' Strong performance in the general San Antonio market. But the firm's most commercially valuable audience — the 250,000+ JBSA military community members actively searching for military-specific financial planning — is unreached. 'TSP rollover adviser San Antonio,' 'JBSA financial planning SCRA,' 'VA loan mortgage San Antonio military' — these searches don't appear in the campaign's keyword set because the agency managing the account doesn't understand military financial vocabulary.
+
+AGITATION: San Antonio's JBSA military Google Ads market is underserved — most San Antonio Google Ads agencies lack the military vocabulary precision to build effective JBSA-targeted campaigns. This creates a first-mover window for financial advisory, healthcare, and professional services businesses that invest in JBSA-vocabulary Google Ads before the competitive landscape catches up.
+
+SOLUTION: Clickmasters San Antonio Google Ads delivers JBSA military vocabulary precision, bilingual English/Spanish healthcare campaigns, and South Texas enterprise B2B specificity — at Texas CPCs 20-25% below New York equivalents.`,
+  services: `SAN ANTONIO JBSA MILITARY COMMUNITY GOOGLE ADS:
+For financial advisory, healthcare, legal, and professional services businesses serving the JBSA military community. JBSA-specific vocabulary: TSP rollover, SCRA, VA loan, military retirement pay planning, PCS financial planning. Military community audience signals (JBSA installations: Fort Sam Houston, Lackland AFB, Randolph AFB). FINRA-compliant financial advertising. HIPAA-compliant healthcare.
+
+SAN ANTONIO BILINGUAL HEALTHCARE GOOGLE ADS (HIPAA):
+For San Antonio healthcare, dental, and medical service practices serving the bilingual community. Separate English + Spanish campaigns. Tejano-authentic ad copy vocabulary. Spanish landing pages. HIPAA server-side compliant conversion tracking. Spanish appointment-booking conversion events. Spanish CPLs typically 18-25% below English.
+
+SAN ANTONIO ENTERPRISE B2B GOOGLE ADS:
+For professional services, technology, and consulting companies competing for STMC, USAA, Valero, and CPS Energy procurement. South Texas enterprise vocabulary. Texas commercial directness in ad copy. CRM-attributed pipeline reporting.`,
   caseStudies: `Case Study 1: Northwest San Antonio Financial Advisory — JBSA Military Vocabulary PPC
 Client: Fee-only RIA, Northwest SA (\$220M AUM). Challenge: JBSA military vocabulary absent. 250,000+ JBSA community unreached by current campaigns.
 Programme: TSP/SCRA/VA loan vocabulary + JBSA military audience signals + FINRA-compliant + PCS timing campaigns

@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Richmond
 // URL: /local-seo-services-richmond/
-// Generated: 2026-06-20T04:42:13.392Z
+// Generated: 2026-06-20T05:43:12.570Z
 
 export const LocalSEO_Richmond = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ VCU HEALTH/BON SECOURS YMYL ACADEMIC MEDICAL CREDENTIAL: Virginia Commonwealth U
 
 HENRICO COUNTY/MUSEUM DISTRICT PROFESSIONAL QUALITY: Henrico County's Short Pump and Innsbrook technology professional communities and Richmond's Museum District residential area — adjacent to the Virginia Museum of Fine Arts and home to VCU faculty and Capital One executives — evaluate professional services GBPs with the institutional precision of a growing Mid-Atlantic technology and academic professional community.`,
   features: ``,
+  pas: `PROBLEM: The Short Pump financial advisory with a Capital One ML engineer and Dominion Energy executive client base — 20 reviews, generic 'Short Pump wealth management' GBP, no CFA verification, no Capital One/Dominion community vocabulary, non-VCDPA. The Capital One Principal Machine Learning Engineer who relocated from New York searches 'fee-only financial adviser Short Pump CFA Capital One Virginia.' GBP: 20 reviews (New York adviser had 140+), no CFA Institute verification, no Capital One community signal. He selects the Short Pump firm with 108 reviews, CFA Institute verification, 'financial planning for Capital One, Dominion Energy, and CarMax professionals in Short Pump.'
+
+SOLUTION: Clickmasters Richmond Local SEO provides the Capital One ML proximity, VCU Health/Bon Secours academic medical, and Henrico County/Museum District professional quality GBP programme.`,
+  services: `RICHMOND CAPITAL ONE ML PROXIMITY B2B GBP:
+For Henrico County and Short Pump technology adjacent vendors. Capital One ML/credit decisioning vocabulary in GBP. Short Pump/Innsbrook technology proximity signals. Financial technology professional photography. FINRA-aware VCDPA-native review analytics.
+
+RICHMOND VCU HEALTH/BON SECOURS YMYL ACADEMIC GBP:
+For Richmond healthcare practices. VCU Health System academic affiliation. Bon Secours Virginia programme affiliation. HIPAA-compliant Virginia VCDPA-native review management.
+
+RICHMOND HENRICO COUNTY/MUSEUM DISTRICT PROFESSIONAL QUALITY GBP:
+For Short Pump, Innsbrook, and Museum District professional services. CFA/CFP with CFA Institute/CFP Board verification. Capital One/Dominion Energy/VCU professional community vocabulary. Mid-Atlantic technology and academic photography. FINRA-aware VCDPA-native.`,
   caseStudies: `Case Study 1: Short Pump Financial Advisory — Capital One/Dominion Professional Quality GBP
 Client: Fee-only RIA, Short Pump (\$200M AUM). Challenge: GBP below Capital One ML/Dominion executive professional standard.
 Programme: CFA Institute verification + Capital One/Dominion/VCU community vocabulary + VCDPA-native + FINRA-aware + Short Pump professional photography

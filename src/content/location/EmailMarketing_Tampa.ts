@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Tampa
 // URL: /email-marketing-tampa/
-// Generated: 2026-06-20T04:42:12.162Z
+// Generated: 2026-06-20T05:43:10.362Z
 
 export const EmailMarketing_Tampa = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ MOFFITT/TGH NCI ONCOLOGY PROCUREMENT PIPELINE EMAIL: Moffitt Cancer Center and T
 MACDILL CENTCOM/SOCOM MILITARY 5-STAGE FLORIDA ONBOARDING: MacDill's CENTCOM and SOCOM communities generate above-average professional services email marketing opportunities — military families arriving at MacDill via PCS orders need immediate professional service relationships. A 5-stage MacDill military Florida onboarding sequence specifically addresses the Tampa Bay transition needs of the arriving CENTCOM/SOCOM professional: Stage 1 (within 48 hours): 'Welcome to MacDill — Florida financial picture for your CENTCOM/SOCOM assignment.' Stage 2 (Week 2): TSP management optimisation during overseas/deployed assignment. Stage 3 (Month 2): VA loan and housing benefit utilisation in the Tampa Bay market. Stage 4 (Month 3): SCRA interest rate protection review. Stage 5 (Month 6): Military retirement planning timeline.
 
 FLORIDA IN-MIGRATION PROFESSIONAL ONBOARDING: Tampa Bay's NY/NJ/Midwest in-migration creates professional services email marketing opportunity — Florida no-income-tax financial planning, Florida estate planning vs originating state, and Gulf Coast professional service navigation.`,
-  features: `FEATURES:
-
-Moffitt/TGH NCI Oncology Pipeline HubSpot:
+  features: `Moffitt/TGH NCI Oncology Pipeline HubSpot:
 For Tampa health technology vendors. NCI oncology vocabulary email content tracks: Phase I-III oncology trial operational updates, cancer registry analytics intelligence, HCAHPS/VBP health system content. HubSpot Moffitt/TGH named account sequences. 90-180 day healthcare enterprise procurement cycle deal-stage triggers. HIPAA-compliant email data handling. Florida SB 262-compliant subscriber data.
 
 MacDill CENTCOM/SOCOM Military 5-Stage Florida Onboarding:
@@ -37,6 +35,8 @@ For South Tampa financial advisory, healthcare, legal, and professional services
 
 Florida In-Migration Professional Onboarding:
 For Tampa financial advisory, estate planning, and professional services. NY-to-FL/NJ-to-FL income comparison email series. Florida estate planning vs Northeast comparison. Gulf Coast lifestyle professional service navigation. SB 262-compliant subscriber data.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Tampa Oncology Technology — Moffitt/TGH NCI Pipeline Nurture
 Client: Oncology analytics SaaS, Tampa (\$7.4M ARR). Challenge: Moffitt/TGH contacts cold in 120-day procurement cycles. Generic email below NCI clinical vocabulary standard.
 Programme: NCI oncology email tracks + Moffitt/TGH named sequences + HIPAA-compliant + SB 262-compliant + 120-day procurement triggers

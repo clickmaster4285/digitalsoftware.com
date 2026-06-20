@@ -2,7 +2,7 @@
 // Service: SEO
 // City: NewYork
 // URL: /seo-services-new-york/
-// Generated: 2026-06-20T04:42:13.766Z
+// Generated: 2026-06-20T05:43:13.785Z
 
 export const SEO_NewYork = {
   service: "SEO",
@@ -20,6 +20,8 @@ export const SEO_NewYork = {
   wordCount: 5100,
   geoAeoBlock: ``,
   features: ``,
+  pas: ``,
+  services: ``,
   caseStudies: `**Case Study 1: New York B2B SaaS — 312% Increase in Organic Qualified Leads**
 
 Client: B2B project management SaaS, Manhattan (Series A, \$8M ARR)
@@ -138,7 +140,7 @@ Results (12 months):
   ]
 }`,
   cta: `Get Your Free Audit`,
-  internalLinks: ["→ [Digital Marketing Agency New York](/digital-marketing-agency-new-york/) — full NYC digital marketing hub","→ [SEO Services](/seo-services/) — our core SEO service overview","→ [Google Ads New York](/google-ads-management-new-york/) — NYC paid search complement","→ [Content Marketing Services](/content-marketing-services/) — content for New York SEO authority","→ [Financial Services Digital Marketing](/industries/fintech/) — FINRA/SEC compliant content","→ [B2B Lead Generation Services](/b2b-lead-generation-services/) — organic + LinkedIn for NYC B2B"],
+  internalLinks: ["/→ [Digital Marketing Agency New York](/digital-marketing-agency-new-york/) — full NYC digital marketing hub/","/→ [SEO Services](/seo-services/) — our core SEO service overview/","/→ [Google Ads New York](/google-ads-management-new-york/) — NYC paid search complement/","/→ [Content Marketing Services](/content-marketing-services/) — content for New York SEO authority/","/→ [Financial Services Digital Marketing](/industries/fintech/) — FINRA/SEC compliant content/","/→ [B2B Lead Generation Services](/b2b-lead-generation-services/) — organic + LinkedIn for NYC B2B/"],
   
   publishingChecklist: {
     onPageSeo: {

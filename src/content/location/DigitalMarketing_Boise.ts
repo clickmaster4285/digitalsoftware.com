@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Boise
 // URL: /digital-marketing-agency-boise/
-// Generated: 2026-06-20T04:42:11.115Z
+// Generated: 2026-06-20T05:43:08.326Z
 
 export const DigitalMarketing_Boise = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Boise",
   citySlug: "boise",
-  slug: "/digital-marketing-agency-boise/",
+  slug: "/digital-marketing-agency-in-boise/",
   
   h1: `Digital Marketing Agency Boise — Micron Technology Revenue, Albertsons Retail Analytics, St. Luke's YMYL, and Treasure Valley Commercial Growth`,
   primaryKw: `digital marketing agency boise`,
@@ -30,6 +30,20 @@ ST. LUKE'S HEALTH SYSTEM AND SAINT ALPHONSUS YMYL DIGITAL MARKETING: St. Luke's 
 
 CALIFORNIA IN-MIGRATION IDAHO TAX ADVANTAGE: California's 13.3% top income tax rate vs Idaho's flat 5.8% creates a professional services digital marketing opportunity for Boise financial advisory, legal, and real estate businesses. J.R. Simplot Company's Boise headquarters and HP Inc's presence create additional agribusiness and enterprise technology B2B opportunities.`,
   features: ``,
+  pas: ``,
+  services: `SEO BOISE: Micron DRAM/NAND vocabulary. Albertsons CPG/shopper analytics. St. Luke's/Saint Alphonsus YMYL. CA in-migration Idaho tax. /seo-services-boise/
+
+GOOGLE ADS BOISE: Micron semiconductor. Albertsons retail. St. Luke's HIPAA patient. CA in-migration Idaho tax.
+
+CONTENT MARKETING BOISE: Micron DRAM/NAND semiconductor authority. Albertsons shopper/CPG analytics. St. Luke's YMYL. Idaho CA in-migration.
+
+LINKEDIN BOISE: Micron semiconductor engineering. Albertsons retail analytics. St. Luke's clinical. Hyde Park/North End/BoDo authentic Boise.
+
+EMAIL BOISE: Micron/Albertsons named pipeline. St. Luke's HIPAA. CA in-migration Idaho 5-stage onboarding.
+
+LOCAL SEO BOISE: Micron proximity GBP. St. Luke's/Saint Alphonsus YMYL. North End/Warm Springs professional quality.
+
+WEB DESIGN BOISE: Micron semiconductor institutional. Albertsons retail quality. St. Luke's YMYL HIPAA.`,
   caseStudies: `Case Study 1: Boise Semiconductor Technology — Micron Technology Full Programme
 Client: Semiconductor equipment, Boise (\$5.4M ARR). Challenge: New Micron VP Manufacturing without connections. Zero DRAM/NAND vocabulary.
 Programme: SEO (Micron DRAM/NAND vocabulary) + LinkedIn (Micron semiconductor community) + email (Micron named pipeline)

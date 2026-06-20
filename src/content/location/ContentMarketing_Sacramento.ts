@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Sacramento
 // URL: /content-marketing-sacramento/
-// Generated: 2026-06-20T04:42:10.923Z
+// Generated: 2026-06-20T05:43:07.473Z
 
 export const ContentMarketing_Sacramento = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ CALIFORNIA STATE GOVERNMENT IT METHODOLOGY CONTENT AUTHORITY: Sacramento's most 
 CALPERS/CALSTRS FINRA-COMPLIANT INSTITUTIONAL INVESTMENT CONTENT: CalPERS's \$500+ billion AUM and CalSTRS's \$350+ billion AUM create institutional investment content marketing opportunities for financial technology vendors demonstrating FINRA-compliant alternative investment analytics, ESG integration methodology, and liability-driven investment strategy vocabulary.
 
 UC DAVIS HEALTH NCI YMYL ACADEMIC CLINICAL CONTENT: UC Davis Health — with an NCI-designated Comprehensive Cancer Center, California MIND Institute, and Level 1 Trauma Center — creates YMYL health technology and patient acquisition content marketing opportunities at California's fourth-largest academic medical centre.`,
-  features: `FEATURES:
-
-California State Government IT Methodology Content Authority Programme:
+  features: `California State Government IT Methodology Content Authority Programme:
 For Sacramento government technology vendors. FI\$Cal financial management modernisation methodology articles. California Digital Strategy GovOps service delivery framework application content. CalATERS travel expense system modernisation methodology. CHHS OTSI health and human services technology integration content. California IT procurement process guides for vendor qualification. GovTech editorial community programme. GEO/AEO for Sacramento CA state government IT AI search queries. CCPA-native content analytics.
 
 CalPERS/CalSTRS FINRA-Compliant Institutional Investment Content:
@@ -37,6 +35,8 @@ For Sacramento financial technology companies. FINRA Rule 2210-compliant content
 
 UC Davis Health NCI YMYL Academic Clinical Content:
 For Sacramento healthcare practices and health technology. UC Davis NCI Comprehensive Cancer Center research programme. California MIND Institute neurological research community. UC Davis Medical Center Level 1 Trauma Center operational. Sutter Health Sacramento academic content. HIPAA-compliant CCPA-native clinical case studies.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Sacramento Government Tech — CA State IT Methodology Content Authority
 Client: Government technology consulting, Sacramento (\$7.4M). Challenge: Generic tech content. CDT/CHHS government IT community not finding organically.
 Programme: FI\$Cal/GovOps/CHHS content library + GovTech editorial community + CCPA-native analytics + GEO/AEO

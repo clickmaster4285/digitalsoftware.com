@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: SaltLakeCity
 // URL: /local-seo-services-salt-lake-city/
-// Generated: 2026-06-20T04:42:13.413Z
+// Generated: 2026-06-20T05:43:12.598Z
 
 export const LocalSEO_SaltLakeCity = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ UNIVERSITY OF UTAH/PRIMARY CHILDREN'S ACADEMIC MEDICAL CREDENTIAL: University of
 
 EAST BENCH/DRAPER PROFESSIONAL QUALITY STANDARD: The East Bench residential area above the Salt Lake City avenues and Draper's rapidly growing professional community evaluate professional services GBPs with the institutional precision characteristic of Goldman Sachs employees and Silicon Slopes product leaders relocating from Bay Area and Austin tech communities.`,
   features: ``,
+  pas: `PROBLEM: The Draper financial advisory serving Goldman Sachs SLC employees and Silicon Slopes product leaders — 20 reviews, generic 'Draper wealth management' GBP, no CFA verification, no Goldman/Silicon Slopes vocabulary, non-UCPA. A Goldman Sachs Managing Director who relocated from New York searches 'fee-only financial adviser Draper CFA Goldman Silicon Slopes Utah.' GBP: 20 reviews (New York adviser had 140+), no CFA Institute verification, no Goldman/Silicon Slopes signal. He selects the Draper firm with 108 reviews, CFA Institute verification, 'financial planning for Goldman Sachs, Qualtrics, and Silicon Slopes professionals in Draper.'
+
+SOLUTION: Clickmasters Salt Lake City Local SEO provides the Silicon Slopes proximity, U of U/Primary Children's academic medical, and East Bench/Draper professional quality standard GBP programme.`,
+  services: `SLC SILICON SLOPES PROXIMITY B2B GBP:
+For South Jordan, Draper, and Lehi enterprise technology adjacent vendors. Qualtrics XM/Domo BI/Pluralsight vocabulary in GBP. Silicon Slopes enterprise community proximity signals. Silicon Slopes professional photography. UCPA-native review analytics.
+
+SLC UNIVERSITY OF UTAH/PRIMARY CHILDREN'S YMYL GBP:
+For SLC healthcare practices. University of Utah Health academic affiliation. Primary Children's Hospital Intermountain paediatric programme. HIPAA-compliant UCPA-native review management.
+
+SLC EAST BENCH/DRAPER PROFESSIONAL QUALITY GBP:
+For East Bench and Draper professional services. CFA/CFP with CFA Institute/CFP Board verification. Goldman/Silicon Slopes professional community vocabulary. Draper/East Bench institutional professional photography. FINRA-aware UCPA-native.`,
   caseStudies: `Case Study 1: Draper Financial Advisory — Goldman/Silicon Slopes Professional Quality GBP
 Client: Fee-only RIA, Draper (\$200M AUM). Challenge: GBP below Goldman/Silicon Slopes professional community standard.
 Programme: CFA Institute verification + Goldman/Silicon Slopes community vocabulary + UCPA-native + FINRA-aware + Draper professional photography

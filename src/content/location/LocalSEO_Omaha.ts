@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Omaha
 // URL: /local-seo-services-omaha/
-// Generated: 2026-06-20T04:42:13.293Z
+// Generated: 2026-06-20T05:43:12.434Z
 
 export const LocalSEO_Omaha = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ NEBRASKA MEDICINE/UNMC YMYL ACADEMIC MEDICAL CREDENTIAL: Nebraska Medicine — U
 
 DUNDEE/AKSARBEN/WEST OMAHA PROFESSIONAL QUALITY: Dundee's historic residential arts neighbourhood, Aksarben Village's emerging urban professional community, and West Omaha's suburban professional corridor represent the highest-income professional communities in Greater Omaha.`,
   features: ``,
+  pas: `PROBLEM: The Dundee financial advisory with a Berkshire Hathaway subsidiary executive and Union Pacific VP client base — 20 reviews, generic 'Dundee Omaha wealth management' GBP, no CFA verification, no Berkshire/Union Pacific professional vocabulary, non-NDPA. The Berkshire GEICO subsidiary CFO who relocated from New York searches 'fee-only financial adviser Dundee CFA Berkshire Omaha.' GBP: 20 reviews, no CFA Institute verification, no Berkshire investment community signal. He selects the Dundee firm with 108 reviews, CFA verification, 'financial planning for Berkshire Hathaway, Union Pacific, and Omaha Fortune 500 professionals in Dundee.'
+
+SOLUTION: Clickmasters Omaha Local SEO delivers the Berkshire investment community proximity, Nebraska Medicine YMYL, and Dundee/Aksarben/West Omaha professional quality GBP programme.`,
+  services: `OMAHA BERKSHIRE INVESTMENT COMMUNITY PROXIMITY GBP:
+For downtown Omaha and Dundee investment community adjacent vendors. Berkshire FINRA investment vocabulary in GBP. Kiewit Plaza/Farnam Street proximity signals. Berkshire Annual Meeting seasonal GBP engagement. FINRA-aware NDPA-native review analytics.
+
+OMAHA NEBRASKA MEDICINE/UNMC YMYL GBP:
+For Omaha healthcare practices. Nebraska Medicine NCI Cancer Centre affiliation. UNMC academic vocabulary. Children's Hospital paediatric vocabulary. HIPAA/NDPA-native review management.
+
+OMAHA DUNDEE/AKSARBEN/WEST OMAHA PROFESSIONAL QUALITY GBP:
+For Dundee, Aksarben, and West Omaha professional services. CFA/CFP with CFA Institute/CFP Board verification. Berkshire/Union Pacific/ConAgra executive community vocabulary. Midwestern institutional professional photography. FINRA-aware NDPA-native.`,
   caseStudies: `Case Study 1: Dundee Financial Advisory — Berkshire/Union Pacific Executive Quality GBP
 Client: Fee-only RIA, Dundee (\$200M AUM). Challenge: GBP below Berkshire/Union Pacific executive standard.
 Programme: CFA Institute verification + Berkshire/Union Pacific/ConAgra community vocabulary + NDPA-native + FINRA-aware + Berkshire Annual Meeting seasonal + Dundee professional photography

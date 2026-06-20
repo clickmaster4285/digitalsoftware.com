@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Portland
 // URL: /content-marketing-portland/
-// Generated: 2026-06-20T04:42:10.903Z
+// Generated: 2026-06-20T05:43:07.409Z
 
 export const ContentMarketing_Portland = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ PORTLAND AUTHENTIC-VALUES CONTENT STANDARD: Portland's commercial community — 
 NIKE/ADIDAS ECOSYSTEM CONTENT AUTHORITY: Nike's Beaverton campus and Adidas North America's Portland headquarters define the content authority standard for their vendor community. The bluesign-certified performance fabric supplier, the sustainable athletic material manufacturer, and the athletic brand service company competing for Nike and Adidas procurement need content demonstrating genuine knowledge of the specific sustainability certification vocabulary (bluesign, OEKO-TEX Standard 100, HIGG Facility Environmental Module) and performance material science that Nike and Adidas procurement evaluate. Generic 'sustainable materials' content communicates vendor inadequacy to Portland's most identity-conscious corporate procurement community.
 
 INTEL HILLSBORO SEMICONDUCTOR TECHNICAL CONTENT: The National Semiconductor Leadership Community in Hillsboro creates a B2B content marketing opportunity for the semiconductor service, testing, and equipment vendors whose buyer community searches with SEMI standards vocabulary. Content demonstrating genuine SEMI F47, SEMI C62, and SEMI E10 operational knowledge earns organic authority in Intel ecosystem procurement searches.`,
-  features: `FEATURES:
-
-Portland Authentic-Values Evidence Content:
+  features: `Portland Authentic-Values Evidence Content:
 For Portland's B Corp companies, sustainable consumer brands, and authentic-values businesses. B Corp certification content with specific score, year, and impact area (not just badge display). Carbon reduction content with named third-party verification. HIGG Index score content for apparel and textile businesses. OEKO-TEX Standard 100 certification operational content. The authentic-values content that earns Portland community trust by demonstrating genuine evidence rather than performing sustainability brand values.
 
 Nike/Adidas Ecosystem B2B Content Authority:
@@ -37,6 +35,15 @@ For Beaverton and Portland sustainable material and performance technology vendo
 
 Intel Hillsboro Semiconductor Technical Content:
 For Hillsboro semiconductor services, testing, and equipment vendors. SEMI F47 voltage sag immunity operational content. SEMI C62 ultra-clean chemistry specifications. SEMI E10 equipment reliability, availability, and maintainability content. Cleanroom ISO 14644-1 classification technical content. The semiconductor technical library that earns Intel ecosystem vendor evaluation.`,
+  pas: ``,
+  services: `PORTLAND AUTHENTIC-VALUES CONTENT:
+For B Corp companies and sustainable brands. B Corp score/year/impact content. Carbon reduction with verification. HIGG/OEKO-TEX specific evidence. Authentic Portland community content.
+
+PORTLAND NIKE/ADIDAS ECOSYSTEM CONTENT:
+For Beaverton/Portland Nike/Adidas vendors. bluesign RSL technical content. HIGG FEM score benchmarks. Performance material science vocabulary. Outdoor Retailer/SAC editorial.
+
+PORTLAND INTEL HILLSBORO SEMICONDUCTOR CONTENT:
+For Hillsboro semiconductor vendors. SEMI F47/C62/E10 operational content. ISO 14644-1 cleanroom classification. SEMI community thought leadership.`,
   caseStudies: `Case Study 1: Beaverton Performance Fabric — Nike Ecosystem Content Programme
 Client: Sustainable performance fabric, Beaverton (\$9.4M). Challenge: Nike new VP Googling bluesign/HIGG vocabulary — content absent. Generic sustainable claims not earning procurement credibility.
 Programme: bluesign RSL content + HIGG FEM score benchmarks + performance material science + Outdoor Retailer editorial

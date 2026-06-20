@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Houston
 // URL: /google-ads-management-houston/
-// Generated: 2026-06-20T04:42:12.358Z
+// Generated: 2026-06-20T05:43:10.702Z
 
 export const GoogleAds_Houston = {
   service: "GoogleAds",
@@ -28,6 +28,19 @@ BILINGUAL HEALTHCARE PPC: Houston's 44% Hispanic/Latino population creates a bil
 
 TEXAS MEDICAL CENTER B2B PPC: The world's largest medical complex generates specific B2B procurement searches for health technology vendors, healthcare services companies, and medical equipment suppliers. TMC procurement vocabulary, HIPAA-compliant conversion tracking, and health system procurement audience signals are required to reach TMC's commercially valuable B2B procurement community.`,
   features: ``,
+  pas: `PROBLEM: The Houston offshore inspection services company has spent \$22,000/month on Google Ads for 14 months. The campaigns are generating form fills — but examination of the actual form fills shows that 92% are from individuals and very small operators who can't afford the company's minimum \$800K contract threshold. The Shell and ExxonMobil procurement managers who specifically searched 'API Spec Q1 offshore inspection services Gulf of Mexico' — the exact searches this company should be winning — were reached by the Aberdeen competitor's campaign because the Aberdeen company built API-vocabulary, GOM-specific campaigns that specifically target energy procurement vocabulary.
+
+AGITATION: Houston's Energy Corridor Google Ads market is increasingly competitive as British, Norwegian, and national energy services companies with established digital marketing programmes invest in Houston-specific API vocabulary campaigns that capture the procurement searches Houston's incumbent companies are leaving on the table.
+
+SOLUTION: Clickmasters Houston Google Ads delivers API-vocabulary-targeted, HIPAA-bilingual, CRM-integrated campaigns — and reports in energy-procurement-qualified pipeline value, not form fill CPL.`,
+  services: `HOUSTON ENERGY CORRIDOR B2B GOOGLE ADS:
+For upstream, midstream, and downstream services, technology, and equipment companies serving ExxonMobil, Shell, BP, and the Energy Corridor. API certification procurement vocabulary: API Q1/Q2/Spec 6D/Spec 17D specific searches. HSE procurement vocabulary: TRIR/LTIR/ISNetworld searches. GOM-specific vocabulary: deepwater, subsea, FPSO, umbilical procurement searches. Salesforce/HubSpot offline import attributing energy-qualified evaluations to specific campaigns. ITAR-bounded ad copy review for defence-adjacent energy applications.
+
+HOUSTON BILINGUAL HEALTHCARE GOOGLE ADS (HIPAA):
+For Texas Medical Center-adjacent practices and multi-location health groups serving Houston's bilingual community. Separate English and Spanish campaigns. HIPAA server-side compliant conversion tracking. Appointment-booking conversion events. Spanish-language landing pages at the medical Spanish accuracy that Houston's Mexican-American and Central American community expects. Spanish CPL typically 20-30% below English in Houston's healthcare categories.
+
+HOUSTON TMC B2B HEALTHCARE GOOGLE ADS:
+For health technology vendors, medical equipment suppliers, and healthcare services companies targeting TMC procurement. Health system procurement vocabulary. HIPAA-compliant tracking. TMC institutional procurement audience signals. The B2B healthcare PPC that reaches TMC's commercially valuable supply chain community.`,
   caseStudies: `Case Study 1: Energy Corridor Offshore Inspection — API Vocabulary Rebuild
 Client: Offshore inspection services, Houston Energy Corridor (\$22M). Challenge: \$22K/month in wrong vocabulary reaching hobbyists and small operators. Shell/ExxonMobil procurement not reached.
 Programme: API Q1/Spec 17D vocabulary + GOM-specific keywords + Salesforce offshore import + ISNetworld-vocabulary ad copy

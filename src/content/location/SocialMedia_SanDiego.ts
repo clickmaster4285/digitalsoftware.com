@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: SanDiego
 // URL: /social-media-marketing-san-diego/
-// Generated: 2026-06-20T04:42:14.445Z
+// Generated: 2026-06-20T05:43:14.933Z
 
 export const SocialMedia_SanDiego = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ TORREY PINES PHARMACEUTICAL PROFESSIONAL LINKEDIN: Torrey Pines Mesa's Pfizer, J
 
 AUTHENTIC PACIFIC LIFESTYLE CONSUMER SOCIAL: San Diego's Pacific coastal community evaluates brand Instagram and TikTok through an authenticity lens calibrated to genuine outdoor coastal culture — specific surfing community vocabulary (breaks by name, surf culture authentic language), craft brewery culture (named SD craft brewery community), and the authentic Gaslamp/North Park/Ocean Beach neighbourhood character that distinguishes genuinely local San Diego brands from commercial California lifestyle approximations.`,
   features: ``,
+  pas: ``,
+  services: `SAN DIEGO NAVWAR/NORTHROP DEFENCE LINKEDIN (ITAR-BOUNDED):
+For Kearny Mesa, Point Loma, and San Diego defence technology companies. ITAR-bounded LinkedIn content review before every post: CMMC operational insights, AS9100D quality management specifics, DCAA compliance updates, defence supply chain resilience analysis. NAVWAR, Northrop, Leidos, SAIC, BAE Systems community engagement. Sales Navigator defence procurement pipeline development.
+
+SAN DIEGO TORREY PINES PHARMACEUTICAL LINKEDIN:
+For Torrey Pines Mesa CROs, CDMOs, and biotech service companies. FDA-aware LinkedIn content: Phase I-III methodology posts, CLIA/CAP certification operational content, IRB affiliation display. Illumina/Pfizer/J&J Janssen community engagement. HIPAA-aware clinical case study LinkedIn. Life Science San Diego community participation.
+
+SAN DIEGO PACIFIC LIFESTYLE CONSUMER SOCIAL:
+For North Park, Ocean Beach, La Jolla, and authentic San Diego consumer brands. Specific Pacific surf culture vocabulary. Named San Diego craft brewery community content. Gaslamp/North Park/Ocean Beach authentic neighbourhood vocabulary. Pacific coastal authentic photography at San Diego's natural light standard.`,
   caseStudies: `Case Study 1: Kearny Mesa CMMC Consulting — ITAR-Bounded NAVWAR LinkedIn
 Client: CMMC consulting firm, Kearny Mesa (\$4.8M). Challenge: Generic cybersecurity LinkedIn. NAVWAR programme managers not engaging.
 Programme: ITAR-bounded CMMC/AS9100D/NAVWAR content + Sales Navigator DoD pipeline + LinkedIn NAVWAR community

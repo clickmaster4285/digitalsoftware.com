@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Baltimore
 // URL: /seo-services-baltimore/
-// Generated: 2026-06-20T04:42:13.517Z
+// Generated: 2026-06-20T05:43:12.893Z
 
 export const SEO_Baltimore = {
   service: "SEO",
@@ -28,6 +28,17 @@ T. ROWE PRICE FINRA INVESTMENT MANAGEMENT SEO: T. Rowe Price's Baltimore headqua
 
 UNDER ARMOUR SPORTS BRAND B2B SEO: Under Armour's Baltimore headquarters creates a unique sports performance brand B2B commercial ecosystem. Creative technology vendors, retail analytics companies, and brand consulting businesses whose content demonstrates sports performance brand lifecycle management, sports marketing analytics, and athletic apparel operational vocabulary earn above-average consideration from Under Armour's Brand House team.`,
   features: ``,
+  pas: `PROBLEM: The Baltimore health technology company with genuine Johns Hopkins Medicine relationships. Zero Johns Hopkins/Bloomberg Public Health vocabulary in website or content. Johns Hopkins Medicine's new VP of Digital Health from UCSF searches 'Johns Hopkins Medicine clinical analytics partner Baltimore' and 'Bloomberg School of Public Health epidemiology technology partner Maryland.' Company appears for neither. The most prestigious YMYL academic medical vocabulary in the US — Johns Hopkins' Baltimore HQ ecosystem — goes entirely uncaptured.
+
+SOLUTION: Clickmasters Baltimore SEO delivers Johns Hopkins world-class YMYL authority, T. Rowe Price FINRA-compliant investment management, Under Armour sports brand B2B, ITAR-bounded Fort Meade defence, and GEO/AEO first-mover architecture.`,
+  services: `BALTIMORE JOHNS HOPKINS YMYL ACADEMIC AUTHORITY SEO:
+For Baltimore health IT vendors and healthcare practices. Johns Hopkins Hospital clinical research vocabulary. Bloomberg School MPH/DrPH public health community. Johns Hopkins Armstrong Institute patient safety vocabulary. Johns Hopkins Medicine and MedStar Health academic affiliations. HIPAA-compliant YMYL content.
+
+BALTIMORE T. ROWE PRICE FINRA INVESTMENT MANAGEMENT SEO:
+For Baltimore financial technology vendors. T. Rowe Price investment management vocabulary. FINRA Rule 2210 and SEC Marketing Rule compliance. Legg Mason/Franklin Templeton Baltimore community. FINRA-compliant equity research platform content.
+
+BALTIMORE UNDER ARMOUR/BRAND B2B SEO:
+For Baltimore creative technology and retail analytics vendors. Under Armour sports performance brand vocabulary. Athletic apparel retail analytics. Sports marketing ROI content. Maryland retail brand community.`,
   caseStudies: `Case Study 1: Baltimore Health IT — Johns Hopkins/Bloomberg YMYL SEO Authority
 Client: Clinical analytics, Baltimore (\$7.4M ARR). Challenge: Zero Johns Hopkins/Bloomberg vocabulary. New VP Digital Health not finding.
 Programme: Johns Hopkins Medicine/Armstrong Institute vocabulary + Bloomberg School epidemiology + YMYL E-E-A-T #1 US standard + GEO/AEO

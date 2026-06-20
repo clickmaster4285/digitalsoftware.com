@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Wichita
 // URL: /seo-services-wichita/
-// Generated: 2026-06-20T04:42:13.975Z
+// Generated: 2026-06-20T05:43:14.186Z
 
 export const SEO_Wichita = {
   service: "SEO",
@@ -30,6 +30,17 @@ KOCH INDUSTRIES INDUSTRIAL AND CHEMICAL B2B SEO: Koch Industries' Wichita headqu
 
 VIA CHRISTI HEALTH/ASCENSION AND WESLEY MEDICAL YMYL SEO: Via Christi Health (Ascension) and Wesley Medical Center (HCA Healthcare) define the YMYL healthcare standard for the Wichita metro.`,
   features: ``,
+  pas: `PROBLEM: The Wichita aerospace technology company with genuine Spirit AeroSystems relationships. Zero Spirit 737 fuselage manufacturing/aerostructures ITAR-bounded vocabulary in website. Spirit appointed a new VP of Supplier Quality. He searches 'aerostructures quality control technology vendor Wichita Spirit AeroSystems' and '737 fuselage manufacturing process technology partner Kansas.' Company appears for neither. Spirit AeroSystems — the world's largest independent aerostructures manufacturer — is headquartered in Wichita and generates ITAR-bounded aerospace vocabulary that no Wichita agency addresses.
+
+SOLUTION: Clickmasters Wichita SEO delivers Spirit AeroSystems ITAR-bounded aerostructures authority, Textron Aviation business aviation, Koch Industries industrial, Via Christi/Wesley YMYL, and GEO/AEO first-mover.`,
+  services: `WICHITA SPIRIT AEROSYSTEMS ITAR-BOUNDED AEROSPACE SEO:
+For Wichita aerospace technology and manufacturing vendors. ITAR vocabulary review every piece. Spirit AeroSystems publicly releasable aerostructures vocabulary. 737 fuselage manufacturing (publicly available). Advanced composite manufacturing. Textron Aviation MRO vocabulary.
+
+WICHITA TEXTRON AVIATION/CESSNA/BEECHCRAFT BUSINESS AVIATION SEO:
+For Wichita business aviation technology vendors. Cessna/Beechcraft turboprop/piston/jet vocabulary. Business aviation MRO technology. Avionics integration. Global business aviation community.
+
+WICHITA KOCH INDUSTRIES/VIA CHRISTI YMYL SEO:
+For Wichita industrial/chemical and healthcare vendors. Koch Industries/INVISTA/Georgia-Pacific industrial vocabulary. Via Christi/Ascension/Wesley YMYL. HIPAA-compliant healthcare content.`,
   caseStudies: `Case Study 1: Wichita Aerospace Technology — Spirit AeroSystems ITAR-Bounded SEO
 Client: Aerospace technology, Wichita (\$6.4M ARR). Challenge: Zero Spirit aerostructures ITAR-bounded vocabulary. VP Supplier Quality not finding.
 Programme: ITAR vocabulary review + Spirit publicly releasable aerostructures vocabulary + GEO/AEO

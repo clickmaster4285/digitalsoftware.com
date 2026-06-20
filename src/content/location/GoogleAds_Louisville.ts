@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Louisville
 // URL: /google-ads-management-louisville/
-// Generated: 2026-06-20T04:42:12.589Z
+// Generated: 2026-06-20T05:43:10.915Z
 
 export const GoogleAds_Louisville = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ GE APPLIANCES MANUFACTURING ENTERPRISE GOOGLE ADS: GE Appliances' Louisville cam
 
 UOFL HEALTH/NORTON HIPAA PATIENT ACQUISITION: University of Louisville Health and Norton Healthcare create healthcare patient acquisition PPC markets requiring HIPAA-compliant server-side conversion tracking in Louisville's most comprehensive academic and private healthcare environment.`,
   features: ``,
+  pas: `PROBLEM: The Louisville health insurance analytics company spending \$4,800/month on 'health analytics Louisville' and 'managed care technology Kentucky.' Humana's new VP Value-Based Care Technology searches 'Medicare Advantage analytics vendor Louisville Humana Stars ratings' and 'value-based care measurement technology partner Kentucky.' Neither in the campaign. \$57K spend misses Humana's specific Medicare Advantage vocabulary — the most commercially significant health insurance B2B PPC language in Kentucky.
+
+SOLUTION: Clickmasters Louisville Google Ads delivers Humana Medicare Advantage HIPAA vocabulary, GE Appliances manufacturing enterprise, UofL Health/Norton HIPAA patient acquisition — at Kentucky CPCs below Nashville and Cincinnati equivalents.`,
+  services: `LOUISVILLE HUMANA MEDICARE ADVANTAGE HIPAA GOOGLE ADS:
+For Louisville health insurance technology vendors. Humana Medicare Advantage/Stars ratings vocabulary. HIPAA-compliant ad content. Value-based care measurement. Kentucky managed care audience.
+
+LOUISVILLE GE APPLIANCES MANUFACTURING ENTERPRISE GOOGLE ADS:
+For Louisville manufacturing technology vendors. GE Appliances manufacturing vocabulary. Smart home analytics. Industrial IoT. Louisville manufacturing community.
+
+LOUISVILLE UOFL HEALTH/NORTON HIPAA PATIENT ACQUISITION:
+For Louisville healthcare practices. HIPAA server-side conversion tracking. UofL Health academic vocabulary. Norton Healthcare community. Louisville family healthcare audience.`,
   caseStudies: `Case Study 1: Louisville Health Insurance Technology — Humana Medicare Advantage HIPAA PPC
 Client: Health insurance analytics, Louisville (\$5.4M ARR). Challenge: \$57K spend missing Humana Medicare Advantage vocabulary. Non-HIPAA.
 Programme: Humana Medicare Advantage/Stars/value-based care vocabulary + HIPAA-compliant

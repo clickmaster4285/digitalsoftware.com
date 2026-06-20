@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: SanAntonio
 // URL: /local-seo-services-san-antonio/
-// Generated: 2026-06-20T04:42:13.424Z
+// Generated: 2026-06-20T05:43:12.609Z
 
 export const LocalSEO_SanAntonio = {
   service: "LocalSEO",
@@ -28,6 +28,19 @@ BILINGUAL ENGLISH/SPANISH GBP: San Antonio's 63% Hispanic/Latino majority create
 
 STMC PROFESSIONAL PROXIMITY CREDENTIAL: The South Texas Medical Center's 36,000 employees create a concentrated professional residential community in the Northwest San Antonio and Medical Center corridors whose near-me search behaviour generates above-average local commercial demand for professional services, healthcare, and consumer businesses whose GBP communicates STMC community proximity awareness.`,
   features: ``,
+  pas: `PROBLEM: The Northwest San Antonio family medicine practice with 4 physicians — UT Health San Antonio-affiliated — whose GBP shows 24 reviews at 4.5 stars, an English-only 'comprehensive family care for San Antonio' description, no bilingual content, and no JBSA military acknowledgment in any GBP element. The incoming JBSA family member searching 'family medicine near me' in Spanish sees the GBP description and review responses all in English. She selects the practice with 98 reviews, a Spanish-language GBP description, bilingual review responses, and the specific 'Aceptamos pacientes TRICARE' (we accept TRICARE) statement that communicates direct military community service awareness.
+
+AGITATION: San Antonio's Local Pack competition is rising as national healthcare chains, military-oriented national service companies, and the bilingual-optimised small businesses entering San Antonio's healthcare and professional services market invest in systematic bilingual GBP management.
+
+SOLUTION: Clickmasters San Antonio Local SEO provides the JBSA military trust signal, bilingual Tejano-authentic, STMC-credentialled GBP programme that earns trust from San Antonio's three most commercially significant Local Pack audiences.`,
+  services: `SAN ANTONIO JBSA MILITARY TRUST SIGNAL GBP:
+For financial advisory, healthcare, and professional services businesses serving the JBSA military community. TRICARE acceptance display. SCRA and VA acknowledgment in service descriptions. Military-specific service vocabulary in GBP. PCS-aware Post content (spring/summer timing). Military community trust signal photography. FINRA-aware review management for financial advisory.
+
+SAN ANTONIO BILINGUAL ENGLISH/SPANISH GBP:
+For all San Antonio businesses serving the bilingual community. Native bilingual GBP descriptions — Tejano-authentic South Texas Spanish. Bilingual review responses (English and Spanish). Spanish-language GBP Posts with Tejano cultural calendar content (Fiesta SA, Cinco de Mayo). HIPAA-compliant bilingual review management for healthcare.
+
+SAN ANTONIO STMC PROFESSIONAL PROXIMITY LOCAL SEO:
+For Northwest San Antonio and Medical Center corridor businesses serving STMC's 36,000-employee professional community. UT Health San Antonio and University Health System affiliation display. STMC proximity credential in GBP descriptions. Healthcare professional community vocabulary in Post content.`,
   caseStudies: `Case Study 1: Northwest San Antonio Family Medicine — JBSA Bilingual GBP Rebuild
 Client: Family medicine (4 physicians, UT Health SA-affiliated). Challenge: English-only GBP missing JBSA and bilingual community. 24 reviews.
 Programme: Bilingual GBP + TRICARE acceptance display + UT Health SA affiliation + JBSA military trust signals + HIPAA-compliant bilingual review

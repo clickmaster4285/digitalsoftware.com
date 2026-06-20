@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Raleigh
 // URL: /digital-marketing-agency-raleigh/
-// Generated: 2026-06-20T04:42:11.521Z
+// Generated: 2026-06-20T05:43:08.885Z
 
 export const DigitalMarketing_Raleigh = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Raleigh",
   citySlug: "raleigh",
-  slug: "/digital-marketing-agency-raleigh/",
+  slug: "/digital-marketing-agency-in-raleigh/",
   
   h1: `Digital Marketing Agency Raleigh — Research Triangle Park B2B Revenue, Duke/UNC Healthcare, and Triangle Commercial Growth`,
   primaryKw: `digital marketing agency raleigh`,
@@ -30,6 +30,20 @@ DUKE HEALTH/UNC HEALTH DIGITAL MARKETING: Duke University Hospital's YMYL health
 
 TRIANGLE IN-MIGRATION PROFESSIONAL SERVICES: Raleigh-Durham's population growth from Northeast and Midwest in-migration has created above-average professional services demand. The DC policy professional who relocated to Cary, the New York financial professional who bought in North Raleigh, and the Chicago technology executive who settled in Chapel Hill are all establishing Triangle professional service relationships — and evaluating providers against their prior-city quality standards.`,
   features: ``,
+  pas: ``,
+  services: `SEO RALEIGH: RTP pharma/biotech FDA vocabulary. Cisco/IBM/Lenovo/Red Hat tech vocabulary. Duke/UNC YMYL. Triangle in-migration professional. /seo-services-raleigh/
+
+GOOGLE ADS RALEIGH: RTP pharmaceutical CMC/IND vocabulary PPC. Cisco/IBM enterprise tech. Triangle in-migration professional. HIPAA healthcare.
+
+CONTENT MARKETING RALEIGH: RTP pharma FDA-aware content authority. Cisco/Red Hat tech community. Duke Medicine/UNC YMYL clinical. Triangle in-migration transition content.
+
+LINKEDIN RALEIGH: RTP pharma/biotech professional community LinkedIn. Cisco/IBM/Red Hat tech LinkedIn. Duke/UNC healthcare professional community.
+
+EMAIL RALEIGH: Biogen/GSK named account pipeline HubSpot. RTP tech enterprise nurture. Duke/UNC health system procurement. Triangle in-migration professional onboarding.
+
+LOCAL SEO RALEIGH: RTP proximity GBP. Duke/UNC academic medical GBP. Triangle in-migration quality standard. /local-seo-services-raleigh/
+
+WEB DESIGN RALEIGH: RTP pharma institutional vendor credibility. Duke/UNC YMYL HIPAA. Triangle tech institutional quality.`,
   caseStudies: `Case Study 1: Durham Pharma Consulting — RTP FDA Vocabulary Full Digital Programme
 Client: CMC regulatory consulting, Durham (\$6.8M). Challenge: New Biogen/GSK executives without connections — company invisible. Zero FDA vocabulary in digital.
 Programme: SEO (CMC/IND/NDA vocabulary) + LinkedIn (RTP pharma professional) + email (Biogen/GSK named pipeline) + content (FDA authority)

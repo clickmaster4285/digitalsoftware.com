@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: KansasCity
 // URL: /social-media-marketing-kansas-city/
-// Generated: 2026-06-20T04:42:14.161Z
+// Generated: 2026-06-20T05:43:14.541Z
 
 export const SocialMedia_KansasCity = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ HALLMARK CARDS CONSUMER BRAND CREATIVE COMMUNITY: Hallmark Cards' Crown Center h
 
 AUTHENTIC KC CONSUMER BRAND SOCIAL: Kansas City's 18th & Vine Jazz District (historic jazz heritage), Crossroads Arts District (First Friday arts economy), and River Market (farmers market community) create consumer brand Instagram opportunities for businesses communicating genuine Kansas City neighbourhood identity — the specific community vocabulary that distinguishes authentic KC brands from generic Midwest commercial approximations.`,
   features: ``,
+  pas: ``,
+  services: `KANSAS CITY ORACLE HEALTH/CERNER LINKEDIN:
+For North KC health IT vendors. Cerner PowerChart/Millennium/FHIR clinical vocabulary. Oracle Health community Sales Navigator. HCAHPS/CMS quality measure content. HIPAA-aware clinical social.
+
+KANSAS CITY HALLMARK CONSUMER BRAND LINKEDIN:
+For KC creative technology and brand analytics vendors. Consumer brand lifecycle management vocabulary. Hallmark seasonal retail marketing calendar. DTC-to-retail brand strategy content. Crown Center creative community engagement.
+
+KANSAS CITY AUTHENTIC BRAND SOCIAL:
+For 18th & Vine, Crossroads Arts District, and River Market consumer brands. 18th & Vine jazz heritage vocabulary. Crossroads First Friday arts economy content. River Market community farmers market content. Authentic KC identity vs generic Midwest brand.`,
   caseStudies: `Case Study 1: North KC Health IT — Oracle Health/Cerner Clinical LinkedIn
 Client: EHR consulting, North KC (\$7.4M). Challenge: Generic LinkedIn. Oracle Health clinical community not engaging.
 Programme: PowerChart/FHIR R4/HCAHPS clinical vocabulary + Oracle Health community Sales Navigator

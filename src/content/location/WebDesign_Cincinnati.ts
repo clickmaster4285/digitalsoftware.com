@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Cincinnati
 // URL: /web-design-agency-cincinnati/
-// Generated: 2026-06-20T04:42:14.600Z
+// Generated: 2026-06-20T05:43:15.267Z
 
 export const WebDesign_Cincinnati = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ P&G CONSUMER GOODS VENDOR INSTITUTIONAL CREDIBILITY: Procter & Gamble evaluates 
 KROGER RETAIL SUPPLY CHAIN ENTERPRISE QUALITY: Kroger's Blue Ash headquarters evaluates retail technology vendor websites against the institutional quality standard of the US's largest grocery retailer. Technology vendors competing for Kroger consideration need websites demonstrating genuine grocery retail vocabulary: perishable logistics operational methodology, grocery category management service descriptions, and the Kroger 84.51° consumer data science vocabulary that Blue Ash technology procurement evaluates during vendor digital due diligence.
 
 CINCINNATI CHILDREN'S YMYL ACADEMIC PAEDIATRIC DESIGN: Cincinnati Children's Hospital Medical Center — ranked #2-3 nationally — defines the gold standard for paediatric YMYL website content in the Ohio/Kentucky/Indiana tri-state region. Healthcare practices and paediatric health technology companies need websites with Cincinnati Children's programme affiliation, University of Cincinnati College of Medicine faculty attribution, and HIPAA-native paediatric data architecture.`,
-  features: `FEATURES:
-
-P&G Consumer Goods Vendor Institutional Credibility Architecture:
+  features: `P&G Consumer Goods Vendor Institutional Credibility Architecture:
 For Blue Ash and Greater Cincinnati consumer goods technology and consulting companies. P&G brand building framework methodology in service description pages. Consumer insights analytics operational specifics. FMCG supply chain optimisation service pages. Consumer goods enterprise vendor institutional visual quality. P&G stakeholder Investor Relations-calibre evidence-based claim precision.
 
 Kroger Retail Supply Chain Enterprise Quality Architecture:
@@ -37,6 +35,8 @@ For Cincinnati retail technology and supply chain vendors. Perishable logistics 
 
 Cincinnati Children's YMYL Academic Paediatric Architecture:
 For Cincinnati paediatric healthcare practices and health technology. Cincinnati Children's Hospital Medical Center programme affiliation. University of Cincinnati College of Medicine faculty attribution. TriHealth/Mercy Health system affiliations. HIPAA-native paediatric data architecture. YMYL E-E-A-T optimised clinical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Blue Ash Brand Analytics — P&G Consumer Goods Credibility Redesign
 Client: Consumer analytics, Blue Ash (\$7.4M). Challenge: Website without P&G consumer goods institutional credibility. P&G VP dismissal during digital due diligence.
 Programme: P&G brand building methodology pages + FMCG supply chain pages + consumer goods institutional visual + CWV (5.2s to 1.4s)

@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Jacksonville
 // URL: /web-design-agency-jacksonville/
-// Generated: 2026-06-20T04:42:14.675Z
+// Generated: 2026-06-20T05:43:15.418Z
 
 export const WebDesign_Jacksonville = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ FIS GLOBAL FINRA-COMPLIANT INSTITUTIONAL FINTECH CREDIBILITY: FIS Global's world
 FLORIDA BLUE INSURANCE TECHNOLOGY ENTERPRISE QUALITY: Florida Blue's 10 million+ member managed care operations create insurance technology vendor website requirements including HEDIS quality measure integration service pages, utilisation management technology vocabulary, provider network management system operational specifics, and the managed care enterprise institutional quality that Florida Blue's Jacksonville technology procurement evaluates.
 
 BAPTIST HEALTH/NEMOURS WOLFSON YMYL HIPAA SB 262 HEALTHCARE DESIGN: Baptist Health Jacksonville and Nemours Wolfson Children's nationally ranked paediatric programme create YMYL healthcare website content requirements with HIPAA-native and Florida SB 262-native data architecture for both healthcare practices and health technology vendors.`,
-  features: `FEATURES:
-
-FIS Global FINRA-Compliant Institutional Fintech Credibility Architecture:
+  features: `FIS Global FINRA-Compliant Institutional Fintech Credibility Architecture:
 For Jacksonville fintech and banking technology companies. FIS payment processing platform integration methodology pages. Core banking system consulting service descriptions. Wealth management technology operational specifics. Capital markets infrastructure vocabulary. FINRA Rule 2210-compliant website content from wireframe. SEC Marketing Rule-compliant performance displays. FIS Global institutional fintech visual quality. SB 262-native analytics.
 
 Florida Blue Insurance Technology Enterprise Quality Architecture:
@@ -37,6 +35,8 @@ For Jacksonville insurance technology vendors. HEDIS quality measure integration
 
 Baptist Health/Nemours Wolfson YMYL HIPAA SB 262 Healthcare Architecture:
 For Jacksonville healthcare practices. Baptist Health Jacksonville system affiliation. Nemours Wolfson Children's paediatric programme affiliation. UF Health Jacksonville affiliate vocabulary. HIPAA-native Florida SB 262-native data architecture. YMYL E-E-A-T optimised content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Jacksonville Fintech — FIS Global FINRA Institutional Credibility Redesign
 Client: Banking technology SaaS, Jacksonville (\$6.8M ARR). Challenge: Website without FIS Global institutional credibility. FIS VP dismissal during digital due diligence. Non-FINRA.
 Programme: FIS payment/core banking methodology pages + FINRA/SEC-compliant redesign + institutional fintech visual + SB 262-native + CWV (5.2s to 1.4s)

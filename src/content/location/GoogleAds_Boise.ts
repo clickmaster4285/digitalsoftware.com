@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Boise
 // URL: /google-ads-management-boise/
-// Generated: 2026-06-20T04:42:12.259Z
+// Generated: 2026-06-20T05:43:10.535Z
 
 export const GoogleAds_Boise = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ ALBERTSONS GROCERY RETAIL ANALYTICS GOOGLE ADS: Albertsons generates grocery ret
 
 ST. LUKE'S/SAINT ALPHONSUS HIPAA PATIENT ACQUISITION: St. Luke's Health System and Saint Alphonsus (Trinity Health) create healthcare patient acquisition PPC requiring HIPAA-compliant server-side conversion tracking.`,
   features: ``,
+  pas: `PROBLEM: The Boise semiconductor equipment company spending \$4,200/month on 'semiconductor equipment Boise' and 'technology vendor Idaho.' Micron's new VP Manufacturing searches 'DRAM memory cell analytics vendor Boise Micron Technology' and 'NAND flash fabrication technology Idaho.' Neither in the campaign. \$50K spend misses Micron's specific DRAM/NAND memory manufacturing vocabulary — Idaho's most commercially significant semiconductor B2B procurement language.
+
+SOLUTION: Clickmasters Boise Google Ads delivers Micron DRAM/NAND vocabulary, Albertsons grocery retail, St. Luke's/Saint Alphonsus HIPAA — at Idaho CPCs below Portland and Salt Lake City.`,
+  services: `BOISE MICRON TECHNOLOGY SEMICONDUCTOR GOOGLE ADS:
+For Boise semiconductor equipment and technology vendors. Micron DRAM/NAND/wafer processing vocabulary. Memory technology enterprise audience. Idaho semiconductor community.
+
+BOISE ALBERTSONS GROCERY RETAIL GOOGLE ADS:
+For Boise retail analytics and CPG technology vendors. Albertsons shopper/CPG analytics vocabulary. Grocery retail supply chain. Idaho retail community.
+
+BOISE ST. LUKE'S/SAINT ALPHONSUS HIPAA GOOGLE ADS:
+For Boise healthcare practices. St. Luke's/Saint Alphonsus vocabulary. HIPAA server-side conversion. Idaho family healthcare audience.`,
   caseStudies: `Case Study 1: Boise Semiconductor — Micron Technology DRAM/NAND PPC
 Client: Semiconductor equipment, Boise (\$5.4M ARR). Challenge: \$50K missing Micron DRAM/NAND vocabulary.
 Programme: Micron DRAM/NAND/wafer vocabulary + memory technology audience

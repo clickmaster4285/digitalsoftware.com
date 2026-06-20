@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Pittsburgh
 // URL: /social-media-marketing-pittsburgh/
-// Generated: 2026-06-20T04:42:14.349Z
+// Generated: 2026-06-20T05:43:14.766Z
 
 export const SocialMedia_Pittsburgh = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ CMU AI CORRIDOR APPLIED AI AND AUTONOMOUS VEHICLE ENGINEERING COMMUNITY: Carnegi
 
 AUTHENTIC STEEL CITY CONSUMER BRAND SOCIAL: Pittsburgh's Lawrenceville neighbourhood (the most dramatically gentrified community in the Northeast Rust Belt), South Side Flats' authentic bar and food community, and Squirrel Hill's culturally vibrant neighbourhood create consumer brand Instagram opportunities for businesses communicating genuine Pittsburgh identity.`,
   features: ``,
+  pas: ``,
+  services: `PITTSBURGH UPMC WORLD-CLASS CLINICAL LINKEDIN:
+For Pittsburgh health IT vendors. UPMC Hillman Cancer/Presbyterian/Transplantation clinical vocabulary. UPMC International community engagement. University of Pittsburgh SOM research community. World-class YMYL precision LinkedIn.
+
+PITTSBURGH CMU AI CORRIDOR LINKEDIN:
+For Pittsburgh AI technology and robotics vendors. CMU Machine Learning/Robotics vocabulary. Aurora autonomous vehicle engineering specifics (LiDAR, HD mapping, safety-critical). Google AI/Apple ML/Meta AI Pittsburgh community. PyTorch/transformer model application vocabulary.
+
+PITTSBURGH AUTHENTIC STEEL CITY BRAND SOCIAL:
+For Lawrenceville, South Side, and Squirrel Hill consumer brands. Lawrenceville Butler Street community vocabulary. South Side Flats authentic food/bar community. Squirrel Hill neighbourhood cultural content. Authentic Steel City identity vs generic Pennsylvania brand.`,
   caseStudies: `Case Study 1: Pittsburgh AI Consulting — CMU/Aurora AI Corridor LinkedIn
 Client: AI robotics consulting, Pittsburgh (\$7.4M). Challenge: Generic LinkedIn. Aurora/CMU community not engaging with AI operational content.
 Programme: LiDAR sensor fusion/safety-critical autonomy vocabulary + CMU NREC community + Aurora/Waymo Sales Navigator

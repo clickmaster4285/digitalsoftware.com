@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Nashville
 // URL: /web-design-agency-nashville/
-// Generated: 2026-06-20T04:42:14.760Z
+// Generated: 2026-06-20T05:43:15.591Z
 
 export const WebDesign_Nashville = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ HCA/ENVISION HEALTHCARE CAPITAL INSTITUTIONAL QUALITY: Nashville's \$39B+ health
 AMAZON EAST BANK ANALYTICAL-PRECISION B2B: Amazon's East Bank campus has imported the same commercial quality standard to Nashville's B2B commercial market as Amazon applies to its own product standards — specific evidence, documented capability, verifiable credentials. Technology and professional services websites serving Amazon's East Bank community need to communicate at the analytical precision that Amazon's commercial culture demands.
 
 AUTHENTIC MUSIC CITY BRAND DESIGN: Nashville's creative economy — Germantown's artisanal food community, East Nashville's independent spirit, Music Row's heritage — creates consumer brand website design opportunities for businesses communicating genuine Nashville cultural character rather than generic Tennessee brand aesthetics.`,
-  features: `FEATURES:
-
-Healthcare Capital Institutional Credential Architecture:
+  features: `Healthcare Capital Institutional Credential Architecture:
 For HCA Healthcare-adjacent technology vendors, Envision-ecosystem services companies, and Nashville's private healthcare community. HCAHPS/VBP partnership reference pages. ACO operational vocabulary in service descriptions. Vanderbilt University Medical Center and Tennessee Medical Association affiliation display. HIPAA-native data architecture. The healthcare capital website that earns genuine HCA/Envision procurement consideration.
 
 Amazon East Bank Analytical-Precision B2B Architecture:
@@ -37,6 +35,8 @@ For Nashville technology and professional services companies serving Amazon East
 
 Authentic Music City Brand Design:
 For Germantown artisan food brands, East Nashville independents, and Music Row-adjacent businesses. Genuine Nashville visual language: Germantown's brick industrial aesthetic, East Nashville's creative energy, Music Row's creative heritage. Authentic Nashville photography (not stock Tennessee imagery).`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Nashville Health IT Company — Healthcare Capital Institutional Redesign
 Client: Clinical analytics SaaS, Nashville (\$8.4M ARR). Challenge: Website without HCAHPS/VBP vocabulary. HCA procurement digital due diligence dismissal.
 Programme: HCAHPS/VBP partnership pages + ACO vocabulary + Vanderbilt affiliation display + HIPAA-native + sub-1.6s LCP

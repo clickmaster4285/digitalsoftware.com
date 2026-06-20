@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: StLouis
 // URL: /digital-marketing-agency-st-louis/
-// Generated: 2026-06-20T04:42:11.607Z
+// Generated: 2026-06-20T05:43:08.999Z
 
 export const DigitalMarketing_StLouis = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "StLouis",
   citySlug: "st-louis",
-  slug: "/digital-marketing-agency-st-louis/",
+  slug: "/digital-marketing-agency-in-st-louis/",
   
   h1: `Digital Marketing Agency St. Louis — Boeing Defence Revenue, Edward Jones FINRA Financial, and Gateway City Commercial Growth`,
   primaryKw: `digital marketing agency st louis`,
@@ -30,6 +30,20 @@ CENTENE MANAGED CARE DIGITAL MARKETING: Centene Corporation's Clayton headquarte
 
 BJC/WASHINGTON UNIVERSITY HEALTHCARE DIGITAL MARKETING: BJC HealthCare and Washington University School of Medicine (top-5 US medical school) create academic medical YMYL content authority requirements and patient acquisition digital marketing opportunities for the St. Louis clinical community.`,
   features: ``,
+  pas: ``,
+  services: `SEO ST. LOUIS: Boeing BDS ITAR-bounded vocabulary. Edward Jones FINRA financial. Centene managed care. BJC/WashU YMYL. /seo-services-st-louis/
+
+GOOGLE ADS ST. LOUIS: Boeing BDS aerospace vocabulary PPC. Edward Jones financial platform. Centene HIPAA managed care. BJC/WashU HIPAA healthcare.
+
+CONTENT MARKETING ST. LOUIS: ITAR-bounded Boeing defence authority. FINRA-compliant Edward Jones financial. Centene managed care HEDIS. BJC/WashU YMYL clinical.
+
+LINKEDIN ST. LOUIS: Boeing BDS aerospace engineering LinkedIn. Edward Jones financial advisor community. Centene managed care executive community.
+
+EMAIL ST. LOUIS: Boeing BDS named account pipeline HubSpot. Edward Jones/Centene fintech nurture. BJC/WashU health system procurement. FINRA-compliant.
+
+LOCAL SEO ST. LOUIS: Boeing BDS proximity GBP. BJC/WashU academic medical credential. Clayton professional quality standard.
+
+WEB DESIGN ST. LOUIS: Boeing BDS ITAR-bounded vendor credibility. Edward Jones FINRA institutional. BJC/WashU YMYL HIPAA.`,
   caseStudies: `Case Study 1: Hazelwood Aerospace Tech — Boeing BDS ITAR-Bounded Full Programme
 Client: Aerospace quality services, Hazelwood (\$8.4M). Challenge: New Boeing BDS VP without existing connections — invisible. Zero ITAR-bounded vocabulary.
 Programme: SEO (AS9100D/DCAA ITAR vocabulary) + LinkedIn (Boeing BDS engineering community) + email (Boeing BDS named pipeline) + content (ITAR-bounded authority)

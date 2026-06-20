@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Wichita
 // URL: /web-design-agency-wichita/
-// Generated: 2026-06-20T04:42:15.008Z
+// Generated: 2026-06-20T05:43:16.124Z
 
 export const WebDesign_Wichita = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ SPIRIT AEROSYSTEMS ITAR-BOUNDED AEROSTRUCTURES INSTITUTIONAL CREDIBILITY: Spirit
 TEXTRON AVIATION BUSINESS AVIATION ENTERPRISE QUALITY: Textron Aviation evaluates business aviation technology vendor websites with Cessna and Beechcraft engineering institutional precision: turboprop and jet systems service pages, MRO technology descriptions, avionics integration specifics, and business aviation enterprise quality.
 
 VIA CHRISTI/WESLEY YMYL HIPAA: Via Christi Health (Ascension) and Wesley Medical Center create YMYL healthcare website requirements with HIPAA-native data architecture.`,
-  features: `FEATURES:
-
-Spirit AeroSystems ITAR-Bounded Aerostructures Institutional Architecture:
+  features: `Spirit AeroSystems ITAR-Bounded Aerostructures Institutional Architecture:
 ITAR vocabulary review all pages. 737 fuselage manufacturing publicly available vocabulary. Composite manufacturing from public aerospace content. ITAR documentation at launch. Aerospace manufacturing institutional visual quality.
 
 Textron Aviation Business Aviation Enterprise Architecture:
@@ -37,6 +35,8 @@ Cessna/Beechcraft turboprop/jet systems service pages. MRO technology descriptio
 
 Via Christi/Wesley YMYL HIPAA Architecture:
 Via Christi Ascension programme affiliation. Wesley HCA vocabulary. HIPAA-native data architecture. YMYL E-E-A-T Kansas healthcare content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Wichita Aerospace — Spirit AeroSystems ITAR Institutional Redesign
 Client: Aerospace technology, Wichita (\$6.4M ARR). Challenge: ITAR-controlled vocabulary on existing website. Spirit dismissal.
 Programme: ITAR review + Spirit publicly releasable vocabulary + ITAR documentation + aerospace institutional visual + CWV

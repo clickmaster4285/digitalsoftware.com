@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Richmond
 // URL: /seo-services-richmond/
-// Generated: 2026-06-20T04:42:13.860Z
+// Generated: 2026-06-20T05:43:13.980Z
 
 export const SEO_Richmond = {
   service: "SEO",
@@ -30,6 +30,17 @@ CARMAX AUTOMOTIVE RETAIL ANALYTICS B2B SEO: CarMax's Richmond headquarters — t
 
 VCU HEALTH AND BON SECOURS YMYL SEO: Virginia Commonwealth University Health System — one of Virginia's leading academic medical centres — and Bon Secours Virginia Health System define the YMYL academic healthcare content standard for Central Virginia.`,
   features: ``,
+  pas: `PROBLEM: The Henrico County data analytics company with genuine Capital One relationships. Zero Capital One credit risk/machine learning credit decisioning vocabulary in website or content. Capital One appointed a new VP of Machine Learning Engineering from Google. He searches 'machine learning credit decisioning analytics vendor Richmond Capital One' and 'consumer lending technology analytics partner Virginia.' Company appears for neither. Capital One — one of the most technology-advanced US banks — is headquartered in Richmond, and no Richmond SEO agency addresses their specific ML-fintech vocabulary.
+
+SOLUTION: Clickmasters Richmond SEO delivers Capital One FINRA/SEC financial technology authority, Dominion Energy utility B2B, CarMax automotive retail analytics, VCU Health YMYL, Virginia VCDPA-native analytics, and GEO/AEO first-mover.`,
+  services: `RICHMOND CAPITAL ONE FINRA/SEC FINANCIAL TECHNOLOGY SEO:
+For Henrico County and Greater Richmond fintech and analytics vendors. Capital One credit risk/ML credit decisioning vocabulary. FINRA Rule 2210-compliant content. SEC Marketing Rule compliance. Markel/Altria FINRA community.
+
+RICHMOND DOMINION ENERGY UTILITY B2B SEO:
+For Richmond energy technology vendors. Dominion Energy grid modernisation vocabulary. Carbon neutrality programme content. Offshore wind development vocabulary. Energy utility operational intelligence.
+
+RICHMOND CARMAX/VCU HEALTH YMYL SEO:
+For Richmond automotive analytics and healthcare vendors. CarMax inventory/consumer automotive analytics vocabulary. VCU Health/Bon Secours YMYL academic medical content. Virginia VCDPA-native analytics.`,
   caseStudies: `Case Study 1: Henrico County Fintech — Capital One ML/FINRA SEO
 Client: Data analytics, Henrico County (\$6.4M ARR). Challenge: Zero Capital One ML credit decisioning vocabulary. New VP Machine Learning not finding.
 Programme: Capital One ML/credit risk/consumer lending vocabulary + FINRA-compliant + Virginia VCDPA-native + GEO/AEO

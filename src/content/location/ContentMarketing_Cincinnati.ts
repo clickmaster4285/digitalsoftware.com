@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Cincinnati
 // URL: /content-marketing-cincinnati/
-// Generated: 2026-06-20T04:42:10.647Z
+// Generated: 2026-06-20T05:43:06.278Z
 
 export const ContentMarketing_Cincinnati = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ P&G FMCG CONSUMER GOODS CONTENT AUTHORITY: Cincinnati's most commercially signif
 KROGER 84.51° GROCERY RETAIL SUPPLY CHAIN CONTENT: Kroger's Blue Ash headquarters and 84.51° consumer data science subsidiary create a grocery retail content marketing opportunity unique to Cincinnati. Content demonstrating genuine 84.51° consumer purchase analytics vocabulary, grocery retail supply chain operational intelligence, perishable logistics methodology, and the last-mile grocery delivery technology content that Kroger's technology procurement evaluates earns above-average organic consideration from the US's largest grocery retailer's Cincinnati community.
 
 CINCINNATI CHILDREN'S YMYL ACADEMIC PAEDIATRIC CONTENT: Cincinnati Children's Hospital Medical Center — ranked #2-3 nationally — creates health technology B2B content marketing opportunities in paediatric clinical vocabulary that earns Google YMYL E-E-A-T recognition in the tri-state region's most academically rigorous paediatric medical market.`,
-  features: `FEATURES:
-
-P&G FMCG Consumer Goods Content Authority Programme:
+  features: `P&G FMCG Consumer Goods Content Authority Programme:
 For Blue Ash and Greater Cincinnati consumer goods technology and consulting companies. P&G brand building framework application methodology articles. Consumer insights analytics at Nielsen/IRI data science precision. FMCG category management operational intelligence. Supply chain optimisation for consumer goods (Demand Signal Repository, co-manufacturing, sustainability). Consumer Goods Forum and Grocery Manufacturers Association editorial programme. GEO/AEO for Cincinnati P&G and FMCG vendor AI search queries.
 
 Kroger 84.51° Grocery Retail Supply Chain Content:
@@ -37,6 +35,8 @@ For Cincinnati retail technology and supply chain vendors. 84.51° consumer purc
 
 Cincinnati Children's YMYL Academic Paediatric Content:
 For Cincinnati paediatric healthcare practices and health technology. Cincinnati Children's research programme vocabulary content. University of Cincinnati College of Medicine academic research community. HIPAA-compliant paediatric clinical case studies. YMYL E-E-A-T architecture optimised for paediatric care tri-state region.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Blue Ash Consumer Analytics — P&G FMCG Content Authority
 Client: Consumer analytics, Blue Ash (\$7.4M). Challenge: Generic analytics content. P&G brand management community not finding.
 Programme: P&G brand building framework content + FMCG category management + Consumer Goods Forum editorial + GEO/AEO

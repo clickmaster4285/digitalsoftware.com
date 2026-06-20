@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Sacramento
 // URL: /web-design-agency-sacramento/
-// Generated: 2026-06-20T04:42:14.897Z
+// Generated: 2026-06-20T05:43:15.968Z
 
 export const WebDesign_Sacramento = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ CALIFORNIA STATE GOVERNMENT IT VENDOR INSTITUTIONAL CREDIBILITY: California stat
 CALPERS/CALSTRS FINRA-COMPLIANT INSTITUTIONAL INVESTMENT QUALITY: CalPERS and CalSTRS evaluate financial technology vendor websites with the FINRA compliance precision and institutional investment quality expectations of the world's largest and second-largest public pension funds. FINRA Rule 2210-compliant content from wireframe, SEC Marketing Rule-compliant performance displays, CalPERS-calibre alternative investment analytics vocabulary, and the institutional pension fund visual quality that \$500+ billion and \$350+ billion AUM institutions expect from technology partners.
 
 UC DAVIS HEALTH YMYL HIPAA CCPA ACADEMIC HEALTHCARE: UC Davis Health — with an NCI-designated Comprehensive Cancer Center, Level 1 Trauma Center, and California MIND Institute — creates a YMYL healthcare website standard requiring UC Davis academic vocabulary, HIPAA-native data architecture, and CCPA-compliant consent management from the California AG's most active consumer privacy enforcement jurisdiction.`,
-  features: `FEATURES:
-
-California State Government IT Vendor Credibility Architecture:
+  features: `California State Government IT Vendor Credibility Architecture:
 For Sacramento government technology vendors. California IT procurement vocabulary throughout: CDT framework compliance, CHHS/OTSI partner vocabulary, FI\$Cal and CalATERS familiarity signals, SAM/California Small Business certification display. Digital government service delivery methodology pages. Government IT institutional visual quality. CCPA-native analytics architecture. WCAG 2.1 AA (California state contract requirement).
 
 CalPERS/CalSTRS FINRA-Compliant Institutional Investment Quality Architecture:
@@ -37,6 +35,8 @@ For Sacramento financial technology companies. FINRA Rule 2210-compliant website
 
 UC Davis Health YMYL HIPAA CCPA Academic Healthcare Architecture:
 For Sacramento healthcare practices and health technology. UC Davis NCI Cancer Center programme affiliation. UC Davis Medical Center/California MIND Institute vocabulary. Sutter Health system affiliation where applicable. HIPAA-native CCPA-native data architecture. YMYL E-E-A-T optimised California academic medical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Sacramento Government Tech — CA State IT Credibility Redesign
 Client: Government technology consulting, Sacramento (\$7.4M). Challenge: Website lacking CA state IT procurement credibility. CDT procurement dismissal during vendor qualification.
 Programme: CDT/CHHS/FI\$Cal vocabulary + California IT procurement credentials + government institutional visual + CCPA-native + WCAG 2.1 AA + CWV (5.2s to 1.4s)

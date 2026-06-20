@@ -210,7 +210,6 @@ function parsePublishingChecklist(rows: any[]): { checklist: any; url: string | 
   rows.forEach(row => {
     const keys = Object.keys(row);
     
-    // Check each row for URL
     for (const key of keys) {
       const value = String(row[key] || '');
       const match = value.match(/Exact:\s*([^\s]+)/);
@@ -223,7 +222,6 @@ function parsePublishingChecklist(rows: any[]): { checklist: any; url: string | 
       }
     }
     
-    // Parse checklist items
     if (keys.length >= 3) {
       const item = String(row[keys[0]] || '').trim();
       const requirement = String(row[keys[1]] || '').trim();
@@ -256,7 +254,7 @@ function parsePublishingChecklist(rows: any[]): { checklist: any; url: string | 
 }
 
 // ============================================
-// 5. PROCESS FILE
+// 5. PROCESS FILE (UPDATED)
 // ============================================
 function processFile(filename: string): any {
   console.log(`  📊 Processing: ${filename}`);
@@ -292,6 +290,10 @@ function processFile(filename: string): any {
     const faqs = parseFAQFromSchema(faqSchema);
     const faqTitle = mergedData['H2 — FAQ'] || '';
     
+    // Extract additional fields
+    const pas = mergedData['SECTION — PAS'] || '';
+    const services = mergedData['SERVICES'] || '';
+    
     return {
       ...parsedInfo,
       data: mergedData,
@@ -300,6 +302,8 @@ function processFile(filename: string): any {
       wordCount: wordCount,
       faqs: faqs,
       faqTitle: faqTitle,
+      pas: pas,
+      services: services,
     };
   } catch (error) {
     console.error(`  ❌ Error processing ${filename}:`, error);
@@ -321,16 +325,32 @@ function formatValue(value: any): string {
 }
 
 // ============================================
-// 7. GENERATE SINGLE FILE
+// 7. GENERATE SINGLE FILE (UPDATED)
 // ============================================
 function generateSingleFile(data: any, filename: string) {
-  const { service, city, citySlug, serviceSlug, extractedUrl, wordCount, faqs, faqTitle } = data;
+  const { service, city, citySlug, serviceSlug, extractedUrl, wordCount, faqs, faqTitle, pas, services } = data;
   const { data: contentData, checklist } = data;
   
   const finalSlug = extractedUrl || `/locations/${serviceSlug}/${citySlug}`;
   
   console.log(`    🔗 Slug: "${finalSlug}" (${extractedUrl ? '✅ from Excel' : '⚠️ generated'})`);
   console.log(`    📋 FAQs: ${faqs.length} questions`);
+  console.log(`    📝 PAS: ${pas ? '✅' : '❌'}`);
+  console.log(`    📝 Services: ${services ? '✅' : '❌'}`);
+  
+  // Clean features - remove "FEATURES:" header if present
+  let featuresText = contentData['SECTION — FAB'] || '';
+  if (featuresText) {
+    featuresText = featuresText.replace(/^FEATURES:\s*\n?/i, '');
+    featuresText = featuresText.replace(/FEATURES:\s*/gi, '');
+  }
+  
+  // Clean services - remove "SERVICES:" header if present
+  let servicesText = services || '';
+  if (servicesText) {
+    servicesText = servicesText.replace(/^SERVICES:\s*\n?/i, '');
+    servicesText = servicesText.replace(/SERVICES:\s*/gi, '');
+  }
   
   const varName = data.fileName.replace(/T3-/, '').replace(/-/g, '_');
   
@@ -356,7 +376,9 @@ export const ${varName} = {\n`;
   content += `  schema: ${formatValue(contentData['SCHEMA'] || null)},\n`;
   content += `  wordCount: ${wordCount},\n`;
   content += `  geoAeoBlock: ${formatValue(contentData['GEO/AEO BLOCK'] || '')},\n`;
-  content += `  features: ${formatValue(contentData['SECTION — FAB'] || '')},\n`;
+  content += `  features: ${formatValue(featuresText)},\n`;
+  content += `  pas: ${formatValue(pas)},\n`;
+  content += `  services: ${formatValue(servicesText)},\n`;
   content += `  caseStudies: ${formatValue(contentData['CASE STUDIES'] || '')},\n`;
   content += `  faqTitle: ${formatValue(faqTitle)},\n`;
   content += `  faqs: ${JSON.stringify(faqs, null, 2)},\n`;
@@ -364,7 +386,12 @@ export const ${varName} = {\n`;
   content += `  cta: ${formatValue(contentData['H2 — CTA'] || '')},\n`;
   
   const linksRaw = contentData['INTERNAL LINKS'] || '';
-  const linksArray = linksRaw.split(/[\n,]+/).filter(Boolean).map((s: string) => s.trim());
+  const linksArray = linksRaw.split(/[\n,]+/).filter(Boolean).map((s: string) => {
+    let link = s.trim();
+    if (!link.startsWith('/')) link = '/' + link;
+    if (!link.endsWith('/')) link = link + '/';
+    return link;
+  });
   content += `  internalLinks: ${formatValue(linksArray)},\n`;
   content += `  \n`;
   content += `  publishingChecklist: {\n`;

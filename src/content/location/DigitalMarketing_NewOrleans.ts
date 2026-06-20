@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: NewOrleans
 // URL: /digital-marketing-agency-new-orleans/
-// Generated: 2026-06-20T04:42:11.433Z
+// Generated: 2026-06-20T05:43:08.751Z
 
 export const DigitalMarketing_NewOrleans = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "NewOrleans",
   citySlug: "new-orleans",
-  slug: "/digital-marketing-agency-new-orleans/",
+  slug: "/digital-marketing-agency-in-new-orleans/",
   
   h1: `Digital Marketing Agency New Orleans — Ochsner Health Revenue, Entergy Energy B2B, Port Maritime Logistics, and Crescent City Commercial Growth`,
   primaryKw: `digital marketing agency new orleans`,
@@ -30,6 +30,20 @@ PORT OF NEW ORLEANS MARITIME LOGISTICS DIGITAL MARKETING: The Port of New Orlean
 
 NEW ORLEANS CONVENTION AND HOSPITALITY TECHNOLOGY DIGITAL MARKETING: New Orleans' position as the second-largest convention city in the US — generating 10 million+ annual visitors and \$10B+ in annual visitor spending — creates hospitality technology B2B digital marketing for hotels, convention operators, and event technology vendors.`,
   features: ``,
+  pas: ``,
+  services: `SEO NEW ORLEANS: Ochsner/Tulane/LSU Health YMYL. Entergy energy B2B. Port maritime logistics. Convention hospitality tech. /seo-services-new-orleans/
+
+GOOGLE ADS NEW ORLEANS: Ochsner/Tulane HIPAA. Entergy utility PPC. Port maritime logistics. Louisiana hospitality.
+
+CONTENT MARKETING NEW ORLEANS: Ochsner/Tulane YMYL clinical authority. Entergy grid modernisation. Port maritime supply chain. Convention hospitality operational.
+
+LINKEDIN NEW ORLEANS: Ochsner Health clinical community. Entergy energy professional. Port maritime industry. French Quarter/Garden District/Uptown authentic NOLA.
+
+EMAIL NEW ORLEANS: Ochsner/Tulane HIPAA named pipeline. Entergy utility nurture. Port maritime logistics. Convention Mardi Gras calendar-aware.
+
+LOCAL SEO NEW ORLEANS: Ochsner/Tulane YMYL GBP. Garden District/Metairie professional quality. Port maritime proximity.
+
+WEB DESIGN NEW ORLEANS: Ochsner YMYL HIPAA institutional. Entergy utility quality. Port maritime credibility.`,
   caseStudies: `Case Study 1: New Orleans Health IT — Ochsner/Tulane Full Digital Programme
 Client: Clinical analytics, New Orleans (\$5.4M ARR). Challenge: New Ochsner VP Digital Health without connections — invisible. Zero Ochsner/Tulane vocabulary.
 Programme: SEO (Ochsner/Tulane YMYL vocabulary) + LinkedIn (Ochsner clinical community) + email (Ochsner named pipeline) + content (Tulane academic authority)

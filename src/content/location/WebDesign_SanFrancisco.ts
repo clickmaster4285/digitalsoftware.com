@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: SanFrancisco
 // URL: /web-design-agency-san-francisco/
-// Generated: 2026-06-20T04:42:14.943Z
+// Generated: 2026-06-20T05:43:16.034Z
 
 export const WebDesign_SanFrancisco = {
   service: "WebDesign",
@@ -40,6 +40,15 @@ For Stripe, Brex, Plaid, and SF's payments ecosystem. PCI-DSS compliance documen
 
 Sub-1.3s LCP Performance Engineering:
 LCP under 1.3 seconds — above the 2.5s CWV baseline. Critical CSS inlining, edge CDN deployment, aggressive image optimisation, preload hints for above-fold resources. Server-side rendering for content-heavy AI company pages. The performance engineering that earns Google Core Web Vitals green scores and communicates technical competence to SF's engineering buyers.`,
+  pas: ``,
+  services: `SF AI/ML COMPANY WEBSITE DESIGN:
+For SOMA, Mission Bay, and South Bay AI infrastructure companies. Technical documentation architecture. Model card pages. Benchmark display with methodology. Research publication integration. arXiv paper display. Engineering team credentials. API playground integration. The AI/ML technical credibility website that earns genuine evaluation from the engineering community rather than just marketing attention.
+
+SF FINTECH WEBSITE DESIGN:
+For Stripe, Brex, and the SF payments and fintech ecosystem. PCI-DSS/SOC 2/FinCEN compliance architecture. Developer documentation SEO-optimised pages. Enterprise buyer trust signals. FINRA-compliant content for investment-adjacent fintech. The fintech institutional credibility that earns enterprise payment buyer consideration.
+
+SF B2B SAAS WEBSITE DESIGN:
+For SOMA and South Bay B2B SaaS companies at Series A through Series C. Enterprise buyer conversion architecture. Integration documentation SEO. Security certifications display. CCPA-native analytics. The enterprise-credible SaaS website that converts SF's demanding technical buyer at above-average rates.`,
   caseStudies: `Case Study 1: SOMA AI Infrastructure Company — Technical Credibility Redesign
 Client: ML model monitoring SaaS, SOMA SF (\$9.2M ARR). Challenge: Marketing-focused website with no technical documentation, no benchmark pages, no research integration. ML engineering community not evaluating as serious vendor.
 Programme: Technical documentation architecture + benchmark display with methodology + arXiv research integration + CCPA-native analytics + sub-1.1s LCP

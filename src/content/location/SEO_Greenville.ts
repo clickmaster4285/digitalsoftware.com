@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Greenville
 // URL: /seo-services-greenville/
-// Generated: 2026-06-20T04:42:13.618Z
+// Generated: 2026-06-20T05:43:13.070Z
 
 export const SEO_Greenville = {
   service: "SEO",
@@ -28,6 +28,17 @@ MICHELIN NORTH AMERICA INDUSTRIAL TYRE MANUFACTURING SEO: Michelin North America
 
 PRISMA HEALTH YMYL SEO: Prisma Health — South Carolina's largest private health system, with a major academic medical centre in Greenville — creates the YMYL academic medical content standard for Upstate South Carolina. South Carolina Consumer Data Privacy Act (SCDPA, effective January 1, 2025) creates analytics compliance requirements.`,
   features: ``,
+  pas: `PROBLEM: The Greenville automotive technology company with genuine BMW Spartanburg relationships. Zero BMW X-series production/body assembly vocabulary. BMW Spartanburg VP Supply Chain searches 'automotive body assembly analytics BMW Spartanburg Greenville.' Company appears for neither. BMW Manufacturing — the world's largest BMW production facility — sits 20 minutes from Greenville and generates automotive vocabulary no Greenville SEO agency addresses.
+
+SOLUTION: Clickmasters Greenville SEO delivers BMW Manufacturing automotive B2B, Michelin industrial, Prisma Health YMYL, SCDPA-native, and GEO/AEO first-mover.`,
+  services: `GREENVILLE BMW MANUFACTURING AUTOMOTIVE B2B SEO:
+BMW X-series production vocabulary. Automotive body assembly analytics. BMW production system intelligence. Michelin tyre manufacturing vocabulary. SC automotive community. SCDPA-native.
+
+GREENVILLE MICHELIN NORTH AMERICA INDUSTRIAL SEO:
+Michelin tyre manufacturing vocabulary. Rubber materials science. Automotive components. SC industrial community.
+
+GREENVILLE PRISMA HEALTH YMYL SEO:
+Prisma Health academic medical vocabulary. HIPAA/SCDPA-native. YMYL E-E-A-T Upstate SC.`,
   caseStudies: `Case Study 1: Greenville Automotive Technology — BMW Manufacturing B2B SEO
 Client: Automotive technology, Greenville (\$5.4M ARR). Challenge: Zero BMW X-series/Michelin vocabulary. VP Supply Chain not finding.
 Programme: BMW body assembly/production vocabulary + Michelin tyre community + SCDPA-native + GEO/AEO

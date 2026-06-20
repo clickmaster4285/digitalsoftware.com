@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Baltimore
 // URL: /digital-marketing-agency-baltimore/
-// Generated: 2026-06-20T04:42:11.082Z
+// Generated: 2026-06-20T05:43:08.284Z
 
 export const DigitalMarketing_Baltimore = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Baltimore",
   citySlug: "baltimore",
-  slug: "/digital-marketing-agency-baltimore/",
+  slug: "/digital-marketing-agency-in-baltimore/",
   
   h1: `Digital Marketing Agency Baltimore — Johns Hopkins Revenue, T. Rowe Price FINRA, Under Armour Brand, and Charm City Commercial Growth`,
   primaryKw: `digital marketing agency baltimore`,
@@ -30,6 +30,20 @@ UNDER ARMOUR SPORTS BRAND DIGITAL MARKETING: Under Armour's Baltimore Brand Hous
 
 NSA FORT MEADE ITAR-BOUNDED DEFENCE DIGITAL MARKETING: The National Security Agency's Fort Meade campus and surrounding defence/intelligence contractor community creates a significant ITAR-bounded publicly releasable defence digital marketing opportunity for technology vendors and professional services companies serving Maryland's intelligence and defence ecosystem.`,
   features: ``,
+  pas: ``,
+  services: `SEO BALTIMORE: Johns Hopkins #1 YMYL vocabulary. T. Rowe Price FINRA investment. Under Armour sports brand. NSA ITAR-bounded. /seo-services-baltimore/
+
+GOOGLE ADS BALTIMORE: Johns Hopkins HIPAA healthcare. T. Rowe Price FINRA-compliant. Under Armour retail brand. NSA defence community.
+
+CONTENT MARKETING BALTIMORE: Johns Hopkins/Bloomberg world-class YMYL. T. Rowe Price investment management authority. Under Armour sports performance brand. Armstrong Institute patient safety.
+
+LINKEDIN BALTIMORE: Johns Hopkins clinical/public health LinkedIn. T. Rowe Price investment management community. Under Armour brand/sports marketing. Fells Point/Hampden authentic Baltimore.
+
+EMAIL BALTIMORE: JHM/Bloomberg named pipeline HubSpot. T. Rowe Price FINRA-compliant financial nurture. Under Armour brand procurement. NSA defence ITAR-bounded.
+
+LOCAL SEO BALTIMORE: Johns Hopkins world-class GBP. T. Rowe Price professional community quality. Fells Point/Roland Park professional standard.
+
+WEB DESIGN BALTIMORE: Johns Hopkins #1 institutional HIPAA. T. Rowe Price FINRA-compliant. Under Armour brand quality.`,
   caseStudies: `Case Study 1: Baltimore Health IT — Johns Hopkins/Bloomberg Full Digital Programme
 Client: Clinical analytics, Baltimore (\$7.4M ARR). Challenge: New JHM VP Digital Health without connections — invisible. Zero Johns Hopkins vocabulary.
 Programme: SEO (JHM/Armstrong/Bloomberg vocabulary) + LinkedIn (Hopkins clinical community) + email (JHM named pipeline) + content (Bloomberg public health authority)

@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Louisville
 // URL: /web-design-agency-louisville/
-// Generated: 2026-06-20T04:42:14.717Z
+// Generated: 2026-06-20T05:43:15.513Z
 
 export const WebDesign_Louisville = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ HUMANA MEDICARE ADVANTAGE HIPAA INSTITUTIONAL CREDIBILITY: Humana's Louisville h
 GE APPLIANCES MANUFACTURING ENTERPRISE INSTITUTIONAL QUALITY: GE Appliances' Louisville campus — the largest US appliance manufacturing campus — evaluates manufacturing technology vendor websites against the institutional precision of a major US manufacturing enterprise. Smart appliance manufacturing technology in service pages, industrial IoT integration methodology, Louisville manufacturing supply chain operational specifics, and the manufacturing enterprise institutional visual quality that GE Appliances' engineering procurement expects.
 
 UOFL HEALTH/NORTON YMYL HIPAA ACADEMIC HEALTHCARE: University of Louisville Health System and Norton Healthcare create YMYL healthcare website requirements with HIPAA-native data architecture for Louisville's most comprehensive academic and private healthcare environment.`,
-  features: `FEATURES:
-
-Humana Medicare Advantage HIPAA Institutional Credibility Architecture:
+  features: `Humana Medicare Advantage HIPAA Institutional Credibility Architecture:
 For Louisville health insurance technology vendors. Medicare Advantage plan technology operational service descriptions. Stars ratings quality programme analytics methodology pages. Value-based care measurement platform integration specifics. HIPAA-native Kentucky data architecture. Medicare Advantage institutional visual quality.
 
 GE Appliances Manufacturing Enterprise Quality Architecture:
@@ -37,6 +35,8 @@ For Louisville manufacturing technology vendors. Smart appliance manufacturing t
 
 UofL Health/Norton YMYL HIPAA Academic Healthcare Architecture:
 For Louisville healthcare practices and health technology. University of Louisville Health System academic affiliation. Norton Healthcare programme vocabulary. HIPAA-native data architecture. YMYL E-E-A-T optimised Kentucky academic medical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Louisville Health Insurance Technology — Humana Medicare Advantage HIPAA Redesign
 Client: Health insurance analytics, Louisville (\$5.4M ARR). Challenge: Website without Humana Medicare Advantage HIPAA institutional credibility. Humana VP dismissal.
 Programme: Humana Medicare Advantage/Stars/value-based care pages + HIPAA-native + institutional visual + CWV (5.0s to 1.4s)

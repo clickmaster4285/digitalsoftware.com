@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Charlotte
 // URL: /local-seo-services-charlotte/
-// Generated: 2026-06-20T04:42:13.026Z
+// Generated: 2026-06-20T05:43:11.743Z
 
 export const LocalSEO_Charlotte = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ ATRIUM HEALTH/NOVANT HEALTH ACADEMIC MEDICAL CREDENTIAL: Charlotte's Atrium Heal
 
 NASCAR MOTORSPORTS B2B PROXIMITY GBP: The Concord and Mooresville motorsports corridor creates B2B proximity GBP commercial value for professional services, technology vendors, and enterprise businesses whose GBP communicates genuine motorsports community awareness and proximity — generating above-average qualified enquiry rates from Charlotte's most commercially concentrated specialised professional community.`,
   features: ``,
+  pas: `PROBLEM: The Uptown Charlotte financial advisory with \$420M AUM serving the banking professional community — 28 reviews at 4.6 stars, generic 'Charlotte wealth management' description, no CFA verification link, no banking community vocabulary in GBP. The new BofA VP of Risk who relocated from New York searches 'fee-only financial adviser Charlotte banking professional CFA.' GBP: 28 reviews (her New York adviser had 150+), no CFP Board verification visible, no BofA community vocabulary. She selects the Uptown firm with 128 reviews, CFP Board verification link in description, and 'financial planning specialists for Charlotte banking and financial services professionals' as a named community in the GBP service description.
+
+SOLUTION: Clickmasters Charlotte Local SEO provides the banking-capital-professional-credentialled, Atrium/Novant-affiliated, NASCAR-community-adjacent GBP programme.`,
+  services: `CHARLOTTE BANKING CAPITAL PROFESSIONAL GBP:
+For Uptown Charlotte financial advisory, professional services, and banking-adjacent businesses. CFA/CFP with CFP Board/CFA Institute verification links. Banking community professional vocabulary in GBP descriptions. FINRA-aware review management. Banking professional community photography.
+
+CHARLOTTE ATRIUM/NOVANT ACADEMIC MEDICAL GBP:
+For Charlotte healthcare practices. Atrium Health (Carolinas Medical Center system) affiliation badge. Novant Health system affiliation. UNC Charlotte/Wake Forest School of Medicine faculty attribution. HIPAA-compliant review management.
+
+CHARLOTTE NASCAR MOTORSPORTS B2B PROXIMITY GBP:
+For Concord and Mooresville motorsports community businesses. Motorsports proximity community vocabulary. Racing community photography. Motorsports enterprise B2B service descriptions.`,
   caseStudies: `Case Study 1: Uptown Charlotte Financial Advisory — Banking Capital Professional GBP
 Client: Fee-only RIA, Uptown (\$420M AUM). Challenge: GBP below banking professional standard. New York-origin BofA/Truist professionals selecting competitors.
 Programme: CFP Board verification + banking community vocabulary + FINRA-aware reviews + banking professional photography

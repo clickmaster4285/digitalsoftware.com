@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: NewOrleans
 // URL: /local-seo-services-new-orleans/
-// Generated: 2026-06-20T04:42:13.244Z
+// Generated: 2026-06-20T05:43:12.362Z
 
 export const LocalSEO_NewOrleans = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ ENTERGY CORPORATION UTILITY PROXIMITY B2B GBP: Entergy New Orleans' downtown hea
 
 GARDEN DISTRICT/METAIRIE/UPTOWN PROFESSIONAL QUALITY STANDARD: The Garden District's antebellum Victorian mansion community — home to New Orleans' most established professional families — Uptown's Magazine Street professional community, and Metairie's suburban professional community represent the highest-income residential and suburban professional markets in Greater New Orleans.`,
   features: ``,
+  pas: `PROBLEM: The Uptown financial advisory with an Ochsner Health physician and Entergy executive client base — 20 reviews, generic 'Uptown New Orleans wealth management' GBP, no CFA verification, no Ochsner/Entergy professional vocabulary. The Ochsner Health cardiologist who relocated from Houston searches 'fee-only financial adviser Uptown CFA Ochsner physician New Orleans.' GBP: 20 reviews (Houston adviser had 130+), no CFP Board verification, no Ochsner community signal. He selects the Garden District firm with 108 reviews, CFA Institute verification, 'financial planning for Ochsner Health physicians and Entergy professionals in the Garden District.'
+
+SOLUTION: Clickmasters New Orleans Local SEO provides the Ochsner/Tulane YMYL academic medical, Entergy utility proximity, and Garden District/Metairie professional quality standard GBP programme.`,
+  services: `NEW ORLEANS OCHSNER/TULANE YMYL ACADEMIC GBP:
+For New Orleans healthcare practices and health technology. Ochsner Health network system affiliation. Tulane School of Medicine faculty attribution. LSU Health Sciences Center academic vocabulary. HIPAA-compliant review management.
+
+NEW ORLEANS ENTERGY UTILITY PROXIMITY B2B GBP:
+For New Orleans energy technology vendors. Entergy grid/utility vocabulary in GBP. CBD/Downtown Entergy proximity signals. Louisiana utility energy professional photography.
+
+NEW ORLEANS GARDEN DISTRICT/METAIRIE PROFESSIONAL QUALITY GBP:
+For Garden District, Uptown, and Metairie professional services. CFA/CFP with CFA Institute/CFP Board verification. Ochsner physician/Entergy executive community vocabulary. Garden District Victorian professional photography.`,
   caseStudies: `Case Study 1: Garden District Financial Advisory — Ochsner/Entergy Professional Quality GBP
 Client: Fee-only RIA, Garden District (\$180M AUM). Challenge: GBP below Ochsner physician/Entergy executive standard.
 Programme: CFA Institute verification + Ochsner/Entergy community vocabulary + HIPAA-aware + Garden District Victorian photography

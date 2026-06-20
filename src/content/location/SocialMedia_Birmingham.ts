@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Birmingham
 // URL: /social-media-marketing-birmingham/
-// Generated: 2026-06-20T04:42:14.020Z
+// Generated: 2026-06-20T05:43:14.352Z
 
 export const SocialMedia_Birmingham = {
   service: "SocialMedia",
@@ -27,9 +27,7 @@ REGIONS FINANCIAL FINRA BANKING LINKEDIN: Regions Financial's Birmingham campus 
 UAB WORLD-CLASS NCI CLINICAL RESEARCH COMMUNITY: UAB Comprehensive Cancer Center and UAB Medical Center create a LinkedIn clinical research and health technology community evaluating content against one of only 57 NCI-designated Comprehensive Cancer Centers in the US. Health technology vendors need world-class YMYL LinkedIn demonstrating UAB's oncology research vocabulary and Level 1 Trauma Center operational intelligence.
 
 AUTHENTIC MAGIC CITY CONSUMER BRAND SOCIAL: Birmingham's Five Points South arts and entertainment district, Crestline Village's mountain commercial community, and Vulcan Park — home to the world's largest cast iron statue — create authentic Magic City consumer brand social opportunities.`,
-  features: `FEATURES:
-
-Regions Financial FINRA Banking LinkedIn:
+  features: `Regions Financial FINRA Banking LinkedIn:
 FINRA-compliant content throughout. Regions commercial lending operational vocabulary. Treasury management intelligence. Protective Life insurance community. Alabama banking professional Sales Navigator.
 
 UAB World-Class NCI Clinical Research LinkedIn:
@@ -37,6 +35,8 @@ UAB NCI Comprehensive Cancer Center research vocabulary. UAB Medical Center Leve
 
 Authentic Magic City Consumer Brand Social:
 Five Points South arts and entertainment vocabulary. Crestline Village mountain community character. Vulcan Park cast iron heritage — world's largest cast iron statue. Cahaba Heights established neighbourhood. Sloss Furnaces industrial heritage seasonal content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Birmingham Financial Technology — Regions Financial FINRA LinkedIn
 Client: Banking analytics, Birmingham (\$6.4M ARR). Challenge: Non-FINRA LinkedIn. Regions banking community not engaging.
 Programme: FINRA-compliant commercial lending vocabulary + Alabama banking Sales Navigator

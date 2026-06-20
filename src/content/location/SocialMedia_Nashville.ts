@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Nashville
 // URL: /social-media-marketing-nashville/
-// Generated: 2026-06-20T04:42:14.266Z
+// Generated: 2026-06-20T05:43:14.639Z
 
 export const SocialMedia_Nashville = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ AMAZON EAST BANK PROFESSIONAL COMMUNITY: Amazon's 5,000-employee Nashville East 
 
 MUSIC CITY AUTHENTIC BRAND SOCIAL: Nashville's authentic Southern hospitality, country music culture, and food scene create specific Instagram and TikTok content opportunities for Nashville consumer brands. The Nashville food brand, boutique hotel, or lifestyle business whose social media communicates genuine Nashville culture — East Nashville grit, the Gulch's upscale energy, Music Row's creative heritage — earns the authentic community engagement that generic lifestyle content cannot buy.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING NASHVILLE (HEALTHCARE CAPITAL B2B):
+For Nashville's healthcare technology and services companies. HIPAA-aware LinkedIn content: no patient health information in post examples, FDA-aware content for medical device vendors, compliant healthcare performance claims. HCA/Community Health Systems-calibrated thought leadership. Nashville Healthcare Council and HIMSS Nashville community engagement. LinkedIn Ads targeting Nashville healthcare executive community.
+
+AMAZON EAST BANK PROFESSIONAL LINKEDIN:
+For Nashville technology companies and professional services targeting Amazon's East Bank workforce. Amazon-standard content: analytically rigorous, specific, evidence-based. Not aspirational Nashville lifestyle content — commercially precise thought leadership. Sales Navigator programme for Amazon ecosystem professional relationship development.
+
+NASHVILLE AUTHENTIC CONSUMER BRAND SOCIAL:
+For Nashville food and beverage brands, boutique hotels, entertainment venues, and lifestyle companies. Authentic Nashville cultural content: East Nashville independent spirit, Germantown's artisanal quality, the Gulch's upscale energy. Creator partnerships with Nashville's authentic local creator community. Instagram and TikTok at the visual quality that Nashville's 18 million annual visitors and Music Row's creative community expects.`,
   caseStudies: `Case Study 1: Nashville Healthcare Technology Company — HCA Ecosystem LinkedIn
 Client: Clinical analytics SaaS, Nashville (\$8.4M ARR). Challenge: LinkedIn not reaching Nashville healthcare executive community. HCA and CHS contacts not seeing thought leadership.
 Programme: VP Clinical Ops LinkedIn programme + HCA/value-based care content + HIPAA-aware content review + Nashville Healthcare Council engagement

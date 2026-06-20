@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Omaha
 // URL: /digital-marketing-agency-omaha/
-// Generated: 2026-06-20T04:42:11.464Z
+// Generated: 2026-06-20T05:43:08.797Z
 
 export const DigitalMarketing_Omaha = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Omaha",
   citySlug: "omaha",
-  slug: "/digital-marketing-agency-omaha/",
+  slug: "/digital-marketing-agency-in-omaha/",
   
   h1: `Digital Marketing Agency Omaha — Berkshire Hathaway Revenue, Union Pacific Rail Logistics, Nebraska Medicine YMYL, and Gate City Commercial Growth`,
   primaryKw: `digital marketing agency omaha`,
@@ -30,6 +30,20 @@ CONAGRA BRANDS AND GALLUP FOOD MANUFACTURING AND ANALYTICS DIGITAL MARKETING: Co
 
 NEBRASKA MEDICINE/UNMC AND MUTUAL OF OMAHA YMYL AND FINRA: Nebraska Medicine (NCI-designated cancer centre), UNMC, Children's Hospital and Medical Center, and Mutual of Omaha's Omaha headquarters create YMYL academic medical and insurance FINRA digital marketing opportunities.`,
   features: ``,
+  pas: ``,
+  services: `SEO OMAHA: Berkshire Hathaway FINRA/SEC vocabulary. Union Pacific rail logistics. ConAgra food manufacturing. Nebraska Medicine YMYL. Gallup analytics. NDPA-native. /seo-services-omaha/
+
+GOOGLE ADS OMAHA: Berkshire FINRA-compliant. Union Pacific rail. ConAgra food. Nebraska Medicine HIPAA. NDPA consent management.
+
+CONTENT MARKETING OMAHA: Berkshire FINRA/SEC investment authority. Union Pacific rail supply chain. ConAgra agribusiness. Nebraska Medicine NCI YMYL.
+
+LINKEDIN OMAHA: Berkshire investment holding community. Union Pacific rail professional. Nebraska Medicine clinical. Old Market/Dundee authentic Omaha.
+
+EMAIL OMAHA: Berkshire/Union Pacific/ConAgra named pipeline. Nebraska Medicine HIPAA. Berkshire Annual Meeting May seasonal. NDPA-compliant.
+
+LOCAL SEO OMAHA: Berkshire proximity GBP. Nebraska Medicine/UNMC YMYL. Dundee/Aksarben professional quality.
+
+WEB DESIGN OMAHA: Berkshire FINRA institutional. Union Pacific rail quality. Nebraska Medicine YMYL HIPAA.`,
   caseStudies: `Case Study 1: Omaha Financial Technology — Berkshire Hathaway Full Digital Programme
 Client: Investment analytics, Omaha (\$6.4M ARR). Challenge: New Berkshire VP Technology without connections. Zero FINRA/SEC investment vocabulary.
 Programme: SEO (Berkshire FINRA/SEC vocabulary) + LinkedIn (Berkshire Annual Meeting community) + email (Berkshire named pipeline) + content (value investing authority)

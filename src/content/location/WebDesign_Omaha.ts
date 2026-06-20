@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Omaha
 // URL: /web-design-agency-omaha/
-// Generated: 2026-06-20T04:42:14.803Z
+// Generated: 2026-06-20T05:43:15.684Z
 
 export const WebDesign_Omaha = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ BERKSHIRE HATHAWAY FINRA/SEC INVESTMENT HOLDING INSTITUTIONAL CREDIBILITY: Berks
 UNION PACIFIC RAILROAD ENTERPRISE QUALITY: Union Pacific's 32,000+ route mile freight rail network creates logistics and supply chain technology vendor website requirements: rail network analytics in service pages, freight routing optimisation methodology, intermodal logistics platform specifics, and the rail enterprise institutional quality that Union Pacific Omaha procurement evaluates.
 
 NEBRASKA MEDICINE YMYL HIPAA NDPA ACADEMIC HEALTHCARE: Nebraska Medicine — UNMC's academic medical centre and Nebraska's only NCI-designated cancer centre — and Children's Hospital and Medical Center create YMYL healthcare website requirements with HIPAA-native NDPA-native data architecture.`,
-  features: `FEATURES:
-
-Berkshire Hathaway FINRA/SEC Institutional Credibility Architecture:
+  features: `Berkshire Hathaway FINRA/SEC Institutional Credibility Architecture:
 For Omaha financial technology and investment analytics companies. Value investing methodology service descriptions. Insurance operations analytics (GEICO, General Re) service pages. Subsidiary performance management platform specifics. FINRA Rule 2210-compliant content. Berkshire Annual Meeting community-calibre institutional visual quality. NDPA-native analytics.
 
 Union Pacific Railroad Enterprise Quality Architecture:
@@ -37,6 +35,8 @@ For Omaha rail and logistics technology vendors. Rail network analytics service 
 
 Nebraska Medicine YMYL HIPAA NDPA Academic Healthcare Architecture:
 For Omaha healthcare practices and health technology. Nebraska Medicine NCI Cancer Centre programme affiliation. UNMC academic research community vocabulary. Children's Hospital and Medical Center paediatric vocabulary. HIPAA-native NDPA-native data architecture. YMYL E-E-A-T Great Plains academic medical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Omaha Financial Technology — Berkshire FINRA Institutional Credibility Redesign
 Client: Investment analytics, Omaha (\$6.4M ARR). Challenge: Website without Berkshire investment holding institutional credibility. Non-FINRA. Berkshire community dismissal.
 Programme: Berkshire FINRA value investing/insurance/subsidiary vocabulary + institutional visual + NDPA + CWV (5.0s to 1.4s)

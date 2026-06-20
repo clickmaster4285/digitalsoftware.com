@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Raleigh
 // URL: /email-marketing-raleigh/
-// Generated: 2026-06-20T04:42:12.074Z
+// Generated: 2026-06-20T05:43:10.063Z
 
 export const EmailMarketing_Raleigh = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ RTP PHARMACEUTICAL PROCUREMENT PIPELINE EMAIL: Biogen, GlaxoSmithKline, and Novo
 CISCO/RED HAT ENTERPRISE TECHNOLOGY PIPELINE EMAIL: Cisco's RTP campus and Red Hat's Durham headquarters create enterprise technology procurement cycles running 90-180 days. Email with Red Hat OpenShift/Ansible operational intelligence and Cisco SD-WAN/network automation vocabulary maintains enterprise technology procurement relationship continuity.
 
 TRIANGLE IN-MIGRATION PROFESSIONAL 5-STAGE ONBOARDING: Raleigh-Durham's in-migration from DC/NY/Midwest creates a professional services email onboarding opportunity — the DC policy professional who relocated to Cary, the New York financial professional in North Raleigh — actively consuming NC-specific transition content during first-year service relationship establishment.`,
-  features: `FEATURES:
-
-Biogen/GSK RTP Pharmaceutical Pipeline HubSpot:
+  features: `Biogen/GSK RTP Pharmaceutical Pipeline HubSpot:
 For Durham and RTP CROs, CDMOs, and pharmaceutical consulting companies. FDA-aware email content review. CMC regulatory update content tracks. FDA guidance document analysis emails. Phase I-III operational intelligence. HubSpot Biogen/GSK/Novo Nordisk named account sequences. 180-360 day pharmaceutical procurement cycle deal-stage triggers.
 
 Cisco/Red Hat Enterprise Technology Pipeline:
@@ -37,6 +35,8 @@ For Raleigh enterprise technology vendors. Red Hat OpenShift/Ansible operational
 
 Triangle In-Migration Professional 5-Stage Onboarding:
 For Cary and North Raleigh financial advisory, healthcare, estate planning. 5-stage NC onboarding: DC-to-NC/NY-to-NC income comparison, NC healthcare navigation, Triangle neighbourhood financial guide, NC estate planning vs originating state. FINRA-compliant financial email. HIPAA healthcare.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Durham CRO — Biogen/GSK Pharmaceutical Pipeline Nurture
 Client: Phase II CRO, Durham (\$8.4M). Challenge: Biogen/GSK contacts cold in 180-day cycles. Generic email below FDA clinical vocabulary standard.
 Programme: FDA-aware CMC/Phase I-III email content + Biogen/GSK named sequences + HIPAA-compliant + 200-day deal-stage triggers

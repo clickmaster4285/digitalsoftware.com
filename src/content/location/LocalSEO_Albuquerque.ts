@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Albuquerque
 // URL: /local-seo-services-albuquerque/
-// Generated: 2026-06-20T04:42:12.948Z
+// Generated: 2026-06-20T05:43:11.619Z
 
 export const LocalSEO_Albuquerque = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ UNM HEALTH/PRESBYTERIAN YMYL ACADEMIC MEDICAL CREDENTIAL: The University of New 
 
 NORTHEAST HEIGHTS/RIO RANCHO PROFESSIONAL QUALITY STANDARD: The Northeast Heights — Albuquerque's most established professional residential corridor — and Rio Rancho's growing Intel professional community evaluate professional services GBPs with the institutional precision of Sandia and Intel technology professional communities.`,
   features: ``,
+  pas: `PROBLEM: The Northeast Heights financial advisory with a Sandia Labs engineer and Intel Rio Rancho employee client base — 18 reviews, generic 'Northeast Heights wealth management' GBP, no CFA verification, no Sandia/Intel professional community vocabulary. The Sandia Labs principal engineer who relocated from Los Alamos searches 'fee-only financial adviser Northeast Heights CFA Sandia Labs Albuquerque.' GBP: 18 reviews, no CFA Institute verification, no Sandia community signal. He selects the Northeast Heights firm with 108 reviews, CFA Institute verification, 'financial planning for Sandia Labs, Intel, and Kirtland AFB professionals in Northeast Heights.'
+
+SOLUTION: Clickmasters Albuquerque Local SEO provides the Sandia/LANL proximity, UNM Health NCI/Presbyterian academic medical, and Northeast Heights/Rio Rancho professional quality GBP programme.`,
+  services: `ALBUQUERQUE SANDIA/LANL/KIRTLAND PROXIMITY B2B GBP:
+For Southeast Albuquerque/Kirtland AFB area technology vendors. ITAR-reviewed publicly releasable national security vocabulary in GBP. Sandia/AFRL/Kirtland proximity signals. National security technology professional photography.
+
+ALBUQUERQUE UNM HEALTH/PRESBYTERIAN YMYL GBP:
+For Albuquerque healthcare practices. UNM Health NCI Cancer Center programme affiliation. Presbyterian Healthcare managed care vocabulary. HIPAA-compliant review management.
+
+ALBUQUERQUE NORTHEAST HEIGHTS/RIO RANCHO PROFESSIONAL QUALITY GBP:
+For Northeast Heights and Rio Rancho professional services. CFA/CFP with CFA Institute/CFP Board verification. Sandia/Intel/Kirtland professional community vocabulary. New Mexico professional photography. FINRA-aware.`,
   caseStudies: `Case Study 1: Northeast Heights Financial Advisory — Sandia/Intel Professional Quality GBP
 Client: Fee-only RIA, Northeast Heights (\$160M AUM). Challenge: GBP below Sandia/Intel professional standard.
 Programme: CFA Institute verification + Sandia/Intel/Kirtland community vocabulary + FINRA-aware + NE Heights professional photography

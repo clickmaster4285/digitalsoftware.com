@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Charlotte
 // URL: /google-ads-management-charlotte/
-// Generated: 2026-06-20T04:42:12.277Z
+// Generated: 2026-06-20T05:43:10.577Z
 
 export const GoogleAds_Charlotte = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ NASCAR MOTORSPORTS B2B GOOGLE ADS: Charlotte's motorsports ecosystem — Team Pe
 
 ATRIUM/NOVANT HIPAA HEALTHCARE GOOGLE ADS: Charlotte's Atrium Health and Novant Health create healthcare patient acquisition and health technology vendor PPC markets requiring HIPAA-compliant conversion tracking and HCAHPS/VBP clinical vocabulary.`,
   features: ``,
+  pas: `PROBLEM: The Uptown Charlotte treasury management technology company spending \$9,600/month on Google Ads targeting 'treasury management software' and 'financial technology Charlotte.' The new Bank of America VP of Treasury Technology from JPMorgan searches 'commercial treasury management SaaS Charlotte BofA vendor' and 'treasury management systems Charlotte banking capital.' Neither search is in the campaign. The \$115K annual spend reaches broad financial technology buyers but misses every BofA/Truist banking-vocabulary procurement search from Charlotte's most commercially valuable banking enterprise audience.
+
+SOLUTION: Clickmasters Charlotte Google Ads delivers BofA/Truist banking vocabulary, NASCAR motorsports community PPC, Atrium/Novant HIPAA-compliant healthcare, and FINRA-compliant financial advertising — at North Carolina CPCs 20-25% below New York equivalents.`,
+  services: `CHARLOTTE BANKING CAPITAL GOOGLE ADS (FINRA-COMPLIANT):
+For Uptown Charlotte fintech and banking technology vendors. BofA/Truist banking vocabulary: treasury management, commercial lending, capital markets, banking infrastructure. FINRA-compliant financial advertising. BofA/Truist audience signals. CRM offline import. Salesforce integration.
+
+CHARLOTTE NASCAR MOTORSPORTS B2B GOOGLE ADS:
+For Concord and Greater Charlotte motorsports vendors. NASCAR technical vocabulary. Team Penske/Hendrick/Gibbs audience signals. Racing engineering and supply chain vocabulary. Motorsports sponsorship marketing vocabulary.
+
+CHARLOTTE ATRIUM/NOVANT HIPAA HEALTHCARE GOOGLE ADS:
+For Charlotte healthcare practices and health IT companies. HIPAA server-side conversion tracking. Atrium Health/Novant Health clinical vocabulary. HCAHPS/VBP health system vocabulary. Carolinas Medical Centre community.`,
   caseStudies: `Case Study 1: Uptown Charlotte Fintech — BofA/Truist Banking Vocabulary PPC
 Client: Treasury management SaaS, Uptown (\$9M ARR). Challenge: \$115K annual spend on generic vocabulary. New BofA/Truist executives not reached.
 Programme: BofA/Truist treasury vocabulary + FINRA-compliant + banking capital landing pages + Salesforce offline import

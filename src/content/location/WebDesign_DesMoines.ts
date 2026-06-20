@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: DesMoines
 // URL: /web-design-agency-des-moines/
-// Generated: 2026-06-20T04:42:14.632Z
+// Generated: 2026-06-20T05:43:15.341Z
 
 export const WebDesign_DesMoines = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ PRINCIPAL FINANCIAL FINRA/SEC INSTITUTIONAL CREDIBILITY: Principal Financial eva
 EMC INSURANCE/FARM BUREAU ENTERPRISE QUALITY: EMC Insurance Companies and Farm Bureau Financial Services evaluate insurance technology vendor websites with Iowa commercial lines insurance precision: commercial property and casualty service pages, agricultural insurance technology specifics, and FINRA-aware Iowa insurance institutional quality.
 
 UNITYPOINT/MERCYONE YMYL HIPAA CDPA: UnityPoint Health and MercyOne create YMYL healthcare website requirements with HIPAA-native Iowa CDPA-native data architecture.`,
-  features: `FEATURES:
-
-Principal Financial FINRA/SEC Institutional Credibility Architecture:
+  features: `Principal Financial FINRA/SEC Institutional Credibility Architecture:
 For Des Moines insurance and investment technology companies. FINRA Rule 2210-compliant throughout. Retirement plan administration service pages. Group insurance benefits technology descriptions. Principal Bank services. Iowa insurance capital institutional visual quality. CDPA-native analytics.
 
 EMC Insurance/Farm Bureau Enterprise Quality Architecture:
@@ -37,6 +35,8 @@ For Des Moines insurance technology vendors. EMC commercial lines service pages.
 
 UnityPoint/MercyOne YMYL HIPAA CDPA Academic Healthcare Architecture:
 For Des Moines healthcare practices. UnityPoint Health system programme affiliation. MercyOne Iowa vocabulary. HIPAA-native CDPA-native data architecture. YMYL E-E-A-T Iowa academic medical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Des Moines Financial Technology — Principal Financial FINRA Redesign
 Client: Investment analytics, Des Moines (\$6.4M ARR). Challenge: Non-FINRA website. No Principal retirement vocabulary. Institutional dismissal.
 Programme: FINRA-compliant redesign + Principal retirement/group insurance vocabulary + CDPA + CWV (5.0s to 1.4s)

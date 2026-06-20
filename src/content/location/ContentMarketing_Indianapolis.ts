@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Indianapolis
 // URL: /content-marketing-indianapolis/
-// Generated: 2026-06-20T04:42:10.738Z
+// Generated: 2026-06-20T05:43:06.383Z
 
 export const ContentMarketing_Indianapolis = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ ELI LILLY GMP/FDA PHARMACEUTICAL AUTHORITY CONTENT: Indianapolis's most commerci
 CUMMINS COMMERCIAL POWER OPERATIONAL CONTENT: Cummins Inc.'s commercial engine, power solutions, and clean transportation enterprise creates a B2B content marketing opportunity for fleet management technology, commercial vehicle analytics, and clean transportation solutions vendors. Content demonstrating Cummins diesel engine operational vocabulary, clean transportation regulatory developments (EPA and CARB emission standards), and commercial fleet electrification transition content earns above-average organic authority from Indianapolis's most commercially significant manufacturing enterprise.
 
 IU HEALTH YMYL CONTENT: Indiana University Health's academic medical system and IU School of Medicine define the YMYL content standard in Indianapolis — requiring clinical vocabulary precision, IU academic credential display, and HIPAA-compliant content analytics throughout.`,
-  features: `FEATURES:
-
-Eli Lilly GMP/FDA Pharmaceutical Authority Content Programme:
+  features: `Eli Lilly GMP/FDA Pharmaceutical Authority Content Programme:
 For Indianapolis pharmaceutical consulting and services companies. Publicly releasable GMP content library: FDA 21 CFR Part 211 GMP gap assessment methodology, CMC regulatory filing best practices, API manufacturing validation operational guides, drug product stability study design methodology. Pharmaceutical Manufacturing Research Institute (PDA) and ISPE (International Society of Pharmaceutical Engineering) community editorial programme. GEO/AEO first-mover for Indianapolis Eli Lilly pharmaceutical AI search queries.
 
 Cummins Commercial Power Operational Content:
@@ -37,6 +35,8 @@ For Indianapolis fleet and commercial power technology vendors. Cummins commerci
 
 IU Health YMYL Academic Medical Content:
 For Indianapolis healthcare practices and health technology. IU Health and IU School of Medicine clinical vocabulary. Eskenazi Health community content. HIPAA-compliant clinical case studies. YMYL E-E-A-T structure throughout.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Indianapolis Pharma Consulting — Eli Lilly GMP Content Authority
 Client: GMP manufacturing consulting, Indianapolis (\$6.8M). Challenge: Zero GMP content. Lilly procurement not finding through organic. FDA compliance misunderstanding preventing content investment.
 Programme: Publicly releasable GMP content workflow + FDA 21 CFR Part 211 content library + ISPE/PDA community + GEO/AEO

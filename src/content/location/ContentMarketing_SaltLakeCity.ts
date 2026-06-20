@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: SaltLakeCity
 // URL: /content-marketing-salt-lake-city/
-// Generated: 2026-06-20T04:42:10.930Z
+// Generated: 2026-06-20T05:43:07.499Z
 
 export const ContentMarketing_SaltLakeCity = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ SILICON SLOPES ENTERPRISE TECHNOLOGY CONTENT AUTHORITY: Salt Lake City's most co
 GOLDMAN SACHS FINRA-COMPLIANT INSTITUTIONAL INVESTMENT CONTENT: Goldman Sachs's 3,000+ Salt Lake City employees create institutional investment content marketing opportunities for financial technology vendors demonstrating Goldman's operational precision: institutional trading systems operational intelligence, investment banking workflow automation, wealth management platform specifics — within FINRA Rule 2210 compliance boundaries.
 
 UNIVERSITY OF UTAH/PRIMARY CHILDREN'S YMYL ACADEMIC HEALTHCARE CONTENT: University of Utah Health's top-20 US academic medical standing and Primary Children's Hospital's Mountain West paediatric leadership create health technology YMYL content marketing opportunities in the Mountain West's premier academic healthcare market.`,
-  features: `FEATURES:
-
-Silicon Slopes Enterprise Technology Content Authority Programme:
+  features: `Silicon Slopes Enterprise Technology Content Authority Programme:
 For South Jordan, Draper, and Greater SLC enterprise technology vendors. Qualtrics XM driver analysis methodology and optimisation content. Domo BI cloud data pipeline architecture operational intelligence. Pluralsight Skill IQ enterprise assessment methodology. Ancestry.com genealogy technology community content. Enterprise SaaS operational intelligence editorial. Silicon Slopes Summit and Utah Technology Council community editorial programme. GEO/AEO for SLC Silicon Slopes and Qualtrics AI search queries. UCPA-native analytics.
 
 Goldman Sachs FINRA-Compliant Institutional Investment Content:
@@ -37,6 +35,8 @@ For SLC financial technology vendors. FINRA Rule 2210-compliant content workflow
 
 University of Utah/Primary Children's YMYL Academic Content:
 For SLC healthcare practices and health technology. University of Utah Health top-20 academic research community. Primary Children's Hospital Mountain West paediatric programme. Intermountain Health system vocabulary. HIPAA-compliant UCPA-native clinical case studies.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: South Jordan Enterprise Software — Silicon Slopes Qualtrics/Domo Content Authority
 Client: Enterprise analytics, South Jordan (\$6.4M ARR). Challenge: Generic enterprise content. Silicon Slopes Qualtrics/Domo community not finding organically.
 Programme: Qualtrics XM/Domo BI/Pluralsight content + Silicon Slopes Summit community + UCPA-native + GEO/AEO

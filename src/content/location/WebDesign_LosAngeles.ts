@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: LosAngeles
 // URL: /web-design-agency-los-angeles/
-// Generated: 2026-06-20T04:42:14.709Z
+// Generated: 2026-06-20T05:43:15.491Z
 
 export const WebDesign_LosAngeles = {
   service: "WebDesign",
@@ -37,6 +37,15 @@ For Culver City post-production technology, Hollywood entertainment services, an
 
 CCPA-Native Privacy Architecture:
 CPRA-compliant consent management built from design specification stage. Privacy-by-design data minimisation in analytics configuration. Server-side tracking for consent-tier adaptation. Third-party script consent management. CCPA-compliant contact forms. The CCPA-native website that protects LA businesses from California AG enforcement while communicating genuine privacy values to California's most privacy-aware commercial audience.`,
+  pas: ``,
+  services: `LA DTC AND CONSUMER BRAND WEBSITE DESIGN:
+For LA's beauty DTC, lifestyle brands, and creator economy consumer companies. Shopify and WooCommerce at creator economy editorial quality. CCPA-native privacy architecture. Platform-native design language. Creator economy photography direction. The DTC website that converts LA's design-literate consumer community at above-average rates.
+
+LA ENTERTAINMENT B2B WEBSITE DESIGN:
+For Culver City post-production, Hollywood entertainment services, and LA entertainment B2B vendors. Vimeo premium showreel integration. IATSE workflow documentation. Production credit IMDB linking. Streaming platform spec compliance pages. CCPA-native. The entertainment B2B website that earns Netflix and Disney technical team evaluation.
+
+SILICON BEACH ENTERPRISE WEBSITE DESIGN:
+For Santa Monica, Venice, and Playa Vista technology companies. CCPA-native enterprise architecture. Technical precision depth for Silicon Beach engineering-culture buyers. Sub-1.5s LCP performance engineering. AI/ML technical credibility pages. SOC 2/ISO 27001 display. The enterprise website that earns Silicon Beach's demanding technical buyer evaluation.`,
   caseStudies: `Case Study 1: Culver City Post-Production Technology — Entertainment B2B Redesign
 Client: Post-production software, Culver City (\$8.4M ARR). Challenge: Generic SaaS website below entertainment B2B credibility standard. No showreel, no production credits, no IATSE workflow documentation.
 Programme: Vimeo premium showreel integration + IATSE workflow documentation + production credit IMDB linking + streaming spec compliance pages + CCPA-native + sub-1.2s LCP

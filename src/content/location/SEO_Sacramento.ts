@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Sacramento
 // URL: /seo-services-sacramento/
-// Generated: 2026-06-20T04:42:13.868Z
+// Generated: 2026-06-20T05:43:13.996Z
 
 export const SEO_Sacramento = {
   service: "SEO",
@@ -30,6 +30,17 @@ UC DAVIS HEALTH YMYL ACADEMIC MEDICAL SEO: UC Davis Health — an NCI-designated
 
 CCPA/CPRA NATIVE ANALYTICS: California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA) compliance is native throughout all Sacramento SEO measurement — identical to San Diego and Los Angeles requirements.`,
   features: ``,
+  pas: `PROBLEM: The Sacramento government technology consulting company with genuine California CDT and CHHS relationships. Zero California state government IT procurement vocabulary in website or content. CDT just issued an RFP for a \$120M digital government services modernisation programme. State agencies search for qualified vendors in CalATERS and FI\$Cal-familiar operational vocabulary. Company appears for none of these searches. Sacramento's most commercially significant technology B2B vocabulary — California state government IT procurement language — goes entirely uncaptured.
+
+SOLUTION: Clickmasters Sacramento SEO delivers California state government tech B2B authority, CalPERS/CalSTRS FINRA institutional investment, UC Davis Health YMYL, Intel Folsom enterprise, and CCPA-native analytics first-mover architecture.`,
+  services: `SACRAMENTO CALIFORNIA STATE GOVERNMENT TECH B2B SEO:
+For Sacramento government technology vendors. California CDT/CHHS/CDPH procurement vocabulary. CalATERS and FI\$Cal system vocabulary. Digital government service delivery methodology. California IT procurement process content. CCPA/CPRA-native analytics.
+
+SACRAMENTO CALPERS/CALSTRS FINRA INSTITUTIONAL SEO:
+For Sacramento financial technology vendors. CalPERS/CalSTRS institutional pension vocabulary. FINRA Rule 2210-compliant content. Alternative investment analytics. ESG investment integration vocabulary. Public pension fund technology FINRA content.
+
+SACRAMENTO UC DAVIS HEALTH YMYL SEO:
+For Sacramento healthcare practices and health technology. UC Davis Health/UC Davis Medical Center academic vocabulary. UC Davis NCI Comprehensive Cancer Center community. Sutter Health/Dignity Health vocabulary. HIPAA/CCPA-native healthcare analytics.`,
   caseStudies: `Case Study 1: Sacramento Government Tech — California State IT Procurement SEO
 Client: Government technology consulting, Sacramento (\$7.4M). Challenge: Zero CDT/CHHS/California IT procurement vocabulary. State RFP opportunities not finding organically.
 Programme: CDT/CHHS/CalATERS/FI\$Cal vocabulary + digital government methodology + CCPA-native analytics + GEO/AEO

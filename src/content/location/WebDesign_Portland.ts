@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Portland
 // URL: /web-design-agency-portland/
-// Generated: 2026-06-20T04:42:14.860Z
+// Generated: 2026-06-20T05:43:15.904Z
 
 export const WebDesign_Portland = {
   service: "WebDesign",
@@ -37,6 +37,15 @@ For Beaverton and Portland vendors competing for Nike and Adidas procurement eva
 
 Intel Hillsboro Semiconductor B2B Architecture:
 For Hillsboro and Washington County technology and services vendors serving Intel's semiconductor community. SEMI standards certification display. Cleanroom classification (ISO 14644-1). Technical specification pages at the engineering precision that Intel's procurement team evaluates. Functional clarity over decorative design. Sub-1.5s LCP for Intel's enterprise network environments.`,
+  pas: ``,
+  services: `PORTLAND AUTHENTIC-VALUES CONSUMER AND DTC WEBSITE DESIGN:
+For Pearl District sustainable brands, Portland independent businesses, and Pacific Northwest DTC companies. B Corp certification display with specific evidence. bluesign and OEKO-TEX integration. Authentic Oregon visual language. Shopify and WooCommerce at editorial quality. The authentic-values website that earns genuine community trust rather than performed sustainability credibility.
+
+NIKE/ADIDAS ECOSYSTEM VENDOR WEBSITE DESIGN:
+For Beaverton and Portland sustainable material, performance technology, and athletic brand service vendors. bluesign/OEKO-TEX/HIGG architecture. Performance material science specification pages. Supply chain transparency documentation. Nike brand values-aligned visual design. The vendor website that earns Nike and Adidas procurement evaluation invitations.
+
+INTEL HILLSBORO B2B WEBSITE DESIGN:
+For Hillsboro semiconductor services, testing, and technology vendors. SEMI standards certification display. Cleanroom classification pages. Technical specification depth. Functional engineering precision over decorative design. Sub-1.5s LCP. The B2B website that earns Intel ecosystem procurement consideration.`,
   caseStudies: `Case Study 1: Pearl District Sustainable DTC Brand — Authentic-Values Redesign
 Client: Sustainable apparel DTC, Pearl District (\$4.2M revenue, B Corp). Challenge: Generic Shopify template communicating performed rather than genuine sustainability. B Corp certificate not displayed. Shopify conversion 1.2%.
 Programme: Authentic-values redesign + B Corp display with score + bluesign certification architecture + specific carbon data + Oregon visual language + CWV (3.8s to 1.1s)

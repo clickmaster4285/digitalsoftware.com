@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Houston
 // URL: /social-media-marketing-houston/
-// Generated: 2026-06-20T04:42:14.103Z
+// Generated: 2026-06-20T05:43:14.496Z
 
 export const SocialMedia_Houston = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ BILINGUAL SOCIAL MEDIA: Houston's 44% Hispanic/Latino population creates a bilin
 
 TMC HEALTHCARE LINKEDIN: The Texas Medical Center professional community — 106,000 employees across 60+ medical institutions — generates LinkedIn professional activity that creates opportunities for health technology vendors, medical device companies, and healthcare services organisations to build vendor credibility within Houston's world-largest medical complex.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING HOUSTON (ENERGY CORRIDOR B2B):
+For Energy Corridor, Westchase, and Houston energy services companies. API/HSE-technically-precise content: API Q1/Q2/Spec 6D/17D vocabulary, TRIR/LTIR safety data, GOM deepwater operational specifics. OTC and SPE Annual Technical Conference community engagement. ExxonMobil, Shell, and BP ecosystem professional relationship development. Sales Navigator energy procurement pipeline development.
+
+HOUSTON BILINGUAL CONSUMER SOCIAL (INSTAGRAM/FACEBOOK):
+For Houston consumer brands, healthcare practices, and professional services businesses serving the bilingual community. Spanish-language Instagram and Facebook content calibrated to Houston's Mexican-American and Central American communities. Bilingual community management: Spanish and English responses. HIPAA-aware content for healthcare social media. Authentic South Texas cultural content that earns genuine community engagement.
+
+TMC HEALTHCARE PROFESSIONAL LINKEDIN:
+For health technology vendors, medical device companies, and healthcare services organisations competing in the TMC ecosystem. UT Health Houston and UTHealth affiliation display. Clinical credential LinkedIn content. TMC community engagement. HIPAA-aware LinkedIn content for the healthcare professional audience.`,
   caseStudies: `Case Study 1: Energy Corridor Subsea Services — LinkedIn Technical Authority
 Client: Subsea inspection services, Houston (\$22M). Challenge: LinkedIn undermining OTC credibility with generic content. Shell/ExxonMobil procurement not engaging.
 Programme: CTO LinkedIn programme + API Spec 17D/GOM deepwater content + OTC community engagement + Sales Navigator

@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Omaha
 // URL: /google-ads-management-omaha/
-// Generated: 2026-06-20T04:42:12.711Z
+// Generated: 2026-06-20T05:43:11.196Z
 
 export const GoogleAds_Omaha = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ UNION PACIFIC RAIL LOGISTICS GOOGLE ADS: Union Pacific generates rail and supply
 
 NEBRASKA MEDICINE HIPAA NDPA PATIENT ACQUISITION: Nebraska Medicine (NCI-designated cancer centre) and Children's Hospital and Medical Center create healthcare patient acquisition PPC requiring HIPAA server-side conversion tracking and Nebraska NDPA consent management.`,
   features: ``,
+  pas: `PROBLEM: The Omaha investment analytics company spending \$4,800/month on 'analytics consulting Omaha' and 'investment technology Nebraska.' Berkshire's new VP Technology searches 'investment holding company analytics vendor Omaha Berkshire' and 'value investing technology FINRA Nebraska.' Neither in the campaign. \$57K spend misses Berkshire's specific FINRA investment holding vocabulary — the most commercially recognisable investment B2B language in the Great Plains.
+
+SOLUTION: Clickmasters Omaha Google Ads delivers Berkshire FINRA investment, Union Pacific rail logistics, Nebraska Medicine HIPAA NDPA — at Nebraska CPCs below Kansas City and Chicago equivalents.`,
+  services: `OMAHA BERKSHIRE HATHAWAY FINRA INVESTMENT GOOGLE ADS:
+For Omaha financial technology and investment analytics vendors. Berkshire FINRA-compliant vocabulary. Value investing methodology. GEICO/General Re insurance community. Berkshire Annual Meeting May seasonal window. NDPA consent management.
+
+OMAHA UNION PACIFIC RAIL LOGISTICS GOOGLE ADS:
+For Omaha rail and supply chain technology vendors. Union Pacific rail network analytics vocabulary. Freight routing optimisation. Intermodal logistics platform. NDPA consent management.
+
+OMAHA NEBRASKA MEDICINE HIPAA NDPA GOOGLE ADS:
+For Omaha healthcare practices and health technology. HIPAA server-side conversion tracking. NDPA consent management. Nebraska Medicine NCI vocabulary. Children's Hospital paediatric community.`,
   caseStudies: `Case Study 1: Omaha Financial Technology — Berkshire FINRA Investment PPC
 Client: Investment analytics, Omaha (\$6.4M ARR). Challenge: \$57K spend missing Berkshire FINRA investment vocabulary. Non-FINRA.
 Programme: Berkshire FINRA value investing vocabulary + GEICO/General Re community + NDPA + Berkshire Annual Meeting May seasonal

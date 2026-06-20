@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Austin
 // URL: /digital-marketing-agency-austin/
-// Generated: 2026-06-20T04:42:11.060Z
+// Generated: 2026-06-20T05:43:08.245Z
 
 export const DigitalMarketing_Austin = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Austin",
   citySlug: "austin",
-  slug: "/digital-marketing-agency-austin/",
+  slug: "/digital-marketing-agency-in-austin/",
   
   h1: `Digital Marketing Agency Austin — In-Migration Revenue, Tesla/Apple Tech Corridor, and Texas Technology Capital Growth`,
   primaryKw: `digital marketing agency austin`,
@@ -28,6 +28,20 @@ TESLA/APPLE TECH CORRIDOR ENTERPRISE B2B: Tesla Gigafactory Texas in Del Valle a
 
 SERIES A INVESTOR-CREDIBLE DEMAND SIGNAL: Austin's venture-backed technology company ecosystem has a specific digital marketing commercial requirement: investor-credible attribution. Board-level investors evaluate digital marketing through pipeline metrics — enterprise-qualified trial signups, attributed pipeline value, and CAC payback period — not form-fill CPL or vanity engagement metrics.`,
   features: ``,
+  pas: ``,
+  services: `SEO AUSTIN: CA in-migration professional vocabulary authority. Tesla/Apple corridor IATF vocabulary. Authentic Austin consumer. CA vs TX 0% income tax authority content. /seo-services-austin/
+
+GOOGLE ADS AUSTIN: CA in-migration RSU/no-income-tax PPC at 15-25% below coastal CPCs. Tesla IATF vocabulary. Authentic Austin consumer. Series A pipeline attribution. /google-ads-management-austin/
+
+CONTENT MARKETING AUSTIN: CA-to-TX transition authority content library. Tesla/Apple operational precision. Authentic Austin brand content. Capital Factory/Techstars community editorial. /content-marketing-austin/
+
+LINKEDIN AUSTIN: CA in-migration professional LinkedIn authority. Tesla/Apple corridor engineering precision. Authentic Austin professional social. /social-media-marketing-austin/
+
+EMAIL AUSTIN: 5-stage CA in-migration onboarding HubSpot. Tesla/Apple enterprise pipeline nurture. Series A board-ready attribution. /email-marketing-austin/
+
+LOCAL SEO AUSTIN: CA in-migration Bay Area-quality GBP standard. Tesla/Apple proximity signals. South Congress/East Austin authentic neighbourhood GBP. /local-seo-services-austin/
+
+WEB DESIGN AUSTIN: Bay Area in-migration quality credential standard. Tesla/Apple tech corridor precision. Authentic Austin creative brand design. /web-design-agency-austin/`,
   caseStudies: `Case Study 1: South Congress Financial Advisory — CA In-Migration Full Digital Programme
 Client: Fee-only RIA, South Congress (\$280M AUM). Challenge: CA in-migration professionals not finding Austin RSU/tax planning expertise across any digital channel. \$180K annual spend on broad Austin keywords reaching wrong audience.
 Programme: SEO (CA in-migration vocabulary) + Google Ads (RSU/no-income-tax keywords) + LinkedIn (CA-to-TX content) + email (5-stage onboarding) + Local SEO (Bay Area quality GBP)

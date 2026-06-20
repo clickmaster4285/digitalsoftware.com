@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: NewOrleans
 // URL: /social-media-marketing-new-orleans/
-// Generated: 2026-06-20T04:42:14.280Z
+// Generated: 2026-06-20T05:43:14.653Z
 
 export const SocialMedia_NewOrleans = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ ENTERGY CORPORATION ENERGY PROFESSIONAL COMMUNITY: Entergy New Orleans' 3 millio
 
 AUTHENTIC CRESCENT CITY CONSUMER BRAND SOCIAL: New Orleans' French Quarter — one of the world's most commercially and culturally distinctive urban environments — Garden District's antebellum Victorian residential grandeur, and Bywater's emerging arts and culinary community create consumer brand social opportunities for businesses communicating genuine New Orleans identity. Crucially, New Orleans' unique annual events calendar — Mardi Gras (February/March), Jazz Fest (late April-May), French Quarter Festival, Essence Festival, and New Orleans Saints/Pelicans seasons — creates a commercial content calendar that NOLA-authentic brands can exploit for dramatic organic social engagement.`,
   features: ``,
+  pas: ``,
+  services: `NEW ORLEANS OCHSNER/TULANE CLINICAL LINKEDIN:
+For New Orleans health IT vendors. Ochsner Health cardiac/oncology informatics vocabulary. Tulane School of Medicine clinical research methodology. LSU Health Sciences Center vocabulary. Louisiana academic medical Sales Navigator.
+
+NEW ORLEANS ENTERGY ENERGY LINKEDIN:
+For New Orleans energy technology vendors. Entergy grid modernisation operational vocabulary. Rate case regulatory intelligence. Transmission and distribution technology content. Louisiana energy professional community.
+
+NEW ORLEANS AUTHENTIC CRESCENT CITY BRAND SOCIAL:
+For French Quarter, Garden District, and Bywater consumer brands. Mardi Gras seasonal social calendar-aware content. Jazz Fest cultural community timing. French Quarter visitor economy. Garden District Victorian elegance vocabulary. Bywater arts culinary community. Authentic NOLA identity vs generic Southern tourism brand.`,
   caseStudies: `Case Study 1: New Orleans Health IT — Ochsner/Tulane Clinical LinkedIn
 Client: Clinical analytics, New Orleans (\$5.4M ARR). Challenge: Generic LinkedIn. Ochsner/Tulane clinical community not engaging.
 Programme: Ochsner cardiac/oncology/Tulane research vocabulary + LSU Health NOLA community + Ochsner/Tulane Sales Navigator

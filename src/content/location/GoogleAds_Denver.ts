@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Denver
 // URL: /google-ads-management-denver/
-// Generated: 2026-06-20T04:42:12.333Z
+// Generated: 2026-06-20T05:43:10.666Z
 
 export const GoogleAds_Denver = {
   service: "GoogleAds",
@@ -28,6 +28,19 @@ NREL CLEAN ENERGY PROCUREMENT TARGETING: Denver's clean energy ecosystem — anc
 
 IN-MIGRATION CONSUMER AND PROFESSIONAL SERVICES: Denver's 20%+ population growth creates above-average near-me and professional services commercial intent from in-migrants actively establishing service relationships. California and New York professionals relocating to Cherry Creek and Highlands Ranch generate above-average-conversion Google Ads traffic for healthcare, financial advisory, and consumer service businesses that specifically address their in-migration needs.`,
   features: ``,
+  pas: `PROBLEM: The Englewood aerospace manufacturing company has been running Google Ads for 8 months with a \$12,000 monthly budget. The campaigns are generating enquiries — but reviewing the actual enquiries, 85% are from manufacturing students, hobbyist machinists, and companies looking for small-batch prototype work below the company's \$250K minimum order threshold. The ITAR-aware procurement manager at Ball Aerospace who specifically searched for 'AS9100D titanium machining cleared facility Denver Colorado' — the exact search this company should be winning — was not reached because the campaign isn't using ITAR procurement vocabulary as its keyword strategy.
+
+AGITATION: Denver's defence aerospace and clean energy Google Ads markets are underinvested by most Colorado companies — creating a first-mover window where ITAR-bounded, procurement-vocabulary-targeted, CRM-integrated campaigns establish Quality Score advantages and procurement audience data before competition arrives.
+
+SOLUTION: Clickmasters Denver Google Ads delivers ITAR-bounded defence vocabulary campaigns, clean energy NREL-adjacent procurement targeting, and in-migration professional service campaigns — all with CRM pipeline attribution that connects Colorado Google Ads investment to qualified pipeline value.`,
+  services: `DENVER DEFENCE AEROSPACE GOOGLE ADS (ITAR-BOUNDED):
+For Englewood, Aurora, and Colorado Springs defence aerospace supply chain companies. ITAR-bounded ad copy review before every campaign launch — publicly releasable vocabulary only. AS9100D, ITAR registration, DCAA, and cleared facility procurement vocabulary. Lockheed Martin, Ball Aerospace, ULA, and L3Harris contractor ecosystem geo-targeting. Salesforce/HubSpot offline import attributing defence evaluation invitations to specific campaigns.
+
+DENVER CLEAN ENERGY GOOGLE ADS:
+For NREL-adjacent solar, wind, and clean technology companies. Corporate sustainability procurement vocabulary: SCOPE 1/2/3 emissions reduction, net zero, ENERGY STAR. DOE SBIR and ARPA-E programme vocabulary. Utility procurement keyword strategy. Clean energy investment community targeting. CRM pipeline integration for clean energy B2B sales cycles.
+
+COLORADO IN-MIGRATION PROFESSIONAL SERVICES GOOGLE ADS:
+For healthcare, financial advisory, legal, and consumer services targeting Denver's in-migration wave. California-to-Colorado in-migration vocabulary: 'California doctor Colorado,' 'CA-to-CO tax planning,' 'Denver financial adviser California income.' In-migration audience signals. Zip code targeting for Cherry Creek, Highlands Ranch, and the primary in-migration residential clusters.`,
   caseStudies: `Case Study 1: Englewood Aerospace Manufacturer — ITAR-Bounded Defence PPC
 Client: Precision manufacturing, Englewood CO (\$12M, AS9100D/ITAR, cleared facility). Challenge: \$12K/month Google Ads reaching hobbyists and students. 0 defence-qualified evaluations.
 Programme: ITAR-bounded procurement vocabulary + AS9100D/DCAA ad copy + Ball/Lockheed/ULA geo-targeting + Salesforce offline import

@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Raleigh
 // URL: /content-marketing-raleigh/
-// Generated: 2026-06-20T04:42:10.909Z
+// Generated: 2026-06-20T05:43:07.431Z
 
 export const ContentMarketing_Raleigh = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ RTP PHARMA FDA-AWARE CONTENT AUTHORITY: Research Triangle Park's pharmaceutical 
 RED HAT/CISCO ENTERPRISE OPEN SOURCE CONTENT: Red Hat's Durham headquarters and Cisco's RTP campus create a technology enterprise LinkedIn and SEO content marketing opportunity for open source enterprise consulting, network infrastructure, and enterprise technology services companies whose buyer community evaluates vendor content against Red Hat and Cisco's own institutional thought leadership precision.
 
 DUKE/UNC YMYL ACADEMIC MEDICAL CONTENT: Duke University Medical Center and UNC Hospitals Chapel Hill define the YMYL content authority standard for the entire Piedmont Carolinas market. Health technology vendors and independent practices whose content marketing demonstrates genuine Duke Medicine/UNC Health operational vocabulary earn above-average organic authority and procurement consideration.`,
-  features: `FEATURES:
-
-RTP Pharmaceutical FDA-Aware Content Programme:
+  features: `RTP Pharmaceutical FDA-Aware Content Programme:
 For Durham and RTP CROs, CDMOs, and pharmaceutical consulting companies. FDA-aware content review for every piece before publication: no off-label efficacy claims for regulated pharmaceutical products, balanced evidence presentation, IRB-aware clinical research methodology. CMC regulatory content library: FDA 483 response strategy, Type A/B/C meeting preparation methodology, Phase I-III trial operational management, biostatistics operational vocabulary. BioNorth Carolina and PDA (Parenteral Drug Association) editorial programme. IQVIA and CRO community thought leadership. GEO/AEO for RTP pharmaceutical procurement AI search queries.
 
 Red Hat/Cisco Enterprise Open Source Content:
@@ -37,6 +35,8 @@ For Raleigh enterprise technology vendors. Red Hat open source enterprise operat
 
 Duke/UNC YMYL Academic Healthcare Content:
 For Triangle healthcare practices and health technology. Duke Medicine/UNC Health clinical vocabulary content. WakeMed and Rex Hospital community content. HIPAA-compliant clinical case studies. Duke Clinical Research Institute (DCRI) community content for health technology vendors.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Durham CRO — RTP Pharma FDA-Aware Content Authority Programme
 Client: Phase II CRO, Durham (\$8.4M). Challenge: Zero FDA-aware content. Biogen/GSK not finding through organic. FDA compliance concerns preventing content investment.
 Programme: FDA-aware content workflow + CMC/IND/Phase I-III content library + BioNC editorial + GEO/AEO

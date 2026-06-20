@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Atlanta
 // URL: /email-marketing-atlanta/
-// Generated: 2026-06-20T04:42:11.686Z
+// Generated: 2026-06-20T05:43:09.096Z
 
 export const EmailMarketing_Atlanta = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ FORTUNE 500 ATLANTA VENDOR PIPELINE EMAIL: Atlanta's Fortune 500 procurement cyc
 TRANSACTION ALLEY FINTECH EMAIL: Atlanta's designation as Transaction Alley — NCR Voyix, Global Payments, Fiserv — creates a specific fintech B2B email context. PCI-DSS compliance communication content, payment processing technology updates, and the enterprise payment industry operational intelligence that earns genuine engagement from Atlanta's financial technology procurement community. PCI-DSS-aware email content: no cardholder data (PAN) in email examples, appropriate scope framing for sensitive financial data discussion.
 
 GEORGIA FILM AND ENTERTAINMENT EMAIL: Atlanta's \$3.4B+ film economy creates email marketing opportunities for production technology vendors, creative services companies, and entertainment industry businesses maintaining relationships with the Netflix, Disney+, and Amazon Studios production teams that operate from Atlanta's Pinewood Studios complex.`,
-  features: `FEATURES:
-
-Fortune 500 Atlanta Vendor Pipeline HubSpot Nurture:
+  features: `Fortune 500 Atlanta Vendor Pipeline HubSpot Nurture:
 For the companies competing for Coca-Cola, Delta, Home Depot, NCR, and UPS procurement. Company-specific operational vocabulary content tracks: Delta IDG and irregular operations management content for Delta contacts, Coca-Cola supply chain velocity for SCM contacts, Home Depot Pro segment for contractor channel contacts. 6-stage Atlanta Fortune 500 vendor development sequence. HubSpot Salesforce integration attributing email-nurtured contacts to Fortune 500 pipeline. Deal-stage-triggered communication for Atlanta's 90-180 day Fortune 500 procurement cycles.
 
 Transaction Alley PCI-DSS-Aware Fintech Email:
@@ -37,6 +35,15 @@ For NCR Voyix, Global Payments, and Fiserv ecosystem vendors. PCI-DSS compliance
 
 HIPAA Healthcare Patient Retention:
 For Emory Healthcare-adjacent practices, Piedmont Health system-affiliated community physicians, and Atlanta's private healthcare community. HIPAA-covered ESP with BAA. Appointment reminders. Post-care follow-up. Lapsed patient reactivation. Annual preventive care.`,
+  pas: ``,
+  services: `ATLANTA FORTUNE 500 VENDOR EMAIL (HUBSPOT):
+For companies competing for Coca-Cola, Delta, Home Depot, NCR, and UPS procurement. Fortune 500-specific operational vocabulary. Deal-stage triggers for Fortune 500 cycles. Named account sequences. Salesforce integration.
+
+ATLANTA TRANSACTION ALLEY FINTECH EMAIL:
+For NCR Voyix, Global Payments, and Fiserv ecosystem vendors. PCI-DSS-aware content. Payment processing operational intelligence. EMV/tokenisation vocabulary. FinTech Atlanta community content.
+
+ATLANTA HEALTHCARE PATIENT EMAIL (HIPAA):
+For Emory-adjacent and Piedmont-affiliated practices. HIPAA ESP (HubSpot BAA). Appointment reminders. Lapsed reactivation. Annual care. HIPAA-compliant analytics.`,
   caseStudies: `Case Study 1: Midtown Technology Company — Delta/Fortune 500 Pipeline Nurture
 Client: AI analytics SaaS, Midtown Atlanta (\$8.4M ARR). Challenge: Coca-Cola and Delta procurement contacts going cold after initial meetings.
 Programme: Delta IDG operations content + Coca-Cola supply chain content + Fortune 500 6-stage + HubSpot Salesforce import

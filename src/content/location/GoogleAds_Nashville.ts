@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Nashville
 // URL: /google-ads-management-nashville/
-// Generated: 2026-06-20T04:42:12.668Z
+// Generated: 2026-06-20T05:43:11.101Z
 
 export const GoogleAds_Nashville = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ AMAZON EAST BANK B2B GOOGLE ADS: Amazon's East Bank campus has imported the same
 
 AUTHENTIC MUSIC CITY CONSUMER GOOGLE ADS: Nashville's authentic creative economy — Germantown artisan, East Nashville independent, Music Row heritage — creates consumer brand Google Ads opportunities for businesses communicating genuine Nashville cultural character with Tennessee commercial directness.`,
   features: ``,
+  pas: `PROBLEM: The Brentwood health IT company spending \$12,000/month on Google Ads targeting 'healthcare software Nashville' and 'health IT solutions Tennessee.' HCA Healthcare's procurement team searches 'HCAHPS VBP analytics vendor Nashville' and 'ACO risk adjustment technology Nashville.' Neither search appears in the campaign's keyword set. The \$144K annual spend reaches a broad healthcare technology audience but misses the specific HCA/Envision procurement vocabulary that would reach Nashville's most commercially valuable healthcare capital procurement staff.
+
+SOLUTION: Clickmasters Nashville Google Ads delivers HCAHPS/VBP/ACO healthcare capital vocabulary, Amazon East Bank analytical precision B2B, and authentic Music City consumer campaigns — at Tennessee CPCs 20-25% below national averages.`,
+  services: `NASHVILLE HEALTHCARE CAPITAL GOOGLE ADS (HIPAA):
+For Brentwood and Nashville health IT vendors. HCAHPS/VBP/ACO vocabulary. HIPAA server-side conversion tracking. HCA/Envision audience signals. HIPAA-compliant landing pages.
+
+NASHVILLE AMAZON EAST BANK B2B GOOGLE ADS:
+For Nashville technology and professional services companies. Amazon analytical precision vocabulary. AWS integration vocabulary. Series A investor-credible attribution. CRM offline import.
+
+NASHVILLE AUTHENTIC CONSUMER GOOGLE ADS:
+For Germantown, East Nashville, and Music City brands. Authentic Nashville vocabulary. Music Row heritage audience signals. Tennessee commercial directness in ad copy.`,
   caseStudies: `Case Study 1: Brentwood Health IT — HCA/Envision Healthcare Capital PPC
 Client: Clinical analytics SaaS, Brentwood (\$8.4M ARR). Challenge: HCA/Envision procurement vocabulary absent. \$144K annual spend reaching wrong audience.
 Programme: HCAHPS/VBP/ACO vocabulary + HIPAA server-side + HCA audience signals + HIPAA landing pages

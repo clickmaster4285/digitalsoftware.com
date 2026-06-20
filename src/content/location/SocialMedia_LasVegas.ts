@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: LasVegas
 // URL: /social-media-marketing-las-vegas/
-// Generated: 2026-06-20T04:42:14.184Z
+// Generated: 2026-06-20T05:43:14.570Z
 
 export const SocialMedia_LasVegas = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ CA IN-MIGRATION NEVADA PROFESSIONAL COMMUNITY: Las Vegas's Henderson, Summerlin,
 
 NEVADA AUTHENTIC BRAND SOCIAL: Las Vegas's authentic commercial community — beyond the Strip — has a distinctive identity in Henderson's family suburban character, Downtown Las Vegas's First Friday arts community, Summerlin's premium master-planned character, and Red Rock Canyon outdoor community. Consumer brands communicating genuine Nevada commercial identity earn above-average engagement from the authentic Nevada community that increasingly distinguishes itself from 'Vegas brand' commercial approximations.`,
   features: ``,
+  pas: ``,
+  services: `LAS VEGAS GAMING ENTERPRISE LINKEDIN:
+For gaming technology vendors. MGM/Caesars/Wynn/Station enterprise LinkedIn. Casino-operational vocabulary: RevPAR, NGCB compliance, casino floor analytics. Gaming enterprise Sales Navigator pipeline.
+
+LAS VEGAS CA IN-MIGRATION PROFESSIONAL LINKEDIN:
+For financial advisory, estate planning, healthcare. CA-to-NV financial transition content. Nevada 0% income tax professional community LinkedIn. Henderson/Summerlin in-migration professional community engagement.
+
+LAS VEGAS NEVADA AUTHENTIC BRAND SOCIAL:
+For Henderson, Downtown Las Vegas, and Red Rock community consumer brands. Henderson family suburban vocabulary. First Friday Downtown arts community content. Red Rock Canyon outdoor community. Authentic Nevada brand vs Strip commercial approximation.`,
   caseStudies: `Case Study 1: Henderson Gaming Technology — MGM/Caesars Enterprise LinkedIn
 Client: Casino analytics SaaS, Henderson (\$8M ARR). Challenge: Generic hospitality LinkedIn. New MGM/Caesars technology executives not engaging.
 Programme: Casino-operational vocabulary LinkedIn + RevPAR/NGCB vocabulary + MGM/Caesars Sales Navigator + gaming enterprise thought leadership

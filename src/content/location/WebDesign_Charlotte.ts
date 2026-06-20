@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Charlotte
 // URL: /web-design-agency-charlotte/
-// Generated: 2026-06-20T04:42:14.579Z
+// Generated: 2026-06-20T05:43:15.227Z
 
 export const WebDesign_Charlotte = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ BANKING CAPITAL INSTITUTIONAL CREDIBILITY: Charlotte's banking capital creates a
 NASCAR MOTORSPORTS ENTERPRISE VENDOR AUTHORITY: The Concord motorsports enterprise community — Team Penske, Hendrick Motorsports, Joe Gibbs Racing, Richard Childress Racing — evaluates vendor websites with the operational precision of racing engineering professionals whose work demands the highest technical performance standards in American sports. Motorsports technology vendors, engineering services companies, and racing supply chain businesses competing for NASCAR team vendor evaluation need websites demonstrating genuine motorsports operational vocabulary, racing technical credentials (SAE motorsports engineering, NASCAR technical vocabulary), and the enterprise vendor visual quality that \$300M+ racing operations evaluate for supplier relationships.
 
 ATRIUM HEALTH/NOVANT YMYL HEALTHCARE DESIGN: Charlotte's Atrium Health and Novant Health define the YMYL E-E-A-T standard for healthcare website content in the Piedmont Carolinas. Healthcare practices and health technology vendors competing in Charlotte's growing healthcare market need websites with Atrium/Novant affiliation display, Carolinas Medical Center academic credential architecture, and HIPAA-native data handling.`,
-  features: `FEATURES:
-
-Banking Capital Institutional Credibility Architecture:
+  features: `Banking Capital Institutional Credibility Architecture:
 For Uptown Charlotte fintech and banking technology companies. FINRA Rule 2210 and SEC Marketing Rule compliance integrated from wireframe. GIPS-compliant performance display where applicable. Named institutional case studies at BofA/Truist metric depth with appropriate confidentiality. Specific banking operational vocabulary in service descriptions (treasury management, commercial lending, capital markets analytics). Banking capital professional community visual quality — understated institutional precision. Charlotte business community photography.
 
 NASCAR Motorsports Enterprise Vendor Authority Architecture:
@@ -37,6 +35,8 @@ For Concord and Greater Charlotte motorsports technology and engineering compani
 
 Atrium Health/Novant YMYL Healthcare Architecture:
 For Charlotte healthcare practices and health technology companies. Atrium Health and Novant Health system affiliation display. Carolinas Medical Center academic credential. UNC Charlotte/Wake Forest School of Medicine faculty attribution where applicable. HIPAA-native data architecture. YMYL E-E-A-T optimised content structure.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Uptown Charlotte Fintech — BofA/Truist Banking Institutional Redesign
 Client: Treasury management SaaS, Uptown (\$9M ARR). Challenge: Website without banking institutional credibility. BofA/Truist procurement dismissal during digital due diligence.
 Programme: FINRA/SEC compliance redesign + banking vocabulary service pages + institutional visual quality + sub-1.6s LCP

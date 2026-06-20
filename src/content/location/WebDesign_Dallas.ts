@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Dallas
 // URL: /web-design-agency-dallas/
-// Generated: 2026-06-20T04:42:14.616Z
+// Generated: 2026-06-20T05:43:15.299Z
 
 export const WebDesign_Dallas = {
   service: "WebDesign",
@@ -37,6 +37,15 @@ For the enterprise technology companies competing in the AT&T Telecom Corridor. 
 
 FINRA-Compliant Financial Services Architecture:
 For Uptown and Plano investment advisory, wealth management, and financial technology companies. FINRA Rule 2210 compliance throughout. SEC Marketing Rule (2022) testimonials. GIPS-compliant performance display. ADV Part 2 integration. Texas State Securities Board awareness.`,
+  pas: ``,
+  services: `DFW FORTUNE 500 VENDOR WEBSITE DESIGN:
+For companies competing for AT&T, Toyota, Schwab, CBRE, and McKesson procurement. Fortune 500 institutional credibility architecture at Texas commercial directness standard. ISO/SOC 2 display. Named executive credentials. Fortune 500-scale case studies. CWV performance engineering (sub-2.0s LCP). WCAG 2.1 AA.
+
+DFW TELECOM CORRIDOR ENTERPRISE WEBSITE DESIGN:
+For Richardson, Plano, and the AT&T Telecom Corridor enterprise technology vendors. OSS/BSS capability documentation. Carrier-grade reliability pages. 5G architecture vocabulary. AT&T/Ericsson ecosystem partnership display.
+
+DFW PROFESSIONAL SERVICES WEBSITE DESIGN:
+For Uptown, Frisco, and DFW management consulting, financial advisory, and legal companies. FINRA compliance for financial services. Texas State Bar-compliant content for legal. Texas commercial directness in value proposition. Institutional visual quality at the standard DFW's Fortune 500 professional community evaluates.`,
   caseStudies: `Case Study 1: Plano Enterprise Software — Telecom Corridor Credibility Redesign
 Client: OSS/BSS integration software, Plano (\$9.4M ARR). Challenge: Website without Telecom vocabulary, no AT&T capability documentation. Procurement teams dismissing during digital due diligence.
 Programme: OSS/BSS capability pages + carrier-grade reliability docs + AT&T ecosystem display + CWV (4.2s to 1.4s)

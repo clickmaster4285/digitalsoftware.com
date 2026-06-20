@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: LasVegas
 // URL: /content-marketing-las-vegas/
-// Generated: 2026-06-20T04:42:10.771Z
+// Generated: 2026-06-20T05:43:06.481Z
 
 export const ContentMarketing_LasVegas = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ GAMING ENTERPRISE B2B CONTENT AUTHORITY: Las Vegas's MGM Resorts, Caesars Entert
 CA IN-MIGRATION NEVADA FINANCIAL TRANSITION CONTENT: Las Vegas's California in-migration wave creates the most commercially significant content marketing opportunity in Nevada — the CA-origin professional community actively searches for and consumes content addressing their specific Nevada transition needs: California vs Nevada 0% state income tax (first-year optimisation), RSU equity compensation Nevada planning (California exits vs Nevada holds), Nevada estate planning vs California Proposition 19, and Nevada business entity advantages vs California S-Corp structures. Financial advisory, estate planning, and professional services businesses that build this content library earn above-average organic authority and conversion from Las Vegas's most commercially valuable demographic.
 
 NEVADA COMMERCIAL ADVANTAGE CONTENT: Nevada's commercial advantages — 0% state income tax, Nevada LLC privacy and formation benefits, Nevada domestic asset protection trust (DAPT) strength, and Nevada's favourable trust law — create a specific commercial content library opportunity for estate planning attorneys, formation services, and financial advisory businesses whose buyer community actively researches Nevada's commercial advantages relative to California and other high-tax states.`,
-  features: `FEATURES:
-
-Gaming Enterprise B2B Content Authority Programme:
+  features: `Gaming Enterprise B2B Content Authority Programme:
 For Henderson gaming technology and professional services companies. Gaming enterprise content library: RevPAR optimisation case studies, NGCB compliance process insights, casino floor analytics methodology, gaming workforce analytics operational content. GGL (Global Gaming League) and AGEM (Association of Gaming Equipment Manufacturers) editorial programme. G2E (Global Gaming Expo) thought leadership content. The gaming enterprise content library that earns MGM and Caesars pre-engagement credibility.
 
 California In-Migration Nevada Financial Transition Content Library:
@@ -37,6 +35,8 @@ For Henderson/Summerlin financial advisory, estate planning, and professional se
 
 Nevada Commercial Advantage Content:
 For formation services, estate planning, and asset protection businesses. Nevada DAPT (Domestic Asset Protection Trust) content authority. Nevada LLC formation and privacy advantages vs competing states. Nevada 0% income tax business entity optimisation. Nevada trust law authority content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Henderson Gaming Technology — Gaming Enterprise Content Authority
 Client: Casino analytics SaaS, Henderson (\$8M ARR). Challenge: Generic hospitality content. MGM/Caesars procurement not finding gaming operational authority.
 Programme: RevPAR/NGCB/gaming operations content + G2E editorial + GGL community + GEO/AEO gaming AI search

@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Seattle
 // URL: /google-ads-management-seattle/
-// Generated: 2026-06-20T04:42:12.897Z
+// Generated: 2026-06-20T05:43:11.521Z
 
 export const GoogleAds_Seattle = {
   service: "GoogleAds",
@@ -26,6 +26,19 @@ AMAZON-STANDARD GOOGLE ADS ATTRIBUTION: The CMO at a South Lake Union B2B SaaS c
 
 MHMD-COMPLIANT HEALTHCARE GOOGLE ADS: Washington's MHMD Act creates specific requirements for healthcare Google Ads conversion tracking. Healthcare conversion events — appointment bookings, condition-specific form submissions, and patient portal registrations — may generate MHMD-regulated consumer health data. Standard Google Ads conversion tracking for healthcare generates MHMD compliance exposure. MHMD-compliant server-side conversion tracking protects Washington healthcare practices from AG enforcement while maintaining the campaign performance data needed for Google Ads optimisation.`,
   features: ``,
+  pas: `PROBLEM: The Bellevue Microsoft ecosystem SaaS company has run Google Ads at \$55,000/month for 16 months — \$880,000 in paid investment. Monthly reports show 340 conversions at an average CPL of \$162. At the quarterly business review, the engineering-culture CEO asks: how many of those 340 conversions became enterprise trial signups? The answer: 22. The actual enterprise-qualified CPL is \$4,000. The Quality Score average across the account is 4.2 — which at the \$45 average CPC means the company is paying approximately \$13.50 more per click than a QS 8 competitor would pay for the same position. The \$880,000 investment is operating at an efficiency level that would not survive Amazon's internal investment evaluation framework.
+
+AGITATION: Seattle's Google Ads market is among the most technically demanding in the US — the engineering-culture buyers who evaluate vendor websites also evaluate the precision and relevance of the ads they clicked. Generic B2B ad copy earns high bounce rates from Seattle's technically sophisticated commercial audience.
+
+SOLUTION: Clickmasters Seattle Google Ads delivers Amazon-standard attribution, QS management programme, MHMD-compliant healthcare tracking, and technically-precise enterprise ad copy — and reports in qualified pipeline value.`,
+  services: `SEATTLE AWS/AZURE ECOSYSTEM B2B GOOGLE ADS:
+For South Lake Union and Bellevue technology companies. Amazon-standard CRM attribution: Salesforce/HubSpot offline conversion import, enterprise trial-to-pipeline documentation, QBR-ready pipeline reporting. Engineering-community-calibrated ad copy: technically precise, specific vocabulary, no generic 'enterprise solutions' language. QS management programme targeting QS 7+ across all priority keywords. AWS/Azure ecosystem enterprise buyer audience signals.
+
+SEATTLE HEALTHCARE GOOGLE ADS (MHMD COMPLIANT):
+For Washington healthcare practices and health technology companies. MHMD-compliant server-side conversion tracking: appointment bookings and condition-specific form submissions excluded from standard Google Ads tracking events. HIPAA dual-compliance. Washington AG-aware conversion event configuration. Patient acquisition campaigns with MHMD-protected analytics.
+
+SEATTLE PACIFIC NW AUTHENTIC CONSUMER AND B2B:
+For outdoor brands, sustainable consumer companies, and Pacific Northwest B2B businesses. Authenticity-calibrated ad copy: specific certifications (B Corp, bluesign) over generic sustainability claims. Pacific NW cultural vocabulary. CCPA-adjacent consent management.`,
   caseStudies: `Case Study 1: Bellevue Microsoft Ecosystem SaaS — Amazon-Standard Attribution Rebuild
 Client: DevOps SaaS, Bellevue (\$18M ARR). Challenge: \$880K Google Ads investment, 340 conversions at \$162 CPL. Actual enterprise-qualified CPL \$4,000. QS average 4.2.
 Programme: Salesforce CRM import + enterprise vocabulary + QS programme (4.2 to 7.8) + engineering-culture ad copy

@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Minneapolis
 // URL: /social-media-marketing-minneapolis/
-// Generated: 2026-06-20T04:42:14.245Z
+// Generated: 2026-06-20T05:43:14.624Z
 
 export const SocialMedia_Minneapolis = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ FORTUNE 500 MINNESOTA INSTITUTIONAL SOCIAL: Target, UnitedHealth Group, Best Buy
 
 SCANDINAVIAN COMMERCIAL SOCIAL CULTURE: Minneapolis's Scandinavian heritage creates a professional social media culture that is sceptical of excessive self-promotion, values specific evidence over aspirational claims, and rewards the understated professional authority that demonstrably knows its subject over the aggressively promotional brand that simply claims it.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING MINNEAPOLIS (MEDICAL ALLEY HEALTHCARE):
+For Plymouth, Eden Prairie, and Minneapolis health technology and device companies. KLAS citation LinkedIn content: specific KLAS scores, measurement year, and category. Peer-reviewed clinical evidence citations (NEJM, JAMA, CHEST) in thought leadership. HIPAA-aware content review. HIMSS editorial community engagement. IDN procurement vocabulary: ACO, episode-based payment, HCAHPS, VBP operational content. Mayo Clinic and University of Minnesota Medical School credential display where applicable. The Medical Alley LinkedIn programme that earns clinical credibility from Minnesota's most sophisticated healthcare evaluators.
+
+FORTUNE 500 MINNESOTA PROFESSIONAL LINKEDIN:
+For the management consulting, technology, and professional services companies competing for Target, UnitedHealth, Best Buy, 3M, and General Mills procurement. Fortune 500 MN operational vocabulary per company: Target supply chain velocity, UnitedHealth value-based care analytics, 3M advanced materials science. FINRA-compliant content for UnitedHealth ecosystem financial services. Scandinavian-understatement calibration: specific evidence, institutional authority, no excessive self-promotion.
+
+TWIN CITIES CONSUMER AND PROFESSIONAL BRAND SOCIAL:
+For Minneapolis-St. Paul consumer brands, hospitality, and professional services. Authentic Minnesota North Star brand content. Uptown/North Loop creative community Instagram. Scandinavian design aesthetic calibration in visual social content.`,
   caseStudies: `Case Study 1: Eden Prairie Health IT — Medical Alley KLAS LinkedIn Authority
 Client: Population health analytics SaaS, Eden Prairie (\$12M ARR). Challenge: Generic LinkedIn. IDN supply chain director dismissing content as 'digital transformation platitudes.'
 Programme: CCO LinkedIn programme + KLAS citation content + NEJM/JAMA citations + HIMSS community + HIPAA-aware review

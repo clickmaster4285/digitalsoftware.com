@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Baltimore
 // URL: /content-marketing-baltimore/
-// Generated: 2026-06-20T04:42:10.573Z
+// Generated: 2026-06-20T05:43:05.913Z
 
 export const ContentMarketing_Baltimore = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ JOHNS HOPKINS #1 WORLD-CLASS YMYL CONTENT AUTHORITY: Baltimore's most commercial
 T. ROWE PRICE FINRA-COMPLIANT INSTITUTIONAL INVESTMENT CONTENT: T. Rowe Price's \$1.3 trillion AUM creates a FINRA-compliant institutional investment content marketing opportunity for financial technology vendors. Content demonstrating T. Rowe Price equity research methodology, quantitative investment strategies operational intelligence, and global fixed income analytics — within FINRA Rule 2210 compliance boundaries — earns above-average organic authority from Baltimore's most commercially significant investment management enterprise.
 
 UNDER ARMOUR SPORTS PERFORMANCE BRAND CONTENT: Under Armour's Baltimore Brand House creates a sports performance brand content marketing opportunity for retail analytics and creative technology vendors demonstrating sports brand lifecycle management, athletic apparel retail category management, and sports marketing ROI methodology vocabulary.`,
-  features: `FEATURES:
-
-Johns Hopkins #1 World-Class YMYL Content Authority Programme:
+  features: `Johns Hopkins #1 World-Class YMYL Content Authority Programme:
 For Baltimore health IT vendors. Armstrong Institute for Patient Safety Zero Harm methodology articles. Bloomberg School epidemiology and biostatistics research community content. Johns Hopkins Medicine clinical trial innovation. Johns Hopkins Technology Ventures partnership community. NEJM/JAMA precision clinical content editorial. AHRQ (Agency for Healthcare Research and Quality) community editorial. GEO/AEO for Baltimore Johns Hopkins and Bloomberg School AI search queries.
 
 T. Rowe Price FINRA-Compliant Institutional Investment Content:
@@ -37,6 +35,8 @@ For Baltimore financial technology companies. FINRA Rule 2210 compliance review 
 
 Under Armour Sports Performance Brand Content:
 For Baltimore creative technology and retail analytics vendors. Sports performance brand lifecycle management content. Athletic apparel retail category management methodology. Sports marketing ROI measurement content. Under Armour Brand House seasonal planning intelligence.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Baltimore Health IT — Johns Hopkins #1 World-Class Content Authority
 Client: Clinical analytics, Baltimore (\$7.4M ARR). Challenge: Generic health IT content below Johns Hopkins #1 world-class standard.
 Programme: Armstrong Institute/Bloomberg/Medicine content library + NEJM/JAMA precision + AHRQ community + GEO/AEO

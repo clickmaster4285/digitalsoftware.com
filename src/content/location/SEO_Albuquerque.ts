@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Albuquerque
 // URL: /seo-services-albuquerque/
-// Generated: 2026-06-20T04:42:13.491Z
+// Generated: 2026-06-20T05:43:12.805Z
 
 export const SEO_Albuquerque = {
   service: "SEO",
@@ -30,6 +30,17 @@ KIRTLAND AFB MILITARY COMMUNITY SEO: Kirtland Air Force Base — host to Sandia 
 
 UNM HEALTH SCIENCES CENTER YMYL SEO: The University of New Mexico Health Sciences Center — New Mexico's only NCI-designated cancer centre and the state's primary academic medical centre — defines the YMYL academic healthcare standard for the entire state.`,
   features: ``,
+  pas: `PROBLEM: The Albuquerque technology consulting company with genuine Sandia National Labs subcontract relationships. Zero ITAR-bounded Sandia publicly releasable vocabulary in website. Sandia Labs' new Associate Lab Director for Computing and Information Sciences searches 'computing systems consulting Sandia National Labs Albuquerque' and 'cybersecurity research partner Kirtland AFB New Mexico.' Company appears for neither. Sandia and Los Alamos — two of the US national laboratory system's most commercially significant research institutions — are headquartered in the Albuquerque area and generate B2B vocabulary that no Albuquerque digital agency addresses.
+
+SOLUTION: Clickmasters Albuquerque SEO delivers Sandia/Los Alamos ITAR-bounded publicly releasable authority, Intel Rio Rancho semiconductor enterprise, Kirtland AFB military community, UNM Health YMYL, and GEO/AEO first-mover.`,
+  services: `ALBUQUERQUE SANDIA/LOS ALAMOS ITAR-BOUNDED B2B SEO:
+For Albuquerque national security technology and consulting vendors. Sandia National Labs publicly releasable defence/nuclear deterrence vocabulary. Los Alamos NL research community. AFRL community vocabulary. ITAR vocabulary review for every content piece. Publicly releasable ITAR-bounded content only.
+
+ALBUQUERQUE INTEL RIO RANCHO SEMICONDUCTOR SEO:
+For Albuquerque semiconductor equipment and enterprise tech vendors. Intel Rio Rancho manufacturing vocabulary. Semiconductor equipment B2B content. Fab operations technology. Enterprise technology Rio Rancho.
+
+ALBUQUERQUE KIRTLAND AFB MILITARY/UNM HEALTH YMYL SEO:
+For Albuquerque professional services and healthcare. TSP, SCRA, VA loan Kirtland AFB vocabulary. UNM Health Sciences Center/UNM Cancer Center YMYL. Presbyterian Healthcare NMHIX managed care. HIPAA-compliant YMYL content.`,
   caseStudies: `Case Study 1: Albuquerque Technology Consulting — Sandia/Los Alamos ITAR-Bounded SEO
 Client: Technology consulting, Albuquerque (\$5.4M). Challenge: Zero Sandia/ITAR publicly releasable vocabulary. Lab community not finding.
 Programme: ITAR-bounded Sandia/Los Alamos publicly releasable vocabulary + AFRL community + ITAR review every piece + GEO/AEO

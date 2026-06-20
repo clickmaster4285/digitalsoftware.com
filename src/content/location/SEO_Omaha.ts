@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Omaha
 // URL: /seo-services-omaha/
-// Generated: 2026-06-20T04:42:13.788Z
+// Generated: 2026-06-20T05:43:13.806Z
 
 export const SEO_Omaha = {
   service: "SEO",
@@ -32,6 +32,17 @@ NEBRASKA MEDICINE AND UNMC YMYL SEO: Nebraska Medicine — affiliated with the U
 
 NEBRASKA NDPA ANALYTICS ACCURACY: Nebraska Data Privacy Act (NDPA, effective January 1, 2025) creates analytics compliance requirements for all Omaha digital marketing channels.`,
   features: ``,
+  pas: `PROBLEM: The Omaha financial technology company with genuine Berkshire Hathaway community relationships. Zero Berkshire investment holding company vocabulary in website. Berkshire appointed a new VP of Technology from JPMorgan Chase. He searches 'investment holding company analytics vendor Omaha Berkshire Hathaway' and 'value investing technology partner Nebraska FINRA.' Company appears for neither. Berkshire Hathaway — the world's most recognisable investment holding company — is headquartered in Omaha and generates FINRA/SEC investment B2B vocabulary that no Omaha SEO agency addresses at the required precision.
+
+SOLUTION: Clickmasters Omaha SEO delivers Berkshire Hathaway FINRA/SEC investment authority, Union Pacific rail logistics, ConAgra food manufacturing, Nebraska Medicine YMYL, NDPA-native analytics, and GEO/AEO first-mover.`,
+  services: `OMAHA BERKSHIRE HATHAWAY FINRA/SEC INVESTMENT SEO:
+For Omaha financial technology and investment analytics vendors. Berkshire Hathaway investment holding company vocabulary. FINRA Rule 2210-compliant content. Value investing methodology. Mutual of Omaha insurance vocabulary. NDPA-native analytics.
+
+OMAHA UNION PACIFIC/CONAGRA LOGISTICS AND MANUFACTURING SEO:
+For Omaha logistics technology and food manufacturing vendors. Union Pacific rail logistics vocabulary. ConAgra food manufacturing B2B content. Gallup research analytics vocabulary. NDPA-native analytics.
+
+OMAHA NEBRASKA MEDICINE/UNMC YMYL SEO:
+For Omaha healthcare practices and health technology. Nebraska Medicine NCI Cancer Centre vocabulary. UNMC academic research vocabulary. Children's Hospital and Medical Center paediatric vocabulary. HIPAA/NDPA-native analytics.`,
   caseStudies: `Case Study 1: Omaha Financial Technology — Berkshire Hathaway FINRA/SEC SEO
 Client: Investment analytics, Omaha (\$6.4M ARR). Challenge: Zero Berkshire investment holding vocabulary. New VP Technology not finding.
 Programme: Berkshire Hathaway FINRA-compliant vocabulary + Mutual of Omaha insurance + NDPA-native + GEO/AEO

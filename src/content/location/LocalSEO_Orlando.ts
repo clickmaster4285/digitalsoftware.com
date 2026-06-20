@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Orlando
 // URL: /local-seo-services-orlando/
-// Generated: 2026-06-20T04:42:13.307Z
+// Generated: 2026-06-20T05:43:12.459Z
 
 export const LocalSEO_Orlando = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ ADVENTHEALTH/NEMOURS YMYL ACADEMIC HEALTHCARE CREDENTIAL: AdventHealth's Central
 
 LAKE NONA/WINTER PARK PROFESSIONAL QUALITY STANDARD: Lake Nona's Medical City professional community and Winter Park's established Park Avenue professional community evaluate professional services GBPs with the institutional quality standard of an internationally-recruited medical campus and a wealthy independent suburb.`,
   features: ``,
+  pas: `PROBLEM: The Lake Nona financial advisory with a Disney cast member technology professional and UCF College of Medicine physician client base — 20 reviews at 4.7 stars, generic 'Lake Nona wealth management' GBP, no CFA verification, no Disney/UCF COM community vocabulary, non-SB 262 review analytics. The new Disney Parks VP Experience Technology who relocated from San Francisco searches 'fee-only financial adviser Lake Nona CFA Disney professional Orlando.' GBP: 20 reviews (San Francisco adviser had 140+), no CFA Institute verification, no Disney community signal. She selects the Lake Nona firm with 108 reviews, CFA Institute verification, 'specialists in financial planning for Disney, Universal, and UCF Health professionals in Lake Nona and Lake Mary.'
+
+SOLUTION: Clickmasters Orlando Local SEO provides the Disney/Universal proximity, AdventHealth/Nemours academic medical, and Lake Nona/Winter Park professional quality GBP programme.`,
+  services: `ORLANDO DISNEY/UNIVERSAL HOSPITALITY PROXIMITY B2B GBP:
+For Lake Nona and Greater Orlando hospitality technology vendors. Disney/Universal guest experience vocabulary in GBP service descriptions. Theme park operations proximity signals. Hospitality tech professional photography. SB 262-native review analytics.
+
+ORLANDO ADVENTHEALTH/NEMOURS YMYL ACADEMIC GBP:
+For Orlando healthcare practices. AdventHealth network affiliation display. Nemours Children's Health programme affiliation. UCF College of Medicine faculty attribution. HIPAA-compliant Florida SB 262-native review management.
+
+ORLANDO LAKE NONA/WINTER PARK PROFESSIONAL QUALITY GBP:
+For Lake Nona Medical City and Winter Park professional services. CFA/CFP with CFA Institute/CFP Board verification. Disney/UCF COM professional community vocabulary. Park Avenue Winter Park professional photography. SB 262-native review analytics. FINRA-aware.`,
   caseStudies: `Case Study 1: Lake Nona Financial Advisory — Disney/UCF COM Professional Quality GBP
 Client: Fee-only RIA, Lake Nona (\$180M AUM). Challenge: GBP below Lake Nona professional standard. Disney/UCF COM professionals selecting competitors.
 Programme: CFA Institute verification + Disney/UCF COM community vocabulary + SB 262-native + FINRA-aware + Lake Nona photography

@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Philadelphia
 // URL: /digital-marketing-agency-philadelphia/
-// Generated: 2026-06-20T04:42:11.481Z
+// Generated: 2026-06-20T05:43:08.827Z
 
 export const DigitalMarketing_Philadelphia = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Philadelphia",
   citySlug: "philadelphia",
-  slug: "/digital-marketing-agency-philadelphia/",
+  slug: "/digital-marketing-agency-in-philadelphia/",
   
   h1: `Digital Marketing Agency Philadelphia — Revenue Growth for Eds and Meds, Main Line, and the Delaware Valley`,
   primaryKw: `digital marketing agency philadelphia`,
@@ -28,6 +28,18 @@ MAIN LINE PROFESSIONAL DIGITAL OPPORTUNITY: The Philadelphia Main Line — Ardmo
 
 KING OF PRUSSIA FDA CORRIDOR: Route 202's pharmaceutical and life sciences concentration — GSK, AstraZeneca, and the CRO/CDMO ecosystem — creates specific B2B digital marketing opportunities that require FDA content awareness that most Philadelphia agencies lack.`,
   features: ``,
+  pas: ``,
+  services: `SEO PHILADELPHIA: YMYL Eds and Meds authority. Main Line geographic specificity. PA RPC-compliant legal content. KOP FDA corridor pharma B2B. /seo-services-philadelphia/
+
+GOOGLE ADS PHILADELPHIA: YMYL-standard healthcare PPC (HIPAA compliant). Main Line in-migration professional targeting. PA RPC-compliant legal PPC. KOP pharma procurement vocabulary.
+
+CONTENT MARKETING PHILADELPHIA: YMYL-standard Eds and Meds content. PA RPC-compliant legal content. FDA-aware KOP pharma authority. Philadelphia Inquirer and FiercePharma editorial. /content-marketing-philadelphia/
+
+LINKEDIN PHILADELPHIA: Penn/Jefferson ecosystem healthcare LinkedIn. Main Line professional brand social. KOP pharmaceutical professional community. /social-media-marketing-philadelphia/
+
+LOCAL SEO PHILADELPHIA: Top 3 Local Pack for Main Line, King of Prussia, and all of the Delaware Valley. /local-seo-services-philadelphia/
+
+EMAIL PHILADELPHIA: HIPAA-compliant patient retention. Fortune 500 Philadelphia vendor nurture. PA RPC-compliant legal client communication.`,
   caseStudies: `Case Study 1: Main Line Cardiology Practice — Full Digital Programme, Penn/Jefferson Displacement
 Client: Cardiology practice, Ardmore PA (3 cardiologists, Penn-affiliated). Challenge: Page 3 for every Main Line cardiology search. Penn/Jefferson dominating. No Google Ads. No Local SEO.
 Programme: SEO (Main Line geographic specificity) + Google Ads (in-migration targeting) + Local SEO (Ardmore/Wayne/Bryn Mawr) + YMYL content (MD-authored)

@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Jacksonville
 // URL: /email-marketing-jacksonville/
-// Generated: 2026-06-20T04:42:11.923Z
+// Generated: 2026-06-20T05:43:09.344Z
 
 export const EmailMarketing_Jacksonville = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ FIS GLOBAL WORLD-LARGEST-FINTECH PIPELINE EMAIL: FIS Global's procurement cycles
 FLORIDA BLUE HEDIS MANAGED CARE NURTURE: Florida Blue's insurance technology procurement cycles run 90-180 days. FINRA-adjacent HEDIS quality measure intelligence, utilisation management operational updates, and provider network management content maintains Florida Blue's Jacksonville technology procurement relationship continuity through their managed care evaluation cycles.
 
 NAS JACKSONVILLE/MAYPORT MILITARY 5-STAGE FLORIDA ONBOARDING: Naval Air Station Jacksonville and Naval Station Mayport create a military professional email onboarding opportunity — identical to Tampa's MacDill programme — for financial advisory, healthcare, legal, and mortgage services businesses serving the 35,000+ military professional community. Stage 1 PCS welcome → Stage 2 Florida no-income-tax financial guide → Stage 3 Jacksonville healthcare navigation → Stage 4 First Coast neighbourhood professional services guide → Stage 5 military community connection.`,
-  features: `FEATURES:
-
-FIS Global World-Largest-Fintech Pipeline HubSpot:
+  features: `FIS Global World-Largest-Fintech Pipeline HubSpot:
 For Jacksonville banking technology and payment vendors. FIS Modern Banking Platform real-time integration operational updates. ISO 20022 migration intelligence email content. FIS Worldpay payment rail performance analytics. Wealth management platform technical intelligence. HubSpot FIS Global/Florida Blue named account sequences. 90-180 day fintech enterprise procurement deal-stage triggers. FINRA-compliant email data handling. SB 262-compliant throughout.
 
 Florida Blue HEDIS Managed Care Nurture:
@@ -37,6 +35,8 @@ For Jacksonville insurance technology vendors. HEDIS quality measure integration
 
 NAS Jacksonville/Mayport Military 5-Stage Florida Onboarding:
 For Jacksonville financial advisory, healthcare, legal, and mortgage services. Stage 1: PCS welcome to Jacksonville/First Coast. Stage 2: Florida 0% income tax vs home state guide. Stage 3: Jacksonville/Northeast Florida healthcare navigation (Baptist Health, Nemours, Mayo Clinic Florida). Stage 4: First Coast neighbourhood guide (Ponte Vedra, St. Johns, Orange Park, San Marco). Stage 5: NAS Jax/Mayport military community professional connection. SB 262-compliant Klaviyo.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Jacksonville Fintech — FIS Global World-Largest-Fintech Pipeline
 Client: Banking technology SaaS, Jacksonville (\$6.8M ARR). Challenge: FIS/Florida Blue contacts cold in 120-day cycles. Generic fintech newsletter below FIS-calibre standard.
 Programme: FIS Modern Banking/ISO 20022/Worldpay email + Florida Blue HEDIS content + FIS/FLB named sequences + FINRA-compliant + SB 262

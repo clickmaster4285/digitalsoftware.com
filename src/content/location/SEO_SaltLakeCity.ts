@@ -2,7 +2,7 @@
 // Service: SEO
 // City: SaltLakeCity
 // URL: /seo-services-salt-lake-city/
-// Generated: 2026-06-20T04:42:13.883Z
+// Generated: 2026-06-20T05:43:14.023Z
 
 export const SEO_SaltLakeCity = {
   service: "SEO",
@@ -30,6 +30,17 @@ UNIVERSITY OF UTAH HEALTH AND PRIMARY CHILDREN'S YMYL SEO: University of Utah He
 
 UTAH UCPA ANALYTICS ACCURACY: The Utah Consumer Privacy Act (UCPA, effective December 2023) creates analytics compliance requirements for all Utah Salt Lake City businesses.`,
   features: ``,
+  pas: `PROBLEM: The South Jordan enterprise software company with genuine Qualtrics and Domo relationships. Zero Qualtrics experience management or Domo BI cloud vocabulary in website or content. Qualtrics just appointed a new VP of Platform Partnerships. Domo brought in a new Chief Revenue Officer from Salesforce. Neither finds the South Jordan company digitally. Silicon Slopes' most commercially significant enterprise software vocabulary — Qualtrics XM and Domo BI — goes entirely uncaptured.
+
+SOLUTION: Clickmasters Salt Lake City SEO delivers Silicon Slopes Qualtrics/Domo/Pluralsight tech B2B authority, Goldman Sachs FINRA-compliant, University of Utah/Primary Children's YMYL, Utah UCPA-native analytics, and GEO/AEO first-mover.`,
+  services: `SALT LAKE CITY SILICON SLOPES TECH B2B SEO:
+For SLC and Silicon Slopes enterprise technology vendors. Qualtrics experience management platform vocabulary. Domo business intelligence cloud. Pluralsight technology skills platform. Ancestry.com genealogy technology community. UCPA-native analytics.
+
+SALT LAKE CITY GOLDMAN SACHS/ZIONS FINRA SEO:
+For SLC financial technology vendors. Goldman Sachs operational precision vocabulary. Zions Bancorporation Utah banking vocabulary. FINRA Rule 2210-compliant content. Western Alliance Bank community. UCPA-compliant.
+
+SALT LAKE CITY UNIVERSITY OF UTAH/PRIMARY CHILDREN'S YMYL SEO:
+For SLC healthcare practices and health technology. University of Utah Health academic vocabulary. Primary Children's Hospital paediatric academic content. Intermountain Health system vocabulary. HIPAA/UCPA-native healthcare analytics.`,
   caseStudies: `Case Study 1: South Jordan Enterprise Software — Silicon Slopes Qualtrics/Domo SEO
 Client: Enterprise analytics, South Jordan (\$6.4M ARR). Challenge: Zero Qualtrics XM/Domo BI vocabulary. Silicon Slopes VP not finding.
 Programme: Qualtrics XM/Domo BI/Pluralsight vocabulary + Silicon Slopes community content + UCPA-native + GEO/AEO

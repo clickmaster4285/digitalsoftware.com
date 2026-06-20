@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: SanAntonio
 // URL: /social-media-marketing-san-antonio/
-// Generated: 2026-06-20T04:42:14.434Z
+// Generated: 2026-06-20T05:43:14.903Z
 
 export const SocialMedia_SanAntonio = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ BILINGUAL CONSUMER SOCIAL: San Antonio's 63% Hispanic/Latino community creates a
 
 STMC HEALTHCARE LINKEDIN: The South Texas Medical Center's 36,000 healthcare employees generate LinkedIn professional activity that creates institutional-credibility opportunities for health technology vendors, medical device companies, and healthcare services organisations building vendor relationships within San Antonio's world-class medical complex.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING SAN ANTONIO (JBSA MILITARY COMMUNITY):
+For financial advisory, professional services, and healthcare businesses serving the JBSA military community. JBSA-specific financial vocabulary: TSP management, SCRA protections, VA loan benefits, military retirement pay planning, PCS cycle financial planning. JBSA installation community LinkedIn engagement (Fort Sam Houston, Lackland AFB, Randolph AFB communities). FINRA-compliant financial content. Veterans community LinkedIn professional relationship development.
+
+SAN ANTONIO BILINGUAL CONSUMER SOCIAL (INSTAGRAM/FACEBOOK):
+For San Antonio consumer brands, healthcare practices, and professional services businesses serving the bilingual community. Spanish-language Instagram and Facebook content calibrated to San Antonio's Tejano/Mexican-American cultural vocabulary. Fiesta SA community content integration. South Texas family cultural content. HIPAA-aware content for healthcare social media. Authentic bilingual community management.
+
+STMC HEALTHCARE PROFESSIONAL LINKEDIN:
+For health technology vendors, medical device companies, and healthcare services organisations competing in the STMC ecosystem. University Health System and University of Texas Health San Antonio affiliation display. Clinical credential LinkedIn content. STMC community engagement. HIPAA-aware professional LinkedIn content.`,
   caseStudies: `Case Study 1: Northwest San Antonio Financial Advisory — JBSA Military LinkedIn
 Client: Fee-only RIA, Northwest San Antonio (\$220M AUM). Challenge: JBSA incoming personnel not finding military-specific financial planning expertise on LinkedIn.
 Programme: TSP/SCRA/VA loan LinkedIn content + Fort Sam Houston community + FINRA-compliant + PCS cycle engagement

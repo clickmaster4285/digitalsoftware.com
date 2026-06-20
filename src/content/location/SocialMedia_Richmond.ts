@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Richmond
 // URL: /social-media-marketing-richmond/
-// Generated: 2026-06-20T04:42:14.377Z
+// Generated: 2026-06-20T05:43:14.816Z
 
 export const SocialMedia_Richmond = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ DOMINION ENERGY CLEAN ENERGY PROFESSIONAL COMMUNITY: Dominion Energy's Richmond 
 
 AUTHENTIC RIVER CITY CONSUMER BRAND SOCIAL: Richmond's The Fan District — the longest uninterrupted row of Victorian townhouses in the US, adjacent to the Virginia Museum of Fine Arts — Carytown's independent shopping and food community on W. Cary Street, and Church Hill's historic community create consumer brand social opportunities for businesses communicating genuine Richmond identity.`,
   features: ``,
+  pas: ``,
+  services: `RICHMOND CAPITAL ONE ML LINKEDIN:
+For Henrico County ML analytics and financial technology vendors. Capital One ML credit decisioning/consumer analytics vocabulary. FINRA-compliant LinkedIn. Real-time credit risk operational intelligence. Capital One ML engineering Sales Navigator.
+
+RICHMOND DOMINION ENERGY CLEAN ENERGY LINKEDIN:
+For Richmond energy technology vendors. Dominion Energy offshore wind/carbon neutrality vocabulary. Grid modernisation clean energy operational content. Clean energy transition methodology. Virginia utility professional community.
+
+RICHMOND AUTHENTIC RIVER CITY BRAND SOCIAL:
+For The Fan, Carytown, and Church Hill consumer brands. The Fan District Victorian neighbourhood arts community. Carytown W. Cary Street independent commercial character. Church Hill historic community identity. Authentic Richmond identity vs generic Mid-Atlantic brand.`,
   caseStudies: `Case Study 1: Henrico County ML Fintech — Capital One ML LinkedIn
 Client: ML analytics, Henrico County (\$6.4M ARR). Challenge: Generic LinkedIn. Capital One ML community not engaging.
 Programme: Capital One ML credit decisioning/consumer analytics vocabulary + FINRA-compliant + Capital One ML Sales Navigator

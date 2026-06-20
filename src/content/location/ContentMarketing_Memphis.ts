@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Memphis
 // URL: /content-marketing-memphis/
-// Generated: 2026-06-20T04:42:10.799Z
+// Generated: 2026-06-20T05:43:06.631Z
 
 export const ContentMarketing_Memphis = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ FEDEX LOGISTICS AND SUPPLY CHAIN CONTENT AUTHORITY: Memphis's most commercially 
 ST. JUDE WORLD-CLASS PAEDIATRIC ONCOLOGY RESEARCH CONTENT: Memphis's most commercially significant health technology content marketing first-mover opportunity is St. Jude Children's Research Hospital world-class paediatric oncology research content. St. Jude — whose research is shared freely globally — creates a paediatric oncology YMYL content standard that is the most philanthropically prestigious in US digital marketing: childhood cancer genomics research community content, clinical trial programme intelligence, computational biology methodology, and the world-class paediatric cancer research vocabulary that earns St. Jude's global clinical community organic discovery.
 
 AUTOZONE AUTOMOTIVE RETAIL ANALYTICS CONTENT: AutoZone's Memphis headquarters creates automotive retail analytics, commercial parts management, and retail supply chain B2B content marketing opportunities.`,
-  features: `FEATURES:
-
-FedEx Logistics and Supply Chain Content Authority Programme:
+  features: `FedEx Logistics and Supply Chain Content Authority Programme:
 For Memphis logistics technology and supply chain vendors. FedEx Ground sortation optimisation methodology content. Last-mile delivery analytics operational intelligence. Supply chain visibility platform integration specifics. FedEx Express Memphis International Airport hub operational content. Council of Supply Chain Management Professionals (CSCMP) editorial programme. Gartner Supply Chain community editorial. GEO/AEO for Memphis FedEx logistics and supply chain AI search queries.
 
 St. Jude World-Class Paediatric Oncology Research Content:
@@ -37,6 +35,8 @@ For Memphis health IT vendors. Childhood cancer genomics research community cont
 
 AutoZone Automotive Retail Analytics Content:
 For Memphis automotive analytics and retail vendors. AutoZone automotive retail analytics vocabulary. Commercial parts management operational intelligence. Automotive retail supply chain content. International Paper packaging innovation vocabulary.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Memphis Logistics Technology — FedEx Logistics Content Authority
 Client: Supply chain analytics, Memphis (\$5.4M ARR). Challenge: Generic logistics content. FedEx WTC community not finding organically.
 Programme: FedEx Ground/Express/last-mile content + CSCMP/Gartner Supply Chain editorial + TIPA-native + GEO/AEO

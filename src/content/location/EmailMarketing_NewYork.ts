@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: NewYork
 // URL: /email-marketing-new-york/
-// Generated: 2026-06-20T04:42:12.015Z
+// Generated: 2026-06-20T05:43:09.713Z
 
 export const EmailMarketing_NewYork = {
   service: "EmailMarketing",
@@ -43,6 +43,15 @@ Email is the highest commercial-leverage owned channel in NYC. The Manhattan wea
 
 BENEFITS:
 New HNW AUM from investment commentary that earns trust without regulatory exposure. DTC revenue growing from 10-12% to 28-35% of total in NYC's most expensive paid media market. B2B pipeline from enterprise nurture that maintains relationships through NYC's long procurement cycles.`,
+  pas: ``,
+  services: `NYC FINANCIAL SERVICES EMAIL (FINRA/SEC/NY DFS COMPLIANT):
+Full compliance architecture for Wall Street's most actively examined email marketing environment. FINRA Rule 2210, SEC advertising regulations, and New York DFS oversight compliance review for every email before sending. CFA-authored investment content. Bloomberg, Federal Reserve, and CME Group data citations. GIPS performance references. Annual compliance review of the full NYC email content library.
+
+NYC DTC KLAVIYO EMAIL:
+Klaviyo for NYC's fashion, beauty, food, and lifestyle DTC brands. Editorial-quality email design at the visual standard of NYC's design culture. 12-flow revenue automation architecture. NYC seasonal and cultural calendar management (Fashion Week, NYC holiday gifting, summer NYC peaks). Creator collaboration email integration for NYC's above-average influencer density.
+
+NYC B2B HUBSPOT PIPELINE NURTURE:
+HubSpot for NYC's enterprise B2B sales. Wall Street technology buyer content. Goldman/JPMorgan/NYSE ecosystem-calibrated nurture sequences. NYC's 90-180 day enterprise procurement cycle architecture. FINRA-aware content for fintech and wealth technology companies.`,
   caseStudies: `Case Study 1: Wall Street Wealth Management — FINRA Email Rebuild, \$480M New AUM
 Client: Multi-family office, Midtown Manhattan (\$2.8B AUM). Challenge: 3 FINRA examination findings in 18 months from investment commentary email. Programme suspended. 800 HNW prospects receiving no communications.
 Programme: FINRA compliance rebuild + CFA-authored quarterly commentary (Bloomberg/Fed citations) + GIPS performance framework + HNW prospect reactivation sequence

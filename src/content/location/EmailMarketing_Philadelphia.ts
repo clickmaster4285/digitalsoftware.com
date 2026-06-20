@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Philadelphia
 // URL: /email-marketing-philadelphia/
-// Generated: 2026-06-20T04:42:12.044Z
+// Generated: 2026-06-20T05:43:09.926Z
 
 export const EmailMarketing_Philadelphia = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ HIPAA PATIENT RETENTION EMAIL: Philadelphia's healthcare ecosystem — Penn Medi
 PENNSYLVANIA RPC-COMPLIANT LEGAL EMAIL: The Pennsylvania Rules of Professional Conduct govern attorney communication with clients and prospective clients — including email. Law firm newsletters, matter update communications, and legal industry content emails sent to Philadelphia clients and prospects are subject to RPC constraints on client solicitation, fee communication, and matter-specific content. Pennsylvania Bar Disciplinary Counsel actively reviews attorney advertising and communication. Philadelphia law firms operating email programmes without RPC compliance review are creating ongoing enforcement exposure.
 
 KING OF PRUSSIA PHARMA PIPELINE NURTURE: GSK, AstraZeneca, and the CRO/CDMO ecosystem at King of Prussia generate B2B relationships that develop through 90-180 day procurement cycles. FDA-aware email nurture — content that maintains clinical expertise credibility without creating promotional compliance exposure — is the relationship channel that keeps KOP pharma vendor relationships warm through these extended evaluation cycles.`,
-  features: `FEATURES:
-
-HIPAA Patient Retention and Reactivation Email:
+  features: `HIPAA Patient Retention and Reactivation Email:
 For Philadelphia healthcare practices competing in Penn Medicine and Jefferson Health's home market. HIPAA minimum-necessary architecture: appointment reminders excluding PHI from standard ESP transmission (Mailchimp, Klaviyo — not HIPAA-covered; Salesforce Health Cloud, HubSpot with BAA — HIPAA-compliant). Post-care follow-up with PHI-safe design. Lapsed patient reactivation (HIPAA-safe content, no condition-specific references). The patient email programme that maintains acquired patient relationships through Philadelphia's competitive healthcare switching environment.
 
 Pennsylvania RPC-Compliant Legal Email:
@@ -37,6 +35,15 @@ For Center City, Main Line, and Philadelphia-area law firms. Pennsylvania RPC co
 
 KOP FDA Pharma Pipeline Nurture (FDA-Aware):
 For GlaxoSmithKline, AstraZeneca, and Route 202 CRO/CDMO ecosystem vendors. FDA-aware content in all pharmaceutical email: no pre-approval efficacy claims, balanced clinical data presentation, IRB-aware clinical update communications. HubSpot pharma pipeline tracking. The pharma email programme that maintains KOP procurement relationships through extended evaluation cycles.`,
+  pas: ``,
+  services: `PHILADELPHIA HEALTHCARE PATIENT EMAIL (HIPAA):
+HIPAA-compliant patient retention for Penn Medicine-adjacent practices, Jefferson Health-affiliated community physicians, and independent healthcare groups. HIPAA-covered ESP with BAA (HubSpot or Salesforce Health Cloud). Appointment reminder automation. Post-care follow-up. Lapsed patient reactivation. Annual patient appreciation communication. The patient email ecosystem that reduces healthcare switching in Philadelphia's competitive specialist market.
+
+PHILADELPHIA LAW FIRM EMAIL (PA RPC COMPLIANT):
+For Center City law firms, Main Line attorneys, and the Philadelphia legal community. RPC compliance review for all email content. Practice area newsletter development. Client matter update protocols. Legal industry content email. Super Lawyers and Martindale-Hubbell credential content. Annual client appreciation communication. The attorney email programme that develops client relationships within Pennsylvania bar compliance.
+
+KING OF PRUSSIA PHARMACEUTICAL B2B EMAIL (FDA-AWARE):
+For the Route 202 CRO/CDMO and pharmaceutical ecosystem. FDA-aware content review. Pipeline update communications (non-promotional). Clinical conference follow-up (AACR, ASCO, HIMSS). HubSpot pharma procurement tracking. The pharmaceutical email programme that maintains KOP vendor relationships.`,
   caseStudies: `Case Study 1: Penn-Affiliated Specialty Practice — HIPAA Patient Retention Programme
 Client: Gastroenterology practice, Ardmore PA (3 physicians, Penn-affiliated). Challenge: Non-HIPAA ESP. 820 lapsed patients. High switching to Penn Medicine GI.
 Programme: HIPAA ESP migration (HubSpot + BAA) + lapsed reactivation + post-procedure follow-up + annual care reminder

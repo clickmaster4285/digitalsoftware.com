@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Birmingham
 // URL: /content-marketing-birmingham/
-// Generated: 2026-06-20T04:42:10.583Z
+// Generated: 2026-06-20T05:43:05.931Z
 
 export const ContentMarketing_Birmingham = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ REGIONS FINANCIAL FINRA COMMERCIAL BANKING CONTENT AUTHORITY: No Birmingham cont
 UAB WORLD-CLASS NCI YMYL ACADEMIC CONTENT AUTHORITY: UAB Comprehensive Cancer Center — one of only 57 NCI-designated Comprehensive Cancer Centers — creates the most commercially significant YMYL content authority in Alabama. Health technology vendors demonstrating UAB's NCI oncology research vocabulary, UAB Medical Center Level 1 Trauma vocabulary, and Encompass Health world-class rehabilitation vocabulary earn organic discovery from Alabama's most prestigious academic healthcare institution.
 
 FINRA INSURANCE CONTENT: Protective Life Corporation life insurance and annuity vocabulary, Blue Cross Alabama health insurance operational intelligence, and Alabama insurance community content for insurance technology vendors.`,
-  features: `FEATURES:
-
-Regions Financial FINRA Commercial Banking Content Authority:
+  features: `Regions Financial FINRA Commercial Banking Content Authority:
 FINRA-compliant content throughout. Regions commercial lending analytics intelligence. Treasury management methodology. ABA and RMA banking editorial communities. GEO/AEO for Birmingham Regions FINRA AI queries.
 
 UAB World-Class NCI YMYL Academic Content Authority:
@@ -37,6 +35,8 @@ UAB NCI Comprehensive Cancer Center oncology research vocabulary. UAB Medical Ce
 
 Protective Life/Blue Cross Alabama FINRA Insurance Content:
 Protective Life annuity and life insurance FINRA content. Blue Cross Alabama health insurance operational intelligence. Alabama Life Underwriters Association editorial community.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Birmingham Financial Technology — Regions Financial FINRA Content Authority
 Client: Banking analytics, Birmingham (\$6.4M ARR). Challenge: Generic banking content. Regions community not finding.
 Programme: Regions FINRA commercial lending/treasury content + ABA/RMA editorial + GEO/AEO

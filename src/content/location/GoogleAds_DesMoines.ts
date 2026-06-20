@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: DesMoines
 // URL: /google-ads-management-des-moines/
-// Generated: 2026-06-20T04:42:12.347Z
+// Generated: 2026-06-20T05:43:10.685Z
 
 export const GoogleAds_DesMoines = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ UNITYPOINT/MERCYONE HIPAA CDPA PATIENT ACQUISITION: UnityPoint Health and MercyO
 
 IOWA STATE FAIR SEASONAL COMMERCIAL CAMPAIGNS: The Iowa State Fair (August, Des Moines) creates a seasonal PPC advertising window for consumer brands, hospitality, and food businesses targeting Iowa's most commercially concentrated annual consumer event.`,
   features: ``,
+  pas: `PROBLEM: The Des Moines insurance analytics company spending \$4,800/month on 'insurance analytics Des Moines' and 'financial technology Iowa.' Principal's new VP Technology searches 'retirement plan administration platform Principal Financial Des Moines FINRA' and 'group insurance benefits technology Iowa.' Neither in the campaign. \$57K spend misses Principal's specific FINRA retirement/group insurance vocabulary — the most commercially concentrated insurance and investment B2B language in the US Midwest.
+
+SOLUTION: Clickmasters Des Moines Google Ads delivers Principal FINRA retirement/insurance, EMC/Farm Bureau FINRA, UnityPoint/MercyOne HIPAA CDPA — at Iowa CPCs below Chicago and Minneapolis.`,
+  services: `DES MOINES PRINCIPAL/EMC FINRA INSURANCE GOOGLE ADS:
+For Des Moines insurance and investment technology vendors. Principal FINRA retirement/group insurance vocabulary. EMC commercial lines vocabulary. Farm Bureau agricultural insurance. Iowa CDPA consent management.
+
+DES MOINES UNITYPOINT/MERCYONE HIPAA CDPA GOOGLE ADS:
+For Des Moines healthcare practices. HIPAA server-side conversion tracking. Iowa CDPA consent management. UnityPoint/MercyOne vocabulary.
+
+DES MOINES IOWA STATE FAIR SEASONAL GOOGLE ADS:
+For Des Moines consumer brands. Iowa State Fair August vocabulary. Iowa consumer community audience. Pre/peak/post-fair seasonal windows.`,
   caseStudies: `Case Study 1: Des Moines Financial Technology — Principal FINRA Insurance PPC
 Client: Investment analytics, Des Moines (\$6.4M ARR). Challenge: \$57K missing Principal FINRA retirement vocabulary. Non-FINRA.
 Programme: Principal FINRA retirement/group insurance vocabulary + Iowa CDPA consent management

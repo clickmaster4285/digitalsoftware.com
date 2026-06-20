@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Knoxville
 // URL: /seo-services-knoxville/
-// Generated: 2026-06-20T04:42:13.677Z
+// Generated: 2026-06-20T05:43:13.172Z
 
 export const SEO_Knoxville = {
   service: "SEO",
@@ -30,6 +30,17 @@ PILOT FLYING J TRUCKING AND FLEET LOGISTICS SEO: Pilot Flying J's Knoxville head
 
 UNIVERSITY OF TENNESSEE MEDICAL CENTER AND COVENANT HEALTH YMYL SEO: UT Medical Center — a Level 1 Trauma Center and the only Level 1 trauma centre in East Tennessee — and Covenant Health define the YMYL academic medical standard for the Knoxville metro. Tennessee Information Protection Act (TIPA, effective July 1, 2025) creates analytics compliance requirements.`,
   features: ``,
+  pas: `PROBLEM: The Knoxville energy technology company with genuine TVA relationships. Zero TVA utility/nuclear vocabulary in website. TVA appointed a new VP Digital Operations. He searches 'nuclear power plant operations technology vendor Knoxville TVA' and 'grid reliability management partner Tennessee Valley.' Company appears for neither. TVA — the US's largest public power utility — creates utility vocabulary that no Knoxville SEO agency addresses.
+
+SOLUTION: Clickmasters Knoxville SEO delivers TVA utility/energy authority, ORNL ITAR-adjacent nuclear, Pilot Flying J logistics, UT Medical YMYL, Tennessee TIPA-native, and GEO/AEO first-mover.`,
+  services: `KNOXVILLE TVA UTILITY AND ENERGY TECHNOLOGY SEO:
+For Knoxville energy technology and utility analytics vendors. TVA nuclear/renewable/grid vocabulary. ITAR vocabulary review for ORNL community content. Tennessee utility engineering community. TIPA-native analytics.
+
+KNOXVILLE PILOT FLYING J TRUCKING AND FLEET LOGISTICS SEO:
+For Knoxville fleet management and logistics vendors. Pilot Flying J travel centre vocabulary. Trucking analytics content. Fleet fuel management technology. Tennessee logistics community.
+
+KNOXVILLE UT MEDICAL/COVENANT YMYL SEO:
+For Knoxville healthcare practices and health technology. UT Medical Center Level 1 Trauma vocabulary. Covenant Health system vocabulary. HIPAA/TIPA-native healthcare content.`,
   caseStudies: `Case Study 1: Knoxville Energy Technology — TVA Utility B2B SEO
 Client: Utility analytics, Knoxville (\$5.4M ARR). Challenge: Zero TVA utility/nuclear vocabulary. VP Digital not finding.
 Programme: TVA nuclear/grid/renewable vocabulary + ITAR review ORNL content + Tennessee TIPA-native + GEO/AEO

@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: OklahomaCity
 // URL: /google-ads-management-oklahoma-city/
-// Generated: 2026-06-20T04:42:12.699Z
+// Generated: 2026-06-20T05:43:11.180Z
 
 export const GoogleAds_OklahomaCity = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ INTEGRIS/OU HEALTH HIPAA PATIENT ACQUISITION: INTEGRIS Health and OU Health Scie
 
 TINKER AFB ITAR-BOUNDED COMMUNITY PROFESSIONAL SERVICES: Tinker AFB's substantial military professional community generates TSP, SCRA, VA loan, and defence-adjacent professional services searches at Oklahoma CPCs below Washington DC military equivalents.`,
   features: ``,
+  pas: `PROBLEM: The OKC energy analytics company spending \$4,800/month on 'analytics consulting Oklahoma City' and 'energy technology OKC.' Devon Energy's new VP Digital Technology searches 'STACK play production analytics vendor Oklahoma City Devon' and 'unconventional reservoir technology partner E&P OKC.' Neither in the campaign. \$57K spend misses Devon and Expand Energy's specific E&P vocabulary — the most commercially concentrated oil and gas E&P B2B procurement language in Oklahoma.
+
+SOLUTION: Clickmasters Oklahoma City Google Ads delivers Devon/Expand Energy E&P vocabulary, INTEGRIS/OU Health HIPAA, Tinker AFB community — at Oklahoma CPCs below Dallas and Houston equivalents.`,
+  services: `OKC DEVON/EXPAND ENERGY E&P GOOGLE ADS:
+For OKC oil and gas technology and analytics vendors. Devon Energy STACK/SCOOP vocabulary. Expand Energy natural gas production. OGE utility vocabulary. Oklahoma E&P community.
+
+OKC INTEGRIS/OU HEALTH HIPAA GOOGLE ADS:
+For OKC health IT vendors and healthcare practices. INTEGRIS Health vocabulary. OU Medicine NCI vocabulary. HIPAA server-side conversion tracking. Oklahoma academic medical audience.
+
+OKC TINKER AFB COMMUNITY/PAYCOM GOOGLE ADS:
+For OKC defence-adjacent and HR technology vendors. Tinker AFB publicly releasable community vocabulary. ITAR vocabulary review all ad content. Paycom HR SaaS vocabulary.`,
   caseStudies: `Case Study 1: OKC Energy Technology — Devon/Expand Energy E&P PPC
 Client: Energy analytics, OKC (\$5.4M ARR). Challenge: \$57K spend missing Devon STACK/SCOOP vocabulary.
 Programme: Devon STACK/SCOOP/unconventional reservoir vocabulary + Expand Energy natural gas + Oklahoma E&P community

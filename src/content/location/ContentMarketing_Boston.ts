@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Boston
 // URL: /content-marketing-boston/
-// Generated: 2026-06-20T04:42:10.611Z
+// Generated: 2026-06-20T05:43:06.112Z
 
 export const ContentMarketing_Boston = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ FDA-AWARE KENDALL SQUARE CONTENT: Cambridge's Kendall Square is the global epice
 FINRA-COMPLIANT BOSTON INVESTMENT CONTENT: Back Bay's Fidelity ecosystem and Boston's wealth management community publish investment content — quarterly market commentary, tax planning articles, retirement planning guides — under FINRA Rule 2210. Every piece of investment content published by a Boston financial services firm is subject to FINRA's communications standards. Boston's investment content programme without FINRA compliance review is creating regulatory exposure at publication frequency.
 
 ACADEMIC MEDICAL YMYL AUTHORITY: Boston's mass general brigham, Dana-Farber, and HMS define the YMYL E-E-A-T standard that Google evaluates healthcare content against in New England. Content for Boston healthcare practices and health technology companies must meet the institutional depth, clinical credential specificity, and peer-reviewed evidence citation standard that HMS-calibrated evaluators — both Google's quality raters and Boston's medically sophisticated patients — apply.`,
-  features: `FEATURES:
-
-FDA-Aware Kendall Square Life Sciences Content:
+  features: `FDA-Aware Kendall Square Life Sciences Content:
 For Cambridge CROs, CDMOs, and pharmaceutical technology vendors. FDA promotional compliance review for every content piece before publication. Phase I-IV clinical research content with appropriate methodology disclosure. CLIA/CAP/ISO 15189 certification content. Harvard Medical School research collaboration content. Dana-Farber clinical trial affiliation content. Stat News, FiercePharma, and BioPharma Dive editorial placement programme. The pharmaceutical content library that earns genuine credibility from Boston's FDA-sophisticated pharma procurement community — without creating promotional compliance exposure.
 
 FINRA-Compliant Investment Content:
@@ -37,6 +35,15 @@ For Back Bay wealth managers, Fidelity ecosystem RIAs, and Boston's investment a
 
 Academic Medical YMYL Content:
 For HMS-affiliated practices, Mass General Brigham-adjacent physicians, and Boston's private healthcare community. MD/DO-authored clinical content with HMS faculty appointment, Partners HealthCare system affiliation, and NIH grant attribution. Peer-reviewed journal citations (NEJM, JAMA, NEJM Catalyst). Dana-Farber clinical trial reference content. HIPAA-compliant patient education. The YMYL content that earns Google E-E-A-T recognition and patient trust in the world's most academically credentialled healthcare market.`,
+  pas: ``,
+  services: `KENDALL SQUARE LIFE SCIENCES CONTENT (FDA-AWARE):
+For Cambridge CROs, CDMOs, biotech technology vendors. FDA-aware Phase I-III content. CLIA/CAP certification white papers. Harvard/MIT research collaboration case studies. Stat News and FiercePharma editorial programme. IRB-aware clinical communication content. The pharma procurement authority content library.
+
+BOSTON FINANCIAL SERVICES CONTENT (FINRA-COMPLIANT):
+For Back Bay RIAs, Fidelity ecosystem advisors, Boston wealth managers. FINRA Rule 2210 compliant investment commentary. CFA-authored market analysis. Bloomberg/Fed data citations. GIPS-compliant performance content. Massachusetts Securities Division-aware tax planning content.
+
+BOSTON ACADEMIC HEALTHCARE CONTENT (YMYL):
+For HMS-affiliated practices, Longwood physicians, Dana-Farber-adjacent oncologists. MD-authored YMYL content at HMS institutional standard. NEJM/JAMA peer-reviewed citations. HMS faculty credential attribution. Dana-Farber affiliation content. HIPAA-compliant patient education.`,
   caseStudies: `Case Study 1: Kendall Square CRO — FDA-Aware Pharma Authority Programme
 Client: CRO, Cambridge MA (\$18M). Challenge: Pfizer and BMS procurement finding New Jersey/San Diego CROs in content searches. Zero Boston pharma content authority.
 Programme: FDA-aware Phase I-III content + Stat News HARO + FiercePharma editorial + Harvard/MIT collaboration content

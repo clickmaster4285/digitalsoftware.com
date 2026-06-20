@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Pittsburgh
 // URL: /seo-services-pittsburgh/
-// Generated: 2026-06-20T04:42:13.830Z
+// Generated: 2026-06-20T05:43:13.933Z
 
 export const SEO_Pittsburgh = {
   service: "SEO",
@@ -28,6 +28,17 @@ CARNEGIE MELLON UNIVERSITY AI/ROBOTICS RESEARCH SEO: Carnegie Mellon University'
 
 PPG INDUSTRIES/PNC FINANCIAL FORTUNE 500 SEO: PPG Industries' Pittsburgh headquarters (specialty coatings and materials) and PNC Financial Services' Pittsburgh headquarters create Fortune 500 vendor organic search opportunities in specialty coatings technology and FINRA-compliant banking vocabulary.`,
   features: ``,
+  pas: `PROBLEM: The Pittsburgh AI consulting company with genuine CMU research relationships and Aurora Innovation relationships. Zero CMU AI/robotics vocabulary in website or content. Aurora Innovation's new VP of AI Infrastructure from Waymo searches 'CMU-calibre AI robotics consultant Pittsburgh' and 'autonomous vehicle AI engineering services Pittsburgh CMU.' Company appears for neither search. Pittsburgh's most commercially valuable AI research vocabulary — the CMU/Aurora/AI Corridor community — goes entirely uncaptured.
+
+SOLUTION: Clickmasters Pittsburgh SEO delivers UPMC world-class YMYL, CMU AI/robotics research authority, PPG/PNC Fortune 500, Pittsburgh AI Corridor GEO/AEO first-mover, and autonomous vehicle content authority.`,
+  services: `PITTSBURGH UPMC WORLD-CLASS YMYL SEO:
+For Pittsburgh health IT vendors and healthcare practices. UPMC Presbyterian/Shadyside/Hillman Cancer Center vocabulary. University of Pittsburgh School of Medicine academic clinical content. UPMC International content. HIPAA-compliant world-class YMYL.
+
+PITTSBURGH CMU AI/ROBOTICS RESEARCH SEO:
+For Pittsburgh AI technology and robotics vendors. CMU Machine Learning/Robotics vocabulary. Aurora Innovation/autonomous vehicle community. Pittsburgh AI Corridor content (Google AI, Apple ML, Meta AI, Amazon AWS Pittsburgh). PyTorch/ML operational vocabulary.
+
+PITTSBURGH PPG/PNC FORTUNE 500 SEO:
+For Pittsburgh enterprise technology and financial vendors. PPG specialty coatings/materials vocabulary. PNC Financial/FINRA-compliant content. Highmark Health managed care. US Steel specialty materials.`,
   caseStudies: `Case Study 1: Pittsburgh AI Consulting — CMU AI/Aurora AI Corridor SEO
 Client: AI robotics consulting, Pittsburgh (\$7.4M). Challenge: Zero CMU/Aurora/Pittsburgh AI Corridor vocabulary. VP AI Infrastructure not finding.
 Programme: CMU Machine Learning/Robotics vocabulary + Aurora/AI Corridor community content + autonomous vehicle vocabulary + GEO/AEO

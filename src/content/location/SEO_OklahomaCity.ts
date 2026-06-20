@@ -2,7 +2,7 @@
 // Service: SEO
 // City: OklahomaCity
 // URL: /seo-services-oklahoma-city/
-// Generated: 2026-06-20T04:42:13.779Z
+// Generated: 2026-06-20T05:43:13.796Z
 
 export const SEO_OklahomaCity = {
   service: "SEO",
@@ -30,6 +30,17 @@ TINKER AIR FORCE BASE ITAR-BOUNDED MILITARY COMMUNITY SEO: Tinker AFB — home t
 
 PAYCOM AND OGE ENERGY ENTERPRISE B2B SEO: Paycom's headquarters (HR technology SaaS) and OGE Energy's headquarters (utility B2B) create additional enterprise technology B2B search opportunities.`,
   features: ``,
+  pas: `PROBLEM: The OKC technology company with genuine Devon Energy relationships. Zero Devon Energy STACK/SCOOP unconventional reservoir vocabulary in website. Devon Energy appointed a new VP of Digital Technology from Pioneer Natural Resources. He searches 'STACK play production analytics vendor Oklahoma City Devon Energy' and 'unconventional reservoir technology partner OKC.' Company appears for neither. Devon Energy and Expand Energy — two of the US's most significant E&P companies — are headquartered in OKC and generate oil and gas E&P vocabulary that no Oklahoma City SEO agency addresses.
+
+SOLUTION: Clickmasters Oklahoma City SEO delivers Devon/Expand Energy oil and gas E&P authority, INTEGRIS/OU Health YMYL, Tinker AFB ITAR-bounded, Paycom HR tech, and GEO/AEO first-mover.`,
+  services: `OKC DEVON/EXPAND ENERGY OIL AND GAS E&P SEO:
+For OKC oil and gas technology and analytics vendors. Devon Energy STACK/SCOOP unconventional reservoir vocabulary. Expand Energy natural gas production vocabulary. Midstream infrastructure technology. OGE Energy utility vocabulary.
+
+OKC INTEGRIS/OU HEALTH YMYL SEO:
+For OKC healthcare practices and health technology. INTEGRIS Health system vocabulary. OU Health/OU Medicine NCI vocabulary. HIPAA-compliant YMYL content.
+
+OKC TINKER AFB ITAR-BOUNDED/PAYCOM SEO:
+For OKC defence technology and HR SaaS vendors. Tinker AFB ITAR-bounded publicly releasable vocabulary. ITAR vocabulary review every piece. Paycom HR SaaS vocabulary. Love's Travel fleet operations.`,
   caseStudies: `Case Study 1: OKC Energy Technology — Devon/Expand Energy E&P SEO
 Client: Energy analytics, OKC (\$5.4M ARR). Challenge: Zero Devon STACK/SCOOP vocabulary. VP Digital Technology not finding.
 Programme: Devon Energy STACK/SCOOP/unconventional reservoir vocabulary + Expand Energy natural gas + OGE utility + GEO/AEO

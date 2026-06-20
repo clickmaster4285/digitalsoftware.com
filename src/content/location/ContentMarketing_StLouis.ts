@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: StLouis
 // URL: /content-marketing-st-louis/
-// Generated: 2026-06-20T04:42:10.963Z
+// Generated: 2026-06-20T05:43:07.694Z
 
 export const ContentMarketing_StLouis = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ ITAR-BOUNDED BOEING BDS CONTENT AUTHORITY: St. Louis's most commercially signifi
 FINRA-COMPLIANT EDWARD JONES FINANCIAL CONTENT: Edward Jones' Creve Coeur headquarters creates a FINRA Rule 2210-active financial technology content marketing environment. Financial technology vendors and wealth management services companies can build genuine organic authority through FINRA-compliant financial advisor productivity content, wealth management platform operational insights, and the financial services operational vocabulary that Edward Jones's Creve Coeur technology procurement evaluates — within FINRA advertising compliance boundaries that most St. Louis content agencies don't understand at the investment company-specific detail required.
 
 BJC/WASHINGTON UNIVERSITY YMYL HEALTHCARE CONTENT: BJC HealthCare and Washington University School of Medicine (top-5 US medical school) create health technology B2B content marketing opportunities for vendors whose content demonstrates Barnes-Jewish Hospital, St. Louis Children's Hospital, and WashU academic medical vocabulary.`,
-  features: `FEATURES:
-
-Boeing BDS ITAR-Bounded Content Authority Programme:
+  features: `Boeing BDS ITAR-Bounded Content Authority Programme:
 For Hazelwood and Greater St. Louis aerospace services and technology companies. ITAR-bounded content library: AS9100D Revision D gap assessment methodology, DCAA provisional indirect cost rate compliance guides, DoD supply chain cybersecurity (CMMC Level 1) operational analysis, defence prime contractor community operational intelligence. National Defense Industrial Association (NDIA) and Aerospace Industries Association (AIA) editorial programme. ITAR vocabulary review for every piece before publication. GEO/AEO for St. Louis Boeing BDS and defence procurement AI search queries.
 
 FINRA-Compliant Edward Jones Financial Content:
@@ -37,6 +35,8 @@ For Creve Coeur and Greater St. Louis financial technology companies. FINRA Rule
 
 BJC/Washington University YMYL Healthcare Content:
 For St. Louis healthcare practices and health technology vendors. BJC HealthCare and Barnes-Jewish Hospital clinical vocabulary content. Washington University School of Medicine academic research community. St. Louis Children's Hospital paediatric academic content. HIPAA-compliant clinical case studies.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Hazelwood Aerospace Quality — Boeing BDS ITAR Content Authority
 Client: Aerospace quality consulting, Hazelwood (\$8.4M). Challenge: Zero ITAR-bounded content. Boeing BDS not finding through organic. ITAR misunderstanding preventing investment.
 Programme: ITAR-bounded AS9100D/DCAA content workflow + NDIA/AIA community editorial + GEO/AEO

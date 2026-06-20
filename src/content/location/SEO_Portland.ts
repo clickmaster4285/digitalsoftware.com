@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Portland
 // URL: /seo-services-portland/
-// Generated: 2026-06-20T04:42:13.841Z
+// Generated: 2026-06-20T05:43:13.952Z
 
 export const SEO_Portland = {
   service: "SEO",
@@ -28,6 +28,19 @@ INTEL HILLSBORO SEMICONDUCTOR SEO: Intel's Hillsboro campus anchors a semiconduc
 
 PORTLAND AUTHENTIC-VALUES COMMERCIAL SEO: Portland's consumer and professional community applies an above-average authenticity standard to content. Specific evidence over generic claims. B Corp certification year and score over B Corp logo. Specific carbon reduction data over 'we're committed to sustainability.' The content that demonstrates operational authentic values earns organic engagement from Portland's most commercially active consumer community.`,
   features: ``,
+  pas: `PROBLEM: The Beaverton performance sustainable fabric company — 9 years as a Nike Tier 2 supplier, bluesign-certified, OEKO-TEX Standard 100, HIGG FEM score of 87 — has published zero SEO-targeted organic content in the past 3 years. When Nike's new VP of Sustainable Sourcing arrives from a German athletic brand and Googles 'bluesign certified performance fabric manufacturer Oregon Washington Pacific Northwest,' a Dutch supplier, a Taiwanese manufacturer, and a California fabric company appear. The Beaverton company — the most qualified Pacific Northwest performance fabric supplier — doesn't appear. Its 9 years of Nike relationship are not digital commercial assets.
+
+AGITATION: Portland's organic search competitive landscape is being addressed by international and out-of-state suppliers who recognize the first-mover advantage available in Pacific Northwest authentic-values B2B vocabulary searches. The first-mover window for bluesign/HIGG/OEKO-TEX vocabulary organic authority in the Pacific Northwest is open.
+
+SOLUTION: Clickmasters Portland SEO delivers the authentic-values-vocabulary, Nike-ecosystem-precise, Intel-semiconductor-accurate organic authority that earns vendor consideration from Portland's most commercially demanding buyers.`,
+  services: `PORTLAND NIKE/ADIDAS ECOSYSTEM B2B SEO:
+For Beaverton and Portland sustainable material, performance technology, and athletic brand service vendors. bluesign, OEKO-TEX, and HIGG Index vocabulary content demonstrating genuine certification expertise — not surface-level badge-displaying. Performance material science content: specific fibre composition, durability testing methodology, moisture management technical vocabulary. Outdoor Retailer and Athletic Business editorial programme. Sustainable Apparel Coalition editorial. The organic authority that earns evaluation from Portland's most identity-conscious corporate procurement community.
+
+PORTLAND INTEL HILLSBORO SEMICONDUCTOR B2B SEO:
+For Hillsboro semiconductor services, testing, and equipment vendors. SEMI standards vocabulary (SEMI F47 voltage sag immunity, SEMI C62 ultra-clean chemical specifications, SEMI E10 equipment reliability). Cleanroom classification content (ISO 14644-1 standards, class-specific airborne particulate specifications). Wafer handling specification vocabulary. EV Group, ASML ecosystem vocabulary. The technical organic authority that earns Intel ecosystem vendor evaluation.
+
+PORTLAND AUTHENTIC-VALUES CONSUMER AND B2B SEO:
+For Portland's outdoor apparel brands, sustainable consumer companies, and Pacific Northwest B2B businesses. B Corp certification specific-score content. Carbon reduction with third-party verification data. Authentic Pacific Northwest cultural content calibrated to Portland's evidence standard.`,
   caseStudies: `Case Study 1: Beaverton Performance Fabric — Nike Ecosystem Authentic-Values SEO
 Client: Sustainable performance fabric, Beaverton (\$9.4M). Challenge: Nike new VP Googling bluesign/HIGG vocabulary — Dutch and Taiwanese suppliers appearing.
 Programme: bluesign/OEKO-TEX/HIGG vocabulary + Outdoor Retailer HARO + Athletic Business editorial + authentic evidence content

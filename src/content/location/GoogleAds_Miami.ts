@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Miami
 // URL: /google-ads-management-miami/
-// Generated: 2026-06-20T04:42:12.624Z
+// Generated: 2026-06-20T05:43:10.981Z
 
 export const GoogleAds_Miami = {
   service: "GoogleAds",
@@ -28,6 +28,19 @@ FLORIDA SB 262 CONVERSION TRACKING COMPLIANCE: Florida's SB 262 (effective July 
 
 LATAM B2B GATEWAY TARGETING: Miami's position as the primary US-Latin America commercial hub creates a specific high-value B2B Google Ads targeting opportunity. Venezuelan family offices, Colombian corporate entities, and Brazilian market entry researchers conducting Google searches for Miami professional services represent the highest-value B2B leads in South Florida — and they search in both Spanish and English with LATAM commercial vocabulary.`,
   features: ``,
+  pas: `PROBLEM: The Brickell financial advisory firm spending \$18,000/month in English-only Google Ads. The campaign generates 180 conversions at \$100 CPL — strong performance for an English-language financial advisory campaign. But examination of the conversions reveals: 0 LATAM-origin HNW prospects in the conversion set despite Brickell's position as Miami's primary LATAM wealth management hub. The Spanish-preference Venezuelan and Colombian HNW professionals who are actively searching for Brickell advisers — 'asesor financiero Brickell Miami,' 'wealth manager español Miami Venezuela' — are not reached by any active campaign. The firm's most commercially valuable audience segment goes entirely uncaptured.
+
+AGITATION: Miami's Spanish-language Google Ads market for financial services, healthcare, and legal services is significantly less competitive than the English-language equivalent — meaning Spanish CPLs are lower and Spanish page 1 positions more accessible. This window is narrowing as Miami businesses discover the bilingual PPC opportunity.
+
+SOLUTION: Clickmasters Miami Google Ads delivers bilingual English/Spanish LATAM-targeted campaigns, Florida SB 262-compliant conversion tracking, and FINRA/HIPAA-compliant ad copy — generating the full commercial audience reach that English-only campaigns miss.`,
+  services: `MIAMI BILINGUAL HEALTHCARE GOOGLE ADS (HIPAA + SB 262):
+For Miami healthcare practices, dental offices, and medical services businesses. Separate English and Spanish campaigns — not translated, genuinely Spanish-calibrated to Miami's Cuban-American, Venezuelan, Colombian, and Argentine communities. HIPAA server-side compliant conversion tracking. Florida SB 262-compliant consent management. Spanish appointment-booking conversion events. Spanish-language landing pages at South Florida medical Spanish vocabulary standard.
+
+MIAMI BRICKELL FINANCIAL GOOGLE ADS (FINRA + SB 262):
+For Brickell wealth managers, international banking, and LATAM-facing financial services. Bilingual English/Spanish LATAM-targeted financial advertising. FINRA Rule 2210-compliant ad copy. Florida SB 262-compliant conversion tracking. LATAM HNW audience signals. Spanish CPLs typically 20-30% below English for Miami financial advisory searches.
+
+MIAMI LATAM B2B GATEWAY GOOGLE ADS:
+For professional services companies competing for Venezuelan family offices, Colombian corporate entities, and Brazilian market entry clients. Spanish and Portuguese B2B search campaigns. LATAM commercial vocabulary targeting. SB 262-compliant B2B conversion tracking.`,
   caseStudies: `Case Study 1: Brickell Wealth Management — Bilingual LATAM Financial PPC
 Client: RIA, Brickell (\$2.8B AUM). Challenge: English-only Google Ads missing LATAM HNW segment. 0 LATAM-origin prospects in conversion set.
 Programme: Bilingual English/Spanish campaigns + LATAM HNW audience signals + FINRA-compliant + SB 262 consent management

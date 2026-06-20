@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Orlando
 // URL: /email-marketing-orlando/
-// Generated: 2026-06-20T04:42:12.038Z
+// Generated: 2026-06-20T05:43:09.898Z
 
 export const EmailMarketing_Orlando = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ DISNEY/UNIVERSAL HOSPITALITY TECHNOLOGY PIPELINE EMAIL: Disney Parks and Univers
 LAKE NONA MEDICAL CITY HIPAA PROCUREMENT EMAIL: Lake Nona Medical City's UCF College of Medicine, UF Health, and Nemours Children's procurement cycles run 90-180 days for health technology and life science vendor evaluation. HIPAA-compliant email nurture with UCF COM research programme vocabulary, UF Health clinical enterprise content, and Nemours paediatric research updates maintains Lake Nona Medical City procurement relationships with Florida SB 262-compliant data handling.
 
 FLORIDA IN-MIGRATION PROFESSIONAL 5-STAGE ONBOARDING: Orlando's growing in-migration from Northeast and Midwest states creates professional services email marketing opportunities — Florida no-income-tax financial planning, Orlando healthcare navigation, and Gulf Coast lifestyle professional transition content — identical structure to Tampa's in-migration onboarding.`,
-  features: `FEATURES:
-
-Disney/Universal Hospitality Technology Season-Calendar-Aware Pipeline HubSpot:
+  features: `Disney/Universal Hospitality Technology Season-Calendar-Aware Pipeline HubSpot:
 For Lake Nona and Greater Orlando hospitality technology vendors. Disney Parks/Universal season-aware email timing: Q1 (January-March) pre-summer season vendor evaluation, Q3 (July-September) holiday season preparation, Q4 (October-December) off-season operational improvement planning. Disney MagicBand+ RFID operational updates. Theme park capacity management intelligence. Universal Epic Universe technology development updates. HubSpot Disney Parks/Universal named account sequences. 90-180 day hospitality enterprise procurement deal-stage triggers. SB 262-compliant.
 
 Lake Nona Medical City HIPAA Procurement Email:
@@ -37,6 +35,8 @@ For Lake Nona health IT and biotech vendors. UCF College of Medicine research pr
 
 Florida In-Migration 5-Stage Professional Onboarding:
 For Orlando financial advisory, healthcare, and professional services. NY-to-FL/NJ-to-FL no-income-tax onboarding. Florida healthcare navigation. Orlando neighbourhood professional service guide. SB 262-compliant.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Lake Nona Hospitality Tech — Disney/Universal Season-Calendar Pipeline
 Client: Guest experience analytics, Lake Nona (\$6.8M ARR). Challenge: Disney/Universal contacts cold in 120-day cycles. Generic email. Non-season-aware timing.
 Programme: Disney/Universal season-calendar-aware email + MagicBand+/capacity management content + named sequences + SB 262-compliant

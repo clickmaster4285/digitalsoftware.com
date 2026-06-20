@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: SaltLakeCity
 // URL: /web-design-agency-salt-lake-city/
-// Generated: 2026-06-20T04:42:14.910Z
+// Generated: 2026-06-20T05:43:15.983Z
 
 export const WebDesign_SaltLakeCity = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ SILICON SLOPES ENTERPRISE VENDOR CREDIBILITY: Silicon Slopes enterprise companie
 GOLDMAN SACHS FINRA-COMPLIANT INSTITUTIONAL INVESTMENT QUALITY: Goldman Sachs's 3,000+ employee Salt Lake City operations centre creates financial technology vendor website requirements calibrated to Goldman's institutional precision: FINRA Rule 2210-compliant website content from wireframe, SEC Marketing Rule-compliant performance displays, Goldman operational vocabulary in service descriptions, and the institutional investment management visual quality that Goldman's Salt Lake City institutional community expects from technology partners.
 
 UNIVERSITY OF UTAH/PRIMARY CHILDREN'S YMYL HIPAA UCPA ACADEMIC HEALTHCARE: University of Utah Health — a top-20 US academic medical centre — and Primary Children's Hospital (Intermountain Health) create YMYL healthcare website requirements with HIPAA-native UCPA-native data architecture for the Mountain West's most comprehensive academic healthcare environment.`,
-  features: `FEATURES:
-
-Silicon Slopes Enterprise Vendor Credibility Architecture:
+  features: `Silicon Slopes Enterprise Vendor Credibility Architecture:
 For South Jordan, Draper, and Greater SLC enterprise technology vendors. Qualtrics XM platform integration capability service descriptions. Domo BI cloud analytics methodology pages. Pluralsight technology skills infrastructure operational specifics. Ancestry.com technology community vocabulary. Silicon Slopes enterprise SaaS institutional visual quality. UCPA-native analytics architecture.
 
 Goldman Sachs FINRA-Compliant Institutional Investment Quality Architecture:
@@ -37,6 +35,8 @@ For Salt Lake City financial technology companies. FINRA Rule 2210-compliant web
 
 University of Utah/Primary Children's YMYL HIPAA UCPA Healthcare Architecture:
 For SLC healthcare practices and health technology. University of Utah Health NCI Cancer Center affiliation. Primary Children's Hospital Intermountain Health paediatric programme. HIPAA-native UCPA-native data architecture. YMYL E-E-A-T optimised Mountain West academic medical content. CWV sub-1.6s LCP.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: South Jordan Enterprise Software — Silicon Slopes Qualtrics/Domo Credibility Redesign
 Client: Enterprise analytics, South Jordan (\$6.4M ARR). Challenge: Website lacking Silicon Slopes institutional credibility. Qualtrics VP dismissal during digital due diligence.
 Programme: Qualtrics XM/Domo BI/Pluralsight service pages + Silicon Slopes enterprise visual + UCPA-native + CWV (5.0s to 1.4s)

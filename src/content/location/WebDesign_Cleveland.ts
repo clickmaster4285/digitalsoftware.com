@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Cleveland
 // URL: /web-design-agency-cleveland/
-// Generated: 2026-06-20T04:42:14.609Z
+// Generated: 2026-06-20T05:43:15.282Z
 
 export const WebDesign_Cleveland = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ CLEVELAND CLINIC YMYL WORLD-CLASS INSTITUTIONAL CREDIBILITY: Cleveland Clinic's 
 PARKER HANNIFIN PRECISION MANUFACTURING ENTERPRISE QUALITY: Parker Hannifin's 54-industry global operations create vendor website expectations calibrated to the institutional precision of a \$20B+ precision manufacturing conglomerate. Technology vendors and services companies competing for Parker Hannifin Mayfield Heights procurement need websites demonstrating genuine industrial motion control, hydraulics, pneumatics, and electromechanical systems vocabulary, with the enterprise manufacturing institutional visual quality that a global industrial leader expects.
 
 PROGRESSIVE INSURANCE/KEYCORP FINRA-COMPLIANT INSTITUTIONAL DESIGN: Progressive Insurance and KeyCorp create FINRA-compliant website design requirements for insurance technology and financial services vendors — including Progressive Snapshot/UBI vocabulary in service descriptions and KeyBank financial platform operational specifics.`,
-  features: `FEATURES:
-
-Cleveland Clinic YMYL World-Class Institutional Architecture:
+  features: `Cleveland Clinic YMYL World-Class Institutional Architecture:
 For Cleveland health IT vendors and healthcare practices. Cleveland Clinic Innovations technology partnership vocabulary. Lerner Research Institute research programme affiliation pages. International patient community institutional visual quality. HIPAA-native data architecture. YMYL E-E-A-T content structured to world-class academic medical standards. CWV sub-1.6s LCP.
 
 Parker Hannifin Precision Manufacturing Enterprise Architecture:
@@ -37,6 +35,8 @@ For Mayfield Heights and Northeast Ohio industrial technology vendors. Industria
 
 Progressive/KeyBank FINRA-Compliant Institutional Design:
 For Cleveland insurance technology and financial services vendors. Progressive Snapshot/UBI telematics vocabulary. FINRA Rule 2210-compliant website content. KeyBank/KeyCorp financial platform vocabulary. SEC Marketing Rule-compliant performance displays.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Cleveland Health IT — Cleveland Clinic YMYL World-Class Redesign
 Client: Cardiovascular analytics SaaS, Cleveland (\$7.4M ARR). Challenge: Website without Cleveland Clinic world-class institutional credibility. CC VP dismissal during digital due diligence.
 Programme: CC Innovations/Lerner vocabulary pages + world-class YMYL visual quality + HIPAA-native + CWV (5.4s to 1.4s)

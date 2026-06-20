@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Knoxville
 // URL: /digital-marketing-agency-knoxville/
-// Generated: 2026-06-20T04:42:11.324Z
+// Generated: 2026-06-20T05:43:08.654Z
 
 export const DigitalMarketing_Knoxville = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Knoxville",
   citySlug: "knoxville",
-  slug: "/digital-marketing-agency-knoxville/",
+  slug: "/digital-marketing-agency-in-knoxville/",
   
   h1: `Digital Marketing Agency Knoxville — TVA Energy Revenue, ORNL ITAR-Adjacent Nuclear, Pilot Flying J Fleet, and Tennessee Valley Commercial Growth`,
   primaryKw: `digital marketing agency knoxville`,
@@ -30,6 +30,20 @@ UT MEDICAL CENTER AND COVENANT HEALTH YMYL DIGITAL MARKETING: UT Medical Center 
 
 SCRIPPS NETWORKS MEDIA AND UNIVERSITY OF TENNESSEE COMMUNITY: Knoxville's Scripps Networks legacy (HGTV, Food Network, DIY Network originated in Knoxville, now Discovery+/Warner Bros. Discovery) and the University of Tennessee's 30,000+ student community create media and academic B2B opportunities.`,
   features: ``,
+  pas: ``,
+  services: `SEO KNOXVILLE: TVA utility/nuclear vocabulary. ORNL ITAR-adjacent (reviewed). Pilot Flying J fleet. UT Medical/Covenant YMYL. Tennessee TIPA-native. /seo-services-knoxville/
+
+GOOGLE ADS KNOXVILLE: TVA utility community. Pilot Flying J fleet. UT Medical HIPAA TIPA. ORNL ITAR community.
+
+CONTENT MARKETING KNOXVILLE: TVA nuclear/grid operational authority. ORNL ITAR-adjacent (reviewed). Pilot Flying J fleet logistics. UT Medical YMYL.
+
+LINKEDIN KNOXVILLE: TVA utility community. ORNL energy research. Pilot Flying J fleet. Market Square/Old City/Sequoyah Hills authentic Knoxville.
+
+EMAIL KNOXVILLE: TVA/ORNL/Pilot Flying J named TIPA-native pipeline. UT Medical HIPAA. Tennessee Volunteers season.
+
+LOCAL SEO KNOXVILLE: TVA proximity GBP. UT Medical/Covenant YMYL. Sequoyah Hills/Farragut professional quality.
+
+WEB DESIGN KNOXVILLE: TVA utility institutional. ORNL ITAR-adjacent quality. UT Medical YMYL HIPAA TIPA.`,
   caseStudies: `Case Study 1: Knoxville Energy Technology — TVA/ORNL Full Programme
 Client: Utility analytics, Knoxville (\$5.4M ARR). Challenge: TVA/ORNL vocabulary absent. ITAR exposure in ORNL community content.
 Programme: ITAR review + SEO (TVA nuclear/grid vocabulary) + LinkedIn (TVA/ORNL community) + Tennessee TIPA-native

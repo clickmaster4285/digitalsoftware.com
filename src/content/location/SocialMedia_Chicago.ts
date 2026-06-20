@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Chicago
 // URL: /social-media-marketing-chicago/
-// Generated: 2026-06-20T04:42:14.055Z
+// Generated: 2026-06-20T05:43:14.417Z
 
 export const SocialMedia_Chicago = {
   service: "SocialMedia",
@@ -26,6 +26,15 @@ FORTUNE 500 CHICAGO LINKEDIN: Chicago's Caterpillar, Boeing, Abbott, McDonald's,
 
 FINRA-COMPLIANT INVESTMENT SOCIAL: Chicago's CME Group, Morningstar, and Northern Trust financial ecosystem has one of the most active FINRA social media examination environments in the US. FINRA Rule 2210 governs LinkedIn posts, Instagram content, Facebook posts, and any social media communication that discusses securities, investment performance, or financial advice for Chicago's investment advisory community. Chicago financial services firms with non-compliant social media programmes are accumulating examination risk with every post.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING CHICAGO (FORTUNE 500 B2B):
+For Loop, West Loop, and Chicagoland companies competing for Caterpillar, Boeing, Abbott, and McDonald's procurement. Fortune 500-specific content tracks: Boeing aerospace and defence programme vocabulary, Caterpillar construction equipment and mining operations vocabulary, Abbott pharmaceutical and device operations vocabulary. Elk Grove Village manufacturing corridor LinkedIn community engagement. Sales Navigator Fortune 500 Chicago ecosystem pipeline development.
+
+CHICAGO FINRA-COMPLIANT INVESTMENT SOCIAL:
+For CME Group-adjacent companies, Loop wealth managers, and Morningstar ecosystem financial services. FINRA Rule 2210 review before every post: no guaranteed return language, appropriate risk disclosures, compliant testimonial architecture. CFA-author-attributed investment commentary. The FINRA-safe social presence that builds HNW trust without creating CME Group-adjacent examination exposure.
+
+CHICAGO MANUFACTURING AND INDUSTRIAL LINKEDIN:
+For Elk Grove Village, Schaumburg, and the Chicagoland manufacturing corridor. ISO/IATF/AS9100 credential display. Manufacturing technical thought leadership: Cpk/PPM precision vocabulary, lean manufacturing operational content, Industry 4.0 vocabulary. Thomas Net integration signals. The manufacturing LinkedIn presence that earns Fortune 500 supplier evaluation.`,
   caseStudies: `Case Study 1: West Loop Consulting — Boeing/Caterpillar LinkedIn Authority
 Client: Management consulting, West Loop (\$9.4M). Challenge: Generic LinkedIn posts earning no Fortune 500 engagement.
 Programme: Boeing aerospace vocabulary + Caterpillar construction vocabulary + Managing Partner LinkedIn + Sales Navigator Fortune 500 pipeline

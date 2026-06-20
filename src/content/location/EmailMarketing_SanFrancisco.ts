@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: SanFrancisco
 // URL: /email-marketing-san-francisco/
-// Generated: 2026-06-20T04:42:12.118Z
+// Generated: 2026-06-20T05:43:10.299Z
 
 export const EmailMarketing_SanFrancisco = {
   service: "EmailMarketing",
@@ -43,6 +43,15 @@ CCPA-native email produces accurate commercial attribution data — not consent-
 
 BENEFITS:
 DTC revenue automation in California's consent-managed analytics environment producing accurate ROAS. AI/ML enterprise pipeline from nurture email that maintains genuine technical credibility. Fintech partnerships from compliance-signalling email communications.`,
+  pas: ``,
+  services: `SF AI/ML B2B HUBSPOT ENTERPRISE NURTURE:
+For SOMA, Mission Bay, and South Bay AI/ML and enterprise software companies. Technical depth content tracks calibrated to SF's engineering-culture enterprise buyer. Model architecture updates, benchmark communications, safety and alignment emails. CCPA-native attribution connecting email engagement to CRM pipeline. Series B/C enterprise social proof email — named Fortune 500 clients, attributed ROI, institutional trust signals.
+
+SF DTC KLAVIYO REVENUE AUTOMATION (CCPA-NATIVE):
+For SF's consumer technology, DTC, and lifestyle brands. CCPA-native Klaviyo programme: consent-managed list building, server-side attribution, CPRA-compliant preference management. 12-flow automation at the editorial quality San Francisco's design-literate consumer audience evaluates. Creator collaboration email integration.
+
+SF FINTECH EMAIL (FINRA/PCI-DSS AWARE):
+For Stripe, Brex, Plaid, and SF's payments ecosystem. FINRA-aware content. PCI-DSS compliance communication. FinCEN/BSA regulatory expertise content. Enterprise payment buyer trust-building sequences.`,
   caseStudies: `Case Study 1: SOMA AI/ML SaaS — CCPA-Native Technical Nurture, \$3.2M Pipeline
 Client: ML model monitoring SaaS, SOMA SF (\$9.2M ARR). Challenge: Non-CCPA email programme inflating open rates by 34%. AI/ML nurture content below SF engineering community standard. Enterprise prospects going cold.
 Programme: CCPA-native rebuild + AI/ML technical depth nurture (model architecture updates, benchmark methodology) + Series B enterprise social proof tracks

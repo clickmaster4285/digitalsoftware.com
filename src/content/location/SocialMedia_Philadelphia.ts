@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Philadelphia
 // URL: /social-media-marketing-philadelphia/
-// Generated: 2026-06-20T04:42:14.331Z
+// Generated: 2026-06-20T05:43:14.736Z
 
 export const SocialMedia_Philadelphia = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ MAIN LINE PROFESSIONAL LINKEDIN: The Philadelphia Main Line's Ivy-educated, inst
 
 KING OF PRUSSIA PHARMACEUTICAL PROFESSIONAL LINKEDIN: The Route 202 King of Prussia corridor hosts GlaxoSmithKline, AstraZeneca, and the clinical research organisations whose professionals are LinkedIn-active with pharmaceutical industry focus. Healthcare technology and life sciences vendors competing for KOP pharmaceutical procurement benefit from FDA-aware LinkedIn thought leadership that communicates genuine regulatory expertise.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING PHILADELPHIA (EDS AND MEDS HEALTHCARE):
+For Philadelphia healthcare technology and services companies. HIPAA-aware LinkedIn content: no PHI examples, appropriate clinical evidence balance, FDA-aware content for medical device vendors. Penn Medicine, Jefferson Health, and CHOP calibrated thought leadership. Penn LDI Health Economics and Health Affairs citation architecture for health policy content. HCAHPS, VBP, and ACO vocabulary for health system operations content. The LinkedIn programme that earns institutional credibility from Philadelphia's academic medical community.
+
+MAIN LINE PROFESSIONAL SERVICES LINKEDIN:
+For Wayne, Bryn Mawr, and Main Line financial advisory, legal, and professional services. Pennsylvania RPC-compliant LinkedIn for attorneys. FINRA-compliant investment content. Ivy League and professional credential attribution. The institutional LinkedIn that earns trust from Philadelphia's most demanding Ivy-educated professional community.
+
+KING OF PRUSSIA PHARMACEUTICAL LINKEDIN:
+For GlaxoSmithKline, AstraZeneca, and KOP pharmaceutical ecosystem vendors. FDA-aware content: no pre-approval promotion. REMS and regulatory pathway vocabulary for pharmaceutical BD LinkedIn. IQVIA and DRG market data citation architecture.`,
   caseStudies: `Case Study 1: Philadelphia Health IT Company — Penn/Jefferson Ecosystem LinkedIn
 Client: Clinical informatics SaaS, Philadelphia (\$8.4M ARR). Challenge: LinkedIn below Penn/Jefferson academic credibility standard. Health system evaluations not progressing.
 Programme: Medical Director LinkedIn programme + Penn Medicine/Jefferson-calibrated thought leadership + HIPAA-aware content review + Health Affairs citations

@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Wichita
 // URL: /content-marketing-wichita/
-// Generated: 2026-06-20T04:42:10.999Z
+// Generated: 2026-06-20T05:43:08.181Z
 
 export const ContentMarketing_Wichita = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ SPIRIT AEROSYSTEMS ITAR-BOUNDED AEROSTRUCTURES CONTENT AUTHORITY: Most Wichita t
 TEXTRON AVIATION BUSINESS AVIATION CONTENT: Cessna and Beechcraft turboprop/jet systems operational intelligence, business aviation MRO methodology, and avionics integration content — earning organic discovery from the world's most commercially concentrated business aviation community.
 
 NBAA EDITORIAL COMMUNITY: The National Business Aviation Association (NBAA) — whose annual convention is the world's most important business aviation event — has strong Textron Aviation and Wichita community representation. NBAA editorial content earns above-average business aviation credibility signals.`,
-  features: `FEATURES:
-
-Spirit AeroSystems ITAR-Bounded Aerostructures Content Authority:
+  features: `Spirit AeroSystems ITAR-Bounded Aerostructures Content Authority:
 ITAR vocabulary review every piece. 737 fuselage manufacturing from public aerospace content. Composite engineering from AIAA public domain. Spirit community publicly releasable vocabulary. AIAA and SAE International aerospace editorial communities. GEO/AEO for Wichita Spirit ITAR-bounded AI search queries.
 
 Textron Aviation Business Aviation Content:
@@ -37,6 +35,8 @@ Cessna/Beechcraft turboprop/jet systems operational intelligence. Business aviat
 
 Koch Industries Industrial and Air Capital Seasonal Content:
 Koch/INVISTA industrial/chemical content. Via Christi YMYL. Wichita Riverfest June seasonal. NBAA convention season business aviation community.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Wichita Aerospace — Spirit AeroSystems ITAR-Bounded Content Authority
 Client: Aerospace technology, Wichita (\$6.4M ARR). Challenge: ITAR exposure in existing blog. Zero publicly releasable aerostructures content.
 Programme: ITAR review (exposure eliminated) + Spirit publicly releasable content library + AIAA/SAE editorial + GEO/AEO

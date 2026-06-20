@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Philadelphia
 // URL: /content-marketing-philadelphia/
-// Generated: 2026-06-20T04:42:10.877Z
+// Generated: 2026-06-20T05:43:07.294Z
 
 export const ContentMarketing_Philadelphia = {
   service: "ContentMarketing",
@@ -40,6 +40,15 @@ For the Route 202 pharmaceutical and life sciences companies. FDA-aware promotio
 
 GEO/AEO for Delaware Valley Queries:
 Content structured for AI citation across Philadelphia's three content verticals: healthcare procurement queries, legal practice area queries, and pharmaceutical B2B queries. The direct-answer format, FAQ schema, and institutional citation architecture that earns ChatGPT/Perplexity mention in the Delaware Valley's most commercially valuable searches.`,
+  pas: ``,
+  services: `PHILADELPHIA EDS AND MEDS HEALTHCARE CONTENT:
+For independent practices, health technology companies, and healthcare services businesses competing in Penn Medicine and Jefferson Health's home market. MD-authored YMYL content at Penn/Jefferson institutional standard. HIPAA-compliant patient education. Philadelphia Inquirer Health editorial relationships. Penn LDI health economics citation. The healthcare content that earns organic visibility in the most academically credentialled healthcare market in the mid-Atlantic.
+
+PHILADELPHIA LAW FIRM CONTENT (RPC COMPLIANT):
+For Center City law firms, Main Line attorneys, and the Philadelphia legal community. Pennsylvania RPC 7.1-7.3-compliant content through full editorial lifecycle. Attorney profile content citing specific credentials (Super Lawyers, AV Preeminent, Martindale-Hubbell). Practice area authority content for Philadelphia's legal categories (personal injury, family law, corporate, healthcare law). The legal content that earns page 1 positions in Philadelphia's competitive attorney search market.
+
+KING OF PRUSSIA FDA CORRIDOR B2B CONTENT:
+For GSK, AstraZeneca, and CRO/CDMO ecosystem vendors in the Route 202 pharmaceutical corridor. FDA-aware promotional content review. FiercePharma and BioPharma Dive editorial placement. IQVIA and DRG market data citations. Clinical research authority content for Philadelphia's pharma procurement community.`,
   caseStudies: `Case Study 1: Main Line Gastroenterology — YMYL Geographic Specificity
 Client: Independent gastroenterology, Wynnewood PA (3 physicians, Penn-affiliated). Challenge: Penn Medicine GI and Jefferson GI dominating gastroenterology searches. Practice invisible despite Penn affiliation.
 Programme: MD-authored YMYL content + Penn affiliation display + Main Line geographic specificity + HIPAA-compliant GEO/AEO + Philadelphia Inquirer Health HARO

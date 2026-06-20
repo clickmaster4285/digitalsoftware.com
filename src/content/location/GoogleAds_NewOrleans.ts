@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: NewOrleans
 // URL: /google-ads-management-new-orleans/
-// Generated: 2026-06-20T04:42:12.677Z
+// Generated: 2026-06-20T05:43:11.133Z
 
 export const GoogleAds_NewOrleans = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ ENTERGY CORPORATION ENERGY UTILITY TECHNOLOGY GOOGLE ADS: Entergy New Orleans ge
 
 NEW ORLEANS CONVENTION AND HOSPITALITY TECHNOLOGY GOOGLE ADS: New Orleans' Ernest N. Morial Convention Center — one of the largest convention centres in the US — and 40,000+ hotel rooms generate hospitality technology B2B procurement searches. Convention management technology, event analytics, and hotel revenue management vendors earn above-average qualified leads from New Orleans' world-class convention and hospitality technology procurement community.`,
   features: ``,
+  pas: `PROBLEM: The New Orleans health IT company spending \$4,800/month on 'health IT consulting Louisiana' and 'clinical analytics New Orleans.' Ochsner Health's new VP Digital Health searches 'Ochsner Health clinical analytics vendor New Orleans' and 'YMYL health technology partner Louisiana academic.' Neither in the campaign. \$57K annual spend on generic vocabulary misses Louisiana's most commercially significant academic medical YMYL procurement language — Ochsner's specific clinical vocabulary.
+
+SOLUTION: Clickmasters New Orleans Google Ads delivers Ochsner/Tulane HIPAA YMYL, Entergy utility technology, and New Orleans convention hospitality — at Louisiana CPCs below Houston and Atlanta equivalents.`,
+  services: `NEW ORLEANS OCHSNER/TULANE HIPAA GOOGLE ADS:
+For New Orleans health IT vendors and healthcare practices. Ochsner Health/Tulane/LSU Health vocabulary. HIPAA server-side conversion tracking. Louisiana academic medical community audience.
+
+NEW ORLEANS ENTERGY UTILITY TECH GOOGLE ADS:
+For New Orleans energy technology vendors. Entergy grid modernisation vocabulary. Utility rate case vocabulary. Transmission and distribution tech. Louisiana energy community.
+
+NEW ORLEANS CONVENTION HOSPITALITY GOOGLE ADS:
+For New Orleans hospitality technology vendors. Ernest N. Morial Convention Center vocabulary. Hotel revenue management vocabulary. Event analytics community. New Orleans tourism B2B audience.`,
   caseStudies: `Case Study 1: New Orleans Health IT — Ochsner/Tulane HIPAA YMYL PPC
 Client: Clinical analytics, New Orleans (\$5.4M ARR). Challenge: \$57K spend missing Ochsner/Tulane YMYL vocabulary. Non-HIPAA.
 Programme: Ochsner/Tulane/LSU Health vocabulary + HIPAA server-side + Louisiana academic medical audience

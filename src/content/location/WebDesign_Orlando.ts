@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Orlando
 // URL: /web-design-agency-orlando/
-// Generated: 2026-06-20T04:42:14.814Z
+// Generated: 2026-06-20T05:43:15.758Z
 
 export const WebDesign_Orlando = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ DISNEY/UNIVERSAL HOSPITALITY TECHNOLOGY VENDOR CREDIBILITY: Walt Disney World Re
 LAKE NONA MEDICAL CITY UCF/UF HEALTH INSTITUTIONAL QUALITY: Lake Nona Medical City's UCF College of Medicine, UF Health, and Nemours Children's Hospital create a life science and health technology vendor website standard calibrated to a rapidly growing but world-class-aspirational academic health campus. Health IT vendors and biotech companies competing in Lake Nona need websites demonstrating UCF COM research programme vocabulary, UF Health clinical enterprise methodology, and the institutional visual quality that a planned 650-acre health innovation campus expects from its technology partner community.
 
 ADVENTHEALTH/NEMOURS YMYL HIPAA ACADEMIC HEALTHCARE DESIGN: AdventHealth's 80+ hospital network and Nemours Children's nationally ranked paediatric programme create YMYL healthcare content requirements and HIPAA-native data architecture needs for the Central Florida healthcare practice and health technology vendor community.`,
-  features: `FEATURES:
-
-Disney/Universal Hospitality Technology Vendor Credibility Architecture:
+  features: `Disney/Universal Hospitality Technology Vendor Credibility Architecture:
 For Lake Nona and Greater Orlando hospitality technology companies. Disney Parks guest experience and MagicBand+ integration capability descriptions. Theme park capacity management service pages with operational specifics. Food and beverage analytics methodology pages. Universal Epic Universe technology partnership vocabulary. Resort hotel management operational specifics. Disney/Universal institutional vendor visual quality. Florida SB 262-native analytics architecture.
 
 Lake Nona Medical City UCF/UF Health Institutional Quality Architecture:
@@ -37,6 +35,8 @@ For Lake Nona Medical City health technology and biotech companies. UCF College 
 
 AdventHealth/Nemours YMYL HIPAA Healthcare Architecture:
 For Orlando healthcare practices. AdventHealth network system affiliation display. Nemours Children's Health paediatric affiliation. UCF COM faculty attribution. HIPAA-native Florida SB 262-native data architecture. YMYL E-E-A-T optimised content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Lake Nona Hospitality Tech — Disney/Universal Vendor Credibility Redesign
 Client: Guest experience analytics, Lake Nona (\$6.8M ARR). Challenge: Website without Disney/Universal institutional credibility. Parks VP dismissal during digital due diligence.
 Programme: MagicBand+/capacity management service pages + Disney/Universal institutional visual + SB 262-native + CWV (5.2s to 1.4s)

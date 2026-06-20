@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Knoxville
 // URL: /social-media-marketing-knoxville/
-// Generated: 2026-06-20T04:42:14.175Z
+// Generated: 2026-06-20T05:43:14.556Z
 
 export const SocialMedia_Knoxville = {
   service: "SocialMedia",
@@ -27,9 +27,7 @@ TVA/ORNL UTILITY AND NUCLEAR ENERGY LINKEDIN: TVA creates a LinkedIn utility eng
 PILOT FLYING J FLEET MANAGEMENT LINKEDIN: Pilot Flying J creates a LinkedIn trucking and fleet management professional community evaluating technology vendor content against the operational precision of the US's largest travel centre operator.
 
 AUTHENTIC TENNESSEE VALLEY CONSUMER BRAND SOCIAL: Market Square's vibrant downtown community, the Old City's arts neighbourhood, Sequoyah Hills' Tennessee River residential elegance, and the Tennessee Volunteers' Big Orange football heritage create consumer brand social opportunities. Tennessee Volunteers football season (September–January) creates Knoxville's highest annual consumer brand social engagement window.`,
-  features: `FEATURES:
-
-TVA/ORNL Utility LinkedIn:
+  features: `TVA/ORNL Utility LinkedIn:
 TVA nuclear/grid/renewable operational vocabulary. ITAR review ORNL community posts. Tennessee utility engineering Sales Navigator.
 
 Pilot Flying J Fleet Management LinkedIn:
@@ -37,6 +35,8 @@ Pilot Flying J travel centre operational vocabulary. Trucking analytics professi
 
 Authentic Tennessee Valley Consumer Brand Social:
 Market Square downtown community vocabulary. Old City arts neighbourhood. Sequoyah Hills Tennessee River identity. Great Smoky Mountains outdoor lifestyle. Tennessee Volunteers Big Orange football — September–January, peak Knoxville engagement. Tennessee Whiskey Trail culinary vocabulary.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Knoxville Energy — TVA/ORNL Utility LinkedIn
 Client: Utility analytics, Knoxville (\$5.4M ARR). Challenge: ITAR exposure in ORNL LinkedIn posts. TVA community not engaging.
 Programme: ITAR review all LinkedIn + TVA utility vocabulary + TVA/ORNL Sales Navigator

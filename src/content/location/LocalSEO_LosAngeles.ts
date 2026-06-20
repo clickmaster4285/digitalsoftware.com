@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: LosAngeles
 // URL: /local-seo-services-los-angeles/
-// Generated: 2026-06-20T04:42:13.157Z
+// Generated: 2026-06-20T05:43:12.234Z
 
 export const LocalSEO_LosAngeles = {
   service: "LocalSEO",
@@ -28,6 +28,19 @@ CCPA-NATIVE REVIEW ANALYTICS: California's CCPA and CPRA create specific require
 
 88-CITY GEOGRAPHIC SPECIFICITY: LA's 88 incorporated cities — from Beverly Hills to Culver City, from Santa Monica to Pasadena — each have distinct commercial characters, distinct Local Pack competitive landscapes, and distinct community vocabulary that GBP optimisation must reflect. A Culver City entertainment technology company's GBP must communicate the entertainment industry proximity credential that earns Netflix ecosystem consideration. A Santa Monica Silicon Beach SaaS company's GBP must communicate the tech community sophistication that earns enterprise buyer trust.`,
   features: ``,
+  pas: `PROBLEM: The Silver Lake healthcare practice with 3 physicians — UCLA Health-affiliated, 34 reviews at 4.6 stars — whose GBP shows stock photography, a generic 'quality healthcare for the Silver Lake community' description, and no posts in the last 4 months. The creator-economy-adjacent Silver Lake professional who moved from Brooklyn 2 years ago evaluates the GBP: the photography communicates commercial template, not Silver Lake creative community; the description contains no UCLA Health affiliation display; the post inactivity communicates an unmanaged practice. She selects the Silver Lake practice 0.6 miles further with 118 reviews, professional editorial-quality photography, and a GBP description that references the practice's Silver Lake neighbourhood roots and UCLA Health system affiliation specifically.
+
+AGITATION: LA's Local Pack competitive landscape is intensifying across all 88 cities as national healthcare chains, national professional service firms, and the creator-economy-sophisticated businesses entering each LA neighbourhood's commercial ecosystem invest in systematic GBP management.
+
+SOLUTION: Clickmasters LA Local SEO provides the creator-economy-quality, CCPA-native, neighbourhood-precise GBP programme that earns Local Pack trust from LA's commercially diverse and visually sophisticated community.`,
+  services: `LA CREATOR ECONOMY GBP MANAGEMENT:
+For LA's consumer brands, healthcare practices, and professional services businesses across the 88-city metropolitan area. Creator economy GBP visual standard: editorial-quality profile photography direction, professional post visual content at LA creative standard, neighbourhood-specific description vocabulary. CCPA-native review analytics. GBP Posts at creator economy quality.
+
+LA ENTERTAINMENT INDUSTRY PROXIMITY LOCAL SEO:
+For Culver City post-production technology, Hollywood entertainment services, and LA entertainment B2B businesses. Entertainment industry proximity credential display: Culver City Netflix/Amazon proximity, Hollywood production company community, Burbank studio campus proximity. Entertainment vocabulary in GBP service descriptions. CCPA-native review management.
+
+SILICON BEACH B2B PROXIMITY LOCAL SEO:
+For Santa Monica, Venice, and Playa Vista technology companies. Silicon Beach tech community proximity credential display. Enterprise technology vocabulary in GBP descriptions. Tech professional community photography. CCPA-native analytics.`,
   caseStudies: `Case Study 1: Silver Lake Healthcare Practice — Creator Economy GBP Rebuild
 Client: Primary care, Silver Lake (3 physicians, UCLA-affiliated). Challenge: Generic GBP below Silver Lake creator community standard. 34 reviews, stock photography.
 Programme: Editorial-quality photography + UCLA affiliation display + Silver Lake neighbourhood vocabulary + CCPA-native review programme

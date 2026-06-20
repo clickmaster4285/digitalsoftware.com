@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Huntsville
 // URL: /content-marketing-huntsville/
-// Generated: 2026-06-20T04:42:10.728Z
+// Generated: 2026-06-20T05:43:06.372Z
 
 export const ContentMarketing_Huntsville = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ NASA MARSHALL ITAR-BOUNDED PUBLICLY RELEASABLE AEROSPACE CONTENT AUTHORITY: Hunt
 REDSTONE ARSENAL ITAR-BOUNDED US ARMY DEFENCE CONTENT: AMCOM/MDA/SMDC publicly available programme vocabulary, US Army Aviation and Missile Command operational content from public domain Army publications, and Missile Defense Agency programme intelligence from publicly available MDA reports.
 
 UAH AEROSPACE ENGINEERING AND HUNTSVILLE HOSPITAL YMYL: UAH's aerospace and systems engineering research community and Huntsville Hospital's YMYL academic healthcare create professional services and health technology content marketing opportunities.`,
-  features: `FEATURES:
-
-NASA Marshall ITAR-Bounded Publicly Releasable Aerospace Content Authority:
+  features: `NASA Marshall ITAR-Bounded Publicly Releasable Aerospace Content Authority:
 For Huntsville aerospace technology and engineering companies. ITAR vocabulary review every content piece. SLS programme publicly available technical reports. Artemis mission planning publicly available documentation. AIAA aerospace engineering community editorial programme. NASA Marshall programme community content. GEO/AEO for Huntsville SLS/Artemis ITAR-bounded AI search queries.
 
 Redstone Arsenal ITAR-Bounded US Army Defence Content:
@@ -37,6 +35,8 @@ For Huntsville defence technology vendors. AMCOM publicly available programme vo
 
 UAH Aerospace Engineering and Huntsville Hospital YMYL Content:
 For Huntsville professional and healthcare technology. UAH aerospace systems engineering research vocabulary. Huntsville Hospital YMYL. HIPAA-compliant clinical case studies.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Huntsville Aerospace — NASA Marshall ITAR-Bounded Content Authority
 Client: Aerospace systems engineering, Huntsville (\$6.4M ARR). Challenge: Zero NASA Marshall content. ITAR exposure in existing blog. Cummings Research Park not finding organically.
 Programme: ITAR review existing content (exposure eliminated) + SLS/Artemis publicly releasable library + AIAA editorial + GEO/AEO

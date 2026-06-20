@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Memphis
 // URL: /google-ads-management-memphis/
-// Generated: 2026-06-20T04:42:12.599Z
+// Generated: 2026-06-20T05:43:10.934Z
 
 export const GoogleAds_Memphis = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ ST. JUDE WORLD-CLASS YMYL HIPAA HEALTH TECHNOLOGY GOOGLE ADS: St. Jude Children'
 
 AUTOZONE/BAPTIST MEMORIAL FORTUNE 500 AND HEALTHCARE GOOGLE ADS: AutoZone generates automotive retail analytics procurement searches, and Baptist Memorial Health Care creates healthcare patient acquisition PPC requiring HIPAA-compliant server-side conversion tracking throughout — all with Tennessee TIPA consent management.`,
   features: ``,
+  pas: `PROBLEM: The Memphis supply chain analytics company spending \$4,800/month on 'analytics consulting Memphis' and 'supply chain technology Tennessee.' FedEx's new VP Network Intelligence searches 'FedEx Ground sortation optimisation analytics vendor Memphis' and 'supply chain visibility platform FedEx World Technology Center.' Neither in the campaign. \$57K spend misses FedEx's specific logistics operational vocabulary — the most commercially concentrated logistics B2B procurement language in the US South.
+
+SOLUTION: Clickmasters Memphis Google Ads delivers FedEx logistics vocabulary, St. Jude world-class YMYL HIPAA, AutoZone automotive retail, Baptist Memorial HIPAA — at Tennessee CPCs below Atlanta and Chicago equivalents.`,
+  services: `MEMPHIS FEDEX LOGISTICS TECH GOOGLE ADS:
+For Memphis logistics technology and supply chain vendors. FedEx Ground/Express/Freight network vocabulary. Last-mile delivery analytics. Supply chain visibility platform. FedEx WTC community. TIPA consent management.
+
+MEMPHIS ST. JUDE WORLD-CLASS YMYL HIPAA GOOGLE ADS:
+For Memphis health IT vendors and healthcare practices. St. Jude paediatric oncology/genomics vocabulary. World-class YMYL clinical content. HIPAA server-side conversion tracking. TIPA consent management.
+
+MEMPHIS AUTOZONE/BAPTIST MEMORIAL GOOGLE ADS:
+For Memphis automotive analytics and healthcare. AutoZone automotive retail analytics vocabulary. Baptist Memorial patient acquisition. HIPAA server-side. TIPA consent management.`,
   caseStudies: `Case Study 1: Memphis Logistics Technology — FedEx Network Vocabulary PPC
 Client: Supply chain analytics, Memphis (\$5.4M ARR). Challenge: \$57K spend missing FedEx logistics vocabulary.
 Programme: FedEx Ground/Express/Freight/last-mile vocabulary + FedEx WTC community + TIPA consent management

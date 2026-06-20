@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: KansasCity
 // URL: /content-marketing-kansas-city/
-// Generated: 2026-06-20T04:42:10.755Z
+// Generated: 2026-06-20T05:43:06.416Z
 
 export const ContentMarketing_KansasCity = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ ORACLE HEALTH/CERNER FHIR/MILLENNIUM CONTENT AUTHORITY: Kansas City's most comme
 HALLMARK CARDS CONSUMER BRAND OPERATIONAL CONTENT: Hallmark Cards creates a uniquely KC consumer brand content marketing opportunity — the only major consumer greeting card and gifting company headquartered outside major coastal markets. Brand analytics vendors, creative technology companies, and retail marketing consultancies can build organic content authority addressing Hallmark's specific operational vocabulary: consumer brand lifecycle management, greeting card retail category management, seasonal gifting market timing, and the DTC-to-retail consumer brand content that earns Crown Center procurement engagement.
 
 CHILDREN'S MERCY/KU YMYL ACADEMIC PAEDIATRIC CONTENT: Children's Mercy Kansas City and the University of Kansas Medical Center create health technology and healthcare practice YMYL content marketing opportunities in Kansas City's growing paediatric and academic medical community.`,
-  features: `FEATURES:
-
-Oracle Health/Cerner FHIR/Millennium Content Authority Programme:
+  features: `Oracle Health/Cerner FHIR/Millennium Content Authority Programme:
 For North Kansas City health IT vendors. Cerner PowerChart ClinDoc workflow optimisation methodology articles. FHIR R4 interoperability implementation guides. Oracle Health Millennium revenue cycle integration operational content. CMS quality measure (HCAHPS, Core Measures, MIPS) integration content. HIMSS and ONC community editorial programme. GEO/AEO for KC Oracle Health and Cerner AI search queries.
 
 Hallmark Consumer Brand Operational Content Library:
@@ -37,6 +35,8 @@ For Kansas City creative technology and brand analytics vendors. Consumer brand 
 
 Children's Mercy/KU Medical YMYL Academic Paediatric Content:
 For Kansas City healthcare practices and health technology. Children's Mercy Kansas City clinical programme vocabulary. University of Kansas Medical Center and KU School of Medicine academic research community. HIPAA-compliant paediatric clinical case studies. YMYL E-E-A-T architecture throughout.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: North KC Health IT — Oracle Health/Cerner FHIR Content Authority
 Client: EHR consulting, North KC (\$7.4M). Challenge: Generic health IT content. Oracle Health/Cerner community not finding.
 Programme: PowerChart/FHIR R4/Millennium content + HIMSS/ONC community editorial + GEO/AEO

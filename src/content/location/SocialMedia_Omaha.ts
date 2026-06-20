@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Omaha
 // URL: /social-media-marketing-omaha/
-// Generated: 2026-06-20T04:42:14.312Z
+// Generated: 2026-06-20T05:43:14.701Z
 
 export const SocialMedia_Omaha = {
   service: "SocialMedia",
@@ -27,9 +27,7 @@ BERKSHIRE HATHAWAY ANNUAL MEETING LINKEDIN: Berkshire's Omaha headquarters creat
 UNION PACIFIC RAIL LOGISTICS PROFESSIONAL COMMUNITY: Union Pacific's Omaha campus creates a LinkedIn rail and supply chain professional community evaluating logistics technology vendor content against the operational precision of one of the US's largest freight railroads.
 
 AUTHENTIC GATE CITY CONSUMER BRAND SOCIAL: Omaha's Old Market historic warehouse district — one of the Midwest's most vibrant independent retail, restaurant, and arts communities — Dundee's established residential arts neighbourhood, and Aksarben Village's mixed-use urban development create consumer brand social opportunities. The Berkshire Annual Meeting (May) and College World Series (TD Ameritrade Park, June) create annually recurring seasonal social engagement windows unique to Omaha.`,
-  features: `FEATURES:
-
-Berkshire Annual Meeting FINRA Investment LinkedIn:
+  features: `Berkshire Annual Meeting FINRA Investment LinkedIn:
 For Omaha financial technology and investment analytics vendors. Berkshire FINRA value investing vocabulary. Insurance float analytics (GEICO, General Re). Berkshire Annual Meeting May community — peak engagement window. Subsidiary operational management intelligence. Mutual of Omaha insurance community.
 
 Union Pacific Rail Logistics Professional LinkedIn:
@@ -37,6 +35,8 @@ For Omaha rail and supply chain technology vendors. Union Pacific rail network a
 
 Authentic Gate City Consumer Brand Social:
 For Old Market, Dundee, and Aksarben consumer brands. Old Market warehouse district arts community. Dundee residential arts and food character. Aksarben Village mixed-use urban community. Berkshire Annual Meeting May seasonal social — Warren Buffett community, shareholder gathering vocabulary. College World Series June seasonal social — college baseball championship community.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Omaha Financial Technology — Berkshire Annual Meeting FINRA LinkedIn
 Client: Investment analytics, Omaha (\$6.4M ARR). Challenge: Generic LinkedIn. Berkshire Annual Meeting community not engaging.
 Programme: Berkshire FINRA value investing/insurance vocabulary + Annual Meeting May community + Berkshire Sales Navigator

@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Jacksonville
 // URL: /digital-marketing-agency-jacksonville/
-// Generated: 2026-06-20T04:42:11.303Z
+// Generated: 2026-06-20T05:43:08.630Z
 
 export const DigitalMarketing_Jacksonville = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Jacksonville",
   citySlug: "jacksonville",
-  slug: "/digital-marketing-agency-jacksonville/",
+  slug: "/digital-marketing-agency-in-jacksonville/",
   
   h1: `Digital Marketing Agency Jacksonville — FIS Global Revenue, Florida Blue Insurance Tech, Baptist Health YMYL, and First Coast Commercial Growth`,
   primaryKw: `digital marketing agency jacksonville`,
@@ -30,6 +30,20 @@ BAPTIST HEALTH AND NEMOURS WOLFSON ACADEMIC HEALTHCARE DIGITAL MARKETING: Baptis
 
 NAS JACKSONVILLE MILITARY PROFESSIONAL SERVICES: Naval Air Station Jacksonville and Mayport Naval Station create a 35,000+ military professional community generating professional services demand for FINRA-compliant financial advisory, VA healthcare navigation, legal services, and SCRA-aware mortgage services — identical to Tampa's MacDill community structure.`,
   features: ``,
+  pas: ``,
+  services: `SEO JACKSONVILLE: FIS Global FINRA payment/banking vocabulary. Florida Blue insurance tech HEDIS. Baptist Health/Nemours YMYL. NAS military. SB 262-native. /seo-services-jacksonville/
+
+GOOGLE ADS JACKSONVILLE: FIS Global FINRA fintech PPC. Florida Blue HIPAA insurance. Baptist Health HIPAA patient acquisition. NAS military TSP/SCRA. SB 262 Consent Mode v2.
+
+CONTENT MARKETING JACKSONVILLE: FIS payment/banking/wealth authority content. Florida Blue managed care HEDIS. Baptist Health YMYL clinical. NAS military professional.
+
+LINKEDIN JACKSONVILLE: FIS Global fintech LinkedIn. Florida Blue insurance professional community. Baptist Health clinical community. Riverside/Avondale authentic Jacksonville.
+
+EMAIL JACKSONVILLE: FIS/Florida Blue named HubSpot pipeline. Baptist Health HIPAA health system. NAS military 5-stage Florida onboarding. SB 262-compliant.
+
+LOCAL SEO JACKSONVILLE: FIS proximity GBP. Baptist Health/Nemours YMYL credential. Ponte Vedra/St. Johns professional quality. NAS military trust signals.
+
+WEB DESIGN JACKSONVILLE: FIS Global FINRA institutional. Baptist Health YMYL HIPAA. Florida Blue insurance tech.`,
   caseStudies: `Case Study 1: Jacksonville Fintech — FIS Global/Florida Blue Full Digital Programme
 Client: Banking technology SaaS, Jacksonville (\$6.8M ARR). Challenge: New FIS VP/Florida Blue CTO without connections — invisible. Zero FIS vocabulary.
 Programme: SEO (FIS payment/core banking vocabulary) + LinkedIn (FIS fintech community) + email (FIS/Florida Blue named pipeline) + content (FIS authority) + SB 262

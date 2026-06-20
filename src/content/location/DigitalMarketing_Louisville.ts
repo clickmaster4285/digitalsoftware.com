@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Louisville
 // URL: /digital-marketing-agency-louisville/
-// Generated: 2026-06-20T04:42:11.374Z
+// Generated: 2026-06-20T05:43:08.692Z
 
 export const DigitalMarketing_Louisville = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Louisville",
   citySlug: "louisville",
-  slug: "/digital-marketing-agency-louisville/",
+  slug: "/digital-marketing-agency-in-louisville/",
   
   h1: `Digital Marketing Agency Louisville — Humana Revenue, GE Appliances Manufacturing, Churchill Downs Hospitality, and Derby City Commercial Growth`,
   primaryKw: `digital marketing agency louisville`,
@@ -30,6 +30,20 @@ CHURCHILL DOWNS HOSPITALITY AND GAMING DIGITAL MARKETING: Churchill Downs' Louis
 
 UOFL HEALTH, NORTON HEALTHCARE, AND BROWN-FORMAN YMYL AND BRAND: University of Louisville Health, Norton Healthcare, and Brown-Forman (Jack Daniel's parent company, Louisville headquarters, spirits brand B2B) create YMYL academic medical and consumer brand B2B digital marketing opportunities.`,
   features: ``,
+  pas: ``,
+  services: `SEO LOUISVILLE: Humana Medicare Advantage/Stars vocabulary. GE Appliances manufacturing smart. Churchill Downs hospitality/gaming. UofL Health/Norton YMYL. /seo-services-louisville/
+
+GOOGLE ADS LOUISVILLE: Humana HIPAA health insurance. GE Appliances manufacturing. Churchill Downs hospitality. UofL Health HIPAA patient.
+
+CONTENT MARKETING LOUISVILLE: Humana Stars/value-based care authority. GE Appliances smart manufacturing. Churchill Downs Derby hospitality seasonal. UofL Health YMYL.
+
+LINKEDIN LOUISVILLE: Humana Medicare Advantage professional. GE Appliances manufacturing engineering. Churchill Downs gaming professional. Highlands/NuLu/Butchertown authentic Louisville.
+
+EMAIL LOUISVILLE: Humana/GE Appliances named HubSpot pipeline. UofL Health HIPAA. Churchill Downs Derby May seasonal-aware. Brown-Forman bourbon.
+
+LOCAL SEO LOUISVILLE: Humana proximity GBP. UofL Health/Norton YMYL. St. Matthews/Anchorage professional quality.
+
+WEB DESIGN LOUISVILLE: Humana HIPAA institutional. GE Appliances manufacturing quality. UofL Health YMYL.`,
   caseStudies: `Case Study 1: Louisville Health Insurance Technology — Humana Full Digital Programme
 Client: Health insurance analytics, Louisville (\$5.4M ARR). Challenge: New Humana VP Value-Based Care without connections — invisible. Zero Medicare Advantage vocabulary.
 Programme: SEO (Humana Medicare Advantage/Stars vocabulary) + LinkedIn (Humana managed care community) + email (Humana named pipeline) + content (Stars/value-based care authority)

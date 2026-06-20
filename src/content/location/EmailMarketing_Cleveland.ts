@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Cleveland
 // URL: /email-marketing-cleveland/
-// Generated: 2026-06-20T04:42:11.839Z
+// Generated: 2026-06-20T05:43:09.244Z
 
 export const EmailMarketing_Cleveland = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ CLEVELAND CLINIC WORLD-CLASS CARDIOVASCULAR PIPELINE EMAIL: Cleveland Clinic's h
 PARKER HANNIFIN/LINCOLN ELECTRIC PRECISION MANUFACTURING NURTURE: Parker Hannifin and Lincoln Electric procurement cycles run 90-240 days. Email nurture content maintaining relationship continuity through these manufacturing enterprise evaluation cycles requires operational vocabulary: Parker Hannifin motion control efficiency operational updates, hydraulics predictive maintenance intelligence, Lincoln Electric GMAW/GTAW welding process optimisation content, and manufacturing enterprise operational intelligence at the precision of an engineer-evaluated email channel.
 
 PROGRESSIVE INSURANCE/KEYCORP FINRA-COMPLIANT FINANCIAL EMAIL: Progressive Insurance and KeyCorp procurement create FINRA-compliant insurance technology and financial services email marketing opportunities — with Progressive Snapshot UBI telematics analytics content and KeyBank financial platform operational intelligence within FINRA Rule 2210 compliance boundaries.`,
-  features: `FEATURES:
-
-Cleveland Clinic World-Class Cardiovascular Pipeline HubSpot:
+  features: `Cleveland Clinic World-Class Cardiovascular Pipeline HubSpot:
 For Cleveland health IT vendors. Cardiovascular clinical vocabulary email: coronary artery disease analytics, electrophysiology informatics operational intelligence, Lerner Research NIH programme updates, Cleveland Clinic Innovations AI partnership news. HubSpot Cleveland Clinic/University Hospitals named account sequences. 90-180 day academic health system procurement deal-stage triggers. HIPAA-compliant email data handling throughout. ACC/AHA community intelligence updates.
 
 Parker Hannifin/Lincoln Electric Manufacturing Nurture HubSpot:
@@ -37,6 +35,8 @@ For Northeast Ohio industrial technology vendors. Parker Hannifin motion control
 
 Progressive/KeyBank FINRA-Compliant Financial Email:
 For Cleveland insurance and financial technology vendors. FINRA Rule 2210-compliant email content. Progressive Snapshot UBI telematics analytics intelligence. KeyBank financial platform operational updates. Progressive Mayfield Village/KeyCorp named account sequences.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Cleveland Cardiovascular Tech — Cleveland Clinic World-Class Pipeline Email
 Client: Cardiovascular analytics SaaS, Cleveland (\$7.4M ARR). Challenge: CC contacts cold in 120-day cycles. Generic health IT newsletter below world-class standard.
 Programme: Coronary/electrophysiology/Lerner email content + CC/UH named sequences + HIPAA-compliant + 150-day procurement triggers

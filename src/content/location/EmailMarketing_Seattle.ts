@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Seattle
 // URL: /email-marketing-seattle/
-// Generated: 2026-06-20T04:42:12.129Z
+// Generated: 2026-06-20T05:43:10.320Z
 
 export const EmailMarketing_Seattle = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ AMAZON-STANDARD EMAIL PIPELINE ATTRIBUTION: In Seattle's data-driven commercial 
 MHMD-COMPLIANT HEALTHCARE EMAIL: Washington's My Health MY Data Act creates specific requirements for healthcare email programmes beyond HIPAA. Patient email programmes that collect appointment-booking data, condition-specific preference information, or health-related engagement signals may be generating MHMD-regulated consumer health data. MHMD-compliant email architecture — using HIPAA-covered ESPs with MHMD-aware data minimisation — protects Washington healthcare practices from both HIPAA and MHMD enforcement exposure simultaneously.
 
 PACIFIC NORTHWEST AUTHENTIC-VALUES EMAIL: Seattle's consumer and professional community evaluates email content through the same authenticity-intelligence lens applied to every other marketing channel. Email that leads with genuine sustainability evidence (specific certifications, actual carbon data, named third-party verification) earns engagement. Email that leads with generic 'we care about sustainability' messaging earns unsubscribes from precisely the Pacific Northwest audience whose engagement would be most commercially valuable.`,
-  features: `FEATURES:
-
-Amazon-Standard HubSpot Pipeline Nurture:
+  features: `Amazon-Standard HubSpot Pipeline Nurture:
 For South Lake Union, Bellevue, and Seattle B2B SaaS and technology companies. HubSpot Marketing Hub integrated with Salesforce CRM: email engagement events mapped to Salesforce deal stage triggers, email click events advancing opportunity stage, campaign-to-pipeline attribution with documented methodology. Monthly email revenue reporting in pipeline language: 'email generated 14 enterprise-qualified leads this month contributing \$2.2M in pipeline' — not 'email achieved 38% open rate.' The Amazon-standard email programme that earns continued investment by demonstrating commercial returns in language the data-driven Seattle executive accepts.
 
 MHMD-Compliant HIPAA Healthcare Email:
@@ -37,6 +35,15 @@ For Washington healthcare practices and health technology companies. MHMD + HIPA
 
 Pacific Northwest Authentic-Values B2B and Consumer Email:
 For Seattle's outdoor brands, sustainable consumer companies, and Pacific Northwest B2B businesses. Authentic evidence standard in email content: B Corp certification with specific score, carbon reduction with third-party verification, bluesign/OEKO-TEX certifications (not generic 'sustainable' claims). Klaviyo authentic-values DTC programme for Seattle's consumer brands. The email that earns genuine engagement from Pacific Northwest's most commercially active and authenticity-discerning audience.`,
+  pas: ``,
+  services: `SEATTLE AWS/AZURE ECOSYSTEM B2B EMAIL (HUBSPOT):
+For South Lake Union, Bellevue, and Seattle enterprise technology companies. Amazon-standard CRM attribution. Salesforce/HubSpot deal-stage-triggered automation. AWS/Azure ecosystem enterprise buyer nurture tracks. Technical depth content: not generic 'AI solutions' but specific product-level evidence. SDR handoff automation triggered by email engagement signals.
+
+SEATTLE HEALTHCARE EMAIL (MHMD + HIPAA):
+For Washington healthcare practices and health technology companies. MHMD + HIPAA dual-compliance ESP. Patient retention automation (MHMD-safe). Health system B2B pipeline nurture (MHMD-aware). Washington AG-aware data minimisation throughout.
+
+SEATTLE PACIFIC NW AUTHENTIC CONSUMER EMAIL (KLAVIYO):
+For outdoor apparel, sustainable consumer, and Pacific Northwest lifestyle DTC brands. Authentic-values Klaviyo: B Corp score, specific carbon data, bluesign certifications in email content. 10-flow authentic-values automation. Pacific Northwest community calendar content.`,
   caseStudies: `Case Study 1: South Lake Union AWS SaaS — Amazon-Standard Pipeline Attribution
 Client: AWS data infrastructure SaaS, South Lake Union (\$16M ARR). Challenge: Email programme with open rate reporting only. CFO calling email a cost centre with no documented commercial return.
 Programme: HubSpot-Salesforce integration + deal-stage email triggers + enterprise vocabulary nurture + quarterly pipeline reporting

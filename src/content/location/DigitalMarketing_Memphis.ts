@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Memphis
 // URL: /digital-marketing-agency-memphis/
-// Generated: 2026-06-20T04:42:11.383Z
+// Generated: 2026-06-20T05:43:08.701Z
 
 export const DigitalMarketing_Memphis = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Memphis",
   citySlug: "memphis",
-  slug: "/digital-marketing-agency-memphis/",
+  slug: "/digital-marketing-agency-in-memphis/",
   
   h1: `Digital Marketing Agency Memphis — FedEx Logistics Revenue, St. Jude World-Class YMYL, AutoZone Retail, and Bluff City Commercial Growth`,
   primaryKw: `digital marketing agency memphis`,
@@ -30,6 +30,20 @@ AUTOZONE AND INTERNATIONAL PAPER FORTUNE 500 DIGITAL MARKETING: AutoZone's Memph
 
 BAPTIST MEMORIAL AND METHODIST LE BONHEUR YMYL HEALTHCARE: Baptist Memorial Health Care and Methodist Le Bonheur Healthcare — together operating the most significant private healthcare networks in the Memphis mid-South region — create health technology and patient acquisition digital marketing opportunities.`,
   features: ``,
+  pas: ``,
+  services: `SEO MEMPHIS: FedEx Ground/Express/Freight logistics vocabulary. St. Jude world-class YMYL paediatric oncology. AutoZone automotive retail analytics. Baptist Memorial/Methodist Le Bonheur YMYL. TIPA-native. /seo-services-memphis/
+
+GOOGLE ADS MEMPHIS: FedEx logistics tech HIPAA-adjacent. St. Jude YMYL HIPAA. AutoZone retail analytics. Baptist Memorial patient acquisition. TIPA consent management.
+
+CONTENT MARKETING MEMPHIS: FedEx logistics/supply chain authority. St. Jude world-class paediatric oncology content. AutoZone automotive retail analytics. Methodist Le Bonheur YMYL.
+
+LINKEDIN MEMPHIS: FedEx logistics professional LinkedIn. St. Jude paediatric oncology research. AutoZone retail tech community. Beale Street/Cooper-Young/Midtown authentic Memphis.
+
+EMAIL MEMPHIS: FedEx/AutoZone named HubSpot pipeline. St. Jude/Baptist HIPAA health system. TIPA-compliant. Memphis BBQ/Music seasonal awareness.
+
+LOCAL SEO MEMPHIS: FedEx proximity GBP. St. Jude world-class YMYL GBP. East Memphis/Germantown professional quality.
+
+WEB DESIGN MEMPHIS: FedEx logistics institutional. St. Jude world-class YMYL HIPAA. AutoZone retail quality.`,
   caseStudies: `Case Study 1: Memphis Logistics Technology — FedEx Full Digital Programme
 Client: Supply chain analytics, Memphis (\$5.4M ARR). Challenge: New FedEx VP Network Intelligence without connections — invisible. Zero FedEx logistics vocabulary.
 Programme: SEO (FedEx Ground/Express/Freight vocabulary) + LinkedIn (FedEx logistics community) + email (FedEx named pipeline) + TIPA-native

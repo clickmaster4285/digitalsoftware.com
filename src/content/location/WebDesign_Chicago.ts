@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Chicago
 // URL: /web-design-agency-chicago/
-// Generated: 2026-06-20T04:42:14.593Z
+// Generated: 2026-06-20T05:43:15.253Z
 
 export const WebDesign_Chicago = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ FORTUNE 500 CHICAGO VENDOR CREDIBILITY: Chicago's Fortune 500 professional commu
 ILLINOIS BIPA-NATIVE ANALYTICS: Illinois BIPA creates specific requirements for website analytics that collect biometric data from Illinois residents. Website analytics configurations — including certain social media pixel implementations — that collect BIPA-regulated biometric data without appropriate BIPA consent create Illinois AG enforcement exposure. BIPA-native website design implements analytics without BIPA-regulated data collection as the default configuration.
 
 ELK GROVE VILLAGE MANUFACTURING WEBSITE PRECISION: Elk Grove Village's 3,500+ manufacturing companies — the largest US industrial park — need websites communicating precision manufacturing credentials at the institutional quality that Fortune 500 supplier evaluation demands: AS9100D/IATF 16949 with accreditation authority links, Cpk/PPM process capability documentation, and the manufacturing credibility architecture that earns Boeing and Caterpillar RFQ consideration.`,
-  features: `FEATURES:
-
-Fortune 500 Chicago Vendor Credibility Architecture:
+  features: `Fortune 500 Chicago Vendor Credibility Architecture:
 ISO/AS9100D/SOC 2/IATF 16949 certifications with authority verification links — not just logo badges. Named executive LinkedIn-verifiable credentials. Fortune 500-scale case study metrics at Caterpillar/Boeing/Abbott client depth. Illinois BIPA-native analytics. The Chicago vendor website that passes Fortune 500 digital due diligence.
 
 Elk Grove Village Manufacturing Precision Architecture:
@@ -37,6 +35,8 @@ For the Elk Grove Village and Schaumburg manufacturing corridor. AS9100D/IATF 16
 
 FINRA/HIPAA Institutional Chicago Website Design:
 For Loop wealth managers, CME ecosystem companies, and Northwestern Medicine-affiliated healthcare. FINRA Rule 2210 compliance throughout. HIPAA-native data architecture for healthcare. Illinois BIPA-native analytics for all categories.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: West Loop Management Consulting — Fortune 500 Credential Redesign
 Client: Management consulting, West Loop (\$9.4M). Challenge: Website without Fortune 500-calibre credential architecture. Caterpillar CPO digital due diligence dismissal.
 Programme: Fortune 500 credential architecture + AS9100D/IATF display + BIPA-native analytics + sub-1.8s LCP

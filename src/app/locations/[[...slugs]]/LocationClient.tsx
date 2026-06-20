@@ -1,7 +1,5 @@
 'use client';
 
-import { useState } from 'react';
-
 interface LocationClientProps {
   location: any;
   serviceName: string;
@@ -21,8 +19,42 @@ export default function LocationClient({
   caseStudies,
   faqs,
 }: LocationClientProps) {
-  // State for FAQ accordion
-  const [openFaq, setOpenFaq] = useState<number | null>(0);
+
+  // Helper to check if any data exists for a section
+  const hasGeoData = geoParagraphs.length > 0;
+  const hasFeatures = features.length > 0;
+  const hasCaseStudies = caseStudies.length > 0;
+  const hasFaqs = faqs.length > 0;
+  const hasInternalLinks = (location.internalLinks || []).length > 0;
+  const hasPas = location.pas && location.pas.trim().length > 0;
+  const hasServices = location.services && location.services.trim().length > 0;
+
+  // Parse services into array if they exist
+  const parseServices = (servicesText: string): { title: string; body: string }[] => {
+    if (!servicesText) return [];
+    
+    const items: { title: string; body: string }[] = [];
+    const sections = servicesText.split(/\n\s*\n/).filter(Boolean);
+    
+    for (const section of sections) {
+      const lines = section.split('\n').filter(Boolean);
+      if (lines.length === 0) continue;
+      
+      const firstLine = lines[0] || '';
+      if (firstLine.includes(':')) {
+        const [title, ...rest] = firstLine.split(':');
+        const body = rest.join(':').trim() + (lines.slice(1).join(' ').trim() ? ' ' + lines.slice(1).join(' ').trim() : '');
+        items.push({
+          title: title.trim(),
+          body: body.trim(),
+        });
+      }
+    }
+    
+    return items;
+  };
+
+  const servicesList = hasServices ? parseServices(location.services) : [];
 
   return (
     <div className="min-h-screen overflow-x-hidden bg-white text-gray-900">
@@ -81,27 +113,27 @@ export default function LocationClient({
       </header>
 
       {/* ===== INTRO / GEO BLOCK ===== */}
-      <section className="relative overflow-hidden border-b border-gray-200 bg-gray-50 text-gray-900">
-        <div className="pointer-events-none absolute inset-x-0 -bottom-10 select-none text-center font-display text-[18vw] leading-none text-gray-900/[0.04]">
-          PROBLEM
-        </div>
-        <div className="relative mx-auto grid max-w-6xl gap-12 px-6 py-28 md:grid-cols-[1fr_2fr]">
-          <div>
-            <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ The Market ]</div>
-            <div className="sticky top-28">
-              <div className="font-display text-2xl">{cityName}</div>
-              <p className="mt-2 text-sm text-gray-600">
-                Primary keyword
-                <br />
-                <code className="mt-1 inline-block rounded-md border border-gray-300 bg-white px-2 py-1 text-xs text-gray-700">
-                  {location.primaryKw || 'N/A'}
-                </code>
-              </p>
-            </div>
+      {hasGeoData && (
+        <section className="relative overflow-hidden border-b border-gray-200 bg-gray-50 text-gray-900">
+          <div className="pointer-events-none absolute inset-x-0 -bottom-10 select-none text-center font-display text-[18vw] leading-none text-gray-900/[0.04]">
+            PROBLEM
           </div>
-          <div>
-            {geoParagraphs.length > 0 ? (
-              geoParagraphs.map((para: string, i: number) => (
+          <div className="relative mx-auto grid max-w-6xl gap-12 px-6 py-28 md:grid-cols-[1fr_2fr]">
+            <div>
+              <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ The Market ]</div>
+              <div className="sticky top-28">
+                <div className="font-display text-2xl">{cityName}</div>
+                <p className="mt-2 text-sm text-gray-600">
+                  Primary keyword
+                  <br />
+                  <code className="mt-1 inline-block rounded-md border border-gray-300 bg-white px-2 py-1 text-xs text-gray-700">
+                    {location.primaryKw || 'N/A'}
+                  </code>
+                </p>
+              </div>
+            </div>
+            <div>
+              {geoParagraphs.map((para: string, i: number) => (
                 <p
                   key={i}
                   className={
@@ -119,50 +151,116 @@ export default function LocationClient({
                     para
                   )}
                 </p>
-              ))
-            ) : (
-              <p className="text-gray-500">No content available for this location.</p>
-            )}
-          </div>
-        </div>
-      </section>
-
-{/* ===== FEATURES ===== */}
-<section id="features" className="relative overflow-hidden border-b border-gray-200 bg-white">
-  <div className="pointer-events-none absolute inset-x-0 top-10 select-none text-center font-display text-[18vw] leading-none text-gray-900/[0.05]">
-    SERVICES
-  </div>
-  <div className="relative mx-auto max-w-6xl px-6 py-28">
-    <div>
-      <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ What We Build ]</div>
-      <h2 className="font-display text-4xl md:text-6xl">
-        Three architectures
-        <span className="block text-rose-600">— one {cityName} playbook.</span>
-      </h2>
-    </div>
-    <div className="mt-14 grid gap-4 md:grid-cols-3">
-      {features.length > 0 ? (
-        features.map((feature, i) => (
-          <article
-            key={i}
-            className="group relative flex flex-col rounded-2xl border border-gray-200 bg-white p-7 transition hover:-translate-y-1 hover:border-rose-500/50"
-          >
-            <div className="mb-5 flex items-start justify-between">
-              <span className="font-display text-3xl text-rose-600">
-                0{i + 1}
-              </span>
-              <span className="text-sm uppercase tracking-widest text-gray-500">Capability</span>
+              ))}
             </div>
-            <h3 className="font-display text-xl leading-snug">{feature.title}</h3>
-            <p className="mt-3 text-sm leading-relaxed text-gray-600">{feature.body}</p>
-          </article>
-        ))
-      ) : (
-        <p className="col-span-3 text-center text-gray-500 py-12">No features available for this location.</p>
+          </div>
+        </section>
       )}
-    </div>
-  </div>
-</section>
+
+      {/* ===== PAS (Problem-Agitation-Solution) ===== */}
+      {hasPas && (
+        <section className="relative overflow-hidden border-b border-gray-200 bg-white">
+          <div className="pointer-events-none absolute inset-x-0 top-10 select-none text-center font-display text-[18vw] leading-none text-gray-900/[0.05]">
+            PAS
+          </div>
+          <div className="relative mx-auto max-w-5xl px-6 py-28">
+            <div>
+              <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ Problem · Agitation · Solution ]</div>
+              <h2 className="font-display text-4xl md:text-6xl">
+                The <span className="text-rose-600">Problem</span> We Solve
+              </h2>
+            </div>
+            <div className="mt-10 space-y-6">
+              {location.pas.split('\n').filter(Boolean).map((paragraph: string, i: number) => {
+                const trimmed = paragraph.trim();
+                if (trimmed.startsWith('PROBLEM:')) {
+                  return (
+                    <div key={i} className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-lg">
+                      <h3 className="font-bold text-red-700 text-lg mb-2">⚠️ Problem</h3>
+                      <p className="text-gray-700">{trimmed.replace('PROBLEM:', '').trim()}</p>
+                    </div>
+                  );
+                } else if (trimmed.startsWith('SOLUTION:')) {
+                  return (
+                    <div key={i} className="bg-green-50 border-l-4 border-green-500 p-6 rounded-r-lg">
+                      <h3 className="font-bold text-green-700 text-lg mb-2">✅ Solution</h3>
+                      <p className="text-gray-700">{trimmed.replace('SOLUTION:', '').trim()}</p>
+                    </div>
+                  );
+                } else {
+                  return (
+                    <p key={i} className="text-gray-700 leading-relaxed">{trimmed}</p>
+                  );
+                }
+              })}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* ===== FEATURES ===== */}
+      {hasFeatures && (
+        <section id="features" className="relative overflow-hidden border-b border-gray-200 bg-white">
+          <div className="pointer-events-none absolute inset-x-0 top-10 select-none text-center font-display text-[18vw] leading-none text-gray-900/[0.05]">
+            SERVICES
+          </div>
+          <div className="relative mx-auto max-w-6xl px-6 py-28">
+            <div>
+              <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ What We Build ]</div>
+              <h2 className="font-display text-4xl md:text-6xl">
+                Three architectures
+                <span className="block text-rose-600">— one {cityName} playbook.</span>
+              </h2>
+            </div>
+            <div className="mt-14 grid gap-4 md:grid-cols-3">
+              {features.map((feature, i) => (
+                <article
+                  key={i}
+                  className="group relative flex flex-col rounded-2xl border border-gray-200 bg-white p-7 transition hover:-translate-y-1 hover:border-rose-500/50"
+                >
+                  <div className="mb-5 flex items-start justify-between">
+                    <span className="font-display text-3xl text-rose-600">
+                      0{i + 1}
+                    </span>
+                    <span className="text-sm uppercase tracking-widest text-gray-500">Capability</span>
+                  </div>
+                  <h3 className="font-display text-xl leading-snug">{feature.title}</h3>
+                  <p className="mt-3 text-sm leading-relaxed text-gray-600">{feature.body}</p>
+                </article>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* ===== SERVICES (Detailed Services List) ===== */}
+      {hasServices && servicesList.length > 0 && (
+        <section id="services" className="relative overflow-hidden border-b border-gray-200 bg-gray-50 text-gray-900">
+          <div className="pointer-events-none absolute inset-x-0 bottom-10 select-none text-center font-display text-[18vw] leading-none text-gray-900/[0.04]">
+            SERVICES
+          </div>
+          <div className="relative mx-auto max-w-6xl px-6 py-28">
+            <div>
+              <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ Our Services ]</div>
+              <h2 className="font-display text-4xl md:text-6xl">
+                What We <span className="text-rose-600">Offer</span>
+              </h2>
+            </div>
+            <div className="mt-14 space-y-6">
+              {servicesList.map((service, i) => (
+                <div
+                  key={i}
+                  className="rounded-2xl border border-gray-200 bg-white p-8 transition hover:border-rose-500/40"
+                >
+                  <h3 className="font-display text-2xl text-rose-600 mb-3">{service.title}</h3>
+                  <p className="text-gray-700 leading-relaxed">{service.body}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* ===== STATS ===== */}
       <section className="relative overflow-hidden border-b border-gray-200 bg-gray-50 text-gray-900">
         <div className="pointer-events-none absolute inset-x-0 top-0 select-none text-center font-display text-[16vw] leading-none text-gray-900/[0.04]">
@@ -195,21 +293,21 @@ export default function LocationClient({
       </section>
 
       {/* ===== CASE STUDIES ===== */}
-      <section id="proof" className="relative overflow-hidden border-b border-gray-200 bg-white">
-        <div className="pointer-events-none absolute inset-x-0 top-20 select-none text-center font-display text-[18vw] leading-none text-gray-900/[0.05]">
-          PROOF
-        </div>
-        <div className="relative mx-auto max-w-6xl px-6 py-28">
-          <div>
-            <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ Client Results ]</div>
-            <h2 className="font-display text-4xl md:text-6xl">
-              {cityName} results
-              <span className="block text-rose-600">in practice.</span>
-            </h2>
+      {hasCaseStudies && (
+        <section id="proof" className="relative overflow-hidden border-b border-gray-200 bg-white">
+          <div className="pointer-events-none absolute inset-x-0 top-20 select-none text-center font-display text-[18vw] leading-none text-gray-900/[0.05]">
+            PROOF
           </div>
-          <div className="mt-14 space-y-4">
-            {caseStudies.length > 0 ? (
-              caseStudies.map((study, i) => (
+          <div className="relative mx-auto max-w-6xl px-6 py-28">
+            <div>
+              <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ Client Results ]</div>
+              <h2 className="font-display text-4xl md:text-6xl">
+                {cityName} results
+                <span className="block text-rose-600">in practice.</span>
+              </h2>
+            </div>
+            <div className="mt-14 space-y-4">
+              {caseStudies.map((study, i) => (
                 <article
                   key={i}
                   className="grid gap-6 rounded-2xl border border-gray-200 bg-white p-8 transition hover:border-rose-500/40 md:grid-cols-[220px_1fr]"
@@ -228,29 +326,27 @@ export default function LocationClient({
                     <p className="mt-3 text-sm leading-relaxed text-gray-600">{study.body}</p>
                   </div>
                 </article>
-              ))
-            ) : (
-              <p className="text-center text-gray-500 py-12">No case studies available for this location.</p>
-            )}
+              ))}
+            </div>
           </div>
-        </div>
-      </section>
+        </section>
+      )}
 
       {/* ===== FAQ ===== */}
-      <section id="faq" className="relative overflow-hidden border-b border-gray-200 bg-gray-50 text-gray-900">
-        <div className="pointer-events-none absolute inset-x-0 bottom-0 select-none text-center font-display text-[18vw] leading-none text-gray-900/[0.04]">
-          QUESTIONS
-        </div>
-        <div className="relative mx-auto max-w-3xl px-6 py-28">
-          <div>
-            <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ FAQs ]</div>
-            <h2 className="font-display text-4xl md:text-5xl">
-              {location.faqTitle || `Frequently asked questions about ${serviceName} in ${cityName}`}
-            </h2>
+      {hasFaqs && (
+        <section id="faq" className="relative overflow-hidden border-b border-gray-200 bg-gray-50 text-gray-900">
+          <div className="pointer-events-none absolute inset-x-0 bottom-0 select-none text-center font-display text-[18vw] leading-none text-gray-900/[0.04]">
+            QUESTIONS
           </div>
-          <div className="mt-10 divide-y divide-gray-200 rounded-2xl border border-gray-200 bg-white">
-            {faqs.length > 0 ? (
-              faqs.map((faq, i) => (
+          <div className="relative mx-auto max-w-3xl px-6 py-28">
+            <div>
+              <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ FAQs ]</div>
+              <h2 className="font-display text-4xl md:text-5xl">
+                {location.faqTitle || `Frequently asked questions about ${serviceName} in ${cityName}`}
+              </h2>
+            </div>
+            <div className="mt-10 divide-y divide-gray-200 rounded-2xl border border-gray-200 bg-white">
+              {faqs.map((faq, i) => (
                 <details key={i} className="group">
                   <summary className="flex cursor-pointer items-center justify-between px-6 py-5 font-medium hover:text-rose-600">
                     {faq.question}
@@ -260,13 +356,11 @@ export default function LocationClient({
                   </summary>
                   <p className="px-6 pb-5 text-sm text-gray-600">{faq.answer}</p>
                 </details>
-              ))
-            ) : (
-              <p className="text-center text-gray-500 py-12">No FAQs available for this location.</p>
-            )}
+              ))}
+            </div>
           </div>
-        </div>
-      </section>
+        </section>
+      )}
 
       {/* ===== CTA ===== */}
       <section id="cta" className="relative overflow-hidden border-b border-gray-200 bg-gray-900 text-white">
@@ -305,11 +399,11 @@ export default function LocationClient({
       </section>
 
       {/* ===== INTERNAL LINKS ===== */}
-      <footer className="mx-auto max-w-6xl px-6 py-16">
-        <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ Related ]</div>
-        <div className="grid gap-3 md:grid-cols-2">
-          {(location.internalLinks || []).length > 0 ? (
-            (location.internalLinks || []).map((href: string) => {
+      {hasInternalLinks && (
+        <footer className="mx-auto max-w-6xl px-6 py-16">
+          <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ Related ]</div>
+          <div className="grid gap-3 md:grid-cols-2">
+            {(location.internalLinks || []).map((href: string) => {
               // Clean href for display - remove leading and trailing slashes
               let displayText = href
                 .replace(/^\//, '')
@@ -334,15 +428,13 @@ export default function LocationClient({
                   <span className="text-rose-600">→</span>
                 </a>
               );
-            })
-          ) : (
-            <p className="col-span-2 text-center text-gray-500 py-4">No related links available.</p>
-          )}
-        </div>
-        <div className="mt-12 border-t border-gray-200 pt-6 text-xs text-gray-500">
-          Clickmasters — {serviceName} in {cityName}. All rights reserved.
-        </div>
-      </footer>
+            })}
+          </div>
+          <div className="mt-12 border-t border-gray-200 pt-6 text-xs text-gray-500">
+            Clickmasters — {serviceName} in {cityName}. All rights reserved.
+          </div>
+        </footer>
+      )}
     </div>
   );
 }

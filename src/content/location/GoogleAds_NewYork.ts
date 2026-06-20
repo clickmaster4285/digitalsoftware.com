@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: NewYork
 // URL: /google-ads-management-new-york/
-// Generated: 2026-06-20T04:42:12.689Z
+// Generated: 2026-06-20T05:43:11.163Z
 
 export const GoogleAds_NewYork = {
   service: "GoogleAds",
@@ -28,6 +28,19 @@ QUALITY SCORE ECONOMICS: In NYC's \$50-\$90+ CPC environment, Quality Score mana
 
 FINRA/SEC/NY DFS COMPLIANCE: Wall Street's Google Ads operate under FINRA Rule 2210, SEC advertising regulations, and New York DFS oversight simultaneously — the most comprehensive regulatory framework for financial services advertising in the US. A FINRA-violating Google Ads headline is an examination finding the moment a FINRA examiner sees it.`,
   features: ``,
+  pas: `PROBLEM: The Midtown Manhattan financial advisory firm spending \$45,000/month on Google Ads has two FINRA-violating headlines that have been running for 8 months. The campaigns are generating 340 form fills per month at a reported CPL of \$132 — a number that looks commercially reasonable until CRM integration reveals the actual qualified HNW CPL: \$4,200 per qualified lead. The campaign is efficient at generating unqualified traffic and non-compliant at the regulatory level.
+
+AGITATION: In NYC's \$45-\$90 CPC market, under-optimisation is not a minor inefficiency — it is a major commercial failure that compounds monthly. The NYC B2B SaaS company spending \$80,000/month on Google Ads without CRM integration, without proper QS management, and without accurate CAPI attribution is burning approximately \$25,000/month in correctable waste while also receiving a FINRA examination risk from its financial service ad copy.
+
+SOLUTION: Clickmasters NYC Google Ads delivers FINRA/SEC/NY DFS-compliant campaigns with CRM pipeline attribution, Quality Score management that generates measurable cost reductions, and CAPI implementation that produces accurate attribution in NYC's above-average iOS market — and reports in pipeline value, not form fill CPL.`,
+  services: `FINRA-COMPLIANT FINANCIAL SERVICES GOOGLE ADS NYC:
+For Midtown Manhattan wealth managers, Wall Street-adjacent fintech companies, and NYC investment advisory firms. FINRA Rule 2210 ad copy review before every campaign launch. No guaranteed return claims. No misleading performance comparisons. SEC Marketing Rule (2022)-compliant testimonial ad copy. GIPS-aware performance language. HNW audience signals targeting NYC's ultra-high-net-worth professional demographic. The compliant financial services PPC that reaches New York's wealthiest prospects without creating FINRA examination exposure.
+
+YMYL HEALTHCARE GOOGLE ADS NYC:
+For Manhattan specialist practices, New York Presbyterian-affiliated physicians, and the private healthcare ecosystem serving NYC's 8.3 million residents. HIPAA-compliant server-side conversion tracking. Appointment-booking-only conversion events. New York State Department of Health advertising guideline compliance. New York-specific healthcare competitive landscape strategy (NYC healthcare CPCs are among the highest in the US).
+
+NYC B2B ENTERPRISE GOOGLE ADS:
+For Midtown, Flatiron, and FiDi B2B technology and professional services companies. CRM offline conversion import for NYC's 90-180 day enterprise sales cycles. Quality Score management programme specifically for NYC's \$30-\$70+ B2B CPC environment. CAPI implementation for iOS-accurate attribution in NYC's above-average iOS professional market. Goldman Sachs, JPMorgan, and NYSE ecosystem procurement vocabulary strategy.`,
   caseStudies: `Case Study 1: Midtown Manhattan Wealth Management — FINRA PPC Rebuild
 Client: Multi-family office, Midtown (\$2.4B AUM). Challenge: FINRA violations in 3 ad headlines. FINRA examination pending. Reported CPL \$132, actual HNW CPL \$4,200.
 Programme: FINRA ad copy overhaul + HNW audience signals + Salesforce offline import (HNW qualified lead attribution) + QS programme

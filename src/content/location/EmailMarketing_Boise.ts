@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Boise
 // URL: /email-marketing-boise/
-// Generated: 2026-06-20T04:42:11.768Z
+// Generated: 2026-06-20T05:43:09.151Z
 
 export const EmailMarketing_Boise = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ MICRON TECHNOLOGY SEMICONDUCTOR PIPELINE EMAIL: Micron procurement cycles run 90
 ALBERTSONS GROCERY RETAIL ANALYTICS NURTURE: Albertsons procurement cycles run 90-180 days for retail analytics, CPG technology, and supply chain vendor evaluation. Email nurture with Albertsons' grocery retail vocabulary: shopper behaviour analytics updates, CPG supplier analytics platform intelligence, loyalty programme technology content.
 
 CALIFORNIA-TO-IDAHO PROFESSIONAL IN-MIGRATION 5-STAGE ONBOARDING: Boise's growing California in-migration professional community creates the Mountain West's most commercially active Idaho in-migration email onboarding opportunity. Stage 1 Boise/Treasure Valley welcome → Stage 2 Idaho 5.8% flat tax vs California 13.3% personalised savings analysis → Stage 3 Boise healthcare navigation (St. Luke's, Saint Alphonsus, Treasure Valley Hospital) → Stage 4 Treasure Valley neighbourhood guide (Hyde Park, North End, BoDo, Meridian, Eagle, Nampa) → Stage 5 Micron Technology and Albertsons professional community connection.`,
-  features: `FEATURES:
-
-Micron Technology Semiconductor Pipeline HubSpot:
+  features: `Micron Technology Semiconductor Pipeline HubSpot:
 For Boise semiconductor equipment vendors. DRAM process optimisation intelligence email. NAND flash methodology content. Semiconductor yield analytics. HubSpot Micron named sequences. 90-180 day semiconductor triggers.
 
 Albertsons Grocery Retail Analytics Nurture:
@@ -37,6 +35,8 @@ For Boise retail analytics and CPG vendors. Shopper behaviour analytics updates.
 
 California-to-Idaho 5-Stage Professional In-Migration Onboarding:
 For Boise financial advisory, healthcare, legal, and professional services. Stage 1: Boise/Treasure Valley welcome — City of Trees introduction. Stage 2: Idaho 5.8% vs California 13.3% income tax — personalised annual savings analysis. Stage 3: Treasure Valley healthcare navigation — St. Luke's, Saint Alphonsus, Treasure Valley Hospital. Stage 4: Treasure Valley neighbourhood guide — Hyde Park, North End, BoDo Downtown, Meridian, Eagle, Nampa, Star. Stage 5: Micron Technology, Albertsons, and HP Inc professional community connection.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Boise Semiconductor — Micron Technology Pipeline
 Client: Semiconductor equipment, Boise (\$5.4M ARR). Challenge: Micron contacts cold. Generic semiconductor newsletter.
 Programme: Micron DRAM/NAND/wafer vocabulary email + named sequences + 90-day triggers

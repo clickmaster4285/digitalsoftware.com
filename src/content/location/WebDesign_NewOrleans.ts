@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: NewOrleans
 // URL: /web-design-agency-new-orleans/
-// Generated: 2026-06-20T04:42:14.773Z
+// Generated: 2026-06-20T05:43:15.615Z
 
 export const WebDesign_NewOrleans = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ OCHSNER HEALTH/TULANE YMYL HIPAA ACADEMIC MEDICAL INSTITUTIONAL CREDIBILITY: Och
 ENTERGY CORPORATION UTILITY ENTERPRISE INSTITUTIONAL QUALITY: Entergy Corporation's \$10B+ annual revenue and 3 million customer operations create energy technology vendor website requirements calibrated to a major US regulated utility. Technology vendors competing for Entergy procurement need websites demonstrating Entergy grid modernisation methodology, rate case regulatory vocabulary, transmission and distribution technology operational specifics, and the utility enterprise institutional quality that Entergy New Orleans technology procurement evaluates.
 
 AUTHENTIC NEW ORLEANS CONSUMER BRAND DESIGN: New Orleans' French Quarter, Garden District, Uptown, and Bywater neighbourhood identities create consumer brand website opportunities for businesses communicating genuine Crescent City identity — the authentic New Orleans cultural vocabulary that distinguishes genuinely locally-rooted NOLA brands from generic Southern commercial approximations.`,
-  features: `FEATURES:
-
-Ochsner Health/Tulane YMYL HIPAA Academic Medical Institutional Architecture:
+  features: `Ochsner Health/Tulane YMYL HIPAA Academic Medical Institutional Architecture:
 For New Orleans healthcare practices and health technology. Ochsner Health cardiac and oncology programme service descriptions. Tulane School of Medicine research community academic affiliation. LSU Health Sciences Center clinical vocabulary. HIPAA-native data architecture. YMYL E-E-A-T optimised Louisiana academic medical content. CWV sub-1.6s LCP.
 
 Entergy Corporation Utility Enterprise Institutional Quality Architecture:
@@ -37,6 +35,8 @@ For New Orleans energy technology vendors. Entergy grid modernisation methodolog
 
 Authentic New Orleans Consumer Brand Architecture:
 For French Quarter, Garden District, Uptown, and Bywater consumer brands. French Quarter historic commercial vocabulary. Garden District Victorian architectural elegance. Uptown Magazine Street independent commercial character. Bywater arts community vocabulary. Authentic Crescent City brand identity vs generic Southern lifestyle design.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: New Orleans Health IT — Ochsner/Tulane YMYL HIPAA Redesign
 Client: Clinical analytics, New Orleans (\$5.4M ARR). Challenge: Website without Ochsner/Tulane institutional credibility. Non-HIPAA. VP dismissal.
 Programme: Ochsner/Tulane/LSU Health vocabulary pages + HIPAA-native + YMYL E-E-A-T + CWV (5.0s to 1.4s)

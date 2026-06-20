@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: LosAngeles
 // URL: /google-ads-management-los-angeles/
-// Generated: 2026-06-20T04:42:12.418Z
+// Generated: 2026-06-20T05:43:10.881Z
 
 export const GoogleAds_LosAngeles = {
   service: "GoogleAds",
@@ -28,6 +28,19 @@ SILICON BEACH ENTERPRISE GOOGLE ADS: LA's Silicon Beach corridor commands Google
 
 CCPA CONVERSION ACCURACY: Standard Google Ads conversion tracking in California produces systematically inaccurate conversion data due to California's above-average opt-out rates. A La Brea AI company's Google Ads programme reporting 280 conversions at \$150 CPL may be generating 180 actual attributable conversions at \$233 CPL — with the consent-inflated gap invisibly distorting every bid strategy and budget allocation decision.`,
   features: ``,
+  pas: `PROBLEM: The Playa Vista enterprise technology company spending \$62,000/month in Google Ads. Monthly reports show 340 conversions at \$182 CPL. Standard California conversion tracking — not CCPA-compliant. The board of a venture-backed company with 8-figure ARR asks: 'How many of those 340 conversions became enterprise qualified leads?' The answer: 31. The actual enterprise-qualified CPL is \$2,000. The CCPA non-compliance means the actual CCPA-accurate conversion count is approximately 218, making the actual enterprise-qualified CPL approximately \$2,844. The \$744,000 annual Google Ads investment is generating enterprise-qualified leads at a cost that board members would reduce if accurately reported.
+
+AGITATION: LA's Google Ads market is intensifying as Silicon Beach companies scale their paid programmes and entertainment B2B companies from London and New York enter the LA paid search market. The efficiency window for production-vocabulary, CRM-attributed enterprise campaigns is narrowing.
+
+SOLUTION: Clickmasters LA Google Ads delivers CCPA-compliant conversion accuracy, entertainment production vocabulary campaigns, Silicon Beach enterprise precision, and CRM-attributed pipeline reporting — and presents commercial outcomes in the language that LA's venture-backed founders and entertainment executives accept.`,
+  services: `LA ENTERTAINMENT B2B GOOGLE ADS:
+For Culver City post-production technology, Hollywood entertainment business services, and LA entertainment B2B vendors. DCP/IMF/HDR streaming platform vocabulary. Netflix/Disney+/Amazon production technology audience signals. CCPA-native conversion tracking. Salesforce/HubSpot offline import attributing entertainment-qualified leads. Production industry CPL reporting.
+
+SILICON BEACH ENTERPRISE GOOGLE ADS (CCPA-NATIVE):
+For Santa Monica, Venice, Playa Vista, and El Segundo technology companies. CCPA Consent Mode v2 for accurate California conversion measurement. Enterprise vocabulary at Silicon Beach precision. AI/ML engineering audience signals. DTC platform integration vocabulary for commerce technology companies. QS management programme for LA's \$40-\$85+ enterprise CPCs.
+
+LA CONSUMER AND DTC GOOGLE ADS (CCPA-COMPLIANT):
+For LA's DTC brands, consumer technology, and retail companies. CCPA-compliant Klaviyo/Shopify attribution integration. Creator economy audience targeting. Performance Max with CCPA-aware audience signals. LA's 88-city geographic targeting for local consumer campaigns.`,
   caseStudies: `Case Study 1: Playa Vista Enterprise Technology — CCPA-Native PPC Rebuild
 Client: Enterprise SaaS, Playa Vista LA (\$18M ARR). Challenge: Non-CCPA conversion tracking. Reported CPL \$182, actual enterprise-qualified CPL \$2,844. \$744K annual investment.
 Programme: CCPA Consent Mode v2 + Salesforce offline import + enterprise vocabulary + QS programme (4.1 to 7.6)

@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Houston
 // URL: /content-marketing-houston/
-// Generated: 2026-06-20T04:42:10.718Z
+// Generated: 2026-06-20T05:43:06.356Z
 
 export const ContentMarketing_Houston = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ ENERGY CORRIDOR API/HSE AUTHORITY CONTENT: Houston's ExxonMobil, Shell, BP, and 
 BILINGUAL HEALTHCARE CONTENT: Houston's 44% bilingual Spanish/English community creates a healthcare content opportunity where Spanish-language patient education, bilingual clinical content, and HIPAA-compliant bilingual healthcare content reaches the majority of Houston's patient population in their preferred language.
 
 TMC THOUGHT LEADERSHIP: The Texas Medical Center's 106,000 employees and 60+ medical institutions create a healthcare B2B content marketing opportunity for health technology vendors and medical services companies whose buyer community actively consumes specialised clinical and operational content.`,
-  features: `FEATURES:
-
-Energy Corridor API/HSE Technical Authority Content:
+  features: `Energy Corridor API/HSE Technical Authority Content:
 For Energy Corridor, Westchase, and Houston energy services vendors. API Q1/Q2/Spec 6A/6D/17D specific content citations. TRIR/LTIR safety data in operator-standard format. GOM deepwater operational content: HPHT wells, Christmas tree specifications, umbilical management. OTC and SPE Annual Technical Conference editorial programme. The technical content library that earns ExxonMobil and Shell pre-engagement credibility.
 
 Bilingual Healthcare Content (HIPAA):
@@ -37,6 +35,8 @@ For Houston healthcare practices serving bilingual communities. Spanish-language
 
 TMC Healthcare Professional Content:
 For health technology vendors and medical services companies in the TMC ecosystem. UT Health Houston and UTHealth system reference content. Clinical informatics operational vocabulary. HCAHPS/VBP/ACO content for health system procurement. HIPAA-compliant clinical case studies.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Energy Corridor Subsea Company — API/HSE Technical Authority
 Client: Subsea inspection services, Houston (\$22M). Challenge: ExxonMobil and Shell procurement finding generic content — no API technical authority.
 Programme: API Spec 17D/GOM deepwater content + OTC editorial programme + SPE HARO + TRIR/LTIR operational vocabulary

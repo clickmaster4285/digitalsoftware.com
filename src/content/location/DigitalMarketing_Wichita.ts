@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Wichita
 // URL: /digital-marketing-agency-wichita/
-// Generated: 2026-06-20T04:42:11.658Z
+// Generated: 2026-06-20T05:43:09.058Z
 
 export const DigitalMarketing_Wichita = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Wichita",
   citySlug: "wichita",
-  slug: "/digital-marketing-agency-wichita/",
+  slug: "/digital-marketing-agency-in-wichita/",
   
   h1: `Digital Marketing Agency Wichita — Spirit AeroSystems Revenue, Textron Aviation Business Aviation, Koch Industries Industrial, and Air Capital Commercial Growth`,
   primaryKw: `digital marketing agency wichita`,
@@ -30,6 +30,20 @@ KOCH INDUSTRIES PRIVATE INDUSTRIAL AND CHEMICAL B2B DIGITAL MARKETING: Koch Indu
 
 VIA CHRISTI/ASCENSION AND WESLEY MEDICAL YMYL: Via Christi Health (Ascension's Wichita network) and Wesley Medical Center (HCA Healthcare) create YMYL health technology digital marketing opportunities.`,
   features: ``,
+  pas: ``,
+  services: `SEO WICHITA: Spirit ITAR-bounded vocabulary. Textron/Cessna/Beechcraft business aviation. Koch Industries industrial. Via Christi/Wesley YMYL. /seo-services-wichita/
+
+GOOGLE ADS WICHITA: Spirit ITAR-bounded community. Textron business aviation. Via Christi HIPAA. Koch industrial.
+
+CONTENT MARKETING WICHITA: Spirit ITAR-bounded aerostructures authority. Textron Aviation business aviation. Koch INVISTA industrial. Via Christi YMYL.
+
+LINKEDIN WICHITA: Spirit aerospace community. Textron Aviation business aviation engineering. Via Christi clinical. Old Town/Delano/Bradley Fair authentic Wichita.
+
+EMAIL WICHITA: Spirit/Textron/Koch ITAR-reviewed pipeline. Via Christi HIPAA. Wichita Riverfest June seasonal.
+
+LOCAL SEO WICHITA: Spirit/Textron proximity GBP. Via Christi/Wesley YMYL. East Side/College Hill professional quality.
+
+WEB DESIGN WICHITA: Spirit ITAR-bounded institutional. Textron aviation quality. Via Christi YMYL HIPAA.`,
   caseStudies: `Case Study 1: Wichita Aerospace Technology — Spirit AeroSystems Full Programme
 Client: Aerospace technology, Wichita (\$6.4M ARR). Challenge: New Spirit VP Supplier Quality without connections. ITAR exposure in existing content.
 Programme: ITAR review + SEO (Spirit aerostructures vocabulary) + LinkedIn (Spirit/Textron community) + email (ITAR-reviewed pipeline)

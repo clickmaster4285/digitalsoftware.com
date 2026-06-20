@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: DesMoines
 // URL: /content-marketing-des-moines/
-// Generated: 2026-06-20T04:42:10.709Z
+// Generated: 2026-06-20T05:43:06.339Z
 
 export const ContentMarketing_DesMoines = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ PRINCIPAL FINANCIAL FINRA/SEC RETIREMENT AND INSURANCE CONTENT AUTHORITY: Des Mo
 EMC/FARM BUREAU IOWA INSURANCE CONTENT: EMC Insurance Companies and Farm Bureau Financial Services create commercial lines and agricultural insurance content marketing opportunities for Iowa's most commercially significant regional insurance enterprises.
 
 Iowa CDPA-native content analytics throughout every programme.`,
-  features: `FEATURES:
-
-Principal Financial FINRA/SEC Retirement and Insurance Content Authority:
+  features: `Principal Financial FINRA/SEC Retirement and Insurance Content Authority:
 For Des Moines insurance and investment technology vendors. FINRA-compliant retirement plan administration content. Group insurance benefits analytics operational intelligence. Principal Bank financial operations content. LIMRA and LOMA insurance editorial community programme. GEO/AEO for Des Moines Principal Financial FINRA AI search queries. Iowa CDPA-native analytics.
 
 EMC/Farm Bureau Iowa Insurance Content:
@@ -37,6 +35,8 @@ For Des Moines insurance technology vendors. EMC commercial lines and property/c
 
 UnityPoint/MercyOne YMYL and Iowa Capital Seasonal Content:
 For Des Moines healthcare and consumer brands. UnityPoint Health/MercyOne Iowa YMYL. HIPAA/CDPA-native clinical. Iowa State Fair seasonal content calendar (August). Drake Relays track and field community (April).`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Des Moines Financial Technology — Principal Financial FINRA Content Authority
 Client: Investment analytics, Des Moines (\$6.4M ARR). Challenge: Generic financial content. Principal insurance capital community not finding.
 Programme: Principal FINRA retirement/group insurance content + LIMRA/LOMA editorial + Iowa CDPA-native + GEO/AEO

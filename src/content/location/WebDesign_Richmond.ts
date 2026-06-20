@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Richmond
 // URL: /web-design-agency-richmond/
-// Generated: 2026-06-20T04:42:14.885Z
+// Generated: 2026-06-20T05:43:15.940Z
 
 export const WebDesign_Richmond = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ CAPITAL ONE FINRA/SEC ML INSTITUTIONAL FINTECH CREDIBILITY: Capital One's Henric
 DOMINION ENERGY CLEAN ENERGY ENTERPRISE QUALITY: Dominion Energy's 7 million customer regulated utility operations create energy technology vendor website requirements calibrated to one of the US's largest utility companies: offshore wind development operational vocabulary in service descriptions, grid modernisation and clean energy transition technology service pages, carbon neutrality programme specifics, and the utility enterprise institutional quality that Dominion Energy Richmond procurement evaluates.
 
 VCU HEALTH/BON SECOURS YMYL HIPAA VCDPA ACADEMIC HEALTHCARE: Virginia Commonwealth University Health System and Bon Secours Virginia Health System create YMYL healthcare website requirements with HIPAA-native VCDPA-native data architecture for Central Virginia's most comprehensive academic healthcare environment.`,
-  features: `FEATURES:
-
-Capital One FINRA/SEC ML Institutional Fintech Credibility Architecture:
+  features: `Capital One FINRA/SEC ML Institutional Fintech Credibility Architecture:
 For Henrico County ML analytics and financial technology companies. Machine learning credit decisioning methodology service descriptions. Consumer lending analytics platform integration service pages. Digital banking technology operational specifics. FINRA Rule 2210-compliant website content from wireframe. SEC Marketing Rule-compliant performance displays. ML-fintech institutional visual quality. Virginia VCDPA-native analytics.
 
 Dominion Energy Clean Energy Enterprise Quality Architecture:
@@ -37,6 +35,8 @@ For Richmond energy technology vendors. Offshore wind development operational vo
 
 VCU Health/Bon Secours YMYL HIPAA VCDPA Academic Healthcare Architecture:
 For Richmond healthcare practices and health technology. VCU Health System academic affiliation. Bon Secours Virginia Health System affiliation where applicable. HIPAA-native VCDPA-native data architecture. YMYL E-E-A-T optimised Central Virginia academic medical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Henrico County ML Fintech — Capital One FINRA ML Credibility Redesign
 Client: ML analytics, Henrico County (\$6.4M ARR). Challenge: Website without Capital One ML institutional credibility. Non-FINRA. VP dismissal.
 Programme: Capital One ML/consumer lending/FINRA service pages + ML-fintech institutional visual + VCDPA-native + CWV (5.0s to 1.4s)

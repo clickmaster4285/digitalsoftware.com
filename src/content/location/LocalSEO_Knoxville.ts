@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Knoxville
 // URL: /local-seo-services-knoxville/
-// Generated: 2026-06-20T04:42:13.123Z
+// Generated: 2026-06-20T05:43:12.185Z
 
 export const LocalSEO_Knoxville = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ UT MEDICAL/COVENANT YMYL CREDENTIAL: UT Medical Center — East Tennessee's only
 
 SEQUOYAH HILLS/FARRAGUT/BEARDEN PROFESSIONAL QUALITY: Sequoyah Hills' elegant Tennessee River residential community, Farragut's high-income western Knoxville suburb, and Bearden's established professional neighbourhood represent the highest-income professional residential markets in Greater Knoxville.`,
   features: ``,
+  pas: `PROBLEM: The Sequoyah Hills financial advisory with a TVA VP and Pilot Flying J CFO client base — 20 reviews, generic 'Knoxville wealth management' GBP. The TVA VP Digital Operations who relocated from Charlotte searches 'fee-only financial adviser Sequoyah Hills CFA TVA Knoxville.' No CFA verification, no TVA vocabulary. He selects the firm with 108 reviews, CFA, 'financial planning for TVA, Pilot Flying J, and University of Tennessee professionals in Sequoyah Hills.'
+
+SOLUTION: Clickmasters Knoxville Local SEO provides the TVA/ORNL proximity, UT Medical YMYL, and Sequoyah Hills/Farragut/Bearden professional quality GBP programme.`,
+  services: `KNOXVILLE TVA/ORNL PROXIMITY B2B GBP:
+ITAR-reviewed TVA/ORNL vocabulary in GBP. Knoxville utility campus proximity signals. Energy/nuclear professional photography. Tennessee TIPA-native review analytics.
+
+KNOXVILLE UT MEDICAL/COVENANT YMYL GBP:
+UT Medical Level 1 Trauma affiliation. Covenant Health system vocabulary. HIPAA/TIPA-native review management.
+
+KNOXVILLE SEQUOYAH HILLS/FARRAGUT/BEARDEN PROFESSIONAL QUALITY GBP:
+CFA/CFP with CFA Institute/CFP Board verification. TVA/Pilot Flying J/UT professional community vocabulary. Tennessee River/Smoky Mountain professional photography. FINRA-aware TIPA-native.`,
   caseStudies: `Case Study 1: Sequoyah Hills Financial Advisory — TVA/Pilot Flying J Professional GBP
 Client: Fee-only RIA, Sequoyah Hills (\$140M AUM). Challenge: GBP below TVA/Pilot Flying J standard.
 Programme: CFA + TVA/Pilot Flying J/UT vocabulary + FINRA-aware + TIPA-native + Sequoyah Hills Tennessee River photography

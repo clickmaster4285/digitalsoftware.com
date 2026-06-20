@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Cincinnati
 // URL: /social-media-marketing-cincinnati/
-// Generated: 2026-06-20T04:42:14.063Z
+// Generated: 2026-06-20T05:43:14.430Z
 
 export const SocialMedia_Cincinnati = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ KROGER RETAIL CREATIVE COMMUNITY LINKEDIN: Kroger's Blue Ash headquarters and th
 
 AUTHENTIC QUEEN CITY CONSUMER BRAND SOCIAL: Cincinnati's Over-The-Rhine (OTR) arts and restaurant district — one of the most dramatically revitalised urban neighbourhoods in the US Midwest — Hyde Park's established residential character, and Eden Park's cultural community create consumer brand Instagram opportunities for businesses communicating genuine Queen City neighbourhood identity.`,
   features: ``,
+  pas: ``,
+  services: `CINCINNATI P&G BRAND MANAGEMENT LINKEDIN:
+For Blue Ash consumer goods technology and consulting vendors. P&G brand building framework operational vocabulary. FMCG consumer insights methodology. Category management operational specifics. P&G/Kroger community Sales Navigator.
+
+CINCINNATI KROGER RETAIL COMMUNITY LINKEDIN:
+For Cincinnati retail technology and supply chain vendors. Kroger grocery retail supply chain vocabulary. 84.51° consumer data science community. Macy's retail analytics community. Consumer purchase analytics operational content.
+
+CINCINNATI AUTHENTIC QUEEN CITY BRAND SOCIAL:
+For OTR, Hyde Park, and Eden Park consumer brands. Over-The-Rhine arts and restaurant district vocabulary. Hyde Park residential community character. Eden Park cultural community content. Authentic Queen City identity vs generic Ohio brand.`,
   caseStudies: `Case Study 1: Blue Ash Consumer Analytics — P&G Brand Management LinkedIn
 Client: Consumer analytics, Blue Ash (\$7.4M). Challenge: Generic marketing LinkedIn. P&G brand management community not engaging.
 Programme: P&G brand building framework vocabulary + FMCG consumer insights methodology + P&G/Kroger Sales Navigator

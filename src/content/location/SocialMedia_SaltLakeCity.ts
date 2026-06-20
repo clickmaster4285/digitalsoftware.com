@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: SaltLakeCity
 // URL: /social-media-marketing-salt-lake-city/
-// Generated: 2026-06-20T04:42:14.420Z
+// Generated: 2026-06-20T05:43:14.880Z
 
 export const SocialMedia_SaltLakeCity = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ GOLDMAN SACHS FINRA INSTITUTIONAL FINANCIAL COMMUNITY: Goldman Sachs's 3,000+ em
 
 AUTHENTIC BEEHIVE STATE CONSUMER BRAND SOCIAL: Salt Lake City's Sugar House neighbourhood — Utah's most vibrant independent commercial and arts community — The Avenues' historic Victorian residential character, and 9th & 9th's artisan retail and food community create consumer brand Instagram opportunities for businesses communicating genuine Salt Lake City identity beyond the ski resort narrative.`,
   features: ``,
+  pas: ``,
+  services: `SLC SILICON SLOPES ENTERPRISE LINKEDIN:
+For South Jordan, Draper, and Greater SLC enterprise technology vendors. Qualtrics XM/Domo BI/Pluralsight operational vocabulary. Silicon Slopes enterprise procurement community. Ancestry.com technology community. UCPA-aware analytics.
+
+SLC GOLDMAN SACHS FINRA INSTITUTIONAL LINKEDIN:
+For SLC financial technology vendors. FINRA-compliant Goldman/Zions institutional vocabulary. Investment banking/trading systems content. Wealth management operational intelligence. UCPA-aware social analytics.
+
+SLC AUTHENTIC BEEHIVE STATE BRAND SOCIAL:
+For Sugar House, The Avenues, and 9th & 9th consumer brands. Sugar House independent arts and food community. Avenues historic Victorian neighbourhood character. 9th & 9th artisan retail community. Authentic SLC identity vs generic Utah outdoor brand.`,
   caseStudies: `Case Study 1: South Jordan Enterprise Software — Silicon Slopes Qualtrics/Domo LinkedIn
 Client: Enterprise analytics, South Jordan (\$6.4M ARR). Challenge: Generic LinkedIn. Silicon Slopes Qualtrics/Domo community not engaging.
 Programme: Qualtrics XM/Domo BI/Pluralsight operational vocabulary + Silicon Slopes Sales Navigator

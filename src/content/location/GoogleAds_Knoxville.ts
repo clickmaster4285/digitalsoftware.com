@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Knoxville
 // URL: /google-ads-management-knoxville/
-// Generated: 2026-06-20T04:42:12.400Z
+// Generated: 2026-06-20T05:43:10.804Z
 
 export const GoogleAds_Knoxville = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ PILOT FLYING J FLEET AND TRUCKING GOOGLE ADS: Pilot Flying J generates fleet man
 
 UT MEDICAL/COVENANT HIPAA TIPA PATIENT ACQUISITION: UT Medical Center and Covenant Health generate patient acquisition searches requiring HIPAA server-side tracking and Tennessee TIPA consent management.`,
   features: ``,
+  pas: `PROBLEM: Knoxville energy analytics spending \$3,800/month on 'energy technology Knoxville.' TVA's new VP Digital searches 'nuclear plant operations technology TVA Knoxville.' Neither in campaign. \$46K missing TVA's specific utility vocabulary at Tennessee CPCs far below Atlanta.
+
+SOLUTION: Clickmasters Knoxville Google Ads delivers TVA utility, Pilot Flying J fleet, UT Medical/Covenant HIPAA TIPA — at Tennessee CPCs below Nashville and Atlanta.`,
+  services: `KNOXVILLE TVA UTILITY GOOGLE ADS:
+TVA nuclear/grid/renewable vocabulary. ORNL ITAR community (reviewed). Tennessee utility audience.
+
+KNOXVILLE PILOT FLYING J FLEET GOOGLE ADS:
+Pilot Flying J travel centre/fleet vocabulary. Trucking analytics. Tennessee logistics audience.
+
+KNOXVILLE UT MEDICAL/COVENANT HIPAA TIPA GOOGLE ADS:
+HIPAA server-side conversion. Tennessee TIPA consent management. UT Medical/Covenant vocabulary.`,
   caseStudies: `Case Study 1: Knoxville Energy — TVA Utility PPC
 Client: Utility analytics, Knoxville (\$5.4M ARR). Challenge: \$46K missing TVA nuclear/grid vocabulary.
 Programme: TVA nuclear/grid/renewable vocabulary + Tennessee TIPA consent + ITAR review ORNL

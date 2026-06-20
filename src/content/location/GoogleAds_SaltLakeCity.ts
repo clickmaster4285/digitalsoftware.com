@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: SaltLakeCity
 // URL: /google-ads-management-salt-lake-city/
-// Generated: 2026-06-20T04:42:12.838Z
+// Generated: 2026-06-20T05:43:11.431Z
 
 export const GoogleAds_SaltLakeCity = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ GOLDMAN SACHS/ZIONS FINRA FINANCIAL SERVICES GOOGLE ADS: Goldman Sachs Salt Lake
 
 UNIVERSITY OF UTAH/PRIMARY CHILDREN'S HIPAA UCPA PATIENT ACQUISITION: University of Utah Health and Primary Children's Hospital create healthcare patient acquisition PPC requiring both HIPAA server-side conversion tracking and Utah UCPA consent management throughout.`,
   features: ``,
+  pas: `PROBLEM: The South Jordan enterprise analytics company spending \$4,800/month on 'analytics consulting Utah' and 'enterprise software Salt Lake City.' Qualtrics VP Platform Partnerships searches 'Qualtrics XM platform integration consulting Utah Silicon Slopes' and 'experience management enterprise analytics partner Lehi.' Neither in the campaign. \$57K annual spend misses Silicon Slopes' most commercially specific enterprise software vocabulary — Qualtrics, Domo, and Pluralsight-calibre operational procurement language.
+
+SOLUTION: Clickmasters Salt Lake City Google Ads delivers Silicon Slopes enterprise vocabulary, Goldman/Zions FINRA-compliant institutional, University of Utah/Primary Children's HIPAA UCPA patient acquisition — at Utah CPCs significantly below San Francisco and Seattle equivalents.`,
+  services: `SLC SILICON SLOPES ENTERPRISE TECH GOOGLE ADS:
+For SLC and Silicon Slopes enterprise technology vendors. Qualtrics XM/Domo BI/Pluralsight vocabulary. Silicon Slopes enterprise audience. UCPA Consent Mode.
+
+SLC GOLDMAN SACHS/ZIONS FINRA GOOGLE ADS:
+For SLC financial technology vendors. FINRA Rule 2210-compliant ad content. Goldman Sachs operational precision vocabulary. Zions Bancorporation Utah banking. Western Alliance community. UCPA Consent Mode.
+
+SLC UNIVERSITY OF UTAH/PRIMARY CHILDREN'S HIPAA UCPA GOOGLE ADS:
+For SLC healthcare practices. HIPAA server-side conversion tracking. UCPA Consent Mode. U of U Health academic vocabulary. Primary Children's paediatric community.`,
   caseStudies: `Case Study 1: South Jordan Enterprise Software — Silicon Slopes Vocabulary PPC
 Client: Enterprise analytics, South Jordan (\$6.4M ARR). Challenge: \$57K spend missing Qualtrics/Domo vocabulary.
 Programme: Qualtrics XM/Domo BI/Pluralsight vocabulary + Silicon Slopes audience + UCPA Consent Mode

@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Philadelphia
 // URL: /local-seo-services-philadelphia/
-// Generated: 2026-06-20T04:42:13.320Z
+// Generated: 2026-06-20T05:43:12.483Z
 
 export const LocalSEO_Philadelphia = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ PA RPC ATTORNEY GBP COMPLIANCE: Pennsylvania Rules of Professional Conduct 7.1-7
 
 MAIN LINE INSTITUTIONAL QUALITY STANDARD: The Philadelphia Main Line's Ardmore-to-Paoli professional corridor — Bryn Mawr, Radnor, Wayne, and Malvern — generates a professional consumer community whose GBP evaluation standard reflects Ivy League educational background and high-income professional career expectations. CFA/CFP credentials with CFP Board verification for financial advisory, MD with Perelman School faculty appointment for healthcare, and Martindale-Hubbell AV Preeminent for legal are the Main Line professional GBP baseline.`,
   features: ``,
+  pas: `PROBLEM: The Main Line orthopaedic surgery group with 4 surgeons — all Perelman School-trained, all Penn Medicine-affiliated — whose GBP shows 26 reviews at 4.8 stars, no Perelman School attribution, no Penn Medicine system affiliation badge, and 3-year-old photography showing the pre-renovation office. The Bryn Mawr executive who recently relocated from New York evaluates the GBP: 26 reviews (below the 130+ she expected from NYC academic medical equivalents), no Perelman credential visible, no Penn Medicine system badge. She selects the Haverford orthopaedic group with 138 reviews, Perelman faculty attribution for all 4 surgeons, and Penn Medicine system affiliation badge prominently displayed.
+
+SOLUTION: Clickmasters Philadelphia Local SEO provides the Penn/Jefferson-credentialled, PA RPC-compliant, Main Line institutional quality GBP programme.`,
+  services: `PHILADELPHIA EDS AND MEDS ACADEMIC MEDICAL GBP:
+For Penn Medicine-adjacent, Jefferson Health-affiliated, and Temple Health-associated practices. Perelman School faculty attribution for all physicians. Penn Medicine/Jefferson/Temple/CHOP system affiliation badges. HIPAA-compliant review management. Peer-reviewed credential display in GBP descriptions.
+
+PHILADELPHIA PA RPC-COMPLIANT LEGAL GBP:
+For Centre City law firms, Main Line attorneys, and Delaware Valley legal practices. PA RPC 7.1-7.3-compliant GBP content. Super Lawyers/Martindale-Hubbell AV Preeminent display. Appropriate case result contextualisation. Pennsylvania Bar Disciplinary Counsel-aware review management.
+
+PHILADELPHIA MAIN LINE PROFESSIONAL GBP:
+For Main Line financial advisory, professional services, and premium consumer businesses. CFA/CFP with CFP Board verification links. Main Line Ivy institutional visual quality. FINRA-aware review management. Delaware Valley professional community photography.`,
   caseStudies: `Case Study 1: Main Line Orthopaedic Group — Penn Medicine Academic GBP Rebuild
 Client: Orthopaedic surgery, Haverford (4 surgeons, Perelman/Penn Medicine). Challenge: 26 reviews, no Perelman/Penn Medicine display. NYC-origin Main Line professionals evaluating as sub-standard.
 Programme: Perelman School attribution (all 4 surgeons) + Penn Medicine system badge + HIPAA review programme + institutional photography (post-renovation)

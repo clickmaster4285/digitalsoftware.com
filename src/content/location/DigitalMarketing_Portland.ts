@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Portland
 // URL: /digital-marketing-agency-portland/
-// Generated: 2026-06-20T04:42:11.508Z
+// Generated: 2026-06-20T05:43:08.875Z
 
 export const DigitalMarketing_Portland = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Portland",
   citySlug: "portland",
-  slug: "/digital-marketing-agency-portland/",
+  slug: "/digital-marketing-agency-in-portland/",
   
   h1: `Digital Marketing Agency Portland — Authentic-Values Revenue Growth for the Pacific Northwest's Most Commercially Distinctive Market`,
   primaryKw: `digital marketing agency portland`,
@@ -28,6 +28,18 @@ NIKE/ADIDAS ECOSYSTEM COMMERCIAL OPPORTUNITY: Nike's Beaverton campus and Adidas
 
 INTEL HILLSBORO ANALYTICAL PRECISION: Intel's Hillsboro campus adds a second commercial culture to Portland's landscape — the analytical, evidence-driven, technically precise engineering culture that evaluates all commercial claims against the same standards applied to semiconductor design specifications.`,
   features: ``,
+  pas: ``,
+  services: `SEO PORTLAND: Athletic brand procurement vocabulary authority. Intel Hillsboro semiconductor B2B content. Pacific NW authentic sustainability content. /seo-services-portland/
+
+GOOGLE ADS PORTLAND: Nike/Adidas ecosystem B2B PPC (brand values vocabulary). Intel corridor semiconductor procurement. Authentic-values consumer advertising. Oregon CPCs 15-20% below Seattle.
+
+CONTENT MARKETING PORTLAND: bluesign/HIGG-accurate material science content. Semiconductor technical authority (SEMI standards). Authentic B Corp certification content. Outdoor Retailer and Athletic Business editorial placement.
+
+LINKEDIN PORTLAND: Nike/Adidas brand community thought leadership. Intel semiconductor technical content. Pacific NW authentic professional values content. /social-media-marketing-portland/
+
+EMAIL PORTLAND: Nike ecosystem 6-stage vendor pipeline nurture. Intel Hillsboro conference contact reactivation. Authentic-values Pacific NW consumer Klaviyo. /email-marketing-portland/
+
+LOCAL SEO PORTLAND: Authentic-values top 3 Local Pack across Portland metro and Washington County. /local-seo-services-portland/`,
   caseStudies: `Case Study 1: Beaverton Performance Material Company — Nike Ecosystem Full Digital Programme
 Client: Sustainable performance fabric company, Beaverton (\$9.4M revenue). Challenge: 8-year Nike relationship at risk from new sourcing director without existing connections. Zero digital commercial presence.
 Programme: SEO (brand values vocabulary) + Google Ads (HIGG/bluesign vocabulary) + LinkedIn (material science thought leadership) + email (Nike 6-stage nurture) + Local SEO (Beaverton)

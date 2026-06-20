@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Memphis
 // URL: /email-marketing-memphis/
-// Generated: 2026-06-20T04:42:11.971Z
+// Generated: 2026-06-20T05:43:09.468Z
 
 export const EmailMarketing_Memphis = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ FEDEX WORLD TECHNOLOGY CENTER LOGISTICS PIPELINE EMAIL: FedEx's procurement cycl
 ST. JUDE WORLD-CLASS YMYL HIPAA PAEDIATRIC ONCOLOGY NURTURE: St. Jude Children's Research Hospital's procurement cycles run 90-180 days for health technology vendor evaluation. HIPAA-compliant email nurture with St. Jude's world-class paediatric oncology vocabulary: childhood cancer genomics research programme intelligence, clinical trial programme updates, computational biology research community content, and Tennessee TIPA-compliant data handling throughout.
 
 MEMPHIS IN MAY SEASONAL COMMERCIAL EMAIL: Memphis's iconic commercial calendar — Memphis in May BBQ World Championship (May), Beale Street Music Festival (May), FedEx St. Jude Championship golf tournament (June), and Blues Foundation events — creates a seasonally leverageable email commercial calendar for hospitality technology, event analytics, and consumer brands. Email timing calibrated to Memphis's major events earns 3-4x above-average engagement from Memphis's commercially active event and hospitality technology community.`,
-  features: `FEATURES:
-
-FedEx World Technology Center Logistics Pipeline HubSpot:
+  features: `FedEx World Technology Center Logistics Pipeline HubSpot:
 For Memphis logistics technology and supply chain vendors. FedEx Ground sortation optimisation updates. Last-mile delivery analytics intelligence emails. Supply chain visibility platform integration insights. FedEx Express Memphis hub operational content. HubSpot FedEx WTC named account sequences. 90-180 day logistics procurement deal-stage triggers. Tennessee TIPA-compliant email data handling.
 
 St. Jude World-Class YMYL HIPAA Paediatric Oncology Nurture:
@@ -37,6 +35,8 @@ For Memphis health IT vendors. Childhood cancer genomics research programme inte
 
 Memphis in May Seasonal Commercial Email:
 For Memphis hospitality technology and consumer brand vendors. Memphis in May BBQ World Championship pre-season content (April). Beale Street Music Festival season (May). FedEx St. Jude Championship golf (June). Blues Foundation events seasonal intelligence. Tennessee TIPA-compliant.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Memphis Logistics Technology — FedEx WTC Logistics Pipeline
 Client: Supply chain analytics, Memphis (\$5.4M ARR). Challenge: FedEx WTC contacts cold. Generic logistics newsletter below WTC precision.
 Programme: FedEx Ground/last-mile/Express hub content + WTC named sequences + 90-day logistics triggers + TIPA-compliant

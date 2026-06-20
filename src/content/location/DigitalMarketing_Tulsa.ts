@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Tulsa
 // URL: /digital-marketing-agency-tulsa/
-// Generated: 2026-06-20T04:42:11.631Z
+// Generated: 2026-06-20T05:43:09.034Z
 
 export const DigitalMarketing_Tulsa = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Tulsa",
   citySlug: "tulsa",
-  slug: "/digital-marketing-agency-tulsa/",
+  slug: "/digital-marketing-agency-in-tulsa/",
   
   h1: `Digital Marketing Agency Tulsa — Williams/ONEOK Midstream Revenue, BOK Financial FINRA, Saint Francis YMYL, and Oil Capital Commercial Growth`,
   primaryKw: `digital marketing agency tulsa`,
@@ -30,6 +30,20 @@ SAINT FRANCIS HEALTH SYSTEM AND OU MEDICINE YMYL DIGITAL MARKETING: Saint Franci
 
 QUIKTRIP RETAIL AND MATRIX SERVICE INDUSTRIAL B2B: QuikTrip's Tulsa headquarters and Matrix Service Company (industrial services/storage tanks) create retail analytics, fuel management technology, and industrial services B2B digital marketing opportunities.`,
   features: ``,
+  pas: ``,
+  services: `SEO TULSA: Williams Transco/ONEOK NGL vocabulary. BOK Financial FINRA. Saint Francis/OU Medicine YMYL. QuikTrip retail. /seo-services-tulsa/
+
+GOOGLE ADS TULSA: Williams/ONEOK midstream PPC. BOK Financial FINRA-compliant. Saint Francis/OU Medicine HIPAA. QuikTrip retail.
+
+CONTENT MARKETING TULSA: Williams/ONEOK midstream authority. BOK Financial FINRA. Saint Francis YMYL. Matrix Service industrial.
+
+LINKEDIN TULSA: Williams/ONEOK midstream professional. BOK Financial banking. Saint Francis clinical. Blue Dome/Brookside/Cherry Street authentic Tulsa.
+
+EMAIL TULSA: Williams/ONEOK/BOK named pipeline. Saint Francis HIPAA. QuikTrip retail nurture.
+
+LOCAL SEO TULSA: Williams/ONEOK proximity GBP. Saint Francis/OU Medicine YMYL. Southern Hills/Utica Square professional quality.
+
+WEB DESIGN TULSA: Williams/ONEOK midstream institutional. BOK Financial FINRA. Saint Francis YMYL HIPAA.`,
   caseStudies: `Case Study 1: Tulsa Midstream Technology — Williams/ONEOK Full Digital Programme
 Client: Midstream analytics, Tulsa (\$5.4M ARR). Challenge: New Williams VP Digital without connections. Zero Transco/NGL vocabulary.
 Programme: SEO (Williams Transco/ONEOK NGL vocabulary) + LinkedIn (midstream community) + email (Williams/ONEOK named pipeline)

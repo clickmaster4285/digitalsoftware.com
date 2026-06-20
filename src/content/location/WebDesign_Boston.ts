@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Boston
 // URL: /web-design-agency-boston/
-// Generated: 2026-06-20T04:42:14.569Z
+// Generated: 2026-06-20T05:43:15.204Z
 
 export const WebDesign_Boston = {
   service: "WebDesign",
@@ -37,6 +37,15 @@ For Cambridge CROs, CDMOs, and biotech technology vendors. FDA-aware content: no
 
 Academic Medical Centre YMYL Standard:
 For Mass General Brigham-affiliated practices, Dana-Farber-adjacent oncologists, and Boston's private healthcare community. Named MD-authored clinical credential pages with HMS/BU Medical faculty appointments, Partners HealthCare/Mass General Brigham system affiliations, and NIH grant attribution. HIPAA-compliant data architecture. The YMYL website that earns E-E-A-T recognition in Boston's world-leading academic healthcare market.`,
+  pas: ``,
+  services: `BOSTON FINANCIAL SERVICES WEBSITE DESIGN (FINRA/SEC):
+For Back Bay wealth managers, Fidelity ecosystem RIAs, and the investment advisory community. FINRA compliance, SEC Marketing Rule testimonials, GIPS performance display, ADV Part 2 integration, Massachusetts Securities Division awareness. The institutional visual quality that earns trust from Boston's most financially sophisticated HNW professional community.
+
+KENDALL SQUARE LIFE SCIENCES WEBSITE DESIGN (FDA-AWARE):
+For Cambridge CROs, CDMOs, and biotech technology vendors. FDA-aware content architecture. CLIA/CAP/ISO 15189 certification display. Harvard/MIT research collaboration display. Scientific credential architecture. The life sciences website that earns genuine pharma procurement credibility.
+
+BOSTON ACADEMIC HEALTHCARE WEBSITE DESIGN (YMYL):
+For HMS-affiliated practices, Mass General Brigham-adjacent physicians, and Boston's private healthcare community. YMYL-standard content architecture. HMS/Partners faculty credential display. NIH grant attribution. HIPAA-compliant data handling. Appointment booking integration.`,
   caseStudies: `Case Study 1: Back Bay Wealth Management — FINRA Institutional Redesign
 Client: RIA, Back Bay (\$1.8B AUM). Challenge: FINRA-violating performance claims throughout website. Massachusetts Securities Division awareness absent. Below Back Bay institutional visual standard.
 Programme: FINRA compliance redesign + GIPS performance display + SEC Marketing Rule testimonials + ADV Part 2 integration + institutional Back Bay visual

@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: StLouis
 // URL: /google-ads-management-st-louis/
-// Generated: 2026-06-20T04:42:12.909Z
+// Generated: 2026-06-20T05:43:11.537Z
 
 export const GoogleAds_StLouis = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ EDWARD JONES FINRA-COMPLIANT FINANCIAL TECHNOLOGY GOOGLE ADS: Edward Jones' Crev
 
 CENTENE/BJC HIPAA HEALTHCARE GOOGLE ADS: Centene Corporation's managed care operations and BJC HealthCare create healthcare B2B and patient acquisition PPC markets requiring HIPAA-compliant server-side conversion tracking throughout. Centene HEDIS/risk adjustment vocabulary reaches managed care technology procurement. BJC Barnes-Jewish patient acquisition requires HIPAA Consent Mode v2.`,
   features: ``,
+  pas: `PROBLEM: The Hazelwood aerospace quality consulting firm spending \$6,000/month on 'aerospace consulting St. Louis' and 'quality management Missouri.' Boeing BDS's new VP of Supply Chain from Northrop searches 'AS9100D certification consulting Hazelwood Boeing St. Louis' and 'DCAA-compliant service provider Boeing vendor Missouri.' Neither in the campaign. \$72K annual spend on generic vocabulary misses the most commercially valuable aerospace B2B procurement searches in Missouri.
+
+SOLUTION: Clickmasters St. Louis Google Ads delivers ITAR-bounded Boeing BDS defence vocabulary, Edward Jones FINRA-compliant financial technology, and Centene/BJC HIPAA-compliant healthcare — at Missouri CPCs significantly below Chicago and NYC equivalents.`,
+  services: `ST. LOUIS BOEING BDS DEFENCE GOOGLE ADS (ITAR-BOUNDED):
+For Hazelwood and Greater St. Louis aerospace and defence tech vendors. AS9100D/DCAA/DoD supply chain vocabulary. ITAR-bounded ad content review. Boeing BDS audience signals. CRM offline import.
+
+ST. LOUIS EDWARD JONES FINRA FINANCIAL GOOGLE ADS:
+For Creve Coeur financial technology vendors. FINRA Rule 2210-compliant ad content. Edward Jones financial advisor platform vocabulary. Centene managed care vocabulary. SEC Marketing Rule-compliant landing pages.
+
+ST. LOUIS CENTENE/BJC HIPAA HEALTHCARE GOOGLE ADS:
+For Clayton and St. Louis health technology vendors and practices. HIPAA server-side conversion tracking. Centene HEDIS/risk adjustment vocabulary. BJC Barnes-Jewish patient acquisition vocabulary. WashU academic medical community.`,
   caseStudies: `Case Study 1: Hazelwood Aerospace Quality — Boeing BDS ITAR Defence Vocabulary PPC
 Client: Aerospace quality consulting, Hazelwood (\$8.4M). Challenge: \$72K annual spend on generic vocabulary missing Boeing BDS AS9100D/DCAA searches.
 Programme: AS9100D/DCAA/DoD vocabulary + Boeing BDS audience + ITAR-bounded ad content + CRM import

@@ -2,7 +2,7 @@
 // Service: SEO
 // City: SanDiego
 // URL: /seo-services-san-diego/
-// Generated: 2026-06-20T04:42:13.901Z
+// Generated: 2026-06-20T05:43:14.063Z
 
 export const SEO_SanDiego = {
   service: "SEO",
@@ -28,6 +28,17 @@ TORREY PINES LIFE SCIENCE SEO: San Diego's Torrey Pines Mesa — Illumina, J&J J
 
 CCPA-NATIVE ANALYTICS ACCURACY: California's CCPA creates systematic organic analytics overstatement for non-compliant San Diego businesses. CCPA-native analytics produce accurate organic session measurement that San Diego's data-driven life science and defence companies accept as commercially credible.`,
   features: ``,
+  pas: `PROBLEM: The Point Loma defence technology company with genuine AS9100D/DCAA credentials and Northrop Grumman/Leidos relationships. Website content uses generic 'defence technology solutions San Diego' vocabulary throughout. Zero publicly releasable defence operational vocabulary. Zero AS9100D quality management content. Zero DCAA compliance content. Northrop Grumman procurement staff Googling 'AS9100D precision machining San Diego' find this company nowhere. ITAR considerations make the company reluctant to build content — but ITAR applies to controlled technical specifications, not to publicly releasable quality management and compliance vocabulary.
+
+SOLUTION: Clickmasters San Diego SEO delivers ITAR-bounded defence contractor vocabulary authority, Torrey Pines life science YMYL content, CCPA-native analytics, and GEO/AEO first-mover architecture.`,
+  services: `SAN DIEGO DEFENCE CONTRACTOR VOCABULARY SEO (ITAR-BOUNDED):
+For Point Loma, Kearny Mesa, and San Diego defence technology companies. ITAR-bounded publicly releasable defence vocabulary: AS9100D quality management, DCAA compliance systems, DoD supplier diversity, cleared facility operational content. Northrop/Leidos/SAIC/BAE Systems community vocabulary. FINRA-aware for defence financial services.
+
+SAN DIEGO TORREY PINES LIFE SCIENCE SEO:
+For Torrey Pines Mesa pharmaceutical and biotech companies. FDA-aware clinical vocabulary: Phase I-III research content, CLIA/CAP credentialling, IRB-aware clinical study descriptions, NDA/BLA regulatory vocabulary. CCPA-native life science analytics. YMYL life science content at clinical authority standard.
+
+SAN DIEGO CCPA-NATIVE ANALYTICS SEO:
+For all San Diego businesses. CCPA/CPRA-compliant organic analytics. Accurate session measurement in California's above-average opt-out environment. CCPA-native GEO/AEO architecture.`,
   caseStudies: `Case Study 1: Point Loma Defence Tech — ITAR-Bounded Vocabulary Authority
 Client: Precision defence technology, Point Loma (\$14M, AS9100D/DCAA/ITAR). Challenge: Zero defence vocabulary organic presence. Northrop/Leidos searches not reaching company.
 Programme: ITAR-bounded AS9100D/DCAA content + Northrop/Leidos community vocabulary + defence supply chain content + GEO/AEO

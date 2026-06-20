@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Indianapolis
 // URL: /local-seo-services-indianapolis/
-// Generated: 2026-06-20T04:42:13.095Z
+// Generated: 2026-06-20T05:43:12.105Z
 
 export const LocalSEO_Indianapolis = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ IU HEALTH ACADEMIC MEDICAL CREDENTIAL: Indiana University Health — combined wi
 
 CARMEL/FISHERS PROFESSIONAL QUALITY STANDARD: Carmel and Fishers have grown into some of the most affluent suburbs in the Midwest — their professional community evaluates GBPs with an analytical precision calibrated to the Midwest Fortune 500 professional standard: credential verification links, professional photography, and above-average review volume meeting the Eli Lilly/Cummins/Simon professional community quality standard.`,
   features: ``,
+  pas: `PROBLEM: The Carmel financial advisory with a growing Eli Lilly and IU Health professional client base — 24 reviews at 4.6 stars, generic 'Carmel wealth management' description, no CFA verification link, no Lilly/IU Health professional community vocabulary, non-HIPAA review management. The new Eli Lilly VP who relocated from Boston searches 'fee-only financial adviser Carmel Indianapolis CFA pharmaceutical professional.' The GBP: 24 reviews (his Boston adviser had 130+), no CFA Board verification visible, no Lilly professional community content signal. He selects the Carmel firm with 114 reviews, CFP Board verification link in description, and 'financial planning for Eli Lilly and IU Health professionals in the Carmel community.'
+
+SOLUTION: Clickmasters Indianapolis Local SEO provides the Eli Lilly proximity, IU Health academic medical-credentialled, Carmel/Fishers professional quality standard GBP programme.`,
+  services: `INDIANAPOLIS ELI LILLY/CORTEVA PROXIMITY B2B GBP:
+For Indianapolis pharmaceutical/ag-science adjacent professional services and tech vendors. Lilly/Corteva pharmaceutical community vocabulary in GBP descriptions. FDA/GMP proximity signals. ISPE/PDA community awareness in GBP content. Pharmaceutical professional community photography.
+
+INDIANAPOLIS IU HEALTH ACADEMIC MEDICAL GBP:
+For Indianapolis healthcare practices. IU Health system affiliation display. IU School of Medicine faculty attribution. Eskenazi Health/Community Health Network academic affiliations. HIPAA-compliant review management.
+
+CARMEL/FISHERS MIDWEST PROFESSIONAL QUALITY GBP:
+For Carmel and Fishers professional services. CFA/CFP with CFP Board/CFA Institute verification links. Lilly/Cummins professional community vocabulary in GBP. Midwest Fortune 500 professional quality photography. FINRA-aware review management.`,
   caseStudies: `Case Study 1: Carmel Financial Advisory — Lilly/IU Health Professional Quality GBP
 Client: Fee-only RIA, Carmel (\$220M AUM). Challenge: Below Midwest Fortune 500 professional standard. Lilly/IU Health professionals selecting competitors.
 Programme: CFP Board verification + Lilly/IU Health community GBP vocabulary + FINRA-aware reviews + Carmel professional photography

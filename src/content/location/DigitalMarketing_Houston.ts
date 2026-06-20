@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Houston
 // URL: /digital-marketing-agency-houston/
-// Generated: 2026-06-20T04:42:11.260Z
+// Generated: 2026-06-20T05:43:08.592Z
 
 export const DigitalMarketing_Houston = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Houston",
   citySlug: "houston",
-  slug: "/digital-marketing-agency-houston/",
+  slug: "/digital-marketing-agency-in-houston/",
   
   h1: `Digital Marketing Agency Houston — Energy Authority, Bilingual Growth, and TMC Revenue for Texas' Commercial Capital`,
   primaryKw: `digital marketing agency houston`,
@@ -30,6 +30,20 @@ BILINGUAL COMMERCIAL MARKET: Houston's 44% Hispanic/Latino population creates a 
 
 TEXAS MEDICAL CENTER: The world's largest medical complex generates patient acquisition searches, health technology procurement queries, and medical equipment evaluation traffic that represents the most commercially valuable healthcare digital marketing opportunity in any US city outside of Boston and Minneapolis.`,
   features: ``,
+  pas: ``,
+  services: `SEO HOUSTON: API/HSE technical authority. Bilingual Spanish/English healthcare. TMC procurement vocabulary. World Oil/Hart Energy editorial. /seo-services-houston/
+
+GOOGLE ADS HOUSTON: API vocabulary energy B2B PPC. Bilingual healthcare (HIPAA-compliant). TMC health system procurement. /google-ads-management-houston/
+
+CONTENT MARKETING HOUSTON: API-specific energy technical content. Bilingual HIPAA healthcare content. TMC clinical authority content. OTC/SPE editorial. /content-marketing-houston/
+
+LINKEDIN HOUSTON: Energy Corridor executive thought leadership. Gulf of Mexico technical community engagement. TMC healthcare LinkedIn.
+
+EMAIL HOUSTON: OTC/SPE conference contact reactivation. Bilingual HIPAA patient retention. TMC B2B pipeline nurture. /email-marketing-houston/
+
+LOCAL SEO HOUSTON: Top 3 Local Pack in English AND Spanish. Energy Corridor B2B. TMC healthcare. /local-seo-services-houston/
+
+WEB DESIGN HOUSTON: API/energy credibility architecture. Bilingual HIPAA healthcare design. TMC institutional quality.`,
   caseStudies: `Case Study 1: Energy Corridor Subsea Company — Full Digital Programme
 Client: Subsea engineering services, Houston (\$48M). Challenge: 100% relationship BD. Zero digital commercial infrastructure.
 Programme: SEO (API vocabulary) + Google Ads (GOM procurement) + email (OTC reactivation) + LinkedIn (subsea thought leadership)

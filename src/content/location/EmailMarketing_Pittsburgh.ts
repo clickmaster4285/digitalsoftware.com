@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Pittsburgh
 // URL: /email-marketing-pittsburgh/
-// Generated: 2026-06-20T04:42:12.061Z
+// Generated: 2026-06-20T05:43:10.000Z
 
 export const EmailMarketing_Pittsburgh = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ UPMC/UPMC INTERNATIONAL WORLD-CLASS HEALTH IT PIPELINE EMAIL: UPMC's health tech
 CMU AI CORRIDOR AUTONOMOUS VEHICLE AND APPLIED AI PROCUREMENT NURTURE: Aurora Innovation, Waymo Research Pittsburgh, Google AI Pittsburgh, and CMU AI procurement cycles run 60-150 days for AI technology services and applied research vendors. Email nurture maintaining relationship continuity through the Pittsburgh AI Corridor's technically demanding evaluation process requires applied AI operational precision: LiDAR-camera sensor fusion pipeline updates, safety-critical autonomy regulatory intelligence, transformer model application operational insights, and CMU NREC robotics research programme news.
 
 PPG/PNC FINRA-COMPLIANT PROFESSIONAL EMAIL: PPG Industries' specialty coatings procurement and PNC Financial's FINRA-active financial services technology procurement create email marketing opportunities requiring specialty materials vocabulary and FINRA Rule 2210-compliant financial content.`,
-  features: `FEATURES:
-
-UPMC/UPMC International World-Class Health IT Pipeline HubSpot:
+  features: `UPMC/UPMC International World-Class Health IT Pipeline HubSpot:
 For Pittsburgh health IT vendors. World-class clinical vocabulary email: UPMC Hillman Cancer Center oncology research updates, UPMC Presbyterian cardiothoracic surgical informatics, UPMC Transplantation technology intelligence, University of Pittsburgh SOM clinical trial community. UPMC International regulatory variance awareness in email content. HubSpot UPMC/UPMC International named account sequences. 90-180 day globally-oriented health system procurement deal-stage triggers. HIPAA internationally-oriented compliant email data handling.
 
 CMU AI Corridor Autonomous Vehicle Procurement Nurture:
@@ -37,6 +35,8 @@ For Pittsburgh AI technology and robotics vendors. LiDAR-camera sensor fusion op
 
 PPG/PNC FINRA-Compliant Professional Email:
 For Pittsburgh enterprise technology and financial vendors. FINRA Rule 2210-compliant email. PPG specialty coatings technology intelligence (aerospace, automotive, industrial). PNC Financial platform operational updates. Highmark Health managed care content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Pittsburgh Health IT — UPMC/UPMC International World-Class Pipeline
 Client: Clinical analytics, Pittsburgh (\$7.4M ARR). Challenge: UPMC/UPMC International contacts cold in 120-day global cycles. Generic health IT email below world-class standard.
 Programme: UPMC Hillman/Presbyterian/International world-class email + Pitt SOM research updates + HIPAA internationally-oriented + 150-day global procurement triggers

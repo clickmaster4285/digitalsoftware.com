@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Tampa
 // URL: /content-marketing-tampa/
-// Generated: 2026-06-20T04:42:10.978Z
+// Generated: 2026-06-20T05:43:08.105Z
 
 export const ContentMarketing_Tampa = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ MOFFITT NCI YMYL ONCOLOGY CONTENT AUTHORITY: Tampa's Moffitt Cancer Center — o
 MACDILL CENTCOM/SOCOM MILITARY PROFESSIONAL CONTENT: The MacDill AFB professional community — CENTCOM and SOCOM operations, with transitions generating above-average financial and legal professional services demand — creates a specific content marketing opportunity for professional services businesses addressing genuine military professional community needs: TSP management and rollover strategy, SCRA interest rate protection operational guidance, VA loan benefit maximisation, military retirement pay optimisation for CENTCOM/SOCOM professional community. Content calibrated to the operational precision of military professionals earns above-average engagement from Tampa's military community.
 
 FLORIDA NO-INCOME-TAX IN-MIGRATION CONTENT LIBRARY: Tampa Bay's growing in-migration from New York, New Jersey, and Midwest states creates above-average professional services content demand — specifically for Florida no-income-tax financial planning content, Florida estate planning vs originating state comparison, and the Gulf Coast lifestyle transition content that helps high-income in-migration professionals navigate their Tampa Bay professional service relationships.`,
-  features: `FEATURES:
-
-Moffitt NCI YMYL Oncology Content Programme:
+  features: `Moffitt NCI YMYL Oncology Content Programme:
 For Tampa health technology vendors and oncology practices. NCI-designated comprehensive cancer centre vocabulary content. Phase I-III oncology trial protocol management methodology articles. Cancer registry analytics operational insights. NCI R01 and R21 research grant community content. HIPAA-compliant oncology case studies. Oncology Society of America and AACR editorial community. YMYL E-E-A-T optimised clinical content structure. Florida SB 262-native content analytics.
 
 MacDill CENTCOM/SOCOM Military Professional Content:
@@ -37,6 +35,8 @@ For South Tampa professional services. CENTCOM/SOCOM military transition operati
 
 Florida No-Income-Tax In-Migration Content Library:
 For Tampa financial advisory, estate planning, and professional services. NY-to-FL/NJ-to-FL income tax comparison content. Florida estate planning vs Northeast originating state comparison. Gulf Coast lifestyle professional service navigation. FINRA-compliant investment content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Tampa Oncology Technology — Moffitt NCI YMYL Content Authority
 Client: Oncology analytics SaaS, Tampa (\$7.4M ARR). Challenge: Zero NCI oncology vocabulary content. Moffitt not finding through organic. HIPAA concerns preventing content investment.
 Programme: NCI/Phase I-III oncology content + AACR/ASO community editorial + YMYL E-E-A-T + HIPAA-compliant + SB 262-native analytics + GEO/AEO

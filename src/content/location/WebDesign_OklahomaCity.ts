@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: OklahomaCity
 // URL: /web-design-agency-oklahoma-city/
-// Generated: 2026-06-20T04:42:14.794Z
+// Generated: 2026-06-20T05:43:15.653Z
 
 export const WebDesign_OklahomaCity = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ DEVON/EXPAND ENERGY OIL AND GAS E&P INSTITUTIONAL VENDOR CREDIBILITY: Devon Ener
 INTEGRIS/OU HEALTH YMYL HIPAA ACADEMIC HEALTHCARE QUALITY: INTEGRIS Health — Oklahoma's largest health system — and OU Health Sciences Center (Oklahoma's only NCI-designated cancer centre) create YMYL healthcare website requirements with HIPAA-native data architecture. Health technology vendors and healthcare practices need websites demonstrating INTEGRIS Health system vocabulary, OU Medicine NCI cancer centre programme affiliation, and the Oklahoma academic YMYL standard.
 
 AUTHENTIC OKC CONSUMER BRAND DESIGN: Oklahoma City's Bricktown entertainment district, Paseo Arts District — OKC's established arts community along Paseo de España — and Midtown's walkable food and arts corridor create consumer brand website opportunities for businesses communicating genuine OKC identity beyond the generic Oklahoma commercial narrative.`,
-  features: `FEATURES:
-
-Devon/Expand Energy E&P Institutional Vendor Credibility Architecture:
+  features: `Devon/Expand Energy E&P Institutional Vendor Credibility Architecture:
 For OKC oil and gas technology and analytics companies. Devon Energy STACK/SCOOP production analytics service descriptions. Unconventional reservoir engineering technology pages. Midstream infrastructure technology service pages. OGE Energy utility vocabulary. E&P enterprise institutional visual quality.
 
 INTEGRIS/OU Health YMYL HIPAA Academic Healthcare Architecture:
@@ -37,6 +35,8 @@ For OKC healthcare practices and health technology. INTEGRIS Health system progr
 
 Authentic OKC Consumer Brand Architecture:
 For Bricktown, Paseo Arts District, and Midtown consumer brands. Bricktown canal district entertainment vocabulary. Paseo Arts District Paseo de España arts community. Midtown walkable food and arts corridor identity. OKC Thunder NBA sports community. Authentic OKC identity vs generic Oklahoma commercial design.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: OKC Energy Technology — Devon/Expand Energy E&P Credibility Redesign
 Client: Energy analytics, OKC (\$5.4M ARR). Challenge: Website without Devon E&P institutional credibility. VP dismissal during due diligence.
 Programme: Devon STACK/SCOOP/unconventional reservoir service pages + E&P enterprise visual + CWV (5.0s to 1.4s)

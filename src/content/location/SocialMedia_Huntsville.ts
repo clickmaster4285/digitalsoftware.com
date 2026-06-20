@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Huntsville
 // URL: /social-media-marketing-huntsville/
-// Generated: 2026-06-20T04:42:14.114Z
+// Generated: 2026-06-20T05:43:14.505Z
 
 export const SocialMedia_Huntsville = {
   service: "SocialMedia",
@@ -27,9 +27,7 @@ NASA MARSHALL ITAR-BOUNDED AEROSPACE LINKEDIN: NASA Marshall and Cummings Resear
 REDSTONE ARSENAL US ARMY DEFENCE PROFESSIONAL COMMUNITY: Redstone Arsenal's AMCOM, MDA, and SMDC create a LinkedIn defence engineering and programme management community evaluating technology vendor content against US Army programme management operational precision — within ITAR boundaries throughout.
 
 AUTHENTIC ROCKET CITY CONSUMER BRAND SOCIAL: Huntsville's Five Points South arts and dining district, Monte Sano State Park's scenic mountain neighbourhood, Hampton Cove's golf and residential community, and the US Space & Rocket Center — home to Space Camp — create consumer brand social opportunities for businesses communicating genuine Rocket City identity.`,
-  features: `FEATURES:
-
-NASA Marshall ITAR-Bounded Aerospace LinkedIn:
+  features: `NASA Marshall ITAR-Bounded Aerospace LinkedIn:
 For Huntsville aerospace technology vendors. ITAR vocabulary review every LinkedIn content piece. SLS vehicle integration publicly releasable content. Artemis mission support publicly available community. Boeing/Lockheed/Northrop Grumman Cummings community. Aerospace engineering LinkedIn Sales Navigator.
 
 Redstone Arsenal US Army Defence LinkedIn:
@@ -37,6 +35,8 @@ For Huntsville defence technology vendors. AMCOM/MDA/SMDC ITAR-bounded publicly 
 
 Authentic Rocket City Consumer Brand Social:
 For Five Points South, Monte Sano, and Hampton Cove consumer brands. Five Points South arts and dining district vocabulary. Monte Sano State Park scenic mountain community. US Space & Rocket Center space heritage community. Space Camp identity vocabulary — unique to Huntsville globally.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Huntsville Aerospace — NASA Marshall ITAR-Bounded LinkedIn
 Client: Aerospace systems engineering, Huntsville (\$6.4M ARR). Challenge: ITAR-controlled vocabulary in LinkedIn. NASA Marshall community not engaging.
 Programme: ITAR vocabulary review all LinkedIn + SLS/Artemis publicly releasable content + NASA Marshall/Cummings Sales Navigator

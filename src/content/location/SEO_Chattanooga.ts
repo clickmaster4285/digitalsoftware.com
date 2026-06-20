@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Chattanooga
 // URL: /seo-services-chattanooga/
-// Generated: 2026-06-20T04:42:13.557Z
+// Generated: 2026-06-20T05:43:12.959Z
 
 export const SEO_Chattanooga = {
   service: "SEO",
@@ -30,6 +30,17 @@ BLUECROSS BLUESHIELD OF TENNESSEE INSURANCE B2B SEO: BlueCross BlueShield of Ten
 
 ERLANGER HEALTH SYSTEM AND CHI MEMORIAL YMYL SEO: Erlanger Health System (Chattanooga's academic medical centre, Level 1 Trauma Center) and CHI Memorial create the YMYL standard for the Chattanooga metro. Tennessee TIPA applies.`,
   features: ``,
+  pas: `PROBLEM: The Chattanooga automotive technology company with genuine VW Chattanooga Assembly relationships. Zero VW ID.4 EV assembly/automotive production vocabulary in website. VW Chattanooga appointed a new VP Supply Chain from BMW Spartanburg. She searches 'EV battery assembly quality technology Chattanooga Volkswagen' and 'automotive body-in-white analytics partner Tennessee.' Company appears for neither.
+
+SOLUTION: Clickmasters Chattanooga SEO delivers VW Chattanooga automotive B2B, Unum FINRA employee benefits, BlueCross Tennessee, Erlanger YMYL, Tennessee TIPA-native, and GEO/AEO first-mover.`,
+  services: `CHATTANOOGA VOLKSWAGEN ASSEMBLY AUTOMOTIVE B2B SEO:
+VW ID.4 EV assembly vocabulary. Automotive manufacturing body-in-white vocabulary. VW production system intelligence. Tennessee automotive community. TIPA-native.
+
+CHATTANOOGA UNUM/BLUECROSS TENNESSEE FINRA SEO:
+Unum Group FINRA employee benefits/disability vocabulary. BlueCross Tennessee health insurance vocabulary. Tennessee insurance community. TIPA-native.
+
+CHATTANOOGA ERLANGER/CHI MEMORIAL YMYL SEO:
+Erlanger Level 1 Trauma vocabulary. CHI Memorial YMYL. HIPAA/TIPA-native healthcare.`,
   caseStudies: `Case Study 1: Chattanooga Automotive Technology — VW Chattanooga Assembly SEO
 Client: Automotive technology, Chattanooga (\$5.4M ARR). Challenge: Zero VW EV assembly vocabulary. VP Supply Chain not finding.
 Programme: VW ID.4 EV/body-in-white/production vocabulary + Tennessee automotive + TIPA-native + GEO/AEO

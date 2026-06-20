@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: NewOrleans
 // URL: /email-marketing-new-orleans/
-// Generated: 2026-06-20T04:42:12.006Z
+// Generated: 2026-06-20T05:43:09.643Z
 
 export const EmailMarketing_NewOrleans = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ OCHSNER/TULANE HIPAA HEALTH IT PIPELINE EMAIL: Ochsner Health and Tulane Univers
 ENTERGY CORPORATION UTILITY TECHNOLOGY NURTURE: Entergy New Orleans' utility technology procurement cycles run 90-180 days. Email nurture maintaining Entergy procurement contact relationships requires Entergy-specific operational vocabulary: grid modernisation programme intelligence, rate case regulatory updates, integrated resource planning news, and the Louisiana utility operational content that Entergy technology procurement staff consumes professionally.
 
 MARDI GRAS/JAZZ FEST CONVENTION HOSPITALITY SEASONAL EMAIL: New Orleans' convention and hospitality technology procurement follows the Crescent City events calendar — the most commercially leverageable events calendar of any US city. Convention management technology, hotel revenue management, and event analytics vendors who calibrate email timing to New Orleans' Mardi Gras (February/March) pre-season, Jazz Fest (April-May), and holiday Essence Festival (July) windows earn 3-4x above-average engagement from New Orleans' world-class convention and hospitality technology procurement community.`,
-  features: `FEATURES:
-
-Ochsner/Tulane HIPAA Health IT Pipeline HubSpot:
+  features: `Ochsner/Tulane HIPAA Health IT Pipeline HubSpot:
 For New Orleans health IT vendors. Ochsner Health cardiac/oncology clinical outcome analytics updates. Tulane School of Medicine research programme intelligence. LSU Health Sciences Center operational content. HubSpot Ochsner/Tulane/LSU named account sequences. 90-180 day Louisiana academic health system procurement triggers. HIPAA-compliant email data handling.
 
 Entergy Corporation Utility Technology Nurture:
@@ -37,6 +35,8 @@ For New Orleans energy technology vendors. Entergy grid modernisation programme 
 
 Mardi Gras/Jazz Fest Convention Hospitality Seasonal Email:
 For New Orleans hospitality technology vendors. Mardi Gras pre-season email (January-February): convention capacity analytics pre-season content. Jazz Fest season email (April-May): event management technology operational content. Summer Essence Festival (July): visitor economy analytics. Post-season operational improvement (August-December). HubSpot Morial Convention Center named account sequences.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: New Orleans Health IT — Ochsner/Tulane HIPAA Pipeline
 Client: Clinical analytics, New Orleans (\$5.4M ARR). Challenge: Ochsner/Tulane contacts cold. Generic health IT newsletter below YMYL standard.
 Programme: Ochsner/Tulane/LSU Health academic email content + HIPAA-compliant + named sequences + 90-day procurement triggers

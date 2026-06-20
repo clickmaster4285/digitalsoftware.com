@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Pittsburgh
 // URL: /google-ads-management-pittsburgh/
-// Generated: 2026-06-20T04:42:12.772Z
+// Generated: 2026-06-20T05:43:11.287Z
 
 export const GoogleAds_Pittsburgh = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ CMU AI CORRIDOR AUTONOMOUS VEHICLE AND APPLIED AI GOOGLE ADS: Pittsburgh's Auror
 
 PPG/PNC FORTUNE 500 FINRA-COMPLIANT GOOGLE ADS: PPG Industries' specialty coatings technology and PNC Financial's FINRA-active banking operations create Fortune 500 vendor PPC opportunities in specialty materials technology and FINRA-compliant financial services vocabulary.`,
   features: ``,
+  pas: `PROBLEM: The Pittsburgh AI consulting company spending \$5,400/month on 'AI consulting Pittsburgh' and 'machine learning services Pennsylvania.' Aurora Innovation's new VP AI Infrastructure searches 'CMU-calibre autonomous vehicle AI engineering Pittsburgh' and 'robotics AI systems consulting Pittsburgh CMU community.' Neither in the campaign. \$64K annual spend on generic vocabulary misses the entire Pittsburgh AI Corridor commercial vocabulary — the most commercially dense applied AI procurement vocabulary outside Silicon Valley.
+
+SOLUTION: Clickmasters Pittsburgh Google Ads delivers UPMC world-class YMYL HIPAA-compliant vocabulary, CMU AI Corridor autonomous vehicle and applied AI, and PPG/PNC FINRA-compliant — at Pennsylvania CPCs significantly below Boston and Silicon Valley equivalents.`,
+  services: `PITTSBURGH UPMC WORLD-CLASS HIPAA HEALTH TECHNOLOGY GOOGLE ADS:
+For Pittsburgh health IT vendors. UPMC Hillman Cancer Center/Presbyterian vocabulary. UPMC International clinical content. HIPAA server-side conversion tracking. UPMC community audience signals.
+
+PITTSBURGH CMU AI CORRIDOR GOOGLE ADS:
+For Pittsburgh AI technology and robotics vendors. CMU Machine Learning vocabulary. Aurora Innovation autonomous vehicle vocabulary. Google AI/Apple ML/Meta AI Pittsburgh community. PyTorch/deep learning applied AI vocabulary.
+
+PITTSBURGH PPG/PNC FORTUNE 500 FINRA GOOGLE ADS:
+For Pittsburgh enterprise technology and financial vendors. PPG specialty coatings vocabulary. PNC Financial/FINRA-compliant content. Highmark managed care vocabulary. US Steel/Allegheny Technologies manufacturing.`,
   caseStudies: `Case Study 1: Pittsburgh AI Consulting — CMU/Aurora AI Corridor PPC
 Client: AI robotics consulting, Pittsburgh (\$7.4M). Challenge: \$64K spend on generic vocabulary. Aurora/CMU AI vocabulary searches unreached.
 Programme: CMU ML/robotics vocabulary + Aurora autonomous vehicle vocabulary + Pittsburgh AI Corridor audience + CRM import

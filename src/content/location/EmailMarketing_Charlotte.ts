@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Charlotte
 // URL: /email-marketing-charlotte/
-// Generated: 2026-06-20T04:42:11.795Z
+// Generated: 2026-06-20T05:43:09.191Z
 
 export const EmailMarketing_Charlotte = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ BOFA/TRUIST BANKING CAPITAL PIPELINE EMAIL: Charlotte's Bank of America and Trui
 NASCAR MOTORSPORTS VENDOR COMMUNITY NURTURE: Charlotte's motorsports ecosystem creates a specific email marketing commercial opportunity — the team manager or chief engineer at Team Penske or Hendrick Motorsports who received an initial vendor proposal 6 weeks ago enters racing season and the vendor relationship goes cold. Email nurture with race season-aware timing, racing operational content relevant to mid-season performance challenges, and motorsports community intelligence maintains vendor relationship continuity through the racing calendar cycles that define Charlotte motorsports enterprise B2B engagement timing.
 
 ATRIUM HEALTH/NOVANT HEALTH PROCUREMENT NURTURE: Charlotte's healthcare enterprise procurement cycles run 90-180 days for health technology evaluation. Email with HCAHPS, VBP, and ACO operational vocabulary maintains Atrium Health and Novant Health procurement relationship continuity through healthcare enterprise evaluation periods — while HIPAA-compliant email data handling protects vendors from HIPAA enforcement exposure.`,
-  features: `FEATURES:
-
-BofA/Truist FINRA-Compliant Banking Capital Pipeline HubSpot:
+  features: `BofA/Truist FINRA-Compliant Banking Capital Pipeline HubSpot:
 For Uptown Charlotte fintech and banking technology vendors. FINRA Rule 2210-compliant email content review for every piece before sending. HubSpot named account sequences for BofA/Truist/Wells Fargo procurement contacts. Banking operational content tracks: treasury management updates, commercial lending technology insights, capital markets analytics. SEC Marketing Rule-compliant case study references in email content. Deal-stage triggers for 90-180 day banking enterprise procurement cycles. American Banker editorial announcement emails.
 
 NASCAR Motorsports Vendor Nurture HubSpot:
@@ -37,6 +35,8 @@ For Concord and Greater Charlotte motorsports technology and engineering service
 
 Atrium Health/Novant Procurement Relationship Email:
 For Charlotte health technology vendors. HCAHPS/VBP/ACO operational vocabulary email content tracks. Atrium Health and Novant Health named account HubSpot sequences. HIPAA-compliant email data handling throughout. 90-180 day health system procurement cycle deal-stage triggers.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Uptown Charlotte Fintech — BofA/Truist FINRA Banking Pipeline Nurture
 Client: Treasury management SaaS, Uptown (\$9M ARR). Challenge: BofA/Truist procurement contacts going cold. Non-FINRA email content. Generic banking newsletter.
 Programme: FINRA Rule 2210-compliant email workflow + BofA/Truist named sequences + banking operational vocabulary tracks + American Banker editorial updates

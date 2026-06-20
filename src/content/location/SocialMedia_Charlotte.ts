@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Charlotte
 // URL: /social-media-marketing-charlotte/
-// Generated: 2026-06-20T04:42:14.046Z
+// Generated: 2026-06-20T05:43:14.403Z
 
 export const SocialMedia_Charlotte = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ NASCAR MOTORSPORTS PROFESSIONAL COMMUNITY LINKEDIN: Charlotte's NASCAR ecosystem
 
 AUTHENTIC QUEEN CITY CONSUMER BRAND SOCIAL: Charlotte's South End arts district, NoDa (North Davidson) creative community, and Plaza Midwood independent commercial culture create consumer brand Instagram and TikTok opportunities for businesses communicating genuine Charlotte neighbourhood identity — the specific community vocabulary that distinguishes authentic Queen City brands from generic Southeast commercial approximations.`,
   features: ``,
+  pas: ``,
+  services: `CHARLOTTE BANKING CAPITAL LINKEDIN (FINRA-COMPLIANT):
+For Uptown Charlotte fintech and banking technology vendors. BofA/Truist banking operational vocabulary LinkedIn content. FINRA Rule 2210-compliant content for registered financial companies. Treasury management, commercial lending, capital markets operational thought leadership. BofA/Truist executive Sales Navigator pipeline development.
+
+CHARLOTTE NASCAR MOTORSPORTS PROFESSIONAL LINKEDIN:
+For Concord and Greater Charlotte motorsports technology vendors. NASCAR racing engineering operational vocabulary. Team Penske/Hendrick/Gibbs community engagement. Racing supply chain operational insights. Motorsports sponsorship ROI content. SAE motorsports community participation.
+
+CHARLOTTE AUTHENTIC QUEEN CITY CONSUMER SOCIAL:
+For South End, NoDa, and Plaza Midwood consumer brands. South End arts district vocabulary. NoDa creative neighbourhood community content. Plaza Midwood independent commercial character. Charlotte food and beverage authentic community. Authentic Queen City vs generic Southeast brand social.`,
   caseStudies: `Case Study 1: Uptown Charlotte Fintech — BofA/Truist Banking Capital LinkedIn
 Client: Treasury management SaaS, Uptown (\$9M ARR). Challenge: Generic LinkedIn. New BofA CTO and Truist CTO not engaging.
 Programme: BofA/Truist banking vocabulary LinkedIn + FINRA-compliant + treasury/capital markets content + Sales Navigator banking executive

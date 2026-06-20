@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Memphis
 // URL: /social-media-marketing-memphis/
-// Generated: 2026-06-20T04:42:14.218Z
+// Generated: 2026-06-20T05:43:14.605Z
 
 export const SocialMedia_Memphis = {
   service: "SocialMedia",
@@ -27,9 +27,7 @@ FEDEX WORLD HEADQUARTERS LOGISTICS LINKEDIN: FedEx's 30,000+ Memphis-area employ
 ST. JUDE CHILDREN'S RESEARCH HOSPITAL WORLD-CLASS PAEDIATRIC ONCOLOGY RESEARCH COMMUNITY: St. Jude's world-class research mission creates a globally recognised LinkedIn clinical research community evaluating health technology vendor content against the philanthropic-academic precision of a research institution that shares its discoveries freely worldwide. Health technology vendors need LinkedIn demonstrating St. Jude's world-class paediatric oncology research vocabulary: childhood cancer genomics operational specifics, clinical trial programme research community engagement, and computational biology research precision.
 
 AUTHENTIC BLUFF CITY CONSUMER BRAND SOCIAL: Memphis's Beale Street — the birthplace of the Blues — Cooper-Young's independent arts and food community, and Midtown's Overton Park cultural neighbourhood create consumer brand social opportunities. Memphis in May (BBQ World Championship, Beale Street Music Festival), the Blues Foundation events, and Memphis BBQ's international reputation create a seasonally leverageable brand social calendar unique to Memphis.`,
-  features: `FEATURES:
-
-FedEx World Headquarters Logistics LinkedIn:
+  features: `FedEx World Headquarters Logistics LinkedIn:
 For Memphis logistics technology and supply chain vendors. FedEx Ground sortation/last-mile/Express air hub operational vocabulary. Supply chain visibility platform intelligence. FedEx WTC community Sales Navigator. TIPA-aware social analytics.
 
 St. Jude World-Class Paediatric Oncology Research LinkedIn:
@@ -37,6 +35,8 @@ For Memphis health IT vendors. St. Jude paediatric oncology/genomics research vo
 
 Authentic Bluff City Brand Social:
 For Beale Street, Cooper-Young, and Midtown consumer brands. Beale Street Blues heritage community vocabulary. Cooper-Young independent arts and food character. Midtown/Overton Park cultural community. Memphis in May BBQ/Beale Street Music Festival seasonal calendar — BBQ World Championship, Beale Street Music Festival. Memphis BBQ cultural identity.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Memphis Logistics Technology — FedEx World HQ Logistics LinkedIn
 Client: Supply chain analytics, Memphis (\$5.4M ARR). Challenge: Generic LinkedIn. FedEx WTC logistics professional community not engaging.
 Programme: FedEx Ground/last-mile/Express air hub vocabulary + WTC community + FedEx Sales Navigator

@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Cleveland
 // URL: /social-media-marketing-cleveland/
-// Generated: 2026-06-20T04:42:14.069Z
+// Generated: 2026-06-20T05:43:14.440Z
 
 export const SocialMedia_Cleveland = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ PARKER HANNIFIN/LINCOLN ELECTRIC INDUSTRIAL ENGINEERING LINKEDIN: Parker Hannifi
 
 AUTHENTIC CLEVELAND CONSUMER BRAND SOCIAL: Cleveland's Tremont neighbourhood arts community, Ohio City's West Side Market artisan food economy, and Hingetown's emerging creative district create consumer brand Instagram opportunities for businesses communicating genuine Forest City neighbourhood identity — the authentic Ohio character that distinguishes genuine Cleveland brands from generic Great Lakes commercial approximations.`,
   features: ``,
+  pas: ``,
+  services: `CLEVELAND CLINIC WORLD-CLASS CLINICAL LINKEDIN:
+For Cleveland health IT vendors. Cardiovascular/surgical/electrophysiology clinical vocabulary. Lerner Research Institute NIH community. Cleveland Clinic Innovations partnership vocabulary. World-class YMYL precision LinkedIn.
+
+CLEVELAND PARKER HANNIFIN/LINCOLN ELECTRIC INDUSTRIAL LINKEDIN:
+For Northeast Ohio industrial technology vendors. Parker Hannifin motion control/hydraulics/pneumatics vocabulary. Lincoln Electric welding technology operational content. Eaton power management community. Ohio manufacturing engineering professional community.
+
+CLEVELAND AUTHENTIC BRAND SOCIAL:
+For Tremont, Ohio City, and Hingetown consumer brands. Tremont arts district vocabulary. Ohio City/West Side Market artisan community. Hingetown creative district. Authentic Forest City identity vs generic Ohio brand.`,
   caseStudies: `Case Study 1: Cleveland Cardiovascular Tech — Cleveland Clinic World-Class Clinical LinkedIn
 Client: Cardiovascular analytics SaaS, Cleveland (\$7.4M ARR). Challenge: Generic health IT LinkedIn. Cleveland Clinic clinical community not engaging.
 Programme: Coronary/electrophysiology/Lerner Research vocabulary + CC Innovations community + CC clinical Sales Navigator

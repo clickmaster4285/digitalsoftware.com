@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Philadelphia
 // URL: /web-design-agency-philadelphia/
-// Generated: 2026-06-20T04:42:14.825Z
+// Generated: 2026-06-20T05:43:15.805Z
 
 export const WebDesign_Philadelphia = {
   service: "WebDesign",
@@ -37,6 +37,15 @@ For Center City law firms, Main Line attorneys, and Philadelphia area legal prac
 
 Main Line Institutional Visual Quality:
 For the financial advisory, healthcare, and professional services firms serving the Delaware Valley's most commercially demanding professional community. Clean institutional design at the Perelman/Jefferson/Haverford visual standard — not decorative marketing design. Named credential display: CFA/CFP/NAPFA for financial advisory, MD/FACS for surgeons, JD/LLM for legal specialists. Case study depth communicating genuine professional accomplishment without RPC or FINRA violation.`,
+  pas: ``,
+  services: `PHILADELPHIA ACADEMIC HEALTHCARE WEBSITE DESIGN (YMYL + HIPAA):
+For Penn Medicine-adjacent practices, CHOP-affiliated paediatric practices, and healthcare technology companies. YMYL E-E-A-T architecture. Penn/Jefferson/CHOP affiliation display. Perelman School faculty credentials. NIH grant attribution. HIPAA-compliant architecture. Appointment booking integration.
+
+PHILADELPHIA LAW FIRM WEBSITE DESIGN (PA RPC):
+For Center City law firms, Main Line attorneys, and Delaware Valley legal practices. Pennsylvania RPC 7.1-7.3 compliance throughout. Super Lawyers/Martindale-Hubbell/Best Lawyers display. Practice area truthfulness standard. Case result contextualisation. WCAG 2.1 AA.
+
+PHILADELPHIA MAIN LINE PROFESSIONAL SERVICES WEBSITE:
+For Main Line financial advisory, wealth management, and professional services. FINRA/SEC for financial services. Main Line institutional visual quality. CFA/CFP/NAPFA credential display. Haverford/Bryn Mawr/Swarthmore professional community visual standard.`,
   caseStudies: `Case Study 1: Main Line Oncology Practice — YMYL Academic Medical Redesign
 Client: Oncology practice, Bryn Mawr (4 physicians, Penn-affiliated). Challenge: Website below Penn Medicine YMYL institutional standard. Perelman School affiliation not displayed. Non-HIPAA.
 Programme: YMYL redesign + Perelman School + Penn Medicine affiliation + NEJM/JAMA citation architecture + HIPAA + CWV (5.2s to 1.6s)

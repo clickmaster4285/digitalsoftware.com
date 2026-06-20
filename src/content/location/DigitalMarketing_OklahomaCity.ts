@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: OklahomaCity
 // URL: /digital-marketing-agency-oklahoma-city/
-// Generated: 2026-06-20T04:42:11.457Z
+// Generated: 2026-06-20T05:43:08.784Z
 
 export const DigitalMarketing_OklahomaCity = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "OklahomaCity",
   citySlug: "oklahoma-city",
-  slug: "/digital-marketing-agency-oklahoma-city/",
+  slug: "/digital-marketing-agency-in-oklahoma-city/",
   
   h1: `Digital Marketing Agency Oklahoma City — Devon Energy Revenue, INTEGRIS/OU Health YMYL, Tinker AFB Military, and Sooner State Commercial Growth`,
   primaryKw: `digital marketing agency oklahoma city`,
@@ -32,6 +32,20 @@ PAYCOM AND LOVE'S TRAVEL ENTERPRISE B2B: Paycom's Edmond headquarters (HR SaaS s
 
 OKC THUNDER AND BRICKTOWN COMMERCIAL COMMUNITY: The Oklahoma City Thunder NBA franchise and Bricktown's vibrant entertainment district create sports community and authentic OKC consumer brand digital marketing opportunities.`,
   features: ``,
+  pas: ``,
+  services: `SEO OKC: Devon/Expand Energy STACK/SCOOP E&P vocabulary. INTEGRIS/OU Health YMYL. Tinker ITAR-bounded. Paycom HR SaaS. OGE utility. /seo-services-oklahoma-city/
+
+GOOGLE ADS OKC: Devon/Expand Energy E&P PPC. INTEGRIS/OU Health HIPAA. Tinker ITAR-bounded community. Paycom HR SaaS. OGE utility.
+
+CONTENT MARKETING OKC: Devon/Expand Energy E&P authority. INTEGRIS/OU Health NCI YMYL. Tinker ITAR-bounded publicly releasable. Paycom HR analytics.
+
+LINKEDIN OKC: Devon/Expand Energy E&P professional community. INTEGRIS clinical. Tinker military professional. Bricktown/Paseo/Midtown authentic OKC.
+
+EMAIL OKC: Devon/Expand/OGE named pipeline. INTEGRIS HIPAA health system. Tinker ITAR-reviewed military. Paycom HR SaaS nurture.
+
+LOCAL SEO OKC: Devon/Expand proximity GBP. INTEGRIS/OU Health YMYL. Edmond/Nichols Hills professional quality.
+
+WEB DESIGN OKC: Devon E&P institutional. INTEGRIS YMYL HIPAA. Paycom HR SaaS quality.`,
   caseStudies: `Case Study 1: OKC Energy Technology — Devon/Expand Energy Full Digital Programme
 Client: Energy analytics, OKC (\$5.4M ARR). Challenge: New Devon VP Digital Technology without connections — invisible. Zero STACK/SCOOP vocabulary.
 Programme: SEO (Devon STACK/SCOOP vocabulary) + LinkedIn (Devon/Expand Energy E&P community) + email (Devon named pipeline) + content (E&P authority)

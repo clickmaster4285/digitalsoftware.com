@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Chicago
 // URL: /email-marketing-chicago/
-// Generated: 2026-06-20T04:42:11.810Z
+// Generated: 2026-06-20T05:43:09.213Z
 
 export const EmailMarketing_Chicago = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ FORTUNE 500 CHICAGO VENDOR PIPELINE NURTURE: Chicago's Caterpillar, Boeing, Abbo
 FINRA-COMPLIANT INVESTMENT EMAIL: Chicago's CME Group, Morningstar, and Northern Trust financial ecosystem operates under the most active FINRA examination environment in the Midwest. Every investment-related email communication to Chicago's financial professional community — quarterly commentary, market outlook, tax planning updates — is subject to FINRA Rule 2210. Chicago financial services firms operating investment email programmes without FINRA compliance review are creating enforcement exposure that Chicago's active examination environment regularly enforces.
 
 HIPAA HEALTHCARE PATIENT RETENTION: Chicago's Northwestern Medicine, Rush University Medical Center, and the independent healthcare community competing within it face the highest healthcare patient acquisition cost of any Midwest market. HIPAA-compliant patient retention email — appointment reminders, post-care follow-up, and lapsed patient reactivation — is the most commercially efficient retention investment available to Chicago healthcare practices.`,
-  features: `FEATURES:
-
-Fortune 500 Chicago Vendor Pipeline Nurture (HubSpot):
+  features: `Fortune 500 Chicago Vendor Pipeline Nurture (HubSpot):
 For the management consulting, technology, and professional services companies competing for Caterpillar, Boeing, Abbott, McDonald's, and United Airlines procurement. Sector-specific content tracks by Fortune 500 procurement function: manufacturing/supply chain content for Caterpillar, aerospace/defence content for Boeing, healthcare/pharma content for Abbott. The 6-stage Chicago Fortune 500 vendor nurture sequence: capability summary (within 48 hours) → relevant case study → industry insight → ROI documentation → reference introduction offer → RFQ readiness invitation. HubSpot Salesforce integration attributing email-nurtured leads to Fortune 500 pipeline.
 
 FINRA-Compliant Investment Email:
@@ -37,6 +35,15 @@ For CME ecosystem companies, Loop financial advisory, and Chicago wealth managem
 
 HIPAA Healthcare Patient Retention:
 For Northwestern Medicine-adjacent practices, Rush University-affiliated physicians, and the independent healthcare practices serving Chicago's 9.5 million metro. HIPAA minimum-necessary patient communication. Lapsed patient reactivation (HIPAA-safe). Annual preventive care reminder. Post-care follow-up. BAA-covered ESP for Chicago's HIPAA-aware healthcare market.`,
+  pas: ``,
+  services: `CHICAGO FORTUNE 500 VENDOR EMAIL (HUBSPOT):
+Fortune 500 pipeline nurture for Caterpillar, Boeing, Abbott, McDonald's, and United Airlines ecosystem vendors. Sector-specific content tracks. ISO/IATF certification update communications. Named account ABM sequences for specific Fortune 500 targets. Deal-stage-triggered automation. SDR handoff when email engagement signals purchase readiness.
+
+CHICAGO FINRA-COMPLIANT INVESTMENT EMAIL:
+For CME Group-adjacent companies, Loop RIAs, and Morningstar ecosystem financial services. FINRA Rule 2210 review before every send. CFA-authored investment commentary. Bloomberg/Fed citations. GIPS performance framework. Annual FINRA compliance review of the full email content library.
+
+CHICAGO HEALTHCARE PATIENT RETENTION (HIPAA):
+For Northwestern Medicine-adjacent practices, Rush University-affiliated physicians, and independent Chicago healthcare. HIPAA-covered ESP with BAA. Appointment reminders excluding PHI. Post-care follow-up (minimum necessary). Lapsed patient reactivation (condition-reference-free). Annual care programme.`,
   caseStudies: `Case Study 1: West Loop Management Consulting — Fortune 500 Pipeline Nurture
 Client: Management consulting, West Loop Chicago (\$9.4M). Challenge: Boeing and Caterpillar procurement contacts going cold after initial meetings.
 Programme: HubSpot 6-stage Fortune 500 nurture + Boeing aerospace/defence tracks + Caterpillar manufacturing tracks + named account sequences

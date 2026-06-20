@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Tampa
 // URL: /social-media-marketing-tampa/
-// Generated: 2026-06-20T04:42:14.484Z
+// Generated: 2026-06-20T05:43:15.023Z
 
 export const SocialMedia_Tampa = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ MACDILL AFB MILITARY PROFESSIONAL COMMUNITY LINKEDIN AND COMMUNITY SOCIAL: The C
 
 AUTHENTIC TAMPA BAY BRAND SOCIAL: Tampa Bay's commercial community beyond the WestShore Business District has a distinctive identity — Ybor City's Cuban heritage arts economy, Seminole Heights' bungalow craft community, South Tampa's Bayshore community character, and the Tampa Bay foodie culture that distinguishes authentic Gulf Coast commercial identity from generic Florida brand aesthetics.`,
   features: ``,
+  pas: ``,
+  services: `TAMPA MOFFITT/TGH CLINICAL PROFESSIONAL LINKEDIN:
+For Tampa health IT vendors. Phase I-III oncology trial management vocabulary. NCI R01 research programme content. Cancer registry analytics methodology. Moffitt/TGH community Sales Navigator. HIPAA-aware social content.
+
+TAMPA MACDILL MILITARY COMMUNITY SOCIAL:
+For South Tampa professional services. CENTCOM/SOCOM operational awareness vocabulary. Military community Instagram authentic content. TSP/SCRA/VA community content. PCS-cycle engagement timing.
+
+TAMPA AUTHENTIC BRAND SOCIAL:
+For Ybor City, Seminole Heights, and South Tampa consumer brands. Ybor City Cuban heritage arts community. Seminole Heights bungalow craft vocabulary. South Tampa Bayshore community. Tampa Bay authentic Gulf Coast identity.`,
   caseStudies: `Case Study 1: Tampa Oncology Technology — Moffitt NCI Clinical LinkedIn
 Client: Oncology analytics SaaS, Tampa (\$7.4M ARR). Challenge: Generic healthcare LinkedIn. Moffitt clinical community not engaging.
 Programme: Phase I-III oncology vocabulary + NCI programme content + Moffitt community Sales Navigator

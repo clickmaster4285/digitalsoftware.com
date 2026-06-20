@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Boston
 // URL: /digital-marketing-agency-boston/
-// Generated: 2026-06-20T04:42:11.152Z
+// Generated: 2026-06-20T05:43:08.345Z
 
 export const DigitalMarketing_Boston = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Boston",
   citySlug: "boston",
-  slug: "/digital-marketing-agency-boston/",
+  slug: "/digital-marketing-in-agency-boston/",
   
   h1: `Digital Marketing Agency Boston — Kendall Square FDA-Aware, FINRA Financial, and Academic Medical Revenue for New England`,
   primaryKw: `digital marketing agency boston`,
@@ -28,6 +28,20 @@ ACADEMIC PRESTIGE AS COMMERCIAL CURRENCY: Harvard, MIT, Tufts, and Boston Univer
 
 KENDALL SQUARE COMMERCIAL OPPORTUNITY: Cambridge's Kendall Square houses the highest concentration of biotech and pharmaceutical companies per square mile of any location in the world. The CRO, CDMO, and life sciences technology companies in this corridor rely on conference season and relationship BD — and are systematically invisible to the pharmaceutical procurement managers who conduct online vendor research before initiating formal evaluation.`,
   features: ``,
+  pas: ``,
+  services: `SEO BOSTON: YMYL academic medical centre authority. FINRA-compliant financial services. FDA-aware Kendall Square life sciences. Harvard/MIT credential architecture. /seo-services-boston/
+
+GOOGLE ADS BOSTON: FINRA-compliant financial PPC. FDA-aware pharma procurement targeting. HIPAA-compliant patient acquisition. Massachusetts CDPA-aware consent.
+
+CONTENT MARKETING BOSTON: FDA-aware CRO/CDMO content. FINRA-compliant investment commentary. YMYL academic medical. Harvard/MIT citation architecture. /content-marketing-boston/ (forthcoming)
+
+LINKEDIN BOSTON: FINRA-compliant investment thought leadership. FDA-aware Kendall Square scientific LinkedIn. Academic credential-led executive programmes. /social-media-marketing-boston/
+
+EMAIL BOSTON: FINRA-compliant HNW investment email. FDA-aware pharma pipeline nurture. HIMSS/AACR conference reactivation. HIPAA patient retention. /email-marketing-boston/
+
+LOCAL SEO BOSTON: Academic credential-led Local Pack. FINRA/HIPAA-aware review management. /local-seo-services-boston/
+
+WEB DESIGN BOSTON: FINRA/SEC institutional financial. FDA-aware Kendall Square. YMYL academic healthcare. /web-design-agency-boston/`,
   caseStudies: `Case Study 1: Kendall Square CRO — FDA-Aware Full Digital Programme
 Client: CRO, Cambridge MA (\$18M). Challenge: Bristol Myers Squibb and Pfizer procurement Googling — company invisible. HIMSS contacts going cold.
 Programme: SEO (FDA vocabulary) + Google Ads (pharma procurement) + LinkedIn (PI thought leadership) + email (HIMSS reactivation) + web design (FDA-aware)

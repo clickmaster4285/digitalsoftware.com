@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Wichita
 // URL: /social-media-marketing-wichita/
-// Generated: 2026-06-20T04:42:14.509Z
+// Generated: 2026-06-20T05:43:15.063Z
 
 export const SocialMedia_Wichita = {
   service: "SocialMedia",
@@ -27,9 +27,7 @@ SPIRIT AEROSYSTEMS ITAR-BOUNDED AEROSPACE LINKEDIN: Spirit AeroSystems creates a
 TEXTRON AVIATION BUSINESS AVIATION COMMUNITY: Textron Aviation creates a LinkedIn business aviation engineering community evaluating vendors against Cessna and Beechcraft engineering precision: turboprop systems operational specifics, business jet MRO intelligence, avionics integration methodology.
 
 AUTHENTIC AIR CAPITAL CONSUMER BRAND SOCIAL: Wichita's Old Town entertainment district, Delano's historic Route 66 community, College Hill's arts neighbourhood, and Wichita Riverfest (June, 9-day Arkansas River festival) create consumer brand social opportunities.`,
-  features: `FEATURES:
-
-Spirit AeroSystems ITAR-Bounded Aerospace LinkedIn:
+  features: `Spirit AeroSystems ITAR-Bounded Aerospace LinkedIn:
 ITAR vocabulary review every post. Spirit aerostructures publicly releasable content. Composite manufacturing methodology. Textron Aviation cross-community. Aerospace Sales Navigator.
 
 Textron Aviation Business Aviation LinkedIn:
@@ -37,6 +35,8 @@ Cessna/Beechcraft turboprop/jet systems vocabulary. Business aviation MRO intell
 
 Authentic Air Capital Consumer Brand Social:
 Old Town warehouse entertainment vocabulary. Delano Route 66 historic character. College Hill arts neighbourhood. Wichita Riverfest June — 9-day Arkansas River festival, 350,000+ visitors. Wichita Wind Surge minor league baseball seasonal.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Wichita Aerospace — Spirit AeroSystems ITAR LinkedIn
 Client: Aerospace technology, Wichita (\$6.4M ARR). Challenge: ITAR-controlled vocabulary in LinkedIn. Spirit community not engaging.
 Programme: ITAR review + Spirit publicly releasable aerospace vocabulary + Spirit/Textron Sales Navigator

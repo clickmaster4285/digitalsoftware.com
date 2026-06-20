@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Portland
 // URL: /social-media-marketing-portland/
-// Generated: 2026-06-20T04:42:14.360Z
+// Generated: 2026-06-20T05:43:14.785Z
 
 export const SocialMedia_Portland = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ NIKE/ADIDAS ECOSYSTEM PROFESSIONAL LINKEDIN: Nike's Beaverton campus and Adidas 
 
 PACIFIC NORTHWEST AUTHENTIC CONSUMER SOCIAL: Portland's consumer social media community is authenticity-intelligence calibrated in a way that few US markets match. Instagram and TikTok content communicating genuine B Corp values (specific score, year, impact area), genuine Pacific Northwest outdoor culture (specific trail references, specific conservation programmes), and genuine Portland neighbourhood character (Pearl District arts, Alberta Arts District community, Mississippi Avenue food culture) earns above-average engagement.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING PORTLAND (AUTHENTIC-VALUES NIKE/ADIDAS ECOSYSTEM):
+For Beaverton and Portland Nike/Adidas supplier and vendor community. Authentic-values evidence LinkedIn: HIGG FEM score with year and assessment context, bluesign RSL compliance operational content, OEKO-TEX Standard 100 programme specifics, specific carbon reduction with third-party verification. Nike/Adidas sustainability community engagement. Outdoor Retailer LinkedIn community participation. Sales Navigator Nike/Adidas ecosystem procurement pipeline.
+
+PORTLAND INTEL HILLSBORO PROFESSIONAL LINKEDIN:
+For Hillsboro semiconductor services, testing, and equipment vendors. SEMI standards LinkedIn thought leadership. Cleanroom ISO 14644-1 classification content. Intel semiconductor community engagement. SEMI community LinkedIn participation.
+
+PORTLAND AUTHENTIC PACIFIC NORTHWEST CONSUMER SOCIAL:
+For Portland's outdoor apparel brands, sustainable consumer companies, and Pearl District/Alberta Arts District businesses. B Corp score specific content (not just badge). Specific Pacific Northwest outdoor culture references. Authentic Portland neighbourhood vocabulary. Oregon Outdoor Alliance and 1% for the Planet community engagement.`,
   caseStudies: `Case Study 1: Beaverton Outdoor Apparel Brand — Nike Ecosystem Authentic-Values LinkedIn
 Client: Outdoor apparel, Beaverton (B Corp, bluesign, \$12M). Challenge: Generic sustainability LinkedIn. Nike sourcing director evaluating bluesign vocabulary — company invisible.
 Programme: HIGG FEM score content + bluesign RSL operational + OEKO-TEX specifics + Nike/Adidas community engagement

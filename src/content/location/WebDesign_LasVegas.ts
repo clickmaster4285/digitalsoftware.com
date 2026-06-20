@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: LasVegas
 // URL: /web-design-agency-las-vegas/
-// Generated: 2026-06-20T04:42:14.698Z
+// Generated: 2026-06-20T05:43:15.481Z
 
 export const WebDesign_LasVegas = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ GAMING ENTERPRISE VENDOR CREDIBILITY ARCHITECTURE: Las Vegas's gaming enterprise
 CA IN-MIGRATION PROFESSIONAL QUALITY STANDARD: Henderson and Summerlin's rapidly growing California in-migration professional community evaluates professional service provider websites against Bay Area and Greater Los Angeles quality standards — the credential depth, visual sophistication, and analytical evidence that CA-origin professionals expect from financial advisory, healthcare, estate planning, and professional services providers. A Henderson financial advisory website without CFA/CFP credentials with verification links, without Nevada-specific financial planning content demonstrating CA-to-NV expertise, and without the institutional visual quality of Bay Area equivalent practices communicates inadequacy to Henderson's most commercially valuable new resident demographic.
 
 NEVADA COMMERCIAL DESIGN: Las Vegas's growing non-Strip commercial economy — Henderson's corporate professional community, Downtown Las Vegas's First Friday arts economy, Summerlin's premium suburban commercial community — requires web design communicating genuine Nevada commercial identity rather than generic Strip visual language.`,
-  features: `FEATURES:
-
-Gaming Enterprise Vendor Credibility Architecture:
+  features: `Gaming Enterprise Vendor Credibility Architecture:
 For Henderson gaming technology and consulting companies. PCI-DSS compliance display with DSS version for gaming payment processing. Nevada Gaming Control Board approval status where publicly applicable. Gaming enterprise case studies with MGM/Caesars/Wynn-calibre metric depth. Specific gaming operational vocabulary in service descriptions (RevPAR, NGCB, casino floor management, hospitality SaaS). The gaming vendor website that earns procurement consideration from Las Vegas's \$88B gaming enterprise market.
 
 CA In-Migration Professional Quality Architecture:
@@ -37,6 +35,8 @@ For Henderson, Summerlin, and Las Vegas professional services. CFA/CFP/CIMA with
 
 Nevada Commercial Design:
 For Henderson corporate businesses, Downtown Las Vegas creative community, and Summerlin premium suburban businesses. Genuine Nevada commercial vocabulary and visual identity beyond Strip aesthetics.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Henderson Gaming Analytics Company — Gaming Enterprise Credibility Redesign
 Client: Casino analytics SaaS, Henderson (\$8M ARR). Challenge: Website without gaming operational credibility. MGM/Caesars procurement dismissal during digital due diligence.
 Programme: PCI-DSS/gaming credential display + NGCB vocabulary + gaming enterprise case studies + gaming-operational visual + sub-1.6s LCP

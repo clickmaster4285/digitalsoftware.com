@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Richmond
 // URL: /digital-marketing-agency-richmond/
-// Generated: 2026-06-20T04:42:11.529Z
+// Generated: 2026-06-20T05:43:08.902Z
 
 export const DigitalMarketing_Richmond = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Richmond",
   citySlug: "richmond",
-  slug: "/digital-marketing-agency-richmond/",
+  slug: "/digital-marketing-agency-in-richmond/",
   
   h1: `Digital Marketing Agency Richmond — Capital One Revenue, Dominion Energy B2B, CarMax Retail Analytics, and River City Commercial Growth`,
   primaryKw: `digital marketing agency richmond`,
@@ -30,6 +30,20 @@ CARMAX AUTOMOTIVE RETAIL ANALYTICS DIGITAL MARKETING: CarMax's Richmond headquar
 
 VCU HEALTH, BON SECOURS, AND ALTRIA FORTUNE 500: Virginia Commonwealth University Health System, Bon Secours Virginia, Markel Corporation (specialty insurance, Richmond HQ), and Altria Group (Richmond) create additional YMYL academic medical and Fortune 500 vendor B2B digital marketing opportunities.`,
   features: ``,
+  pas: ``,
+  services: `SEO RICHMOND: Capital One ML/FINRA vocabulary. Dominion Energy utility/clean energy. CarMax automotive analytics. VCU Health/Bon Secours YMYL. VCDPA-native. /seo-services-richmond/
+
+GOOGLE ADS RICHMOND: Capital One FINRA-compliant fintech. Dominion utility PPC. CarMax automotive B2B. VCU Health HIPAA. VCDPA consent management.
+
+CONTENT MARKETING RICHMOND: Capital One ML credit decisioning authority. Dominion Energy offshore wind/carbon neutrality. CarMax automotive analytics. VCU Health/Bon Secours YMYL.
+
+LINKEDIN RICHMOND: Capital One ML/fintech LinkedIn. Dominion Energy clean energy professional. VCU Health clinical community. The Fan District/Carytown authentic Richmond.
+
+EMAIL RICHMOND: Capital One/Dominion named HubSpot pipeline. VCU Health HIPAA. CarMax automotive analytics nurture. Virginia VCDPA-compliant.
+
+LOCAL SEO RICHMOND: Capital One proximity GBP. VCU/Bon Secours YMYL credential. Henrico County/Midlothian professional quality.
+
+WEB DESIGN RICHMOND: Capital One FINRA institutional credibility. Dominion utility enterprise. VCU Health YMYL HIPAA.`,
   caseStudies: `Case Study 1: Henrico County Fintech — Capital One ML Full Digital Programme
 Client: ML analytics, Henrico County (\$6.4M ARR). Challenge: New Capital One VP ML without connections — invisible. Zero ML fintech vocabulary.
 Programme: SEO (Capital One ML/credit risk vocabulary) + LinkedIn (Capital One ML community) + email (Capital One named pipeline) + VCDPA-native

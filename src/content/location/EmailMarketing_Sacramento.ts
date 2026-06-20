@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Sacramento
 // URL: /email-marketing-sacramento/
-// Generated: 2026-06-20T04:42:12.089Z
+// Generated: 2026-06-20T05:43:10.119Z
 
 export const EmailMarketing_Sacramento = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ CALIFORNIA STATE GOVERNMENT IT PIPELINE EMAIL: California state government IT pr
 CALPERS/CALSTRS FINRA-COMPLIANT INSTITUTIONAL INVESTMENT NURTURE: CalPERS and CalSTRS procurement cycles run 90-180 days for investment technology vendor evaluation. FINRA-compliant institutional investment email content: CalPERS alternative investment operational intelligence, CalSTRS ESG factor integration updates, and total portfolio management content.
 
 CCPA-COMPLIANT PROFESSIONAL REVENUE CHANNEL: All Sacramento email marketing requires CCPA-compliant subscriber data collection, CPRA opt-out mechanism implementation, and CCPA-accurate email performance analytics — as standard in every Sacramento programme.`,
-  features: `FEATURES:
-
-California State Government IT Budget-Cycle-Aware Pipeline HubSpot:
+  features: `California State Government IT Budget-Cycle-Aware Pipeline HubSpot:
 For Sacramento government technology vendors. CA budget-cycle-aware email timing: January Governor's Budget (IT vendor review begins), May Revision (IT budget confirmed), June-July Budget Act (IT procurement activated), September-December (IT project approval SIMM 45 submissions). FI\$Cal/CalATERS/GovOps operational updates. CDT/CHHS named account sequences. 120-360 day state IT procurement deal-stage triggers. CCPA-compliant email data handling.
 
 CalPERS/CalSTRS FINRA-Compliant Institutional Investment Nurture:
@@ -37,6 +35,8 @@ For Sacramento financial technology companies. FINRA Rule 2210-compliant email w
 
 UC Davis Health HIPAA CCPA Healthcare Procurement:
 For Sacramento healthcare technology vendors. UC Davis NCI Cancer Center research programme updates. California MIND Institute operational content. Sutter Health Sacramento clinical updates. HIPAA-compliant CCPA-compliant email data handling.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Sacramento Government Tech — CA State IT Budget-Cycle-Aware Pipeline
 Client: Government technology consulting, Sacramento (\$7.4M). Challenge: CDT/CHHS contacts cold through 180-day cycles. Generic tech newsletter. Non-budget-cycle-aware timing.
 Programme: CA budget-cycle-aware email + FI\$Cal/CalATERS/GovOps content + CDT/CHHS named sequences + CCPA-compliant

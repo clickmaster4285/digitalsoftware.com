@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Tulsa
 // URL: /seo-services-tulsa/
-// Generated: 2026-06-20T04:42:13.964Z
+// Generated: 2026-06-20T05:43:14.166Z
 
 export const SEO_Tulsa = {
   service: "SEO",
@@ -30,6 +30,17 @@ SAINT FRANCIS HEALTH/OU MEDICINE YMYL SEO: Saint Francis Health System — Tulsa
 
 QUIKTRIP RETAIL AND FLEET B2B SEO: QuikTrip's Tulsa headquarters — one of the US's most respected convenience store and fuel retail chains — creates retail analytics, fuel management technology, and fleet services B2B search volume unique to Tulsa.`,
   features: ``,
+  pas: `PROBLEM: The Tulsa energy technology company with genuine Williams Companies relationships. Zero Williams Transco/Northwest Pipeline midstream vocabulary in website. Williams appointed a new VP of Digital Operations from Kinder Morgan. He searches 'Transco pipeline operations technology vendor Tulsa Williams' and 'midstream natural gas analytics partner Oklahoma.' Company appears for neither. Williams and ONEOK — two of the US's most significant midstream energy companies — are headquartered in Tulsa and generate B2B vocabulary that no Tulsa SEO agency addresses.
+
+SOLUTION: Clickmasters Tulsa SEO delivers Williams/ONEOK midstream energy authority, BOK Financial FINRA, Saint Francis/OU Medicine YMYL, and GEO/AEO first-mover.`,
+  services: `TULSA WILLIAMS/ONEOK MIDSTREAM ENERGY SEO:
+For Tulsa midstream energy technology and analytics vendors. Williams Transco/Northwest Pipeline vocabulary. ONEOK natural gas gathering/processing/NGL vocabulary. Midstream energy infrastructure operational content.
+
+TULSA BOK FINANCIAL FINRA SEO:
+For Tulsa financial technology vendors. BOK Financial banking vocabulary. FINRA Rule 2210-compliant content. SEC Marketing Rule compliance. Oklahoma banking community.
+
+TULSA SAINT FRANCIS/OU MEDICINE YMYL/QUIKTRIP SEO:
+For Tulsa healthcare practices and retail technology. Saint Francis Health vocabulary. OU Medicine OSU Medical vocabulary. QuikTrip retail analytics. HIPAA-compliant YMYL content.`,
   caseStudies: `Case Study 1: Tulsa Energy Technology — Williams/ONEOK Midstream SEO
 Client: Midstream analytics, Tulsa (\$5.4M ARR). Challenge: Zero Williams Transco/ONEOK NGL vocabulary. VP Digital not finding.
 Programme: Williams Transco/ONEOK natural gas/NGL vocabulary + midstream community + GEO/AEO

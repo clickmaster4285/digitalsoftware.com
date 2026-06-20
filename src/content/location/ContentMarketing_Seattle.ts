@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Seattle
 // URL: /content-marketing-seattle/
-// Generated: 2026-06-20T04:42:10.952Z
+// Generated: 2026-06-20T05:43:07.646Z
 
 export const ContentMarketing_Seattle = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ AMAZON-STANDARD B2B CONTENT PRECISION: Seattle's Amazon and Microsoft profession
 MHMD-COMPLIANT HEALTHCARE CONTENT: Washington's My Health MY Data Act creates specific requirements for healthcare content that collects consumer health data through engagement tracking. Healthcare content programmes with MHMD-compliant analytics produce both legal protection and accurate content performance data for Washington's above-average health-data opt-out environment.
 
 PACIFIC NORTHWEST AUTHENTIC CONTENT: Seattle's commercial community evaluates content through an authenticity lens — B Corp certification content with specific impact scores, sustainability evidence with named third-party verification, and the authentic Pacific Northwest outdoor culture vocabulary (specific trail references, specific conservation programmes) that earns genuine community engagement.`,
-  features: `FEATURES:
-
-Amazon-Standard B2B Technical Content:
+  features: `Amazon-Standard B2B Technical Content:
 For South Lake Union and Bellevue technology and professional services companies. Amazon analytical precision content: documented commercial metrics, verifiable evidence claims, specific product-level technical vocabulary. AWS vocabulary for technology vendors. Microsoft Azure partnership content for enterprise software companies. GEO/AEO structured content for Seattle's above-average AI search professional community.
 
 MHMD-Compliant Healthcare Content:
@@ -37,6 +35,8 @@ For Washington healthcare practices and health technology companies. MHMD-aware 
 
 Pacific Northwest Authentic Thought Leadership:
 For Seattle's outdoor brands, sustainable technology companies, and Pacific NW B2B businesses. B Corp specific-score content. Named sustainability evidence. Pacific Northwest outdoor culture vocabulary. Oregon/Washington conservation programme community content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: South Lake Union AWS Partner — Amazon-Standard B2B Content
 Client: AWS data infrastructure SaaS, South Lake Union (\$16M ARR). Challenge: Content below Amazon analytical precision standard. AWS ecosystem not engaging.
 Programme: Amazon analytical precision + AWS vocabulary + documented metric content + GEO/AEO architecture

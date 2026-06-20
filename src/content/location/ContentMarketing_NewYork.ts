@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: NewYork
 // URL: /content-marketing-new-york/
-// Generated: 2026-06-20T04:42:10.849Z
+// Generated: 2026-06-20T05:43:06.941Z
 
 export const ContentMarketing_NewYork = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ FINRA-COMPLIANT WALL STREET INVESTMENT CONTENT: Every piece of investment conten
 NYU/COLUMBIA YMYL ACADEMIC MEDICAL CONTENT: Google evaluates healthcare content against the E-E-A-T standard defined by New York's academic medical institutions. Healthcare content that doesn't demonstrate genuine expertise, established authority, and institutional trustworthiness at the standard set by NYU Langone, Columbia CUIMC, and Weill Cornell doesn't earn Page 1 organic visibility for the healthcare searches conducted by NYC's most medically sophisticated patient and professional population.
 
 NYT-EDITORIAL CONSUMER BRAND CONTENT: New York City's consumer and professional brand community evaluates published content against the editorial quality standard of the New York Times, Condé Nast, and the advertising agencies that invented modern commercial communication. Consumer brand content that doesn't achieve this editorial quality benchmark is invisible to the most commercially sophisticated consumer audience in the world.`,
-  features: `FEATURES:
-
-FINRA-Compliant Wall Street Investment Content Programme:
+  features: `FINRA-Compliant Wall Street Investment Content Programme:
 For Midtown and Wall Street wealth managers, hedge funds, and financial advisory. FINRA Rule 2210 compliance review integrated into every content piece before publication. CFA-authored investment commentary with Bloomberg/Fed citations. SEC Marketing Rule 2022-compliant testimonial architecture. GIPS-compliant performance language in client education content. Zero FINRA findings for NYC financial services content clients post-implementation.
 
 NYU/Columbia YMYL Academic Medical Content:
@@ -37,6 +35,8 @@ For NYC healthcare practices, health technology vendors, and academic medical-ad
 
 NYT-Editorial Consumer Brand Content:
 For NYC's luxury consumer brands, SoHo creative businesses, and world-class brand organisations. Editorial-quality long-form content at NYT standard. New York-neighbourhood-specific cultural vocabulary (SoHo, Upper East Side, Brooklyn, West Village). GEO/AEO content architecture for NYC's most commercially valuable consumer brand search queries. FTC-compliant influencer disclosure integration.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Midtown Wealth Management — FINRA-Compliant Investment Content Programme
 Client: Multi-family office, Midtown (\$3.8B AUM). Challenge: Content programme suspended after 3 FINRA findings. CFA-authored content needed but no compliance-integrated workflow.
 Programme: FINRA compliance workflow integration + CFA-authored quarterly commentary + SEC Marketing Rule + Bloomberg/Fed citations + GEO/AEO

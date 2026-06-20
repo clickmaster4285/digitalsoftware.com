@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Atlanta
 // URL: /web-design-agency-atlanta/
-// Generated: 2026-06-20T04:42:14.527Z
+// Generated: 2026-06-20T05:43:15.091Z
 
 export const WebDesign_Atlanta = {
   service: "WebDesign",
@@ -40,6 +40,15 @@ For Atlanta production companies, talent agencies, and entertainment technology 
 
 Core Web Vitals and WCAG 2.1 AA:
 LCP under 2.5 seconds, CLS under 0.1. Georgia state contract eligibility requires WCAG 2.1 AA accessibility.`,
+  pas: ``,
+  services: `ATLANTA FORTUNE 500 VENDOR WEBSITE DESIGN:
+For Coca-Cola, Delta, Home Depot, NCR, and UPS ecosystem vendors. Fortune 500 credential architecture. Case study metrics depth at Fortune 500 scale. ISO/SOC 2 certification display. Commercial directness in service and capability presentation — Atlanta's corporate culture values substance over brand storytelling.
+
+ATLANTA TRANSACTION ALLEY FINTECH WEBSITE DESIGN:
+For NCR Voyix, Global Payments, and Fiserv ecosystem vendors. PCI-DSS compliance documentation. SOC 2 and ISO 27001 display. Enterprise payment security architecture pages. The fintech institutional credibility that Transaction Alley enterprise buyers evaluate.
+
+ATLANTA ENTERTAINMENT WEBSITE DESIGN:
+For Atlanta Film District production companies, talent agencies, and entertainment technology vendors. LA-standard showreel integration. IMDB production history. Award display. Georgia Film Tax Credit documentation. The entertainment industry website that earns LA studio evaluation invitations.`,
   caseStudies: `Case Study 1: Midtown Atlanta Technology Vendor — Fortune 500 Credibility Redesign
 Client: IT services vendor, Midtown Atlanta (\$8.4M revenue). Challenge: Website without ISO display, no Fortune 500 case studies. Coca-Cola and Delta procurement managers dismissing website quality during due diligence.
 Programme: Fortune 500 credibility redesign + ISO/SOC 2 display + Fortune 500 case study architecture + CWV engineering (4.8s to 1.7s)

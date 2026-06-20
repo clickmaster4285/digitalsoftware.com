@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: StLouis
 // URL: /local-seo-services-st-louis/
-// Generated: 2026-06-20T04:42:13.458Z
+// Generated: 2026-06-20T05:43:12.678Z
 
 export const LocalSEO_StLouis = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ BJC/WASHINGTON UNIVERSITY YMYL ACADEMIC MEDICAL CREDENTIAL: BJC HealthCare's Bar
 
 CLAYTON/CREVE COEUR PROFESSIONAL QUALITY STANDARD: Clayton (St. Louis County seat, home to Centene and financial services firms) and Creve Coeur (Edward Jones HQ community) represent the highest-income professional communities in Missouri — whose professional community evaluates GBPs with the institutional precision of the Edward Jones, Centene, and BJC professional ecosystem.`,
   features: ``,
+  pas: `PROBLEM: The Clayton financial advisory with an Edward Jones professional community client base — 24 reviews at 4.6 stars, generic 'Clayton wealth management' description, no CFA verification link, no Edward Jones professional community vocabulary. The new Edward Jones Senior VP who relocated from Creve Coeur to Clayton searches 'fee-only financial adviser Clayton Missouri CFA Edward Jones community.' GBP: 24 reviews, no CFP Board verification, no EJ community vocabulary. She selects the Clayton firm with 114 reviews, CFP Board verification link, and 'specialists in financial planning for Edward Jones, Centene, and BJC financial professionals in Clayton.'
+
+SOLUTION: Clickmasters St. Louis Local SEO provides the Boeing BDS proximity, BJC/WashU academic medical, and Clayton/Creve Coeur professional quality standard GBP programme.`,
+  services: `ST. LOUIS BOEING BDS AEROSPACE PROXIMITY B2B GBP:
+For Hazelwood and North County aerospace services and technology vendors. ITAR-bounded defence vocabulary in GBP service descriptions. AS9100D community proximity signals. Boeing BDS-adjacent professional photography. Defence prime contractor community GBP content.
+
+ST. LOUIS BJC/WASHU ACADEMIC MEDICAL GBP:
+For St. Louis healthcare practices. BJC HealthCare/Barnes-Jewish affiliation badge. Washington University School of Medicine faculty attribution. St. Louis Children's Hospital academic community. HIPAA-compliant review management.
+
+ST. LOUIS CLAYTON/CREVE COEUR PROFESSIONAL QUALITY GBP:
+For Clayton and Creve Coeur professional services. CFA/CFP with CFP Board/CFA Institute verification links. Edward Jones/Centene professional community vocabulary. FINRA-aware review management for financial advisory.`,
   caseStudies: `Case Study 1: Clayton Financial Advisory — Edward Jones/Centene Professional Quality GBP
 Client: Fee-only RIA, Clayton (\$280M AUM). Challenge: GBP below Clayton professional standard. EJ/Centene professionals selecting competitors.
 Programme: CFP Board verification + EJ/Centene community vocabulary + FINRA-aware reviews + Clayton professional photography

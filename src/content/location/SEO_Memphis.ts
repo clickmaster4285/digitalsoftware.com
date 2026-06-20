@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Memphis
 // URL: /seo-services-memphis/
-// Generated: 2026-06-20T04:42:13.714Z
+// Generated: 2026-06-20T05:43:13.336Z
 
 export const SEO_Memphis = {
   service: "SEO",
@@ -30,6 +30,17 @@ AUTOZONE AUTOMOTIVE RETAIL ANALYTICS B2B SEO: AutoZone's Memphis headquarters �
 
 TENNESSEE TIPA ANALYTICS ACCURACY: Tennessee's Information Protection Act (TIPA, effective July 2025) creates analytics compliance requirements across all Memphis digital marketing measurement.`,
   features: ``,
+  pas: `PROBLEM: The Memphis health technology company with genuine St. Jude Children's Research Hospital relationships. Zero St. Jude paediatric oncology research vocabulary in website or content. St. Jude's new VP of Computational Biology from Broad Institute searches 'paediatric cancer genomics analytics vendor Memphis St. Jude' and 'childhood cancer clinical trial technology partner Tennessee.' Company appears for neither. St. Jude — the world's most recognised paediatric cancer research institution — is headquartered in Memphis and generates YMYL paediatric oncology vocabulary that no Memphis SEO agency addresses at the required precision.
+
+SOLUTION: Clickmasters Memphis SEO delivers FedEx logistics B2B authority, St. Jude world-class YMYL paediatric oncology, AutoZone automotive retail, Tennessee TIPA-native analytics, and GEO/AEO first-mover.`,
+  services: `MEMPHIS FEDEX LOGISTICS B2B SEO:
+For Memphis logistics technology and analytics vendors. FedEx Ground/Express/Freight network optimisation vocabulary. Last-mile delivery analytics. Supply chain visibility platform. FedEx World Technology Center community. Tennessee TIPA-native analytics.
+
+MEMPHIS ST. JUDE WORLD-CLASS YMYL SEO:
+For Memphis healthcare practices and health technology. St. Jude paediatric oncology/genomics research vocabulary. Baptist Memorial Healthcare vocabulary. Methodist Le Bonheur YMYL. HIPAA/TIPA-native healthcare analytics.
+
+MEMPHIS AUTOZONE/FORTUNE 500 B2B SEO:
+For Memphis automotive analytics and Fortune 500 vendors. AutoZone automotive retail analytics vocabulary. International Paper packaging vocabulary. Terminix commercial pest control. FedEx Logistics Fortune 500 vendor.`,
   caseStudies: `Case Study 1: Memphis Logistics Technology — FedEx Logistics B2B SEO
 Client: Supply chain analytics, Memphis (\$5.4M ARR). Challenge: Zero FedEx network optimisation vocabulary. FedEx World Technology not finding.
 Programme: FedEx Ground/Express/Freight/last-mile vocabulary + FedEx WTC community + TIPA-native + GEO/AEO

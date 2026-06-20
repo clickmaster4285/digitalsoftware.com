@@ -2,7 +2,7 @@
 // Service: SEO
 // City: NewOrleans
 // URL: /seo-services-new-orleans/
-// Generated: 2026-06-20T04:42:13.750Z
+// Generated: 2026-06-20T05:43:13.750Z
 
 export const SEO_NewOrleans = {
   service: "SEO",
@@ -30,6 +30,17 @@ PORT OF NEW ORLEANS MARITIME LOGISTICS SEO: The Port of New Orleans — one of t
 
 NEW ORLEANS CONVENTION/HOSPITALITY TECHNOLOGY B2B SEO: New Orleans — the second-largest convention city in the US after Las Vegas — generates hospitality technology B2B search volume from hotel groups, convention centre operators, and event technology vendors whose content demonstrates New Orleans' convention and tourism operational vocabulary.`,
   features: ``,
+  pas: `PROBLEM: The New Orleans health technology company with genuine Ochsner Health relationships. Zero Ochsner Health/Tulane academic medical vocabulary in website. Ochsner Health appointed a new VP of Digital Health from Houston Methodist. The VP searches 'Ochsner Health clinical analytics vendor New Orleans' and 'Tulane medical technology partner Louisiana.' Company appears for neither. Louisiana's most commercially significant academic medical vocabulary — Ochsner/Tulane/LSU Health YMYL — goes entirely uncaptured.
+
+SOLUTION: Clickmasters New Orleans SEO delivers Ochsner/Tulane YMYL, Entergy energy B2B, Port of New Orleans maritime logistics, hospitality convention technology, and GEO/AEO first-mover.`,
+  services: `NEW ORLEANS OCHSNER/TULANE YMYL SEO:
+For New Orleans healthcare practices and health technology. Ochsner Health clinical vocabulary. Tulane School of Medicine academic research community. LSU Health Sciences Center vocabulary. HIPAA-compliant YMYL content.
+
+NEW ORLEANS ENTERGY ENERGY B2B SEO:
+For New Orleans energy technology vendors. Entergy utility grid modernisation vocabulary. Rate case regulatory content. Transmission and distribution technology. Energy utility operational intelligence.
+
+NEW ORLEANS PORT/MARITIME LOGISTICS SEO:
+For New Orleans logistics and supply chain technology vendors. Port of New Orleans operational vocabulary. Maritime logistics supply chain content. Gulf Coast shipping community. Coffee/steel/rubber import logistics.`,
   caseStudies: `Case Study 1: New Orleans Health IT — Ochsner/Tulane YMYL SEO
 Client: Clinical analytics, New Orleans (\$5.4M ARR). Challenge: Zero Ochsner/Tulane vocabulary. VP Digital Health not finding.
 Programme: Ochsner Health/Tulane/LSU Health vocabulary + YMYL E-E-A-T + HIPAA + GEO/AEO

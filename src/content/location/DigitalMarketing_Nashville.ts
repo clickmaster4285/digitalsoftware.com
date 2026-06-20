@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Nashville
 // URL: /digital-marketing-agency-nashville/
-// Generated: 2026-06-20T04:42:11.424Z
+// Generated: 2026-06-20T05:43:08.735Z
 
 export const DigitalMarketing_Nashville = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Nashville",
   citySlug: "nashville",
-  slug: "/digital-marketing-agency-nashville/",
+  slug: "/digital-marketing-agency-in-nashville/",
   
   h1: `Digital Marketing Agency Nashville — Healthcare Capital, Amazon East Bank, and Music City Revenue Growth`,
   primaryKw: `digital marketing agency nashville`,
@@ -30,6 +30,20 @@ AMAZON EAST BANK PROFESSIONAL MARKET: Amazon's East Bank Nashville campus has cr
 
 MUSIC CITY AUTHENTIC COMMERCIAL: Nashville's entertainment economy and genuine cultural identity create specific consumer digital marketing opportunities — but only for brands that communicate authentic Nashville character rather than performed Music City brand aesthetics. The Nashville consumer and visitor market rewards genuine East Nashville spirit, genuine Music Row heritage, and genuine Germantown artisanal quality.`,
   features: ``,
+  pas: ``,
+  services: `SEO NASHVILLE: Healthcare capital vocabulary authority. Amazon East Bank analytical precision B2B. Music City authentic entertainment. /seo-services-nashville/
+
+GOOGLE ADS NASHVILLE: HIPAA-compliant healthcare patient acquisition. Amazon East Bank procurement targeting. Nashville consumer authentic campaigns.
+
+CONTENT MARKETING NASHVILLE: HCAHPS/VBP/ACO operational authority. Amazon analytical precision B2B content. Billboard/Pollstar entertainment. /content-marketing-nashville/
+
+LINKEDIN NASHVILLE: HCA/Envision ecosystem executive thought leadership. Amazon East Bank professional community. Authentic Music City consumer brand. /social-media-marketing-nashville/
+
+EMAIL NASHVILLE: HIMSS Nashville conference contact reactivation. Amazon East Bank professional services nurture. Nashville consumer brand Klaviyo. HIPAA-compliant healthcare.
+
+LOCAL SEO NASHVILLE: Top 3 Local Pack for The Gulch, Germantown, Brentwood, and Franklin. HIPAA-compliant healthcare review management.
+
+WEB DESIGN NASHVILLE: HIPAA clinical credential standard. Amazon HQ2-calibre institutional quality. Authentic Nashville consumer brand design. /web-design-agency-nashville/`,
   caseStudies: `Case Study 1: Nashville Health IT — Healthcare Capital Full Digital Programme
 Client: Clinical analytics SaaS, Nashville (\$12M ARR). Challenge: HCA CDO and Envision VP arriving from out-of-state — company invisible to new executives.
 Programme: SEO (HCAHPS/VBP vocabulary) + Google Ads (health IT procurement) + LinkedIn (HCA/Envision executive targeting) + email (HIMSS Nashville reactivation) + content

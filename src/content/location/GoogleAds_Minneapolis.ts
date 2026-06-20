@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Minneapolis
 // URL: /google-ads-management-minneapolis/
-// Generated: 2026-06-20T04:42:12.642Z
+// Generated: 2026-06-20T05:43:11.054Z
 
 export const GoogleAds_Minneapolis = {
   service: "GoogleAds",
@@ -26,6 +26,19 @@ FDA-AWARE MEDICAL DEVICE PPC: Medtronic, Abbott, Boston Scientific, and Minneapo
 
 HIMSS VOCABULARY TARGETING: Minneapolis medical device companies that build Google Ads keyword strategy around the specific vocabulary that IDN supply chain directors use during procurement research — not the vocabulary the device company uses to describe its own product — discover a first-mover advantage that most Medical Alley competitors have not yet exploited. The Integrated Delivery Network supply chain director searching Google for 'remote patient monitoring interoperability Epic integration' is using procurement vocabulary, not marketing vocabulary.`,
   features: ``,
+  pas: `PROBLEM: The Plymouth medical device company spending \$18,000/month on Google Ads is targeting their own product vocabulary. The health system procurement director who needs what they offer is searching in IDN vocabulary — 'remote cardiac monitoring interoperability', 'FDA 510k cleared cardiac monitoring platform', 'hospital at home cardiac monitoring CPT codes'. The company's keywords don't match the procurement vocabulary and the \$18,000 monthly spend is reaching clinicians, students, and researchers — not the IDN supply chain directors who make the \$2M-\$8M enterprise procurement decisions.
+
+AGITATION: Minneapolis's Medical Alley Google Ads market is underinvested by most device companies — which means the first-mover who builds HIMSS-vocabulary, CRM-integrated, FDA-compliant campaigns now establishes Quality Score advantages and audience data that compound over time.
+
+SOLUTION: Clickmasters Minneapolis Google Ads delivers FDA-aware, HIMSS-vocabulary-targeted, HIPAA-compliant campaigns with Salesforce CRM integration — and reports in IDN-qualified pipeline value, not form fill CPL.`,
+  services: `MINNEAPOLIS MEDICAL ALLEY GOOGLE ADS (FDA-AWARE, HIPAA):
+For Plymouth, Eden Prairie, and Minneapolis medical device and health technology companies. IDN procurement vocabulary keyword strategy — the specific commercial-intent searches that health system supply chain directors and clinical technology officers make during vendor evaluation. Salesforce/HubSpot offline import attributing health system evaluation invitations to specific campaigns. HIPAA server-side compliant conversion tracking. FDA-aware ad copy review before every campaign launch. No promotional claims exceeding cleared indications.
+
+FORTUNE 500 MINNESOTA GOOGLE ADS:
+For companies competing for Target, UnitedHealth Group, Best Buy, 3M, and Cargill procurement. Fortune 500 procurement vocabulary keyword strategy. CRM offline conversion import. Enterprise-credible landing pages with ISO/SOC 2/IATF certification display.
+
+TWIN CITIES HEALTHCARE PATIENT ACQUISITION (HIPAA):
+Patient acquisition for Minneapolis-St. Paul healthcare practices. Server-side HIPAA-compliant tracking. Appointment-booking conversion events. Performance Max for Twin Cities multi-location healthcare.`,
   caseStudies: `Case Study 1: Plymouth Medical Device — HIMSS Vocabulary PPC, \$3.4M IDN Pipeline
 Client: Remote patient monitoring device, Plymouth MN (\$18M, FDA 510k). Challenge: \$18K/month Google Ads targeting product vocabulary reaching wrong audience. 0 health system procurement evaluations from paid.
 Programme: IDN procurement vocabulary rebuild + Salesforce offline import + HIPAA server-side + FDA-aware ad copy review

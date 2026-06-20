@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Raleigh
 // URL: /seo-services-raleigh/
-// Generated: 2026-06-20T04:42:13.849Z
+// Generated: 2026-06-20T05:43:13.969Z
 
 export const SEO_Raleigh = {
   service: "SEO",
@@ -28,6 +28,17 @@ DUKE/UNC YMYL ACADEMIC MEDICAL SEO: Duke University Hospital, UNC Hospitals Chap
 
 TRIANGLE IN-MIGRATION PROFESSIONAL SEO: Raleigh-Durham's 18%+ population growth from Northeast and Midwest in-migration — driven by RTP technology company relocations and Duke/NC State research programme growth — has created above-average professional services demand among newly arrived high-income professionals who are establishing Triangle service relationships and evaluating providers against their prior-city quality standards.`,
   features: ``,
+  pas: `PROBLEM: The Durham pharma consulting company with genuine Biogen and GSK relationships — zero RTP pharmaceutical vocabulary in website or content. Biogen's new VP of CMC (Chemistry, Manufacturing, and Controls) from Cambridge, MA searches 'CMC regulatory consulting RTP Durham' and 'IND submission consulting Triangle NC pharma.' The Durham company appears for neither search. The most concentrated pharmaceutical B2B organic search opportunity in the Southeast — RTP's 300+ pharma and biotech companies — is completely unaddressed by generic 'pharmaceutical consulting North Carolina' content.
+
+SOLUTION: Clickmasters Raleigh SEO delivers RTP pharmaceutical/biotech vocabulary authority, Duke/UNC YMYL academic medical content, Triangle in-migration professional organic, and GEO/AEO first-mover architecture.`,
+  services: `RALEIGH RTP PHARMA/BIOTECH B2B SEO:
+For Durham, RTP, and Triangle pharmaceutical and biotech companies. FDA-aware vocabulary: CMC regulatory, IND/NDA submission, Phase I-III clinical, CLIA/CAP laboratory. Biogen/GSK/Novo Nordisk community vocabulary. IQVIA and PRA Health Sciences RTP community content. Pharma/biotech GEO/AEO.
+
+RALEIGH DUKE/UNC YMYL ACADEMIC MEDICAL SEO:
+For Raleigh-Durham healthcare practices and health technology. Duke University Hospital and UNC Hospitals affiliation content. Duke Medicine and UNC Health academic medical YMYL. WakeMed Health and Rex Hospital content. HIPAA-compliant YMYL content.
+
+RALEIGH TRIANGLE IN-MIGRATION PROFESSIONAL SEO:
+For Raleigh, Cary, Durham, and Chapel Hill financial advisory, estate planning, healthcare. NC in-migration professional vocabulary. Northeast-to-NC transition content. FINRA-compliant financial content.`,
   caseStudies: `Case Study 1: Durham Pharma Consulting — RTP FDA Vocabulary SEO Authority
 Client: CMC regulatory consulting, Durham (\$6.8M). Challenge: Zero RTP pharma vocabulary. Biogen/GSK not finding through organic.
 Programme: CMC/IND/NDA FDA vocabulary + Biogen/GSK community content + Triangle pharma ecosystem + GEO/AEO

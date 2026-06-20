@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Louisville
 // URL: /social-media-marketing-louisville/
-// Generated: 2026-06-20T04:42:14.208Z
+// Generated: 2026-06-20T05:43:14.595Z
 
 export const SocialMedia_Louisville = {
   service: "SocialMedia",
@@ -27,9 +27,7 @@ HUMANA MEDICARE ADVANTAGE LINKEDIN: Humana's Louisville headquarters creates a L
 GE APPLIANCES MANUFACTURING ENGINEERING COMMUNITY: GE Appliances' Louisville campus creates a LinkedIn manufacturing engineering professional community evaluating technology vendor content against the institutional precision of the largest US appliance manufacturing enterprise. Manufacturing technology vendors need LinkedIn demonstrating GE Appliances manufacturing vocabulary: smart appliance IoT integration methodology, manufacturing process analytics, Louisville production line operational intelligence.
 
 AUTHENTIC DERBY CITY CONSUMER BRAND SOCIAL: Louisville's Highlands neighbourhood — Bardstown Road's iconic independent commercial district — NuLu (East Market District) arts and food community, and Butchertown's historic brewery and arts district create consumer brand social opportunities. Kentucky Derby season (May), Louisville bourbon trail, and Churchill Downs' year-round racing create a commercially leverageable seasonal calendar unique to Louisville.`,
-  features: `FEATURES:
-
-Humana Medicare Advantage LinkedIn:
+  features: `Humana Medicare Advantage LinkedIn:
 For Louisville health insurance technology vendors. Humana Medicare Advantage/Stars ratings vocabulary. Value-based care measurement methodology. HEDIS quality programme community. Humana Medicare Advantage Sales Navigator.
 
 GE Appliances Manufacturing Engineering LinkedIn:
@@ -37,6 +35,8 @@ For Louisville manufacturing technology vendors. GE Appliances smart manufacturi
 
 Authentic Derby City Brand Social:
 For Highlands, NuLu, and Butchertown consumer brands. Bardstown Road independent commercial character. NuLu East Market District arts community. Butchertown historic brewery district identity. Kentucky Derby May season content — Churchill Downs infield, thoroughbred racing, mint julep, Derby hat fashion. Bourbon trail seasonal social awareness.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Louisville Health Insurance Technology — Humana Medicare Advantage LinkedIn
 Client: Health insurance analytics, Louisville (\$5.4M ARR). Challenge: Generic LinkedIn. Humana Medicare Advantage professional community not engaging.
 Programme: Humana Medicare Advantage/Stars/value-based care vocabulary + HEDIS community + Humana Sales Navigator

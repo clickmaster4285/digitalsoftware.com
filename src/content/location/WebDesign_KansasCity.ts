@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: KansasCity
 // URL: /web-design-agency-kansas-city/
-// Generated: 2026-06-20T04:42:14.682Z
+// Generated: 2026-06-20T05:43:15.437Z
 
 export const WebDesign_KansasCity = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ ORACLE HEALTH/CERNER HIPAA HEALTH IT INSTITUTIONAL CREDIBILITY: Oracle Health's 
 HALLMARK CARDS CONSUMER BRAND QUALITY: Hallmark Cards' Crown Center headquarters evaluates creative technology and brand analytics vendor websites against the institutional quality standard of a 100+ year old consumer brand enterprise. Vendor websites communicating genuine consumer brand lifecycle management vocabulary, retail distribution analytics specifics, and Hallmark's seasonal greeting card and gift market vocabulary earn above-average procurement consideration.
 
 CHILDREN'S MERCY/KU MEDICAL YMYL ACADEMIC PAEDIATRIC DESIGN: Children's Mercy Kansas City — consistently ranked among the top US children's hospitals — and the University of Kansas Medical Center define the academic paediatric and medical YMYL credential standard for Greater Kansas City healthcare website content.`,
-  features: `FEATURES:
-
-Oracle Health/Cerner HIPAA Institutional Health IT Credibility:
+  features: `Oracle Health/Cerner HIPAA Institutional Health IT Credibility:
 For North Kansas City health IT consulting and services companies. Cerner PowerChart and Millennium platform operational service descriptions. FHIR/HL7 interoperability methodology pages. HCAHPS/CMS quality measure integration service pages. HIPAA-native data architecture with BAA-covered analytics processor. Oracle Health institutional visual quality standard.
 
 Hallmark Consumer Brand Quality Architecture:
@@ -37,6 +35,8 @@ For Kansas City consumer brand and retail analytics vendors. Consumer brand life
 
 Children's Mercy/KU Medical YMYL Academic Paediatric Architecture:
 For Kansas City healthcare practices and health technology. Children's Mercy Kansas City programme affiliation display. University of Kansas Medical Center/KU School of Medicine faculty attribution. HIPAA-native paediatric data architecture. YMYL E-E-A-T optimised paediatric clinical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: North KC Health IT — Oracle Health/Cerner HIPAA Redesign
 Client: EHR consulting, North KC (\$7.4M). Challenge: Website without Cerner PowerChart/HIPAA credential. Oracle Health procurement dismissal.
 Programme: PowerChart/Millennium/FHIR service pages + HIPAA-native + Oracle Health institutional visual + CWV

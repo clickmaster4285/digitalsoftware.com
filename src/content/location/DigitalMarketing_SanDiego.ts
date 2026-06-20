@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: SanDiego
 // URL: /digital-marketing-agency-san-diego/
-// Generated: 2026-06-20T04:42:11.574Z
+// Generated: 2026-06-20T05:43:08.961Z
 
 export const DigitalMarketing_SanDiego = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "SanDiego",
   citySlug: "san-diego",
-  slug: "/digital-marketing-agency-san-diego/",
+  slug: "/digital-marketing-agency-in-san-diego/",
   
   h1: `Digital Marketing Agency San Diego — Defence Contractor Revenue, Torrey Pines Life Science, and CCPA-Native Commercial Growth`,
   primaryKw: `digital marketing agency san diego`,
@@ -28,6 +28,20 @@ TORREY PINES LIFE SCIENCE DIGITAL MARKETING: San Diego's Torrey Pines Mesa — I
 
 CCPA-NATIVE MEASUREMENT FOUNDATION: California's CCPA creates systematic measurement inaccuracy for San Diego businesses running non-compliant digital programmes. CCPA non-compliant organic analytics overstate San Diego organic sessions by 25-35%. CCPA-native measurement produces accurate performance data that San Diego's data-driven defence and life science companies accept as commercially credible.`,
   features: ``,
+  pas: ``,
+  services: `SEO SAN DIEGO: ITAR-bounded defence vocabulary authority. Torrey Pines FDA-aware life science YMYL. CCPA-native analytics. UCSD Health YMYL healthcare. /seo-services-san-diego/
+
+GOOGLE ADS SAN DIEGO: CMMC/AS9100D defence procurement PPC. Torrey Pines life science FDA-aware. HIPAA-compliant healthcare. CCPA Consent Mode v2.
+
+CONTENT MARKETING SAN DIEGO: CMMC/NIST defence authority content. FDA-aware Phase I-III life science. UCSD/Scripps YMYL healthcare. CCPA-native content analytics. /content-marketing-san-diego/
+
+LINKEDIN SAN DIEGO: NAVWAR/Northrop/Leidos defence professional LinkedIn. Torrey Pines life science thought leadership. CCPA-native social analytics.
+
+EMAIL SAN DIEGO: NAVWAR/Northrop named account defence pipeline. Torrey Pines pharma procurement nurture. HIPAA patient retention. CCPA-compliant.
+
+LOCAL SEO SAN DIEGO: Defence community GBP proximity signals. UCSD Health/Scripps affiliation display. CCPA-native review analytics. /local-seo-services-san-diego/
+
+WEB DESIGN SAN DIEGO: Defence contractor ITAR-bounded credential architecture. Torrey Pines life science FDA authority. HIPAA-native. CCPA-native analytics. /web-design-agency-san-diego/`,
   caseStudies: `Case Study 1: Point Loma Cyber Defence — ITAR-Bounded Full Digital Programme
 Client: Cyber defence technology, Point Loma (\$12M ARR). Challenge: New DoD procurement managers not discoverable via digital. CCPA non-compliant analytics overstating organic 32%.
 Programme: SEO (CMMC/NIST vocabulary) + LinkedIn (NAVWAR/Northrop professional) + email (named account pipeline) + CCPA-native analytics rebuild

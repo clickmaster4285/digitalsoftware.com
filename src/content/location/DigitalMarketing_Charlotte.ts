@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: Charlotte
 // URL: /digital-marketing-agency-charlotte/
-// Generated: 2026-06-20T04:42:11.163Z
+// Generated: 2026-06-20T05:43:08.435Z
 
 export const DigitalMarketing_Charlotte = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "Charlotte",
   citySlug: "charlotte",
-  slug: "/digital-marketing-agency-charlotte/",
+  slug: "/digital-marketing-agency-in-charlotte/",
   
   h1: `Digital Marketing Agency Charlotte — Banking Capital Revenue, NASCAR Motorsports B2B, and Southeast Financial Capital Growth`,
   primaryKw: `digital marketing agency charlotte`,
@@ -30,6 +30,20 @@ DUKE ENERGY/LOWE'S FORTUNE 500 VENDOR DIGITAL MARKETING: Duke Energy's Charlotte
 
 ATRIUM HEALTH/NOVANT HEALTHCARE DIGITAL MARKETING: Charlotte's Atrium Health and Novant Health create healthcare technology B2B and patient acquisition digital marketing opportunities requiring HIPAA compliance, HCAHPS/VBP operational vocabulary, and academic medical institutional credibility.`,
   features: ``,
+  pas: ``,
+  services: `SEO CHARLOTTE: BofA/Truist banking vocabulary. NASCAR motorsports B2B. Duke Energy/Lowe's Fortune 500. Atrium/Novant YMYL. FINRA-compliant. /seo-services-charlotte/
+
+GOOGLE ADS CHARLOTTE: BofA/Truist banking vocabulary PPC. NASCAR motorsports community. Duke Energy/Lowe's Fortune 500. FINRA-compliant financial. HIPAA healthcare.
+
+CONTENT MARKETING CHARLOTTE: Banking capital operational authority. NASCAR technical content. Duke Energy/Lowe's Fortune 500 operational. Atrium/Novant YMYL.
+
+LINKEDIN CHARLOTTE: BofA/Truist banking executive LinkedIn. NASCAR motorsports professional community. Duke Energy/Lowe's Fortune 500 executive. FINRA-compliant.
+
+EMAIL CHARLOTTE: BofA/Truist named account pipeline HubSpot. NASCAR motorsports vendor nurture. Atrium/Novant health system procurement. FINRA-compliant.
+
+LOCAL SEO CHARLOTTE: Banking professional community GBP. Atrium/Novant academic medical credential. FINRA/HIPAA review management.
+
+WEB DESIGN CHARLOTTE: Banking enterprise credibility. NASCAR motorsports institutional. Atrium/Novant YMYL HIPAA. FINRA-compliant.`,
   caseStudies: `Case Study 1: Uptown Charlotte Fintech — BofA/Truist Banking Capital Full Digital Programme
 Client: Treasury management SaaS, Uptown (\$9M ARR). Challenge: New BofA/Truist executives without connections — company invisible. Zero banking vocabulary in digital.
 Programme: SEO (BofA/Truist vocabulary) + LinkedIn (banking capital executive) + email (named account pipeline) + content (banking authority)

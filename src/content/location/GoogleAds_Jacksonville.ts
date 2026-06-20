@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Jacksonville
 // URL: /google-ads-management-jacksonville/
-// Generated: 2026-06-20T04:42:12.381Z
+// Generated: 2026-06-20T05:43:10.754Z
 
 export const GoogleAds_Jacksonville = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ BAPTIST HEALTH/NEMOURS WOLFSON HIPAA SB 262 PATIENT ACQUISITION: Baptist Health 
 
 NAS JACKSONVILLE/MAYPORT MILITARY PROFESSIONAL SERVICES GOOGLE ADS: Naval Air Station Jacksonville and Naval Station Mayport create military professional services PPC opportunities: 'fee-only financial adviser Jacksonville TSP Navy,' 'SCRA mortgage specialist NAS Jacksonville,' and 'VA loan specialist Ponte Vedra military' represent military vocabulary searches at Florida CPCs below national defence community averages.`,
   features: ``,
+  pas: `PROBLEM: The Jacksonville banking technology consulting firm spending \$5,400/month on 'banking technology Jacksonville' and 'financial software Florida.' FIS Global's new VP Platform Partnerships searches 'core banking system consulting FIS vendor Jacksonville' and 'payment processing technology partner FIS Global downtown Jacksonville.' Neither in the campaign. \$64K annual spend misses the world's largest fintech company's specific Jacksonville operational procurement vocabulary.
+
+SOLUTION: Clickmasters Jacksonville Google Ads delivers FIS Global/Florida Blue FINRA vocabulary, Baptist Health/Nemours HIPAA SB 262, and NAS Jacksonville military — at Florida CPCs below New York and Chicago equivalents.`,
+  services: `JACKSONVILLE FIS GLOBAL/FLORIDA BLUE FINRA GOOGLE ADS:
+For Jacksonville fintech and insurance technology vendors. FIS payment/core banking/wealth vocabulary. Florida Blue HEDIS insurance tech. FINRA-compliant ad content. SB 262 Consent Mode v2.
+
+JACKSONVILLE BAPTIST HEALTH/NEMOURS HIPAA SB 262 GOOGLE ADS:
+For Jacksonville healthcare practices and health technology. HIPAA server-side conversion tracking. SB 262 Consent Mode v2. Baptist Health vocabulary. Nemours Wolfson paediatric community.
+
+JACKSONVILLE NAS JACKSONVILLE/MAYPORT MILITARY GOOGLE ADS:
+For financial advisory, healthcare, and legal services. TSP, SCRA, VA loan military vocabulary. NAS Jacksonville/Mayport community audience. PCS-season-aware military timing. FINRA-compliant.`,
   caseStudies: `Case Study 1: Jacksonville Fintech — FIS Global/Florida Blue FINRA PPC
 Client: Banking technology SaaS, Jacksonville (\$6.8M ARR). Challenge: \$64K spend missing FIS/Florida Blue vocabulary. Non-FINRA ads.
 Programme: FIS core banking/payment vocabulary + Florida Blue HEDIS + FINRA-compliant + SB 262 Consent Mode v2

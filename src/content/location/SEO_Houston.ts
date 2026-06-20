@@ -2,7 +2,7 @@
 // Service: SEO
 // City: Houston
 // URL: /seo-services-houston/
-// Generated: 2026-06-20T04:42:13.626Z
+// Generated: 2026-06-20T05:43:13.085Z
 
 export const SEO_Houston = {
   service: "SEO",
@@ -28,6 +28,19 @@ BILINGUAL SPANISH/ENGLISH SEO: Houston's 44% Hispanic/Latino population creates 
 
 TEXAS MEDICAL CENTER SEO: The Texas Medical Center — the world's largest medical complex by patient volume — anchors a healthcare ecosystem serving 14 million annual patient visits. Patient acquisition SEO for TMC-adjacent healthcare practices requires YMYL-standard, MD-authored, HIPAA-compliant content at the clinical authority standard that Houston's medically sophisticated patient population evaluates.`,
   features: ``,
+  pas: `PROBLEM: The Houston Energy Corridor engineering services company with \$48M revenue, API Q1 and API Q2 certification, and 22 years of upstream/midstream operations experience has zero organic digital presence. The ExxonMobil procurement director who is expanding her vendor panel for a new subsea field development project Googles 'API Spec 17D certified subsea services Houston.' Three Houston-based competitors appear on page 1. This company — which is arguably the most qualified of any of them — doesn't appear anywhere in the first five pages. The procurement director builds her vendor consideration set from the companies she found online.
+
+AGITATION: Houston's Energy Corridor organic landscape is developing as technology-forward competitors from Aberdeen, Houston, and international energy hubs invest in API-vocabulary, HSE-technical content programmes that capture energy procurement searches Houston's incumbent businesses have historically missed.
+
+SOLUTION: Clickmasters Houston SEO delivers the API-specific, HSE-technically-precise, bilingual-capable organic programme that earns vendor consideration from Houston's most commercially sophisticated energy and healthcare buyers.`,
+  services: `HOUSTON ENERGY SECTOR B2B SEO:
+For the upstream, midstream, and downstream services, technology, and equipment companies serving ExxonMobil, Shell, BP, and Houston's Energy Corridor. API certification content at technical accuracy standard: API Q1/Q2/Spec 6D/Spec 17D specific references. HSE content with TRIR/LTIR data in the format operators use for vendor evaluation. Gulf of Mexico operational specifics: water depth, formation vocabulary, Christmas tree specifications. OTC (Offshore Technology Conference) and SPE Annual Technical Conference editorial programme. World Oil and Hart Energy editorial placement. The technical organic authority that earns genuine vendor consideration from Houston's most demanding energy procurement community.
+
+HOUSTON BILINGUAL HEALTHCARE SEO (HIPAA + YMYL):
+Patient acquisition SEO for TMC-adjacent practices and the multi-location health groups serving Houston's 4.2 million metro. HIPAA-compliant conversion tracking. YMYL-standard MD-authored clinical content. Spanish-language healthcare content calibrated to Houston's Mexican-American and Central American community vocabulary. Houston Chronicle Health editorial programme. The bilingual organic programme that captures 100% of Houston's healthcare search market.
+
+HOUSTON PROFESSIONAL SERVICES B2B SEO:
+For the management consulting, legal, financial advisory, and technology companies serving Houston's Fortune 500 energy and healthcare ecosystem. Houston Business Journal editorial programme. Texas-specific corporate content vocabulary. In-migration professional services content for Houston's above-average population growth.`,
   caseStudies: `Case Study 1: Energy Corridor Subsea Services — API Technical Authority Programme
 Client: Subsea engineering services, Energy Corridor (\$48M). Challenge: Zero organic presence. ExxonMobil and Shell procurement finding Aberdeen and California competitors online.
 Programme: API Spec 17D/API Q1 content + OTC/SPE editorial + World Oil placement + HSE TRIR/LTIR content + GEO/AEO

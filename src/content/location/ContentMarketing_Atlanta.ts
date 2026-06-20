@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Atlanta
 // URL: /content-marketing-atlanta/
-// Generated: 2026-06-20T04:42:10.546Z
+// Generated: 2026-06-20T05:43:05.873Z
 
 export const ContentMarketing_Atlanta = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ FORTUNE 500 CONTENT STANDARD: Atlanta's Coca-Cola, Delta, Home Depot, NCR Voyix,
 TRANSACTION ALLEY FINTECH CONTENT: Atlanta's designation as Transaction Alley — processing 70% of the world's payment transactions through NCR Voyix, Global Payments, Fiserv, and the broader payments ecosystem — creates a specific content marketing opportunity. PCI-DSS compliance authority content, payment processing technology white papers, and the enterprise fintech thought leadership that earns genuine credibility from Atlanta's payments community represents a content investment category that most Atlanta businesses have not developed.
 
 GEORGIA FILM AND ENTERTAINMENT CONTENT: Atlanta's \$3.4B+ film economy creates content marketing opportunities for production technology vendors, creative services companies, and entertainment industry businesses whose professional community consumes specialised industry content.`,
-  features: `FEATURES:
-
-Fortune 500 Atlanta Vendor Thought Leadership:
+  features: `Fortune 500 Atlanta Vendor Thought Leadership:
 Content calibrated to each Fortune 500 company's specific operational language. Delta airline operations: yield management, irregular operations management, hub-and-spoke network optimisation. Coca-Cola consumer goods: global supply chain, Freestyle machine operations, omnichannel retail strategy. Home Depot construction: contractor programme, PRO business segment, supply chain velocity. The Atlanta Business Chronicle and Crain's Atlanta editorial programme. The specific Fortune 500 content that earns pre-RFP vendor consideration from Atlanta's most commercially valuable procurement community.
 
 Transaction Alley Fintech Authority:
@@ -37,6 +35,15 @@ PCI-DSS compliance white papers and editorial content. Payment processing techno
 
 Georgia Entertainment Content:
 For Atlanta Film District production companies, creative services vendors, and entertainment technology businesses. Production technology authority content at the standard that Netflix, Amazon Studios, and Disney evaluate. Georgia Film Tax Credit documentation content. Variety and The Hollywood Reporter editorial programme for Atlanta film businesses.`,
+  pas: ``,
+  services: `ATLANTA FORTUNE 500 VENDOR CONTENT:
+For companies competing for Coca-Cola, Delta, Home Depot, NCR, and UPS procurement. Company-specific operational vocabulary content tracks. Fortune 500-scale case studies. Atlanta Business Chronicle/Crain's Atlanta editorial placement. Bi-monthly content strategy calibrated to each Fortune 500 client's procurement calendar.
+
+ATLANTA TRANSACTION ALLEY FINTECH CONTENT:
+For NCR Voyix, Global Payments, and Fiserv ecosystem vendors. PCI-DSS authority content. Payment processing technical white papers. FinTech Atlanta editorial placement. American Banker HARO programme. Interchange and gateway technical authority.
+
+ATLANTA HEALTHCARE CONTENT (HIPAA + YMYL):
+For Emory Healthcare-adjacent practices and Piedmont Health ecosystem. HIPAA-compliant patient education. YMYL-standard MD-authored content. Emory/Morehouse School of Medicine credential architecture. Georgia Medical Board-compliant advertising content.`,
   caseStudies: `Case Study 1: Midtown Technology Company — Delta Fortune 500 Content Programme
 Client: AI analytics SaaS, Midtown (\$8.4M ARR). Challenge: Delta and UPS procurement invisible to content. New Fortune 500 executives not discovering via organic.
 Programme: Delta operations vocabulary + UPS supply chain content + ABC editorial + Fortune 500 case studies + GEO/AEO

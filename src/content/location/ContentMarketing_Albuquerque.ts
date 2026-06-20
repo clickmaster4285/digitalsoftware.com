@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Albuquerque
 // URL: /content-marketing-albuquerque/
-// Generated: 2026-06-20T04:42:10.512Z
+// Generated: 2026-06-20T05:43:05.828Z
 
 export const ContentMarketing_Albuquerque = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ SANDIA/LANL ITAR-BOUNDED PUBLICLY RELEASABLE NATIONAL SECURITY CONTENT AUTHORITY
 INTEL RIO RANCHO SEMICONDUCTOR OPERATIONAL CONTENT: Intel Rio Rancho's significant semiconductor manufacturing campus creates content marketing opportunities for equipment and technology vendors demonstrating Intel-calibre semiconductor operational vocabulary: fab process technology operational intelligence, advanced semiconductor materials methodology, and semiconductor manufacturing analytics content.
 
 UNM HEALTH NCI CANCER CENTER YMYL ACADEMIC CONTENT: The University of New Mexico Health Sciences Center — New Mexico's only NCI-designated cancer centre — creates YMYL health technology content marketing opportunities in New Mexico's most commercially significant academic medical environment.`,
-  features: `FEATURES:
-
-Sandia/LANL ITAR-Bounded Publicly Releasable Content Authority Programme:
+  features: `Sandia/LANL ITAR-Bounded Publicly Releasable Content Authority Programme:
 For Albuquerque national security technology and consulting companies. ITAR vocabulary review for every content piece before publication. Sandia-published computing/cybersecurity research community intelligence. Advanced manufacturing and materials science methodology from publicly available DOE/NNSA publications. AFRL publicly releasable research programme community content. IEEE National Security and Defence community editorial. GEO/AEO for Albuquerque Sandia/LANL AI search queries — ITAR-bounded publicly releasable vocabulary only.
 
 Intel Rio Rancho Semiconductor Operational Content:
@@ -37,6 +35,8 @@ For Rio Rancho semiconductor equipment and technology vendors. Fab process techn
 
 UNM Health NCI YMYL Academic Content:
 For Albuquerque healthcare practices and health technology. UNM Health Sciences Center NCI Cancer Center research programme. Presbyterian Healthcare New Mexico managed care vocabulary. HIPAA-compliant clinical case studies. YMYL E-E-A-T New Mexico academic medical content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Albuquerque National Security Tech — Sandia/LANL ITAR-Bounded Content Authority
 Client: Technology consulting, Albuquerque (\$5.4M). Challenge: Zero ITAR-bounded content. Sandia/LANL community not finding. ITAR-controlled vocabulary in existing content.
 Programme: ITAR vocabulary review all existing content + Sandia/LANL publicly releasable content library + IEEE National Security editorial + GEO/AEO

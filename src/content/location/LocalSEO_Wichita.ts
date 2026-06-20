@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Wichita
 // URL: /local-seo-services-wichita/
-// Generated: 2026-06-20T04:42:13.480Z
+// Generated: 2026-06-20T05:43:12.766Z
 
 export const LocalSEO_Wichita = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ VIA CHRISTI/WESLEY YMYL ACADEMIC MEDICAL CREDENTIAL: Via Christi Health (Ascensi
 
 EAST SIDE/COLLEGE HILL/ANDOVER PROFESSIONAL QUALITY: East Side's aviation executive community, College Hill's established arts and residential neighbourhood, and Andover's high-income suburban professional community represent the highest-income professional markets in Greater Wichita.`,
   features: ``,
+  pas: `PROBLEM: The East Side financial advisory with a Spirit AeroSystems VP and Textron Aviation engineering director client base — 20 reviews, generic 'Wichita wealth management' GBP, no CFA verification, no Spirit/Textron aerospace vocabulary. The Textron Aviation VP Avionics who relocated from Seattle searches 'fee-only financial adviser East Side CFA Textron Aviation Wichita.' No CFA verification, no aerospace signal. He selects the firm with 108 reviews, CFA, 'financial planning for Spirit AeroSystems, Textron Aviation, and Koch Industries professionals in East Side.'
+
+SOLUTION: Clickmasters Wichita Local SEO provides the Spirit/Textron ITAR-bounded proximity, Via Christi/Wesley YMYL, and East Side/College Hill/Andover professional quality GBP programme.`,
+  services: `WICHITA SPIRIT/TEXTRON AEROSPACE PROXIMITY B2B GBP:
+For South Wichita and Boeing District aerospace adjacent vendors. ITAR-reviewed publicly releasable aerospace vocabulary in GBP. Spirit/Textron campus proximity signals. Aerospace professional photography.
+
+WICHITA VIA CHRISTI/WESLEY YMYL GBP:
+For Wichita healthcare practices. Via Christi Ascension programme. Wesley HCA vocabulary. HIPAA-compliant review management.
+
+WICHITA EAST SIDE/COLLEGE HILL/ANDOVER PROFESSIONAL QUALITY GBP:
+For East Side, College Hill, and Andover professional services. CFA/CFP with CFA Institute/CFP Board verification. Spirit/Textron/Koch executive community vocabulary. Air Capital aerospace institutional photography. FINRA-aware.`,
   caseStudies: `Case Study 1: East Side Financial Advisory — Spirit/Textron Professional Quality GBP
 Client: Fee-only RIA, East Side (\$140M AUM). Challenge: GBP below Spirit/Textron professional standard.
 Programme: CFA verification + Spirit/Textron/Koch vocabulary + FINRA-aware + East Side aerospace professional photography

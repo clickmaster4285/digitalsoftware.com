@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: DesMoines
 // URL: /digital-marketing-agency-des-moines/
-// Generated: 2026-06-20T04:42:11.240Z
+// Generated: 2026-06-20T05:43:08.575Z
 
 export const DigitalMarketing_DesMoines = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "DesMoines",
   citySlug: "des-moines",
-  slug: "/digital-marketing-agency-des-moines/",
+  slug: "/digital-marketing-agency-in-des-moines/",
   
   h1: `Digital Marketing Agency Des Moines — Principal Financial Revenue, EMC Insurance B2B, UnityPoint YMYL, and Iowa Insurance Capital Commercial Growth`,
   primaryKw: `digital marketing agency des moines`,
@@ -30,6 +30,20 @@ UNITYPOINT HEALTH AND MERCYONE YMYL DIGITAL MARKETING: UnityPoint Health — Iow
 
 MEREDITH CORPORATION MEDIA AND IOWA STATE FAIR COMMERCIAL ECOSYSTEM: Meredith Corporation (Better Homes & Gardens, People, Time) — originally a Des Moines media company — and the Iowa State Fair (August, 1 million+ annual visitors) create media B2B and consumer brand commercial marketing opportunities unique to Iowa's capital.`,
   features: ``,
+  pas: ``,
+  services: `SEO DES MOINES: Principal FINRA/SEC vocabulary. EMC/Farm Bureau insurance. UnityPoint/MercyOne YMYL. Iowa CDPA-native. /seo-services-des-moines/
+
+GOOGLE ADS DES MOINES: Principal FINRA-compliant. EMC/Farm Bureau insurance. UnityPoint HIPAA patient. Iowa CDPA consent management.
+
+CONTENT MARKETING DES MOINES: Principal retirement/insurance authority. EMC/Farm Bureau commercial lines. UnityPoint YMYL. Iowa State Fair seasonal.
+
+LINKEDIN DES MOINES: Principal insurance/investment LinkedIn. EMC/Farm Bureau Iowa community. UnityPoint clinical. East Village/Court Avenue/Ingersoll authentic Des Moines.
+
+EMAIL DES MOINES: Principal/EMC/Farm Bureau named pipeline. UnityPoint HIPAA. Iowa State Fair August seasonal.
+
+LOCAL SEO DES MOINES: Principal proximity GBP. UnityPoint/MercyOne YMYL. Beaverdale/Ingersoll professional quality.
+
+WEB DESIGN DES MOINES: Principal FINRA institutional. EMC insurance quality. UnityPoint YMYL HIPAA.`,
   caseStudies: `Case Study 1: Des Moines Financial Technology — Principal Financial Full Programme
 Client: Investment analytics, Des Moines (\$6.4M ARR). Challenge: New Principal VP Technology without connections. Zero FINRA retirement vocabulary.
 Programme: SEO (Principal FINRA retirement/insurance vocabulary) + LinkedIn (Principal insurance community) + email (Principal named pipeline) + Iowa CDPA-native

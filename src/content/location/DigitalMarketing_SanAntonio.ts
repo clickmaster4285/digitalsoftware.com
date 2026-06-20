@@ -2,14 +2,14 @@
 // Service: DigitalMarketing
 // City: SanAntonio
 // URL: /digital-marketing-agency-san-antonio/
-// Generated: 2026-06-20T04:42:11.565Z
+// Generated: 2026-06-20T05:43:08.944Z
 
 export const DigitalMarketing_SanAntonio = {
   service: "DigitalMarketing",
   serviceSlug: "digital-marketing",
   city: "SanAntonio",
   citySlug: "san-antonio",
-  slug: "/digital-marketing-agency-san-antonio/",
+  slug: "/digital-marketing-agency-in-san-antonio/",
   
   h1: `Digital Marketing Agency San Antonio — Military Community Revenue, Bilingual Growth, and Texas' Most Valuable First-Mover Digital Window`,
   primaryKw: `digital marketing agency san antonio`,
@@ -28,6 +28,18 @@ BILINGUAL COMMERCIAL IMPERATIVE: San Antonio's 65%+ Hispanic/Latino population m
 
 FIRST-MOVER WINDOW: San Antonio's digital marketing competitive landscape is the most underdeveloped of any major Texas city — significantly below Austin, Dallas, and Houston in organic search competition, Local Pack sophistication, and paid search competition intensity. This creates the most commercially valuable first-mover digital marketing window in Texas.`,
   features: ``,
+  pas: ``,
+  services: `SEO SAN ANTONIO: Military community organic authority (BAH/BAS/TSP vocabulary). Bilingual Spanish/English SEO (65% Hispanic market). South Texas Medical Center healthcare. /seo-services-san-antonio/
+
+GOOGLE ADS SAN ANTONIO: JBSA military community PPC (BAH/VA loan/SCRA vocabulary). Bilingual Spanish campaigns (primary market, 20-35% below English CPCs). HIPAA healthcare. /google-ads-management-san-antonio/
+
+LOCAL SEO SAN ANTONIO: Top 3 Local Pack in English AND Spanish. Military community near-me searches. South Texas Medical Center adjacency. /local-seo-services-san-antonio/
+
+CONTENT MARKETING SAN ANTONIO: Military financial planning content (BAH/BAS/TSP). Bilingual healthcare patient education. South Texas Medical Center vendor authority content.
+
+EMAIL SAN ANTONIO: JBSA community PCS-aware reactivation. Bilingual patient communication (HIPAA-safe). Healthcare vendor conference reactivation.
+
+SOCIAL MEDIA SAN ANTONIO: Bilingual LinkedIn and Instagram. Military community Facebook. South Texas healthcare LinkedIn.`,
   caseStudies: `Case Study 1: San Antonio Military Community Financial Advisory — Full Digital Programme
 Client: Wealth management, Stone Oak SA (\$180M AUM, military/veteran focus). Challenge: JBSA community financial planning demand not captured digitally. Website last updated 2020.
 Programme: SEO (military vocabulary) + Google Ads (BAH/BAS/TSP/VA loan) + Local SEO (JBSA-adjacent) + military community content programme

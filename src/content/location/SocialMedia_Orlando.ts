@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Orlando
 // URL: /social-media-marketing-orlando/
-// Generated: 2026-06-20T04:42:14.323Z
+// Generated: 2026-06-20T05:43:14.720Z
 
 export const SocialMedia_Orlando = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ LAKE NONA MEDICAL CITY UCF/UF HEALTH PROFESSIONAL COMMUNITY: Lake Nona Medical C
 
 AUTHENTIC CENTRAL FLORIDA CONSUMER BRAND SOCIAL: Orlando's Mills 50 neighbourhood (Orlando's most diverse and independent arts/food community), Winter Park's established upscale commercial character (Rollins College community, Park Avenue elegance), and Thornton Park's waterfront neighbourhood create consumer brand Instagram and TikTok opportunities for businesses communicating genuine Orlando identity beyond the theme park brand.`,
   features: ``,
+  pas: ``,
+  services: `ORLANDO DISNEY/UNIVERSAL HOSPITALITY LINKEDIN:
+For Lake Nona hospitality technology vendors. Disney MagicBand+ RFID/crowd flow operational vocabulary. Universal Epic Universe guest technology specifics. Theme park capacity management operational content. Resort revenue management intelligence. Disney/Universal Sales Navigator.
+
+ORLANDO LAKE NONA MEDICAL CITY LINKEDIN:
+For Lake Nona Medical City health IT and biotech vendors. UCF College of Medicine research community. UF Health clinical enterprise vocabulary. Nemours Children's paediatric research. Lake Nona bioscience innovation community. SB 262-aware social analytics.
+
+ORLANDO AUTHENTIC BRAND SOCIAL:
+For Mills 50, Winter Park, and Thornton Park consumer brands. Mills 50 arts and food community vocabulary. Winter Park Park Avenue and Rollins College character. Thornton Park waterfront community. Authentic Central Florida identity vs generic Florida brand.`,
   caseStudies: `Case Study 1: Lake Nona Hospitality Tech — Disney/Universal LinkedIn Precision
 Client: Guest experience analytics, Lake Nona (\$6.8M ARR). Challenge: Generic LinkedIn. Disney/Universal hospitality tech community not engaging.
 Programme: MagicBand+ RFID/crowd flow vocabulary + Universal Epic vocabulary + Disney/Universal Sales Navigator

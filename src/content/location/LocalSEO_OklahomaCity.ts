@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: OklahomaCity
 // URL: /local-seo-services-oklahoma-city/
-// Generated: 2026-06-20T04:42:13.280Z
+// Generated: 2026-06-20T05:43:12.419Z
 
 export const LocalSEO_OklahomaCity = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ INTEGRIS/OU HEALTH YMYL ACADEMIC MEDICAL CREDENTIAL: INTEGRIS Health — Oklahom
 
 EDMOND/NICHOLS HILLS PROFESSIONAL QUALITY STANDARD: Edmond — OKC's premier northern suburb, home to Paycom headquarters and Oklahoma Christian University — and Nichols Hills' exclusive residential enclave represent the highest-income professional communities in Greater Oklahoma City.`,
   features: ``,
+  pas: `PROBLEM: The Edmond financial advisory with a Devon Energy E&P engineer and Paycom executive client base — 20 reviews, generic 'Edmond wealth management' GBP, no CFA verification, no Devon/Paycom professional vocabulary. The Devon Energy VP Digital Technology who relocated from Denver searches 'fee-only financial adviser Edmond CFA Devon Energy Oklahoma City.' GBP: 20 reviews, no CFA Institute verification, no Devon E&P signal. He selects the Edmond firm with 108 reviews, CFA Institute verification, 'financial planning for Devon Energy, Paycom, and Oklahoma City professionals in Edmond.'
+
+SOLUTION: Clickmasters Oklahoma City Local SEO provides the Devon/Expand Energy E&P proximity, INTEGRIS/OU Health YMYL, and Edmond/Nichols Hills professional quality GBP programme.`,
+  services: `OKC DEVON/EXPAND ENERGY E&P PROXIMITY B2B GBP:
+For downtown OKC and Edmond E&P adjacent vendors. Devon Energy STACK/SCOOP vocabulary in GBP. Downtown OKC E&P proximity signals. OGE Energy utility community vocabulary. E&P professional photography.
+
+OKC INTEGRIS/OU HEALTH YMYL ACADEMIC GBP:
+For OKC healthcare practices. INTEGRIS Health system programme affiliation. OU Medicine NCI cancer centre vocabulary. HIPAA-compliant review management.
+
+OKC EDMOND/NICHOLS HILLS PROFESSIONAL QUALITY GBP:
+For Edmond and Nichols Hills professional services. CFA/CFP with CFA Institute/CFP Board verification. Devon/Paycom/OGE professional community vocabulary. Oklahoma E&P institutional photography. FINRA-aware.`,
   caseStudies: `Case Study 1: Edmond Financial Advisory — Devon/Paycom Professional Quality GBP
 Client: Fee-only RIA, Edmond (\$140M AUM). Challenge: GBP below Devon/Paycom professional standard.
 Programme: CFA Institute verification + Devon/Paycom/OGE community vocabulary + FINRA-aware + Edmond professional photography

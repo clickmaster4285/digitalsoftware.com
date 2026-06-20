@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: Charlotte
 // URL: /content-marketing-charlotte/
-// Generated: 2026-06-20T04:42:10.622Z
+// Generated: 2026-06-20T05:43:06.196Z
 
 export const ContentMarketing_Charlotte = {
   service: "ContentMarketing",
@@ -27,9 +27,7 @@ FINRA-COMPLIANT BANKING CAPITAL CONTENT AUTHORITY: Charlotte's Bank of America, 
 NASCAR MOTORSPORTS TECHNICAL CONTENT AUTHORITY: Charlotte's motorsports ecosystem creates one of the most commercially concentrated technical content marketing opportunities in any US market. Motorsports technology vendors and engineering services companies can build genuine organic authority through NASCAR technical community content: race engineering methodology articles, motorsports supply chain operational insights, and pit stop engineering precision content that earns genuine engagement from Charlotte's 200+ motorsports supplier community, Team Penske and Hendrick procurement staff, and the racing engineering professional community that no other major US city has at this concentration.
 
 ATRIUM HEALTH/NOVANT YMYL CONTENT: Charlotte's Atrium Health and Novant Health create health technology B2B content marketing opportunities for vendors whose buyer community searches in HCAHPS, VBP, and ACO operational vocabulary — creating above-average organic authority opportunities for the first health technology vendors to build this content in Charlotte's growing healthcare market.`,
-  features: `FEATURES:
-
-FINRA-Compliant Banking Capital Content Programme:
+  features: `FINRA-Compliant Banking Capital Content Programme:
 For Uptown Charlotte fintech and banking technology vendors. FINRA Rule 2210 compliance review integrated into every content piece before publication. BofA/Truist banking operational content tracks: treasury management methodology, commercial lending technology analysis, capital markets analytics precision. American Banker and Bank Technology News editorial programme for Charlotte banking community. SEC Marketing Rule-compliant case study content. The FINRA-compliant banking content library that earns BofA/Truist pre-engagement organic authority.
 
 NASCAR Motorsports Technical Content Programme:
@@ -37,6 +35,8 @@ For Concord and Greater Charlotte motorsports technology vendors. NASCAR technic
 
 Atrium Health/Novant YMYL Healthcare Content:
 For Charlotte healthcare practices and health technology vendors. Atrium Health and Novant Health clinical vocabulary content. HCAHPS/VBP/ACO operational content for health system procurement. HIPAA-compliant clinical case studies. Carolinas Medical Center academic medical authority content.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Uptown Charlotte Fintech — FINRA Banking Capital Content Authority
 Client: Treasury management SaaS, Uptown (\$9M ARR). Challenge: Zero banking operational content. FINRA compliance concern preventing content investment.
 Programme: FINRA-compliant banking content workflow + BofA/Truist operational vocabulary + American Banker editorial + GEO/AEO

@@ -2,7 +2,7 @@
 // Service: ContentMarketing
 // City: LosAngeles
 // URL: /content-marketing-los-angeles/
-// Generated: 2026-06-20T04:42:10.780Z
+// Generated: 2026-06-20T05:43:06.507Z
 
 export const ContentMarketing_LosAngeles = {
   service: "ContentMarketing",
@@ -40,6 +40,15 @@ LA's commercial content landscape has two distinct content requirements that Cli
 
 GEO/AEO Architecture:
 Content structured for AI citation — direct answer format, FAQ schema, authoritative source citation. LA's technology and entertainment professional community asking ChatGPT or Perplexity about product recommendations, creative technology tools, or professional services benefits from GEO/AEO-optimised content that earns those AI-generated answers.`,
+  pas: ``,
+  services: `LA DTC BRAND CONTENT MARKETING:
+Product story content at the visual and editorial quality of LA's creator ecosystem. Blog content blending SEO authority with the brand voice authenticity that LA's DTC audience has been trained by the best creators to expect. Video content strategy for YouTube, TikTok, and Instagram Reels calibrated to LA's creator-native formats. Influencer collaboration content architecture. The content compounding engine that reduces LA DTC brands' dependence on Meta Ads over 12-18 months.
+
+SILICON BEACH B2B CONTENT MARKETING:
+Technical thought leadership for Playa Vista, Culver City, and Santa Monica's B2B technology companies. Product documentation content SEO. Customer success story content at the specific metrics depth that B2B buyers require. Category authority content for the Silicon Beach SaaS companies competing for LA's technology decision-maker audience. GEO/AEO for the AI-search-originated enterprise discovery that Silicon Beach B2B companies increasingly depend on.
+
+LA ENTERTAINMENT AND MEDIA CONTENT:
+For production companies, talent agencies, and entertainment technology vendors in LA's film and television ecosystem. IMDB-citation-quality production credit content. Entertainment industry trade publication (Variety, Hollywood Reporter, The Wrap) HARO and editorial submission programme. The entertainment authority content that earns trust from LA's production community.`,
   caseStudies: `Case Study 1: Silver Lake DTC Brand — Creator-Standard Content, Meta Ads Reduction
 Client: Sustainable DTC brand, Silver Lake (\$6.4M revenue, \$2.8M annual Meta spend). Challenge: Entire business on Meta Ads. Blog content generating 280 sessions/month — below any meaningful contribution.
 Programme: Creator-economy-standard content programme (8 pieces/month, editorial photography standard) + CCPA-native analytics + GEO/AEO + email integration

@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: Indianapolis
 // URL: /social-media-marketing-indianapolis/
-// Generated: 2026-06-20T04:42:14.125Z
+// Generated: 2026-06-20T05:43:14.519Z
 
 export const SocialMedia_Indianapolis = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ CUMMINS/SIMON PROPERTY FORTUNE 500 MIDWEST EXECUTIVE COMMUNITY: Cummins Inc.'s c
 
 AUTHENTIC INDIANAPOLIS CONSUMER BRAND SOCIAL: The Mass Ave Arts District, Broad Ripple's independent commercial community, and Fountain Square's emerging arts economy create consumer brand Instagram and TikTok opportunities for businesses communicating genuine Indianapolis neighbourhood identity — distinguishing authentic Indy brands from generic Midwest commercial approximations.`,
   features: ``,
+  pas: ``,
+  services: `INDIANAPOLIS ELI LILLY/CORTEVA PHARMA LINKEDIN:
+For Indianapolis pharma consulting and services companies. GMP/CMC/API/IND pharmaceutical operational vocabulary. Eli Lilly/Corteva/Elanco community Sales Navigator. FDA operational precision content. HIPAA-aware social content.
+
+INDIANAPOLIS CUMMINS/SIMON FORTUNE 500 LINKEDIN:
+For Indianapolis enterprise technology and professional services vendors. Cummins commercial engine/clean transportation vocabulary. Simon Property REIT/retail operational vocabulary. Fortune 500 Indiana Midwest executive community engagement.
+
+INDIANAPOLIS AUTHENTIC BRAND SOCIAL:
+For Mass Ave Arts District, Broad Ripple, and Fountain Square consumer brands. Mass Ave arts community vocabulary. Broad Ripple independent commercial character. Fountain Square emerging arts economy. Authentic Indy identity vs generic Midwest brand.`,
   caseStudies: `Case Study 1: Indianapolis Pharma Consulting — Eli Lilly GMP LinkedIn Precision
 Client: GMP manufacturing consulting, Indianapolis (\$6.8M). Challenge: Generic LinkedIn. Eli Lilly quality team not engaging pharmaceutical operational content.
 Programme: FDA 21 CFR Part 211 GMP content + CMC/API operational vocabulary + Lilly/Corteva community Sales Navigator

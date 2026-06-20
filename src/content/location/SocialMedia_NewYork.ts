@@ -2,7 +2,7 @@
 // Service: SocialMedia
 // City: NewYork
 // URL: /social-media-marketing-new-york/
-// Generated: 2026-06-20T04:42:14.293Z
+// Generated: 2026-06-20T05:43:14.665Z
 
 export const SocialMedia_NewYork = {
   service: "SocialMedia",
@@ -28,6 +28,15 @@ YMYL HEALTHCARE CLINICAL SOCIAL AUTHORITY: New York's NYU Langone, Mount Sinai, 
 
 WORLD-CLASS NYC BRAND SOCIAL: New York City's consumer and professional brand social media community evaluates content against the NYT/Condé Nast editorial quality standard — the most demanding consumer content environment in the US. NYC consumer brands whose Instagram and LinkedIn content doesn't meet the editorial quality of New York's media establishment are invisible to the most commercially sophisticated consumer audience in America.`,
   features: ``,
+  pas: ``,
+  services: `LINKEDIN MARKETING NYC (FINRA-COMPLIANT WALL STREET):
+For Midtown Manhattan wealth managers, Wall Street investment advisory, and the NYC financial services professional community. FINRA Rule 2210-compliant LinkedIn content: no guaranteed return language, appropriate risk disclosures, compliant testimonial architecture, no misleading performance representations. CFA-authored investment analysis. Bloomberg Terminal and Federal Reserve data citations. NYC-specific investment vocabulary: New York State income tax bracket planning, Manhattan real estate estate planning, NYC-specific retirement strategies.
+
+NYC HEALTHCARE CLINICAL AUTHORITY LINKEDIN:
+For NYU Langone-adjacent practices, Mount Sinai-affiliated physicians, and healthcare technology companies competing in NYC's academic medical centre community. YMYL-standard clinical LinkedIn: attending physician attribution with institutional affiliation, peer-reviewed clinical evidence citations (NEJM/JAMA), HIPAA-aware content. NYC academic medical credential architecture. FINRA-aware content for healthcare financial services.
+
+NYC WORLD-CLASS CONSUMER BRAND INSTAGRAM/LINKEDIN:
+For NYC's consumer brands, luxury hospitality, and lifestyle businesses. NYT/Condé Nast editorial quality standard in visual creative direction. NYC-neighbourhood-specific cultural content: SoHo creative community, Upper East Side luxury, Brooklyn authenticity, West Village editorial quality. FTC-compliant influencer disclosures at NYC's above-average enforcement environment standard.`,
   caseStudies: `Case Study 1: Midtown Wealth Management — FINRA-Compliant Wall Street LinkedIn Rebuild
 Client: Multi-family office, Midtown Manhattan (\$3.8B AUM). Challenge: 4 FINRA findings in LinkedIn review. 2 LinkedIn-specific violations. Programme suspended.
 Programme: FINRA compliance rebuild + CFA-authored investment commentary + Bloomberg/Fed citations + NYC-specific HNW vocabulary + compliant testimonial architecture

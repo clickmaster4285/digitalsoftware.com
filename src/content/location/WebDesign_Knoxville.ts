@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: Knoxville
 // URL: /web-design-agency-knoxville/
-// Generated: 2026-06-20T04:42:14.692Z
+// Generated: 2026-06-20T05:43:15.465Z
 
 export const WebDesign_Knoxville = {
   service: "WebDesign",
@@ -27,9 +27,7 @@ TVA UTILITY AND ORNL ITAR-ADJACENT INSTITUTIONAL CREDIBILITY: TVA and ORNL evalu
 UT MEDICAL/COVENANT YMYL HIPAA TIPA ACADEMIC HEALTHCARE: UT Medical Center and Covenant Health create YMYL website requirements with HIPAA-native TIPA-native East Tennessee data architecture.
 
 AUTHENTIC TENNESSEE VALLEY BRAND: Market Square's vibrant downtown hub, the Old City's arts and entertainment district, Sequoyah Hills' elegant residential community along the Tennessee River, and the Great Smoky Mountains' outdoor lifestyle proximity create consumer brand design opportunities unique to Knoxville.`,
-  features: `FEATURES:
-
-TVA Utility/ORNL ITAR-Adjacent Institutional Architecture:
+  features: `TVA Utility/ORNL ITAR-Adjacent Institutional Architecture:
 TVA nuclear/grid/renewable service pages. ITAR vocabulary review ORNL pages (documentation included). Tennessee utility enterprise visual quality. TIPA-native analytics.
 
 UT Medical/Covenant YMYL HIPAA TIPA Architecture:
@@ -37,6 +35,8 @@ UT Medical Center Level 1 Trauma vocabulary. Covenant Health system vocabulary. 
 
 Authentic Tennessee Valley Consumer Brand Architecture:
 Market Square downtown energy vocabulary. Old City arts and entertainment. Sequoyah Hills Tennessee River residential. Great Smoky Mountains outdoor lifestyle proximity. Tennessee Volunteers Big Orange heritage.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Knoxville Energy — TVA/ORNL Institutional Redesign
 Client: Utility analytics, Knoxville (\$5.4M ARR). Challenge: ITAR exposure in ORNL pages. Below TVA institutional quality.
 Programme: ITAR review + TVA utility pages + ITAR documentation + TIPA-native + CWV

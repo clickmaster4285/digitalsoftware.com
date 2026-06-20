@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Jacksonville
 // URL: /local-seo-services-jacksonville/
-// Generated: 2026-06-20T04:42:13.102Z
+// Generated: 2026-06-20T05:43:12.148Z
 
 export const LocalSEO_Jacksonville = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ BAPTIST HEALTH/NEMOURS WOLFSON ACADEMIC MEDICAL CREDENTIAL: Baptist Health Jacks
 
 PONTE VEDRA BEACH/ST. JOHNS/AVONDALE PROFESSIONAL QUALITY STANDARD: Ponte Vedra Beach (Northeast Florida's most affluent coastal community, home to many FIS Global and Florida Blue executives) and St. Johns County's growing professional community evaluate GBPs with the Northeast Florida Fortune 500 professional precision standard — alongside Avondale/Riverside's established urban professional community.`,
   features: ``,
+  pas: `PROBLEM: The Ponte Vedra Beach financial advisory with an FIS Global executive and Florida Blue leadership client base — 20 reviews at 4.7 stars, generic 'Ponte Vedra wealth management' description, no CFA verification, no FIS/Florida Blue professional community vocabulary, non-SB 262. The new FIS Global SVP who relocated from London searches 'fee-only financial adviser Ponte Vedra CFA FIS Global Jacksonville.' GBP: 20 reviews (London adviser had 130+), no CFA Institute verification, no FIS community signal. He selects the firm with 108 reviews, CFA Institute verification, 'specialists in financial planning for FIS Global and Florida Blue professionals in Ponte Vedra Beach.'
+
+SOLUTION: Clickmasters Jacksonville Local SEO provides the FIS Global proximity, Baptist Health/Nemours Wolfson academic medical, and Ponte Vedra/St. Johns professional quality standard GBP programme.`,
+  services: `JACKSONVILLE FIS GLOBAL PROXIMITY B2B GBP:
+For downtown Jacksonville and Southside fintech adjacent vendors. FIS payment/banking/wealth vocabulary in GBP. World-largest-fintech community proximity signals. Financial technology professional photography. FINRA-aware. SB 262-native review analytics.
+
+JACKSONVILLE BAPTIST HEALTH/NEMOURS WOLFSON YMYL GBP:
+For Jacksonville healthcare practices. Baptist Health network system affiliation. Nemours Wolfson Children's paediatric programme affiliation. HIPAA-compliant SB 262-native review management.
+
+JACKSONVILLE PONTE VEDRA/ST. JOHNS PROFESSIONAL QUALITY GBP:
+For Ponte Vedra Beach and St. Johns County professional services. CFA/CFP with CFA Institute/CFP Board verification. FIS Global/Florida Blue executive community vocabulary. Ponte Vedra coastal professional photography. FINRA-aware SB 262-native.`,
   caseStudies: `Case Study 1: Ponte Vedra Financial Advisory — FIS/Florida Blue Executive Quality GBP
 Client: Fee-only RIA, Ponte Vedra Beach (\$200M AUM). Challenge: GBP below FIS/Florida Blue executive community standard.
 Programme: CFA Institute verification + FIS/Florida Blue executive community vocabulary + FINRA-aware + SB 262-native + Ponte Vedra coastal photography

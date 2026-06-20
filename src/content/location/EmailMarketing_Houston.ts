@@ -2,7 +2,7 @@
 // Service: EmailMarketing
 // City: Houston
 // URL: /email-marketing-houston/
-// Generated: 2026-06-20T04:42:11.887Z
+// Generated: 2026-06-20T05:43:09.295Z
 
 export const EmailMarketing_Houston = {
   service: "EmailMarketing",
@@ -27,9 +27,7 @@ OTC/SPE CONFERENCE REACTIVATION: Houston's Offshore Technology Conference (OTC) 
 BILINGUAL HIPAA PATIENT RETENTION: Houston's 44% bilingual Spanish/English healthcare patient population creates a specific email marketing challenge that few Houston healthcare practices have solved: the Spanish-speaking patient who enrolled in English but prefers Spanish-language appointment reminders, follow-up communications, and health education content. Bilingual patient retention email reduces the above-average switching rate that occurs when Spanish-speaking patients receive healthcare communication exclusively in English.
 
 TEXAS MEDICAL CENTER B2B PIPELINE NURTURE: The world's largest medical complex generates procurement decisions spanning 90-180 day evaluation cycles. HubSpot-integrated email nurture for the technology vendors, medical equipment suppliers, and healthcare services companies serving TMC's procurement community maintains the commercial relationships that drive vendor consideration through these extended evaluation cycles.`,
-  features: `FEATURES:
-
-OTC/SPE Conference Contact Reactivation:
+  features: `OTC/SPE Conference Contact Reactivation:
 The 7-stage energy procurement reactivation sequence calibrated to Houston's oil and gas relationship culture. Stage 1 (within 72 hours of OTC): specific booth conversation reference. Stage 2 (Week 2): API certification update relevant to the contact's operational role. Stage 3 (Month 2): Gulf of Mexico operational case study. Stage 4 (Month 3): HSE performance data (TRIR/LTIR) communication. Stage 5 (Month 4): industry intelligence relevant to the contact's company's operational programme. Stage 6 (Month 5): peer reference introduction offer. Stage 7: formal RFQ readiness invitation. The email programme that converts OTC badge scans into qualified energy procurement evaluations.
 
 Bilingual HIPAA Patient Retention:
@@ -37,6 +35,15 @@ For Houston healthcare practices with bilingual patient populations. Language-pr
 
 TMC B2B Pipeline Nurture (HubSpot):
 For health technology vendors, medical equipment suppliers, and healthcare services companies competing for TMC procurement. HubSpot deal-stage-triggered nurture calibrated to TMC's 90-180 day evaluation cycles. HIPAA-aware B2B content. Named account sequences for specific TMC member organisations.`,
+  pas: ``,
+  services: `HOUSTON ENERGY B2B EMAIL (HUBSPOT):
+OTC, SPE, and industry conference contact reactivation. API certification update communications. Gulf of Mexico programme intelligence emails. HSE performance (TRIR/LTIR) communications for safety-culture-focused energy operators. HubSpot Salesforce integration attributing conference contacts to qualified pipeline. Named account sequences for ExxonMobil, Shell, BP, Petrobras, and Aramco target accounts.
+
+HOUSTON BILINGUAL HEALTHCARE EMAIL (HIPAA):
+Bilingual Spanish/English patient retention for TMC-adjacent practices and the multi-location health groups serving Houston's bilingual community. Language-conditional Klaviyo or HubSpot email. HIPAA minimum-necessary Spanish-language patient communication. Bilingual lapsed patient reactivation. Annual bilingual health reminder automation.
+
+HOUSTON TMC B2B PIPELINE NURTURE:
+For health technology, medical equipment, and healthcare services companies. HubSpot TMC procurement nurture (7-stage). HIPAA-aware B2B content. Named TMC member organisation account sequences. Deal-stage-triggered automation for TMC's long procurement cycles.`,
   caseStudies: `Case Study 1: Energy Corridor Subsea Company — OTC Contact Reactivation, \$5.2M Pipeline
 Client: Subsea inspection services, Houston (\$22M). Challenge: 480 OTC/SPE contacts — zero email nurture. Saudi Aramco and Petrobras contacts going cold.
 Programme: 7-stage OTC reactivation + API/HSE-calibrated content + named account sequences (Aramco, Petrobras, Shell)

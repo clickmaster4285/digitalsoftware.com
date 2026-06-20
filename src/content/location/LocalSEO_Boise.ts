@@ -2,7 +2,7 @@
 // Service: LocalSEO
 // City: Boise
 // URL: /local-seo-services-boise/
-// Generated: 2026-06-20T04:42:13.001Z
+// Generated: 2026-06-20T05:43:11.710Z
 
 export const LocalSEO_Boise = {
   service: "LocalSEO",
@@ -28,6 +28,17 @@ ST. LUKE'S/SAINT ALPHONSUS YMYL ACADEMIC MEDICAL CREDENTIAL: St. Luke's Health S
 
 NORTH END/WARM SPRINGS/EAGLE PROFESSIONAL QUALITY: The North End's established residential arts and cycling community, Warm Springs' premier residential corridor, and Eagle's high-income suburban professional community represent the highest-income residential markets in Greater Boise.`,
   features: ``,
+  pas: `PROBLEM: The North End financial advisory with a Micron Technology engineer and Albertsons VP client base — 20 reviews, generic 'Boise wealth management' GBP, no CFA verification, no Micron/Albertsons vocabulary. The Micron process engineer who relocated from San Jose searches 'fee-only financial adviser North End CFA Micron Boise.' GBP: 20 reviews, no CFA verification, no Micron semiconductor signal. She selects the North End firm with 108 reviews, CFA, 'financial planning for Micron Technology, Albertsons, and Boise technology professionals in the North End.'
+
+SOLUTION: Clickmasters Boise Local SEO provides the Micron proximity, St. Luke's/Saint Alphonsus YMYL, and North End/Warm Springs/Eagle professional quality GBP programme.`,
+  services: `BOISE MICRON TECHNOLOGY PROXIMITY B2B GBP:
+For Southeast Boise and Meridian semiconductor adjacent vendors. Micron DRAM/NAND vocabulary in GBP. Southeast Boise/Meridian Micron proximity signals. Semiconductor professional photography.
+
+BOISE ST. LUKE'S/SAINT ALPHONSUS YMYL GBP:
+For Boise healthcare practices. St. Luke's 190+ clinic network affiliation. Saint Alphonsus Trinity Health vocabulary. HIPAA-compliant review management.
+
+BOISE NORTH END/WARM SPRINGS/EAGLE PROFESSIONAL QUALITY GBP:
+For North End, Warm Springs, and Eagle professional services. CFA/CFP with CFA Institute/CFP Board verification. Micron/Albertsons/HP Inc professional community vocabulary. Treasure Valley mountain lifestyle professional photography. FINRA-aware.`,
   caseStudies: `Case Study 1: North End Financial Advisory — Micron/Albertsons Professional Quality GBP
 Client: Fee-only RIA, North End (\$160M AUM). Challenge: GBP below Micron/Albertsons professional standard.
 Programme: CFA verification + Micron/Albertsons/HP Inc vocabulary + FINRA-aware + North End professional photography

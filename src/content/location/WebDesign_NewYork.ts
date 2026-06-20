@@ -2,7 +2,7 @@
 // Service: WebDesign
 // City: NewYork
 // URL: /web-design-agency-new-york/
-// Generated: 2026-06-20T04:42:14.782Z
+// Generated: 2026-06-20T05:43:15.631Z
 
 export const WebDesign_NewYork = {
   service: "WebDesign",
@@ -37,6 +37,8 @@ For NYU Langone-adjacent practices, Columbia-affiliated physicians, and Weill Co
 
 NYT/Condé Nast Editorial Brand Design:
 For NYC's luxury consumer brands, SoHo creative businesses, Midtown corporate brands, and world-class brand organisations. Professional art direction at NYT/Vogue editorial quality benchmark. NYC neighbourhood-specific visual vocabulary: SoHo creative precision, Upper East Side luxury understated, Brooklyn industrial-authentic, West Village artisan editorial. Shopify/WooCommerce CWV optimisation at sub-1.4s LCP. New York Privacy Act-aware analytics.`,
+  pas: ``,
+  services: ``,
   caseStudies: `Case Study 1: Midtown Manhattan Wealth Management — FINRA/SEC/NYDFS Institutional Redesign
 Client: Multi-family office, Midtown (\$3.8B AUM). Challenge: 4 FINRA violations in current website. Non-GIPS performance display. Non-institutional visual quality.
 Programme: FINRA/SEC/NYDFS compliance redesign + GIPS compliant performance + ADV Part 2 integration + CFA verification links + institutional NYC visual quality

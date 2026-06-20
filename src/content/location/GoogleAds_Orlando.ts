@@ -2,7 +2,7 @@
 // Service: GoogleAds
 // City: Orlando
 // URL: /google-ads-management-orlando/
-// Generated: 2026-06-20T04:42:12.720Z
+// Generated: 2026-06-20T05:43:11.219Z
 
 export const GoogleAds_Orlando = {
   service: "GoogleAds",
@@ -28,6 +28,17 @@ LAKE NONA MEDICAL CITY LIFE SCIENCE GOOGLE ADS: Lake Nona Medical City's UCF Col
 
 ADVENTHEALTH/NEMOURS HIPAA SB 262 PATIENT ACQUISITION: AdventHealth's extensive Central Florida network and Nemours Children's Hospital create healthcare patient acquisition and health technology PPC markets requiring both HIPAA-compliant server-side conversion tracking and Florida SB 262 Consent Mode v2 throughout.`,
   features: ``,
+  pas: `PROBLEM: The Lake Nona guest experience analytics company spending \$5,400/month on 'analytics consulting Orlando' and 'hospitality technology Florida.' Disney Parks' new VP Experience Technology searches 'guest experience analytics MagicBand+ RFID Walt Disney World vendor Orlando' and 'theme park capacity management technology Orlando.' Neither in the campaign. \$64K annual spend on generic vocabulary misses the most commercially specific hospitality technology vocabulary in the world — Disney Parks and Universal's Orlando operational procurement language.
+
+SOLUTION: Clickmasters Orlando Google Ads delivers Disney/Universal hospitality technology vocabulary, Lake Nona life science, AdventHealth/Nemours HIPAA SB 262-compliant patient acquisition — at Florida CPCs below coastal hospitality technology equivalents.`,
+  services: `ORLANDO DISNEY/UNIVERSAL HOSPITALITY TECH GOOGLE ADS:
+For Lake Nona and Greater Orlando hospitality technology vendors. Disney Parks guest experience/MagicBand+ vocabulary. Universal Epic Universe tech vocabulary. Theme park capacity management. Resort food and beverage analytics. HIPAA where applicable. SB 262 Consent Mode v2.
+
+ORLANDO LAKE NONA LIFE SCIENCE GOOGLE ADS:
+For Lake Nona Medical City health technology and biotech vendors. UCF College of Medicine vocabulary. UF Health clinical enterprise. Nemours Children's paediatric vocabulary. HIPAA server-side. SB 262 Consent Mode v2.
+
+ORLANDO ADVENTHEALTH/NEMOURS HIPAA SB 262 PATIENT ACQUISITION:
+For Orlando healthcare practices. HIPAA server-side conversion tracking. SB 262 Consent Mode v2 throughout. AdventHealth network vocabulary. Nemours paediatric community. UCF COM academic audience.`,
   caseStudies: `Case Study 1: Lake Nona Hospitality Tech — Disney/Universal Vocabulary PPC
 Client: Guest experience analytics, Lake Nona (\$6.8M ARR). Challenge: \$64K spend missing Disney/Universal vocabulary. VP Experience Technology not reached.
 Programme: Disney MagicBand+/guest vocabulary + Universal Epic vocabulary + HIPAA server-side + SB 262 Consent Mode v2
