@@ -33,33 +33,62 @@ const ClickLetter = ({ letter, title, desc, icon: Icon }: ClickItem) => (
 );
 
 // New UI for PROBLEM/AGITATION/SOLUTION format
-const PasProblemAgitationSolution = ({ problem, agitation, solution }: { problem: string; agitation: string; solution: string }) => {
+// New UI for PROBLEM/AGITATION/SOLUTION format
+const PasProblemAgitationSolution = ({
+  problem,
+  agitation,
+  solution,
+}: {
+  problem: string;
+  agitation: string;
+  solution: string;
+}) => {
+  const items = [
+    problem && "problem",
+    agitation && "agitation",
+    solution && "solution",
+  ].filter(Boolean);
+
+  const colCount = Math.min(items.length, 3);
+
+  const gridClass =
+    colCount === 1
+      ? "md:grid-cols-1"
+      : colCount === 2
+      ? "md:grid-cols-2"
+      : "md:grid-cols-3";
+
   return (
     <section className="relative bg-background text-foreground py-24 overflow-hidden">
       <div className="pointer-events-none absolute inset-x-0 bottom-0 select-none text-center font-display text-[18vw] leading-none text-foreground/[0.03]">
-        PAS
+        PROBLEM
       </div>
 
       <div className="container max-w-6xl mx-auto px-6 relative z-10">
         <SectionLabel number="02" text="Problem · Agitation · Solution" />
+
         <Reveal>
           <h2 className="font-display text-5xl md:text-7xl font-medium leading-[0.95] tracking-tighter mt-6 mb-16">
             The <span className="text-[#FF2E86]">Problem</span> We Solve
           </h2>
         </Reveal>
 
-        <div className="grid md:grid-cols-3 gap-6">
+        <div className={`grid gap-6 ${gridClass}`}>
           {/* PROBLEM */}
           {problem && (
             <Reveal delay={0.1}>
               <div className="rounded-3xl border border-[#FF2E86]/20 bg-[#FF2E86]/5 p-8 h-full">
                 <div className="flex items-center gap-3 mb-6">
-                  <div className="p-3 rounded-2xl ">
+                  <div className="p-3 rounded-2xl">
                     <AlertCircle className="w-7 h-7 text-[#FF2E86]" />
                   </div>
-                  <h3 className="font-display text-2xl tracking-tight text-white">PROBLEM</h3>
+                  <h3 className="font-display text-2xl tracking-tight text-white">
+                    PROBLEM
+                  </h3>
                 </div>
-                <p className="text-foreground/80 text-base leading-relaxed">{problem}</p>
+                <p className="text-foreground/80 text-base leading-relaxed">
+                  {problem}
+                </p>
               </div>
             </Reveal>
           )}
@@ -72,9 +101,13 @@ const PasProblemAgitationSolution = ({ problem, agitation, solution }: { problem
                   <div className="p-3 rounded-2xl">
                     <TrendingUp className="w-7 h-7 text-[#FF2E86]" />
                   </div>
-                  <h3 className="font-display text-2xl tracking-tight text-white">AGITATION</h3>
+                  <h3 className="font-display text-2xl tracking-tight text-white">
+                    AGITATION
+                  </h3>
                 </div>
-                <p className="text-foreground/80 text-base leading-relaxed">{agitation}</p>
+                <p className="text-foreground/80 text-base leading-relaxed">
+                  {agitation}
+                </p>
               </div>
             </Reveal>
           )}
@@ -87,9 +120,13 @@ const PasProblemAgitationSolution = ({ problem, agitation, solution }: { problem
                   <div className="p-3 rounded-2xl">
                     <Lightbulb className="w-7 h-7 text-[#FF2E86]" />
                   </div>
-                  <h3 className="font-display text-2xl tracking-tight text-white">SOLUTION</h3>
+                  <h3 className="font-display text-2xl tracking-tight text-white">
+                    SOLUTION
+                  </h3>
                 </div>
-                <p className="text-foreground/80 text-base leading-relaxed">{solution}</p>
+                <p className="text-foreground/80 text-base leading-relaxed">
+                  {solution}
+                </p>
               </div>
             </Reveal>
           )}

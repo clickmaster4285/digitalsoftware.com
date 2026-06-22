@@ -52,7 +52,7 @@ export async function generateMetadata({
       url: `https://clickmastersdigitalmarketing.com/locations/${slug}`,
     },
     alternates: {
-      canonical: `https://clickmastersdigitalmarketing.com/locations/${slug}`,
+      canonical: `https://clickmastersdigitalmarketing.com/locations${slug}`,
     },
   };
 }
