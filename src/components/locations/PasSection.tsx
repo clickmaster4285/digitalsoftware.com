@@ -149,7 +149,7 @@ export const PasDarkSection = ({ pasText }: PasSectionProps) => {
         <div className="grid md:grid-cols-2 gap-8">
           {pasContent.before && (
             <Reveal delay={0.1}>
-              <div className="rounded-3xl border border-foreground/10 bg-foreground/[0.02] p-10 h-full flex flex-col">
+              <div className="rounded-3xl border border-foreground/10 bg-foreground/[0.02] p-10 h-full flex flex-col hover:bg-foreground/[0.05] transition-colors">
                 <div className="flex items-center gap-4 mb-6">
                   <div className="p-3 rounded-2xl">
                     <Zap className="w-7 h-7 text-[#FF2E86]" />
@@ -162,7 +162,7 @@ export const PasDarkSection = ({ pasText }: PasSectionProps) => {
           )}
           {pasContent.after && (
             <Reveal delay={0.2}>
-              <div className="rounded-3xl border border-foreground/10 bg-foreground/[0.02] p-10 h-full flex flex-col">
+              <div className="rounded-3xl border border-foreground/10 bg-foreground/[0.02] p-10 h-full flex flex-col hover:bg-foreground/[0.05] transition-colors">
                 <div className="flex items-center gap-4 mb-6">
                   <div className="p-3">
                     <Check className="w-7 h-7 text-[#FF2E86]" />
@@ -185,7 +185,7 @@ export const PasLightSection = ({ pasText }: PasSectionProps) => {
   if (pasContent.clickItems.length === 0) return null;
 
   return (
-    <section className="relative bg-white py-24 overflow-hidden">
+    <section className="relative bg-white py-24 overflow-visible">
       <div className="pointer-events-none absolute inset-x-0 bottom-0 select-none text-center font-display text-[18vw] leading-none text-gray-100">
         GROWTH
       </div>
