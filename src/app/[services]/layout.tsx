@@ -38,11 +38,16 @@ export async function generateMetadata(
     };
   }
 
+  const BASE_URL = "https://clickmastersdigitalmarketing.com";
+  const url = content.metadata.url || "/";
+  const canonicalUrl = url.startsWith("http") ? url : `${BASE_URL}${url.startsWith("/") ? "" : "/"}${url}`;
+
   return {
     title: content.metadata.seoTitle,
     description: content.metadata.metaDescription,
+    keywords: content.metadata.secondaryKeywords ?? content.metadata.keyword ?? undefined,
     alternates: {
-      canonical: `${content.metadata.url || "/"}`,
+      canonical: canonicalUrl,
     },
   };
 }

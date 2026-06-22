@@ -204,11 +204,12 @@ const contentRegistry: Record<string, any> = {
 };
 
 export async function generateMetadata(
-  { params }: { params: Promise<{ slug: string }> },
+  { params }: { params: Promise<{ services: string; slug: string }> },
   parent: ResolvingMetadata
 ): Promise<Metadata> {
-  const { slug } = await params;
+  const { services, slug } = await params;
   const content = contentRegistry[slug];
+
 
   if (!content || !content.metadata) {
     return {
@@ -218,11 +219,15 @@ export async function generateMetadata(
     };
   }
 
+  const BASE_URL = "https://clickmastersdigitalmarketing.com";
+  const canonicalUrl = `${BASE_URL}/${services}/${slug}`;
+
   return {
     title: content.metadata.seoTitle,
     description: content.metadata.metaDescription,
+    keywords: content.metadata.secondaryKeywords ?? content.metadata.keyword ?? undefined,
     alternates: {
-      canonical: `${content.metadata.url || "/"}`,
+      canonical: canonicalUrl,
     },
   };
 }
