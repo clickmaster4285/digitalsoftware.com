@@ -326,7 +326,7 @@ const parsePasContent = (pasText: string): PasContent => {
       if (match) {
         const letter = match[1];
         const title = match[2].trim();
-        let desc = trimmed.replace(match[0], '').trim();
+        const desc = trimmed.replace(match[0], '').trim();
         const iconKey = letter === 'C' && clickItems.some(item => item.letter === 'C') ? 'C2' : letter;
 
         clickItems.push({ letter, title, desc, icon: icons[iconKey] || Target });
