@@ -7,9 +7,11 @@ import {
   ContentMarketingServicesContent,
   AIAutomationServicesContent,
   WebDesignServicesContent,
+  PayPerClickManagementContent,
+  EcommerceServicesContent
 } from "@/content/services/main-services";
-import { EcommerceDevContent } from "@/content/services/EcommerceDevelopment";
-import { PpcManagementContent } from "@/content/services/PpcManagement";
+
+
 
 const contentMap: Record<string, any> = {
   "search-engine-optimization": SeoServicesContent,
@@ -19,8 +21,8 @@ const contentMap: Record<string, any> = {
   "content-marketing": ContentMarketingServicesContent,
   "ai-automation": AIAutomationServicesContent,
   "web-design-development": WebDesignServicesContent,
-  "ecommerce-services": EcommerceDevContent,
-  "pay-per-click": PpcManagementContent,
+  "ecommerce-services": EcommerceServicesContent,
+  "pay-per-click": PayPerClickManagementContent,
 };
 
 export async function generateMetadata(
