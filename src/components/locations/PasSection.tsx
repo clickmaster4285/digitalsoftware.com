@@ -302,7 +302,7 @@ const parsePasContent = (pasText: string) => {
     const labels = fullText.match(/(?:KEY ANCHORS:|COMPLIANCE:|CPC ADVANTAGE:|Solution:)/gi) || [];
     
     // Parse the text into sections
-    let parsedSections: { label: string; content: string }[] = [];
+    const  parsedSections: { label: string; content: string }[] = [];
     let currentLabel = '';
     let currentContent = '';
     
