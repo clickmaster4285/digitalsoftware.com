@@ -222,7 +222,7 @@ export async function generateMetadata(
     title: content.metadata.seoTitle,
     description: content.metadata.metaDescription,
     alternates: {
-      canonical: `https://clickmasters.uk${content.metadata.url || "/"}`,
+      canonical: `${content.metadata.url || "/"}`,
     },
   };
 }
