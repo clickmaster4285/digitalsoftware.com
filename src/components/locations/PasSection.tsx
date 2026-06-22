@@ -265,6 +265,7 @@ export const PasLightSection = ({ pasText }: PasSectionProps) => {
 };
 
 // Updated parser that handles both formats
+// Updated parser that properly handles your text format
 const parsePasContent = (pasText: string) => {
   const lines = pasText.split('\n').filter(Boolean);
   let before = '';
@@ -285,10 +286,130 @@ const parsePasContent = (pasText: string) => {
   
   let isProblemAgitationSolutionFormat = false;
   
+  // First, check if we have explicit PROBLEM/AGITATION/SOLUTION labels
+  const hasExplicitLabels = lines.some(line => 
+    line.trim().startsWith('PROBLEM:') || 
+    line.trim().startsWith('AGITATION:') || 
+    line.trim().startsWith('SOLUTION:')
+  );
+  
+  if (!hasExplicitLabels) {
+    // Join all text for parsing
+    const fullText = lines.join(' ');
+    
+    // Split by common section markers
+    const sections = fullText.split(/(?:KEY ANCHORS:|COMPLIANCE:|CPC ADVANTAGE:|Solution:)/i);
+    const labels = fullText.match(/(?:KEY ANCHORS:|COMPLIANCE:|CPC ADVANTAGE:|Solution:)/gi) || [];
+    
+    // Parse the text into sections
+    let parsedSections: { label: string; content: string }[] = [];
+    let currentLabel = '';
+    let currentContent = '';
+    
+    for (let i = 0; i < fullText.length; i++) {
+      // Check for section markers
+      const remaining = fullText.substring(i);
+      const keyAnchorsMatch = remaining.match(/^KEY ANCHORS:/i);
+      const complianceMatch = remaining.match(/^COMPLIANCE:/i);
+      const cpcMatch = remaining.match(/^CPC ADVANTAGE:/i);
+      const solutionMatch = remaining.match(/^Solution:/i);
+      
+      if (keyAnchorsMatch) {
+        if (currentLabel) {
+          parsedSections.push({ label: currentLabel, content: currentContent.trim() });
+        }
+        currentLabel = 'KEY ANCHORS';
+        currentContent = '';
+        i += keyAnchorsMatch[0].length;
+        continue;
+      } else if (complianceMatch) {
+        if (currentLabel) {
+          parsedSections.push({ label: currentLabel, content: currentContent.trim() });
+        }
+        currentLabel = 'COMPLIANCE';
+        currentContent = '';
+        i += complianceMatch[0].length;
+        continue;
+      } else if (cpcMatch) {
+        if (currentLabel) {
+          parsedSections.push({ label: currentLabel, content: currentContent.trim() });
+        }
+        currentLabel = 'CPC ADVANTAGE';
+        currentContent = '';
+        i += cpcMatch[0].length;
+        continue;
+      } else if (solutionMatch) {
+        if (currentLabel) {
+          parsedSections.push({ label: currentLabel, content: currentContent.trim() });
+        }
+        currentLabel = 'SOLUTION';
+        currentContent = '';
+        i += solutionMatch[0].length;
+        continue;
+      }
+      
+      currentContent += fullText[i];
+    }
+    
+    // Add the last section
+    if (currentLabel) {
+      parsedSections.push({ label: currentLabel, content: currentContent.trim() });
+    }
+    
+    // Determine which sections map to PROBLEM, AGITATION, SOLUTION
+    const problemParts: string[] = [];
+    const agitationParts: string[] = [];
+    const solutionParts: string[] = [];
+    
+    for (const section of parsedSections) {
+      if (section.label === 'KEY ANCHORS') {
+        // Extract just the first sentence or two for the problem
+        const sentences = section.content.match(/[^.!?]+[.!?]+/g) || [];
+        if (sentences.length > 0) {
+          // The problem is the complexity of multiple authorities
+          problemParts.push(sentences.slice(0, Math.min(2, sentences.length)).join(' '));
+        }
+        if (sentences.length > 1) {
+          // The agitation is the compliance burden
+          agitationParts.push(sentences.slice(1).join(' '));
+        }
+      } else if (section.label === 'COMPLIANCE') {
+        // Compliance adds to the agitation
+        agitationParts.push(section.content);
+      } else if (section.label === 'CPC ADVANTAGE') {
+        // Cost advantage is the agitation (showing what you're missing or saving)
+        agitationParts.push(section.content);
+      } else if (section.label === 'SOLUTION') {
+        solutionParts.push(section.content);
+      }
+    }
+    
+    // Build the final strings
+    problem = problemParts.join(' ').trim() || 'Multiple regulatory bodies and complex compliance requirements';
+    agitation = agitationParts.join(' ').trim() || 'Navigating compliance while managing costs';
+    solution = solutionParts.join(' ').trim() || '';
+    
+    // If no solution was found, try to extract it from the end of the text
+    if (!solution) {
+      const solutionMatch = fullText.match(/Clickmasters\s+[^.]*\./i);
+      if (solutionMatch) {
+        solution = solutionMatch[0].trim();
+      }
+    }
+    
+    // If we have content, mark as PAS format
+    if (problem || agitation || solution) {
+      isProblemAgitationSolutionFormat = true;
+    }
+    
+    return { before, after, problem, agitation, solution, clickItems, isProblemAgitationSolutionFormat };
+  }
+  
+  // Original explicit label parsing (keep as fallback)
   for (const line of lines) {
     const trimmed = line.trim();
     
-    // Check if this is PROBLEM/AGITATION/SOLUTION format
+    // Check if this is PROBLEM/AGITATION/SOLUTION format with explicit labels
     if (trimmed.startsWith('PROBLEM:')) {
       isProblemAgitationSolutionFormat = true;
       problem = trimmed.replace('PROBLEM:', '').trim();

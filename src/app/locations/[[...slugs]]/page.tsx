@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation';
 import { 
   getAllSlugs, 
   getLocationBySlug,
-} from '@/content/location';
+} from '@/content/location/combined-location-index';
 import type { Metadata } from 'next';
 import LocationClient from './LocationClient';
 
