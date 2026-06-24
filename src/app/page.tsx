@@ -9,6 +9,17 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://clickmastersdigitalmarketing.com/",
   },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-snippet": -1,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+    },
+  },  
 };
 
 export default function Home() {
