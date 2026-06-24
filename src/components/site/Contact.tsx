@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
+import Link from "next/link";
 
 export const Contact = () => (
   <section id="contact" className="py-12 sm:py-20 container text-center relative px-4 sm:px-6">
@@ -19,16 +20,16 @@ export const Contact = () => (
     </motion.h2>
     
     {/* Email - Mobile optimized */}
-<a
-  href="mailto:sales@clickmastersdigitalmarketing.com"
+<Link
+  href="/contact"
   className="group mt-10 sm:mt-16 inline-flex items-center gap-2 sm:gap-3 rounded-full bg-background text-foreground px-6 sm:px-10 py-3 sm:py-5 text-sm sm:text-lg font-medium hover:scale-105 transition-transform break-all sm:break-normal"
 >
   sales@clickmastersdigitalmarketing.com
   <ArrowRight className="w-4 h-4 sm:w-5 sm:h-5 flex-shrink-0 transition-transform group-hover:translate-x-1" />
-</a>
+</Link>
 
     {/* Phone Numbers - Uncommented and mobile optimized */}
-    <div className="mt-6 sm:mt-8 flex flex-wrap items-center justify-center gap-3 sm:gap-4 px-2">
+    {/* <div className="mt-6 sm:mt-8 flex flex-wrap items-center justify-center gap-3 sm:gap-4 px-2">
       <a
         href="tel:+447988576086"
         className="inline-flex items-center gap-1.5 sm:gap-2 rounded-full bg-background/80 text-foreground px-4 sm:px-6 py-2.5 sm:py-3 text-xs sm:text-sm font-medium hover:scale-105 transition-transform backdrop-blur-sm"
@@ -64,6 +65,6 @@ export const Contact = () => (
         <a href="#" className="hover:opacity-100 transition-opacity">Dribbble</a>
         <a href="#" className="hover:opacity-100 transition-opacity">LinkedIn</a>
       </div>
-    </footer>
+    </footer> */}
   </section>
 );

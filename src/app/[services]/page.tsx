@@ -456,7 +456,7 @@ const CTA = ({ content }: { content: any }) => {
 export default function ServicesPage() {
   const params = useParams();
   const slug = params?.services as string;
-  const content = contentMap[slug] || SeoServicesContent;
+  const content = contentMap[slug];
 
   return (
     <div className="theme-light w-full overflow-x-clip bg-background text-foreground">
