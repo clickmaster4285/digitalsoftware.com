@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   title: "ClickMasters Software crafted with care",
   description:
     "An independent software studio designing and engineering web platforms, apps and AI products for ambitious founders.",
+  alternates: {
+    canonical: "https://clickmastersdigitalmarketing.com",
+  },
 };
 
 export default function RootLayout({

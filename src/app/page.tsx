@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description:
     "Your full-service digital marketing agency for SEO, PPC, web design & performance marketing. Elevate your marketing strategies with top digital marketing company in United States.",
   alternates: {
-    canonical: "https://clickmastersdigitalmarketing.com/",
+    canonical: "https://clickmastersdigitalmarketing.com",
   },
   robots: {
     index: true,
