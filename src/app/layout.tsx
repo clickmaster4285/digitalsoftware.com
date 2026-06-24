@@ -14,11 +14,25 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "ClickMasters Software crafted with care",
-  description:
-    "An independent software studio designing and engineering web platforms, apps and AI products for ambitious founders.",
+  metadataBase: new URL('https://clickmastersdigitalmarketing.com'),
+  title: {
+    default: "Award-Winning Digital Marketing Agency in United States | ClickMasters",
+    template: "%s | ClickMasters",
+  },
+  description: "Your full-service digital marketing agency for SEO, PPC, web design & performance marketing.",
   alternates: {
-    canonical: "https://clickmastersdigitalmarketing.com",
+    canonical: "/",           // Relative is best with metadataBase
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-snippet": -1,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+    },
   },
 };
 
@@ -29,8 +43,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      
-      {/* ✅ Google Tag Manager (HEAD SCRIPT) */}
       <head>
         <script
           dangerouslySetInnerHTML={{
@@ -49,11 +61,7 @@ export default function RootLayout({
         />
       </head>
 
-      <body
-        suppressHydrationWarning
-        className={`${inter.variable} ${instrumentSerif.variable} font-sans`}
-      >
-        {/* ✅ Google Tag Manager (NOSCRIPT - must be first inside body) */}
+      <body suppressHydrationWarning className={`${inter.variable} ${instrumentSerif.variable} font-sans`}>
         <noscript>
           <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-PQRV6WJ8"
@@ -64,11 +72,9 @@ export default function RootLayout({
         </noscript>
 
         <Navbar />
-
         <Providers>
           <div className="relative w-full overflow-x-clip">{children}</div>
         </Providers>
-
         <Footer />
       </body>
     </html>
