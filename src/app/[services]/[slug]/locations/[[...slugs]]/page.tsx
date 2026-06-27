@@ -55,6 +55,7 @@ export async function generateStaticParams() {
           'google-ads',
           'local-seo',
           'ppc-management',
+          'pay-per-click-ppc',
           'ecommerce-marketing'
         ];
       }

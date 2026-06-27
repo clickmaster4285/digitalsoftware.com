@@ -24,6 +24,7 @@ const contentMap: Record<string, any> = {
   "web-design-development": WebDesignServicesContent,
   "ecommerce-services": EcommerceServicesContent,
   "pay-per-click": PayPerClickManagementContent,
+    "pay-per-click-ppc": PayPerClickManagementContent,
 };
 
 export async function generateMetadata(

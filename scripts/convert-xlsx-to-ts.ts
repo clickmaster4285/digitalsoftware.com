@@ -90,6 +90,7 @@ const SERVICE_MAPPING: { [key: string]: string } = {
   'SEO': 'seo',
   'SocialMedia': 'social-media',
   'WebDesign': 'web-design',
+  'PPC': 'pay-per-click-ppc'
 };
 
 // Parse filename

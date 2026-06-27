@@ -54,7 +54,7 @@ export async function generateStaticParams() {
       'web-design',
       'email-marketing',
       'social-media',
-      'google-ads',
+      'google-ads-management',
       'local-seo',
       'ppc-management',
       'ecommerce-marketing'

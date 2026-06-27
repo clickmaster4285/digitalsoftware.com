@@ -26842,14 +26842,15 @@ export const getLocationsByService = (service: string) => {
     SocialMedia: [SocialMedia_AbuDhabi, SocialMedia_Birmingham, SocialMedia_Brisbane, SocialMedia_Bristol, SocialMedia_Calgary, SocialMedia_Dubai, SocialMedia_Edinburgh, SocialMedia_Glasgow, SocialMedia_Karachi, SocialMedia_Lahore, SocialMedia_Leeds, SocialMedia_London, SocialMedia_Manchester, SocialMedia_Melbourne, SocialMedia_Montreal, SocialMedia_Perth, SocialMedia_Sharjah, SocialMedia_Sydney, SocialMedia_Toronto, SocialMedia_Vancouver],
     WebDesign: [WebDesign_AbuDhabi, WebDesign_Birmingham, WebDesign_Brisbane, WebDesign_Bristol, WebDesign_Calgary, WebDesign_Dubai, WebDesign_Edinburgh, WebDesign_Glasgow, WebDesign_Karachi, WebDesign_Lahore, WebDesign_Leeds, WebDesign_London, WebDesign_Manchester, WebDesign_Melbourne, WebDesign_Montreal, WebDesign_Perth, WebDesign_Sharjah, WebDesign_Sydney, WebDesign_Toronto, WebDesign_Vancouver],
     WebDevelopment: [WebDevelopment_AbuDhabi, WebDevelopment_Birmingham, WebDevelopment_Brisbane, WebDevelopment_Bristol, WebDevelopment_Calgary, WebDevelopment_Dubai, WebDevelopment_Edinburgh, WebDevelopment_Glasgow, WebDevelopment_Karachi, WebDevelopment_Lahore, WebDevelopment_Leeds, WebDevelopment_London, WebDevelopment_Manchester, WebDevelopment_Melbourne, WebDevelopment_Montreal, WebDevelopment_Perth, WebDevelopment_Sharjah, WebDevelopment_Sydney, WebDevelopment_Toronto, WebDevelopment_Vancouver],
-    PPC: [PPC_AbuDhabi, PPC_Birmingham, PPC_Brisbane, PPC_Bristol, PPC_Calgary, PPC_Dubai, PPC_Edinburgh, PPC_Glasgow, PPC_Karachi, PPC_Lahore, PPC_Leeds, PPC_London, PPC_Manchester, PPC_Melbourne, PPC_Montreal, PPC_Perth, PPC_Sharjah, PPC_Sydney, PPC_Toronto, PPC_Vancouver]
+    PPC: [PPC_AbuDhabi, PPC_Birmingham, PPC_Brisbane, PPC_Bristol, PPC_Calgary, PPC_Dubai, PPC_Edinburgh, PPC_Glasgow, PPC_Karachi, PPC_Lahore, PPC_Leeds, PPC_London, PPC_Manchester, PPC_Melbourne, PPC_Montreal, PPC_Perth, PPC_Sharjah, PPC_Sydney, PPC_Toronto, PPC_Vancouver],
+
   };
   return serviceMap[service] || [];
 };
 
 // Get all service names
 export const getAllServiceNames = () => [
-  "ContentMarketing", "DigitalMarketing", "EmailMarketing", "GoogleAds", "LocalSEO", "SEO", "SocialMedia", "WebDesign", "WebDevelopment", "PPC"
+  "ContentMarketing","PayPerClickPpc", "DigitalMarketing", "EmailMarketing", "GoogleAds", "LocalSEO", "SEO", "SocialMedia", "WebDesign", "WebDevelopment", "PPC"
 ];
 
 // Get all city names
