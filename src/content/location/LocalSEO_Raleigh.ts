@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Durham pharma consulting | RTP community ne
 
 Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
 Durham, Chapel Hill, Cary, Morrisville, and all of the Research Triangle`,
-  internalLinks: ["/local-seo-services/","/seo-services-raleigh/","/digital-marketing-agency-in-raleigh/","/local-seo-services-charlotte/"],
+  internalLinks: ["/local-seo-services/","/seo-services-raleigh/","/digital-marketing-agency-raleigh/","/local-seo-services-charlotte/"],
   
   publishingChecklist: {
     onPageSeo: {

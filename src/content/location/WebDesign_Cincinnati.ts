@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Cincinnati.xlsx
 // Service: WebDesign
 // City: Cincinnati
-// URL: /web-design-agency-cincinnati/
+// URL: /web-design-cincinnati/
 // Generated: 2026-06-20T06:13:03.531Z
 
 export const WebDesign_Cincinnati = {
@@ -9,14 +9,14 @@ export const WebDesign_Cincinnati = {
   serviceSlug: "web-design",
   city: "Cincinnati",
   citySlug: "cincinnati",
-  slug: "/web-design-agency-cincinnati/",
+  slug: "/web-design-cincinnati/",
   
   h1: `Web Design Agency Cincinnati — P&G Consumer Goods Credibility, Kroger Retail Quality, and Cincinnati Children's YMYL Academic Medical`,
   primaryKw: `web design agency cincinnati`,
   formula: `FAB — P&G FMCG consumer goods institutional vendor credibility + Kroger retail supply chain enterprise quality + Cincinnati Children's YMYL HIPAA academic paediatric + Fifth Third FINRA institutional + OTR/Hyde Park authentic Cincinnati consumer identity`,
   seoTitle: `Web Design Agency Cincinnati | P&G Consumer Goods Credibility & Cincinnati Children's | Clickmasters`,
   meta: `Clickmasters web design in Cincinnati. P&G consumer goods vendor credibility, Kroger retail supply chain quality, and Cincinnati Children's Hospital YMYL HIPAA academic medical design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Cincinnati Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-cincinnati/","address":{"@type":"PostalAddress","addressLocality":"Cincinnati","addressRegion":"OH","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Cincinnati Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-cincinnati/","address":{"@type":"PostalAddress","addressLocality":"Cincinnati","addressRegion":"OH","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN CINCINNATI?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | CC affiliation: patient surveys cited | HIPAA: clean | 
 
 Phone +1-888-555-CLICK | cincinnati@clickmastersdigitalmarketing.com
 Blue Ash, Mason, West Chester, Hyde Park, and all of Greater Cincinnati`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-cincinnati/","/seo-services-cincinnati/","/web-design-agency-cleveland/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-cincinnati/","/seo-services-cincinnati/","/web-design-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-cincinnati/`, status: false },
+      url: { requirement: `Exact: /web-design-cincinnati/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

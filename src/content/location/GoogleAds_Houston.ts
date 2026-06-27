@@ -105,7 +105,7 @@ Q: Houston energy B2B CPCs vs other markets? A: 20-30% below Aberdeen/Oslo/Londo
 Get Your Free Houston Google Ads Audit: Phone +1-888-555-CLICK
 Email: houston@clickmastersdigitalmarketing.com
 Energy Corridor, Medical Center, The Woodlands, Sugar Land, and all of Greater Houston`,
-  internalLinks: ["/digital-marketing-agency-in-houston/","/seo-services-houston/","/google-ads-management-services/","/google-ads-management-dallas/","/industries/oil-gas/","/industries/healthcare/"],
+  internalLinks: ["/digital-marketing-agency-houston/","/seo-services-houston/","/google-ads-management-services/","/google-ads-management-dallas/","/industries/oil-gas/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -92,7 +92,7 @@ Results (5 months): October Balloon Fiesta content: 4.2x above average | Nob Hil
 
 Phone +1-888-555-CLICK | albuquerque@clickmastersdigitalmarketing.com
 Nob Hill, Old Town, Corrales, Rio Rancho, and all of Greater Albuquerque`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-albuquerque/","/seo-services-albuquerque/","/social-media-marketing-denver/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-albuquerque/","/seo-services-albuquerque/","/social-media-marketing-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

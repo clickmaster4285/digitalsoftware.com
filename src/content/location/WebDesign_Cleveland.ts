@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Cleveland.xlsx
 // Service: WebDesign
 // City: Cleveland
-// URL: /web-design-agency-cleveland/
+// URL: /web-design-cleveland/
 // Generated: 2026-06-20T06:13:03.549Z
 
 export const WebDesign_Cleveland = {
@@ -9,14 +9,14 @@ export const WebDesign_Cleveland = {
   serviceSlug: "web-design",
   city: "Cleveland",
   citySlug: "cleveland",
-  slug: "/web-design-agency-cleveland/",
+  slug: "/web-design-cleveland/",
   
   h1: `Web Design Agency Cleveland — Cleveland Clinic YMYL World-Class Institutional, Parker Hannifin Manufacturing, and FINRA Professional Design`,
   primaryKw: `web design agency cleveland`,
   formula: `FAB — Cleveland Clinic YMYL world-class HIPAA institutional credibility + Parker Hannifin/Lincoln Electric precision manufacturing quality + Progressive/KeyBank FINRA-compliant institutional + Sherwin-Williams Fortune 500 + authentic Cleveland neighbourhood identity`,
   seoTitle: `Web Design Agency Cleveland | Cleveland Clinic YMYL & Parker Hannifin Manufacturing | Clickmasters`,
   meta: `Clickmasters web design in Cleveland. Cleveland Clinic YMYL world-class HIPAA institutional credibility, Parker Hannifin manufacturing quality, and Progressive/KeyBank FINRA design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Cleveland Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-cleveland/","address":{"@type":"PostalAddress","addressLocality":"Cleveland","addressRegion":"OH","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Cleveland Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-cleveland/","address":{"@type":"PostalAddress","addressLocality":"Cleveland","addressRegion":"OH","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN CLEVELAND?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T (world-class standard) | CC affiliation: cited in patient
 
 Phone +1-888-555-CLICK | cleveland@clickmastersdigitalmarketing.com
 Mayfield Heights, Beachwood, Westlake, and all of Greater Cleveland`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-cleveland/","/seo-services-cleveland/","/web-design-agency-pittsburgh/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-cleveland/","/seo-services-cleveland/","/web-design-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-cleveland/`, status: false },
+      url: { requirement: `Exact: /web-design-cleveland/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

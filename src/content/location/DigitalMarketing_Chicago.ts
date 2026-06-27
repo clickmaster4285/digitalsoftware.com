@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Chicago.xlsx
 // Service: DigitalMarketing
 // City: Chicago
-// URL: /digital-marketing-agency-in-chicago/
+// URL: /digital-marketing-agency-chicago/
 // Generated: 2026-06-20T06:12:58.788Z
 
 export const DigitalMarketing_Chicago = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Chicago = {
   serviceSlug: "digital-marketing",
   city: "Chicago",
   citySlug: "chicago",
-  slug: "/digital-marketing-agency-in-chicago/",
+  slug: "/digital-marketing-agency-chicago/",
   
   h1: `Digital Marketing Agency Chicago — Fortune 500 Revenue Growth for America's Midwest Commercial Capital`,
   primaryKw: `digital marketing agency chicago`,
   formula: `BAB — Chicago Fortune 500 vendor companies + manufacturing sector + FINRA/HIPAA regulated industries relying on relationship BD → invisible to new Fortune 500 CPOs without existing networks → CLICK Growth System for Midwest's commercial capital`,
   seoTitle: `Digital Marketing Agency Chicago | Fortune 500 & Midwest Commercial Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Chicago. Fortune 500 vendor revenue growth for Caterpillar, Boeing, Abbott ecosystem with FINRA-compliant financial and HIPAA healthcare programmes. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Chicago Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-chicago/","address":{"@type":"PostalAddress","addressLocality":"Chicago","addressRegion":"IL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Chicago Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-chicago/","address":{"@type":"PostalAddress","addressLocality":"Chicago","addressRegion":"IL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Chicago, IL`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN CHICAGO?
@@ -50,7 +50,7 @@ EMAIL CHICAGO: Fortune 500 pipeline nurture (90-180 day cycle). FINRA-compliant 
 
 LOCAL SEO CHICAGO: Fortune 500 proximity Local Pack. Chicagoland neighbourhood. FINRA/HIPAA-compliant review management. /local-seo-services-chicago/
 
-WEB DESIGN CHICAGO: Fortune 500 vendor credibility. Manufacturing ISO display. FINRA/HIPAA institutional. /web-design-agency-chicago/`,
+WEB DESIGN CHICAGO: Fortune 500 vendor credibility. Manufacturing ISO display. FINRA/HIPAA institutional. /web-design-chicago/`,
   caseStudies: `Case Study 1: West Loop Management Consulting — Fortune 500 Multi-Channel Programme
 Client: Management consulting, West Loop (\$12M). Challenge: 3 new Fortune 500 executives without existing connections Googling — company invisible. 13 relationships at tenure risk.
 Programme: SEO (Fortune 500 vocabulary) + Google Ads (Caterpillar/Boeing/Abbott) + LinkedIn (executive thought leadership) + email (90-day nurture)
@@ -114,14 +114,14 @@ Q: GEO/AEO for Chicago? A: New Fortune 500 CPOs and VPs using ChatGPT/Perplexity
 Get Your Free Chicago Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: chicago@clickmastersdigitalmarketing.com
 West Loop, River North, Elk Grove Village, Naperville, and all of Chicagoland`,
-  internalLinks: ["/seo-services-chicago/","/web-design-agency-chicago/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-dallas/","/industries/manufacturing/","/industries/financial-services/"],
+  internalLinks: ["/seo-services-chicago/","/web-design-chicago/","/digital-marketing-agency-usa/","/digital-marketing-agency-dallas/","/industries/manufacturing/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-chicago/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-chicago/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Austin.xlsx
 // Service: WebDesign
 // City: Austin
-// URL: /web-design-agency-austin/
+// URL: /web-design-austin/
 // Generated: 2026-06-20T06:13:03.435Z
 
 export const WebDesign_Austin = {
@@ -9,14 +9,14 @@ export const WebDesign_Austin = {
   serviceSlug: "web-design",
   city: "Austin",
   citySlug: "austin",
-  slug: "/web-design-agency-austin/",
+  slug: "/web-design-austin/",
   
   h1: `Web Design Agency Austin — In-Migration Professional Standard, Tech Corridor Enterprise, and Authentic Austin Brand Design`,
   primaryKw: `web design agency austin`,
   formula: `FAB — Features (Bay Area in-migration professional quality standard, Tesla/Apple tech corridor enterprise B2B, authentic Austin consumer brand design, HIPAA healthcare, Core Web Vitals), Advantages (in-migration professional trust + tech ecosystem credibility), Benefits (in-migration professional clients + Tesla/Apple evaluations + Austin consumer community)`,
   seoTitle: `Web Design Agency Austin | In-Migration Standard & Tesla/Apple Tech | Clickmasters`,
   meta: `Clickmasters web design in Austin. Bay Area in-migration professional quality, Tesla/Apple tech corridor enterprise B2B, and authentic Austin brand design for Texas' technology capital. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Austin Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-austin/","address":{"@type":"PostalAddress","addressLocality":"Austin","addressRegion":"TX","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Austin Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-austin/","address":{"@type":"PostalAddress","addressLocality":"Austin","addressRegion":"TX","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > Austin, TX`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN AUSTIN?
@@ -111,14 +111,14 @@ Q: HIPAA-compliant websites for Austin healthcare? A: Yes — HIPAA-covered ESP 
 Get Your Free Austin Website Audit: Phone +1-888-555-CLICK
 Email: austin@clickmastersdigitalmarketing.com
 South Congress, The Domain, Round Rock, Cedar Park, and all of Greater Austin`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-austin/","/seo-services-austin/","/web-design-agency-dallas/","/industries/technology/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-austin/","/seo-services-austin/","/web-design-dallas/","/industries/technology/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-austin/`, status: false },
+      url: { requirement: `Exact: /web-design-austin/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

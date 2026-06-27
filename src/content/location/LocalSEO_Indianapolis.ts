@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Indianapolis pharma consulting | Lilly comm
 
 Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
 Carmel, Fishers, Zionsville, and all of Greater Indianapolis`,
-  internalLinks: ["/local-seo-services/","/seo-services-indianapolis/","/digital-marketing-agency-in-indianapolis/","/local-seo-services-chicago/"],
+  internalLinks: ["/local-seo-services/","/seo-services-indianapolis/","/digital-marketing-agency-indianapolis/","/local-seo-services-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

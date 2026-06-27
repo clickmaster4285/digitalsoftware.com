@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Tulsa.xlsx
 // Service: WebDesign
 // City: Tulsa
-// URL: /web-design-agency-tulsa/
+// URL: /web-design-tulsa/
 // Generated: 2026-06-20T06:13:04.084Z
 
 export const WebDesign_Tulsa = {
@@ -9,14 +9,14 @@ export const WebDesign_Tulsa = {
   serviceSlug: "web-design",
   city: "Tulsa",
   citySlug: "tulsa",
-  slug: "/web-design-agency-tulsa/",
+  slug: "/web-design-tulsa/",
   
   h1: `Web Design Agency Tulsa — Williams/ONEOK Midstream Institutional Credibility, BOK Financial FINRA Quality, and Authentic Oil Capital Brand Design`,
   primaryKw: `web design agency tulsa`,
   formula: `FAB — Williams/ONEOK midstream natural gas institutional vendor credibility + BOK Financial FINRA-compliant banking enterprise quality + Saint Francis YMYL HIPAA + authentic Tulsa Blue Dome Art Deco/Brookside/Cherry Street identity`,
   seoTitle: `Web Design Agency Tulsa | Williams/ONEOK Midstream Credibility & BOK Financial FINRA | Clickmasters`,
   meta: `Clickmasters web design in Tulsa. Williams/ONEOK midstream institutional credibility, BOK Financial FINRA quality, Saint Francis YMYL HIPAA, and authentic Blue Dome/Brookside Tulsa brand. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tulsa Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-tulsa/","address":{"@type":"PostalAddress","addressLocality":"Tulsa","addressRegion":"OK","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tulsa Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-tulsa/","address":{"@type":"PostalAddress","addressLocality":"Tulsa","addressRegion":"OK","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3400,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN TULSA?
@@ -92,14 +92,14 @@ Results: Brookside positioning: visits +40% | Average order: +\$50 | Tulsa media
 
 Phone +1-888-555-CLICK | tulsa@clickmastersdigitalmarketing.com
 Broken Arrow, Owasso, Blue Dome, Brookside, and all of Greater Tulsa`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-tulsa/","/seo-services-tulsa/","/web-design-agency-oklahoma-city/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-tulsa/","/seo-services-tulsa/","/web-design-oklahoma-city/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-tulsa/`, status: false },
+      url: { requirement: `Exact: /web-design-tulsa/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

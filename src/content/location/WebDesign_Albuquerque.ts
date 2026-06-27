@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Albuquerque.xlsx
 // Service: WebDesign
 // City: Albuquerque
-// URL: /web-design-agency-albuquerque/
+// URL: /web-design-albuquerque/
 // Generated: 2026-06-20T06:13:03.393Z
 
 export const WebDesign_Albuquerque = {
@@ -9,14 +9,14 @@ export const WebDesign_Albuquerque = {
   serviceSlug: "web-design",
   city: "Albuquerque",
   citySlug: "albuquerque",
-  slug: "/web-design-agency-albuquerque/",
+  slug: "/web-design-albuquerque/",
   
   h1: `Web Design Agency Albuquerque — Sandia Labs ITAR-Bounded Institutional, Intel Rio Rancho Semiconductor, and UNM Health YMYL HIPAA`,
   primaryKw: `web design agency albuquerque`,
   formula: `FAB — Sandia National Labs ITAR-bounded publicly releasable institutional vendor credibility + Intel Rio Rancho semiconductor enterprise quality + UNM Health/Presbyterian YMYL HIPAA academic + Kirtland military trust signals + authentic Albuquerque Nob Hill/Old Town/Corrales identity`,
   seoTitle: `Web Design Agency Albuquerque | Sandia Labs ITAR-Bounded & Intel Rio Rancho Quality | Clickmasters`,
   meta: `Clickmasters web design in Albuquerque. Sandia National Labs ITAR-bounded institutional credibility, Intel Rio Rancho semiconductor enterprise quality, and UNM Health/Presbyterian YMYL HIPAA design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Albuquerque Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-albuquerque/","address":{"@type":"PostalAddress","addressLocality":"Albuquerque","addressRegion":"NM","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Albuquerque Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-albuquerque/","address":{"@type":"PostalAddress","addressLocality":"Albuquerque","addressRegion":"NM","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN ALBUQUERQUE?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | UNM NCI: cited | HIPAA: clean | New patients: +3x | LCP
 
 Phone +1-888-555-CLICK | albuquerque@clickmastersdigitalmarketing.com
 Rio Rancho, Corrales, Nob Hill, Northeast Heights, and all of Greater Albuquerque`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-albuquerque/","/seo-services-albuquerque/","/web-design-agency-denver/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-albuquerque/","/seo-services-albuquerque/","/web-design-denver/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-albuquerque/`, status: false },
+      url: { requirement: `Exact: /web-design-albuquerque/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -94,7 +94,7 @@ Results (10 months): CCPA-accurate organic baseline established | Page 1 for 11 
 
 Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
 Point Loma, Torrey Pines, La Jolla, Chula Vista, and all of San Diego County`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-in-san-diego/","/seo-services-los-angeles/","/seo-services-san-francisco/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-san-diego/","/seo-services-los-angeles/","/seo-services-san-francisco/"],
   
   publishingChecklist: {
     onPageSeo: {

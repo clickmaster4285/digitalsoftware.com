@@ -105,7 +105,7 @@ Q: How does Clickmasters measure Houston social media outcomes? A: Energy: Exxon
 Get Your Free Houston Social Media Audit: Phone +1-888-555-CLICK
 Email: houston@clickmastersdigitalmarketing.com
 Energy Corridor, Medical Center, The Woodlands, and all of Greater Houston`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-houston/","/seo-services-houston/","/social-media-marketing-dallas/","/industries/oil-gas/","/industries/healthcare/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-houston/","/seo-services-houston/","/social-media-marketing-dallas/","/industries/oil-gas/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {

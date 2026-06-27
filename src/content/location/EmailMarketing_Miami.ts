@@ -108,7 +108,7 @@ Q: How long does Miami bilingual email produce LATAM results? A: LATAM client en
 Get Your Free Miami Email Marketing Audit: Phone +1-888-555-CLICK
 Email: miami@clickmastersdigitalmarketing.com
 Brickell, Coral Gables, Wynwood, Doral, and all of South Florida`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-miami/","/seo-services-miami/","/email-marketing-houston/","/integrations/hubspot-marketing/","/industries/financial-services/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-miami/","/seo-services-miami/","/email-marketing-houston/","/integrations/hubspot-marketing/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

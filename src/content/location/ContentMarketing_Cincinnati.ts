@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 9 Cincinnati paediatric health IT queries | YMYL
 
 Phone +1-888-555-CLICK | cincinnati@clickmastersdigitalmarketing.com
 Blue Ash, Mason, West Chester, OTR, and all of Greater Cincinnati`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-cincinnati/","/seo-services-cincinnati/","/content-marketing-cleveland/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-cincinnati/","/seo-services-cincinnati/","/content-marketing-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {

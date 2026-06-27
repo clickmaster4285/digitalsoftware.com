@@ -92,7 +92,7 @@ Results: In-migration engagement: 3.6x above generic | Client conversion: 36% wi
 
 Phone +1-888-555-CLICK | orlando@clickmastersdigitalmarketing.com
 Lake Nona, Mills 50, Winter Park, Kissimmee, and all of Greater Orlando`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-orlando/","/seo-services-orlando/","/email-marketing-tampa/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-orlando/","/seo-services-orlando/","/email-marketing-tampa/"],
   
   publishingChecklist: {
     onPageSeo: {

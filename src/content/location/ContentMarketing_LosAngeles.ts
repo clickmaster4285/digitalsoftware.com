@@ -113,7 +113,7 @@ Q: How long does LA content marketing take? A: DTC organic growth: 3-5 months. M
 Get Your Free LA Content Marketing Audit: Phone +1-888-555-CLICK
 Email: losangeles@clickmastersdigitalmarketing.com
 Silver Lake, Culver City, Santa Monica, Playa Vista, and all of LA`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-los-angeles/","/seo-services-los-angeles/","/content-marketing-new-york/","/email-marketing-los-angeles/","/industries/ecommerce/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-los-angeles/","/seo-services-los-angeles/","/content-marketing-new-york/","/email-marketing-los-angeles/","/industries/ecommerce/"],
   
   publishingChecklist: {
     onPageSeo: {

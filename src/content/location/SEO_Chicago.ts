@@ -105,7 +105,7 @@ Q: GEO/AEO for Chicago? A: Boeing supply chain and UnitedHealth procurement usin
 Get Your Free Chicago SEO Audit: Phone +1-888-555-CLICK
 Email: chicago@clickmastersdigitalmarketing.com
 Loop, River North, West Loop, Elk Grove Village, Naperville, and all of Chicagoland`,
-  internalLinks: ["/digital-marketing-agency-in-chicago/","/seo-services/","/seo-services-new-york/","/seo-services-dallas/","/industries/manufacturing/","/industries/financial-services/"],
+  internalLinks: ["/digital-marketing-agency-chicago/","/seo-services/","/seo-services-new-york/","/seo-services-dallas/","/industries/manufacturing/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

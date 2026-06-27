@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 9 Boise healthcare queries | YMYL: E-E-A-T | St.
 
 Phone +1-888-555-CLICK | boise@clickmastersdigitalmarketing.com
 Meridian, Eagle, Nampa, Hyde Park, and all of Greater Boise`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-in-boise/","/seo-services-salt-lake-city/","/seo-services-portland/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-boise/","/seo-services-salt-lake-city/","/seo-services-portland/"],
   
   publishingChecklist: {
     onPageSeo: {

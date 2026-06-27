@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 9 Huntsville healthcare queries | YMYL: E-E-A-T 
 
 Phone +1-888-555-CLICK | huntsville@clickmastersdigitalmarketing.com
 Madison, Cummings Research Park, Five Points South, and all of Greater Huntsville`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-in-huntsville/","/seo-services-birmingham/","/seo-services-nashville/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-huntsville/","/seo-services-birmingham/","/seo-services-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

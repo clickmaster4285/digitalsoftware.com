@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Hazelwood aerospace consulting | Boeing BDS
 
 Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
 Clayton, Creve Coeur, Chesterfield, Hazelwood, and all of Greater St. Louis`,
-  internalLinks: ["/local-seo-services/","/seo-services-st-louis/","/digital-marketing-agency-in-st-louis/","/local-seo-services-chicago/"],
+  internalLinks: ["/local-seo-services/","/seo-services-st-louis/","/digital-marketing-agency-st-louis/","/local-seo-services-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

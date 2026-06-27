@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Chicago.xlsx
 // Service: WebDesign
 // City: Chicago
-// URL: /web-design-agency-chicago/
+// URL: /web-design-chicago/
 // Generated: 2026-06-20T06:13:03.517Z
 
 export const WebDesign_Chicago = {
@@ -9,14 +9,14 @@ export const WebDesign_Chicago = {
   serviceSlug: "web-design",
   city: "Chicago",
   citySlug: "chicago",
-  slug: "/web-design-agency-chicago/",
+  slug: "/web-design-chicago/",
   
   h1: `Web Design Agency Chicago — Fortune 500 Vendor Credibility, BIPA-Native, and Midwest Commercial Capital Institutional Design`,
   primaryKw: `web design agency chicago`,
   formula: `FAB — Fortune 500 Caterpillar/Boeing/Abbott institutional credibility architecture + Illinois BIPA-native analytics + Elk Grove manufacturing precision + FINRA/HIPAA compliance + sub-2.0s LCP`,
   seoTitle: `Web Design Agency Chicago | Fortune 500 Credibility & Illinois BIPA | Clickmasters`,
   meta: `Clickmasters web design in Chicago. Fortune 500-vendor-credible websites for Caterpillar, Boeing, Abbott ecosystem with Illinois BIPA-native analytics. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Chicago Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-chicago/","address":{"@type":"PostalAddress","addressLocality":"Chicago","addressRegion":"IL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Chicago Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-chicago/","address":{"@type":"PostalAddress","addressLocality":"Chicago","addressRegion":"IL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN CHICAGO?
@@ -91,14 +91,14 @@ Results: FINRA examination: zero findings | BIPA: Illinois AG pre-audit passed |
 5. Core Web Vitals — LCP, CLS, INP benchmarks
 
 Phone +1-888-555-CLICK | chicago@clickmastersdigitalmarketing.com | West Loop, Elk Grove Village, Naperville, and all of Chicagoland`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-chicago/","/seo-services-chicago/","/web-design-agency-dallas/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-chicago/","/seo-services-chicago/","/web-design-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-chicago/`, status: false },
+      url: { requirement: `Exact: /web-design-chicago/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

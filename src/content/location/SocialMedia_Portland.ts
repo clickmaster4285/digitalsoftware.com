@@ -105,7 +105,7 @@ Q: How does Clickmasters measure Portland social media outcomes? A: Nike/Adidas:
 Get Your Free Portland Social Media Audit: Phone +1-888-555-CLICK
 Email: portland@clickmastersdigitalmarketing.com
 Pearl District, Beaverton, Hillsboro, Lake Oswego, and all of Greater Portland`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-portland/","/seo-services-portland/","/social-media-marketing-seattle/","/industries/outdoor-apparel/","/industries/manufacturing/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-portland/","/seo-services-portland/","/social-media-marketing-seattle/","/industries/outdoor-apparel/","/industries/manufacturing/"],
   
   publishingChecklist: {
     onPageSeo: {

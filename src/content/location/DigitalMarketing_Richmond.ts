@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Richmond.xlsx
 // Service: DigitalMarketing
 // City: Richmond
-// URL: /digital-marketing-agency-in-richmond/
+// URL: /digital-marketing-agency-richmond/
 // Generated: 2026-06-20T06:12:59.239Z
 
 export const DigitalMarketing_Richmond = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Richmond = {
   serviceSlug: "digital-marketing",
   city: "Richmond",
   citySlug: "richmond",
-  slug: "/digital-marketing-agency-in-richmond/",
+  slug: "/digital-marketing-agency-richmond/",
   
   h1: `Digital Marketing Agency Richmond — Capital One Revenue, Dominion Energy B2B, CarMax Retail Analytics, and River City Commercial Growth`,
   primaryKw: `digital marketing agency richmond`,
   formula: `BAB — Richmond Capital One ML/FINRA fintech vendors invisible + Dominion Energy utility tech unaddressed + CarMax automotive analytics unaddressed + VCU Health YMYL unreached + Altria/Markel Fortune 500 unaddressed + VCDPA non-compliant → CLICK Growth System for the River City's fintech, energy, and healthcare capital`,
   seoTitle: `Digital Marketing Agency Richmond | Capital One Revenue & Dominion Energy Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Richmond. Capital One FINRA/SEC ML fintech revenue, Dominion Energy utility B2B, CarMax automotive retail analytics, and VCU Health/Bon Secours YMYL. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Richmond Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Richmond Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN RICHMOND?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 10 Richmond health IT queries | VCU Health: eval
 
 Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com
 Henrico County, Chesterfield, Midlothian, and all of Greater Richmond`,
-  internalLinks: ["/seo-services-richmond/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-washington-dc/","/digital-marketing-agency-in-charlotte/"],
+  internalLinks: ["/seo-services-richmond/","/digital-marketing-agency-usa/","/digital-marketing-agency-washington-dc/","/digital-marketing-agency-charlotte/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-richmond/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-richmond/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

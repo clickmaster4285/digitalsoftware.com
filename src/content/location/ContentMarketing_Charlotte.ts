@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 11 Charlotte health IT queries | Atrium Health: 
 
 Phone +1-888-555-CLICK | charlotte@clickmastersdigitalmarketing.com
 Uptown Charlotte, Concord, Huntersville, and all of Greater Charlotte`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-charlotte/","/seo-services-charlotte/","/content-marketing-atlanta/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-charlotte/","/seo-services-charlotte/","/content-marketing-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

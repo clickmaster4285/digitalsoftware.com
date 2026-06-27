@@ -94,7 +94,7 @@ Results (4 months): Top 3 Local Pack North Park wellness | Community enquiries: 
 
 Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
 Kearny Mesa, Torrey Pines, La Jolla, North Park, and all of San Diego County`,
-  internalLinks: ["/local-seo-services/","/seo-services-san-diego/","/digital-marketing-agency-in-san-diego/","/local-seo-services-los-angeles/"],
+  internalLinks: ["/local-seo-services/","/seo-services-san-diego/","/digital-marketing-agency-san-diego/","/local-seo-services-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {

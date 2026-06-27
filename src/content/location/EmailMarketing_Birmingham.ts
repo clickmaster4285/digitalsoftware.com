@@ -92,7 +92,7 @@ Results: College football season engagement: 4.0x above average | Rivalry week: 
 
 Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
 Five Points South, Crestline, Hoover, and all of Greater Birmingham`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-birmingham/","/seo-services-birmingham/","/email-marketing-huntsville/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-birmingham/","/seo-services-birmingham/","/email-marketing-huntsville/"],
   
   publishingChecklist: {
     onPageSeo: {

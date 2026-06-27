@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Houston.xlsx
 // Service: DigitalMarketing
 // City: Houston
-// URL: /digital-marketing-agency-in-houston/
+// URL: /digital-marketing-agency-houston/
 // Generated: 2026-06-20T06:12:58.906Z
 
 export const DigitalMarketing_Houston = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Houston = {
   serviceSlug: "digital-marketing",
   city: "Houston",
   citySlug: "houston",
-  slug: "/digital-marketing-agency-in-houston/",
+  slug: "/digital-marketing-agency-houston/",
   
   h1: `Digital Marketing Agency Houston — Energy Authority, Bilingual Growth, and TMC Revenue for Texas' Commercial Capital`,
   primaryKw: `digital marketing agency houston`,
   formula: `BAB — Houston Energy Corridor companies + bilingual commercial market + TMC healthcare ecosystem relying on relationship BD and conference networks → CLICK Growth System for Texas' commercial capital's three-sector digital opportunity`,
   seoTitle: `Digital Marketing Agency Houston | Energy, Bilingual & Texas Commercial | Clickmasters`,
   meta: `Clickmasters digital marketing in Houston. Energy Corridor API/HSE authority, bilingual Spanish/English commercial growth, and TMC healthcare revenue for Texas' commercial capital. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Houston Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-houston/","address":{"@type":"PostalAddress","addressLocality":"Houston","addressRegion":"TX","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Houston Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-houston/","address":{"@type":"PostalAddress","addressLocality":"Houston","addressRegion":"TX","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Houston, TX`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN HOUSTON?
@@ -120,14 +120,14 @@ Q: GEO/AEO for Houston? A: Shell/ExxonMobil procurement and TMC supply chain usi
 Get Your Free Houston Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: houston@clickmastersdigitalmarketing.com
 Energy Corridor, Medical Center, The Woodlands, and all of Greater Houston`,
-  internalLinks: ["/seo-services-houston/","/google-ads-management-houston/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-dallas/","/industries/oil-gas/","/industries/healthcare/"],
+  internalLinks: ["/seo-services-houston/","/google-ads-management-houston/","/digital-marketing-agency-usa/","/digital-marketing-agency-dallas/","/industries/oil-gas/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-houston/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-houston/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

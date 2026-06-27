@@ -92,7 +92,7 @@ Results (5 months): Big Orange season: 4.0x above average | Smoky Mountain weeke
 
 Phone +1-888-555-CLICK | knoxville@clickmastersdigitalmarketing.com
 Market Square, Old City, Farragut, and all of Greater Knoxville`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-knoxville/","/seo-services-knoxville/","/social-media-marketing-nashville/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-knoxville/","/seo-services-knoxville/","/social-media-marketing-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

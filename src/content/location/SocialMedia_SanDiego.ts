@@ -96,7 +96,7 @@ Results (6 months): Instagram engagement: 1.8% to 5.4% | SD craft beer community
 
 Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
 Kearny Mesa, Torrey Pines, North Park, La Jolla, and all of San Diego County`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-san-diego/","/seo-services-san-diego/","/social-media-marketing-los-angeles/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-san-diego/","/seo-services-san-diego/","/social-media-marketing-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {

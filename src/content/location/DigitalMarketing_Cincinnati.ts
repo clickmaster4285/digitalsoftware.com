@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Cincinnati.xlsx
 // Service: DigitalMarketing
 // City: Cincinnati
-// URL: /digital-marketing-agency-in-cincinnati/
+// URL: /digital-marketing-agency-cincinnati/
 // Generated: 2026-06-20T06:12:58.809Z
 
 export const DigitalMarketing_Cincinnati = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Cincinnati = {
   serviceSlug: "digital-marketing",
   city: "Cincinnati",
   citySlug: "cincinnati",
-  slug: "/digital-marketing-agency-in-cincinnati/",
+  slug: "/digital-marketing-agency-cincinnati/",
   
   h1: `Digital Marketing Agency Cincinnati — P&G Consumer Goods Revenue, Kroger Retail B2B, and Queen City Commercial Growth`,
   primaryKw: `digital marketing agency cincinnati`,
   formula: `BAB — Cincinnati P&G/Kroger Fortune 500 vendors invisible + Fifth Third Bank fintech unaddressed + Cincinnati Children's health tech unreached + GE Aerospace Ohio unaddressed → CLICK Growth System for the Queen City's consumer goods and retail capital`,
   seoTitle: `Digital Marketing Agency Cincinnati | P&G Consumer Goods & Kroger Retail | Clickmasters`,
   meta: `Clickmasters digital marketing in Cincinnati. Procter & Gamble consumer goods revenue, Kroger retail supply chain, Fifth Third Bank FINRA, and Cincinnati Children's YMYL for the Queen City. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Cincinnati Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-cincinnati/","address":{"@type":"PostalAddress","addressLocality":"Cincinnati","addressRegion":"OH","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Cincinnati Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-cincinnati/","address":{"@type":"PostalAddress","addressLocality":"Cincinnati","addressRegion":"OH","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3900,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN CINCINNATI?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 10 Cincinnati paediatric health IT queries | CC 
 
 Phone +1-888-555-CLICK | cincinnati@clickmastersdigitalmarketing.com
 Blue Ash, Mason, West Chester, Hyde Park, and all of Greater Cincinnati`,
-  internalLinks: ["/seo-services-cincinnati/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-cleveland/","/digital-marketing-agency-in-indianapolis/"],
+  internalLinks: ["/seo-services-cincinnati/","/digital-marketing-agency-usa/","/digital-marketing-agency-cleveland/","/digital-marketing-agency-indianapolis/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-cincinnati/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-cincinnati/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

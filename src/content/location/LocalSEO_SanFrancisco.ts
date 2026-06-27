@@ -105,7 +105,7 @@ Q: How long does SF Local SEO take? A: Consumer/healthcare: 3-5 months. SOMA B2B
 Get Your Free San Francisco Local SEO Audit: Phone +1-888-555-CLICK
 Email: sanfrancisco@clickmastersdigitalmarketing.com
 SOMA, Mission, Noe Valley, FiDi, Oakland, and all of the Bay Area`,
-  internalLinks: ["/local-seo-services/","/seo-services-san-francisco/","/digital-marketing-agency-in-san-francisco/","/local-seo-services-seattle/","/tools/local-seo-audit/","/industries/technology/"],
+  internalLinks: ["/local-seo-services/","/seo-services-san-francisco/","/digital-marketing-agency-san-francisco/","/local-seo-services-seattle/","/tools/local-seo-audit/","/industries/technology/"],
   
   publishingChecklist: {
     onPageSeo: {

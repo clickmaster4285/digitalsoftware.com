@@ -92,7 +92,7 @@ Results (5 months): Berkshire Annual Meeting season: 4.0x above average | Colleg
 
 Phone +1-888-555-CLICK | omaha@clickmastersdigitalmarketing.com
 Old Market, Dundee, Aksarben, Bellevue, and all of Greater Omaha`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-omaha/","/seo-services-omaha/","/social-media-marketing-kansas-city/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-omaha/","/seo-services-omaha/","/social-media-marketing-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

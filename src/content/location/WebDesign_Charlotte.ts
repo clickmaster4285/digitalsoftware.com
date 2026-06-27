@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Charlotte.xlsx
 // Service: WebDesign
 // City: Charlotte
-// URL: /web-design-agency-charlotte/
+// URL: /web-design-charlotte/
 // Generated: 2026-06-20T06:13:03.506Z
 
 export const WebDesign_Charlotte = {
@@ -9,14 +9,14 @@ export const WebDesign_Charlotte = {
   serviceSlug: "web-design",
   city: "Charlotte",
   citySlug: "charlotte",
-  slug: "/web-design-agency-charlotte/",
+  slug: "/web-design-charlotte/",
   
   h1: `Web Design Agency Charlotte — Banking Capital Institutional Credibility, NASCAR Motorsports Vendor Authority, and Atrium YMYL`,
   primaryKw: `web design agency charlotte`,
   formula: `FAB — BofA/Truist banking institutional credibility architecture + FINRA/SEC compliance + NASCAR motorsports enterprise vendor credibility + Atrium/Novant YMYL HIPAA + authentic Charlotte neighbourhood brand design`,
   seoTitle: `Web Design Agency Charlotte | Banking Institutional & NASCAR Motorsports | Clickmasters`,
   meta: `Clickmasters web design in Charlotte. Banking institutional credibility for BofA/Truist ecosystem, NASCAR motorsports vendor authority, and Atrium/Novant YMYL HIPAA design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Charlotte Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-charlotte/","address":{"@type":"PostalAddress","addressLocality":"Charlotte","addressRegion":"NC","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Charlotte Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-charlotte/","address":{"@type":"PostalAddress","addressLocality":"Charlotte","addressRegion":"NC","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN CHARLOTTE?
@@ -92,14 +92,14 @@ Results: YMYL E-E-A-T: recognised | Atrium display: cited in patient surveys | H
 
 Phone +1-888-555-CLICK | charlotte@clickmastersdigitalmarketing.com
 Uptown Charlotte, Concord, Huntersville, and all of Greater Charlotte`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-charlotte/","/seo-services-charlotte/","/web-design-agency-atlanta/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-charlotte/","/seo-services-charlotte/","/web-design-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-charlotte/`, status: false },
+      url: { requirement: `Exact: /web-design-charlotte/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

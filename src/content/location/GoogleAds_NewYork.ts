@@ -105,7 +105,7 @@ Q: How quickly does NYC Google Ads produce results? A: First leads 7-14 days. FI
 Get Your Free NYC Google Ads Audit: Phone +1-888-555-CLICK
 Email: newyork@clickmastersdigitalmarketing.com
 Midtown, Wall Street, Flatiron, Upper East Side, and all of Greater New York`,
-  internalLinks: ["/digital-marketing-agency-in-new-york/","/seo-services-new-york/","/google-ads-management-services/","/google-ads-management-chicago/","/industries/financial-services/","/industries/healthcare/"],
+  internalLinks: ["/digital-marketing-agency-new-york/","/seo-services-new-york/","/google-ads-management-services/","/google-ads-management-chicago/","/industries/financial-services/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {

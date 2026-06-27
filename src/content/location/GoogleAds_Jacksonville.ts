@@ -94,7 +94,7 @@ Results: Military CPL: \$130 vs \$2,400 generic | Military qualified leads: +3x 
 
 Phone +1-888-555-CLICK | jacksonville@clickmastersdigitalmarketing.com
 Ponte Vedra Beach, Orange Park, St. Johns, and all of Greater Jacksonville`,
-  internalLinks: ["/digital-marketing-agency-in-jacksonville/","/seo-services-jacksonville/","/google-ads-management-services/","/google-ads-management-orlando/"],
+  internalLinks: ["/digital-marketing-agency-jacksonville/","/seo-services-jacksonville/","/google-ads-management-services/","/google-ads-management-orlando/"],
   
   publishingChecklist: {
     onPageSeo: {

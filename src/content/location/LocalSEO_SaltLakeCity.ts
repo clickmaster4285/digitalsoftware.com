@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Lehi enterprise consulting | Silicon Slopes
 
 Phone +1-888-555-CLICK | saltlakecity@clickmastersdigitalmarketing.com
 Sugar House, East Bench, Draper, South Jordan, and all of Greater Salt Lake City`,
-  internalLinks: ["/local-seo-services/","/seo-services-salt-lake-city/","/digital-marketing-agency-in-salt-lake-city/","/local-seo-services-denver/"],
+  internalLinks: ["/local-seo-services/","/seo-services-salt-lake-city/","/digital-marketing-agency-salt-lake-city/","/local-seo-services-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Tampa.xlsx
 // Service: DigitalMarketing
 // City: Tampa
-// URL: /digital-marketing-agency-in-tampa/
+// URL: /digital-marketing-agency-tampa/
 // Generated: 2026-06-20T06:12:59.374Z
 
 export const DigitalMarketing_Tampa = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Tampa = {
   serviceSlug: "digital-marketing",
   city: "Tampa",
   citySlug: "tampa",
-  slug: "/digital-marketing-agency-in-tampa/",
+  slug: "/digital-marketing-agency-tampa/",
   
   h1: `Digital Marketing Agency Tampa — Moffitt Cancer Centre Revenue, MacDill AFB Military Professional, and Tampa Bay Commercial Growth`,
   primaryKw: `digital marketing agency tampa`,
   formula: `BAB — Tampa Moffitt/TGH health tech vendors invisible + MacDill military professional services unaddressed + Florida SB 262 non-compliant analytics creating false confidence → CLICK Growth System for Tampa Bay's healthcare and military capital`,
   seoTitle: `Digital Marketing Agency Tampa | Moffitt Cancer Centre & MacDill Military | Clickmasters`,
   meta: `Clickmasters digital marketing in Tampa. Moffitt Cancer Centre health technology revenue, MacDill AFB military professional services, and Florida SB 262-compliant analytics for Tampa Bay. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tampa Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-tampa/","address":{"@type":"PostalAddress","addressLocality":"Tampa","addressRegion":"FL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tampa Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-tampa/","address":{"@type":"PostalAddress","addressLocality":"Tampa","addressRegion":"FL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN TAMPA?
@@ -109,14 +109,14 @@ Results (11 months): SB 262-accurate baseline established | YMYL: E-E-A-T recogn
 
 Phone +1-888-555-CLICK | tampa@clickmastersdigitalmarketing.com
 South Tampa, WestShore, St. Petersburg, Clearwater, and all of Tampa Bay`,
-  internalLinks: ["/seo-services-tampa/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-miami/","/digital-marketing-agency-in-atlanta/"],
+  internalLinks: ["/seo-services-tampa/","/digital-marketing-agency-usa/","/digital-marketing-agency-miami/","/digital-marketing-agency-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-tampa/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-tampa/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -96,7 +96,7 @@ Results (4 months): Top 3 Local Pack Wynwood creative services | Wynwood communi
 
 Phone +1-888-555-CLICK | miami@clickmastersdigitalmarketing.com
 Brickell, Coral Gables, Wynwood, Doral, and all of South Florida`,
-  internalLinks: ["/local-seo-services/","/seo-services-miami/","/digital-marketing-agency-in-miami/","/local-seo-services-houston/"],
+  internalLinks: ["/local-seo-services/","/seo-services-miami/","/digital-marketing-agency-miami/","/local-seo-services-houston/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -93,7 +93,7 @@ Results (4 months): Top 3 Local Pack Back Bay wealth management | Reviews: 24 to
 5. Kendall Square proximity signals — pharma near-me search opportunity
 
 Phone +1-888-555-CLICK | boston@clickmastersdigitalmarketing.com | Back Bay, Kendall Square, Longwood, Cambridge, and all of Greater Boston`,
-  internalLinks: ["/local-seo-services/","/seo-services-boston/","/digital-marketing-agency-in-boston/","/local-seo-services-new-york/"],
+  internalLinks: ["/local-seo-services/","/seo-services-boston/","/digital-marketing-agency-boston/","/local-seo-services-new-york/"],
   
   publishingChecklist: {
     onPageSeo: {

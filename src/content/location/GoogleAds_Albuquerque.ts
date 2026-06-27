@@ -94,7 +94,7 @@ Results: HIPAA: clean | UNM NCI CPL: \$120 vs \$340 generic | New patients: +3x`
 
 Phone +1-888-555-CLICK | albuquerque@clickmastersdigitalmarketing.com
 Rio Rancho, Corrales, Nob Hill, and all of Greater Albuquerque`,
-  internalLinks: ["/digital-marketing-agency-in-albuquerque/","/seo-services-albuquerque/","/google-ads-management-services/","/google-ads-management-denver/"],
+  internalLinks: ["/digital-marketing-agency-albuquerque/","/seo-services-albuquerque/","/google-ads-management-services/","/google-ads-management-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

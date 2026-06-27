@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Pittsburgh AI consulting | AI Corridor near
 
 Phone +1-888-555-CLICK | pittsburgh@clickmastersdigitalmarketing.com
 Shadyside, Squirrel Hill, Lawrenceville, South Side, and all of Greater Pittsburgh`,
-  internalLinks: ["/local-seo-services/","/seo-services-pittsburgh/","/digital-marketing-agency-in-pittsburgh/","/local-seo-services-cleveland/"],
+  internalLinks: ["/local-seo-services/","/seo-services-pittsburgh/","/digital-marketing-agency-pittsburgh/","/local-seo-services-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {

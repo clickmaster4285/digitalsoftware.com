@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 9 Memphis retail tech queries | AutoZone: evalua
 
 Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
 Germantown, Collierville, Bartlett, Midtown, and all of Greater Memphis`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-in-memphis/","/seo-services-nashville/","/seo-services-atlanta/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-memphis/","/seo-services-nashville/","/seo-services-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

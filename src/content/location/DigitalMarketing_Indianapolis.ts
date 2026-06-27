@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Indianapolis.xlsx
 // Service: DigitalMarketing
 // City: Indianapolis
-// URL: /digital-marketing-agency-in-indianapolis/
+// URL: /digital-marketing-agency-indianapolis/
 // Generated: 2026-06-20T06:12:58.955Z
 
 export const DigitalMarketing_Indianapolis = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Indianapolis = {
   serviceSlug: "digital-marketing",
   city: "Indianapolis",
   citySlug: "indianapolis",
-  slug: "/digital-marketing-agency-in-indianapolis/",
+  slug: "/digital-marketing-agency-indianapolis/",
   
   h1: `Digital Marketing Agency Indianapolis — Eli Lilly Pharma Revenue, Cummins/Simon Fortune 500, and Crossroads of America Commercial Growth`,
   primaryKw: `digital marketing agency indianapolis`,
   formula: `BAB — Indianapolis Eli Lilly/Corteva pharma vendors invisible + Cummins/Simon Fortune 500 vendors unaddressed + IU Health tech vendors unreached + Indy 500 motorsports B2B unaddressed → CLICK Growth System for the Crossroads of America`,
   seoTitle: `Digital Marketing Agency Indianapolis | Eli Lilly Pharma & Fortune 500 Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Indianapolis. Eli Lilly pharmaceutical vendor revenue, Cummins/Simon Property Fortune 500, and IU Health academic medical for the Crossroads of America. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Indianapolis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-indianapolis/","address":{"@type":"PostalAddress","addressLocality":"Indianapolis","addressRegion":"IN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Indianapolis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-indianapolis/","address":{"@type":"PostalAddress","addressLocality":"Indianapolis","addressRegion":"IN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN INDIANAPOLIS?
@@ -109,14 +109,14 @@ Results (11 months): In-migration professional leads: +3x | Lilly/IU Health comm
 
 Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
 Carmel, Fishers, Zionsville, and all of Greater Indianapolis`,
-  internalLinks: ["/seo-services-indianapolis/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-chicago/","/digital-marketing-agency-in-nashville/"],
+  internalLinks: ["/seo-services-indianapolis/","/digital-marketing-agency-usa/","/digital-marketing-agency-chicago/","/digital-marketing-agency-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-indianapolis/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-indianapolis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

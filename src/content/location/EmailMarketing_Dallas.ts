@@ -91,7 +91,7 @@ Results: In-migration engagement: 3.6x above generic welcome | Client conversion
 5. Revenue gap — current email contribution vs DFW Fortune 500 benchmark
 
 Phone +1-888-555-CLICK | dallas@clickmastersdigitalmarketing.com | Uptown, Plano, Frisco, Richardson, and all of DFW`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-dallas/","/seo-services-dallas/","/email-marketing-houston/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-dallas/","/seo-services-dallas/","/email-marketing-houston/"],
   
   publishingChecklist: {
     onPageSeo: {

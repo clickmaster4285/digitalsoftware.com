@@ -94,7 +94,7 @@ Results: HIPAA: clean | CM community CPL: \$120 vs \$340 generic KC | New patien
 
 Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
 Overland Park, Leawood, Olathe, North KC, and all of Greater Kansas City`,
-  internalLinks: ["/digital-marketing-agency-in-kansas-city/","/seo-services-kansas-city/","/google-ads-management-services/","/google-ads-management-st-louis/"],
+  internalLinks: ["/digital-marketing-agency-kansas-city/","/seo-services-kansas-city/","/google-ads-management-services/","/google-ads-management-st-louis/"],
   
   publishingChecklist: {
     onPageSeo: {

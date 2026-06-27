@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-KansasCity.xlsx
 // Service: WebDesign
 // City: KansasCity
-// URL: /web-design-agency-kansas-city/
+// URL: /web-design-kansas-city/
 // Generated: 2026-06-20T06:13:03.686Z
 
 export const WebDesign_KansasCity = {
@@ -9,14 +9,14 @@ export const WebDesign_KansasCity = {
   serviceSlug: "web-design",
   city: "KansasCity",
   citySlug: "kansas-city",
-  slug: "/web-design-agency-kansas-city/",
+  slug: "/web-design-kansas-city/",
   
   h1: `Web Design Agency Kansas City — Oracle Health HIPAA Institutional, Hallmark Brand Quality, and Children's Mercy YMYL Academic Medical`,
   primaryKw: `web design agency kansas city`,
   formula: `FAB — Oracle Health/Cerner HIPAA health IT institutional credibility + Hallmark consumer brand quality design + Children's Mercy/KU YMYL academic paediatric + Garmin enterprise precision quality + authentic KC Crossroads/18th Vine identity`,
   seoTitle: `Web Design Agency Kansas City | Oracle Health HIPAA & Children's Mercy YMYL | Clickmasters`,
   meta: `Clickmasters web design in Kansas City. Oracle Health/Cerner HIPAA institutional credibility, Hallmark brand quality, and Children's Mercy/KU Medical YMYL for Kansas City businesses. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Kansas City Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-kansas-city/","address":{"@type":"PostalAddress","addressLocality":"Kansas City","addressRegion":"MO","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Kansas City Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-kansas-city/","address":{"@type":"PostalAddress","addressLocality":"Kansas City","addressRegion":"MO","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN KANSAS CITY?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | Children's Mercy cited | HIPAA: clean | New patients: +
 
 Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
 Overland Park, Leawood, Olathe, North KC, and all of Greater Kansas City`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-kansas-city/","/seo-services-kansas-city/","/web-design-agency-st-louis/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-kansas-city/","/seo-services-kansas-city/","/web-design-st-louis/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-kansas-city/`, status: false },
+      url: { requirement: `Exact: /web-design-kansas-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

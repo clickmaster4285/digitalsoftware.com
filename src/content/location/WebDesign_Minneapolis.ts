@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Minneapolis.xlsx
 // Service: WebDesign
 // City: Minneapolis
-// URL: /web-design-agency-minneapolis/
+// URL: /web-design-minneapolis/
 // Generated: 2026-06-20T06:13:03.844Z
 
 export const WebDesign_Minneapolis = {
@@ -9,14 +9,14 @@ export const WebDesign_Minneapolis = {
   serviceSlug: "web-design",
   city: "Minneapolis",
   citySlug: "minneapolis",
-  slug: "/web-design-agency-minneapolis/",
+  slug: "/web-design-minneapolis/",
   
   h1: `Web Design Agency Minneapolis — Medical Alley FDA-Credible Websites and Fortune 500 Minnesota Vendor Standard`,
   primaryKw: `web design agency minneapolis`,
   formula: `FAB — Features (Medical Alley FDA/KLAS credibility, Fortune 500 MN vendor architecture, HIPAA healthcare, Core Web Vitals), Advantages (IDN vendor trust + Fortune 500 commercial credibility), Benefits (health system contracts + Fortune 500 evaluations + patient acquisition)`,
   seoTitle: `Web Design Agency Minneapolis | Medical Alley Clinical & Fortune 500 MN | Clickmasters`,
   meta: `Clickmasters web design in Minneapolis. Medical Alley FDA-credible websites, Fortune 500 Minnesota vendor architecture, and HIPAA-compliant healthcare for the Twin Cities. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Minneapolis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-minneapolis/","address":{"@type":"PostalAddress","addressLocality":"Minneapolis","addressRegion":"MN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Minneapolis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-minneapolis/","address":{"@type":"PostalAddress","addressLocality":"Minneapolis","addressRegion":"MN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > Minneapolis, MN`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN MINNEAPOLIS?
@@ -114,14 +114,14 @@ Q: HIPAA-compliant websites for Minneapolis healthcare? A: Yes — HIPAA-native,
 Get Your Free Minneapolis Website Audit: Phone +1-888-555-CLICK
 Email: minneapolis@clickmastersdigitalmarketing.com
 Plymouth, Eden Prairie, Edina, St. Paul, and all of the Twin Cities metro`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-minneapolis/","/seo-services-minneapolis/","/web-design-agency-chicago/","/industries/medical-devices/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-minneapolis/","/seo-services-minneapolis/","/web-design-chicago/","/industries/medical-devices/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-minneapolis/`, status: false },
+      url: { requirement: `Exact: /web-design-minneapolis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

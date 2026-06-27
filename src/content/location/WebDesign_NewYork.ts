@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-NewYork.xlsx
 // Service: WebDesign
 // City: NewYork
-// URL: /web-design-agency-new-york/
+// URL: /web-design-new-york/
 // Generated: 2026-06-20T06:13:03.890Z
 
 export const WebDesign_NewYork = {
@@ -9,14 +9,14 @@ export const WebDesign_NewYork = {
   serviceSlug: "web-design",
   city: "NewYork",
   citySlug: "new-york",
-  slug: "/web-design-agency-new-york/",
+  slug: "/web-design-new-york/",
   
   h1: `Web Design Agency New York — Wall Street Institutional Credibility, FINRA/SEC Compliance, and World-Class NYC Brand Design`,
   primaryKw: `web design agency new york`,
   formula: `FAB — Wall Street FINRA/SEC institutional architecture + NYU/Columbia YMYL academic medical + NYT/Condé Nast editorial brand quality + New York Privacy Act-aware analytics`,
   seoTitle: `Web Design Agency New York | Wall Street Institutional & FINRA/SEC | Clickmasters`,
   meta: `Clickmasters web design in New York. Wall Street institutional financial credibility, FINRA/SEC-compliant design, NYU/Columbia academic medical YMYL, and world-class NYC brand design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New York Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-new-york/","address":{"@type":"PostalAddress","addressLocality":"New York","addressRegion":"NY","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New York Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-new-york/","address":{"@type":"PostalAddress","addressLocality":"New York","addressRegion":"NY","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3900,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN NEW YORK?
@@ -94,14 +94,14 @@ Results: Shopify conversion: 1.1% to 3.8% | LCP: 4.8s to 1.2s | NYC media editor
 
 Phone +1-888-555-CLICK | newyork@clickmastersdigitalmarketing.com
 Midtown, Wall Street, SoHo, Upper East Side, Brooklyn, and all of Greater New York`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-new-york/","/seo-services-new-york/","/web-design-agency-boston/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-new-york/","/seo-services-new-york/","/web-design-boston/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-new-york/`, status: false },
+      url: { requirement: `Exact: /web-design-new-york/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

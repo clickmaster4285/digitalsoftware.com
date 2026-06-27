@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Jacksonville.xlsx
 // Service: WebDesign
 // City: Jacksonville
-// URL: /web-design-agency-jacksonville/
+// URL: /web-design-jacksonville/
 // Generated: 2026-06-20T06:13:03.669Z
 
 export const WebDesign_Jacksonville = {
@@ -9,14 +9,14 @@ export const WebDesign_Jacksonville = {
   serviceSlug: "web-design",
   city: "Jacksonville",
   citySlug: "jacksonville",
-  slug: "/web-design-agency-jacksonville/",
+  slug: "/web-design-jacksonville/",
   
   h1: `Web Design Agency Jacksonville — FIS Global FINRA Institutional, Florida Blue Insurance Quality, and Baptist Health YMYL HIPAA SB 262`,
   primaryKw: `web design agency jacksonville`,
   formula: `FAB — FIS Global FINRA-compliant institutional fintech vendor credibility + Florida Blue insurance technology enterprise quality + Baptist Health/Nemours Wolfson YMYL HIPAA + NAS Jacksonville military trust signals + SB 262-native analytics + Riverside/Avondale authentic Jacksonville identity`,
   seoTitle: `Web Design Agency Jacksonville | FIS Global FINRA Credibility & Baptist Health YMYL | Clickmasters`,
   meta: `Clickmasters web design in Jacksonville. FIS Global FINRA-compliant institutional fintech credibility, Florida Blue insurance technology quality, and Baptist Health/Nemours Wolfson YMYL HIPAA SB 262 design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Jacksonville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-jacksonville/","address":{"@type":"PostalAddress","addressLocality":"Jacksonville","addressRegion":"FL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Jacksonville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-jacksonville/","address":{"@type":"PostalAddress","addressLocality":"Jacksonville","addressRegion":"FL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN JACKSONVILLE?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | Baptist Health: cited | HIPAA/SB 262: Florida AG pre-au
 
 Phone +1-888-555-CLICK | jacksonville@clickmastersdigitalmarketing.com
 Ponte Vedra Beach, Orange Park, St. Johns, and all of Greater Jacksonville`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-jacksonville/","/seo-services-jacksonville/","/web-design-agency-orlando/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-jacksonville/","/seo-services-jacksonville/","/web-design-orlando/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-jacksonville/`, status: false },
+      url: { requirement: `Exact: /web-design-jacksonville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

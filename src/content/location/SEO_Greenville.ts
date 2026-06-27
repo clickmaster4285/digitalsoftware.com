@@ -94,7 +94,7 @@ Results (10 months): Page 1 for 9 queries | YMYL: E-E-A-T | Prisma: cited | New 
 
 Phone +1-888-555-CLICK | greenville@clickmastersdigitalmarketing.com
 Spartanburg, Simpsonville, Augusta Road, and all of Upstate South Carolina`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-in-greenville-sc/","/seo-services-charlotte/","/seo-services-columbia-sc/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-greenville-sc/","/seo-services-charlotte/","/seo-services-columbia-sc/"],
   
   publishingChecklist: {
     onPageSeo: {

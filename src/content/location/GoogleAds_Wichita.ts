@@ -94,7 +94,7 @@ Results: HIPAA: clean | Via Christi CPL: \$110 vs \$290 generic | New patients: 
 
 Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
 Andover, Derby, Old Town, and all of Greater Wichita`,
-  internalLinks: ["/digital-marketing-agency-in-wichita/","/seo-services-wichita/","/google-ads-management-services/","/google-ads-management-oklahoma-city/"],
+  internalLinks: ["/digital-marketing-agency-wichita/","/seo-services-wichita/","/google-ads-management-services/","/google-ads-management-oklahoma-city/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -105,7 +105,7 @@ Q: How does Clickmasters measure Philadelphia social media outcomes? A: Penn Med
 Get Your Free Philadelphia Social Media Audit: Phone +1-888-555-CLICK
 Email: philadelphia@clickmastersdigitalmarketing.com
 Center City, Main Line, King of Prussia, and all of the Delaware Valley`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-philadelphia/","/seo-services-philadelphia/","/social-media-marketing-boston/","/industries/healthcare-tech/","/industries/financial-services/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-philadelphia/","/seo-services-philadelphia/","/social-media-marketing-boston/","/industries/healthcare-tech/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Boise.xlsx
 // Service: DigitalMarketing
 // City: Boise
-// URL: /digital-marketing-agency-in-boise/
+// URL: /digital-marketing-agency-boise/
 // Generated: 2026-06-20T06:12:58.725Z
 
 export const DigitalMarketing_Boise = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Boise = {
   serviceSlug: "digital-marketing",
   city: "Boise",
   citySlug: "boise",
-  slug: "/digital-marketing-agency-in-boise/",
+  slug: "/digital-marketing-agency-boise/",
   
   h1: `Digital Marketing Agency Boise — Micron Technology Revenue, Albertsons Retail Analytics, St. Luke's YMYL, and Treasure Valley Commercial Growth`,
   primaryKw: `digital marketing agency boise`,
   formula: `BAB — Boise Micron DRAM/NAND vendors invisible + Albertsons grocery analytics unaddressed + St. Luke's YMYL unreached + HP Inc unaddressed + J.R. Simplot agribusiness unaddressed + California in-migration unaddressed → CLICK Growth System for the City of Trees' semiconductor, grocery retail, healthcare, and agribusiness capital`,
   seoTitle: `Digital Marketing Agency Boise | Micron Technology Revenue & Albertsons Retail | Clickmasters`,
   meta: `Clickmasters digital marketing in Boise. Micron Technology DRAM/NAND semiconductor revenue, Albertsons grocery retail analytics, St. Luke's/Saint Alphonsus YMYL, and California in-migration Idaho tax. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boise Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-boise/","address":{"@type":"PostalAddress","addressLocality":"Boise","addressRegion":"ID","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boise Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-boise/","address":{"@type":"PostalAddress","addressLocality":"Boise","addressRegion":"ID","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN BOISE?
@@ -109,14 +109,14 @@ Results (11 months): CA in-migration organic: +3x | New CA-to-ID AUM: \$14M | FI
 
 Phone +1-888-555-CLICK | boise@clickmastersdigitalmarketing.com
 Meridian, Eagle, Nampa, Hyde Park, and all of Greater Boise`,
-  internalLinks: ["/seo-services-boise/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-salt-lake-city/","/digital-marketing-agency-in-portland/"],
+  internalLinks: ["/seo-services-boise/","/digital-marketing-agency-usa/","/digital-marketing-agency-salt-lake-city/","/digital-marketing-agency-portland/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-boise/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-boise/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

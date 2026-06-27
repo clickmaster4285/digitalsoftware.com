@@ -113,7 +113,7 @@ Q: How long does Philadelphia content marketing take? A: Healthcare YMYL: 5-8 mo
 Get Your Free Philadelphia Content Marketing Audit: Phone +1-888-555-CLICK
 Email: philadelphia@clickmastersdigitalmarketing.com
 Center City, Main Line, King of Prussia, and all of the Delaware Valley`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-philadelphia/","/seo-services-philadelphia/","/content-marketing-new-york/","/industries/healthcare/","/industries/legal/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-philadelphia/","/seo-services-philadelphia/","/content-marketing-new-york/","/industries/healthcare/","/industries/legal/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Seattle.xlsx
 // Service: DigitalMarketing
 // City: Seattle
-// URL: /digital-marketing-agency-in-seattle/
+// URL: /digital-marketing-agency-seattle/
 // Generated: 2026-06-20T06:12:59.347Z
 
 export const DigitalMarketing_Seattle = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Seattle = {
   serviceSlug: "digital-marketing",
   city: "Seattle",
   citySlug: "seattle",
-  slug: "/digital-marketing-agency-in-seattle/",
+  slug: "/digital-marketing-agency-seattle/",
   
   h1: `Digital Marketing Agency Seattle — Amazon-Standard Revenue Attribution for the Pacific Northwest's Technology Capital`,
   primaryKw: `digital marketing agency seattle`,
   formula: `BAB — Seattle businesses with unattributed digital investment → Amazon/Microsoft data culture rejecting vanity metric reporting → CLICK Growth System with Amazon-standard pipeline attribution for Pacific Northwest`,
   seoTitle: `Digital Marketing Agency Seattle | Amazon-Standard Attribution & Pacific NW | Clickmasters`,
   meta: `Clickmasters digital marketing in Seattle. Amazon-standard pipeline attribution for AWS ecosystem, MHMD-compliant healthcare, and Pacific Northwest authentic-values programmes. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Seattle Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-seattle/","address":{"@type":"PostalAddress","addressLocality":"Seattle","addressRegion":"WA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Seattle Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-seattle/","address":{"@type":"PostalAddress","addressLocality":"Seattle","addressRegion":"WA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Seattle, WA`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN SEATTLE?
@@ -52,7 +52,7 @@ EMAIL SEATTLE: Amazon-standard enterprise nurture. MHMD-compliant patient retent
 
 LOCAL SEO SEATTLE: Amazon data-standard review management. MHMD-compliant healthcare GBP. Pacific NW authentic local content. /local-seo-services-seattle/
 
-WEB DESIGN SEATTLE: Amazon-standard performance (sub-1.5s LCP). MHMD + HIPAA compliance. Pacific NW authentic design. /web-design-agency-seattle/`,
+WEB DESIGN SEATTLE: Amazon-standard performance (sub-1.5s LCP). MHMD + HIPAA compliance. Pacific NW authentic design. /web-design-seattle/`,
   caseStudies: `Case Study 1: South Lake Union AWS Partner — Amazon-Standard Full Attribution Programme
 Client: AWS data infrastructure SaaS, South Lake Union (\$16M ARR). Challenge: \$772,800 annual digital investment. Zero CRM attribution. CFO requesting commercial justification.
 Programme: All-channel Amazon-standard attribution rebuild (SEO + Google Ads + LinkedIn + content) + Salesforce integration + quarterly pipeline reporting
@@ -116,14 +116,14 @@ Q: GEO/AEO for Seattle? A: Highest AI search adoption in US. Amazon product mana
 Get Your Free Seattle Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: seattle@clickmastersdigitalmarketing.com
 South Lake Union, Bellevue, Redmond, Kirkland, and all of Greater Seattle`,
-  internalLinks: ["/seo-services-seattle/","/web-design-agency-seattle/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-san-francisco/","/industries/technology/","/industries/healthcare/"],
+  internalLinks: ["/seo-services-seattle/","/web-design-seattle/","/digital-marketing-agency-usa/","/digital-marketing-agency-san-francisco/","/industries/technology/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-seattle/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-seattle/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

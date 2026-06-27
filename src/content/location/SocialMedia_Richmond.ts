@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.2% | Richmond community edit
 
 Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com
 The Fan, Carytown, Church Hill, Henrico County, and all of Greater Richmond`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-richmond/","/seo-services-richmond/","/social-media-marketing-washington-dc/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-richmond/","/seo-services-richmond/","/social-media-marketing-washington-dc/"],
   
   publishingChecklist: {
     onPageSeo: {

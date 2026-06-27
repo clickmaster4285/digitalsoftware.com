@@ -108,7 +108,7 @@ Q: How long does Philadelphia healthcare patient email produce results? A: Lapse
 Get Your Free Philadelphia Email Marketing Audit: Phone +1-888-555-CLICK
 Email: philadelphia@clickmastersdigitalmarketing.com
 Center City, Main Line, King of Prussia, and all of the Delaware Valley`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-philadelphia/","/seo-services-philadelphia/","/email-marketing-boston/","/integrations/hubspot-marketing/","/industries/healthcare/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-philadelphia/","/seo-services-philadelphia/","/email-marketing-boston/","/integrations/hubspot-marketing/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {

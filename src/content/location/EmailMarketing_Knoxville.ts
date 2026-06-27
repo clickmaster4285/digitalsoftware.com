@@ -92,7 +92,7 @@ Results: Big Orange season: 4.0x above average | Smoky Mountain peak: 3.8x | Rev
 
 Phone +1-888-555-CLICK | knoxville@clickmastersdigitalmarketing.com
 Market Square, Farragut, Oak Ridge, and all of Greater Knoxville`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-knoxville/","/seo-services-knoxville/","/email-marketing-nashville/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-knoxville/","/seo-services-knoxville/","/email-marketing-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

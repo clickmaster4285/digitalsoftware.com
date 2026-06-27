@@ -92,7 +92,7 @@ Results: Atrium Health re-engagement: 44% | Novant Health re-engagement: 38% | H
 
 Phone +1-888-555-CLICK | charlotte@clickmastersdigitalmarketing.com
 Uptown Charlotte, Concord, Huntersville, and all of Greater Charlotte`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-charlotte/","/seo-services-charlotte/","/email-marketing-atlanta/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-charlotte/","/seo-services-charlotte/","/email-marketing-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

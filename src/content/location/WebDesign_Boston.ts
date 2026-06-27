@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Boston.xlsx
 // Service: WebDesign
 // City: Boston
-// URL: /web-design-agency-boston/
+// URL: /web-design-boston/
 // Generated: 2026-06-20T06:13:03.491Z
 
 export const WebDesign_Boston = {
@@ -9,14 +9,14 @@ export const WebDesign_Boston = {
   serviceSlug: "web-design",
   city: "Boston",
   citySlug: "boston",
-  slug: "/web-design-agency-boston/",
+  slug: "/web-design-boston/",
   
   h1: `Web Design Agency Boston — FINRA-Compliant Financial, FDA-Aware Kendall Square, and Academic Medical Centre Websites`,
   primaryKw: `web design agency boston`,
   formula: `FAB — Features (FINRA-compliant institutional financial design, FDA-aware Kendall Square life sciences, YMYL academic medical centre, Harvard/MIT credential architecture), Advantages (compliance protection + world-class institutional credibility), Benefits (HNW clients + pharma partnerships + patient trust)`,
   seoTitle: `Web Design Agency Boston | FINRA-Compliant & Kendall Square FDA | Clickmasters`,
   meta: `Clickmasters web design in Boston. FINRA-compliant financial services, FDA-aware Kendall Square life sciences, and academic medical centre YMYL standard for New England. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boston Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-boston/","address":{"@type":"PostalAddress","addressLocality":"Boston","addressRegion":"MA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boston Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-boston/","address":{"@type":"PostalAddress","addressLocality":"Boston","addressRegion":"MA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > Boston, MA`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN BOSTON?
@@ -111,14 +111,14 @@ Q: What academic credentials matter for Boston web design? A: HMS faculty, Mass 
 Get Your Free Boston Website Audit: Phone +1-888-555-CLICK
 Email: boston@clickmastersdigitalmarketing.com
 Back Bay, Kendall Square, Longwood, Cambridge, and all of Greater Boston`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-boston/","/seo-services-boston/","/web-design-agency-new-york/","/industries/financial-services/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-boston/","/seo-services-boston/","/web-design-new-york/","/industries/financial-services/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-boston/`, status: false },
+      url: { requirement: `Exact: /web-design-boston/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

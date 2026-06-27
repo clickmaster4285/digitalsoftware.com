@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-NewOrleans.xlsx
 // Service: WebDesign
 // City: NewOrleans
-// URL: /web-design-agency-new-orleans/
+// URL: /web-design-new-orleans/
 // Generated: 2026-06-20T06:13:03.875Z
 
 export const WebDesign_NewOrleans = {
@@ -9,14 +9,14 @@ export const WebDesign_NewOrleans = {
   serviceSlug: "web-design",
   city: "NewOrleans",
   citySlug: "new-orleans",
-  slug: "/web-design-agency-new-orleans/",
+  slug: "/web-design-new-orleans/",
   
   h1: `Web Design Agency New Orleans — Ochsner Health YMYL HIPAA Institutional, Entergy Utility Quality, and Authentic Crescent City Brand Design`,
   primaryKw: `web design agency new orleans`,
   formula: `FAB — Ochsner Health/Tulane YMYL HIPAA academic medical institutional credibility + Entergy utility enterprise institutional quality + Port maritime supply chain credibility + authentic New Orleans French Quarter/Garden District/Uptown consumer brand identity`,
   seoTitle: `Web Design Agency New Orleans | Ochsner YMYL HIPAA & Entergy Utility Quality | Clickmasters`,
   meta: `Clickmasters web design in New Orleans. Ochsner Health/Tulane YMYL HIPAA institutional credibility, Entergy utility enterprise quality, and authentic French Quarter/Garden District/Uptown brand design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New Orleans Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-new-orleans/","address":{"@type":"PostalAddress","addressLocality":"New Orleans","addressRegion":"LA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New Orleans Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-new-orleans/","address":{"@type":"PostalAddress","addressLocality":"New Orleans","addressRegion":"LA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN NEW ORLEANS?
@@ -92,14 +92,14 @@ Results: Garden District premium positioning: booking rate +40% | Average daily 
 
 Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
 Metairie, Garden District, Uptown, French Quarter, and all of Greater New Orleans`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-new-orleans/","/seo-services-new-orleans/","/web-design-agency-houston/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-new-orleans/","/seo-services-new-orleans/","/web-design-houston/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-new-orleans/`, status: false },
+      url: { requirement: `Exact: /web-design-new-orleans/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

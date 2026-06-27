@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-DesMoines.xlsx
 // Service: WebDesign
 // City: DesMoines
-// URL: /web-design-agency-des-moines/
+// URL: /web-design-des-moines/
 // Generated: 2026-06-20T06:13:03.584Z
 
 export const WebDesign_DesMoines = {
@@ -9,14 +9,14 @@ export const WebDesign_DesMoines = {
   serviceSlug: "web-design",
   city: "DesMoines",
   citySlug: "des-moines",
-  slug: "/web-design-agency-des-moines/",
+  slug: "/web-design-des-moines/",
   
   h1: `Web Design Agency Des Moines — Principal Financial FINRA Institutional Credibility, EMC Insurance Quality, and UnityPoint YMYL HIPAA CDPA`,
   primaryKw: `web design agency des moines`,
   formula: `FAB — Principal Financial FINRA/SEC retirement/group insurance institutional vendor credibility + EMC Insurance/Farm Bureau FINRA enterprise quality + UnityPoint/MercyOne YMYL HIPAA CDPA + authentic Des Moines East Village/Court Avenue/Ingersoll identity`,
   seoTitle: `Web Design Agency Des Moines | Principal Financial FINRA & UnityPoint YMYL | Clickmasters`,
   meta: `Clickmasters web design in Des Moines. Principal Financial FINRA retirement/insurance institutional credibility, EMC Insurance enterprise quality, UnityPoint/MercyOne YMYL HIPAA CDPA, and authentic East Village/Court Avenue brand. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Des Moines Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-des-moines/","address":{"@type":"PostalAddress","addressLocality":"Des Moines","addressRegion":"IA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Des Moines Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-des-moines/","address":{"@type":"PostalAddress","addressLocality":"Des Moines","addressRegion":"IA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3400,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN DES MOINES?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | UnityPoint: cited | HIPAA/CDPA: clean | New patients: +
 
 Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
 West Des Moines, Ankeny, East Village, and all of Greater Des Moines`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-des-moines/","/seo-services-des-moines/","/web-design-agency-omaha/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-des-moines/","/seo-services-des-moines/","/web-design-omaha/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-des-moines/`, status: false },
+      url: { requirement: `Exact: /web-design-des-moines/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

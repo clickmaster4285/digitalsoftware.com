@@ -108,7 +108,7 @@ Q: How long does Nashville healthcare capital content produce HCA results? A: HC
 Get Your Free Nashville Content Marketing Audit: Phone +1-888-555-CLICK
 Email: nashville@clickmastersdigitalmarketing.com
 The Gulch, Brentwood, Franklin, Music Row, and all of Middle Tennessee`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-nashville/","/seo-services-nashville/","/content-marketing-atlanta/","/industries/healthcare-tech/","/industries/entertainment/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-nashville/","/seo-services-nashville/","/content-marketing-atlanta/","/industries/healthcare-tech/","/industries/entertainment/"],
   
   publishingChecklist: {
     onPageSeo: {

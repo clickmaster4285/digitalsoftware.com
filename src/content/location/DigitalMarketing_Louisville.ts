@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Louisville.xlsx
 // Service: DigitalMarketing
 // City: Louisville
-// URL: /digital-marketing-agency-in-louisville/
+// URL: /digital-marketing-agency-louisville/
 // Generated: 2026-06-20T06:12:59.048Z
 
 export const DigitalMarketing_Louisville = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Louisville = {
   serviceSlug: "digital-marketing",
   city: "Louisville",
   citySlug: "louisville",
-  slug: "/digital-marketing-agency-in-louisville/",
+  slug: "/digital-marketing-agency-louisville/",
   
   h1: `Digital Marketing Agency Louisville — Humana Revenue, GE Appliances Manufacturing, Churchill Downs Hospitality, and Derby City Commercial Growth`,
   primaryKw: `digital marketing agency louisville`,
   formula: `BAB — Louisville Humana health insurance tech vendors invisible + GE Appliances manufacturing unaddressed + Churchill Downs hospitality/gaming unreached + Brown-Forman bourbon brand unaddressed + UofL Health YMYL unreached → CLICK Growth System for the Derby City's health insurance, manufacturing, and hospitality capital`,
   seoTitle: `Digital Marketing Agency Louisville | Humana Health Insurance & GE Appliances Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Louisville. Humana Medicare Advantage health insurance revenue, GE Appliances manufacturing B2B, Churchill Downs hospitality/gaming, and UofL Health/Norton YMYL. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Louisville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-louisville/","address":{"@type":"PostalAddress","addressLocality":"Louisville","addressRegion":"KY","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Louisville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-louisville/","address":{"@type":"PostalAddress","addressLocality":"Louisville","addressRegion":"KY","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN LOUISVILLE?
@@ -109,14 +109,14 @@ Results (11 months): Derby season leads: +3x | New Derby professional AUM: \$12M
 
 Phone +1-888-555-CLICK | louisville@clickmastersdigitalmarketing.com
 St. Matthews, Jeffersontown, Shelbyville, and all of Greater Louisville`,
-  internalLinks: ["/seo-services-louisville/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-nashville/","/digital-marketing-agency-in-cincinnati/"],
+  internalLinks: ["/seo-services-louisville/","/digital-marketing-agency-usa/","/digital-marketing-agency-nashville/","/digital-marketing-agency-cincinnati/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-louisville/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-louisville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

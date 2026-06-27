@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Huntsville.xlsx
 // Service: DigitalMarketing
 // City: Huntsville
-// URL: /digital-marketing-agency-in-huntsville/
+// URL: /digital-marketing-agency-huntsville/
 // Generated: 2026-06-20T06:12:58.939Z
 
 export const DigitalMarketing_Huntsville = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Huntsville = {
   serviceSlug: "digital-marketing",
   city: "Huntsville",
   citySlug: "huntsville",
-  slug: "/digital-marketing-agency-in-huntsville/",
+  slug: "/digital-marketing-agency-huntsville/",
   
   h1: `Digital Marketing Agency Huntsville — NASA Marshall Revenue, Redstone Arsenal Defence, Cummings Research Park Tech, and Rocket City Commercial Growth`,
   primaryKw: `digital marketing agency huntsville`,
   formula: `BAB — Huntsville NASA Marshall ITAR-bounded vendors invisible + Redstone Arsenal ITAR defence unreached + Boeing/Lockheed/Northrop Cummings unaddressed + Huntsville Hospital YMYL unreached + UAH engineering community unaddressed → CLICK Growth System for the Rocket City's aerospace, defence, and engineering capital`,
   seoTitle: `Digital Marketing Agency Huntsville | NASA Marshall ITAR-Bounded & Redstone Arsenal | Clickmasters`,
   meta: `Clickmasters digital marketing in Huntsville. NASA Marshall Space Flight Center ITAR-bounded revenue, Redstone Arsenal defence B2B, Cummings Research Park tech, and Huntsville Hospital YMYL. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Huntsville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-huntsville/","address":{"@type":"PostalAddress","addressLocality":"Huntsville","addressRegion":"AL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Huntsville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-huntsville/","address":{"@type":"PostalAddress","addressLocality":"Huntsville","addressRegion":"AL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN HUNTSVILLE?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 9 Huntsville health IT queries | Huntsville Hosp
 
 Phone +1-888-555-CLICK | huntsville@clickmastersdigitalmarketing.com
 Madison, Cummings Research Park, Five Points South, and all of Greater Huntsville`,
-  internalLinks: ["/seo-services-huntsville/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-birmingham/","/digital-marketing-agency-in-nashville/"],
+  internalLinks: ["/seo-services-huntsville/","/digital-marketing-agency-usa/","/digital-marketing-agency-birmingham/","/digital-marketing-agency-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-huntsville/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-huntsville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

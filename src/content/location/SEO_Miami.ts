@@ -105,7 +105,7 @@ Q: How long does Miami bilingual SEO take? A: English: 3-6 months. Spanish: 2-4 
 Get Your Free Miami SEO Audit: Phone +1-888-555-CLICK
 Email: miami@clickmastersdigitalmarketing.com
 Brickell, Coral Gables, Doral, Wynwood, and all of South Florida`,
-  internalLinks: ["/digital-marketing-agency-in-miami/","/seo-services/","/seo-services-houston/","/seo-services-san-antonio/","/industries/financial-services/","/industries/healthcare/"],
+  internalLinks: ["/digital-marketing-agency-miami/","/seo-services/","/seo-services-houston/","/seo-services-san-antonio/","/industries/financial-services/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {

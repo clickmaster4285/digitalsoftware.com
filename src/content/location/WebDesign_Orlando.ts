@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Orlando.xlsx
 // Service: WebDesign
 // City: Orlando
-// URL: /web-design-agency-orlando/
+// URL: /web-design-orlando/
 // Generated: 2026-06-20T06:13:03.922Z
 
 export const WebDesign_Orlando = {
@@ -9,14 +9,14 @@ export const WebDesign_Orlando = {
   serviceSlug: "web-design",
   city: "Orlando",
   citySlug: "orlando",
-  slug: "/web-design-agency-orlando/",
+  slug: "/web-design-orlando/",
   
   h1: `Web Design Agency Orlando — Disney/Universal Hospitality Credibility, Lake Nona Medical City Institutional, and AdventHealth YMYL`,
   primaryKw: `web design agency orlando`,
   formula: `FAB — Disney/Universal hospitality tech vendor institutional credibility + Lake Nona Medical City UCF COM/UF Health institutional + AdventHealth/Nemours YMYL HIPAA + Florida SB 262-native analytics + authentic Orlando Mills 50/Winter Park identity`,
   seoTitle: `Web Design Agency Orlando | Disney/Universal Hospitality Credibility & Lake Nona | Clickmasters`,
   meta: `Clickmasters web design in Orlando. Disney/Universal hospitality vendor credibility, Lake Nona Medical City UCF/UF Health institutional, and AdventHealth/Nemours YMYL HIPAA design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Orlando Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-orlando/","address":{"@type":"PostalAddress","addressLocality":"Orlando","addressRegion":"FL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Orlando Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-orlando/","address":{"@type":"PostalAddress","addressLocality":"Orlando","addressRegion":"FL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN ORLANDO?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | AdventHealth: cited in patient surveys | HIPAA/SB 262: 
 
 Phone +1-888-555-CLICK | orlando@clickmastersdigitalmarketing.com
 Lake Nona, Winter Park, Kissimmee, and all of Greater Orlando`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-orlando/","/seo-services-orlando/","/web-design-agency-tampa/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-orlando/","/seo-services-orlando/","/web-design-tampa/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-orlando/`, status: false },
+      url: { requirement: `Exact: /web-design-orlando/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

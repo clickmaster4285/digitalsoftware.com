@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-StLouis.xlsx
 // Service: WebDesign
 // City: StLouis
-// URL: /web-design-agency-st-louis/
+// URL: /web-design-st-louis/
 // Generated: 2026-06-20T06:13:04.065Z
 
 export const WebDesign_StLouis = {
@@ -9,14 +9,14 @@ export const WebDesign_StLouis = {
   serviceSlug: "web-design",
   city: "StLouis",
   citySlug: "st-louis",
-  slug: "/web-design-agency-st-louis/",
+  slug: "/web-design-st-louis/",
   
   h1: `Web Design Agency St. Louis — Boeing Defence Vendor Credibility, Edward Jones FINRA Institutional, and BJC/WashU YMYL Academic Medical`,
   primaryKw: `web design agency st louis`,
   formula: `FAB — Boeing BDS ITAR-bounded defence vendor credibility architecture + Edward Jones FINRA/SEC institutional financial + BJC/WashU YMYL HIPAA academic medical + Centene managed care institutional + sub-1.6s LCP`,
   seoTitle: `Web Design Agency St. Louis | Boeing Defence Credibility & Edward Jones FINRA | Clickmasters`,
   meta: `Clickmasters web design in St. Louis. Boeing Defence vendor credibility, Edward Jones FINRA/SEC institutional quality, and BJC/Washington University YMYL HIPAA academic medical. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — St. Louis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-st-louis/","address":{"@type":"PostalAddress","addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — St. Louis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-st-louis/","address":{"@type":"PostalAddress","addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN ST. LOUIS?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T recognised | BJC affiliation: cited in patient surveys | 
 
 Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
 Clayton, Creve Coeur, Chesterfield, Hazelwood, and all of Greater St. Louis`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-st-louis/","/seo-services-st-louis/","/web-design-agency-chicago/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-st-louis/","/seo-services-st-louis/","/web-design-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-st-louis/`, status: false },
+      url: { requirement: `Exact: /web-design-st-louis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

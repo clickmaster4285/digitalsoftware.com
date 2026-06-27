@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Oak Ridge energy consulting | TVA/ORNL near
 
 Phone +1-888-555-CLICK | knoxville@clickmastersdigitalmarketing.com
 Sequoyah Hills, Farragut, Bearden, Oak Ridge, and all of Greater Knoxville`,
-  internalLinks: ["/local-seo-services/","/seo-services-knoxville/","/digital-marketing-agency-in-knoxville/","/local-seo-services-nashville/"],
+  internalLinks: ["/local-seo-services/","/seo-services-knoxville/","/digital-marketing-agency-knoxville/","/local-seo-services-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 10 Richmond health IT queries | VCU: evaluation 
 
 Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com
 The Fan, Carytown, Henrico County, Chesterfield, and all of Greater Richmond`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-richmond/","/seo-services-richmond/","/content-marketing-washington-dc/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-richmond/","/seo-services-richmond/","/content-marketing-washington-dc/"],
   
   publishingChecklist: {
     onPageSeo: {

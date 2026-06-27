@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 10 Sacramento oncology queries | YMYL: E-E-A-T |
 
 Phone +1-888-555-CLICK | sacramento@clickmastersdigitalmarketing.com
 Folsom, Roseville, Elk Grove, Midtown, and all of Greater Sacramento`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-in-sacramento/","/seo-services-san-diego/","/seo-services-los-angeles/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-sacramento/","/seo-services-san-diego/","/seo-services-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {

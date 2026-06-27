@@ -92,7 +92,7 @@ Results: CA in-migration engagement: 3.8x above generic | Conversion within 90 d
 
 Phone +1-888-555-CLICK | saltlakecity@clickmastersdigitalmarketing.com
 Sugar House, Avenues, Lehi, Draper, and all of Greater Salt Lake City`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-salt-lake-city/","/seo-services-salt-lake-city/","/email-marketing-denver/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-salt-lake-city/","/seo-services-salt-lake-city/","/email-marketing-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

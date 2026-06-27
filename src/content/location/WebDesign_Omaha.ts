@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Omaha.xlsx
 // Service: WebDesign
 // City: Omaha
-// URL: /web-design-agency-omaha/
+// URL: /web-design-omaha/
 // Generated: 2026-06-20T06:13:03.909Z
 
 export const WebDesign_Omaha = {
@@ -9,14 +9,14 @@ export const WebDesign_Omaha = {
   serviceSlug: "web-design",
   city: "Omaha",
   citySlug: "omaha",
-  slug: "/web-design-agency-omaha/",
+  slug: "/web-design-omaha/",
   
   h1: `Web Design Agency Omaha — Berkshire Hathaway FINRA Institutional Credibility, Union Pacific Rail Quality, and Nebraska Medicine YMYL HIPAA NDPA`,
   primaryKw: `web design agency omaha`,
   formula: `FAB — Berkshire Hathaway FINRA/SEC investment holding institutional vendor credibility + Union Pacific rail logistics enterprise quality + Nebraska Medicine YMYL HIPAA NDPA + ConAgra food manufacturing + authentic Omaha Old Market/Dundee/Aksarben identity`,
   seoTitle: `Web Design Agency Omaha | Berkshire Hathaway FINRA Credibility & Union Pacific Quality | Clickmasters`,
   meta: `Clickmasters web design in Omaha. Berkshire Hathaway FINRA institutional credibility, Union Pacific rail enterprise quality, Nebraska Medicine YMYL HIPAA NDPA, and authentic Old Market/Dundee brand. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Omaha Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-omaha/","address":{"@type":"PostalAddress","addressLocality":"Omaha","addressRegion":"NE","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Omaha Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-omaha/","address":{"@type":"PostalAddress","addressLocality":"Omaha","addressRegion":"NE","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN OMAHA?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | Nebraska Medicine: cited | HIPAA/NDPA: clean | New pati
 
 Phone +1-888-555-CLICK | omaha@clickmastersdigitalmarketing.com
 Bellevue, Papillion, Elkhorn, Old Market, and all of Greater Omaha`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-omaha/","/seo-services-omaha/","/web-design-agency-kansas-city/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-omaha/","/seo-services-omaha/","/web-design-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-omaha/`, status: false },
+      url: { requirement: `Exact: /web-design-omaha/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

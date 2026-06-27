@@ -105,7 +105,7 @@ Q: What is Texas commercial directness in San Antonio Google Ads? A: Specific va
 Get Your Free San Antonio Google Ads Audit: Phone +1-888-555-CLICK
 Email: sanantonio@clickmastersdigitalmarketing.com
 Northwest San Antonio, Stone Oak, Medical Center, and all of Greater San Antonio`,
-  internalLinks: ["/digital-marketing-agency-in-san-antonio/","/seo-services-san-antonio/","/google-ads-management-services/","/google-ads-management-austin/","/industries/healthcare/","/industries/financial-services/"],
+  internalLinks: ["/digital-marketing-agency-san-antonio/","/seo-services-san-antonio/","/google-ads-management-services/","/google-ads-management-austin/","/industries/healthcare/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

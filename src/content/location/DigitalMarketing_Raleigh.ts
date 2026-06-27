@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Raleigh.xlsx
 // Service: DigitalMarketing
 // City: Raleigh
-// URL: /digital-marketing-agency-in-raleigh/
+// URL: /digital-marketing-agency-raleigh/
 // Generated: 2026-06-20T06:12:59.229Z
 
 export const DigitalMarketing_Raleigh = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Raleigh = {
   serviceSlug: "digital-marketing",
   city: "Raleigh",
   citySlug: "raleigh",
-  slug: "/digital-marketing-agency-in-raleigh/",
+  slug: "/digital-marketing-agency-raleigh/",
   
   h1: `Digital Marketing Agency Raleigh — Research Triangle Park B2B Revenue, Duke/UNC Healthcare, and Triangle Commercial Growth`,
   primaryKw: `digital marketing agency raleigh`,
   formula: `BAB — Raleigh RTP pharma/tech companies invisible to new Biogen/Cisco executives + Duke/UNC health tech vendors unreached + Triangle in-migration professional services unaddressed → CLICK Growth System for the Research Triangle`,
   seoTitle: `Digital Marketing Agency Raleigh | Research Triangle Park & Duke/UNC Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Raleigh. Research Triangle Park pharmaceutical and tech B2B revenue, Duke/UNC academic medical, and Triangle in-migration professional growth. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Raleigh Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-raleigh/","address":{"@type":"PostalAddress","addressLocality":"Raleigh","addressRegion":"NC","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Raleigh Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-raleigh/","address":{"@type":"PostalAddress","addressLocality":"Raleigh","addressRegion":"NC","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN RALEIGH?
@@ -109,14 +109,14 @@ Results (11 months): In-migration organic leads: +3x | Google Ads CPL: below Tri
 
 Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
 Durham, Chapel Hill, Cary, and all of the Research Triangle`,
-  internalLinks: ["/seo-services-raleigh/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-charlotte/","/digital-marketing-agency-in-atlanta/"],
+  internalLinks: ["/seo-services-raleigh/","/digital-marketing-agency-usa/","/digital-marketing-agency-charlotte/","/digital-marketing-agency-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-raleigh/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-raleigh/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

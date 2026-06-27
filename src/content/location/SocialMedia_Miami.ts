@@ -95,7 +95,7 @@ Results (6 months): FINRA findings: 0 (English + Spanish) | LATAM HNW LinkedIn e
 5. Florida Bar compliance (legal) — LinkedIn advertising content review
 
 Phone +1-888-555-CLICK | miami@clickmastersdigitalmarketing.com | Brickell, Coral Gables, Wynwood, Doral, and all of South Florida`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-miami/","/seo-services-miami/","/social-media-marketing-houston/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-miami/","/seo-services-miami/","/social-media-marketing-houston/"],
   
   publishingChecklist: {
     onPageSeo: {

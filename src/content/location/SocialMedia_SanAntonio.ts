@@ -105,7 +105,7 @@ Q: How does Clickmasters measure San Antonio social media outcomes? A: JBSA: mil
 Get Your Free San Antonio Social Media Audit: Phone +1-888-555-CLICK
 Email: sanantonio@clickmastersdigitalmarketing.com
 Northwest San Antonio, Stone Oak, Medical Center, and all of Greater San Antonio`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-san-antonio/","/seo-services-san-antonio/","/social-media-marketing-houston/","/industries/healthcare/","/industries/financial-services/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-san-antonio/","/seo-services-san-antonio/","/social-media-marketing-houston/","/industries/healthcare/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

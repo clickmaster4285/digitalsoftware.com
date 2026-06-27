@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Knoxville.xlsx
 // Service: DigitalMarketing
 // City: Knoxville
-// URL: /digital-marketing-agency-in-knoxville/
+// URL: /digital-marketing-agency-knoxville/
 // Generated: 2026-06-20T06:12:58.995Z
 
 export const DigitalMarketing_Knoxville = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Knoxville = {
   serviceSlug: "digital-marketing",
   city: "Knoxville",
   citySlug: "knoxville",
-  slug: "/digital-marketing-agency-in-knoxville/",
+  slug: "/digital-marketing-agency-knoxville/",
   
   h1: `Digital Marketing Agency Knoxville — TVA Energy Revenue, ORNL ITAR-Adjacent Nuclear, Pilot Flying J Fleet, and Tennessee Valley Commercial Growth`,
   primaryKw: `digital marketing agency knoxville`,
   formula: `BAB — Knoxville TVA utility/nuclear vendors invisible + ORNL ITAR-adjacent energy unreached + Pilot Flying J fleet unaddressed + UT Medical/Covenant YMYL unreached + Tennessee TIPA non-compliant → CLICK Growth System for the Tennessee Valley's energy, logistics, and healthcare capital`,
   seoTitle: `Digital Marketing Agency Knoxville | TVA Energy Revenue & Pilot Flying J Logistics | Clickmasters`,
   meta: `Clickmasters digital marketing in Knoxville. TVA utility/energy revenue, ORNL ITAR-adjacent nuclear, Pilot Flying J trucking/fleet logistics, UT Medical YMYL, and Tennessee TIPA-native. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Knoxville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-knoxville/","address":{"@type":"PostalAddress","addressLocality":"Knoxville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Knoxville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-knoxville/","address":{"@type":"PostalAddress","addressLocality":"Knoxville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN KNOXVILLE?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 9 Knoxville health IT queries | UT Medical: eval
 
 Phone +1-888-555-CLICK | knoxville@clickmastersdigitalmarketing.com
 Farragut, Oak Ridge, Maryville, Market Square, and all of Greater Knoxville`,
-  internalLinks: ["/seo-services-knoxville/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-nashville/","/digital-marketing-agency-in-chattanooga/"],
+  internalLinks: ["/seo-services-knoxville/","/digital-marketing-agency-usa/","/digital-marketing-agency-nashville/","/digital-marketing-agency-chattanooga/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-knoxville/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-knoxville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

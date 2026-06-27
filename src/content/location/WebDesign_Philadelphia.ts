@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Philadelphia.xlsx
 // Service: WebDesign
 // City: Philadelphia
-// URL: /web-design-agency-philadelphia/
+// URL: /web-design-philadelphia/
 // Generated: 2026-06-20T06:13:03.933Z
 
 export const WebDesign_Philadelphia = {
@@ -9,14 +9,14 @@ export const WebDesign_Philadelphia = {
   serviceSlug: "web-design",
   city: "Philadelphia",
   citySlug: "philadelphia",
-  slug: "/web-design-agency-philadelphia/",
+  slug: "/web-design-philadelphia/",
   
   h1: `Web Design Agency Philadelphia — YMYL Academic Medical, PA RPC-Compliant Legal, and Main Line Institutional Quality`,
   primaryKw: `web design agency philadelphia`,
   formula: `FAB — Features (YMYL Penn/Jefferson academic medical standard, PA RPC-compliant legal, Main Line institutional quality, KOP FDA pharma, Core Web Vitals), Advantages (E-E-A-T + compliance protection + Main Line professional trust), Benefits (patient acquisition + legal client development + pharma partnerships)`,
   seoTitle: `Web Design Agency Philadelphia | YMYL Academic Medical & PA RPC | Clickmasters`,
   meta: `Clickmasters web design in Philadelphia. YMYL Penn/Jefferson academic medical standard, Pennsylvania RPC-compliant legal, and Main Line institutional quality for the Delaware Valley. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Philadelphia Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-philadelphia/","address":{"@type":"PostalAddress","addressLocality":"Philadelphia","addressRegion":"PA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Philadelphia Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-philadelphia/","address":{"@type":"PostalAddress","addressLocality":"Philadelphia","addressRegion":"PA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > Philadelphia, PA`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN PHILADELPHIA?
@@ -111,14 +111,14 @@ Q: What is the Main Line institutional visual standard? A: Bryn Mawr/Haverford/S
 Get Your Free Philadelphia Website Audit: Phone +1-888-555-CLICK
 Email: philadelphia@clickmastersdigitalmarketing.com
 Center City, Main Line, King of Prussia, and all of the Delaware Valley`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-philadelphia/","/seo-services-philadelphia/","/web-design-agency-boston/","/industries/healthcare/","/industries/legal/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-philadelphia/","/seo-services-philadelphia/","/web-design-boston/","/industries/healthcare/","/industries/legal/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-philadelphia/`, status: false },
+      url: { requirement: `Exact: /web-design-philadelphia/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

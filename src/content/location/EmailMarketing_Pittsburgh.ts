@@ -92,7 +92,7 @@ Results: FINRA/SEC: clean | PNC re-engagement: 40% | PPG: re-engagement: 36% | P
 
 Phone +1-888-555-CLICK | pittsburgh@clickmastersdigitalmarketing.com
 Lawrenceville, South Side, Squirrel Hill, Shadyside, and all of Greater Pittsburgh`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-pittsburgh/","/seo-services-pittsburgh/","/email-marketing-cleveland/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-pittsburgh/","/seo-services-pittsburgh/","/email-marketing-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {

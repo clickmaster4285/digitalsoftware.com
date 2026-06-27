@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Baltimore.xlsx
 // Service: WebDesign
 // City: Baltimore
-// URL: /web-design-agency-baltimore/
+// URL: /web-design-baltimore/
 // Generated: 2026-06-20T06:13:03.449Z
 
 export const WebDesign_Baltimore = {
@@ -9,14 +9,14 @@ export const WebDesign_Baltimore = {
   serviceSlug: "web-design",
   city: "Baltimore",
   citySlug: "baltimore",
-  slug: "/web-design-agency-baltimore/",
+  slug: "/web-design-baltimore/",
   
   h1: `Web Design Agency Baltimore — Johns Hopkins #1 Institutional YMYL, T. Rowe Price FINRA Investment, and Under Armour Brand Design`,
   primaryKw: `web design agency baltimore`,
   formula: `FAB — Johns Hopkins #1 US YMYL HIPAA world-class institutional credibility + T. Rowe Price FINRA/SEC institutional investment quality + Under Armour sports performance brand visual quality + authentic Baltimore Fells Point/Hampden identity`,
   seoTitle: `Web Design Agency Baltimore | Johns Hopkins #1 Institutional & T. Rowe Price FINRA | Clickmasters`,
   meta: `Clickmasters web design in Baltimore. Johns Hopkins #1 US YMYL HIPAA institutional credibility, T. Rowe Price FINRA investment quality, and Under Armour brand design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Baltimore Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-baltimore/","address":{"@type":"PostalAddress","addressLocality":"Baltimore","addressRegion":"MD","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Baltimore Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-baltimore/","address":{"@type":"PostalAddress","addressLocality":"Baltimore","addressRegion":"MD","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN BALTIMORE?
@@ -92,14 +92,14 @@ Results: Under Armour VP: passed due diligence | Demo: 0.2% to 1.6% | Brand pipe
 
 Phone +1-888-555-CLICK | baltimore@clickmastersdigitalmarketing.com
 Towson, Columbia, Fells Point, Hampden, and all of Greater Baltimore`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-baltimore/","/seo-services-baltimore/","/web-design-agency-pittsburgh/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-baltimore/","/seo-services-baltimore/","/web-design-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-baltimore/`, status: false },
+      url: { requirement: `Exact: /web-design-baltimore/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

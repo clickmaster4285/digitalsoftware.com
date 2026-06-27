@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Louisville.xlsx
 // Service: WebDesign
 // City: Louisville
-// URL: /web-design-agency-louisville/
+// URL: /web-design-louisville/
 // Generated: 2026-06-20T06:13:03.776Z
 
 export const WebDesign_Louisville = {
@@ -9,14 +9,14 @@ export const WebDesign_Louisville = {
   serviceSlug: "web-design",
   city: "Louisville",
   citySlug: "louisville",
-  slug: "/web-design-agency-louisville/",
+  slug: "/web-design-louisville/",
   
   h1: `Web Design Agency Louisville — Humana Medicare Advantage HIPAA Institutional, GE Appliances Manufacturing Quality, and UofL Health YMYL`,
   primaryKw: `web design agency louisville`,
   formula: `FAB — Humana Medicare Advantage HIPAA-compliant institutional health insurance vendor credibility + GE Appliances manufacturing enterprise institutional quality + UofL Health/Norton YMYL HIPAA + Churchill Downs Derby hospitality brand + authentic Louisville Highlands/NuLu/Butchertown identity`,
   seoTitle: `Web Design Agency Louisville | Humana Medicare Advantage & GE Appliances Quality | Clickmasters`,
   meta: `Clickmasters web design in Louisville. Humana Medicare Advantage HIPAA institutional credibility, GE Appliances manufacturing enterprise quality, and UofL Health/Norton YMYL HIPAA. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Louisville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-louisville/","address":{"@type":"PostalAddress","addressLocality":"Louisville","addressRegion":"KY","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Louisville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-louisville/","address":{"@type":"PostalAddress","addressLocality":"Louisville","addressRegion":"KY","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN LOUISVILLE?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | UofL: cited | HIPAA: clean | New patients: +3x | LCP: 4
 
 Phone +1-888-555-CLICK | louisville@clickmastersdigitalmarketing.com
 St. Matthews, Jeffersontown, Shelbyville, and all of Greater Louisville`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-louisville/","/seo-services-louisville/","/web-design-agency-nashville/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-louisville/","/seo-services-louisville/","/web-design-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-louisville/`, status: false },
+      url: { requirement: `Exact: /web-design-louisville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

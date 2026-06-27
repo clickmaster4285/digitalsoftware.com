@@ -94,7 +94,7 @@ Results (4 months): Top 3 Local Pack Capitol Hill authentic lifestyle | Pacific 
 
 Phone +1-888-555-CLICK | seattle@clickmastersdigitalmarketing.com
 South Lake Union, Bellevue, Capitol Hill, and all of Greater Seattle`,
-  internalLinks: ["/local-seo-services/","/seo-services-seattle/","/digital-marketing-agency-in-seattle/","/local-seo-services-portland/"],
+  internalLinks: ["/local-seo-services/","/seo-services-seattle/","/digital-marketing-agency-seattle/","/local-seo-services-portland/"],
   
   publishingChecklist: {
     onPageSeo: {
