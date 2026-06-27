@@ -1,7 +1,9 @@
+// src/app/[services]/locations/[[...slugs]]/page.tsx
 import { notFound } from 'next/navigation';
 import { 
   getAllSlugs, 
   getLocationBySlug,
+  getServiceNames, // Import this from your combined index
 } from '@/content/location/combined-location-index';
 import type { Metadata } from 'next';
 import LocationClient from './LocationClient';
@@ -10,10 +12,77 @@ import LocationClient from './LocationClient';
 // 1. GENERATE STATIC PARAMS
 // ============================================
 export async function generateStaticParams() {
-  const slugs = getAllSlugs();
-  return slugs.map((slug) => ({
-    slugs: slug.split('/').filter(Boolean),
-  }));
+  const allSlugs = getAllSlugs();
+  
+  // Get service names from your combined index
+  // This function should already exist in your combined-location-index
+  let services: string[] = [];
+  
+  try {
+    // Try to get services from your index
+    const serviceNames = getServiceNames();
+    if (serviceNames && serviceNames.length > 0) {
+      services = serviceNames;
+    }
+  } catch (error) {
+    console.warn('Could not get service names from index, using fallback');
+  }
+  
+  // Fallback: Extract from slugs if no services found
+  if (services.length === 0) {
+    const serviceSet = new Set<string>();
+    for (const slug of allSlugs) {
+      // Extract service from slug pattern: /content-marketing-albuquerque/
+      const cleanSlug = slug.replace(/^\/|\/$/g, '');
+      const parts = cleanSlug.split('-');
+      // Check if it matches pattern: service-city
+      if (parts.length >= 2) {
+        // Try to find the service part
+        const possibleService = parts.slice(0, -1).join('-');
+        serviceSet.add(possibleService);
+      }
+    }
+    services = Array.from(serviceSet);
+  }
+  
+  // Additional fallback: Common services
+  if (services.length === 0) {
+    services = [
+      'content-marketing',
+      'digital-marketing',
+      'seo',
+      'web-design',
+      'email-marketing',
+      'social-media',
+      'google-ads',
+      'local-seo',
+      'ppc-management',
+      'ecommerce-marketing'
+    ];
+  }
+  
+  const paths = [];
+  for (const service of services) {
+    for (const slug of allSlugs) {
+      const cleanSlug = slug.replace(/^\/|\/$/g, '');
+      const slugParts = cleanSlug.split('/').filter(Boolean);
+      
+      // If slugParts is empty, use the slug itself
+      const parts = slugParts.length > 0 ? slugParts : [cleanSlug];
+      
+      paths.push({
+        services: service,
+        slugs: parts,
+      });
+    }
+  }
+  
+  // Remove duplicates
+  const uniquePaths = Array.from(
+    new Set(paths.map(p => JSON.stringify(p)))
+  ).map(p => JSON.parse(p));
+  
+  return uniquePaths;
 }
 
 // ============================================
@@ -22,9 +91,16 @@ export async function generateStaticParams() {
 export async function generateMetadata({ 
   params 
 }: { 
-  params: Promise<{ slugs: string[] }> 
+  params: Promise<{ services: string; slugs: string[] }> 
 }): Promise<Metadata> {
-  const { slugs } = await params;
+  const { services, slugs } = await params;
+  
+  if (!services) {
+    return {
+      title: 'Service Not Found',
+    };
+  }
+  
   const slug = `/${slugs.join('/')}/`;
   const location = getLocationBySlug(slug);
   
@@ -34,9 +110,9 @@ export async function generateMetadata({
     };
   }
 
-  const serviceName = slugs[0]?.split('-').map(word => 
+  const serviceName = services.split('-').map(word => 
     word.charAt(0).toUpperCase() + word.slice(1)
-  ).join(' ') || '';
+  ).join(' ');
   
   const cityName = location.city || '';
   const seoTitle = location.seoTitle || `${serviceName} in ${cityName} | Clickmasters`;
@@ -49,10 +125,10 @@ export async function generateMetadata({
       title: seoTitle,
       description: metaDesc,
       type: 'website',
-      url: `https://clickmastersdigitalmarketing.com/locations/${slug}`,
+      url: `https://clickmastersdigitalmarketing.com/${services}/locations/${slug}`,
     },
     alternates: {
-      canonical: `https://clickmastersdigitalmarketing.com/locations${slug}`,
+      canonical: `https://clickmastersdigitalmarketing.com/${services}/locations${slug}`,
     },
   };
 }
@@ -71,7 +147,6 @@ function parseFeatures(text: string | undefined): { title: string; body: string 
   
   const items: { title: string; body: string }[] = [];
   
-  // Remove the "FEATURES:" header if present
   let cleanText = text.replace(/^FEATURES:\s*\n?/i, '');
   cleanText = cleanText.replace(/FEATURES:\s*/gi, '');
   
@@ -79,54 +154,38 @@ function parseFeatures(text: string | undefined): { title: string; body: string 
   
   let currentTitle = '';
   let currentBody: string[] = [];
-  let isCollectingBody = false;
   
   for (const line of lines) {
     const trimmed = line.trim();
-    
-    // Skip empty lines
     if (!trimmed) continue;
     
-    // Check if this line starts a new feature (ends with colon)
     if (trimmed.includes(':') && 
         !trimmed.startsWith('-') && 
         !trimmed.startsWith('•') && 
         !trimmed.startsWith('*') &&
         !trimmed.startsWith('—')) {
       
-      // Save previous feature if exists
       if (currentTitle && currentBody.length > 0) {
         items.push({
           title: currentTitle,
           body: currentBody.join(' ').trim(),
         });
-      } else if (currentTitle && currentBody.length === 0) {
-        // If title exists but no body yet, this might be a multi-line title
-        // Check if this is actually a new feature
         currentBody = [];
       }
       
-      // Start new feature
       const [title, ...rest] = trimmed.split(':');
       currentTitle = title.trim();
-      
-      // If there's content after the colon on the same line, add it to body
       const restContent = rest.join(':').trim();
       if (restContent) {
         currentBody = [restContent];
-        isCollectingBody = true;
       } else {
         currentBody = [];
-        isCollectingBody = false;
       }
     } else if (currentTitle) {
-      // This is a continuation of the current feature body
       currentBody.push(trimmed);
-      isCollectingBody = true;
     }
   }
   
-  // Save the last feature
   if (currentTitle && currentBody.length > 0) {
     items.push({
       title: currentTitle,
@@ -134,8 +193,8 @@ function parseFeatures(text: string | undefined): { title: string; body: string 
     });
   }
   
-  // If no features were parsed, try a different approach - split by double newline
-  if (items.length === 0 && cleanText.includes('\n\n')) {
+  // If no features were parsed, try alternative approach
+  if (items.length === 0 && cleanText) {
     const sections = cleanText.split(/\n\s*\n/);
     for (const section of sections) {
       const lines2 = section.split('\n').filter(Boolean);
@@ -158,20 +217,47 @@ function parseCaseStudies(text: string | undefined): { title: string; body: stri
   if (!text) return [];
   
   const studies: { title: string; body: string; metric?: string }[] = [];
-  const parts = text.split('Case Study').filter(Boolean);
+  
+  // Split by "Case Study" pattern
+  const parts = text.split(/Case Study\s*\d*:?\s*/i).filter(Boolean);
+  
+  if (parts.length === 0) {
+    // Try splitting by numbered patterns
+    const numberedParts = text.split(/\d+\.\s+/).filter(Boolean);
+    if (numberedParts.length > 0) {
+      numberedParts.forEach((part, index) => {
+        const lines = part.split('\n').filter(Boolean);
+        const firstLine = lines[0] || '';
+        const body = lines.slice(1).join(' ').trim();
+        const metricMatch = body.match(/(\d+%|\+\d+x|\$\d+[MBK])/);
+        
+        studies.push({
+          title: `Case Study ${index + 1}: ${firstLine.substring(0, 50)}...`,
+          body: firstLine + (body ? ' ' + body : ''),
+          metric: metricMatch ? metricMatch[1] : undefined,
+        });
+      });
+      return studies;
+    }
+    return studies;
+  }
   
   parts.forEach((part, index) => {
     const lines = part.split('\n').filter(Boolean);
     const firstLine = lines[0] || '';
-    const titleMatch = firstLine.match(/^(\d+):\s*(.+)/);
-    const title = titleMatch ? titleMatch[2] : firstLine;
     const body = lines.slice(1).join(' ').trim();
     
-    const metricMatch = body.match(/(\d+%|\+\d+x|\$\d+[MB])/);
+    let title = firstLine;
+    title = title.replace(/^(Case Study|Case)\s*\d*:?\s*/i, '');
+    if (title.length > 100) {
+      title = title.substring(0, 100) + '...';
+    }
+    
+    const metricMatch = body.match(/(\d+%|\+\d+x|\$\d+[MBK])/);
     
     studies.push({
       title: title || `Case Study ${index + 1}`,
-      body: body || firstLine,
+      body: firstLine + (body ? ' ' + body : ''),
       metric: metricMatch ? metricMatch[1] : undefined,
     });
   });
@@ -183,12 +269,18 @@ function parseCaseStudies(text: string | undefined): { title: string; body: stri
 // 4. MAIN PAGE COMPONENT (Server)
 // ============================================
 
-export default async function LocationPage({ 
+export default async function ServiceLocationPage({ 
   params 
 }: { 
-  params: Promise<{ slugs: string[] }> 
+  params: Promise<{ services: string; slugs: string[] }> 
 }) {
-  const { slugs } = await params;
+  const { services, slugs } = await params;
+  
+  // Check if services exists
+  if (!services) {
+    notFound();
+  }
+  
   const slug = `/${slugs.join('/')}/`;
   const location = getLocationBySlug(slug);
   
@@ -201,9 +293,10 @@ export default async function LocationPage({
   const caseStudies = parseCaseStudies(location.caseStudies);
   const faqs = location.faqs || [];
 
-  const serviceName = slugs[0]?.split('-').map(word => 
+  // Use 'services' parameter to get the service name
+  const serviceName = services.split('-').map(word => 
     word.charAt(0).toUpperCase() + word.slice(1)
-  ).join(' ') || '';
+  ).join(' ');
   const cityName = location.city || '';
 
   return (

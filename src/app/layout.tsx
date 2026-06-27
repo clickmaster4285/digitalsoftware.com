@@ -5,7 +5,11 @@ import { Providers } from "./providers";
 import { Navbar } from "@/components/site/Navbar";
 import Footer from "@/components/site/Footer";
 
-const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
+const inter = Inter({
+  subsets: ["latin"],
+  variable: "--font-inter",
+});
+
 const instrumentSerif = Instrument_Serif({
   subsets: ["latin"],
   variable: "--font-instrument-serif",
@@ -14,15 +18,25 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://clickmastersdigitalmarketing.com'),
+  metadataBase: new URL("https://clickmastersdigitalmarketing.com"),
+
   title: {
-    default: "Award-Winning Digital Marketing Agency in United States | ClickMasters",
+    default:
+      "Award-Winning Digital Marketing Agency in United States | ClickMasters",
     template: "%s | ClickMasters",
   },
-  description: "Your full-service digital marketing agency for SEO, PPC, web design & performance marketing.",
-  alternates: {
-    canonical: "/",           // Relative is best with metadataBase
+
+  description:
+    "Your full-service digital marketing agency for SEO, PPC, web design & performance marketing.",
+
+  verification: {
+    google: "kb6Id5erVP_g44Qk5TI9pTr_9XP5UvANRYm4eNrbq6E",
   },
+
+  alternates: {
+    canonical: "/",
+  },
+
   robots: {
     index: true,
     follow: true,
@@ -61,7 +75,10 @@ export default function RootLayout({
         />
       </head>
 
-      <body suppressHydrationWarning className={`${inter.variable} ${instrumentSerif.variable} font-sans`}>
+      <body
+        suppressHydrationWarning
+        className={`${inter.variable} ${instrumentSerif.variable} font-sans`}
+      >
         <noscript>
           <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-PQRV6WJ8"
@@ -72,9 +89,13 @@ export default function RootLayout({
         </noscript>
 
         <Navbar />
+
         <Providers>
-          <div className="relative w-full overflow-x-clip">{children}</div>
+          <div className="relative w-full overflow-x-clip">
+            {children}
+          </div>
         </Providers>
+
         <Footer />
       </body>
     </html>
