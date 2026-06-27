@@ -6,7 +6,7 @@ import {
   getServiceNames, // Import this from your combined index
 } from '@/content/location/combined-location-index';
 import type { Metadata } from 'next';
-import LocationClient from './LocationClient';
+import LocationClient from '@/components/locations/LocationClient';
 
 // ============================================
 // 1. GENERATE STATIC PARAMS
