@@ -6,7 +6,7 @@
 
 export const GoogleAds_Austin = {
   service: "GoogleAds",
-  serviceSlug: "google-ads",
+  serviceSlug: "google-ads-management",
   city: "Austin",
   citySlug: "austin",
   slug: "/google-ads-management-austin/",
