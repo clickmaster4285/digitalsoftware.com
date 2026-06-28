@@ -138,15 +138,10 @@ export const getLocationByServiceSubServicePath = (
     return location;
   }
 
-  // Extra safety: Check common service keywords
+  // Extra safety: Check normalized forms of the requested route parts only
   const commonChecks = [
     subServicePart.replace(/-/g, ''),
     servicePart.replace(/-/g, ''),
-    'emailmarketing',
-    'googleads',
-    'ppc',
-    'webdesign',
-    'webdevelopment'
   ];
 
   for (const check of commonChecks) {
@@ -190,14 +185,10 @@ export const getLocationByServicePath = (
     return location;
   }
 
-  // Extra safety: Check common service keywords
+  // Extra safety: Check normalized forms of the requested route parts only
   const commonChecks = [
     subServicePart.replace(/-/g, ''),
     servicePart.replace(/-/g, ''),
-    'content-marketing',
-    'seo-services',
-    'social-media-marketing',
-   
   ];
 
   for (const check of commonChecks) {
