@@ -4,6 +4,7 @@ import {
   getAllSlugs, 
   getLocationBySlug,
   getServiceNames,
+  getLocationByServiceSubServicePath,
 } from '@/content/location/combined-location-index';
 import type { Metadata } from 'next';
 import LocationClient from '@/components/locations/LocationClient';
@@ -15,59 +16,28 @@ export async function generateStaticParams() {
   const allSlugs = getAllSlugs();
   const paths: { services: string; slug: string; slugs: string[] }[] = [];
 
-  for (const slug of allSlugs) {
-    const location = getLocationBySlug(slug);
+  for (const fullSlug of allSlugs) {
+    const location = getLocationBySlug(fullSlug);
     if (!location) continue;
 
-    // Get the manually assigned service slug from location data
-    const serviceSlug = (location as any).serviceSlug as string | undefined;
-    const cleanSlug = slug.replace(/^\/|\/$/g, '');
+    const cleanSlug = fullSlug.replace(/^\/|\/$/g, '');
     const slugParts = cleanSlug.split('/').filter(Boolean);
-    const parts = slugParts.length > 0 ? slugParts : [cleanSlug];
-    
-    if (serviceSlug) {
-      // Manual mapping: use the serviceSlug from location data
-      paths.push({
-        services: serviceSlug,  // e.g., "content-marketing"
-        slug: serviceSlug,      // e.g., "email-marketing"
-        slugs: parts,           // e.g., ["email-marketing-albuquerque"]
-      });
-    } else {
-      // Fallback: generate all combinations
-      let services: string[] = [];
-      try {
-        const serviceNames = getServiceNames();
-        if (serviceNames && serviceNames.length > 0) {
-          services = serviceNames;
-        }
-      } catch (error) {
-        console.warn('Could not get service names from index, using fallback');
-      }
 
-      if (services.length === 0) {
-        services = [
-          'content-marketing',
-          'digital-marketing',
-          'seo',
-          'web-design',
-          'email-marketing',
-          'social-media',
-          'google-ads',
-          'local-seo',
-          'ppc-management',
-          'pay-per-click-ppc',
-          'ecommerce-marketing'
-        ];
-      }
+    // Try to detect service from the slug itself
+    let detectedService = 'content-marketing'; // fallback
 
-      for (const service of services) {
-        paths.push({
-          services: service,
-          slug: service,
-          slugs: parts,
-        });
-      }
-    }
+    if (fullSlug.includes('email-marketing')) detectedService = 'email-marketing';
+    else if (fullSlug.includes('google-ads-management')) detectedService = 'google-ads-management';
+    else if (fullSlug.includes('ppc-management')) detectedService = 'ppc-management';
+    else if (fullSlug.includes('web-design')) detectedService = 'web-design';
+    else if (fullSlug.includes('web-development')) detectedService = 'web-development';
+    else if (fullSlug.includes('digital-marketing')) detectedService = 'digital-marketing';
+
+    paths.push({
+      services: detectedService,
+      slug: detectedService,
+      slugs: slugParts,
+    });
   }
 
   // Remove duplicates
@@ -75,6 +45,7 @@ export async function generateStaticParams() {
     new Set(paths.map(p => JSON.stringify(p)))
   ).map(p => JSON.parse(p));
 
+  console.log(`Generated ${uniquePaths.length} static paths`);
   return uniquePaths;
 }
 
@@ -89,21 +60,16 @@ export async function generateMetadata({
   const { services, slug, slugs } = await params;
   
   if (!services || !slug) {
-    return {
-      title: 'Service Not Found',
-    };
+    return { title: 'Service Not Found' };
   }
   
   const locationSlug = `/${slugs.join('/')}/`;
-  const location = getLocationBySlug(locationSlug);
+  const location = getLocationByServiceSubServicePath(services, slug, locationSlug); // ← Use smart filter
   
   if (!location) {
-    return {
-      title: 'Location Not Found',
-    };
+    return { title: 'Location Not Found' };
   }
 
-  // Use 'slug' param for display name (the 2nd URL segment)
   const serviceName = slug.split('-').map(word => 
     word.charAt(0).toUpperCase() + word.slice(1)
   ).join(' ');
@@ -119,7 +85,7 @@ export async function generateMetadata({
       title: seoTitle,
       description: metaDesc,
       type: 'website',
-      url: `https://clickmastersdigitalmarketing.com/${services}/${slug}/location/${locationSlug}`,
+      url: `https://clickmastersdigitalmarketing.com/${services}/${slug}/location${locationSlug}`,
     },
     alternates: {
       canonical: `https://clickmastersdigitalmarketing.com/${services}/${slug}/location${locationSlug}`,
@@ -265,14 +231,19 @@ export default async function ServiceLocationPage({
 }: { 
   params: Promise<{ services: string; slug: string; slugs: string[] }> 
 }) {
-  const { services, slug, slugs } = await params;
+ const { services, slug, slugs } = await params;
   
+ console.log(`Params received: services=${services}, slug=${slug}, slugs=${slugs.join(', ')}`);
+
+ 
   if (!services || !slug) {
     notFound();
   }
   
   const locationSlug = `/${slugs.join('/')}/`;
-  const location = getLocationBySlug(locationSlug);
+  
+  // Use the smart filter here
+  const location = getLocationByServiceSubServicePath(services, slug, locationSlug);
   
   if (!location) {
     notFound();
@@ -283,10 +254,10 @@ export default async function ServiceLocationPage({
   const caseStudies = parseCaseStudies(location.caseStudies);
   const faqs = location.faqs || [];
 
-  // Use 'slug' param for display name (the 2nd URL segment)
   const serviceName = slug.split('-').map(word => 
     word.charAt(0).toUpperCase() + word.slice(1)
   ).join(' ');
+  
   const cityName = location.city || '';
 
   return (

@@ -1,20 +1,33 @@
 import { notFound } from 'next/navigation';
 import { 
-  getAllSlugs, 
-  getLocationBySlug,
+  getServiceLocationSlugs,        // ← New
+  getDigitalMarketingLocationBySlug 
 } from '@/content/location/combined-location-index';
+
 import type { Metadata } from 'next';
 import LocationClient from '@/components/locations/LocationClient';
+import { validateUrl, checkUrl } from '@/lib/urlMappings';
 
 // ============================================
-// 1. GENERATE STATIC PARAMS
+// 1. GENERATE STATIC PARAMS — DIGITAL MARKETING ONLY
 // ============================================
 export async function generateStaticParams() {
-  const slugs = getAllSlugs();
-  return slugs.map((slug) => ({
+  const digitalSlugs = getServiceLocationSlugs('DigitalMarketing');
+
+  console.log(`🚀 Generating ${digitalSlugs.length} Digital Marketing static pages`);
+
+  return digitalSlugs.map((slug: string) => ({
     slugs: slug.split('/').filter(Boolean),
   }));
 }
+
+
+
+
+
+
+
+
 
 // ============================================
 // 2. GENERATE METADATA
@@ -25,8 +38,9 @@ export async function generateMetadata({
   params: Promise<{ slugs: string[] }> 
 }): Promise<Metadata> {
   const { slugs } = await params;
-  const slug = `/${slugs.join('/')}/`;
-  const location = getLocationBySlug(slug);
+  const slugPath = `/${slugs.join('/')}/`;
+
+  const location = getDigitalMarketingLocationBySlug(slugPath);
   
   if (!location) {
     return {
@@ -34,13 +48,13 @@ export async function generateMetadata({
     };
   }
 
-  const serviceName = slugs[0]?.split('-').map(word => 
-    word.charAt(0).toUpperCase() + word.slice(1)
-  ).join(' ') || '';
-  
-  const cityName = location.city || '';
+  const urlCheck = checkUrl(slugPath);
+
+  const serviceName = "Digital Marketing";
+  const cityName = urlCheck.city || location.city || '';
+
   const seoTitle = location.seoTitle || `${serviceName} in ${cityName} | Clickmasters`;
-  const metaDesc = location.meta || `Professional ${serviceName} services in ${cityName}`;
+  const metaDesc = location.meta || `Professional Digital Marketing services in ${cityName}`;
 
   return {
     title: seoTitle,
@@ -49,10 +63,10 @@ export async function generateMetadata({
       title: seoTitle,
       description: metaDesc,
       type: 'website',
-      url: `https://clickmastersdigitalmarketing.com/locations/${slug}`,
+      url: `https://clickmastersdigitalmarketing.com/locations${slugPath}`,
     },
     alternates: {
-      canonical: `https://clickmastersdigitalmarketing.com/locations${slug}`,
+      canonical: `https://clickmastersdigitalmarketing.com/locations${slugPath}`,
     },
   };
 }
@@ -183,28 +197,34 @@ function parseCaseStudies(text: string | undefined): { title: string; body: stri
 // 4. MAIN PAGE COMPONENT (Server)
 // ============================================
 
+// ============================================
+// 4. MAIN PAGE COMPONENT (Server)
+// ============================================
+
 export default async function LocationPage({ 
   params 
 }: { 
   params: Promise<{ slugs: string[] }> 
 }) {
-  const { slugs } = await params;
-  const slug = `/${slugs.join('/')}/`;
-  const location = getLocationBySlug(slug);
-  
+ const { slugs } = await params;
+  const slugPath = `/${slugs.join('/')}/`;
+
+  // Only allow Digital Marketing pages
+  const location = getDigitalMarketingLocationBySlug(slugPath);
+
   if (!location) {
-    notFound();
+    notFound();   
   }
+
+  const urlCheck = checkUrl(slugPath);
 
   const geoParagraphs = parseGeoBlock(location.geoAeoBlock);
   const features = parseFeatures(location.features);
   const caseStudies = parseCaseStudies(location.caseStudies);
   const faqs = location.faqs || [];
 
-  const serviceName = slugs[0]?.split('-').map(word => 
-    word.charAt(0).toUpperCase() + word.slice(1)
-  ).join(' ') || '';
-  const cityName = location.city || '';
+  const serviceName = "Digital Marketing";
+  const cityName = urlCheck.city || location.city || '';
 
   return (
     <LocationClient

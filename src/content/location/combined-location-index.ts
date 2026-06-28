@@ -20,7 +20,49 @@ import {
 } from './all-locations';
 
 // ============================================
-// COMBINED HELPER FUNCTIONS
+// DIGITAL MARKETING SPECIFIC HELPERS
+// ============================================
+
+/**
+ * Get ONLY Digital Marketing location by slug
+ */
+export const getDigitalMarketingLocationBySlug = (slug: string): any => {
+  // Check US first
+  const usLocation = getUSLocation(slug);
+  if (usLocation && slug.toLowerCase().includes('digital-marketing')) {
+    return usLocation;
+  }
+
+  // Then check International
+  const internationalLocation = getInternationalLocation(slug);
+  if (internationalLocation && slug.toLowerCase().includes('digital-marketing')) {
+    return internationalLocation;
+  }
+
+  return null;
+};
+
+/**
+ * Get all Digital Marketing slugs (US + International)
+ */
+export const getServiceLocationSlugs = (service: string = 'DigitalMarketing'): string[] => {
+  const normalized = service.toLowerCase().replace(/([A-Z])/g, '-$1').toLowerCase();
+
+  const usSlugs = getUSSlugs().filter((slug: string) => 
+    slug.toLowerCase().includes(normalized)
+  );
+  
+  const internationalSlugs = getInternationalSlugs().filter((slug: string) => 
+    slug.toLowerCase().includes(normalized)
+  );
+
+  console.log(`✅ ${service} - US: ${usSlugs.length} | International: ${internationalSlugs.length}`);
+
+  return [...usSlugs, ...internationalSlugs];
+};
+
+// ============================================
+// EXISTING COMBINED FUNCTIONS (keep these)
 // ============================================
 
 // Get all slugs (US + International)
@@ -32,11 +74,9 @@ export const getAllSlugs = () => {
 
 // Get location by slug (checks both US and International)
 export const getLocationBySlug = (slug: string) => {
-  // Check US locations first
   const usLocation = getUSLocation(slug);
   if (usLocation) return usLocation;
   
-  // Then check international locations
   const internationalLocation = getInternationalLocation(slug);
   if (internationalLocation) return internationalLocation;
   
@@ -66,52 +106,116 @@ export const getServiceNames = () => {
   return Array.from(combined);
 };
 
-// Helper: Get all location data (all slugs with their data)
-export const getAllLocationData = () => {
-  const slugs = getAllSlugs();
-  const locationData: { [key: string]: any } = {};
+
+
+/**
+ * SMART FILTER: Check if the URL service matches the actual location service
+ * Returns location only if it matches, otherwise null (for 404)
+ */
+export const getLocationByServiceSubServicePath = (
+  services: string,      // e.g. "content-marketing" or "pay-per-click-ppc"
+  slug: string,          // e.g. "email-marketing" or "google-ads-management"
+  locationSlug: string   // full slug like "/email-marketing-albuquerque/"
+): any => {
   
-  slugs.forEach(slug => {
-    const data = getLocationBySlug(slug);
-    if (data) {
-      locationData[slug] = data;
+  const fullPath = locationSlug.toLowerCase();
+  const servicePart = services.toLowerCase();
+  const subServicePart = slug.toLowerCase();
+
+  // Get the location first
+  const location = getLocationBySlug(locationSlug);
+  if (!location) return null;
+
+  // Check if the URL path matches the slug content
+  const slugLower = locationSlug.toLowerCase();
+
+  // Strong matching logic
+  if (
+    slugLower.includes(subServicePart) || 
+    slugLower.includes(servicePart) ||
+    fullPath.includes(subServicePart)
+  ) {
+    return location;
+  }
+
+  // Extra safety: Check common service keywords
+  const commonChecks = [
+    subServicePart.replace(/-/g, ''),
+    servicePart.replace(/-/g, ''),
+    'emailmarketing',
+    'googleads',
+    'ppc',
+    'webdesign',
+    'webdevelopment'
+  ];
+
+  for (const check of commonChecks) {
+    if (slugLower.includes(check)) {
+      return location;
     }
-  });
-  
-  return locationData;
+  }
+
+  // If none matched → wrong service in URL
+  console.warn(`❌ Service mismatch: ${services}/${slug} for slug ${locationSlug}`);
+  return null;
 };
 
-// Helper: Get locations by city
-export const getLocationsByCity = (city: string) => {
-  const allSlugs = getAllSlugs();
-  const cityLocations: { [key: string]: any } = {};
+
+
+
+
+export const getLocationByServicePath = (
+  services: string,      // e.g. "content-marketing" or "pay-per-click-ppc"
+  slug: string,          // e.g. "email-marketing" or "google-ads-management"
+  locationSlug: string   // full slug like "/email-marketing-albuquerque/"
+): any => {
   
-  allSlugs.forEach(slug => {
-    // Check if slug contains the city name (case insensitive)
-    if (slug.toLowerCase().includes(city.toLowerCase())) {
-      const data = getLocationBySlug(slug);
-      if (data) {
-        cityLocations[slug] = data;
-      }
+  const fullPath = locationSlug.toLowerCase();
+  const servicePart = services.toLowerCase();
+  const subServicePart = slug.toLowerCase();
+
+  // Get the location first
+  const location = getLocationBySlug(locationSlug);
+  if (!location) return null;
+
+  // Check if the URL path matches the slug content
+  const slugLower = locationSlug.toLowerCase();
+
+  // Strong matching logic
+  if (
+    slugLower.includes(subServicePart) || 
+    slugLower.includes(servicePart) ||
+    fullPath.includes(subServicePart)
+  ) {
+    return location;
+  }
+
+  // Extra safety: Check common service keywords
+  const commonChecks = [
+    subServicePart.replace(/-/g, ''),
+    servicePart.replace(/-/g, ''),
+    'content-marketing',
+    'seo-services',
+    'social-media-marketing',
+   
+  ];
+
+  for (const check of commonChecks) {
+    if (slugLower.includes(check)) {
+      return location;
     }
-  });
-  
-  return cityLocations;
+  }
+
+  // If none matched → wrong service in URL
+  console.warn(`❌ Service mismatch: ${services}/${slug} for slug ${locationSlug}`);
+  return null;
 };
 
-// Helper: Get unique cities by service
-export const getCitiesByService = (service: string) => {
-  const locations = getLocationsByService(service);
-  const cities = new Set<string>();
-  
-  locations.forEach(location => {
-    if (location && location.city) {
-      cities.add(location.city);
-    }
-  });
-  
-  return Array.from(cities);
-};
+
+
+
+
+
 
 // ============================================
 // DEFAULT EXPORT
@@ -120,10 +224,11 @@ export const getCitiesByService = (service: string) => {
 export default {
   getAllSlugs,
   getLocationBySlug,
+  getLocationByServicePath,
+  getLocationByServiceSubServicePath,
+  getDigitalMarketingLocationBySlug,   // ← NEW
+  getServiceLocationSlugs,             // ← NEW
   getAllCities,
   getLocationsByService,
   getServiceNames,
-  getAllLocationData,
-  getLocationsByCity,
-  getCitiesByService
 };

@@ -4,6 +4,7 @@ import {
   getAllSlugs, 
   getLocationBySlug,
   getServiceNames, // Import this from your combined index
+  getLocationByServicePath,
 } from '@/content/location/combined-location-index';
 import type { Metadata } from 'next';
 import LocationClient from '@/components/locations/LocationClient';
@@ -13,110 +14,70 @@ import LocationClient from '@/components/locations/LocationClient';
 // ============================================
 export async function generateStaticParams() {
   const allSlugs = getAllSlugs();
-  
-  // Get service names from your combined index
-  // This function should already exist in your combined-location-index
-  let services: string[] = [];
-  
-  try {
-    // Try to get services from your index
-    const serviceNames = getServiceNames();
-    if (serviceNames && serviceNames.length > 0) {
-      services = serviceNames;
-    }
-  } catch (error) {
-    console.warn('Could not get service names from index, using fallback');
-  }
-  
-  // Fallback: Extract from slugs if no services found
-  if (services.length === 0) {
-    const serviceSet = new Set<string>();
-    for (const slug of allSlugs) {
-      // Extract service from slug pattern: /content-marketing-albuquerque/
-      const cleanSlug = slug.replace(/^\/|\/$/g, '');
-      const parts = cleanSlug.split('-');
-      // Check if it matches pattern: service-city
-      if (parts.length >= 2) {
-        // Try to find the service part
-        const possibleService = parts.slice(0, -1).join('-');
-        serviceSet.add(possibleService);
-      }
-    }
-    services = Array.from(serviceSet);
-  }
-  
-  // Additional fallback: Common services
-  if (services.length === 0) {
-    services = [
-      'content-marketing',
-      'digital-marketing',
-      'seo',
-      'web-design',
-      'email-marketing',
-      'social-media',
-      'google-ads-management',
-      'local-seo',
-      'ppc-management',
-      'ecommerce-marketing'
-    ];
-  }
-  
-  const paths = [];
-  for (const service of services) {
+
+  // These are the actual route names
+  const allowedServices = [
+    'content-marketing',
+    'search-engine-optimization',
+    'social-media-marketing',
+  ];
+
+  const paths: { services: string; slugs: string[] }[] = [];
+
+  for (const service of allowedServices) {
     for (const slug of allSlugs) {
       const cleanSlug = slug.replace(/^\/|\/$/g, '');
       const slugParts = cleanSlug.split('/').filter(Boolean);
-      
-      // If slugParts is empty, use the slug itself
-      const parts = slugParts.length > 0 ? slugParts : [cleanSlug];
-      
+
       paths.push({
         services: service,
-        slugs: parts,
+        slugs: slugParts,
       });
     }
   }
-  
-  // Remove duplicates
-  const uniquePaths = Array.from(
-    new Set(paths.map(p => JSON.stringify(p)))
-  ).map(p => JSON.parse(p));
-  
-  return uniquePaths;
+
+  return Array.from(
+    new Set(paths.map((p) => JSON.stringify(p)))
+  ).map((p) => JSON.parse(p));
 }
 
 // ============================================
 // 2. GENERATE METADATA
 // ============================================
-export async function generateMetadata({ 
-  params 
-}: { 
-  params: Promise<{ services: string; slugs: string[] }> 
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ services: string; slugs: string[] }>;
 }): Promise<Metadata> {
   const { services, slugs } = await params;
-  
-  if (!services) {
-    return {
-      title: 'Service Not Found',
-    };
-  }
-  
-  const slug = `/${slugs.join('/')}/`;
-  const location = getLocationBySlug(slug);
-  
-  if (!location) {
-    return {
-      title: 'Location Not Found',
-    };
+
+  if (!services || !slugs?.length) {
+    return { title: "Service Not Found" };
   }
 
-  const serviceName = services.split('-').map(word => 
-    word.charAt(0).toUpperCase() + word.slice(1)
-  ).join(' ');
-  
-  const cityName = location.city || '';
-  const seoTitle = location.seoTitle || `${serviceName} in ${cityName} | Clickmasters`;
-  const metaDesc = location.meta || `Professional ${serviceName} services in ${cityName}`;
+  const locationSlug = `/${slugs.join("/")}/`;
+  const location = getLocationBySlug(locationSlug);
+
+  if (!location) {
+    return { title: "Location Not Found" };
+  }
+
+  const serviceName = services
+    .split("-")
+    .map(
+      (word) => word.charAt(0).toUpperCase() + word.slice(1)
+    )
+    .join(" ");
+
+  const cityName = location.city || "";
+
+  const seoTitle =
+    location.seoTitle ||
+    `${serviceName} in ${cityName} | Clickmasters`;
+
+  const metaDesc =
+    location.meta ||
+    `Professional ${serviceName} services in ${cityName}`;
 
   return {
     title: seoTitle,
@@ -124,11 +85,11 @@ export async function generateMetadata({
     openGraph: {
       title: seoTitle,
       description: metaDesc,
-      type: 'website',
-      url: `https://clickmastersdigitalmarketing.com/${services}/locations/${slug}`,
+      type: "website",
+      url: `https://clickmastersdigitalmarketing.com/${services}/locations${locationSlug}`,
     },
     alternates: {
-      canonical: `https://clickmastersdigitalmarketing.com/${services}/locations${slug}`,
+      canonical: `https://clickmastersdigitalmarketing.com/${services}/locations${locationSlug}`,
     },
   };
 }
@@ -269,22 +230,48 @@ function parseCaseStudies(text: string | undefined): { title: string; body: stri
 // 4. MAIN PAGE COMPONENT (Server)
 // ============================================
 
-export default async function ServiceLocationPage({ 
-  params 
-}: { 
-  params: Promise<{ services: string; slugs: string[] }> 
+export default async function ServiceLocationPage({
+  params,
+}: {
+  params: Promise<{ services: string; slugs: string[] }>;
 }) {
   const { services, slugs } = await params;
-  
-  // Check if services exists
-  if (!services) {
+
+  console.log("services:", services);
+  console.log("slugs:", slugs);
+
+  // Route names only
+  const allowedServices = [
+    "content-marketing",
+    "search-engine-optimization",
+    "social-media-marketing",
+  ];
+
+  // Validate service route
+  if (!allowedServices.includes(services.toLowerCase())) {
+    console.log("❌ Invalid service:", services);
     notFound();
   }
-  
-  const slug = `/${slugs.join('/')}/`;
-  const location = getLocationBySlug(slug);
-  
+
+  // Ensure a location slug exists
+  if (!slugs || slugs.length === 0) {
+    console.log("❌ No slug found");
+    notFound();
+  }
+
+  // Example:
+  // slugs = ["seo-services-abu-dhabi"]
+  const locationSlug = `/${slugs.join("/")}/`;
+
+  console.log("Looking for location:", locationSlug);
+
+  // Simplest lookup
+  const location = getLocationBySlug(locationSlug);
+
+  console.log("Found location:", location);
+
   if (!location) {
+    console.log("❌ Location not found:", locationSlug);
     notFound();
   }
 
@@ -293,11 +280,14 @@ export default async function ServiceLocationPage({
   const caseStudies = parseCaseStudies(location.caseStudies);
   const faqs = location.faqs || [];
 
-  // Use 'services' parameter to get the service name
-  const serviceName = services.split('-').map(word => 
-    word.charAt(0).toUpperCase() + word.slice(1)
-  ).join(' ');
-  const cityName = location.city || '';
+  const serviceName = services
+    .split("-")
+    .map(
+      (word) => word.charAt(0).toUpperCase() + word.slice(1)
+    )
+    .join(" ");
+
+  const cityName = location.city || "";
 
   return (
     <LocationClient
