@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Sacramento.xlsx
 // Service: WebDesign
 // City: Sacramento
-// URL: /web-design-agency-sacramento/
+// URL: /web-design-sacramento/
 // Generated: 2026-06-20T06:13:03.998Z
 
 export const WebDesign_Sacramento = {
@@ -9,14 +9,14 @@ export const WebDesign_Sacramento = {
   serviceSlug: "web-design",
   city: "Sacramento",
   citySlug: "sacramento",
-  slug: "/web-design-agency-sacramento/",
+  slug: "/web-design-sacramento/",
   
   h1: `Web Design Agency Sacramento — California State Government Credibility, CalPERS FINRA Institutional, and UC Davis Health YMYL HIPAA CCPA`,
   primaryKw: `web design agency sacramento`,
   formula: `FAB — CA state government IT vendor institutional credibility + CalPERS/CalSTRS FINRA-compliant institutional investment quality + UC Davis Health YMYL HIPAA CCPA + Intel Folsom enterprise quality + authentic Sacramento Midtown/Land Park/Oak Park identity`,
   seoTitle: `Web Design Agency Sacramento | CA State Government Credibility & CalPERS FINRA | Clickmasters`,
   meta: `Clickmasters web design in Sacramento. California state government IT vendor credibility, CalPERS/CalSTRS FINRA-compliant institutional quality, and UC Davis Health YMYL HIPAA CCPA design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Sacramento Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-sacramento/","address":{"@type":"PostalAddress","addressLocality":"Sacramento","addressRegion":"CA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Sacramento Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-sacramento/","address":{"@type":"PostalAddress","addressLocality":"Sacramento","addressRegion":"CA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN SACRAMENTO?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | UC Davis NCI: cited | HIPAA/CCPA: California AG pre-aud
 
 Phone +1-888-555-CLICK | sacramento@clickmastersdigitalmarketing.com
 Folsom, Roseville, Elk Grove, Midtown, and all of Greater Sacramento`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-sacramento/","/seo-services-sacramento/","/web-design-agency-san-diego/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-sacramento/","/seo-services-sacramento/","/web-design-san-diego/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-sacramento/`, status: false },
+      url: { requirement: `Exact: /web-design-sacramento/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

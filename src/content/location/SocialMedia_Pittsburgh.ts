@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.2% | Lawrenceville community
 
 Phone +1-888-555-CLICK | pittsburgh@clickmastersdigitalmarketing.com
 Lawrenceville, South Side, Squirrel Hill, Shadyside, and all of Greater Pittsburgh`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-pittsburgh/","/seo-services-pittsburgh/","/social-media-marketing-cleveland/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-pittsburgh/","/seo-services-pittsburgh/","/social-media-marketing-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {

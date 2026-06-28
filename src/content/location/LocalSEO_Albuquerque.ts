@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Rio Rancho semiconductor | Intel community 
 
 Phone +1-888-555-CLICK | albuquerque@clickmastersdigitalmarketing.com
 Nob Hill, Northeast Heights, Rio Rancho, Corrales, and all of Greater Albuquerque`,
-  internalLinks: ["/local-seo-services/","/seo-services-albuquerque/","/digital-marketing-agency-in-albuquerque/","/local-seo-services-denver/"],
+  internalLinks: ["/local-seo-services/","/seo-services-albuquerque/","/digital-marketing-agency-albuquerque/","/local-seo-services-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

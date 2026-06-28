@@ -92,7 +92,7 @@ Results (5 months): Birmingham community engagement: 3.8x above generic | Alabam
 
 Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
 Five Points South, Crestline, Mountain Brook, Hoover, and all of Greater Birmingham`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-birmingham/","/seo-services-birmingham/","/social-media-marketing-huntsville/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-birmingham/","/seo-services-birmingham/","/social-media-marketing-huntsville/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Omaha investment consulting | Berkshire com
 
 Phone +1-888-555-CLICK | omaha@clickmastersdigitalmarketing.com
 Dundee, Aksarben, West Omaha, Bellevue, and all of Greater Omaha`,
-  internalLinks: ["/local-seo-services/","/seo-services-omaha/","/digital-marketing-agency-in-omaha/","/local-seo-services-kansas-city/"],
+  internalLinks: ["/local-seo-services/","/seo-services-omaha/","/digital-marketing-agency-omaha/","/local-seo-services-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

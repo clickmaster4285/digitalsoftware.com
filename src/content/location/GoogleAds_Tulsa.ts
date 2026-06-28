@@ -94,7 +94,7 @@ Results: HIPAA: clean | Saint Francis CPL: \$110 vs \$290 generic | New patients
 
 Phone +1-888-555-CLICK | tulsa@clickmastersdigitalmarketing.com
 Broken Arrow, Owasso, Bixby, and all of Greater Tulsa`,
-  internalLinks: ["/digital-marketing-agency-in-tulsa/","/seo-services-tulsa/","/google-ads-management-services/","/google-ads-management-oklahoma-city/"],
+  internalLinks: ["/digital-marketing-agency-tulsa/","/seo-services-tulsa/","/google-ads-management-services/","/google-ads-management-oklahoma-city/"],
   
   publishingChecklist: {
     onPageSeo: {

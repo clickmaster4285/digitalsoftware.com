@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Birmingham.xlsx
 // Service: WebDesign
 // City: Birmingham
-// URL: /web-design-agency-birmingham/
+// URL: /web-design-birmingham/
 // Generated: 2026-06-20T06:13:03.464Z
 
 export const WebDesign_Birmingham = {
@@ -9,14 +9,14 @@ export const WebDesign_Birmingham = {
   serviceSlug: "web-design",
   city: "Birmingham",
   citySlug: "birmingham",
-  slug: "/web-design-agency-birmingham/",
+  slug: "/web-design-birmingham/",
   
   h1: `Web Design Agency Birmingham — Regions Financial FINRA Institutional, UAB World-Class NCI YMYL HIPAA, and Authentic Magic City Brand Design`,
   primaryKw: `web design agency birmingham`,
   formula: `FAB — Regions Financial FINRA/SEC commercial banking institutional vendor credibility + UAB NCI world-class YMYL HIPAA Alabama academic + Encompass Health rehabilitation + Blue Cross Alabama insurance institutional + authentic Birmingham Five Points South/Crestline/Cahaba Heights identity`,
   seoTitle: `Web Design Agency Birmingham | Regions Financial FINRA & UAB NCI World-Class YMYL | Clickmasters`,
   meta: `Clickmasters web design in Birmingham. Regions Financial FINRA institutional credibility, UAB NCI world-class YMYL HIPAA, Encompass Health rehabilitation, and authentic Five Points South/Crestline brand. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Birmingham Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-birmingham/","address":{"@type":"PostalAddress","addressLocality":"Birmingham","addressRegion":"AL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Birmingham Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-birmingham/","address":{"@type":"PostalAddress","addressLocality":"Birmingham","addressRegion":"AL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3400,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN BIRMINGHAM?
@@ -92,14 +92,14 @@ Results: Five Points positioning: visits +40% | Average order: +\$50 | Alabama m
 
 Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
 Hoover, Vestavia Hills, Mountain Brook, and all of Greater Birmingham`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-birmingham/","/seo-services-birmingham/","/web-design-agency-huntsville/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-birmingham/","/seo-services-birmingham/","/web-design-huntsville/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-birmingham/`, status: false },
+      url: { requirement: `Exact: /web-design-birmingham/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

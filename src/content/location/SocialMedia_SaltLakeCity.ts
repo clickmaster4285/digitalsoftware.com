@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.2% | SLC community editorial
 
 Phone +1-888-555-CLICK | saltlakecity@clickmastersdigitalmarketing.com
 Sugar House, Avenues, 9th & 9th, Lehi, and all of Greater Salt Lake City`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-salt-lake-city/","/seo-services-salt-lake-city/","/social-media-marketing-denver/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-salt-lake-city/","/seo-services-salt-lake-city/","/social-media-marketing-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

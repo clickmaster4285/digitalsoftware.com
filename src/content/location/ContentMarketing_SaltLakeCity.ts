@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 10 SLC healthcare queries | YMYL: E-E-A-T | U of
 
 Phone +1-888-555-CLICK | saltlakecity@clickmastersdigitalmarketing.com
 Sugar House, Avenues, 9th & 9th, Lehi, and all of Greater Salt Lake City`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-salt-lake-city/","/seo-services-salt-lake-city/","/content-marketing-denver/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-salt-lake-city/","/seo-services-salt-lake-city/","/content-marketing-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

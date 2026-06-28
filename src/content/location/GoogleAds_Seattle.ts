@@ -103,7 +103,7 @@ Q: Seattle vs SF Google Ads CPCs? A: 15-20% below SF for equivalent enterprise B
 Get Your Free Seattle Google Ads Audit: Phone +1-888-555-CLICK
 Email: seattle@clickmastersdigitalmarketing.com
 South Lake Union, Bellevue, Redmond, Kirkland, and all of Greater Seattle`,
-  internalLinks: ["/digital-marketing-agency-in-seattle/","/seo-services-seattle/","/google-ads-management-services/","/google-ads-management-san-francisco/","/industries/technology/","/industries/healthcare/"],
+  internalLinks: ["/digital-marketing-agency-seattle/","/seo-services-seattle/","/google-ads-management-services/","/google-ads-management-san-francisco/","/industries/technology/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -92,7 +92,7 @@ Results: Military onboarding: 3.8x above generic | Conversion within 90 days: 40
 
 Phone +1-888-555-CLICK | huntsville@clickmastersdigitalmarketing.com
 Madison, Cummings Research Park, Jones Valley, and all of Greater Huntsville`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-huntsville/","/seo-services-huntsville/","/email-marketing-birmingham/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-huntsville/","/seo-services-huntsville/","/email-marketing-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {

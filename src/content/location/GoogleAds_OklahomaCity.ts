@@ -94,7 +94,7 @@ Results: HIPAA: clean | INTEGRIS CPL: \$110 vs \$300 generic | New patients: +3x
 
 Phone +1-888-555-CLICK | oklahomacity@clickmastersdigitalmarketing.com
 Edmond, Norman, Midwest City, and all of Greater OKC`,
-  internalLinks: ["/digital-marketing-agency-in-oklahoma-city/","/seo-services-oklahoma-city/","/google-ads-management-services/","/google-ads-management-dallas/"],
+  internalLinks: ["/digital-marketing-agency-oklahoma-city/","/seo-services-oklahoma-city/","/google-ads-management-services/","/google-ads-management-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

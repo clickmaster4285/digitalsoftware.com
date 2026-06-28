@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-SanFrancisco.xlsx
 // Service: WebDesign
 // City: SanFrancisco
-// URL: /web-design-agency-san-francisco/
+// URL: /web-design-san-francisco/
 // Generated: 2026-06-20T06:13:04.043Z
 
 export const WebDesign_SanFrancisco = {
@@ -9,14 +9,14 @@ export const WebDesign_SanFrancisco = {
   serviceSlug: "web-design",
   city: "SanFrancisco",
   citySlug: "san-francisco",
-  slug: "/web-design-agency-san-francisco/",
+  slug: "/web-design-san-francisco/",
   
   h1: `Web Design Agency San Francisco — CCPA-Native, AI/ML-Technically-Credible Websites for the World's Technology Capital`,
   primaryKw: `web design agency san francisco`,
   formula: `FAB — Features (CCPA-native privacy architecture, AI/ML technical credibility, fintech PCI-DSS compliance, sub-1.3s LCP), Advantages (California legal protection + world-class technical credibility), Benefits (enterprise demos, Series B validation, fintech partnerships)`,
   seoTitle: `Web Design Agency San Francisco | CCPA-Native & AI/ML Credible | Clickmasters`,
   meta: `Clickmasters web design in San Francisco. CCPA-native privacy architecture, AI/ML technical credibility design, and fintech PCI-DSS compliance for Bay Area technology companies. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Francisco Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-san-francisco/","address":{"@type":"PostalAddress","addressLocality":"San Francisco","addressRegion":"CA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Francisco Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-san-francisco/","address":{"@type":"PostalAddress","addressLocality":"San Francisco","addressRegion":"CA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Web Design Services > San Francisco, CA`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN SAN FRANCISCO?
@@ -114,14 +114,14 @@ Q: What makes SF web design different from Seattle/Austin? A: AI/ML technical cr
 Get Your Free SF Website Audit: Phone +1-888-555-CLICK
 Email: sanfrancisco@clickmastersdigitalmarketing.com
 SOMA, Mission Bay, FiDi, Oakland, Palo Alto, and all of the Bay Area`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-san-francisco/","/seo-services-san-francisco/","/web-design-agency-los-angeles/","/industries/ai-machine-learning/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-san-francisco/","/seo-services-san-francisco/","/web-design-los-angeles/","/industries/ai-machine-learning/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-san-francisco/`, status: false },
+      url: { requirement: `Exact: /web-design-san-francisco/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

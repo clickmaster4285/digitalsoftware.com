@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Sacramento government tech | CA state IT ne
 
 Phone +1-888-555-CLICK | sacramento@clickmastersdigitalmarketing.com
 Folsom, East Sacramento, Land Park, Midtown, and all of Greater Sacramento`,
-  internalLinks: ["/local-seo-services/","/seo-services-sacramento/","/digital-marketing-agency-in-sacramento/","/local-seo-services-san-diego/"],
+  internalLinks: ["/local-seo-services/","/seo-services-sacramento/","/digital-marketing-agency-sacramento/","/local-seo-services-san-diego/"],
   
   publishingChecklist: {
     onPageSeo: {

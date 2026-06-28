@@ -92,7 +92,7 @@ Results (5 months): Derby season content: 4.4x above average | Bardstown Road ed
 
 Phone +1-888-555-CLICK | louisville@clickmastersdigitalmarketing.com
 Highlands, NuLu, Butchertown, St. Matthews, and all of Greater Louisville`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-louisville/","/seo-services-louisville/","/social-media-marketing-nashville/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-louisville/","/seo-services-louisville/","/social-media-marketing-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

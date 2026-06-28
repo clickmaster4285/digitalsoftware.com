@@ -99,7 +99,7 @@ Results: Newsletter engagement: 2.8x above generic legal | CA in-migration estat
 
 Phone +1-888-555-CLICK | lasvegas@clickmastersdigitalmarketing.com
 Henderson, Summerlin, North Las Vegas, and all of Greater Las Vegas`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-las-vegas/","/seo-services-las-vegas/","/email-marketing-phoenix/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-las-vegas/","/seo-services-las-vegas/","/email-marketing-phoenix/"],
   
   publishingChecklist: {
     onPageSeo: {

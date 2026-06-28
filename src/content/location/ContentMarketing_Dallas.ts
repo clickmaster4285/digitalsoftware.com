@@ -113,7 +113,7 @@ Q: How long does Dallas B2B content take for Fortune 500 results? A: First Fortu
 Get Your Free Dallas Content Marketing Audit: Phone +1-888-555-CLICK
 Email: dallas@clickmastersdigitalmarketing.com
 Uptown, Plano, Richardson, Frisco, and all of DFW`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-dallas/","/seo-services-dallas/","/content-marketing-chicago/","/industries/technology/","/industries/financial-services/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-dallas/","/seo-services-dallas/","/content-marketing-chicago/","/industries/technology/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

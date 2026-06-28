@@ -92,7 +92,7 @@ Results: Baptist Health re-engagement: 42% | Nemours re-engagement: 38% | HIPAA/
 
 Phone +1-888-555-CLICK | jacksonville@clickmastersdigitalmarketing.com
 Riverside, Avondale, San Marco, Ponte Vedra Beach, and all of Greater Jacksonville`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-jacksonville/","/seo-services-jacksonville/","/email-marketing-orlando/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-jacksonville/","/seo-services-jacksonville/","/email-marketing-orlando/"],
   
   publishingChecklist: {
     onPageSeo: {

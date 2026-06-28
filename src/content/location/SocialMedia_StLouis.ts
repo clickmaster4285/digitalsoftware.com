@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.0% | Soulard community edito
 
 Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
 Clayton, Creve Coeur, Hazelwood, Soulard, The Hill, and all of Greater St. Louis`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-st-louis/","/seo-services-st-louis/","/social-media-marketing-chicago/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-st-louis/","/seo-services-st-louis/","/social-media-marketing-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Tampa.xlsx
 // Service: WebDesign
 // City: Tampa
-// URL: /web-design-agency-tampa/
+// URL: /web-design-tampa/
 // Generated: 2026-06-20T06:13:04.075Z
 
 export const WebDesign_Tampa = {
@@ -9,14 +9,14 @@ export const WebDesign_Tampa = {
   serviceSlug: "web-design",
   city: "Tampa",
   citySlug: "tampa",
-  slug: "/web-design-agency-tampa/",
+  slug: "/web-design-tampa/",
   
   h1: `Web Design Agency Tampa — Moffitt/TGH YMYL Academic Medical, MacDill Military Institutional Credibility, and SB 262-Native Design`,
   primaryKw: `web design agency tampa`,
   formula: `FAB — Moffitt NCI YMYL HIPAA academic medical architecture + MacDill military institutional trust signals + Florida SB 262-native analytics + TGH/USF Health credential display + sub-1.6s LCP`,
   seoTitle: `Web Design Agency Tampa | Moffitt YMYL Academic Medical & MacDill Military | Clickmasters`,
   meta: `Clickmasters web design in Tampa. Moffitt Cancer Centre YMYL HIPAA academic medical architecture, MacDill military institutional credibility, and Florida SB 262-native analytics. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tampa Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-tampa/","address":{"@type":"PostalAddress","addressLocality":"Tampa","addressRegion":"FL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tampa Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-tampa/","address":{"@type":"PostalAddress","addressLocality":"Tampa","addressRegion":"FL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN TAMPA?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T recognised | TGH affiliation: cited in patient surveys | 
 
 Phone +1-888-555-CLICK | tampa@clickmastersdigitalmarketing.com
 South Tampa, WestShore, St. Pete, Clearwater, and all of Tampa Bay`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-tampa/","/seo-services-tampa/","/web-design-agency-miami/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-tampa/","/seo-services-tampa/","/web-design-miami/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-tampa/`, status: false },
+      url: { requirement: `Exact: /web-design-tampa/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-LosAngeles.xlsx
 // Service: WebDesign
 // City: LosAngeles
-// URL: /web-design-agency-los-angeles/
+// URL: /web-design-los-angeles/
 // Generated: 2026-06-20T06:13:03.752Z
 
 export const WebDesign_LosAngeles = {
@@ -9,14 +9,14 @@ export const WebDesign_LosAngeles = {
   serviceSlug: "web-design",
   city: "LosAngeles",
   citySlug: "los-angeles",
-  slug: "/web-design-agency-los-angeles/",
+  slug: "/web-design-los-angeles/",
   
   h1: `Web Design Agency Los Angeles — Creator Economy Visual Standard, Entertainment B2B Credibility, and CCPA-Native Design`,
   primaryKw: `web design agency los angeles`,
   formula: `FAB — Features (creator economy visual standard, entertainment B2B credential architecture, Silicon Beach CCPA-native technical precision, sub-1.5s LCP), Advantages (LA commercial audience trust + compliance protection), Benefits (Netflix/Disney evaluation + enterprise trials + DTC conversion)`,
   seoTitle: `Web Design Agency Los Angeles | Creator Economy & Entertainment B2B | Clickmasters`,
   meta: `Clickmasters web design in Los Angeles. Creator economy visual standard, entertainment B2B credibility design, and CCPA-native Silicon Beach technical precision for America's content capital. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Los Angeles Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-los-angeles/","address":{"@type":"PostalAddress","addressLocality":"Los Angeles","addressRegion":"CA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Los Angeles Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-los-angeles/","address":{"@type":"PostalAddress","addressLocality":"Los Angeles","addressRegion":"CA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > Los Angeles, CA`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN LOS ANGELES?
@@ -111,14 +111,14 @@ Q: How long does LA web design take? A: DTC: 8-14 weeks. Entertainment B2B (clea
 Get Your Free LA Website Audit: Phone +1-888-555-CLICK
 Email: losangeles@clickmastersdigitalmarketing.com
 Culver City, Santa Monica, Hollywood, Silver Lake, and all of Greater Los Angeles`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-los-angeles/","/seo-services-los-angeles/","/web-design-agency-san-francisco/","/industries/entertainment/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-los-angeles/","/seo-services-los-angeles/","/web-design-san-francisco/","/industries/entertainment/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-los-angeles/`, status: false },
+      url: { requirement: `Exact: /web-design-los-angeles/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Mayfield Heights industrial | PH community 
 
 Phone +1-888-555-CLICK | cleveland@clickmastersdigitalmarketing.com
 Beachwood, Westlake, Mayfield Heights, and all of Greater Cleveland`,
-  internalLinks: ["/local-seo-services/","/seo-services-cleveland/","/digital-marketing-agency-in-cleveland/","/local-seo-services-pittsburgh/"],
+  internalLinks: ["/local-seo-services/","/seo-services-cleveland/","/digital-marketing-agency-cleveland/","/local-seo-services-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {

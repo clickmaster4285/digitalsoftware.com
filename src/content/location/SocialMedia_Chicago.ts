@@ -103,7 +103,7 @@ Q: How does Clickmasters measure Chicago social media outcomes? A: Boeing/Caterp
 Get Your Free Chicago Social Media Audit: Phone +1-888-555-CLICK
 Email: chicago@clickmastersdigitalmarketing.com
 Loop, West Loop, Elk Grove Village, Schaumburg, and all of Chicagoland`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-chicago/","/seo-services-chicago/","/social-media-marketing-new-york/","/industries/manufacturing/","/industries/financial-services/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-chicago/","/seo-services-chicago/","/social-media-marketing-new-york/","/industries/manufacturing/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

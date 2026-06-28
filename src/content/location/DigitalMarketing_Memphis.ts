@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Memphis.xlsx
 // Service: DigitalMarketing
 // City: Memphis
-// URL: /digital-marketing-agency-in-memphis/
+// URL: /digital-marketing-agency-memphis/
 // Generated: 2026-06-20T06:12:59.061Z
 
 export const DigitalMarketing_Memphis = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Memphis = {
   serviceSlug: "digital-marketing",
   city: "Memphis",
   citySlug: "memphis",
-  slug: "/digital-marketing-agency-in-memphis/",
+  slug: "/digital-marketing-agency-memphis/",
   
   h1: `Digital Marketing Agency Memphis — FedEx Logistics Revenue, St. Jude World-Class YMYL, AutoZone Retail, and Bluff City Commercial Growth`,
   primaryKw: `digital marketing agency memphis`,
   formula: `BAB — Memphis FedEx logistics tech vendors invisible + St. Jude world-class YMYL health tech unreached + AutoZone/International Paper Fortune 500 unaddressed + Baptist Memorial health tech unaddressed + Tennessee TIPA non-compliant → CLICK Growth System for the Bluff City's logistics, paediatric oncology, and Fortune 500 capital`,
   seoTitle: `Digital Marketing Agency Memphis | FedEx Logistics Revenue & St. Jude Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Memphis. FedEx logistics/supply chain revenue, St. Jude Children's Research Hospital world-class YMYL, AutoZone automotive retail, and Tennessee TIPA-native analytics. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Memphis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-memphis/","address":{"@type":"PostalAddress","addressLocality":"Memphis","addressRegion":"TN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Memphis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-memphis/","address":{"@type":"PostalAddress","addressLocality":"Memphis","addressRegion":"TN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN MEMPHIS?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 9 Memphis retail tech queries | AutoZone VP Anal
 
 Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
 Germantown, Collierville, Bartlett, Midtown, and all of Greater Memphis`,
-  internalLinks: ["/seo-services-memphis/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-nashville/","/digital-marketing-agency-in-atlanta/"],
+  internalLinks: ["/seo-services-memphis/","/digital-marketing-agency-usa/","/digital-marketing-agency-nashville/","/digital-marketing-agency-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-memphis/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-memphis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

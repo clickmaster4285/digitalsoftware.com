@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Phoenix.xlsx
 // Service: DigitalMarketing
 // City: Phoenix
-// URL: /digital-marketing-agency-in-phoenix/
+// URL: /digital-marketing-agency-phoenix/
 // Generated: 2026-06-20T06:12:59.185Z
 
 export const DigitalMarketing_Phoenix = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Phoenix = {
   serviceSlug: "digital-marketing",
   city: "Phoenix",
   citySlug: "phoenix",
-  slug: "/digital-marketing-agency-in-phoenix/",
+  slug: "/digital-marketing-agency-phoenix/",
   
   h1: `Digital Marketing Agency Phoenix — TSMC Semiconductor Revenue, CA In-Migration Professional Services, and Arizona Commercial Growth`,
   primaryKw: `digital marketing agency phoenix`,
   formula: `BAB — Phoenix TSMC/Intel semiconductor B2B + CA in-migration professional services + Mayo Clinic/Banner YMYL healthcare + Arizona aerospace defence (Raytheon/Boeing) → CLICK Growth System for the Southwest's fastest-growing commercial capital`,
   seoTitle: `Digital Marketing Agency Phoenix | TSMC Semiconductor & CA In-Migration Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Phoenix. TSMC/Intel semiconductor B2B revenue, California in-migration professional services, and Mayo Clinic/Banner Health YMYL for Arizona's commercial capital. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Phoenix Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-phoenix/","address":{"@type":"PostalAddress","addressLocality":"Phoenix","addressRegion":"AZ","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Phoenix Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-phoenix/","address":{"@type":"PostalAddress","addressLocality":"Phoenix","addressRegion":"AZ","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN PHOENIX?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 12 Phoenix health IT queries | Mayo Clinic procu
 
 Phone +1-888-555-CLICK | phoenix@clickmastersdigitalmarketing.com
 Chandler, Scottsdale, Tempe, Mesa, and all of Greater Phoenix`,
-  internalLinks: ["/seo-services-phoenix/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-las-vegas/","/digital-marketing-agency-in-dallas/"],
+  internalLinks: ["/seo-services-phoenix/","/digital-marketing-agency-usa/","/digital-marketing-agency-las-vegas/","/digital-marketing-agency-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-phoenix/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-phoenix/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

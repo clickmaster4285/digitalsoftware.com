@@ -94,7 +94,7 @@ Results: PNC CPL: \$240 | PNC evaluation: from paid | Highmark: enquiry | FINRA/
 
 Phone +1-888-555-CLICK | pittsburgh@clickmastersdigitalmarketing.com
 Shadyside, Squirrel Hill, Lawrenceville, South Side, and all of Greater Pittsburgh`,
-  internalLinks: ["/digital-marketing-agency-in-pittsburgh/","/seo-services-pittsburgh/","/google-ads-management-services/","/google-ads-management-cleveland/"],
+  internalLinks: ["/digital-marketing-agency-pittsburgh/","/seo-services-pittsburgh/","/google-ads-management-services/","/google-ads-management-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {

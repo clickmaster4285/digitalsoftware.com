@@ -6,7 +6,7 @@
 
 export const GoogleAds_Atlanta = {
   service: "GoogleAds",
-  serviceSlug: "google-ads",
+  serviceSlug: "google-ads-management",
   city: "Atlanta",
   citySlug: "atlanta",
   slug: "/google-ads-management-atlanta/",
@@ -94,7 +94,7 @@ Results: FINRA findings: 0 | Campaign reinstated | HNW CPL: \$280 | New AUM from
 
 Phone +1-888-555-CLICK | atlanta@clickmastersdigitalmarketing.com
 Midtown, Buckhead, Sandy Springs, and all of Metro Atlanta`,
-  internalLinks: ["/digital-marketing-agency-in-atlanta/","/seo-services-atlanta/","/google-ads-management-services/","/google-ads-management-dallas/"],
+  internalLinks: ["/digital-marketing-agency-atlanta/","/seo-services-atlanta/","/google-ads-management-services/","/google-ads-management-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

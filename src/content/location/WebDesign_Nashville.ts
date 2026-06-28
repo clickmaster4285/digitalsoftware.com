@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Nashville.xlsx
 // Service: WebDesign
 // City: Nashville
-// URL: /web-design-agency-nashville/
+// URL: /web-design-nashville/
 // Generated: 2026-06-20T06:13:03.865Z
 
 export const WebDesign_Nashville = {
@@ -9,14 +9,14 @@ export const WebDesign_Nashville = {
   serviceSlug: "web-design",
   city: "Nashville",
   citySlug: "nashville",
-  slug: "/web-design-agency-nashville/",
+  slug: "/web-design-nashville/",
   
   h1: `Web Design Agency Nashville — Healthcare Capital Institutional Quality, Amazon East Bank Precision, and Authentic Music City Design`,
   primaryKw: `web design agency nashville`,
   formula: `FAB — HCA/Envision healthcare capital institutional credential architecture + Amazon East Bank analytical-precision B2B standard + authentic Music City brand design + HIPAA-compliant healthcare`,
   seoTitle: `Web Design Agency Nashville | Healthcare Capital & Amazon East Bank | Clickmasters`,
   meta: `Clickmasters web design in Nashville. Healthcare capital institutional credential quality for HCA/Envision, Amazon East Bank analytical precision, and authentic Music City brand design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Nashville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-nashville/","address":{"@type":"PostalAddress","addressLocality":"Nashville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Nashville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-nashville/","address":{"@type":"PostalAddress","addressLocality":"Nashville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN NASHVILLE?
@@ -91,14 +91,14 @@ Results: Shopify conversion: 1.4% to 3.4% | Nashville community editorial featur
 5. Core Web Vitals — LCP benchmarks for Nashville's growing digital-first community
 
 Phone +1-888-555-CLICK | nashville@clickmastersdigitalmarketing.com | The Gulch, Germantown, Brentwood, Franklin, and all of Middle Tennessee`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-nashville/","/seo-services-nashville/","/web-design-agency-atlanta/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-nashville/","/seo-services-nashville/","/web-design-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-nashville/`, status: false },
+      url: { requirement: `Exact: /web-design-nashville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

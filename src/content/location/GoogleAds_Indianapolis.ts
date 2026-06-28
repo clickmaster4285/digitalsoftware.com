@@ -94,7 +94,7 @@ Results: HIPAA: clean | IU community CPL: \$130 vs \$360 generic Carmel | New pa
 
 Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
 Carmel, Fishers, Zionsville, and all of Greater Indianapolis`,
-  internalLinks: ["/digital-marketing-agency-in-indianapolis/","/seo-services-indianapolis/","/google-ads-management-services/","/google-ads-management-chicago/"],
+  internalLinks: ["/digital-marketing-agency-indianapolis/","/seo-services-indianapolis/","/google-ads-management-services/","/google-ads-management-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

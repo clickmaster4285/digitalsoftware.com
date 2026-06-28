@@ -105,7 +105,7 @@ Q: How does Clickmasters measure Denver social media outcomes? A: Aerospace: Bal
 Get Your Free Denver Social Media Audit: Phone +1-888-555-CLICK
 Email: denver@clickmastersdigitalmarketing.com
 Englewood, Cherry Creek, Boulder, Colorado Springs, and all of Colorado`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-denver/","/seo-services-denver/","/social-media-marketing-seattle/","/industries/manufacturing/","/industries/clean-energy/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-denver/","/seo-services-denver/","/social-media-marketing-seattle/","/industries/manufacturing/","/industries/clean-energy/"],
   
   publishingChecklist: {
     onPageSeo: {

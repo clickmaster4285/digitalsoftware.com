@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Miami.xlsx
 // Service: WebDesign
 // City: Miami
-// URL: /web-design-agency-miami/
+// URL: /web-design-miami/
 // Generated: 2026-06-20T06:13:03.821Z
 
 export const WebDesign_Miami = {
@@ -9,14 +9,14 @@ export const WebDesign_Miami = {
   serviceSlug: "web-design",
   city: "Miami",
   citySlug: "miami",
-  slug: "/web-design-agency-miami/",
+  slug: "/web-design-miami/",
   
   h1: `Web Design Agency Miami — Bilingual LATAM-Gateway, Brickell Institutional Financial, and Florida SB 262-Compliant Design`,
   primaryKw: `web design agency miami`,
   formula: `FAB — Features (bilingual English/Spanish LATAM-gateway, Brickell FINRA institutional, HIPAA bilingual healthcare, Florida SB 262 privacy, Core Web Vitals), Advantages (full Miami commercial audience + compliance protection), Benefits (LATAM HNW clients + Spanish patient acquisition + full bilingual conversion)`,
   seoTitle: `Web Design Agency Miami | Bilingual LATAM-Gateway & Brickell Institutional | Clickmasters`,
   meta: `Clickmasters web design in Miami. Bilingual English/Spanish LATAM-gateway websites, Brickell institutional financial, and Florida SB 262-compliant South Florida commercial design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Miami Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-miami/","address":{"@type":"PostalAddress","addressLocality":"Miami","addressRegion":"FL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Miami Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-miami/","address":{"@type":"PostalAddress","addressLocality":"Miami","addressRegion":"FL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > Miami, FL`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN MIAMI?
@@ -111,14 +111,14 @@ Q: How long does Miami web design take? A: Bilingual: 8-14 weeks. Brickell finan
 Get Your Free Miami Website Audit: Phone +1-888-555-CLICK
 Email: miami@clickmastersdigitalmarketing.com
 Brickell, Coral Gables, Wynwood, Doral, and all of South Florida`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-miami/","/seo-services-miami/","/web-design-agency-houston/","/industries/financial-services/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-miami/","/seo-services-miami/","/web-design-houston/","/industries/financial-services/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-miami/`, status: false },
+      url: { requirement: `Exact: /web-design-miami/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

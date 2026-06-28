@@ -106,7 +106,7 @@ Q: How long does Minneapolis Medical Alley email produce IDN results? A: First r
 Get Your Free Minneapolis Email Marketing Audit: Phone +1-888-555-CLICK
 Email: minneapolis@clickmastersdigitalmarketing.com
 Plymouth, Eden Prairie, Edina, St. Paul, and all of the Twin Cities metro`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-minneapolis/","/seo-services-minneapolis/","/email-marketing-chicago/","/integrations/hubspot-marketing/","/industries/medical-devices/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-minneapolis/","/seo-services-minneapolis/","/email-marketing-chicago/","/integrations/hubspot-marketing/","/industries/medical-devices/"],
   
   publishingChecklist: {
     onPageSeo: {

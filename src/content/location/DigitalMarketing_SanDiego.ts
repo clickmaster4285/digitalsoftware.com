@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-SanDiego.xlsx
 // Service: DigitalMarketing
 // City: SanDiego
-// URL: /digital-marketing-agency-in-san-diego/
+// URL: /digital-marketing-agency-san-diego/
 // Generated: 2026-06-20T06:12:59.318Z
 
 export const DigitalMarketing_SanDiego = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_SanDiego = {
   serviceSlug: "digital-marketing",
   city: "SanDiego",
   citySlug: "san-diego",
-  slug: "/digital-marketing-agency-in-san-diego/",
+  slug: "/digital-marketing-agency-san-diego/",
   
   h1: `Digital Marketing Agency San Diego — Defence Contractor Revenue, Torrey Pines Life Science, and CCPA-Native Commercial Growth`,
   primaryKw: `digital marketing agency san diego`,
   formula: `BAB — San Diego defence contractor + Torrey Pines life science + CCPA-native analytics → CLICK Growth System for America's largest military city and its life science capital`,
   seoTitle: `Digital Marketing Agency San Diego | Defence Contractor & Torrey Pines Life Science | Clickmasters`,
   meta: `Clickmasters digital marketing in San Diego. Defence contractor vendor revenue growth, Torrey Pines life science organic authority, and CCPA-native analytics for America's largest military city. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Diego Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-san-diego/","address":{"@type":"PostalAddress","addressLocality":"San Diego","addressRegion":"CA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Diego Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-san-diego/","address":{"@type":"PostalAddress","addressLocality":"San Diego","addressRegion":"CA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN SAN DIEGO?
@@ -52,7 +52,7 @@ EMAIL SAN DIEGO: NAVWAR/Northrop named account defence pipeline. Torrey Pines ph
 
 LOCAL SEO SAN DIEGO: Defence community GBP proximity signals. UCSD Health/Scripps affiliation display. CCPA-native review analytics. /local-seo-services-san-diego/
 
-WEB DESIGN SAN DIEGO: Defence contractor ITAR-bounded credential architecture. Torrey Pines life science FDA authority. HIPAA-native. CCPA-native analytics. /web-design-agency-san-diego/`,
+WEB DESIGN SAN DIEGO: Defence contractor ITAR-bounded credential architecture. Torrey Pines life science FDA authority. HIPAA-native. CCPA-native analytics. /web-design-san-diego/`,
   caseStudies: `Case Study 1: Point Loma Cyber Defence — ITAR-Bounded Full Digital Programme
 Client: Cyber defence technology, Point Loma (\$12M ARR). Challenge: New DoD procurement managers not discoverable via digital. CCPA non-compliant analytics overstating organic 32%.
 Programme: SEO (CMMC/NIST vocabulary) + LinkedIn (NAVWAR/Northrop professional) + email (named account pipeline) + CCPA-native analytics rebuild
@@ -107,14 +107,14 @@ Results (10 months): CCPA-accurate measurement established | Page 1 for 11 La Jo
 
 Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
 Point Loma, Torrey Pines, La Jolla, Kearny Mesa, and all of San Diego County`,
-  internalLinks: ["/seo-services-san-diego/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-los-angeles/","/digital-marketing-agency-in-san-francisco/"],
+  internalLinks: ["/seo-services-san-diego/","/digital-marketing-agency-usa/","/digital-marketing-agency-los-angeles/","/digital-marketing-agency-san-francisco/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-san-diego/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-san-diego/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

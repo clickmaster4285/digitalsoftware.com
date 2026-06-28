@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 10 Cincinnati paediatric queries | YMYL: E-E-A-T
 
 Phone +1-888-555-CLICK | cincinnati@clickmastersdigitalmarketing.com
 Blue Ash, Mason, West Chester, Hyde Park, and all of Greater Cincinnati`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-in-cincinnati/","/seo-services-cleveland/","/seo-services-indianapolis/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-cincinnati/","/seo-services-cleveland/","/seo-services-indianapolis/"],
   
   publishingChecklist: {
     onPageSeo: {

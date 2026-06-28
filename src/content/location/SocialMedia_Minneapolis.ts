@@ -105,7 +105,7 @@ Q: How does Clickmasters measure Minneapolis social media outcomes? A: Medical A
 Get Your Free Minneapolis Social Media Audit: Phone +1-888-555-CLICK
 Email: minneapolis@clickmastersdigitalmarketing.com
 Plymouth, Eden Prairie, Edina, St. Paul, and all of the Twin Cities metro`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-minneapolis/","/seo-services-minneapolis/","/social-media-marketing-chicago/","/industries/medical-devices/","/industries/healthcare-tech/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-minneapolis/","/seo-services-minneapolis/","/social-media-marketing-chicago/","/industries/medical-devices/","/industries/healthcare-tech/"],
   
   publishingChecklist: {
     onPageSeo: {

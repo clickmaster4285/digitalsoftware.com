@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Seattle.xlsx
 // Service: WebDesign
 // City: Seattle
-// URL: /web-design-agency-seattle/
+// URL: /web-design-seattle/
 // Generated: 2026-06-20T06:13:04.055Z
 
 export const WebDesign_Seattle = {
@@ -9,14 +9,14 @@ export const WebDesign_Seattle = {
   serviceSlug: "web-design",
   city: "Seattle",
   citySlug: "seattle",
-  slug: "/web-design-agency-seattle/",
+  slug: "/web-design-seattle/",
   
   h1: `Web Design Agency Seattle — Amazon-Standard Performance Engineering and Pacific Northwest Authentic Design`,
   primaryKw: `web design agency seattle`,
   formula: `FAB — Features (Amazon-standard performance engineering, MHMD healthcare compliance, Pacific NW authentic design, Core Web Vitals), Advantages (tech professional credibility + compliance protection), Benefits (enterprise demos, patient acquisition, community trust)`,
   seoTitle: `Web Design Agency Seattle | Amazon-Standard Performance & MHMD | Clickmasters`,
   meta: `Clickmasters web design in Seattle. Amazon-standard performance engineering, MHMD-compliant healthcare architecture, and authentic Pacific Northwest design for Washington businesses. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Seattle Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-seattle/","address":{"@type":"PostalAddress","addressLocality":"Seattle","addressRegion":"WA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Seattle Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-seattle/","address":{"@type":"PostalAddress","addressLocality":"Seattle","addressRegion":"WA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > Seattle, WA`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN SEATTLE?
@@ -111,14 +111,14 @@ Q: What is Pacific NW authentic design? A: B Corp with audit numbers, sustainabi
 Get Your Free Seattle Website Audit: Phone +1-888-555-CLICK
 Email: seattle@clickmastersdigitalmarketing.com
 South Lake Union, Bellevue, Redmond, Capitol Hill, and all of Greater Seattle`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-seattle/","/seo-services-seattle/","/web-design-agency-portland/","/industries/technology/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-seattle/","/seo-services-seattle/","/web-design-portland/","/industries/technology/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-seattle/`, status: false },
+      url: { requirement: `Exact: /web-design-seattle/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

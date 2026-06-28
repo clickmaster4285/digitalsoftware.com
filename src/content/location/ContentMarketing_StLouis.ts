@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 10 St. Louis health IT queries | YMYL: E-E-A-T r
 
 Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
 Clayton, Creve Coeur, Chesterfield, Hazelwood, and all of Greater St. Louis`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-st-louis/","/seo-services-st-louis/","/content-marketing-chicago/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-st-louis/","/seo-services-st-louis/","/content-marketing-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 9 Orlando internal medicine queries | YMYL: E-E-
 
 Phone +1-888-555-CLICK | orlando@clickmastersdigitalmarketing.com
 Lake Nona, Mills 50, Winter Park, Kissimmee, and all of Greater Orlando`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-orlando/","/seo-services-orlando/","/content-marketing-tampa/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-orlando/","/seo-services-orlando/","/content-marketing-tampa/"],
   
   publishingChecklist: {
     onPageSeo: {

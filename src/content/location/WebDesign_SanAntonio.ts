@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-SanAntonio.xlsx
 // Service: WebDesign
 // City: SanAntonio
-// URL: /web-design-agency-san-antonio/
+// URL: /web-design-san-antonio/
 // Generated: 2026-06-20T06:13:04.025Z
 
 export const WebDesign_SanAntonio = {
@@ -9,14 +9,14 @@ export const WebDesign_SanAntonio = {
   serviceSlug: "web-design",
   city: "SanAntonio",
   citySlug: "san-antonio",
-  slug: "/web-design-agency-san-antonio/",
+  slug: "/web-design-san-antonio/",
   
   h1: `Web Design Agency San Antonio — Military Community Credibility, Bilingual Design, and South Texas Commercial Quality`,
   primaryKw: `web design agency san antonio`,
   formula: `FAB — Features (JBSA military community trust signals, bilingual Spanish/English HIPAA, South Texas Medical Center credibility, Core Web Vitals), Advantages (full SA market reach + military trust), Benefits (military family appointments + Spanish patient acquisition + STMC vendor evaluation)`,
   seoTitle: `Web Design Agency San Antonio | Military Community, Bilingual & STMC | Clickmasters`,
   meta: `Clickmasters web design in San Antonio. JBSA military community credibility, bilingual Spanish/English HIPAA healthcare, and South Texas Medical Center vendor design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Antonio Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-san-antonio/","address":{"@type":"PostalAddress","addressLocality":"San Antonio","addressRegion":"TX","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Antonio Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-san-antonio/","address":{"@type":"PostalAddress","addressLocality":"San Antonio","addressRegion":"TX","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > San Antonio, TX`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN SAN ANTONIO?
@@ -111,14 +111,14 @@ Q: HIPAA-compliant bilingual websites for San Antonio healthcare? A: Yes — Spa
 Get Your Free San Antonio Website Audit: Phone +1-888-555-CLICK
 Email: sanantonio@clickmastersdigitalmarketing.com
 Westside, Stone Oak, JBSA area, New Braunfels, and all of Greater San Antonio`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-san-antonio/","/seo-services-san-antonio/","/web-design-agency-houston/","/industries/healthcare/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-san-antonio/","/seo-services-san-antonio/","/web-design-houston/","/industries/healthcare/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-san-antonio/`, status: false },
+      url: { requirement: `Exact: /web-design-san-antonio/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

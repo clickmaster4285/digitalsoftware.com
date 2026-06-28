@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-StLouis.xlsx
 // Service: DigitalMarketing
 // City: StLouis
-// URL: /digital-marketing-agency-in-st-louis/
+// URL: /digital-marketing-agency-st-louis/
 // Generated: 2026-06-20T06:12:59.361Z
 
 export const DigitalMarketing_StLouis = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_StLouis = {
   serviceSlug: "digital-marketing",
   city: "StLouis",
   citySlug: "st-louis",
-  slug: "/digital-marketing-agency-in-st-louis/",
+  slug: "/digital-marketing-agency-st-louis/",
   
   h1: `Digital Marketing Agency St. Louis — Boeing Defence Revenue, Edward Jones FINRA Financial, and Gateway City Commercial Growth`,
   primaryKw: `digital marketing agency st louis`,
   formula: `BAB — St. Louis Boeing BDS vendors invisible to new supply chain VPs + Edward Jones/Centene financial tech unaddressed + BJC/WashU health tech vendors unreached → CLICK Growth System for the Gateway City's defence and financial capital`,
   seoTitle: `Digital Marketing Agency St. Louis | Boeing Defence & Edward Jones Financial | Clickmasters`,
   meta: `Clickmasters digital marketing in St. Louis. Boeing Defence Space & Security vendor revenue, Edward Jones FINRA financial technology, and BJC/Washington University YMYL healthcare. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — St. Louis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-st-louis/","address":{"@type":"PostalAddress","addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — St. Louis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-st-louis/","address":{"@type":"PostalAddress","addressLocality":"St. Louis","addressRegion":"MO","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3900,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN ST. LOUIS?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 10 St. Louis health IT queries | Centene evaluat
 
 Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
 Clayton, Creve Coeur, Chesterfield, Hazelwood, and all of Greater St. Louis`,
-  internalLinks: ["/seo-services-st-louis/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-chicago/","/digital-marketing-agency-in-indianapolis/"],
+  internalLinks: ["/seo-services-st-louis/","/digital-marketing-agency-usa/","/digital-marketing-agency-chicago/","/digital-marketing-agency-indianapolis/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-st-louis/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-st-louis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

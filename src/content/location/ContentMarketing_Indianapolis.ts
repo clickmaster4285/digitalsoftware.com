@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 10 Indianapolis health IT queries | YMYL: E-E-A-
 
 Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
 Carmel, Fishers, Zionsville, and all of Greater Indianapolis`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-indianapolis/","/seo-services-indianapolis/","/content-marketing-chicago/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-indianapolis/","/seo-services-indianapolis/","/content-marketing-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

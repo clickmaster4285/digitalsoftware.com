@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 5.2% | First Coast community e
 
 Phone +1-888-555-CLICK | jacksonville@clickmastersdigitalmarketing.com
 Riverside, Avondale, San Marco, Ponte Vedra Beach, and all of Greater Jacksonville`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-jacksonville/","/seo-services-jacksonville/","/social-media-marketing-orlando/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-jacksonville/","/seo-services-jacksonville/","/social-media-marketing-orlando/"],
   
   publishingChecklist: {
     onPageSeo: {

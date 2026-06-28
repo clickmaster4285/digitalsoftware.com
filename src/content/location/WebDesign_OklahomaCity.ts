@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-OklahomaCity.xlsx
 // Service: WebDesign
 // City: OklahomaCity
-// URL: /web-design-agency-oklahoma-city/
+// URL: /web-design-oklahoma-city/
 // Generated: 2026-06-20T06:13:03.901Z
 
 export const WebDesign_OklahomaCity = {
@@ -9,14 +9,14 @@ export const WebDesign_OklahomaCity = {
   serviceSlug: "web-design",
   city: "OklahomaCity",
   citySlug: "oklahoma-city",
-  slug: "/web-design-agency-oklahoma-city/",
+  slug: "/web-design-oklahoma-city/",
   
   h1: `Web Design Agency Oklahoma City — Devon Energy E&P Institutional Credibility, INTEGRIS YMYL HIPAA Quality, and Authentic OKC Brand Design`,
   primaryKw: `web design agency oklahoma city`,
   formula: `FAB — Devon/Expand Energy E&P institutional vendor credibility + INTEGRIS/OU Health YMYL HIPAA Oklahoma academic healthcare + Paycom HR SaaS enterprise quality + Tinker AFB ITAR-bounded institutional + authentic OKC Bricktown/Paseo Arts District/Midtown identity`,
   seoTitle: `Web Design Agency Oklahoma City | Devon Energy E&P Credibility & INTEGRIS YMYL | Clickmasters`,
   meta: `Clickmasters web design in Oklahoma City. Devon Energy E&P institutional credibility, INTEGRIS/OU Health YMYL HIPAA quality, Paycom HR SaaS enterprise, and authentic Bricktown/Paseo/Midtown OKC brand. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Oklahoma City Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-oklahoma-city/","address":{"@type":"PostalAddress","addressLocality":"Oklahoma City","addressRegion":"OK","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Oklahoma City Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-oklahoma-city/","address":{"@type":"PostalAddress","addressLocality":"Oklahoma City","addressRegion":"OK","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN OKLAHOMA CITY?
@@ -92,14 +92,14 @@ Results: Paseo authentic positioning: gallery visits +40% | Average sale: +\$200
 
 Phone +1-888-555-CLICK | oklahomacity@clickmastersdigitalmarketing.com
 Edmond, Norman, Bricktown, Paseo, and all of Greater OKC`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-oklahoma-city/","/seo-services-oklahoma-city/","/web-design-agency-dallas/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-oklahoma-city/","/seo-services-oklahoma-city/","/web-design-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-oklahoma-city/`, status: false },
+      url: { requirement: `Exact: /web-design-oklahoma-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

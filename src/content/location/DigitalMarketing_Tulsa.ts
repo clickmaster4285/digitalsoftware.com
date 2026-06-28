@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Tulsa.xlsx
 // Service: DigitalMarketing
 // City: Tulsa
-// URL: /digital-marketing-agency-in-tulsa/
+// URL: /digital-marketing-agency-tulsa/
 // Generated: 2026-06-20T06:12:59.414Z
 
 export const DigitalMarketing_Tulsa = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Tulsa = {
   serviceSlug: "digital-marketing",
   city: "Tulsa",
   citySlug: "tulsa",
-  slug: "/digital-marketing-agency-in-tulsa/",
+  slug: "/digital-marketing-agency-tulsa/",
   
   h1: `Digital Marketing Agency Tulsa — Williams/ONEOK Midstream Revenue, BOK Financial FINRA, Saint Francis YMYL, and Oil Capital Commercial Growth`,
   primaryKw: `digital marketing agency tulsa`,
   formula: `BAB — Tulsa Williams/ONEOK midstream vendors invisible + BOK Financial FINRA unreached + Saint Francis/OU Medicine YMYL unreached + QuikTrip retail unaddressed + AAON/Matrix Service manufacturing unaddressed → CLICK Growth System for the Oil Capital's midstream energy, banking, and healthcare commercial ecosystem`,
   seoTitle: `Digital Marketing Agency Tulsa | Williams/ONEOK Midstream Revenue & BOK FINRA | Clickmasters`,
   meta: `Clickmasters digital marketing in Tulsa. Williams/ONEOK midstream natural gas revenue, BOK Financial FINRA banking, Saint Francis/OU Medicine YMYL, and QuikTrip retail. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tulsa Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-tulsa/","address":{"@type":"PostalAddress","addressLocality":"Tulsa","addressRegion":"OK","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tulsa Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-tulsa/","address":{"@type":"PostalAddress","addressLocality":"Tulsa","addressRegion":"OK","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN TULSA?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 9 Tulsa health IT queries | Saint Francis: evalu
 
 Phone +1-888-555-CLICK | tulsa@clickmastersdigitalmarketing.com
 Broken Arrow, Owasso, Bixby, Blue Dome, and all of Greater Tulsa`,
-  internalLinks: ["/seo-services-tulsa/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-oklahoma-city/","/digital-marketing-agency-in-dallas/"],
+  internalLinks: ["/seo-services-tulsa/","/digital-marketing-agency-usa/","/digital-marketing-agency-oklahoma-city/","/digital-marketing-agency-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-tulsa/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-tulsa/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

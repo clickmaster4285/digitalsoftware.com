@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Raleigh.xlsx
 // Service: WebDesign
 // City: Raleigh
-// URL: /web-design-agency-raleigh/
+// URL: /web-design-raleigh/
 // Generated: 2026-06-20T06:13:03.977Z
 
 export const WebDesign_Raleigh = {
@@ -9,14 +9,14 @@ export const WebDesign_Raleigh = {
   serviceSlug: "web-design",
   city: "Raleigh",
   citySlug: "raleigh",
-  slug: "/web-design-agency-raleigh/",
+  slug: "/web-design-raleigh/",
   
   h1: `Web Design Agency Raleigh — RTP Pharmaceutical Credibility, Duke/UNC YMYL Academic Medical, and Triangle Tech Enterprise`,
   primaryKw: `web design agency raleigh`,
   formula: `FAB — RTP pharma FDA-aware institutional credential architecture + Duke/UNC YMYL HIPAA academic medical + Cisco/Red Hat tech enterprise credibility + Triangle in-migration quality standard + sub-1.6s LCP`,
   seoTitle: `Web Design Agency Raleigh | RTP Pharmaceutical Credibility & Duke/UNC YMYL | Clickmasters`,
   meta: `Clickmasters web design in Raleigh. RTP pharmaceutical FDA-aware institutional credibility, Duke/UNC YMYL academic medical design, and Research Triangle tech enterprise quality. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Raleigh Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-raleigh/","address":{"@type":"PostalAddress","addressLocality":"Raleigh","addressRegion":"NC","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Raleigh Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-raleigh/","address":{"@type":"PostalAddress","addressLocality":"Raleigh","addressRegion":"NC","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN RALEIGH?
@@ -92,14 +92,14 @@ Results: Red Hat Durham community: website cited as quality signal | Demo conver
 
 Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
 Durham, Chapel Hill, Cary, and all of the Research Triangle`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-raleigh/","/seo-services-raleigh/","/web-design-agency-charlotte/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-raleigh/","/seo-services-raleigh/","/web-design-charlotte/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-raleigh/`, status: false },
+      url: { requirement: `Exact: /web-design-raleigh/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

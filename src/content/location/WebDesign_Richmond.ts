@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Richmond.xlsx
 // Service: WebDesign
 // City: Richmond
-// URL: /web-design-agency-richmond/
+// URL: /web-design-richmond/
 // Generated: 2026-06-20T06:13:03.989Z
 
 export const WebDesign_Richmond = {
@@ -9,14 +9,14 @@ export const WebDesign_Richmond = {
   serviceSlug: "web-design",
   city: "Richmond",
   citySlug: "richmond",
-  slug: "/web-design-agency-richmond/",
+  slug: "/web-design-richmond/",
   
   h1: `Web Design Agency Richmond — Capital One FINRA ML Institutional Credibility, Dominion Energy Utility Quality, and VCU Health YMYL HIPAA VCDPA`,
   primaryKw: `web design agency richmond`,
   formula: `FAB — Capital One FINRA/SEC ML fintech institutional vendor credibility + Dominion Energy clean energy utility enterprise quality + VCU Health/Bon Secours YMYL HIPAA VCDPA + CarMax automotive institutional + The Fan District/Carytown authentic River City identity`,
   seoTitle: `Web Design Agency Richmond | Capital One FINRA ML Credibility & Dominion Energy | Clickmasters`,
   meta: `Clickmasters web design in Richmond. Capital One FINRA/SEC ML institutional credibility, Dominion Energy clean energy enterprise quality, and VCU Health/Bon Secours YMYL HIPAA VCDPA design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Richmond Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Richmond Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN RICHMOND?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | VCU: cited | HIPAA/VCDPA: Virginia AG pre-audit passed 
 
 Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com
 Henrico County, Chesterfield, Midlothian, and all of Greater Richmond`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-richmond/","/seo-services-richmond/","/web-design-agency-washington-dc/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-richmond/","/seo-services-richmond/","/web-design-washington-dc/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-richmond/`, status: false },
+      url: { requirement: `Exact: /web-design-richmond/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

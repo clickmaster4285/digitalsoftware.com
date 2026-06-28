@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-SanDiego.xlsx
 // Service: WebDesign
 // City: SanDiego
-// URL: /web-design-agency-san-diego/
+// URL: /web-design-san-diego/
 // Generated: 2026-06-20T06:13:04.035Z
 
 export const WebDesign_SanDiego = {
@@ -9,14 +9,14 @@ export const WebDesign_SanDiego = {
   serviceSlug: "web-design",
   city: "SanDiego",
   citySlug: "san-diego",
-  slug: "/web-design-agency-san-diego/",
+  slug: "/web-design-san-diego/",
   
   h1: `Web Design Agency San Diego — ITAR-Bounded Defence Credibility, Torrey Pines Life Science YMYL, and CCPA-Native Design`,
   primaryKw: `web design agency san diego`,
   formula: `FAB — ITAR-bounded CMMC/AS9100D defence credential architecture + Torrey Pines FDA-aware YMYL life science website + UCSD Health YMYL healthcare + CCPA-native analytics foundation`,
   seoTitle: `Web Design Agency San Diego | Defence Credibility & Torrey Pines Life Science | Clickmasters`,
   meta: `Clickmasters web design in San Diego. ITAR-bounded defence contractor credential architecture, Torrey Pines life science YMYL, and CCPA-native California standard. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Diego Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-san-diego/","address":{"@type":"PostalAddress","addressLocality":"San Diego","addressRegion":"CA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — San Diego Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-san-diego/","address":{"@type":"PostalAddress","addressLocality":"San Diego","addressRegion":"CA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN SAN DIEGO?
@@ -92,14 +92,14 @@ Results: UCSD display: cited in 68% of new patient surveys | HIPAA/CCPA: Califor
 
 Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
 Kearny Mesa, Torrey Pines, La Jolla, Point Loma, and all of San Diego County`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-san-diego/","/seo-services-san-diego/","/web-design-agency-los-angeles/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-san-diego/","/seo-services-san-diego/","/web-design-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-san-diego/`, status: false },
+      url: { requirement: `Exact: /web-design-san-diego/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

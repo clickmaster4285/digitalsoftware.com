@@ -92,7 +92,7 @@ Results (5 months): Riverfest June: 4.2x above average | Old Town community: edi
 
 Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
 Old Town, Delano, College Hill, Andover, and all of Greater Wichita`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-wichita/","/seo-services-wichita/","/social-media-marketing-kansas-city/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-wichita/","/seo-services-wichita/","/social-media-marketing-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

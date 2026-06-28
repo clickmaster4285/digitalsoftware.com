@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Pittsburgh.xlsx
 // Service: WebDesign
 // City: Pittsburgh
-// URL: /web-design-agency-pittsburgh/
+// URL: /web-design-pittsburgh/
 // Generated: 2026-06-20T06:13:03.955Z
 
 export const WebDesign_Pittsburgh = {
@@ -9,14 +9,14 @@ export const WebDesign_Pittsburgh = {
   serviceSlug: "web-design",
   city: "Pittsburgh",
   citySlug: "pittsburgh",
-  slug: "/web-design-agency-pittsburgh/",
+  slug: "/web-design-pittsburgh/",
   
   h1: `Web Design Agency Pittsburgh — UPMC World-Class Institutional, CMU AI Vendor Credibility, and FINRA Professional Design`,
   primaryKw: `web design agency pittsburgh`,
   formula: `FAB — UPMC world-class YMYL HIPAA internationally-oriented institutional credibility + CMU AI/Aurora autonomous vehicle vendor credibility + PPG specialty coatings/PNC FINRA-compliant + authentic Pittsburgh Lawrenceville/South Side identity`,
   seoTitle: `Web Design Agency Pittsburgh | UPMC World-Class Institutional & CMU AI Credibility | Clickmasters`,
   meta: `Clickmasters web design in Pittsburgh. UPMC world-class YMYL HIPAA institutional credibility, CMU AI Corridor vendor authority, and PPG/PNC FINRA professional design. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Pittsburgh Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-pittsburgh/","address":{"@type":"PostalAddress","addressLocality":"Pittsburgh","addressRegion":"PA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Pittsburgh Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-pittsburgh/","address":{"@type":"PostalAddress","addressLocality":"Pittsburgh","addressRegion":"PA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN PITTSBURGH?
@@ -92,14 +92,14 @@ Results: FINRA/SEC: clean | PNC evaluation: entered | PPG: enquiry | Demo: 0.3% 
 
 Phone +1-888-555-CLICK | pittsburgh@clickmastersdigitalmarketing.com
 Shadyside, Squirrel Hill, Lawrenceville, South Side, and all of Greater Pittsburgh`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-pittsburgh/","/seo-services-pittsburgh/","/web-design-agency-cleveland/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-pittsburgh/","/seo-services-pittsburgh/","/web-design-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-pittsburgh/`, status: false },
+      url: { requirement: `Exact: /web-design-pittsburgh/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

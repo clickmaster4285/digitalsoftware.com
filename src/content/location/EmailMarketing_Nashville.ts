@@ -108,7 +108,7 @@ Q: How long does Nashville HIMSS email produce HCA pipeline results? A: First re
 Get Your Free Nashville Email Marketing Audit: Phone +1-888-555-CLICK
 Email: nashville@clickmastersdigitalmarketing.com
 The Gulch, Brentwood, Franklin, East Nashville, and all of Middle Tennessee`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-nashville/","/seo-services-nashville/","/email-marketing-atlanta/","/integrations/hubspot-marketing/","/industries/healthcare-tech/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-nashville/","/seo-services-nashville/","/email-marketing-atlanta/","/integrations/hubspot-marketing/","/industries/healthcare-tech/"],
   
   publishingChecklist: {
     onPageSeo: {

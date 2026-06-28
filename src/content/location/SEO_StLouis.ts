@@ -94,7 +94,7 @@ Results (10 months): Page 1 for 10 St. Louis internal medicine queries | YMYL: E
 
 Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
 Clayton, Creve Coeur, Chesterfield, Hazelwood, and all of Greater St. Louis`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-in-st-louis/","/seo-services-chicago/","/seo-services-indianapolis/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-st-louis/","/seo-services-chicago/","/seo-services-indianapolis/"],
   
   publishingChecklist: {
     onPageSeo: {

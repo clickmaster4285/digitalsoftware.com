@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Dallas.xlsx
 // Service: WebDesign
 // City: Dallas
-// URL: /web-design-agency-dallas/
+// URL: /web-design-dallas/
 // Generated: 2026-06-20T06:13:03.562Z
 
 export const WebDesign_Dallas = {
@@ -9,14 +9,14 @@ export const WebDesign_Dallas = {
   serviceSlug: "web-design",
   city: "Dallas",
   citySlug: "dallas",
-  slug: "/web-design-agency-dallas/",
+  slug: "/web-design-dallas/",
   
   h1: `Web Design Agency Dallas — Fortune 500-Vendor-Credible Websites for Texas' Corporate Commercial Capital`,
   primaryKw: `web design agency dallas`,
   formula: `FAB — Features (Fortune 500 DFW vendor credibility, Telecom Corridor enterprise B2B, FINRA financial services, Texas commercial directness, Core Web Vitals), Advantages (Fortune 500 procurement trust + institutional credibility), Benefits (AT&T/Toyota evaluation + Schwab advisory + professional conversions)`,
   seoTitle: `Web Design Agency Dallas | Fortune 500 DFW Vendor Credibility | Clickmasters`,
   meta: `Clickmasters web design in Dallas. Fortune 500-vendor-credible websites for AT&T, Toyota, Schwab ecosystem and Telecom Corridor enterprise B2B in DFW. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Dallas Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-dallas/","address":{"@type":"PostalAddress","addressLocality":"Dallas","addressRegion":"TX","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Dallas Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-dallas/","address":{"@type":"PostalAddress","addressLocality":"Dallas","addressRegion":"TX","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > Dallas, TX`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN DALLAS?
@@ -111,14 +111,14 @@ Q: What is Texas commercial directness in web design? A: Value proposition withi
 Get Your Free Dallas Website Audit: Phone +1-888-555-CLICK
 Email: dallas@clickmastersdigitalmarketing.com
 Uptown, Plano, Richardson, Frisco, and all of DFW`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-dallas/","/seo-services-dallas/","/web-design-agency-houston/","/industries/technology/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-dallas/","/seo-services-dallas/","/web-design-houston/","/industries/technology/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-dallas/`, status: false },
+      url: { requirement: `Exact: /web-design-dallas/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

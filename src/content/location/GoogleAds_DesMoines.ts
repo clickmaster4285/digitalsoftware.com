@@ -94,7 +94,7 @@ Results: HIPAA/CDPA: Iowa AG compliant | UnityPoint CPL: \$110 vs \$290 generic 
 
 Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
 West Des Moines, Ankeny, Urbandale, and all of Greater Des Moines`,
-  internalLinks: ["/digital-marketing-agency-in-des-moines/","/seo-services-des-moines/","/google-ads-management-services/","/google-ads-management-omaha/"],
+  internalLinks: ["/digital-marketing-agency-des-moines/","/seo-services-des-moines/","/google-ads-management-services/","/google-ads-management-omaha/"],
   
   publishingChecklist: {
     onPageSeo: {

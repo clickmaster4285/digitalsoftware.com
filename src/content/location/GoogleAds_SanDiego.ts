@@ -94,7 +94,7 @@ Results: CCPA-accurate conversions established (28% lower than reported) | New p
 
 Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
 Kearny Mesa, Torrey Pines, La Jolla, and all of San Diego County`,
-  internalLinks: ["/digital-marketing-agency-in-san-diego/","/seo-services-san-diego/","/google-ads-management-services/","/google-ads-management-los-angeles/"],
+  internalLinks: ["/digital-marketing-agency-san-diego/","/seo-services-san-diego/","/google-ads-management-services/","/google-ads-management-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {

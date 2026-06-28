@@ -92,7 +92,7 @@ Results (5 months): OKC Thunder season content: 4.0x above average | Paseo Art W
 
 Phone +1-888-555-CLICK | oklahomacity@clickmastersdigitalmarketing.com
 Bricktown, Paseo Arts District, Midtown, Edmond, and all of Greater OKC`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-oklahoma-city/","/seo-services-oklahoma-city/","/social-media-marketing-dallas/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-oklahoma-city/","/seo-services-oklahoma-city/","/social-media-marketing-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

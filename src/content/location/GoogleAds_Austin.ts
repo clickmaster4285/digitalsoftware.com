@@ -6,7 +6,7 @@
 
 export const GoogleAds_Austin = {
   service: "GoogleAds",
-  serviceSlug: "google-ads",
+  serviceSlug: "google-ads-management",
   city: "Austin",
   citySlug: "austin",
   slug: "/google-ads-management-austin/",
@@ -105,7 +105,7 @@ Q: Austin vs SF/Dallas Google Ads CPCs? A: 15-25% below SF, 5-10% below Dallas. 
 Get Your Free Austin Google Ads Audit: Phone +1-888-555-CLICK
 Email: austin@clickmastersdigitalmarketing.com
 South Congress, The Domain, Round Rock, Cedar Park, and all of Greater Austin`,
-  internalLinks: ["/digital-marketing-agency-in-austin/","/seo-services-austin/","/google-ads-management-services/","/google-ads-management-dallas/","/industries/technology/","/industries/financial-services/"],
+  internalLinks: ["/digital-marketing-agency-austin/","/seo-services-austin/","/google-ads-management-services/","/google-ads-management-dallas/","/industries/technology/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

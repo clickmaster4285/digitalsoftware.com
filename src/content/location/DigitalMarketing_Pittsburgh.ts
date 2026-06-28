@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Pittsburgh.xlsx
 // Service: DigitalMarketing
 // City: Pittsburgh
-// URL: /digital-marketing-agency-in-pittsburgh/
+// URL: /digital-marketing-agency-pittsburgh/
 // Generated: 2026-06-20T06:12:59.195Z
 
 export const DigitalMarketing_Pittsburgh = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Pittsburgh = {
   serviceSlug: "digital-marketing",
   city: "Pittsburgh",
   citySlug: "pittsburgh",
-  slug: "/digital-marketing-agency-in-pittsburgh/",
+  slug: "/digital-marketing-agency-pittsburgh/",
   
   h1: `Digital Marketing Agency Pittsburgh — UPMC World-Class Revenue, CMU AI Corridor, and Steel City Commercial Growth`,
   primaryKw: `digital marketing agency pittsburgh`,
   formula: `BAB — Pittsburgh UPMC health IT vendors invisible + CMU AI/Aurora autonomous vehicle unaddressed + PPG/PNC Fortune 500 vendors unreached + Allegheny Health/Highmark managed care unaddressed → CLICK Growth System for America's AI research capital and world-class medical city`,
   seoTitle: `Digital Marketing Agency Pittsburgh | UPMC Revenue & CMU AI Corridor Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Pittsburgh. UPMC world-class health IT revenue, Carnegie Mellon AI research community, Pittsburgh AI Corridor, and PPG/PNC Fortune 500 for the Steel City. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Pittsburgh Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-pittsburgh/","address":{"@type":"PostalAddress","addressLocality":"Pittsburgh","addressRegion":"PA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Pittsburgh Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-pittsburgh/","address":{"@type":"PostalAddress","addressLocality":"Pittsburgh","addressRegion":"PA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN PITTSBURGH?
@@ -109,14 +109,14 @@ Results (11 months): Page 1 for 9 Pittsburgh fintech queries | PNC evaluation: e
 
 Phone +1-888-555-CLICK | pittsburgh@clickmastersdigitalmarketing.com
 Shadyside, Squirrel Hill, Lawrenceville, South Side, and all of Greater Pittsburgh`,
-  internalLinks: ["/seo-services-pittsburgh/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-cleveland/","/digital-marketing-agency-in-philadelphia/"],
+  internalLinks: ["/seo-services-pittsburgh/","/digital-marketing-agency-usa/","/digital-marketing-agency-cleveland/","/digital-marketing-agency-philadelphia/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-pittsburgh/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-pittsburgh/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

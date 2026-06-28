@@ -92,7 +92,7 @@ Results: Pre-Derby April email: 4.4x above average | Derby week activation: 4.0x
 
 Phone +1-888-555-CLICK | louisville@clickmastersdigitalmarketing.com
 Highlands, NuLu, St. Matthews, Jeffersontown, and all of Greater Louisville`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-louisville/","/seo-services-louisville/","/email-marketing-nashville/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-louisville/","/seo-services-louisville/","/email-marketing-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -108,7 +108,7 @@ Q: GEO/AEO for Portland? A: Nike sourcing and Intel procurement using ChatGPT/Pe
 Get Your Free Portland Content Marketing Audit: Phone +1-888-555-CLICK
 Email: portland@clickmastersdigitalmarketing.com
 Pearl District, Beaverton, Hillsboro, and all of Greater Portland`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-portland/","/seo-services-portland/","/content-marketing-seattle/","/industries/outdoor-apparel/","/industries/manufacturing/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-portland/","/seo-services-portland/","/content-marketing-seattle/","/industries/outdoor-apparel/","/industries/manufacturing/"],
   
   publishingChecklist: {
     onPageSeo: {

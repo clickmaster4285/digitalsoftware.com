@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Houston.xlsx
 // Service: WebDesign
 // City: Houston
-// URL: /web-design-agency-houston/
+// URL: /web-design-houston/
 // Generated: 2026-06-20T06:13:03.605Z
 
 export const WebDesign_Houston = {
@@ -9,14 +9,14 @@ export const WebDesign_Houston = {
   serviceSlug: "web-design",
   city: "Houston",
   citySlug: "houston",
-  slug: "/web-design-agency-houston/",
+  slug: "/web-design-houston/",
   
   h1: `Web Design Agency Houston — API/HSE-Credible Energy Websites and Bilingual HIPAA Healthcare Design`,
   primaryKw: `web design agency houston`,
   formula: `FAB — Features (API/HSE energy procurement credibility, bilingual HIPAA healthcare, TMC institutional standard, Core Web Vitals), Advantages (energy procurement trust + bilingual market reach), Benefits (energy RFQs + Spanish patient acquisition + TMC vendor evaluation)`,
   seoTitle: `Web Design Agency Houston | API Energy Credibility & Bilingual HIPAA | Clickmasters`,
   meta: `Clickmasters web design in Houston. API/HSE energy procurement credibility, bilingual Spanish/English HIPAA healthcare, and Texas Medical Center institutional standard. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Houston Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-houston/","address":{"@type":"PostalAddress","addressLocality":"Houston","addressRegion":"TX","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Houston Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-houston/","address":{"@type":"PostalAddress","addressLocality":"Houston","addressRegion":"TX","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > Houston, TX`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN HOUSTON?
@@ -109,14 +109,14 @@ Q: HIPAA-compliant bilingual websites for Houston healthcare? A: Yes — BAA-cov
 Get Your Free Houston Website Audit: Phone +1-888-555-CLICK
 Email: houston@clickmastersdigitalmarketing.com
 Energy Corridor, Medical Center, The Woodlands, and all of Greater Houston`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-houston/","/seo-services-houston/","/web-design-agency-dallas/","/industries/oil-gas/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-houston/","/seo-services-houston/","/web-design-dallas/","/industries/oil-gas/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-houston/`, status: false },
+      url: { requirement: `Exact: /web-design-houston/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

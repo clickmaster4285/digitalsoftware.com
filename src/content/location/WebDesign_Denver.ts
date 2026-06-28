@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Denver.xlsx
 // Service: WebDesign
 // City: Denver
-// URL: /web-design-agency-denver/
+// URL: /web-design-denver/
 // Generated: 2026-06-20T06:13:03.572Z
 
 export const WebDesign_Denver = {
@@ -9,14 +9,14 @@ export const WebDesign_Denver = {
   serviceSlug: "web-design",
   city: "Denver",
   citySlug: "denver",
-  slug: "/web-design-agency-denver/",
+  slug: "/web-design-denver/",
   
   h1: `Web Design Agency Denver — Aerospace Credibility, NREL Clean Energy Authority, and CA In-Migration Professional Standard`,
   primaryKw: `web design agency denver`,
   formula: `FAB — Features (ITAR-bounded AS9100D credential display, NREL clean energy evidence visual architecture, CA in-migration professional quality standard, FINRA financial, CWV), Advantages (defence procurement credibility + NREL community authority + in-migration professional trust), Benefits (Lockheed/Ball evaluations + clean energy partnerships + Cherry Creek HNW clients)`,
   seoTitle: `Web Design Agency Denver | Aerospace Credibility & NREL Clean Energy | Clickmasters`,
   meta: `Clickmasters web design in Denver. ITAR-bounded aerospace credential architecture, NREL clean energy visual authority, and California in-migration professional quality standard for Colorado. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Denver Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-denver/","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Denver Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-denver/","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > Denver, CO`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN DENVER?
@@ -111,14 +111,14 @@ Q: What is the CA in-migration professional quality standard for Denver? A: Bay 
 Get Your Free Denver Website Audit: Phone +1-888-555-CLICK
 Email: denver@clickmastersdigitalmarketing.com
 Englewood, Cherry Creek, Boulder, Colorado Springs, and all of Colorado`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-denver/","/seo-services-denver/","/web-design-agency-seattle/","/industries/manufacturing/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-denver/","/seo-services-denver/","/web-design-seattle/","/industries/manufacturing/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-denver/`, status: false },
+      url: { requirement: `Exact: /web-design-denver/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

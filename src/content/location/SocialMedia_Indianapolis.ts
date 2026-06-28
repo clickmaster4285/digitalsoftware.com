@@ -96,7 +96,7 @@ Results (5 months): Instagram engagement: 1.4% to 4.8% | Mass Ave editorial feat
 
 Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
 Carmel, Fishers, Mass Ave, Broad Ripple, and all of Greater Indianapolis`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-indianapolis/","/seo-services-indianapolis/","/social-media-marketing-chicago/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-indianapolis/","/seo-services-indianapolis/","/social-media-marketing-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

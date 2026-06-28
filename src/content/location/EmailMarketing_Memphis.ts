@@ -92,7 +92,7 @@ Results: Memphis in May BBQ pre-season: 4.4x above average | Beale Street Music:
 
 Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
 Germantown, Collierville, Cooper-Young, Midtown, and all of Greater Memphis`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-memphis/","/seo-services-memphis/","/email-marketing-nashville/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-memphis/","/seo-services-memphis/","/email-marketing-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

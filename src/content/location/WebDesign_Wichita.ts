@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Wichita.xlsx
 // Service: WebDesign
 // City: Wichita
-// URL: /web-design-agency-wichita/
+// URL: /web-design-wichita/
 // Generated: 2026-06-20T06:13:04.094Z
 
 export const WebDesign_Wichita = {
@@ -9,14 +9,14 @@ export const WebDesign_Wichita = {
   serviceSlug: "web-design",
   city: "Wichita",
   citySlug: "wichita",
-  slug: "/web-design-agency-wichita/",
+  slug: "/web-design-wichita/",
   
   h1: `Web Design Agency Wichita — Spirit AeroSystems ITAR-Bounded Institutional, Textron Aviation Quality, and Via Christi YMYL HIPAA`,
   primaryKw: `web design agency wichita`,
   formula: `FAB — Spirit AeroSystems ITAR-bounded publicly releasable aerostructures institutional credibility + Textron Aviation/Cessna/Beechcraft business aviation enterprise quality + Via Christi/Ascension/Wesley YMYL HIPAA + Koch Industries industrial + authentic Wichita Old Town/Delano/College Hill identity`,
   seoTitle: `Web Design Agency Wichita | Spirit AeroSystems ITAR-Bounded & Textron Aviation Quality | Clickmasters`,
   meta: `Clickmasters web design in Wichita. Spirit AeroSystems ITAR-bounded aerostructures institutional, Textron Aviation business aviation quality, Via Christi YMYL HIPAA, and authentic Old Town/Delano brand. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Wichita Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-wichita/","address":{"@type":"PostalAddress","addressLocality":"Wichita","addressRegion":"KS","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Wichita Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-wichita/","address":{"@type":"PostalAddress","addressLocality":"Wichita","addressRegion":"KS","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3200,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN WICHITA?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | Via Christi: cited | HIPAA: clean | New patients: +3x |
 
 Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
 Andover, Derby, Old Town, Delano, and all of Greater Wichita`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-wichita/","/seo-services-wichita/","/web-design-agency-kansas-city/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-wichita/","/seo-services-wichita/","/web-design-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-wichita/`, status: false },
+      url: { requirement: `Exact: /web-design-wichita/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

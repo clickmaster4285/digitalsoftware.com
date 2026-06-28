@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Jacksonville.xlsx
 // Service: DigitalMarketing
 // City: Jacksonville
-// URL: /digital-marketing-agency-in-jacksonville/
+// URL: /digital-marketing-agency-jacksonville/
 // Generated: 2026-06-20T06:12:58.971Z
 
 export const DigitalMarketing_Jacksonville = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Jacksonville = {
   serviceSlug: "digital-marketing",
   city: "Jacksonville",
   citySlug: "jacksonville",
-  slug: "/digital-marketing-agency-in-jacksonville/",
+  slug: "/digital-marketing-agency-jacksonville/",
   
   h1: `Digital Marketing Agency Jacksonville — FIS Global Revenue, Florida Blue Insurance Tech, Baptist Health YMYL, and First Coast Commercial Growth`,
   primaryKw: `digital marketing agency jacksonville`,
   formula: `BAB — Jacksonville FIS Global/Florida Blue fintech vendors invisible + Baptist Health/Nemours health IT unreached + NAS Jacksonville/Mayport military community unaddressed + Landstar/Fidelity National Fortune 500 unaddressed → CLICK Growth System for the First Coast's fintech and healthcare capital`,
   seoTitle: `Digital Marketing Agency Jacksonville | FIS Global Revenue & Baptist Health Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Jacksonville. FIS Global FINRA fintech revenue, Florida Blue insurance technology, Baptist Health/Nemours YMYL, and NAS Jacksonville military community. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Jacksonville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-jacksonville/","address":{"@type":"PostalAddress","addressLocality":"Jacksonville","addressRegion":"FL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Jacksonville Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-jacksonville/","address":{"@type":"PostalAddress","addressLocality":"Jacksonville","addressRegion":"FL","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN JACKSONVILLE?
@@ -109,14 +109,14 @@ Results (11 months): Military organic leads: +3x | New military AUM: \$12M | FIN
 
 Phone +1-888-555-CLICK | jacksonville@clickmastersdigitalmarketing.com
 Ponte Vedra Beach, Orange Park, St. Johns, and all of Greater Jacksonville`,
-  internalLinks: ["/seo-services-jacksonville/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-orlando/","/digital-marketing-agency-in-miami/"],
+  internalLinks: ["/seo-services-jacksonville/","/digital-marketing-agency-usa/","/digital-marketing-agency-orlando/","/digital-marketing-agency-miami/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-jacksonville/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-jacksonville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

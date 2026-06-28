@@ -96,7 +96,7 @@ Results (5 months): Pre-Mardi Gras content: 4.2x above average engagement | Jazz
 
 Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
 French Quarter, Garden District, Bywater, Metairie, and all of Greater New Orleans`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-new-orleans/","/seo-services-new-orleans/","/social-media-marketing-houston/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-new-orleans/","/seo-services-new-orleans/","/social-media-marketing-houston/"],
   
   publishingChecklist: {
     onPageSeo: {

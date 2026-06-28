@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Boise.xlsx
 // Service: WebDesign
 // City: Boise
-// URL: /web-design-agency-boise/
+// URL: /web-design-boise/
 // Generated: 2026-06-20T06:13:03.474Z
 
 export const WebDesign_Boise = {
@@ -9,14 +9,14 @@ export const WebDesign_Boise = {
   serviceSlug: "web-design",
   city: "Boise",
   citySlug: "boise",
-  slug: "/web-design-agency-boise/",
+  slug: "/web-design-boise/",
   
   h1: `Web Design Agency Boise — Micron Technology Semiconductor Institutional Credibility, Albertsons Retail Quality, and St. Luke's YMYL HIPAA`,
   primaryKw: `web design agency boise`,
   formula: `FAB — Micron Technology DRAM/NAND semiconductor institutional vendor credibility + Albertsons grocery retail enterprise quality + St. Luke's/Saint Alphonsus YMYL HIPAA Idaho academic + HP Inc enterprise institutional + authentic Boise Hyde Park/North End/BoDo identity + California in-migration Idaho quality signal`,
   seoTitle: `Web Design Agency Boise | Micron Technology Semiconductor & Albertsons Retail Quality | Clickmasters`,
   meta: `Clickmasters web design in Boise. Micron Technology semiconductor institutional credibility, Albertsons grocery retail enterprise quality, St. Luke's/Saint Alphonsus YMYL HIPAA, and authentic Hyde Park/North End Boise brand. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boise Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-boise/","address":{"@type":"PostalAddress","addressLocality":"Boise","addressRegion":"ID","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boise Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-boise/","address":{"@type":"PostalAddress","addressLocality":"Boise","addressRegion":"ID","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3400,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN BOISE?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | St. Luke's: cited | HIPAA: clean | New patients: +3x | 
 
 Phone +1-888-555-CLICK | boise@clickmastersdigitalmarketing.com
 Meridian, Eagle, Nampa, Hyde Park, and all of Greater Boise`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-boise/","/seo-services-boise/","/web-design-agency-salt-lake-city/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-boise/","/seo-services-boise/","/web-design-salt-lake-city/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-boise/`, status: false },
+      url: { requirement: `Exact: /web-design-boise/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

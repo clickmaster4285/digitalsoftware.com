@@ -108,7 +108,7 @@ Q: How long does OTC reactivation email produce energy results? A: First re-enga
 Get Your Free Houston Email Marketing Audit: Phone +1-888-555-CLICK
 Email: houston@clickmastersdigitalmarketing.com
 Energy Corridor, Medical Center, The Woodlands, and all of Greater Houston`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-houston/","/seo-services-houston/","/email-marketing-dallas/","/integrations/hubspot-marketing/","/industries/oil-gas/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-houston/","/seo-services-houston/","/email-marketing-dallas/","/integrations/hubspot-marketing/","/industries/oil-gas/"],
   
   publishingChecklist: {
     onPageSeo: {

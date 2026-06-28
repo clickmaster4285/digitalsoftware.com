@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Indianapolis.xlsx
 // Service: WebDesign
 // City: Indianapolis
-// URL: /web-design-agency-indianapolis/
+// URL: /web-design-indianapolis/
 // Generated: 2026-06-20T06:13:03.648Z
 
 export const WebDesign_Indianapolis = {
@@ -9,14 +9,14 @@ export const WebDesign_Indianapolis = {
   serviceSlug: "web-design",
   city: "Indianapolis",
   citySlug: "indianapolis",
-  slug: "/web-design-agency-indianapolis/",
+  slug: "/web-design-indianapolis/",
   
   h1: `Web Design Agency Indianapolis — Eli Lilly Pharma Vendor Credibility, Cummins Fortune 500 Quality, and IU Health YMYL`,
   primaryKw: `web design agency indianapolis`,
   formula: `FAB — Eli Lilly GMP pharma vendor institutional credibility + Cummins/Simon Fortune 500 enterprise quality + IU Health YMYL HIPAA + Indy 500 motorsports vendor + sub-1.6s LCP Midwest professional`,
   seoTitle: `Web Design Agency Indianapolis | Eli Lilly Pharma Credibility & Cummins Quality | Clickmasters`,
   meta: `Clickmasters web design in Indianapolis. Eli Lilly pharmaceutical vendor institutional credibility, Cummins/Simon Fortune 500 quality, and IU Health YMYL HIPAA. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Indianapolis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-indianapolis/","address":{"@type":"PostalAddress","addressLocality":"Indianapolis","addressRegion":"IN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Indianapolis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-indianapolis/","address":{"@type":"PostalAddress","addressLocality":"Indianapolis","addressRegion":"IN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN INDIANAPOLIS?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T recognised | IU affiliation: cited in patient surveys | H
 
 Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
 Carmel, Fishers, Zionsville, and all of Greater Indianapolis`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-indianapolis/","/seo-services-indianapolis/","/web-design-agency-chicago/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-indianapolis/","/seo-services-indianapolis/","/web-design-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-indianapolis/`, status: false },
+      url: { requirement: `Exact: /web-design-indianapolis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

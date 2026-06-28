@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Memphis.xlsx
 // Service: WebDesign
 // City: Memphis
-// URL: /web-design-agency-memphis/
+// URL: /web-design-memphis/
 // Generated: 2026-06-20T06:13:03.792Z
 
 export const WebDesign_Memphis = {
@@ -9,14 +9,14 @@ export const WebDesign_Memphis = {
   serviceSlug: "web-design",
   city: "Memphis",
   citySlug: "memphis",
-  slug: "/web-design-agency-memphis/",
+  slug: "/web-design-memphis/",
   
   h1: `Web Design Agency Memphis — FedEx Logistics Institutional Credibility, St. Jude World-Class YMYL HIPAA TIPA, and AutoZone Retail Quality`,
   primaryKw: `web design agency memphis`,
   formula: `FAB — FedEx logistics institutional vendor credibility (WTC quality standard) + St. Jude world-class YMYL HIPAA TIPA academic paediatric oncology + AutoZone automotive retail enterprise quality + Baptist Memorial/Methodist Le Bonheur YMYL + authentic Memphis Cooper-Young/Midtown identity`,
   seoTitle: `Web Design Agency Memphis | FedEx Logistics Credibility & St. Jude YMYL | Clickmasters`,
   meta: `Clickmasters web design in Memphis. FedEx logistics World Technology Center credibility, St. Jude world-class YMYL HIPAA TIPA, and AutoZone automotive retail enterprise quality. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Memphis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-memphis/","address":{"@type":"PostalAddress","addressLocality":"Memphis","addressRegion":"TN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Memphis Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-memphis/","address":{"@type":"PostalAddress","addressLocality":"Memphis","addressRegion":"TN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN MEMPHIS?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | Baptist: cited | HIPAA/TIPA: clean | New patients: +3x 
 
 Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
 Germantown, Collierville, Bartlett, Midtown, and all of Greater Memphis`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-memphis/","/seo-services-memphis/","/web-design-agency-nashville/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-memphis/","/seo-services-memphis/","/web-design-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-memphis/`, status: false },
+      url: { requirement: `Exact: /web-design-memphis/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Atlanta.xlsx
 // Service: WebDesign
 // City: Atlanta
-// URL: /web-design-agency-atlanta/
+// URL: /web-design-atlanta/
 // Generated: 2026-06-20T06:13:03.419Z
 
 export const WebDesign_Atlanta = {
@@ -9,14 +9,14 @@ export const WebDesign_Atlanta = {
   serviceSlug: "web-design",
   city: "Atlanta",
   citySlug: "atlanta",
-  slug: "/web-design-agency-atlanta/",
+  slug: "/web-design-atlanta/",
   
   h1: `Web Design Agency Atlanta — Fortune 500-Vendor-Credible Websites for Georgia's Commercial Capital`,
   primaryKw: `web design agency atlanta`,
   formula: `FAB — Features (Fortune 500 vendor credibility, Transaction Alley PCI-DSS, LA-standard film/entertainment, HIPAA healthcare, Core Web Vitals), Advantages (procurement trust + compliance), Benefits (Fortune 500 RFPs + fintech partnerships + patient acquisition)`,
   seoTitle: `Web Design Agency Atlanta | Fortune 500-Credible & Transaction Alley | Clickmasters`,
   meta: `Clickmasters web design in Atlanta. Fortune 500-vendor-credible websites, Transaction Alley PCI-DSS fintech design, and LA-standard entertainment for Georgia's commercial capital. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Atlanta Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-atlanta/","address":{"@type":"PostalAddress","addressLocality":"Atlanta","addressRegion":"GA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Atlanta Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-atlanta/","address":{"@type":"PostalAddress","addressLocality":"Atlanta","addressRegion":"GA","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > Atlanta, GA`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN ATLANTA?
@@ -114,14 +114,14 @@ Q: How long does Atlanta web design take? A: Business: 8-14 weeks. Fintech: 10-1
 Get Your Free Atlanta Website Audit: Phone +1-888-555-CLICK
 Email: atlanta@clickmastersdigitalmarketing.com
 Midtown, Buckhead, Sandy Springs, Alpharetta, and all of Metro Atlanta`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-atlanta/","/seo-services-atlanta/","/web-design-agency-dallas/","/industries/fintech/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-atlanta/","/seo-services-atlanta/","/web-design-dallas/","/industries/fintech/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-atlanta/`, status: false },
+      url: { requirement: `Exact: /web-design-atlanta/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

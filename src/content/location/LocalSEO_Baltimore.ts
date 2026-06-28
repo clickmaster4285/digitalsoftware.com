@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Fells Point professional services | TRP com
 
 Phone +1-888-555-CLICK | baltimore@clickmastersdigitalmarketing.com
 Roland Park, Guilford, Fells Point, Hampden, and all of Greater Baltimore`,
-  internalLinks: ["/local-seo-services/","/seo-services-baltimore/","/digital-marketing-agency-in-baltimore/","/local-seo-services-pittsburgh/"],
+  internalLinks: ["/local-seo-services/","/seo-services-baltimore/","/digital-marketing-agency-baltimore/","/local-seo-services-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {

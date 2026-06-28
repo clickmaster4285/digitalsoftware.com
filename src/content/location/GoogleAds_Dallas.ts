@@ -105,7 +105,7 @@ Q: DFW Google Ads efficiency window vs NYC? A: Dallas CPCs 20-25% below NYC for 
 Get Your Free Dallas Google Ads Audit: Phone +1-888-555-CLICK
 Email: dallas@clickmastersdigitalmarketing.com
 Uptown, Plano, Richardson, Frisco, Irving, and all of DFW`,
-  internalLinks: ["/digital-marketing-agency-in-dallas/","/seo-services-dallas/","/google-ads-management-services/","/google-ads-management-houston/","/industries/technology/","/industries/financial-services/"],
+  internalLinks: ["/digital-marketing-agency-dallas/","/seo-services-dallas/","/google-ads-management-services/","/google-ads-management-houston/","/industries/technology/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Phoenix.xlsx
 // Service: WebDesign
 // City: Phoenix
-// URL: /web-design-agency-phoenix/
+// URL: /web-design-phoenix/
 // Generated: 2026-06-20T06:13:03.944Z
 
 export const WebDesign_Phoenix = {
@@ -9,14 +9,14 @@ export const WebDesign_Phoenix = {
   serviceSlug: "web-design",
   city: "Phoenix",
   citySlug: "phoenix",
-  slug: "/web-design-agency-phoenix/",
+  slug: "/web-design-phoenix/",
   
   h1: `Web Design Agency Phoenix — TSMC Semiconductor Credibility, CA In-Migration Quality Standard, and Arizona Commercial Design`,
   primaryKw: `web design agency phoenix`,
   formula: `FAB — TSMC Fab 21 semiconductor vendor institutional credibility + CA in-migration Bay Area professional quality + Mayo Clinic/Banner YMYL HIPAA + Arizona aerospace ITAR-bounded + sub-1.6s LCP Arizona heat-test performance`,
   seoTitle: `Web Design Agency Phoenix | TSMC Semiconductor Credibility & CA In-Migration | Clickmasters`,
   meta: `Clickmasters web design in Phoenix. TSMC/Intel Fab 21 semiconductor vendor credibility, California in-migration Bay Area quality standard, and Mayo Clinic/Banner YMYL for Arizona's commercial capital. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Phoenix Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-phoenix/","address":{"@type":"PostalAddress","addressLocality":"Phoenix","addressRegion":"AZ","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Phoenix Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-phoenix/","address":{"@type":"PostalAddress","addressLocality":"Phoenix","addressRegion":"AZ","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3800,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN PHOENIX?
@@ -92,14 +92,14 @@ Results: YMYL E-E-A-T recognition: Google certified | New patients: +3x | HIPAA:
 
 Phone +1-888-555-CLICK | phoenix@clickmastersdigitalmarketing.com
 Chandler, Scottsdale, Tempe, Mesa, and all of Greater Phoenix`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-phoenix/","/seo-services-phoenix/","/web-design-agency-las-vegas/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-phoenix/","/seo-services-phoenix/","/web-design-las-vegas/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-phoenix/`, status: false },
+      url: { requirement: `Exact: /web-design-phoenix/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

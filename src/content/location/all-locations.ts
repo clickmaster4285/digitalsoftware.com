@@ -20651,7 +20651,7 @@ Gastown, Kitsilano, Granville Island, and all of Metro Vancouver`,
 
 export const WebDesign_AbuDhabi = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "AbuDhabi",
   citySlug: "abu-dhabi",
   slug: "/web-design-agency-abu-dhabi/",
@@ -20787,7 +20787,7 @@ ADGM Al Maryah Island, Khalidiyah, Yas Island, and all of Abu Dhabi Emirate`,
 
 export const WebDesign_Birmingham = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Birmingham",
   citySlug: "birmingham",
   slug: "/web-design-agency-birmingham/",
@@ -20921,7 +20921,7 @@ Centenary Square, Brindleyplace, Digbeth, and all of Greater Birmingham`,
 
 export const WebDesign_Brisbane = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Brisbane",
   citySlug: "brisbane",
   slug: "/web-design-agency-brisbane/",
@@ -21000,7 +21000,7 @@ Results: South Bank positioning: visits +40% | Revenue: +AUD\$120K per annum | B
 
 Phone +61 7 9946 CLICK | brisbane@clickmastersdigitalmarketing.com
 South Bank, Fortitude Valley, New Farm, and all of Greater Brisbane`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-brisbane/","/seo-services-brisbane/","/web-design-agency-sydney/"],
+  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-brisbane/","/seo-services-brisbane/","/web-design-agency-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -21036,7 +21036,7 @@ South Bank, Fortitude Valley, New Farm, and all of Greater Brisbane`,
 
 export const WebDesign_Bristol = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Bristol",
   citySlug: "bristol",
   slug: "/web-design-agency-bristol/",
@@ -21170,7 +21170,7 @@ Harbourside, Clifton, Temple Quarter, and all of Greater Bristol`,
 
 export const WebDesign_Calgary = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Calgary",
   citySlug: "calgary",
   slug: "/web-design-agency-calgary/",
@@ -21304,7 +21304,7 @@ Downtown, Beltline, Eau Claire, and all of Greater Calgary`,
 
 export const WebDesign_Dubai = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Dubai",
   citySlug: "dubai",
   slug: "/web-design-agency-dubai/",
@@ -21395,7 +21395,7 @@ Results: Emirati brand positioning: visits +40% | Average order: +AED 450 | UAE 
 
 Phone +971 4 946 CLICK | dubai@clickmastersdigitalmarketing.com
 DIFC, Downtown Dubai, Business Bay, and all of Dubai`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-dubai/","/seo-services-dubai/","/web-design-agency-abu-dhabi/"],
+  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-dubai/","/seo-services-dubai/","/web-design-agency-abu-dhabi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -21431,7 +21431,7 @@ DIFC, Downtown Dubai, Business Bay, and all of Dubai`,
 
 export const WebDesign_Edinburgh = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Edinburgh",
   citySlug: "edinburgh",
   slug: "/web-design-agency-edinburgh/",
@@ -21563,7 +21563,7 @@ George Street, Leith, Old Town, and all of Greater Edinburgh`,
 
 export const WebDesign_Glasgow = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Glasgow",
   citySlug: "glasgow",
   slug: "/web-design-agency-glasgow/",
@@ -21695,7 +21695,7 @@ George Square, IFSD, Merchant City, and all of Greater Glasgow`,
 
 export const WebDesign_Karachi = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Karachi",
   citySlug: "karachi",
   slug: "/web-design-agency-karachi/",
@@ -21825,7 +21825,7 @@ Clifton, DHA, PECHS, and all of Greater Karachi`,
 
 export const WebDesign_Lahore = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Lahore",
   citySlug: "lahore",
   slug: "/web-design-agency-lahore/",
@@ -21955,7 +21955,7 @@ Gulberg, DHA Lahore, Model Town, and all of Greater Lahore`,
 
 export const WebDesign_Leeds = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Leeds",
   citySlug: "leeds",
   slug: "/web-design-agency-leeds/",
@@ -22087,7 +22087,7 @@ Wellington Place, Park Row, Headingley, and all of West Yorkshire`,
 
 export const WebDesign_London = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "London",
   citySlug: "london",
   slug: "/web-design-agency-london/",
@@ -22173,7 +22173,7 @@ Results: Series B investors: quality cited | UK enterprise pipeline: engaged | D
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 City of London, Canary Wharf, Shoreditch, Mayfair, and all of Greater London`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-london/","/seo-services-london/","/web-design-agency-manchester/"],
+  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-london/","/seo-services-london/","/web-design-agency-manchester/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -22209,7 +22209,7 @@ City of London, Canary Wharf, Shoreditch, Mayfair, and all of Greater London`,
 
 export const WebDesign_Manchester = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Manchester",
   citySlug: "manchester",
   slug: "/web-design-agency-manchester/",
@@ -22298,7 +22298,7 @@ Results: NQ positioning: visits +40% | Average order: +£45 | Manchester media: 
 
 Phone +44 161 946 CLICK | manchester@clickmastersdigitalmarketing.com
 MediaCityUK, Spinningfields, Northern Quarter, and all of Greater Manchester`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-manchester/","/seo-services-manchester/","/web-design-agency-london/"],
+  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-manchester/","/seo-services-manchester/","/web-design-agency-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -22334,7 +22334,7 @@ MediaCityUK, Spinningfields, Northern Quarter, and all of Greater Manchester`,
 
 export const WebDesign_Melbourne = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Melbourne",
   citySlug: "melbourne",
   slug: "/web-design-agency-melbourne/",
@@ -22466,7 +22466,7 @@ Collins Street, Southbank, Fitzroy, and all of Greater Melbourne`,
 
 export const WebDesign_Montreal = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Montreal",
   citySlug: "montreal",
   slug: "/web-design-agency-montreal/",
@@ -22600,7 +22600,7 @@ Quartier des Affaires, Plateau-Mont-Royal, Mile End, and all of Grand Montréal`
 
 export const WebDesign_Perth = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Perth",
   citySlug: "perth",
   slug: "/web-design-agency-perth/",
@@ -22730,7 +22730,7 @@ West Perth, Fremantle, Cottesloe, and all of Greater Perth`,
 
 export const WebDesign_Sharjah = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Sharjah",
   citySlug: "sharjah",
   slug: "/web-design-agency-sharjah/",
@@ -22864,7 +22864,7 @@ Al Khan, SAIF Zone, University City, and all of Sharjah Emirate`,
 
 export const WebDesign_Sydney = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Sydney",
   citySlug: "sydney",
   slug: "/web-design-agency-sydney/",
@@ -22950,7 +22950,7 @@ Results: Surry Hills positioning: visits +40% | Average contract: +AUD\$8K | Aus
 
 Phone +61 2 9946 CLICK | sydney@clickmastersdigitalmarketing.com
 Barangaroo, Surry Hills, Newtown, and all of Greater Sydney`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-sydney/","/seo-services-sydney/","/web-design-agency-melbourne/"],
+  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-sydney/","/seo-services-sydney/","/web-design-agency-melbourne/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -22986,7 +22986,7 @@ Barangaroo, Surry Hills, Newtown, and all of Greater Sydney`,
 
 export const WebDesign_Toronto = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Toronto",
   citySlug: "toronto",
   slug: "/web-design-agency-toronto/",
@@ -23077,7 +23077,7 @@ Results: Distillery positioning: visits +40% | Average order: +CAD\$60 | Toronto
 
 Phone +1-416-946-CLICK | toronto@clickmastersdigitalmarketing.com
 Bay Street, Distillery District, Yorkville, and all of Greater Toronto`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-toronto/","/seo-services-toronto/","/web-design-agency-london/"],
+  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-toronto/","/seo-services-toronto/","/web-design-agency-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -23113,7 +23113,7 @@ Bay Street, Distillery District, Yorkville, and all of Greater Toronto`,
 
 export const WebDesign_Vancouver = {
   service: "WebDesign",
-  serviceSlug: "web-design",
+  serviceSlug: "web-design-agency",
   city: "Vancouver",
   citySlug: "vancouver",
   slug: "/web-design-agency-vancouver/",
@@ -23204,7 +23204,7 @@ Results: Gastown positioning: visits +40% | Average order: +CAD\$55 | BC media: 
 
 Phone +1-604-946-CLICK | vancouver@clickmastersdigitalmarketing.com
 Gastown, Yaletown, Granville Island, and all of Metro Vancouver`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-vancouver/","/seo-services-vancouver/","/web-design-agency-toronto/"],
+  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-vancouver/","/seo-services-vancouver/","/web-design-agency-toronto/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -26842,14 +26842,15 @@ export const getLocationsByService = (service: string) => {
     SocialMedia: [SocialMedia_AbuDhabi, SocialMedia_Birmingham, SocialMedia_Brisbane, SocialMedia_Bristol, SocialMedia_Calgary, SocialMedia_Dubai, SocialMedia_Edinburgh, SocialMedia_Glasgow, SocialMedia_Karachi, SocialMedia_Lahore, SocialMedia_Leeds, SocialMedia_London, SocialMedia_Manchester, SocialMedia_Melbourne, SocialMedia_Montreal, SocialMedia_Perth, SocialMedia_Sharjah, SocialMedia_Sydney, SocialMedia_Toronto, SocialMedia_Vancouver],
     WebDesign: [WebDesign_AbuDhabi, WebDesign_Birmingham, WebDesign_Brisbane, WebDesign_Bristol, WebDesign_Calgary, WebDesign_Dubai, WebDesign_Edinburgh, WebDesign_Glasgow, WebDesign_Karachi, WebDesign_Lahore, WebDesign_Leeds, WebDesign_London, WebDesign_Manchester, WebDesign_Melbourne, WebDesign_Montreal, WebDesign_Perth, WebDesign_Sharjah, WebDesign_Sydney, WebDesign_Toronto, WebDesign_Vancouver],
     WebDevelopment: [WebDevelopment_AbuDhabi, WebDevelopment_Birmingham, WebDevelopment_Brisbane, WebDevelopment_Bristol, WebDevelopment_Calgary, WebDevelopment_Dubai, WebDevelopment_Edinburgh, WebDevelopment_Glasgow, WebDevelopment_Karachi, WebDevelopment_Lahore, WebDevelopment_Leeds, WebDevelopment_London, WebDevelopment_Manchester, WebDevelopment_Melbourne, WebDevelopment_Montreal, WebDevelopment_Perth, WebDevelopment_Sharjah, WebDevelopment_Sydney, WebDevelopment_Toronto, WebDevelopment_Vancouver],
-    PPC: [PPC_AbuDhabi, PPC_Birmingham, PPC_Brisbane, PPC_Bristol, PPC_Calgary, PPC_Dubai, PPC_Edinburgh, PPC_Glasgow, PPC_Karachi, PPC_Lahore, PPC_Leeds, PPC_London, PPC_Manchester, PPC_Melbourne, PPC_Montreal, PPC_Perth, PPC_Sharjah, PPC_Sydney, PPC_Toronto, PPC_Vancouver]
+    PPC: [PPC_AbuDhabi, PPC_Birmingham, PPC_Brisbane, PPC_Bristol, PPC_Calgary, PPC_Dubai, PPC_Edinburgh, PPC_Glasgow, PPC_Karachi, PPC_Lahore, PPC_Leeds, PPC_London, PPC_Manchester, PPC_Melbourne, PPC_Montreal, PPC_Perth, PPC_Sharjah, PPC_Sydney, PPC_Toronto, PPC_Vancouver],
+
   };
   return serviceMap[service] || [];
 };
 
 // Get all service names
 export const getAllServiceNames = () => [
-  "ContentMarketing", "DigitalMarketing", "EmailMarketing", "GoogleAds", "LocalSEO", "SEO", "SocialMedia", "WebDesign", "WebDevelopment", "PPC"
+  "ContentMarketing","PayPerClickPpc", "DigitalMarketing", "EmailMarketing", "GoogleAds", "LocalSEO", "SEO", "SocialMedia", "WebDesign", "WebDevelopment", "PPC"
 ];
 
 // Get all city names

@@ -94,7 +94,7 @@ Results (10 months): Page 1 for 9 OKC HR tech queries | Paycom VP: organic disco
 
 Phone +1-888-555-CLICK | oklahomacity@clickmastersdigitalmarketing.com
 Edmond, Norman, Bricktown, Paseo, and all of Greater OKC`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-oklahoma-city/","/seo-services-oklahoma-city/","/content-marketing-dallas/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-oklahoma-city/","/seo-services-oklahoma-city/","/content-marketing-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Atlanta.xlsx
 // Service: DigitalMarketing
 // City: Atlanta
-// URL: /digital-marketing-agency-in-atlanta/
+// URL: /digital-marketing-agency-atlanta/
 // Generated: 2026-06-20T06:12:58.677Z
 
 export const DigitalMarketing_Atlanta = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Atlanta = {
   serviceSlug: "digital-marketing",
   city: "Atlanta",
   citySlug: "atlanta",
-  slug: "/digital-marketing-agency-in-atlanta/",
+  slug: "/digital-marketing-agency-atlanta/",
   
   h1: `Digital Marketing Agency Atlanta — Fortune 500 Vendor Revenue Growth for Georgia's Southeast Commercial Capital`,
   primaryKw: `digital marketing agency atlanta`,
   formula: `BAB — Atlanta Fortune 500 vendor companies serving Coca-Cola/Delta/Home Depot through existing relationships → invisible to new executives arriving without connections + Transaction Alley fintech not discoverable → CLICK Growth System Atlanta`,
   seoTitle: `Digital Marketing Agency Atlanta | Fortune 500 & Transaction Alley Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Atlanta. Fortune 500 vendor revenue for Coca-Cola, Delta, Home Depot ecosystem and Transaction Alley fintech growth for Georgia's commercial capital. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Atlanta Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-atlanta/","address":{"@type":"PostalAddress","addressLocality":"Atlanta","addressRegion":"GA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Atlanta Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-atlanta/","address":{"@type":"PostalAddress","addressLocality":"Atlanta","addressRegion":"GA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN ATLANTA?
@@ -50,7 +50,7 @@ EMAIL ATLANTA: Fortune 500 pipeline nurture HubSpot (90-180 day cycles). Transac
 
 LOCAL SEO ATLANTA: Fortune 500 proximity Buckhead/Midtown GBP. Sandy Springs Transaction Alley B2B. FINRA/HIPAA review management. /local-seo-services-atlanta/
 
-WEB DESIGN ATLANTA: Fortune 500 vendor institutional credibility. Transaction Alley payment tech. HIPAA healthcare. /web-design-agency-atlanta/`,
+WEB DESIGN ATLANTA: Fortune 500 vendor institutional credibility. Transaction Alley payment tech. HIPAA healthcare. /web-design-atlanta/`,
   caseStudies: `Case Study 1: Midtown Technology Company — Fortune 500 Atlanta Full Digital Programme
 Client: Marketing technology SaaS, Midtown (\$9M ARR). Challenge: 3 new Fortune 500 C-suite executives arriving without connections — company invisible across all digital channels.
 Programme: SEO (Delta/Coca-Cola/Home Depot vocabulary) + Google Ads (Fortune 500 operational vocabulary) + LinkedIn (CDO/CPO thought leadership) + email (90-180 day Fortune 500 nurture)
@@ -105,14 +105,14 @@ Results (10 months): FINRA examination: zero findings (all channels) | Digital r
 
 Phone +1-888-555-CLICK | atlanta@clickmastersdigitalmarketing.com
 Midtown, Buckhead, Sandy Springs, Alpharetta, and all of Metro Atlanta`,
-  internalLinks: ["/seo-services-atlanta/","/web-design-agency-atlanta/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-dallas/"],
+  internalLinks: ["/seo-services-atlanta/","/web-design-atlanta/","/digital-marketing-agency-usa/","/digital-marketing-agency-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-atlanta/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-atlanta/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

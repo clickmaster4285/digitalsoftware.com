@@ -98,7 +98,7 @@ Results (10 months): Page 1 for 9 Omaha oncology queries | YMYL: E-E-A-T | Nebra
 
 Phone +1-888-555-CLICK | omaha@clickmastersdigitalmarketing.com
 Bellevue, Papillion, Elkhorn, Old Market, and all of Greater Omaha`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-in-omaha/","/seo-services-kansas-city/","/seo-services-des-moines/"],
+  internalLinks: ["/seo-services/","/digital-marketing-agency-omaha/","/seo-services-kansas-city/","/seo-services-des-moines/"],
   
   publishingChecklist: {
     onPageSeo: {

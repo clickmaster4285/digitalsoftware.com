@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Portland.xlsx
 // Service: WebDesign
 // City: Portland
-// URL: /web-design-agency-portland/
+// URL: /web-design-portland/
 // Generated: 2026-06-20T06:13:03.968Z
 
 export const WebDesign_Portland = {
@@ -9,14 +9,14 @@ export const WebDesign_Portland = {
   serviceSlug: "web-design",
   city: "Portland",
   citySlug: "portland",
-  slug: "/web-design-agency-portland/",
+  slug: "/web-design-portland/",
   
   h1: `Web Design Agency Portland — Authentic-Values Websites for Nike Ecosystem, Intel Hillsboro, and Pacific Northwest`,
   primaryKw: `web design agency portland`,
   formula: `FAB — Features (authentic-values visual design, Nike/Adidas bluesign/HIGG credibility architecture, Intel semiconductor B2B, Oregon authenticity, Core Web Vitals), Advantages (brand values trust + technical credibility), Benefits (Nike vendor evaluation + Intel procurement + consumer community trust)`,
   seoTitle: `Web Design Agency Portland | Authentic Values, Nike & Intel Credibility | Clickmasters`,
   meta: `Clickmasters web design in Portland. Authentic-values visual design, Nike/Adidas ecosystem credibility, Intel Hillsboro B2B, and Pacific Northwest authenticity for Oregon businesses. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Portland Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-portland/","address":{"@type":"PostalAddress","addressLocality":"Portland","addressRegion":"OR","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Portland Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-portland/","address":{"@type":"PostalAddress","addressLocality":"Portland","addressRegion":"OR","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4100,
   breadcrumb: `Home > Web Design Services > Portland, OR`,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN PORTLAND?
@@ -111,14 +111,14 @@ Q: Intel Hillsboro B2B web design standard? A: SEMI standards display, cleanroom
 Get Your Free Portland Website Audit: Phone +1-888-555-CLICK
 Email: portland@clickmastersdigitalmarketing.com
 Pearl District, Beaverton, Hillsboro, Lake Oswego, and all of Greater Portland`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-portland/","/seo-services-portland/","/web-design-agency-seattle/","/industries/outdoor-apparel/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-portland/","/seo-services-portland/","/web-design-seattle/","/industries/outdoor-apparel/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-portland/`, status: false },
+      url: { requirement: `Exact: /web-design-portland/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

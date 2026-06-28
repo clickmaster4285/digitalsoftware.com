@@ -105,7 +105,7 @@ Q: What is LATAM B2B gateway targeting? A: Spanish + Portuguese campaigns with L
 Get Your Free Miami Google Ads Audit: Phone +1-888-555-CLICK
 Email: miami@clickmastersdigitalmarketing.com
 Brickell, Coral Gables, Doral, Wynwood, and all of South Florida`,
-  internalLinks: ["/digital-marketing-agency-in-miami/","/seo-services-miami/","/google-ads-management-services/","/google-ads-management-houston/","/industries/financial-services/","/industries/healthcare/"],
+  internalLinks: ["/digital-marketing-agency-miami/","/seo-services-miami/","/google-ads-management-services/","/google-ads-management-houston/","/industries/financial-services/","/industries/healthcare/"],
   
   publishingChecklist: {
     onPageSeo: {

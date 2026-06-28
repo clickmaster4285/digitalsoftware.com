@@ -96,7 +96,7 @@ Results (6 months): Instagram engagement: 1.4% to 5.6% | Atlanta food media edit
 
 Phone +1-888-555-CLICK | atlanta@clickmastersdigitalmarketing.com
 Midtown, Sandy Springs, Inman Park, and all of Metro Atlanta`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-in-atlanta/","/seo-services-atlanta/","/social-media-marketing-dallas/"],
+  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-atlanta/","/seo-services-atlanta/","/social-media-marketing-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

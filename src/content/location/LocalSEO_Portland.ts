@@ -105,7 +105,7 @@ Q: How long does Portland Local SEO take? A: Consumer: 3-5 months. Nike/Adidas B
 Get Your Free Portland Local SEO Audit: Phone +1-888-555-CLICK
 Email: portland@clickmastersdigitalmarketing.com
 Pearl District, Beaverton, Hillsboro, Lake Oswego, and all of Greater Portland`,
-  internalLinks: ["/local-seo-services/","/seo-services-portland/","/digital-marketing-agency-in-portland/","/local-seo-services-seattle/","/tools/local-seo-audit/","/industries/outdoor-apparel/"],
+  internalLinks: ["/local-seo-services/","/seo-services-portland/","/digital-marketing-agency-portland/","/local-seo-services-seattle/","/tools/local-seo-audit/","/industries/outdoor-apparel/"],
   
   publishingChecklist: {
     onPageSeo: {

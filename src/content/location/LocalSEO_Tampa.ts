@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Ybor City restaurant | Authentic community 
 
 Phone +1-888-555-CLICK | tampa@clickmastersdigitalmarketing.com
 South Tampa, Ybor City, Hyde Park, St. Pete, and all of Tampa Bay`,
-  internalLinks: ["/local-seo-services/","/seo-services-tampa/","/digital-marketing-agency-in-tampa/","/local-seo-services-miami/"],
+  internalLinks: ["/local-seo-services/","/seo-services-tampa/","/digital-marketing-agency-tampa/","/local-seo-services-miami/"],
   
   publishingChecklist: {
     onPageSeo: {

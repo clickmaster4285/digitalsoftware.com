@@ -184,7 +184,7 @@ Financial services/fintech (FINRA/SEC content compliance), B2B tech/SaaS (Silico
 }`,
   cta: `Get Your Free Audit`,
   ctaBody: ``,
-  internalLinks: ["/→ [Digital Marketing Agency New York](/digital-marketing-agency-in-new-york/) — full NYC digital marketing hub/","/→ [SEO Services](/seo-services/) — our core SEO service overview/","/→ [Google Ads New York](/google-ads-management-new-york/) — NYC paid search complement/","/→ [Content Marketing Services](/content-marketing-services/) — content for New York SEO authority/","/→ [Financial Services Digital Marketing](/industries/fintech/) — FINRA/SEC compliant content/","/→ [B2B Lead Generation Services](/b2b-lead-generation-services/) — organic + LinkedIn for NYC B2B/"],
+  internalLinks: ["/→ [Digital Marketing Agency New York](/digital-marketing-agency-new-york/) — full NYC digital marketing hub/","/→ [SEO Services](/seo-services/) — our core SEO service overview/","/→ [Google Ads New York](/google-ads-management-new-york/) — NYC paid search complement/","/→ [Content Marketing Services](/content-marketing-services/) — content for New York SEO authority/","/→ [Financial Services Digital Marketing](/industries/fintech/) — FINRA/SEC compliant content/","/→ [B2B Lead Generation Services](/b2b-lead-generation-services/) — organic + LinkedIn for NYC B2B/"],
   
   publishingChecklist: {
     onPageSeo: {

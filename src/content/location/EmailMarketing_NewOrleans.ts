@@ -92,7 +92,7 @@ Results: Mardi Gras pre-season: 4.0x above average | Jazz Fest: 3.8x | Conventio
 
 Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
 Metairie, Garden District, Uptown, French Quarter, and all of Greater New Orleans`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-in-new-orleans/","/seo-services-new-orleans/","/email-marketing-houston/"],
+  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-new-orleans/","/seo-services-new-orleans/","/email-marketing-houston/"],
   
   publishingChecklist: {
     onPageSeo: {

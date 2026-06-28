@@ -91,7 +91,7 @@ Results (10 months): Page 1 for 12 TMC health IT queries | TMC community citatio
 5. OTC/SPE editorial programme — editorial authority gaps
 
 Phone +1-888-555-CLICK | houston@clickmastersdigitalmarketing.com | Energy Corridor, Medical Center, The Woodlands, and all of Greater Houston`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-houston/","/seo-services-houston/","/content-marketing-dallas/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-houston/","/seo-services-houston/","/content-marketing-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

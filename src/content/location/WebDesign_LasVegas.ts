@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-LasVegas.xlsx
 // Service: WebDesign
 // City: LasVegas
-// URL: /web-design-agency-las-vegas/
+// URL: /web-design-las-vegas/
 // Generated: 2026-06-20T06:13:03.724Z
 
 export const WebDesign_LasVegas = {
@@ -9,14 +9,14 @@ export const WebDesign_LasVegas = {
   serviceSlug: "web-design",
   city: "LasVegas",
   citySlug: "las-vegas",
-  slug: "/web-design-agency-las-vegas/",
+  slug: "/web-design-las-vegas/",
   
   h1: `Web Design Agency Las Vegas — Gaming Enterprise Credibility, CA In-Migration Professional Quality Standard, and Nevada Commercial Design`,
   primaryKw: `web design agency las vegas`,
   formula: `FAB — Gaming enterprise vendor credibility architecture + CA in-migration professional Bay Area quality standard + Nevada commercial advantage institutional design + FINRA/HIPAA compliance + sub-1.6s LCP`,
   seoTitle: `Web Design Agency Las Vegas | Gaming Enterprise Credibility & CA In-Migration | Clickmasters`,
   meta: `Clickmasters web design in Las Vegas. Gaming enterprise vendor credibility, California in-migration professional quality standard, and Nevada commercial design for Henderson and Summerlin. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Las Vegas Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-las-vegas/","address":{"@type":"PostalAddress","addressLocality":"Las Vegas","addressRegion":"NV","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Las Vegas Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-las-vegas/","address":{"@type":"PostalAddress","addressLocality":"Las Vegas","addressRegion":"NV","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3700,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN LAS VEGAS?
@@ -92,14 +92,14 @@ Results: Summerlin professional community enquiries: +3x | CA in-migration estat
 
 Phone +1-888-555-CLICK | lasvegas@clickmastersdigitalmarketing.com
 Henderson, Summerlin, Downtown Las Vegas, and all of Greater Las Vegas`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-las-vegas/","/seo-services-las-vegas/","/web-design-agency-phoenix/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-las-vegas/","/seo-services-las-vegas/","/web-design-phoenix/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-las-vegas/`, status: false },
+      url: { requirement: `Exact: /web-design-las-vegas/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

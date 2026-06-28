@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Wichita aerospace consulting | Spirit commu
 
 Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
 East Side, College Hill, Andover, Old Town, and all of Greater Wichita`,
-  internalLinks: ["/local-seo-services/","/seo-services-wichita/","/digital-marketing-agency-in-wichita/","/local-seo-services-kansas-city/"],
+  internalLinks: ["/local-seo-services/","/seo-services-wichita/","/digital-marketing-agency-wichita/","/local-seo-services-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -108,7 +108,7 @@ Q: How long does Austin in-migration content produce professional results? A: CA
 Get Your Free Austin Content Marketing Audit: Phone +1-888-555-CLICK
 Email: austin@clickmastersdigitalmarketing.com
 South Congress, The Domain, Round Rock, Cedar Park, and all of Greater Austin`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-austin/","/seo-services-austin/","/content-marketing-dallas/","/industries/technology/","/industries/financial-services/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-austin/","/seo-services-austin/","/content-marketing-dallas/","/industries/technology/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

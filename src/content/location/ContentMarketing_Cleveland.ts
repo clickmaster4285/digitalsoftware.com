@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 9 Cleveland insurance tech queries | Progressive
 
 Phone +1-888-555-CLICK | cleveland@clickmastersdigitalmarketing.com
 Mayfield Heights, Beachwood, Westlake, Tremont, and all of Greater Cleveland`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-in-cleveland/","/seo-services-cleveland/","/content-marketing-pittsburgh/"],
+  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-cleveland/","/seo-services-cleveland/","/content-marketing-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {

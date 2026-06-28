@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Knoxville.xlsx
 // Service: WebDesign
 // City: Knoxville
-// URL: /web-design-agency-knoxville/
+// URL: /web-design-knoxville/
 // Generated: 2026-06-20T06:13:03.706Z
 
 export const WebDesign_Knoxville = {
@@ -9,14 +9,14 @@ export const WebDesign_Knoxville = {
   serviceSlug: "web-design",
   city: "Knoxville",
   citySlug: "knoxville",
-  slug: "/web-design-agency-knoxville/",
+  slug: "/web-design-knoxville/",
   
   h1: `Web Design Agency Knoxville — TVA Utility Institutional, ORNL ITAR-Adjacent, UT Medical YMYL HIPAA TIPA, and Authentic Tennessee Valley Brand`,
   primaryKw: `web design agency knoxville`,
   formula: `FAB — TVA utility institutional vendor credibility + ORNL ITAR-adjacent nuclear energy quality + UT Medical/Covenant YMYL HIPAA TIPA + Pilot Flying J fleet enterprise quality + authentic Knoxville Market Square/Old City/Sequoyah Hills identity`,
   seoTitle: `Web Design Agency Knoxville | TVA Utility Institutional & UT Medical YMYL HIPAA | Clickmasters`,
   meta: `Clickmasters web design in Knoxville. TVA utility institutional credibility, ORNL ITAR-adjacent quality, UT Medical/Covenant YMYL HIPAA TIPA, and authentic Market Square/Old City Knoxville brand. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Knoxville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-knoxville/","address":{"@type":"PostalAddress","addressLocality":"Knoxville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Knoxville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-knoxville/","address":{"@type":"PostalAddress","addressLocality":"Knoxville","addressRegion":"TN","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3200,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN KNOXVILLE?
@@ -92,14 +92,14 @@ Results: Market Square: visits +40% | Tennessee media: editorial | Revenue: +\$7
 
 Phone +1-888-555-CLICK | knoxville@clickmastersdigitalmarketing.com
 Farragut, Oak Ridge, Maryville, and all of Greater Knoxville`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-knoxville/","/seo-services-knoxville/","/web-design-agency-nashville/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-knoxville/","/seo-services-knoxville/","/web-design-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-knoxville/`, status: false },
+      url: { requirement: `Exact: /web-design-knoxville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

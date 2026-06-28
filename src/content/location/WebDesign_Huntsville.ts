@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-Huntsville.xlsx
 // Service: WebDesign
 // City: Huntsville
-// URL: /web-design-agency-huntsville/
+// URL: /web-design-huntsville/
 // Generated: 2026-06-20T06:13:03.623Z
 
 export const WebDesign_Huntsville = {
@@ -9,14 +9,14 @@ export const WebDesign_Huntsville = {
   serviceSlug: "web-design",
   city: "Huntsville",
   citySlug: "huntsville",
-  slug: "/web-design-agency-huntsville/",
+  slug: "/web-design-huntsville/",
   
   h1: `Web Design Agency Huntsville — NASA Marshall ITAR-Bounded Aerospace Institutional, Redstone Arsenal Defence Quality, and Huntsville Hospital YMYL HIPAA`,
   primaryKw: `web design agency huntsville`,
   formula: `FAB — NASA Marshall ITAR-bounded publicly releasable aerospace institutional vendor credibility + Redstone Arsenal ITAR-bounded defence enterprise quality + Huntsville Hospital YMYL HIPAA Alabama academic + Cummings Research Park enterprise institutional + authentic Huntsville Five Points South/Monte Sano identity`,
   seoTitle: `Web Design Agency Huntsville | NASA Marshall ITAR-Bounded Aerospace & Redstone Quality | Clickmasters`,
   meta: `Clickmasters web design in Huntsville. NASA Marshall ITAR-bounded aerospace institutional credibility, Redstone Arsenal defence quality, and Huntsville Hospital YMYL HIPAA. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Huntsville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-huntsville/","address":{"@type":"PostalAddress","addressLocality":"Huntsville","addressRegion":"AL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Huntsville Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-huntsville/","address":{"@type":"PostalAddress","addressLocality":"Huntsville","addressRegion":"AL","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN HUNTSVILLE?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | Hospital: cited | HIPAA: clean | New patients: +3x | LC
 
 Phone +1-888-555-CLICK | huntsville@clickmastersdigitalmarketing.com
 Madison, Cummings Research Park, Five Points South, and all of Greater Huntsville`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-huntsville/","/seo-services-huntsville/","/web-design-agency-birmingham/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-huntsville/","/seo-services-huntsville/","/web-design-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-huntsville/`, status: false },
+      url: { requirement: `Exact: /web-design-huntsville/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

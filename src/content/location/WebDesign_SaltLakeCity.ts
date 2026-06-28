@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-WebDesign-SaltLakeCity.xlsx
 // Service: WebDesign
 // City: SaltLakeCity
-// URL: /web-design-agency-salt-lake-city/
+// URL: /web-design-salt-lake-city/
 // Generated: 2026-06-20T06:13:04.010Z
 
 export const WebDesign_SaltLakeCity = {
@@ -9,14 +9,14 @@ export const WebDesign_SaltLakeCity = {
   serviceSlug: "web-design",
   city: "SaltLakeCity",
   citySlug: "salt-lake-city",
-  slug: "/web-design-agency-salt-lake-city/",
+  slug: "/web-design-salt-lake-city/",
   
   h1: `Web Design Agency Salt Lake City — Silicon Slopes Enterprise Credibility, Goldman FINRA Institutional, and University of Utah YMYL`,
   primaryKw: `web design agency salt lake city`,
   formula: `FAB — Silicon Slopes Qualtrics/Domo enterprise vendor credibility + Goldman Sachs FINRA-compliant institutional investment quality + University of Utah/Primary Children's YMYL HIPAA UCPA + CA in-migration Utah quality + authentic SLC Sugar House/Avenues identity`,
   seoTitle: `Web Design Agency Salt Lake City | Silicon Slopes Enterprise & Goldman FINRA | Clickmasters`,
   meta: `Clickmasters web design in Salt Lake City. Silicon Slopes Qualtrics/Domo enterprise credibility, Goldman Sachs FINRA institutional quality, and University of Utah/Primary Children's YMYL HIPAA UCPA. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Salt Lake City Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-agency-salt-lake-city/","address":{"@type":"PostalAddress","addressLocality":"Salt Lake City","addressRegion":"UT","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Salt Lake City Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-salt-lake-city/","address":{"@type":"PostalAddress","addressLocality":"Salt Lake City","addressRegion":"UT","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN SALT LAKE CITY?
@@ -92,14 +92,14 @@ Results: YMYL: E-E-A-T | U of U: cited | HIPAA/UCPA: Utah AG pre-audit passed | 
 
 Phone +1-888-555-CLICK | saltlakecity@clickmastersdigitalmarketing.com
 Lehi, Draper, South Jordan, Murray, and all of Greater Salt Lake City`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-in-salt-lake-city/","/seo-services-salt-lake-city/","/web-design-agency-denver/"],
+  internalLinks: ["/web-design-services/","/digital-marketing-agency-salt-lake-city/","/seo-services-salt-lake-city/","/web-design-denver/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /web-design-agency-salt-lake-city/`, status: false },
+      url: { requirement: `Exact: /web-design-salt-lake-city/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },

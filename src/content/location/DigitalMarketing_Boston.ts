@@ -1,7 +1,7 @@
 // Auto-generated from XLSX file: T3-DigitalMarketing-Boston.xlsx
 // Service: DigitalMarketing
 // City: Boston
-// URL: /digital-marketing-agency-in-boston/
+// URL: /digital-marketing-agency-boston/
 // Generated: 2026-06-20T06:12:58.734Z
 
 export const DigitalMarketing_Boston = {
@@ -9,14 +9,14 @@ export const DigitalMarketing_Boston = {
   serviceSlug: "digital-marketing",
   city: "Boston",
   citySlug: "boston",
-  slug: "/digital-marketing-agency-in-boston/",
+  slug: "/digital-marketing-agency-boston/",
   
   h1: `Digital Marketing Agency Boston — Kendall Square FDA-Aware, FINRA Financial, and Academic Medical Revenue for New England`,
   primaryKw: `digital marketing agency boston`,
   formula: `BAB — Boston's most commercially capable businesses relying on academic relationship networks + conference BD → invisible to national health system buyers and HNW professionals finding Boston competitors online → CLICK Growth System for New England's commercial capital`,
   seoTitle: `Digital Marketing Agency Boston | FDA-Aware Kendall Square & FINRA | Clickmasters`,
   meta: `Clickmasters digital marketing in Boston. FDA-aware Kendall Square life sciences, FINRA-compliant financial services, and academic medical revenue growth for New England. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boston Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-in-boston/","address":{"@type":"PostalAddress","addressLocality":"Boston","addressRegion":"MA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Boston Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-boston/","address":{"@type":"PostalAddress","addressLocality":"Boston","addressRegion":"MA","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Boston, MA`,
   geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN BOSTON?
@@ -52,7 +52,7 @@ EMAIL BOSTON: FINRA-compliant HNW investment email. FDA-aware pharma pipeline nu
 
 LOCAL SEO BOSTON: Academic credential-led Local Pack. FINRA/HIPAA-aware review management. /local-seo-services-boston/
 
-WEB DESIGN BOSTON: FINRA/SEC institutional financial. FDA-aware Kendall Square. YMYL academic healthcare. /web-design-agency-boston/`,
+WEB DESIGN BOSTON: FINRA/SEC institutional financial. FDA-aware Kendall Square. YMYL academic healthcare. /web-design-boston/`,
   caseStudies: `Case Study 1: Kendall Square CRO — FDA-Aware Full Digital Programme
 Client: CRO, Cambridge MA (\$18M). Challenge: Bristol Myers Squibb and Pfizer procurement Googling — company invisible. HIMSS contacts going cold.
 Programme: SEO (FDA vocabulary) + Google Ads (pharma procurement) + LinkedIn (PI thought leadership) + email (HIMSS reactivation) + web design (FDA-aware)
@@ -116,14 +116,14 @@ Q: What is Massachusetts CDPA? A: Consumer Data Privacy Act (effective January 2
 Get Your Free Boston Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: boston@clickmastersdigitalmarketing.com
 Back Bay, Kendall Square, Longwood, Cambridge, and all of Greater Boston`,
-  internalLinks: ["/seo-services-boston/","/web-design-agency-boston/","/digital-marketing-agency-in-usa/","/digital-marketing-agency-in-new-york/","/industries/healthcare-tech/","/industries/financial-services/"],
+  internalLinks: ["/seo-services-boston/","/web-design-boston/","/digital-marketing-agency-usa/","/digital-marketing-agency-new-york/","/industries/healthcare-tech/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {
       title: { requirement: "Max 60 chars", status: false },
       meta: { requirement: "Max 155 chars", status: false },
       h1: { requirement: "Primary KW", status: false },
-      url: { requirement: `Exact: /digital-marketing-agency-in-boston/`, status: false },
+      url: { requirement: `Exact: /digital-marketing-agency-boston/`, status: false },
     },
     schema: {
       localBusiness: { requirement: "schema.org validated", status: false },
