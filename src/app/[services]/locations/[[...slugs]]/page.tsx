@@ -7,6 +7,7 @@ import {
 } from "@/content/location/combined-location-index";
 import type { Metadata } from "next";
 import LocationClient from "@/components/locations/LocationClient";
+import { toCanonicalUrl } from "@/lib/seo";
 
 // ============================================
 // VALID ROUTE SERVICES
@@ -110,10 +111,10 @@ export async function generateMetadata({
       title: seoTitle,
       description: metaDesc,
       type: "website",
-      url: `https://clickmastersdigitalmarketing.com/${services}/locations${locationSlug}`,
+      url: toCanonicalUrl(`/${services}/locations/${slugs.join('/')}`),
     },
     alternates: {
-      canonical: `https://clickmastersdigitalmarketing.com/${services}/locations${locationSlug}`,
+      canonical: toCanonicalUrl(`/${services}/locations/${slugs.join('/')}`),
     },
   };
 }

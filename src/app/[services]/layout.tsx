@@ -1,5 +1,6 @@
 import { Metadata, ResolvingMetadata } from "next";
 import { notFound } from "next/navigation";
+import { toCanonicalUrl } from "@/lib/seo";
 import {
   SeoServicesContent,
   SocialMediaMarketingContent,
@@ -42,9 +43,8 @@ export async function generateMetadata(
     };
   }
 
-  const BASE_URL = "https://clickmastersdigitalmarketing.com";
-  const url = content.metadata.url || "/";
-  const canonicalUrl = url.startsWith("http") ? url : `${BASE_URL}${url.startsWith("/") ? "" : "/"}${url}`;
+  const url = content.metadata.url || `/${services}`;
+  const canonicalUrl = toCanonicalUrl(url);
 
   return {
     title: content.metadata.seoTitle,

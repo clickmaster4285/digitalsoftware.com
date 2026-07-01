@@ -1,4 +1,6 @@
 import { Metadata, ResolvingMetadata } from "next";
+import { toCanonicalUrl } from "@/lib/seo";
+import { SLUG_PARENT_MAP } from "@/lib/site-routes";
 
 // Import all content files
 import { AiMlDevContent } from "@/content/services/AiMlDev";
@@ -219,8 +221,8 @@ export async function generateMetadata(
     };
   }
 
-  const BASE_URL = "https://clickmastersdigitalmarketing.com";
-  const canonicalUrl = `${BASE_URL}/${services}/${slug}`;
+  const serviceParent = SLUG_PARENT_MAP[slug] ?? services;
+  const canonicalUrl = toCanonicalUrl(`/${serviceParent}/${slug}`);
 
   return {
     title: content.metadata.seoTitle,

@@ -8,6 +8,7 @@ import {
 } from '@/content/location/combined-location-index';
 import type { Metadata } from 'next';
 import LocationClient from '@/components/locations/LocationClient';
+import { toCanonicalUrl } from '@/lib/seo';
 
 // ============================================
 // 1. GENERATE STATIC PARAMS 
@@ -85,10 +86,10 @@ export async function generateMetadata({
       title: seoTitle,
       description: metaDesc,
       type: 'website',
-      url: `https://clickmastersdigitalmarketing.com/${services}/${slug}/location${locationSlug}`,
+      url: toCanonicalUrl(`/${services}/${slug}/locations/${slugs.join('/')}`),
     },
     alternates: {
-      canonical: `https://clickmastersdigitalmarketing.com/${services}/${slug}/location${locationSlug}`,
+      canonical: toCanonicalUrl(`/${services}/${slug}/locations/${slugs.join('/')}`),
     },
   };
 }

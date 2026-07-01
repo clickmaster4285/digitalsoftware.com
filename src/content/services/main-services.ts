@@ -494,7 +494,7 @@ export const SocialMediaMarketingContent = {
       {
         position: 2,
         name: "Social Media Marketing",
-        url: "https://clickmastersdigitalmarketing.com/social-media-marketing/"
+        url: "https://clickmastersdigitalmarketing.com/social-media-marketing"
       },
       {
         position: 3,
@@ -874,7 +874,7 @@ export const MobileAppDevelopmentContent = {
       {
         position: 2,
         name: "App & Software Development",
-        url: "https://clickmastersdigitalmarketing.com/app-software-development/"
+        url: "https://clickmastersdigitalmarketing.com/mobile-app-development"
       },
       {
         position: 3,
@@ -1371,12 +1371,12 @@ export const ConversionRateOptimizationContent = {
       {
         position: 2,
         name: "Web Design & Development",
-        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+        url: "https://clickmastersdigitalmarketing.com/web-design-development"
       },
       {
         position: 3,
         name: "Conversion Rate Optimisation Services",
-        url: "https://clickmastersdigitalmarketing.com/conversion-rate-optimization/"
+        url: "https://clickmastersdigitalmarketing.com/conversion-rate-optimization"
       }
     ]
   }
@@ -1750,7 +1750,7 @@ export const AIAutomationServicesContent = {
       {
         position: 2,
         name: "AI & Software Development",
-        url: "https://clickmastersdigitalmarketing.com/ai-software-development/"
+        url: "https://clickmastersdigitalmarketing.com/ai-automation"
       },
       {
         position: 3,
@@ -2618,7 +2618,7 @@ export const WebDesignServicesContent = {
       {
         position: 2,
         name: "Web Design & Development",
-        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+        url: "https://clickmastersdigitalmarketing.com/web-design-development"
       },
       {
         position: 3,
@@ -2733,7 +2733,7 @@ export const WebDesignServicesContent = {
 export const PayPerClickManagementContent = {
   slug: "pay-per-click",
   metadata: {
-    url: "https://clickmastersdigitalmarketing.com/pay-per-click/",
+    url: "https://clickmastersdigitalmarketing.com/pay-per-click",
     keyword: "ppc management services",
     volume: "14,800/mo",
     cpc: "N/A",
@@ -3002,9 +3002,9 @@ export const PayPerClickManagementContent = {
     title: "Ready to Make Every Dollar of Your Ad Spend Work Harder?",
     description:
       "PPC advertising is the fastest-moving revenue channel available when it is managed correctly. The businesses investing in professional PPC management are consistently outcompeting those running DIY campaigns or working with agencies that manage dozens of accounts without the attention that each deserves. The waste in your current campaigns is findable. The efficiency improvement is achievable. And the revenue it unlocks compounds with every month of professional management.",
-    contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
+    contactLink: "https://clickmastersdigitalmarketing.com/contact",
     whatsappLink: "https://wa.me/",
-    googleAdsLink: "https://clickmastersdigitalmarketing.com/google-ads-management/",
+    googleAdsLink: "https://clickmastersdigitalmarketing.com/pay-per-click/google-ads-management",
   },
   footer: {
     company: "Clickmasters Digital Marketing",
@@ -3063,12 +3063,12 @@ export const PayPerClickManagementContent = {
       {
         position: 2,
         name: "PPC / Paid Ads",
-        url: "https://clickmastersdigitalmarketing.com/ppc-paid-ads/"
+        url: "https://clickmastersdigitalmarketing.com/pay-per-click"
       },
       {
         position: 3,
         name: "PPC Management Services",
-        url: "https://clickmastersdigitalmarketing.com/ppc-management-services/"
+        url: "https://clickmastersdigitalmarketing.com/pay-per-click/ppc-management"
       }
     ]
   }
@@ -3082,7 +3082,7 @@ export const PayPerClickManagementContent = {
 export const EcommerceServicesContent = {
   slug: "ecommerce-services",
   metadata: {
-    url: "https://clickmastersdigitalmarketing.com/ecommerce-services/",
+    url: "https://clickmastersdigitalmarketing.com/ecommerce-services",
     seoTitle: "E-Commerce Development Services Build Online Stores That Sell | Clickmasters",
     metaDescription: "Expert e-commerce development for Shopify, WooCommerce & custom platforms. High-converting product pages, checkout optimization & systems integration. Free consultation today.",
     schema: "Service + FAQPage + Organization + BreadcrumbList",
@@ -3366,9 +3366,9 @@ export const EcommerceServicesContent = {
   cta: {
     title: "Ready to Build an E-Commerce Store That Actually Converts?",
     description: "Traffic is a solved problem for most e-commerce businesses. The unsolved problem the one that determines whether the business is profitable is conversion. And conversion is almost entirely a development problem.\n\nWe build the development foundation that converts your traffic into revenue. Platform selection, product page architecture, checkout optimization, mobile commerce, search and filtering, systems integration every technical decision made with conversion as the objective.",
-    contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
+    contactLink: "https://clickmastersdigitalmarketing.com/contact",
     whatsappLink: "https://wa.me/",
-    webDevelopmentLink: "https://clickmastersdigitalmarketing.com/website-development-services/",
+    webDevelopmentLink: "https://clickmastersdigitalmarketing.com/web-design-development/web-development",
   },
   footer: {
     company: "Clickmasters Digital Marketing",
@@ -3422,12 +3422,12 @@ export const EcommerceServicesContent = {
       {
         position: 2,
         name: "Web Design & Development",
-        url: "https://clickmastersdigitalmarketing.com/web-design-development/"
+        url: "https://clickmastersdigitalmarketing.com/web-design-development"
       },
       {
         position: 3,
         name: "E-Commerce Development",
-        url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-development/"
+        url: "https://clickmastersdigitalmarketing.com/ecommerce-services/ecommerce-development"
       }
     ]
   }

@@ -7,6 +7,7 @@ import {
 import type { Metadata } from 'next';
 import LocationClient from '@/components/locations/LocationClient';
 import { validateUrl, checkUrl } from '@/lib/urlMappings';
+import { toCanonicalUrl } from '@/lib/seo';
 
 // ============================================
 // 1. GENERATE STATIC PARAMS — DIGITAL MARKETING ONLY
@@ -63,10 +64,10 @@ export async function generateMetadata({
       title: seoTitle,
       description: metaDesc,
       type: 'website',
-      url: `https://clickmastersdigitalmarketing.com/locations${slugPath}`,
+      url: toCanonicalUrl(`/locations/${slugs.join('/')}`),
     },
     alternates: {
-      canonical: `https://clickmastersdigitalmarketing.com/locations${slugPath}`,
+      canonical: toCanonicalUrl(`/locations/${slugs.join('/')}`),
     },
   };
 }
