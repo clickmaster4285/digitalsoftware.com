@@ -60,6 +60,11 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
 <head>
+  <meta
+    name="google-site-verification"
+    content="lQD9tx-IDq-CHdPXb1RRZA-E6X7KljKdYG5O5c_vuDE"
+  />
+
   <Script id="gtm-init" strategy="afterInteractive">
     {`
       (function(w,d,s,l,i){
