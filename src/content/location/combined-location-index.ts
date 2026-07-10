@@ -117,7 +117,10 @@ export const getLocationByServiceSubServicePath = (
   slug: string,          // e.g. "email-marketing" or "google-ads-management"
   locationSlug: string   // full slug like "/email-marketing-albuquerque/"
 ): any => {
-  
+  if (!locationSlug || typeof locationSlug !== 'string') return null;
+  if (!services || typeof services !== 'string') return null;
+  if (!slug || typeof slug !== 'string') return null;
+
   const fullPath = locationSlug.toLowerCase();
   const servicePart = services.toLowerCase();
   const subServicePart = slug.toLowerCase();
@@ -164,7 +167,10 @@ export const getLocationByServicePath = (
   slug: string,          // e.g. "email-marketing" or "google-ads-management"
   locationSlug: string   // full slug like "/email-marketing-albuquerque/"
 ): any => {
-  
+  if (!locationSlug || typeof locationSlug !== 'string') return null;
+  if (!services || typeof services !== 'string') return null;
+  if (!slug || typeof slug !== 'string') return null;
+
   const fullPath = locationSlug.toLowerCase();
   const servicePart = services.toLowerCase();
   const subServicePart = slug.toLowerCase();
