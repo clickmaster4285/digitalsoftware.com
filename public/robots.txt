@@ -12,3 +12,4 @@ Allow: /
 
 User-agent: *
 Allow: /
+Sitemap: https://clickmastersdigitalmarketing.com/sitemap.xml
