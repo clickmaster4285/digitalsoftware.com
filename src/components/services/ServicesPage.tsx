@@ -5,8 +5,6 @@ import { useParams } from "next/navigation";
 import { motion, useScroll, useTransform, useSpring } from "framer-motion";
 import { useSmoothScroll } from "@/hooks/useSmoothScroll";
 
-import WebsiteMaintenanceServicesPage from "@/app/website-maintenance-services/page";
-import CustomSoftwareDevelopmentPage from "@/app/custom-software-development/page";
 import {
   Code2, Gauge, ShieldCheck, Plug, Search, Server, ShoppingBag, Layers,
   Rocket, ArrowUpRight, Check, Cpu, Database, Globe, Sparkles,
@@ -118,14 +116,11 @@ import { WebsiteSpeedOptimisationContent } from "@/content/services/WebsiteSpeed
 import { PwaDevelopmentContent } from "@/content/services/PwaDevelopmentContent";
 import { HeadlessCommerceContent } from "@/content/services/HeadlessCommerceContent";
 import { WebsiteMaintenanceContent } from "@/content/services/WebsiteMaintenanceContent";
+import { CustomSoftwareContent } from "@/content/services/CustomSoftwareContent";
 import { AdaComplianceContent } from "@/content/services/AdaComplianceContent";
 import SchemaMarkup from "@/components/landingPage/SchemaMarkup";
 
-const routedPageRegistry: Record<string, any> = {
-
-  "website-maintenance-services": WebsiteMaintenanceServicesPage,
-  "custom-software-development": CustomSoftwareDevelopmentPage,
-};
+const routedPageRegistry: Record<string, any> = {};
 
 // Content registry - add new pages here
 const contentRegistry: Record<string, any> = {
@@ -247,6 +242,8 @@ const contentRegistry: Record<string, any> = {
   "pwa-development": PwaDevelopmentContent,
   "headless-commerce-development": HeadlessCommerceContent,
   "website-maintenance": WebsiteMaintenanceContent,
+  "website-maintenance-services": WebsiteMaintenanceContent,
+  "custom-software-development": CustomSoftwareContent,
   "ada-compliance-web-accessibility":AdaComplianceContent,
 };
 
