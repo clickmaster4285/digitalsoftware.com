@@ -9,7 +9,7 @@ function buildUrlElement(url: string, lastMod: string) {
 
 function toRoutePath(relativePath: string) {
   // Remove the file extension and page/route suffix
-  let route = relativePath
+  const route = relativePath
     .replace(/\\/g, '/')  // Normalize Windows paths
     .replace(/^\//, '')   // Remove leading slash
     .replace(/\/page\.(ts|tsx|js|jsx)$/, '')  // Remove /page.ext
