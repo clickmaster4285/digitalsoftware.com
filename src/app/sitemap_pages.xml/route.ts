@@ -8,10 +8,24 @@ function buildUrlElement(url: string, lastMod: string) {
 }
 
 function toRoutePath(relativePath: string) {
-  const normalized = relativePath.replace(/\\/g, '/').replace(/^\//, '');
-  if (!normalized || normalized === 'page') return '/';
-
-  const parts = normalized.split('/').filter(Boolean);
+  // Remove the file extension and page/route suffix
+  let route = relativePath
+    .replace(/\\/g, '/')  // Normalize Windows paths
+    .replace(/^\//, '')   // Remove leading slash
+    .replace(/\/page\.(ts|tsx|js|jsx)$/, '')  // Remove /page.ext
+    .replace(/\/route\.(ts|tsx|js|jsx)$/, ''); // Remove /route.ext
+  
+  // If the remaining path is just a filename (like "page.tsx" without a directory)
+  // then return "/" for the root
+  if (/^(page|route)\.(ts|tsx|js|jsx)$/.test(route)) {
+    return '/';
+  }
+  
+  // Handle root path
+  if (!route || route === '') return '/';
+  
+  // If it's just a directory with a page file inside
+  const parts = route.split('/').filter(Boolean);
   return `/${parts.join('/')}`;
 }
 
@@ -40,7 +54,7 @@ async function collectPageRoutes() {
 
       if (entry.isFile() && /^(page|route)\.(ts|tsx|js|jsx)$/.test(entry.name)) {
         const relativePath = path.relative(appDir, fullPath);
-        const routePath = toRoutePath(relativePath.replace(/\/(page|route)\.(ts|tsx|js|jsx)$/u, ''));
+        const routePath = toRoutePath(relativePath);
         routes.add(routePath);
       }
     }
@@ -51,6 +65,8 @@ async function collectPageRoutes() {
   return Array.from(routes)
     .filter((route) => !route.includes('/api'))
     .filter((route) => !route.startsWith('/[') && !route.includes('[['))
+    // Exclude sitemap routes - they should be in a separate API route
+    .filter((route) => !route.includes('sitemap'))
     .sort();
 }
 

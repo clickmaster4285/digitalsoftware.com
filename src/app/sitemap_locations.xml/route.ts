@@ -1,93 +1,91 @@
-import { promises as fs } from 'fs';
-import path from 'path';
-import {
-  getAllSlugs,
-  getServiceNames,
-  getLocationByServicePath,
-  getLocationByServiceSubServicePath,
-} from '@/content/location/combined-location-index';
+import { getAllSlugs } from '@/content/location/combined-location-index';
 
 const siteUrl = 'https://clickmastersdigitalmarketing.com';
-const locationPrefix = '/locations';
+
+// Define all US cities
+const usCities = [
+  'albuquerque', 'atlanta', 'austin', 'baltimore', 'birmingham', 'boise', 
+  'boston', 'charlotte', 'chicago', 'cincinnati', 'cleveland', 'dallas', 
+  'denver', 'des-moines', 'houston', 'huntsville', 'indianapolis', 'jacksonville', 
+  'kansas-city', 'knoxville', 'las-vegas', 'los-angeles', 'louisville', 'memphis', 
+  'miami', 'minneapolis', 'nashville', 'new-orleans', 'new-york', 'oklahoma-city', 
+  'omaha', 'orlando', 'philadelphia', 'phoenix', 'pittsburgh', 'portland', 
+  'raleigh', 'richmond', 'sacramento', 'salt-lake-city', 'san-antonio', 
+  'san-diego', 'san-francisco', 'seattle', 'st-louis', 'tampa', 'tulsa', 'wichita'
+];
+
+// Define international cities
+const internationalCities = [
+  'abu-dhabi', 'birmingham-uk', 'brisbane', 'bristol', 'calgary', 'dubai', 
+  'edinburgh', 'glasgow', 'karachi', 'lahore', 'leeds', 'london', 'manchester', 
+  'melbourne', 'montreal', 'perth', 'sharjah', 'sydney', 'toronto', 'vancouver'
+];
+
+// Define all services and their URL paths
+const services = {
+  // US Services
+  'content-marketing': '/content-marketing/locations/content-marketing-',
+  'digital-marketing-agency': '/locations/digital-marketing-agency-',
+  'email-marketing': '/content-marketing/email-marketing/locations/email-marketing-',
+  'google-ads-management': '/pay-per-click-ppc/google-ads-management/locations/google-ads-management-',
+  'local-seo': '/search-engine-optimization/local-seo/locations/local-seo-services-',
+  'seo': '/search-engine-optimization/locations/seo-services-',
+  'social-media': '/social-media-marketing/locations/social-media-marketing-',
+  'web-design': '/web-design-development/web-design/locations/web-design-',
+  // International-only services
+  'web-design-agency': '/web-design-development/web-design-agency/locations/web-design-agency-',
+  'web-development': '/web-design-development/web-development/locations/web-development-',
+  'ppc-management': '/pay-per-click/ppc-management/locations/ppc-management-'
+};
+
+// Define which services apply to which city groups
+const cityServiceMap = {
+  us: [
+    'content-marketing', 'digital-marketing-agency', 'email-marketing', 
+    'google-ads-management', 'local-seo', 'seo', 'social-media', 'web-design'
+  ],
+  international: [
+    'content-marketing', 'digital-marketing-agency', 'email-marketing', 
+    'google-ads-management', 'local-seo', 'seo', 'social-media', 
+    'web-design', 'web-design-agency', 'web-development', 'ppc-management'
+  ]
+};
 
 function buildUrlElement(url: string, lastMod: string) {
   return `  <url>\n    <loc>${url}</loc>\n    <lastmod>${lastMod}</lastmod>\n  </url>`;
 }
 
-function normalizeSlug(slug: string) {
-  return `/${slug.trim().replace(/^\/+|\/+$/g, '')}/`.replace('//', '/');
-}
-
-function normalizeService(service: string) {
-  return service.trim().replace(/^\/+|\/+$/g, '');
-}
-
-async function collectServiceRoutes() {
-  const servicesDir = path.join(process.cwd(), 'src', 'content', 'services');
-  const entries = await fs.readdir(servicesDir);
-  const routes = new Set<string>();
-
-  for (const entry of entries) {
-    if (!entry.endsWith('.ts')) continue;
-
-    const fullPath = path.join(servicesDir, entry);
-    const content = await fs.readFile(fullPath, 'utf8');
-    const blocks = content.match(/export\s+const\s+\w+\s*=\s*\{[\s\S]*?\n\};/g) || [];
-
-    for (const block of blocks) {
-      const slugMatch = block.match(/slug:\s*["']([^"']+)["']/);
-      const urlMatch = block.match(/metadata:\s*\{[\s\S]*?url:\s*["']([^"']+)["']/);
-
-      if (!slugMatch || !urlMatch) continue;
-
-      const url = urlMatch[1];
-      if (!url.startsWith('/')) continue;
-      if (url.toLowerCase().includes('/blog')) continue;
-
-      routes.add(url);
-    }
-  }
-
-  return Array.from(routes).sort();
-}
-
 export async function GET() {
-  const slugs = getAllSlugs().map(normalizeSlug);
-  const serviceNames = getServiceNames().map(normalizeService);
-  const serviceUrls = await collectServiceRoutes();
   const lastMod = new Date().toISOString().split('T')[0];
-  const urls = new Set<string>();
+  const urls: string[] = [];
 
-  for (const slug of slugs) {
-    urls.add(`${siteUrl}${locationPrefix}${slug}`);
+  // Generate US URLs
+  usCities.forEach(city => {
+    cityServiceMap.us.forEach(service => {
+      const servicePath = services[service as keyof typeof services];
+      const fullUrl = `${siteUrl}${servicePath}${city}/`;
+      urls.push(buildUrlElement(fullUrl, lastMod));
+    });
+  });
 
-    for (const service of serviceNames) {
-      if (getLocationByServicePath(service, slug)) {
-        urls.add(`${siteUrl}/${service}${locationPrefix}${slug}`);
-      }
-    }
-  }
+  // Generate International URLs
+  internationalCities.forEach(city => {
+    cityServiceMap.international.forEach(service => {
+      const servicePath = services[service as keyof typeof services];
+      const fullUrl = `${siteUrl}${servicePath}${city}/`;
+      urls.push(buildUrlElement(fullUrl, lastMod));
+    });
+  });
 
-  for (const serviceUrl of serviceUrls) {
-    const cleanUrl = serviceUrl.replace(/^\/+|\/+$/g, '');
-    const parts = cleanUrl.split('/').filter(Boolean);
+  // Add special URLs (like UAE content marketing)
+  const specialUrls = [
+    `${siteUrl}/content-marketing/locations/content-marketing-uae/`
+  ];
+  specialUrls.forEach(url => {
+    urls.push(buildUrlElement(url, lastMod));
+  });
 
-    if (parts.length < 2) continue;
-
-    const [service, slug] = parts;
-
-    for (const locationSlug of slugs) {
-      if (getLocationByServiceSubServicePath(service, slug, locationSlug)) {
-        urls.add(`${siteUrl}/${service}/${slug}${locationPrefix}${locationSlug}`);
-      }
-    }
-  }
-
-  const xmlUrls = Array.from(urls)
-    .sort()
-    .map((url) => buildUrlElement(url, lastMod));
-
-  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${xmlUrls.join('\n')}\n</urlset>\n`;
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.join('\n')}\n</urlset>\n`;
 
   return new Response(xml, {
     headers: {
