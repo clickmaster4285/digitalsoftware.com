@@ -347,11 +347,11 @@ const groups: { title: string; href?: string; items: Service[] }[] = [
 
 const links = [
   { label: "Services", hasMenu: true },
-  { label: "Solutions", hasMenu: false },
-   { label: "About", hasMenu: false },
-  { label: "Pricing", hasMenu: false },
-  { label: "Process", hasMenu: false },
-  { label: "Testimonials", hasMenu: false },
+  { label: "Solutions", hasMenu: false , href: "/solutions" },
+   { label: "About", hasMenu: false , href: "/about"},
+  { label: "Pricing", hasMenu: false , href: "/pricing"},
+  { label: "Process", hasMenu: false , href: "/process"},
+  { label: "Testimonials", hasMenu: false , href: "/testimonials" },
   { label: "Contact", hasMenu: false, href: "/contact" },
 ];
 
