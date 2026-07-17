@@ -26625,7 +26625,7 @@ export const getAllSlugs = () => [
 
 // Get location by slug
 export const getLocationBySlug = (slug: string) => {
-  const allData: { [key: string]: any } = {
+  const allData: Record<string, unknown> = {
     "/content-marketing-abu-dhabi/": ContentMarketing_AbuDhabi,
     "/content-marketing-birmingham/": ContentMarketing_Birmingham,
     "/content-marketing/brisbane": ContentMarketing_Brisbane,
