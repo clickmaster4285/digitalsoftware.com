@@ -1198,7 +1198,7 @@ export const WebDesignLocations = {
 
 // Helper: Get location by slug
 export const getLocationBySlug = (slug: string) => {
-  const allData: Record<string, unknown> = {
+  const allData: { [key: string]: any } = {
     "/content-marketing-albuquerque/": ContentMarketing_Albuquerque,
     "/content-marketing-atlanta/": ContentMarketing_Atlanta,
     "/content-marketing-austin/": ContentMarketing_Austin,
