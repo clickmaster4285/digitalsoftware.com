@@ -474,7 +474,7 @@ export default function ServicesPage() {
         <Faqs content={content} />
         <CTA content={content} />
       </main>
-      <Footer />
+  
     </div>
   );
 }
