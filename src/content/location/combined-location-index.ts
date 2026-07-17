@@ -154,7 +154,7 @@ export const getLocationByServiceSubServicePath = (
   }
 
   // If none matched → wrong service in URL
-  console.warn(`❌ Service mismatch: ${services}/${slug} for slug ${locationSlug}`);
+ 
   return null;
 };
 
@@ -204,7 +204,7 @@ export const getLocationByServicePath = (
   }
 
   // If none matched → wrong service in URL
-  console.warn(`❌ Service mismatch: ${services}/${slug} for slug ${locationSlug}`);
+  
   return null;
 };
 

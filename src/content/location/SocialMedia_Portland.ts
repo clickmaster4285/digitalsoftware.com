@@ -140,3 +140,4 @@ Pearl District, Beaverton, Hillsboro, Lake Oswego, and all of Greater Portland`,
 };
 
 export default SocialMedia_Portland;
+

@@ -279,11 +279,12 @@ export default async function ServiceLocationPage({
 
   const isValidSlug =
     lastSlug.startsWith("content-marketing-") ||
+    lastSlug.startsWith("local-seo-services-") ||
     lastSlug.startsWith("seo-services-") ||
     lastSlug.startsWith("social-media-marketing-");
 
   if (!isValidSlug) {
-    console.log("❌ Invalid slug pattern:", lastSlug);
+   
     notFound();
   }
 
@@ -302,7 +303,7 @@ export default async function ServiceLocationPage({
     notFound();
   }
 
-  console.log("✅ Found location:", location.slug);
+  
 
   // ============================================
   // PREPARE DATA

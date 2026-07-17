@@ -131,3 +131,4 @@ Midtown, Sandy Springs, Inman Park, and all of Metro Atlanta`,
 };
 
 export default SocialMedia_Atlanta;
+

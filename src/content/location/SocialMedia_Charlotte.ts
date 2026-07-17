@@ -131,3 +131,4 @@ Uptown Charlotte, Concord, South End, NoDa, and all of Greater Charlotte`,
 };
 
 export default SocialMedia_Charlotte;
+

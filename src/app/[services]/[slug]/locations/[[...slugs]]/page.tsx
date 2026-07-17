@@ -9,6 +9,29 @@ import {
 import type { Metadata } from 'next';
 import LocationClient from '@/components/locations/LocationClient';
 
+function detectRouteService(fullSlug: string): string {
+  const normalized = fullSlug.toLowerCase().replace(/^\/+|\/+$/g, '');
+
+  if (normalized.includes('social-media-marketing')) return 'social-media-marketing';
+  if (normalized.includes('content-marketing')) return 'content-marketing';
+  if (
+    normalized.includes('local-seo-services') ||
+    normalized.includes('seo-services') ||
+    normalized.includes('search-engine-optimization') ||
+    normalized.includes('seo')
+  ) {
+    return 'search-engine-optimization';
+  }
+  if (normalized.includes('email-marketing')) return 'email-marketing';
+  if (normalized.includes('google-ads-management') || normalized.includes('google-ads')) return 'google-ads-management';
+  if (normalized.includes('ppc-management')) return 'ppc-management';
+  if (normalized.includes('web-design')) return 'web-design';
+  if (normalized.includes('web-development')) return 'web-development';
+  if (normalized.includes('digital-marketing')) return 'digital-marketing';
+
+  return 'content-marketing';
+}
+
 // ============================================
 // 1. GENERATE STATIC PARAMS 
 // ============================================
@@ -22,16 +45,7 @@ export async function generateStaticParams() {
 
     const cleanSlug = fullSlug.replace(/^\/|\/$/g, '');
     const slugParts = cleanSlug.split('/').filter(Boolean);
-
-    // Try to detect service from the slug itself
-    let detectedService = 'content-marketing'; // fallback
-
-    if (fullSlug.includes('email-marketing')) detectedService = 'email-marketing';
-    else if (fullSlug.includes('google-ads-management')) detectedService = 'google-ads-management';
-    else if (fullSlug.includes('ppc-management')) detectedService = 'ppc-management';
-    else if (fullSlug.includes('web-design')) detectedService = 'web-design';
-    else if (fullSlug.includes('web-development')) detectedService = 'web-development';
-    else if (fullSlug.includes('digital-marketing')) detectedService = 'digital-marketing';
+    const detectedService = detectRouteService(fullSlug);
 
     paths.push({
       services: detectedService,

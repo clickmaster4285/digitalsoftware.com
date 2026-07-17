@@ -140,3 +140,4 @@ Plymouth, Eden Prairie, Edina, St. Paul, and all of the Twin Cities metro`,
 };
 
 export default SocialMedia_Minneapolis;
+
