@@ -1195,10 +1195,14 @@ export const WebDesignLocations = {
   WebDesign_Wichita: WebDesign_Wichita
 };
 
+type LocationData = {
+  schema: string | null;
+  [key: string]: unknown;
+};
 
 // Helper: Get location by slug
-export const getLocationBySlug = (slug: string) => {
-  const allData: { [key: string]: any } = {
+export const getLocationBySlug = (slug: string): LocationData | null => {
+  const allData: Record<string, LocationData> = {
     "/content-marketing-albuquerque/": ContentMarketing_Albuquerque,
     "/content-marketing-atlanta/": ContentMarketing_Atlanta,
     "/content-marketing-austin/": ContentMarketing_Austin,

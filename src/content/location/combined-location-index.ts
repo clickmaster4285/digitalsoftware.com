@@ -26,7 +26,9 @@ import {
 /**
  * Get ONLY Digital Marketing location by slug
  */
-export const getDigitalMarketingLocationBySlug = (slug: string): any => {
+export const getDigitalMarketingLocationBySlug = (
+  slug: string
+): ReturnType<typeof getUSLocation> | ReturnType<typeof getInternationalLocation> | null => {
   // Check US first
   const usLocation = getUSLocation(slug);
   if (usLocation && slug.toLowerCase().includes('digital-marketing')) {
@@ -116,7 +118,7 @@ export const getLocationByServiceSubServicePath = (
   services: string,      // e.g. "content-marketing" or "pay-per-click-ppc"
   slug: string,          // e.g. "email-marketing" or "google-ads-management"
   locationSlug: string   // full slug like "/email-marketing-albuquerque/"
-): any => {
+): ReturnType<typeof getLocationBySlug> | null => {
   if (!locationSlug || typeof locationSlug !== 'string') return null;
   if (!services || typeof services !== 'string') return null;
   if (!slug || typeof slug !== 'string') return null;
@@ -166,7 +168,7 @@ export const getLocationByServicePath = (
   services: string,      // e.g. "content-marketing" or "pay-per-click-ppc"
   slug: string,          // e.g. "email-marketing" or "google-ads-management"
   locationSlug: string   // full slug like "/email-marketing-albuquerque/"
-): any => {
+): ReturnType<typeof getLocationBySlug> | null => {
   if (!locationSlug || typeof locationSlug !== 'string') return null;
   if (!services || typeof services !== 'string') return null;
   if (!slug || typeof slug !== 'string') return null;
