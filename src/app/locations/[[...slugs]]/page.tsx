@@ -53,7 +53,7 @@ export async function generateMetadata({
   const serviceName = "Digital Marketing";
   const cityName = urlCheck.city || location.city || '';
 
-  const seoTitle = location.seoTitle || `${serviceName} in ${cityName} | Clickmasters`;
+  const seoTitle = location.seoTitle || `${serviceName} in ${cityName} `;
   const metaDesc = location.meta || `Professional Digital Marketing services in ${cityName}`;
 
   return {
@@ -172,7 +172,9 @@ function parseCaseStudies(text: string | undefined): { title: string; body: stri
   if (!text) return [];
   
   const studies: { title: string; body: string; metric?: string }[] = [];
-  const parts = text.split('Case Study').filter(Boolean);
+const parts = text
+  .split(/(?:Case Study|Testimonial)\s*\d*:?/i)
+  .filter(Boolean);
   
   parts.forEach((part, index) => {
     const lines = part.split('\n').filter(Boolean);
@@ -181,7 +183,7 @@ function parseCaseStudies(text: string | undefined): { title: string; body: stri
     const title = titleMatch ? titleMatch[2] : firstLine;
     const body = lines.slice(1).join(' ').trim();
     
-    const metricMatch = body.match(/(\d+%|\+\d+x|\$\d+[MB])/);
+  const metricMatch = body.match(/(\d+%|\+\d+x|\$\d+[MB]|\$\d+⭐)/);
     
     studies.push({
       title: title || `Case Study ${index + 1}`,

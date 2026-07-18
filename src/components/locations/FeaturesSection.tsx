@@ -21,10 +21,12 @@ export const FeaturesSection = ({ features, cityName }: FeaturesSectionProps) =>
       <div className="relative mx-auto max-w-6xl px-6">
         <Reveal>
           <SectionLabel number="03" text="What We Build" />
-          <h2 className="font-display text-4xl md:text-6xl font-bold tracking-tight">
-            Three architectures
-            <span className="block text-[#FF2E86]">— one {cityName} playbook.</span>
-          </h2>
+       <h2 className="font-display text-4xl md:text-6xl font-bold tracking-tight">
+  Enterprise-grade solutions.
+  <span className="block text-[#FF2E86]">
+    Designed for growth in {cityName}.
+  </span>
+</h2>
         </Reveal>
         <div className="mt-14 grid gap-6 md:grid-cols-3">
           {features.map((feature, i) => (

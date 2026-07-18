@@ -12,6 +12,8 @@ import { FaqSection } from '@/components/locations/FaqSection';
 import { CtaSection } from '@/components/locations/CtaSection';
 import { InternalLinksSection } from '@/components/locations/InternalLinksSection';
 import { LocationClientProps } from '@/components/locations/types';
+import { SolutionsSection } from '@/components/locations/SolutionsSection';
+
 
 export default function LocationClient({
   location,
@@ -32,6 +34,7 @@ export default function LocationClient({
   const hasPas = location.pas && location.pas.trim().length > 0;
   const hasServices = location.services && location.services.trim().length > 0;
   const hasPricing = location.pricing && location.pricing.trim().length > 0;
+const hasSolutions = !!(location.solutions && location.solutions.trim().length);
 
   // Parse services into array
   const parseServices = (servicesText: string): { title: string; body: string }[] => {
@@ -102,11 +105,17 @@ export default function LocationClient({
       
       {hasPas && <PasSection pasText={location.pas} />}
       
+      
+      {hasServices && <ServicesSection servicesList={servicesList} />}
+
+
       {hasFeatures && (
         <FeaturesSection features={features} cityName={cityName} />
       )}
-      
-      {hasServices && <ServicesSection servicesList={servicesList} />}
+
+      {hasSolutions && <SolutionsSection solutionsText={location.solutions} />}
+
+
       
       {hasPricing && (
         <PricingSection pricingList={pricingList} pricingText={location.pricing} />

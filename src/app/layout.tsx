@@ -22,8 +22,8 @@ export const metadata: Metadata = {
 
   title: {
     default:
-      "Award-Winning Digital Marketing Agency in United States | ClickMasters",
-    template: "%s | ClickMasters",
+      "Award-Winning Digital Marketing Agency in United States ",
+    template: "%s ",
   },
 
   description:

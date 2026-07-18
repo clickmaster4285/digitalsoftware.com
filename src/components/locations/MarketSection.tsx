@@ -43,7 +43,7 @@ export const MarketSection = ({ geoParagraphs, cityName, primaryKw }: MarketSect
                 {i === 0 ? (
                   <>
                     {para.split(".")[0]}.
-                    <span className="text-[#FF2E86] block mt-2"> Three commercially distinct requirements.</span>
+                    {/* <span className="text-[#FF2E86] block mt-2"> Three commercially distinct requirements.</span> */}
                   </>
                 ) : (
                   para

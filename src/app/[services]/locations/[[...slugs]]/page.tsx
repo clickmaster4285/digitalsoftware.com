@@ -97,7 +97,7 @@ export async function generateMetadata({
 
   const seoTitle =
     location.seoTitle ||
-    `${serviceName} in ${cityName} | Clickmasters`;
+    `${serviceName} in ${cityName} `;
 
   const metaDesc =
     location.meta ||

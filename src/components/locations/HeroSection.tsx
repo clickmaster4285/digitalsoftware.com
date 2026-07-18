@@ -85,7 +85,7 @@ export const HeroSection = ({ location, serviceName, cityName }: HeroSectionProp
         
         <Reveal delay={0.2}>
           <p className="mt-8 max-w-2xl text-xl text-white/70 leading-relaxed">
-            {location.meta}
+            { location.des|| location.meta}
           </p>
         </Reveal>
         
