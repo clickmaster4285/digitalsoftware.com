@@ -15,7 +15,7 @@ import {
   PayPerClickManagementContent,
   EcommerceServicesContent
 } from "@/content/services/main-services";
-import Footer from "@/components/site/Footer";
+
 import SchemaMarkup from "@/components/landingPage/SchemaMarkup";
 
 
@@ -474,7 +474,7 @@ export default function ServicesPage() {
         <Faqs content={content} />
         <CTA content={content} />
       </main>
-      <Footer />
+     
     </div>
   );
 }
