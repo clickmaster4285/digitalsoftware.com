@@ -136,12 +136,28 @@ function parseAdditionalContent(text: string): AdditionalSectionData[] {
     
     if (isMainHeader) {
       // Save previous section if exists
-      if (currentSection && currentSection.blocks.length > 0) {
+ if (currentSection) {
+
+    // Save previous block first
+    if (currentBlock && blockDescriptionLines.length > 0) {
+        currentSection.blocks.push({
+            title: currentBlock.title,
+            description: blockDescriptionLines.join(" ").trim(),
+            icon: getIconForTitle(currentBlock.title)
+        });
+    }
+
+    if (mainDescriptionLines.length > 0) {
+        currentSection.mainDescription = mainDescriptionLines.join(" ").trim();
+    }
+
+    if (currentSection.blocks.length > 0) {
         sections.push(currentSection);
-      }
+    }
+}
       
       // Split on the first ? or : that appears
-      const separatorIndex = Math.max(line.indexOf('?'), line.indexOf(':'));
+      const separatorIndex = line.search(/[?:]/);
       const cleanTitle = line.substring(0, separatorIndex).trim();
       const introText = line.substring(separatorIndex + 1).trim();
       
