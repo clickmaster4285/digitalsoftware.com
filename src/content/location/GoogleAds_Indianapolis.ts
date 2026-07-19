@@ -32,7 +32,9 @@ IU HEALTH HIPAA PATIENT ACQUISITION GOOGLE ADS: Indiana University Health and Es
   pas: `PROBLEM: The Indianapolis GMP pharmaceutical consulting firm spending \$7,200/month on 'pharmaceutical consulting Indianapolis' and 'FDA regulatory consulting Indiana.' Eli Lilly's new VP Global Manufacturing from Pfizer searches 'GMP API manufacturing validation consultant Indianapolis' and 'CMC pharmaceutical regulatory consulting Lilly vendor Indiana.' Neither search is in the campaign. \$86K annual spend on generic vocabulary completely misses Eli Lilly's GMP manufacturing operational vocabulary — the most commercially significant B2B procurement search in Indiana.
 
 SOLUTION: Clickmasters Indianapolis Google Ads delivers Eli Lilly GMP/FDA pharmaceutical vocabulary, Cummins commercial power enterprise community, IU Health HIPAA patient acquisition, and FINRA-compliant financial advertising — at Indiana CPCs 20-30% below Boston and Chicago equivalents.`,
-  services: `INDIANAPOLIS ELI LILLY PHARMACEUTICAL GOOGLE ADS:
+  
+
+services: `INDIANAPOLIS ELI LILLY PHARMACEUTICAL GOOGLE ADS:
 For Indianapolis pharma consulting and services companies. GMP API manufacturing, CMC regulatory, IND/NDA vocabulary. Eli Lilly/Corteva/Elanco audience signals. FDA-aware landing pages. HIPAA healthcare where applicable.
 
 INDIANAPOLIS CUMMINS ENTERPRISE GOOGLE ADS:

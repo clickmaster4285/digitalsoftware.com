@@ -38,17 +38,23 @@ export const CaseStudiesSection = ({ caseStudies, cityName }: CaseStudiesSection
               className="grid gap-6 rounded-2xl border border-white/10 bg-white/[0.03] backdrop-blur p-8 transition-all hover:border-[#FF2E86]/40 md:grid-cols-[220px_1fr]"
             >
               <div>
-                <div className="text-xs uppercase tracking-widest text-white/60">[ Case Study ]</div>
-                <div className="mt-3 font-display text-5xl text-[#FF2E86]">
-                  {study.metric || "100%"}
-                </div>
-                <div className="mt-1 text-xs uppercase tracking-widest text-white/60">
-                  {["lead increase", "enquiries", "new patients"][i % 3]}
-                </div>
+                <div className="text-xs uppercase tracking-widest text-white/60"></div>
+<div className="mt-3 font-display text-5xl text-[#FF2E86]">
+  {study.metric?.includes("⭐") 
+    ? study.metric.replace("$", "") 
+    : study.metric || "100%"}
+</div>
+              <div className="mt-1 text-xs uppercase tracking-widest text-white/60">
+  {study.metric?.includes("⭐")
+    ? "testimonial"
+    : ["lead increase", "enquiries", "new patients"][i % 3]}
+</div>
               </div>
               <div>
                 <h3 className="font-display text-2xl leading-snug mb-3">{study.title}</h3>
-                <p className="text-white/70 leading-relaxed">{study.body}</p>
+              <p className="text-white/70 leading-relaxed">
+  {study.body.replace(/\$?\d+%|\+\d+x|\$\d+[MB]|\$\d+⭐/g, '').trim()}
+</p>
               </div>
             </motion.article>
           ))}
