@@ -13,6 +13,7 @@ import { CtaSection } from '@/components/locations/CtaSection';
 import { InternalLinksSection } from '@/components/locations/InternalLinksSection';
 import { LocationClientProps } from '@/components/locations/types';
 import { SolutionsSection } from '@/components/locations/SolutionsSection';
+import { AdditionalSection } from './AdditionalSection';
 
 
 export default function LocationClient({
@@ -35,6 +36,7 @@ export default function LocationClient({
   const hasServices = location.services && location.services.trim().length > 0;
   const hasPricing = location.pricing && location.pricing.trim().length > 0;
 const hasSolutions = !!(location.solutions && location.solutions.trim().length);
+const hasAdditional = !!(location.additional && location.additional.trim().length);
 
   // Parse services into array
   const parseServices = (servicesText: string): { title: string; body: string }[] => {
@@ -115,6 +117,15 @@ const hasSolutions = !!(location.solutions && location.solutions.trim().length);
 
       {hasSolutions && <SolutionsSection solutionsText={location.solutions} />}
 
+{hasAdditional && (
+   <AdditionalSection 
+    content={location.additional}  // ✅ Correct
+    title="Digital Marketing Services"
+    subtitle="— tailored for Austin businesses."
+    sectionLabel="Our Solutions"
+    sectionNumber="03"
+  />
+)}
 
       
       {hasPricing && (
