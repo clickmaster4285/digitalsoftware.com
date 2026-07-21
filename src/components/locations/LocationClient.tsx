@@ -121,7 +121,7 @@ const hasAdditional = !!(location.additional && location.additional.trim().lengt
    <AdditionalSection 
     content={location.additional}  // ✅ Correct
     title="Digital Marketing Services"
-    subtitle="— tailored for Austin businesses."
+    subtitle="— tailored for businesses."
     sectionLabel="Our Solutions"
     sectionNumber="03"
   />

@@ -19,17 +19,68 @@ export const DigitalMarketing_Denver = {
   schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Denver Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-denver/","address":{"@type":"PostalAddress","addressLocality":"Denver","addressRegion":"CO","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Denver, CO`,
-  geoAeoBlock: `WHAT IS A DIGITAL MARKETING AGENCY IN DENVER?
+  geoAeoBlock: `
+  
+  
+  
+Digital Marketing Agency in Denver, Ohio
 
-A Denver digital marketing agency manages digital channels for Denver-area businesses in Colorado's commercially distinctive market — where Lockheed Martin's and Ball Aerospace's supply chain, the NREL clean energy ecosystem, and the extraordinary in-migration wave have each created commercial digital marketing opportunities that most Denver businesses have not yet systematically captured.
 
-DENVER'S THREE-SECTOR OPPORTUNITY:
+Looking for a trusted digital marketing agency in Denver, Ohio that can help your business get more leads, more calls, and better online visibility? We help local businesses grow through SEO, local SEO, Google Ads, social media marketing, content marketing, website optimization, and conversion-focused digital strategies.
+Our team builds marketing campaigns that are simple, clear, and focused on real business growth. Whether you serve customers in Denver, Ross County, nearby Ohio communities, or a wider service area, we help your business appear where your customers are searching online.
 
-AEROSPACE AND DEFENCE: Denver's Lockheed Martin, Ball Aerospace, United Launch Alliance, and L3Harris ecosystem is one of the most concentrated defence aerospace supply chains outside of Huntsville, Alabama. The supply chain companies competing for defence prime contractor procurement need digital marketing calibrated to AS9100D/ITAR credibility requirements — the technical authority architecture that earns vendor consideration from Colorado's aerospace procurement community.
 
-CLEAN ENERGY: The National Renewable Energy Laboratory in Golden anchors a clean energy ecosystem that spans solar, wind, energy storage, and clean technology across Colorado and the Mountain West. Denver clean energy companies with genuine NREL relationships need digital marketing that communicates this authority — not generic renewable energy marketing, but NREL-cited, DOE-referenced, technically precise content that earns trust from the investors, utilities, and corporate sustainability buyers who evaluate clean energy vendors.
+Professional Digital Marketing Agency – Denver First Choice
 
-IN-MIGRATION: Denver's 20%+ population growth has created an in-migration demographic with above-average professional services demand and above-average digital sophistication. Healthcare, financial advisory, legal, and consumer services businesses serving Colorado's in-migration wave have a above-average conversion opportunity from the professionals actively establishing new service relationships.`,
+Denver businesses need a strong online presence to compete in local search. Customers now check Google, Google Maps, websites, reviews, and social media before they contact any company. If your business is not visible online, you may lose leads to competitors.
+As a professional digital marketing agency, we help your business build trust, improve search visibility, and generate qualified inquiries. Our strategies are designed for local businesses that want practical growth, not confusing reports.
+Our digital marketing services include:
+
+Search engine optimization,
+Local SEO and Google Maps optimization,
+Google Ads management,
+Social media marketing,
+Website content optimization,
+Landing page improvement,
+Conversion tracking,
+Review and reputation support,
+Monthly reporting and growth planning,
+
+
+
+
+
+
+
+
+
+
+
+Industry-Leading Tools & Platforms We Master
+
+We use professional tools to research, track, measure, and improve every campaign. These tools help us make better decisions and show clear performance.
+Our tools may include:
+
+Google Analytics,
+Google Search Console,
+Google Business Profile,
+Google Ads,
+Google Tag Manager,
+SEMrush,
+Ahrefs,
+Screaming Frog,
+PageSpeed Insights,
+Looker Studio,
+Call tracking tools,
+Heatmap tools,
+Rank tracking tools,
+Schema testing tools,
+Conversion tracking tools,
+These platforms help us track rankings, traffic, calls, forms, conversions, website issues, and campaign growth.
+
+
+
+`,
   features: ``,
   pas: `THE BEFORE: The Englewood aerospace manufacturer with \$12M revenue, AS9100D certification, and 14 prime contractor relationships has zero digital presence. The Lockheed Martin programme manager who received new budget authority for a supplier category she hasn't procured before Googles her product category. This manufacturer — the most qualified supplier in Colorado — doesn't appear. She finds a Massachusetts supplier with a well-optimised website and case studies from Boeing and Raytheon. The Colorado supplier isn't considered because it doesn't exist in the digital commercial universe.
 
@@ -55,58 +106,460 @@ EMAIL DENVER: AUSA/Space Symposium contact reactivation. NREL/CleanTech Forum co
 LOCAL SEO DENVER: Top 3 Local Pack for Cherry Creek, Denver Tech Center, and in-migration professional service markets. /local-seo-services-denver/
 
 WEB DESIGN DENVER: AS9100D/ITAR credibility architecture. NREL citation display. In-migration professional standard visual quality. /web-design-denver/`,
-  caseStudies: `Case Study 1: Englewood Aerospace Company — Full Digital Programme, \$6.8M Defence Pipeline
-Client: Aerospace components manufacturer, Englewood CO (\$12M, AS9100D/ITAR). Challenge: Zero digital presence. Lockheed/Ball procurement managers finding Massachusetts and California competitors online. Conference-only BD unsustainable.
-Programme: SEO (AS9100D technical content) + Google Ads (defence vocabulary) + LinkedIn (aerospace executive) + AUSA contact reactivation email
-Results (12 months): Page 1 for 18 defence procurement queries | Google Ads defence pipeline: \$2.8M | AUSA reactivation pipeline: \$4.0M total | Lockheed and Ball evaluation invitations: +3x | LinkedIn: recognised as Colorado aerospace thought leader
+ 
 
-Case Study 2: Denver Clean Energy Company — NREL Authority Full Programme
-Client: Solar technology SaaS, Denver (\$6.8M ARR). Challenge: NREL relationship not communicated. Generic clean energy marketing. Investors and utilities finding Boston and San Francisco competitors.
-Programme: SEO + NREL citation content + CleanTechnica editorial + Google Ads (clean energy procurement) + LinkedIn (clean energy investor)
-Results (11 months): Page 1 for 16 clean energy tech queries | NREL citation: 3 clean energy editorial mentions | Clean energy investor enquiries: 8 | Utility evaluation invitations: +3x | Pipeline: \$2.4M
 
-Case Study 3: Cherry Creek Professional Services — In-Migration Full Programme
-Client: Wealth management, Cherry Creek (\$380M AUM). Challenge: CA/TX/IL in-migrants with complex financial needs not finding Cherry Creek advisers. No digital programme.
-Programme: SEO + Google Ads (in-migration financial planning) + content (CA-to-CO tax) + Local SEO (Cherry Creek)
-Results (10 months): Page 1 for 12 in-migration financial queries | Google Ads in-migration CPL: \$180 | Local Pack top 3 Cherry Creek | New AUM: \$68M | Average new client AUM: \$1.2M`,
-  pricing: `Single Channel (\$1,800-\$3,800/month): SEO, Google Ads, or Content. ITAR-bounded aerospace standard.
+
+
+
+
+
+
+
+
+
+
+
+
+additional: `
+
+Digital Marketing Problems in Denver and Our Effective Solutions:
+
+Many local businesses spend money on marketing but do not see clear results. The problem is often weak strategy, poor targeting, missing tracking, or a website that does not convert visitors into leads. We find the real issue and fix it with a clear action plan.
+
+Step 1: Problem 
+Your Business Is Not Showing on Google
+If customers cannot find your business when they search for your services, your competitors get the calls first.
+
+Our Solution
+We improve your website SEO, service pages, local keywords, meta titles, Google Business Profile, and content structure so your business has a stronger chance to appear in local search results.
+
+Step 2: Problem 
+Your Google Business Profile Is Not Getting Calls
+A weak or incomplete Google Business Profile can reduce your visibility on Google Maps.
+
+Our Solution
+We optimize your profile categories, services, business description, photos, posts, reviews, citations, and local signals to improve your local presence.
+
+Step 3: Problem 
+Your Website Traffic Is Not Turning Into Leads
+Traffic has no value if visitors do not call, book, or fill out a form.
+
+Our Solution
+We improve your calls to action, page layout, mobile experience, contact forms, trust signals, service content, and landing pages to increase conversions.
+
+Step 4: Problem 
+Your Paid Ads Are Wasting Budget
+Many businesses run Google Ads without proper keyword targeting or conversion tracking.
+
+Our Solution
+We rebuild your campaigns with better keywords, stronger ad copy, negative keywords, landing page review, budget control, and call/form tracking.
+
+Step 5: Problem  Competitors Look More Trusted Online
+Customers compare reviews, websites, content, and search results before making a decision.
+
+Our Solution
+We improve your brand trust through better content, review strategy, service pages, case studies, local SEO, and consistent online messaging.
+
+Proven Results Denver Businesses Get From Our Agency:
+Our goal is to help Denver businesses get measurable results from digital marketing. We focus on leads, calls, visibility, and long-term growth.
+
+Step 1: With our digital marketing services, your business can achieve:
+
+Better rankings for local service keywords
+
+More visibility on Google Maps
+
+More calls from nearby customers
+
+More qualified website inquiries
+
+Better performance from Google Ads
+
+Stronger brand trust online
+
+Improved website conversion rate
+
+Clear tracking for calls, forms, and leads
+
+Long-term growth through SEO and content
+
+We do not focus only on clicks. We focus on customers who are ready to take action.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our Transparent Digital Marketing Process in Denver:
+We follow a clear and honest process so you always know what we are doing and why it matters.
+
+Step 1: Business Discovery
+We learn about your business, services, goals, target customers, service areas, and competitors.
+
+Step 2: Website & Marketing Audit
+We review your website, SEO, Google Business Profile, content, ads, speed, tracking, and conversion setup.
+
+Step 3: Keyword & Competitor Research
+We find the best keywords your customers use when searching for your services in Denver and nearby areas.
+
+Step 4: Custom Strategy Plan
+We create a clear marketing plan based on your goals, budget, competition, and current online position.
+
+Step 5: Campaign Setup
+We optimize your website, improve your content, set up tracking, manage ads, and improve local search visibility.
+
+Step 6: Monthly Optimization
+We monitor performance, adjust campaigns, improve pages, add content, and keep working toward better results.
+
+Step 7: Clear Reporting
+You receive easy-to-understand reports showing rankings, traffic, calls, leads, conversions, and next steps.
+
+How We Execute High-Impact Digital Marketing Services:
+High-impact digital marketing needs more than posting online or adding keywords to a website. It needs strategy, tracking, testing, and ongoing improvement.
+
+Step 1: Our execution approach includes
+
+Building campaigns around buyer intent
+
+Optimizing service pages for search and conversions
+
+Improving local SEO signals
+
+Creating helpful content for customers
+
+Managing paid ads with budget control
+
+Tracking calls, forms, and leads
+
+Improving website trust and user experience
+
+Reviewing results every month
+
+Making decisions based on data
+
+Every action is connected to a business goal. We work to improve your visibility, traffic quality, lead generation, and customer trust.
+
+Featured Completed Projects & Client Successes:
+We help local and service-area businesses improve online visibility and generate more leads. Below are sample project types we deliver for businesses in Denver, Ohio and surrounding areas.
+
+Step 1: Local SEO Project for a Service Business
+A local service business needed more calls from nearby customers. Their website had weak local keywords and their Google Business Profile was incomplete.
+
+Work Completed
+Google Business Profile optimization
+
+Local keyword research
+
+Service page SEO
+
+Citation cleanup
+
+Review strategy guidance
+
+Call tracking setup
+
+Result Focus
+Better local visibility, stronger Google Maps presence, and more call opportunities.
+
+Step 2: Website SEO Project for a Small Business
+A small business had a website but was not ranking for important service keywords.
+
+Work Completed
+SEO audit
+
+Meta title and description optimization
+
+Service page content improvement
+
+Internal linking
+
+Technical SEO review
+
+Monthly ranking report
+
+Result Focus
+Better search structure, stronger keyword targeting, and improved organic visibility.
+
+Step 3: Google Ads Project for Lead Generation
+A business was spending on ads but getting low-quality leads.
+
+Work Completed
+PPC account audit
+
+Keyword cleanup
+
+Negative keyword setup
+
+New ad copy
+
+Landing page improvements
+
+Conversion tracking
+
+Result Focus
+Better ad targeting, reduced wasted spend, and improved lead quality.
+
+Proven Case Studies From Our Denver Clients:
+Step 1: Case Study 1 – Local Search Visibility Growth
+A Denver-area business wanted to appear for local service searches and increase phone calls.
+
+Challenge
+The business had low search visibility, weak service pages, and an under-optimized Google Business Profile.
+
+Strategy
+Improved local SEO
+
+Optimized website content
+
+Updated Google Business Profile
+
+Added service-based keywords
+
+Improved contact calls to action
+
+Set up call tracking
+
+Outcome
+The business became easier to find online and started receiving more relevant local inquiries.
+
+Step 2: Case Study 2 – Better Website Conversions
+A service-based business had website traffic but not enough leads.
+
+Challenge
+Visitors were landing on the site but leaving without calling or submitting forms.
+
+Strategy
+Improved homepage messaging
+
+Rebuilt service page structure
+
+Added stronger calls to action
+
+Improved mobile experience
+
+Added trust signals
+
+Simplified contact forms
+
+Outcome
+The website became clearer, more professional, and more focused on lead generation.
+
+Step 3: Case Study 3 – PPC Campaign Improvement
+A business wanted faster lead generation through Google Ads.
+
+Challenge
+The campaign had broad keywords, weak tracking, and poor landing page alignment.
+
+Strategy
+Rebuilt keyword targeting
+
+Added negative keywords
+
+Improved ad copy
+
+Reviewed landing pages
+
+Added call and form tracking
+
+Optimized budget allocation
+
+Outcome
+The campaign became more focused, easier to track, and better aligned with customer intent.
+
+Reasons to Choose Us as Your Denver Digital Marketing Partner
+Choosing the right digital marketing agency can make a big difference in your business growth. We focus on clear strategy, honest communication, and practical results.
+
+Denver businesses choose us because:
+
+Step 1: We build custom marketing plans
+Step 2: We focus on calls, leads, and revenue
+Step 3: We understand local SEO and service-area marketing
+Step 4: We improve both visibility and conversions
+Step 5: We use clear reporting
+Step 6: We avoid confusing marketing language
+Step 7: We track real performance
+Step 8: We optimize for Google Search, Google Maps, and AI search
+Step 9: We support small and growing businesses
+Step 10: We work as a long-term growth partner
+Our goal is to help your business become more visible, trusted, and profitable online.
+
+Budget-Friendly Digital Marketing Packages for Denver Businesses
+We offer flexible digital marketing packages for small businesses, local companies, and growing brands.
+
+Step 1: Starter Local Package
+Best for businesses that need a stronger local foundation.
+
+Includes
+Basic website audit
+
+Local keyword research
+
+Google Business Profile optimization
+
+On-page SEO for main pages
+
+Basic content recommendations
+
+Monthly performance report
+
+Step 2: Growth Marketing Package
+Best for businesses that want steady traffic, calls, and leads.
+
+Includes
+Complete SEO strategy
+
+Local SEO campaign
+
+Google Ads management
+
+Website conversion improvements
+
+Monthly content optimization
+
+Competitor tracking
+
+Call and form tracking
+
+Detailed monthly reporting
+
+Step 3: Performance Marketing Package
+Best for competitive businesses that want faster and stronger growth.
+
+Includes
+Advanced SEO strategy
+
+PPC campaign management
+
+Landing page optimization
+
+Technical SEO improvements
+
+Content marketing plan
+
+Local SEO expansion
+
+AI-search content optimization
+
+Conversion rate optimization
+
+Full analytics and reporting
+
+Every package can be customized based on your goals, competition, service area, and budget.
+
+`,
+
+
+
+
+
+
+
+
+
+
+caseStudies: `We needed a digital marketing agency that could help us get more local leads. The team improved our website, optimized our Google Business Profile, and gave us a clear strategy. The process was professional and easy to understand
+\$5⭐
+
+Testimonial 2: 
+Our website was online, but it was not bringing enough inquiries. They improved our service pages, calls to action, and local SEO. We started getting better quality leads from people actually looking for our services.
+\$5⭐
+
+Testimonial 3: 
+Our Google Ads were spending money without clear results. After the campaign was improved, the leads became more relevant and the reporting became easier to understand.
+\$5⭐
+
+Testimonial 4: 
+The team helped us understand what was missing from our digital marketing. They fixed important SEO issues, improved our content, and gave us a clear monthly plan.
+$5⭐
+
+Testimonial 5: 
+We wanted a marketing partner that focused on business results. They helped us improve online visibility, website trust, and lead tracking. We are happy with the support and communication.
+\$5⭐
+
+`,
+
+
+ 
+
+
+
+pricing: `Single Channel (\$1,800-\$3,800/month): SEO, Google Ads, or Content. ITAR-bounded aerospace standard.
 Multi-Channel (\$3,800-\$8,500/month): 2-3 channels. NREL clean energy + aerospace + in-migration. Pipeline attribution.
 Enterprise (\$8,500-\$20,000+/month): All channels + Lockheed/Ball ABM + dedicated director.
 All: ITAR-bounded aerospace content. NREL accuracy review. 90-day guarantee.`,
   faqTitle: `FAQs — Digital Marketing Denver`,
-  faqs: [
-  {
-    "question": "How much does digital marketing cost in Denver?",
-    "answer": "Denver digital marketing: $1,800/month (single channel) to $20,000+/month (enterprise). ITAR-bounded aerospace content standard. NREL citation accuracy review. 90-day performance guarantee."
-  },
-  {
-    "question": "Which digital marketing channels work best for Denver aerospace companies?",
-    "answer": "(1) SEO — AS9100D/ITAR technical content builds the organic procurement authority that earns Lockheed and Ball evaluation invitations. (2) Google Ads with defence vocabulary — ITAR-bounded campaigns targeting defence procurement searches. (3) Email — AUSA and Space Symposium contact reactivation converts conference contacts to qualified evaluations. (4) LinkedIn — aerospace executive thought leadership earning defence programme community credibility."
-  },
-  {
-    "question": "Does Clickmasters serve Boulder, Colorado Springs, and all of Colorado?",
-    "answer": "Yes — all of Colorado including Boulder (clean tech community), Colorado Springs (Space Force, defence contractors), Fort Collins, Aurora, and the full state market."
-  },
-  {
-    "question": "How does GEO/AEO affect Denver digital marketing?",
-    "answer": "Denver's aerospace and clean energy professional community is increasingly using AI search for procurement research. When a Lockheed programme manager asks ChatGPT for Colorado AS9100D aerospace component suppliers, or a utility procurement officer asks Perplexity for NREL-partnered solar technology vendors in Colorado, the companies with GEO and AEO signals appear in those answers."
-  },
-  {
-    "question": "What is ITAR-bounded digital marketing?",
-    "answer": "ITAR (International Traffic in Arms Regulations) restricts disclosure of defence technical information. ITAR-bounded digital marketing means: Google Ads and content that references publicly releasable defence programme information only, landing pages that communicate capability without disclosing controlled technical data, and the careful compliance that protects Colorado aerospace companies from ITAR exposure while still communicating defence procurement credibility."
-  },
-  {
-    "question": "How quickly does Denver aerospace digital marketing produce defence RFQ results?",
-    "answer": "Denver aerospace content: first meaningful procurement vocabulary rankings 5-8 months. Google Ads defence vocabulary leads: 7-14 days. AUSA email reactivation RFQs: 60-90 days. LinkedIn defence programme community recognition: 6-8 months."
-  }
-],
-  faqsAlt: `Q: How much does Denver digital marketing cost? A: \$1,800-\$20,000+/month. ITAR-bounded aerospace standard. NREL accuracy review. 90-day guarantee.
-Q: Best channels for Denver aerospace companies? A: SEO (AS9100D technical authority), Google Ads (defence vocabulary), Email (AUSA/Space Symposium reactivation), LinkedIn (aerospace executive thought leadership).
-Q: Serve Boulder, Colorado Springs, all of Colorado? A: Yes — all of Colorado.
-Q: GEO/AEO for Denver? A: Lockheed programme managers using ChatGPT/Perplexity for Colorado aerospace vendors. Utility buyers using AI search for NREL-partnered clean energy.
-Q: What is ITAR-bounded digital marketing? A: Publicly releasable defence programme information only. No controlled technical data in content or ads. Defence procurement credibility without ITAR exposure.
-Q: How quickly does Denver aerospace digital produce RFQ results? A: Content rankings 5-8 months. Google Ads leads 7-14 days. AUSA reactivation RFQs 60-90 days. LinkedIn community recognition 6-8 months.`,
-  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does digital marketing cost in Denver?","acceptedAnswer":{"@type":"Answer","text":"Denver digital marketing: \$1,800/month (single channel) to \$20,000+/month (enterprise). ITAR-bounded aerospace content standard. NREL citation accuracy review. 90-day performance guarantee."}},{"@type":"Question","name":"Which digital marketing channels work best for Denver aerospace companies?","acceptedAnswer":{"@type":"Answer","text":"(1) SEO — AS9100D/ITAR technical content builds the organic procurement authority that earns Lockheed and Ball evaluation invitations. (2) Google Ads with defence vocabulary — ITAR-bounded campaigns targeting defence procurement searches. (3) Email — AUSA and Space Symposium contact reactivation converts conference contacts to qualified evaluations. (4) LinkedIn — aerospace executive thought leadership earning defence programme community credibility."}},{"@type":"Question","name":"Does Clickmasters serve Boulder, Colorado Springs, and all of Colorado?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Colorado including Boulder (clean tech community), Colorado Springs (Space Force, defence contractors), Fort Collins, Aurora, and the full state market."}},{"@type":"Question","name":"How does GEO/AEO affect Denver digital marketing?","acceptedAnswer":{"@type":"Answer","text":"Denver's aerospace and clean energy professional community is increasingly using AI search for procurement research. When a Lockheed programme manager asks ChatGPT for Colorado AS9100D aerospace component suppliers, or a utility procurement officer asks Perplexity for NREL-partnered solar technology vendors in Colorado, the companies with GEO and AEO signals appear in those answers."}},{"@type":"Question","name":"What is ITAR-bounded digital marketing?","acceptedAnswer":{"@type":"Answer","text":"ITAR (International Traffic in Arms Regulations) restricts disclosure of defence technical information. ITAR-bounded digital marketing means: Google Ads and content that references publicly releasable defence programme information only, landing pages that communicate capability without disclosing controlled technical data, and the careful compliance that protects Colorado aerospace companies from ITAR exposure while still communicating defence procurement credibility."}},{"@type":"Question","name":"How quickly does Denver aerospace digital marketing produce defence RFQ results?","acceptedAnswer":{"@type":"Answer","text":"Denver aerospace content: first meaningful procurement vocabulary rankings 5-8 months. Google Ads defence vocabulary leads: 7-14 days. AUSA email reactivation RFQs: 60-90 days. LinkedIn defence programme community recognition: 6-8 months."}}]}`,
+  
+  
+
+  "faqs": [
+    {
+      "question": "What does a digital marketing agency in Denver, Ohio do?",
+      "answer": "A digital marketing agency in Denver, Ohio helps businesses grow online through SEO, local SEO, Google Ads, social media marketing, content marketing, website optimization, and lead generation strategies."
+    },
+    {
+      "question": "Why should I hire a digital marketing agency for my local business?",
+      "answer": "Hiring a digital marketing agency helps your business appear in search results, attract local customers, build trust, and generate more leads from Google, Google Maps, social media, and paid ads."
+    },
+    {
+      "question": "Do you provide SEO services in Denver, Ohio?",
+      "answer": "Yes. We provide SEO services including keyword research, on-page SEO, technical SEO, local SEO, service page optimization, content improvement, and monthly SEO reporting."
+    },
+    {
+      "question": "Can you help my business rank on Google Maps?",
+      "answer": "Yes. We optimize your Google Business Profile, local citations, reviews, business categories, services, photos, posts, and location-based content to help improve Google Maps visibility."
+    },
+    {
+      "question": "Do you manage Google Ads campaigns?",
+      "answer": "Yes. We manage Google Ads campaigns for lead generation. Our PPC services include keyword research, campaign setup, ad copy, landing page review, budget control, and conversion tracking."
+    },
+    {
+      "question": "How long does digital marketing take to show results?",
+      "answer": "Google Ads can start bringing traffic quickly after launch. SEO and local SEO usually take longer because rankings grow over time. Most businesses see stronger progress after consistent optimization."
+    },
+    {
+      "question": "Is digital marketing good for small businesses?",
+      "answer": "Yes. Digital marketing is very useful for small businesses because it helps them reach local customers, build trust, generate leads, and compete with larger companies online."
+    },
+    {
+      "question": "What industries do you work with?",
+      "answer": "We work with local service businesses, contractors, healthcare clinics, law firms, real estate companies, restaurants, eCommerce stores, B2B companies, and professional service providers."
+    },
+    {
+      "question": "How much do digital marketing services cost?",
+      "answer": "The cost depends on your goals, competition, services, and campaign size. Basic local marketing plans are usually more affordable, while advanced SEO and PPC campaigns require a larger monthly budget."
+    },
+    {
+      "question": "Do you provide monthly reports?",
+      "answer": "Yes. We provide monthly reports showing website traffic, keyword progress, calls, leads, conversions, ad performance, and next-step recommendations."
+    },
+    {
+      "question": "Can you improve my existing website?",
+      "answer": "Yes. We can improve your website content, SEO structure, page speed, mobile experience, landing pages, calls to action, and conversion paths."
+    },
+    {
+      "question": "How do I get started?",
+      "answer": "You can start with a digital marketing audit or consultation. We review your current website, SEO, ads, Google Business Profile, and competitors, then create a clear growth plan for your business."
+    }
+  ],
+  "faqsAlt": "Q: What does a digital marketing agency in Denver, Ohio do? A: Helps businesses grow online through SEO, local SEO, Google Ads, social media, content marketing, website optimization, and lead generation.\nQ: Why hire a digital marketing agency for my local business? A: Appear in search results, attract local customers, build trust, and generate more leads from Google, Google Maps, social media, and paid ads.\nQ: Do you provide SEO services in Denver, Ohio? A: Yes — keyword research, on-page SEO, technical SEO, local SEO, service page optimization, content improvement, and monthly reporting.\nQ: Can you help my business rank on Google Maps? A: Yes — optimize Google Business Profile, local citations, reviews, categories, services, photos, posts, and location-based content.\nQ: Do you manage Google Ads campaigns? A: Yes — keyword research, campaign setup, ad copy, landing page review, budget control, and conversion tracking.\nQ: How long does digital marketing take to show results? A: Google Ads traffic starts quickly. SEO and local SEO grow over time with consistent optimization.\nQ: Is digital marketing good for small businesses? A: Yes — helps reach local customers, build trust, generate leads, and compete with larger companies.\nQ: What industries do you work with? A: Local service businesses, contractors, healthcare clinics, law firms, real estate, restaurants, eCommerce, B2B, and professional services.\nQ: How much do digital marketing services cost? A: Depends on goals, competition, services, and campaign size — from affordable local plans to larger monthly budgets for advanced SEO and PPC.\nQ: Do you provide monthly reports? A: Yes — website traffic, keyword progress, calls, leads, conversions, ad performance, and next-step recommendations.\nQ: Can you improve my existing website? A: Yes — content, SEO structure, page speed, mobile experience, landing pages, calls to action, and conversion paths.\nQ: How do I get started? A: Start with a digital marketing audit or consultation. We review your current website, SEO, ads, Google Business Profile, and competitors, then create a growth plan.",
+  "faqSchema": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What does a digital marketing agency in Denver, Ohio do?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A digital marketing agency in Denver, Ohio helps businesses grow online through SEO, local SEO, Google Ads, social media marketing, content marketing, website optimization, and lead generation strategies.\"}},{\"@type\":\"Question\",\"name\":\"Why should I hire a digital marketing agency for my local business?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Hiring a digital marketing agency helps your business appear in search results, attract local customers, build trust, and generate more leads from Google, Google Maps, social media, and paid ads.\"}},{\"@type\":\"Question\",\"name\":\"Do you provide SEO services in Denver, Ohio?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. We provide SEO services including keyword research, on-page SEO, technical SEO, local SEO, service page optimization, content improvement, and monthly SEO reporting.\"}},{\"@type\":\"Question\",\"name\":\"Can you help my business rank on Google Maps?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. We optimize your Google Business Profile, local citations, reviews, business categories, services, photos, posts, and location-based content to help improve Google Maps visibility.\"}},{\"@type\":\"Question\",\"name\":\"Do you manage Google Ads campaigns?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. We manage Google Ads campaigns for lead generation. Our PPC services include keyword research, campaign setup, ad copy, landing page review, budget control, and conversion tracking.\"}},{\"@type\":\"Question\",\"name\":\"How long does digital marketing take to show results?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Google Ads can start bringing traffic quickly after launch. SEO and local SEO usually take longer because rankings grow over time. Most businesses see stronger progress after consistent optimization.\"}},{\"@type\":\"Question\",\"name\":\"Is digital marketing good for small businesses?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Digital marketing is very useful for small businesses because it helps them reach local customers, build trust, generate leads, and compete with larger companies online.\"}},{\"@type\":\"Question\",\"name\":\"What industries do you work with?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"We work with local service businesses, contractors, healthcare clinics, law firms, real estate companies, restaurants, eCommerce stores, B2B companies, and professional service providers.\"}},{\"@type\":\"Question\",\"name\":\"How much do digital marketing services cost?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The cost depends on your goals, competition, services, and campaign size. Basic local marketing plans are usually more affordable, while advanced SEO and PPC campaigns require a larger monthly budget.\"}},{\"@type\":\"Question\",\"name\":\"Do you provide monthly reports?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. We provide monthly reports showing website traffic, keyword progress, calls, leads, conversions, ad performance, and next-step recommendations.\"}},{\"@type\":\"Question\",\"name\":\"Can you improve my existing website?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. We can improve your website content, SEO structure, page speed, mobile experience, landing pages, calls to action, and conversion paths.\"}},{\"@type\":\"Question\",\"name\":\"How do I get started?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can start with a digital marketing audit or consultation. We review your current website, SEO, ads, Google Business Profile, and competitors, then create a clear growth plan for your business.\"}}]}"
+
+ ,
+ 
+ 
   cta: `Get Your Free Denver Digital Marketing Audit`,
   ctaBody: `Free audit — 48 hours.
 1. Aerospace procurement visibility — page 1 for AS9100D/ITAR defence vocabulary searches
