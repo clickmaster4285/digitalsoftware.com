@@ -92,21 +92,21 @@ export const HeroSection = ({ location, serviceName, cityName }: HeroSectionProp
         <Reveal delay={0.3}>
           <div className="mt-10 flex flex-wrap gap-3">
             <motion.a
-              href="#cta"
+              href="/contact"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
               className="inline-flex items-center gap-2 rounded-full bg-white px-8 py-4 text-sm font-medium text-gray-900 shadow-xl shadow-white/20 hover:bg-[#FF2E86] hover:text-white transition-colors"
             >
               Free {cityName} Audit <ArrowUpRight className="w-4 h-4" />
             </motion.a>
-            <motion.a
+            {/* <motion.a
               href="#features"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
               className="inline-flex items-center gap-2 rounded-full border border-white/20 px-8 py-4 text-sm font-medium text-white hover:border-white/60 transition-colors"
             >
               See What We Build
-            </motion.a>
+            </motion.a> */}
           </div>
         </Reveal>
 
