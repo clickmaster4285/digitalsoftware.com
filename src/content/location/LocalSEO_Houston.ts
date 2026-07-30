@@ -105,7 +105,7 @@ Q: How long does Houston Local SEO take? A: Bilingual healthcare: 3-5 months. En
 Get Your Free Houston Local SEO Audit: Phone +1-888-555-CLICK
 Email: houston@clickmastersdigitalmarketing.com
 Energy Corridor, TMC, The Woodlands, Sugar Land, and all of Greater Houston`,
-  internalLinks: ["/local-seo-services/","/seo-services-houston/","/digital-marketing-agency-houston/","/local-seo-services-dallas/","/tools/local-seo-audit/","/industries/healthcare/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-houston/","/locations/digital-marketing-agency-houston/","/search-engine-optimization/local-seo/locations/local-seo-services-dallas/","/search-engine-optimization/local-seo/locations/local-seo-services-tulsa/","/content-marketing/locations/content-marketing-des-moines/"],
   
   publishingChecklist: {
     onPageSeo: {

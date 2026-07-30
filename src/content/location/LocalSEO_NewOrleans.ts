@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack CBD New Orleans energy consulting | Entergy
 
 Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
 Garden District, Uptown, Metairie, French Quarter, and all of Greater New Orleans`,
-  internalLinks: ["/local-seo-services/","/seo-services-new-orleans/","/digital-marketing-agency-new-orleans/","/local-seo-services-houston/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-new-orleans/","/locations/digital-marketing-agency-new-orleans/","/search-engine-optimization/local-seo/locations/local-seo-services-houston/"],
   
   publishingChecklist: {
     onPageSeo: {

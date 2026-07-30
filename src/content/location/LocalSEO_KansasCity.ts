@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack North KC health IT | Oracle Health communit
 
 Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
 Leawood, Overland Park, Olathe, North KC, and all of Greater Kansas City`,
-  internalLinks: ["/local-seo-services/","/seo-services-kansas-city/","/digital-marketing-agency-kansas-city/","/local-seo-services-st-louis/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-kansas-city/","/locations/digital-marketing-agency-kansas-city/","/search-engine-optimization/local-seo/locations/local-seo-services-st-louis/"],
   
   publishingChecklist: {
     onPageSeo: {

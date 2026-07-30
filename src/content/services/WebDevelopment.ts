@@ -269,9 +269,9 @@ export const WebDevelopmentContent = {
   cta: {
     title: "Ready for a Website That Is Built as Well as It Looks?",
     description: "The design earns the attention. The development determines whether that attention results in a conversion or in a three-second wait that sends the visitor to a competitor's faster website.\n\nWe build the technical foundation that makes great design function at the speed, security, and reliability that growing businesses need.",
-    contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
+    contactLink: "https://clickmastersdigitalmarketing.com/contact/",
     whatsappLink: "https://wa.me/",
-    webDesignLink: "https://clickmastersdigitalmarketing.com/web-design-services/",
+    webDesignLink: "https://clickmastersdigitalmarketing.com/",
   },
   footer: {
     company: "Clickmasters Digital Marketing | https://clickmastersdigitalmarketing.com | marketing@clickmastersdigitalmarketing.com",

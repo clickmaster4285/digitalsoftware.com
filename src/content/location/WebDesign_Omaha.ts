@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | Nebraska Medicine: cited | HIPAA/NDPA: clean | New pati
 
 Phone +1-888-555-CLICK | omaha@clickmastersdigitalmarketing.com
 Bellevue, Papillion, Elkhorn, Old Market, and all of Greater Omaha`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-omaha/","/seo-services-omaha/","/web-design-kansas-city/"],
+  internalLinks: ["/locations/digital-marketing-agency-omaha/","/search-engine-optimization/locations/seo-services-omaha/","/web-design-development/web-design/locations/web-design-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

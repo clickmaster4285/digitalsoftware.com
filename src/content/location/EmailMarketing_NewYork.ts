@@ -116,7 +116,7 @@ Q: Serve Brooklyn, Williamsburg DTC brands, outer boroughs? A: Yes — all of NY
 Get Your Free NYC Email Marketing Audit: Phone +1-888-555-CLICK
 Email: newyork@clickmastersdigitalmarketing.com
 Midtown, Wall Street, SoHo, Flatiron, Brooklyn, and all of Greater New York`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-new-york/","/seo-services-new-york/","/email-marketing-chicago/","/integrations/klaviyo-email-marketing/","/industries/financial-services/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-new-york/","/search-engine-optimization/locations/seo-services-new-york/","/content-marketing/email-marketing/locations/email-marketing-chicago/","/integrations/klaviyo-email-marketing/"],
   
   publishingChecklist: {
     onPageSeo: {

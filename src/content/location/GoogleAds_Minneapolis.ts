@@ -103,7 +103,7 @@ Q: Minneapolis Medical Alley CPCs vs other markets? A: 15-20% below Chicago, 25-
 Get Your Free Minneapolis Google Ads Audit: Phone +1-888-555-CLICK
 Email: minneapolis@clickmastersdigitalmarketing.com
 Plymouth, Eden Prairie, Edina, St. Paul, and all of the Twin Cities metro`,
-  internalLinks: ["/digital-marketing-agency-minneapolis/","/seo-services-minneapolis/","/google-ads-management-services/","/google-ads-management-chicago/","/industries/medical-devices/","/industries/healthcare-tech/"],
+  internalLinks: ["/locations/digital-marketing-agency-minneapolis/","/search-engine-optimization/locations/seo-services-minneapolis/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-chicago/","/industries/medical-devices/","/industries/healthcare-tech/"],
   
   publishingChecklist: {
     onPageSeo: {

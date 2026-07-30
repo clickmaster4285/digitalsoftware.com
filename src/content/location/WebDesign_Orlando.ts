@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | AdventHealth: cited in patient surveys | HIPAA/SB 262: 
 
 Phone +1-888-555-CLICK | orlando@clickmastersdigitalmarketing.com
 Lake Nona, Winter Park, Kissimmee, and all of Greater Orlando`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-orlando/","/seo-services-orlando/","/web-design-tampa/"],
+  internalLinks: ["/locations/digital-marketing-agency-orlando/","/search-engine-optimization/locations/seo-services-orlando/","/web-design-development/web-design/locations/web-design-tampa/"],
   
   publishingChecklist: {
     onPageSeo: {

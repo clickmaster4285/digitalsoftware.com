@@ -94,7 +94,7 @@ Results (4 months): Top 3 Local Pack Wayne and Berwyn wealth management | CFA ve
 
 Phone +1-888-555-CLICK | philadelphia@clickmastersdigitalmarketing.com
 Centre City, Main Line, King of Prussia, and all of the Delaware Valley`,
-  internalLinks: ["/local-seo-services/","/seo-services-philadelphia/","/digital-marketing-agency-philadelphia/","/local-seo-services-boston/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-philadelphia/","/locations/digital-marketing-agency-philadelphia/","/search-engine-optimization/local-seo/locations/local-seo-services-boston/"],
   
   publishingChecklist: {
     onPageSeo: {

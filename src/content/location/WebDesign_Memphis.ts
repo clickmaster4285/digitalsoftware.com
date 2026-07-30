@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | Baptist: cited | HIPAA/TIPA: clean | New patients: +3x 
 
 Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
 Germantown, Collierville, Bartlett, Midtown, and all of Greater Memphis`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-memphis/","/seo-services-memphis/","/web-design-nashville/"],
+  internalLinks: ["/locations/digital-marketing-agency-memphis/","/search-engine-optimization/locations/seo-services-memphis/","/web-design-development/web-design/locations/web-design-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

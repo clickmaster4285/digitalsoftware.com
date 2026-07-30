@@ -108,7 +108,7 @@ Results (4 months): F1 GP week: 4.2x | Ramadan: 4.0x | National Day: 3.8x | Reve
 
 Phone +971 2 946 CLICK | abudhabi@clickmastersdigitalmarketing.com
 ADGM Al Maryah Island, Khalidiyah, Yas Island, and all of Abu Dhabi Emirate`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-abu-dhabi/","/seo-services-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-abu-dhabi/","/search-engine-optimization/locations/seo-services-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -242,7 +242,7 @@ Results (4 months): Peaky Blinders: 4.2x | NEC events: 3.6x | Pride: 3.4x | Reve
 
 Phone +44 121 946 CLICK | birmingham@clickmastersdigitalmarketing.com
 Centenary Square, Brindleyplace, Digbeth, and all of Greater Birmingham`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-london/","/digital-marketing-agency-birmingham/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -336,7 +336,7 @@ Results (5 months): State of Origin: 4.2x | Riverfire: 3.8x | Revenue: +AUD\$120
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does content marketing cost in Brisbane?","acceptedAnswer":{"@type":"Answer","text":"Brisbane content marketing: AUD\$1,100/month (Foundation) to AUD\$11,000+/month (Full Programme). Brisbane 2032 authority. APA Group/BHP energy. RBWH YMYL. State of Origin/Riverfire seasonal. Privacy Act-native. Brisbane CPCs 20-25% below Sydney. 90-day guarantee."}},{"@type":"Question","name":"What is AEP/APPGA/QRC editorial for Brisbane energy content marketing?","acceptedAnswer":{"@type":"Answer","text":"Australian Energy Producers (AEP), Australian Pipelines and Gas Association (APPGA), and Queensland Resources Council (QRC) editorial community engagement for APA Group/BHP/APLNG Queensland energy authority content earns above-average credibility with Queensland's most commercially significant resources and energy professional community."}},{"@type":"Question","name":"Does Clickmasters serve Gold Coast, Sunshine Coast, and Greater Brisbane?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Brisbane and South East Queensland."}},{"@type":"Question","name":"What is Brisbane 2032 content authority for Brisbane businesses?","acceptedAnswer":{"@type":"Answer","text":"Brisbane 2032 QMEC/Venues Queensland vocabulary content demonstrating Olympic infrastructure technology specifics, smart city event technology, and Queensland Major Events Company procurement standards — earning organic discovery from AUD\$7+ billion in Brisbane 2032 procurement at Brisbane CPCs 20-25% below Sydney."}},{"@type":"Question","name":"What is the Riverfire seasonal content strategy for Brisbane brands?","acceptedAnswer":{"@type":"Answer","text":"Riverfire (September) content strategy: Week 1 build-up (South Bank Parklands positioning, Story Bridge identity, river venue vocabulary), Event weekend content (fireworks community vocabulary, Brisbane River identity), Post-Riverfire (leading into Brisbane Festival September-October). Brands whose content calendar aligns with Riverfire's September timing earn Brisbane's most concentrated annual event community engagement."}},{"@type":"Question","name":"How does GEO/AEO affect Brisbane content marketing?","acceptedAnswer":{"@type":"Answer","text":"Brisbane 2032 Olympics procurement community and APA Group energy technology community use AI search. First-mover GEO/AEO for Brisbane 2032 QMEC and APA Group gas infrastructure vocabulary earns ChatGPT/Perplexity citation in Queensland's fastest-growing major city content market."}}]}`,
   cta: ``,
   ctaBody: `Free audit — 48 hours. +61 7 9946 CLICK | brisbane@clickmastersdigitalmarketing.com | South Bank, Fortitude Valley, West End, and all of Greater Brisbane`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-brisbane/","/seo-services-brisbane/","/content-marketing-sydney/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-brisbane/","/search-engine-optimization/locations/seo-services-brisbane/","/content-marketing/locations/content-marketing-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -470,7 +470,7 @@ Results (4 months): Balloon Fiesta: 4.2x | Glastonbury: 3.8x | Pride: 3.4x | Rev
 
 Phone +44 117 946 CLICK | bristol@clickmastersdigitalmarketing.com
 Harbourside, Clifton, Temple Quarter, and all of Greater Bristol`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-bristol/","/seo-services-birmingham/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-bristol/","/search-engine-optimization/locations/seo-services-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -604,7 +604,7 @@ Results (4 months): Stampede: 4.2x | Flames playoff: 3.8x | Banff: 3.4x | Revenu
 
 Phone +1 403 946 CLICK | calgary@clickmastersdigitalmarketing.com
 Downtown, Beltline, Eau Claire, and all of Greater Calgary`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-calgary/","/seo-services-montreal/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-calgary/","/search-engine-optimization/locations/seo-services-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -726,7 +726,7 @@ Results (10 months): Page 1 for 9 Dubai logistics queries | Emirates: discovery 
 
 Phone +971 4 946 CLICK | dubai@clickmastersdigitalmarketing.com
 DIFC, Business Bay, JLT, and all of Dubai`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-dubai/","/seo-services-dubai/","/content-marketing-london/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-dubai/","/search-engine-optimization/locations/seo-services-dubai/","/content-marketing/locations/content-marketing-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -858,7 +858,7 @@ Results (4 months): Fringe season: 4.2x above average | Hogmanay: 3.8x | Six Nat
 
 Phone +44 131 946 CLICK | edinburgh@clickmastersdigitalmarketing.com
 George Street, Leith, Old Town, and all of Greater Edinburgh`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-edinburgh/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-edinburgh/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -990,7 +990,7 @@ Results (4 months): Old Firm: 4.0x | Celtic Connections: 3.8x | Revenue: +£75K`
 
 Phone +44 141 946 CLICK | glasgow@clickmastersdigitalmarketing.com
 George Square, IFSD, Merchant City, and all of Greater Glasgow`,
-  internalLinks: ["/seo-services-edinburgh/","/seo-services-manchester/","/digital-marketing-agency-glasgow/","/seo-services-bristol/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-edinburgh/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-glasgow/","/search-engine-optimization/locations/seo-services-bristol/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -1120,7 +1120,7 @@ Results (4 months): Ramazan: 4.2x above average | PSL Kings: 3.8x | Revenue: +PK
 
 Phone +92 21 3946 CLICK | karachi@clickmastersdigitalmarketing.com
 Clifton, DHA, PECHS, and all of Greater Karachi`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-karachi/","/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-karachi/","/search-engine-optimization/locations/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -1250,7 +1250,7 @@ Results (4 months): PSL Qalandars: 4.2x above average | Ramazan: 4.0x | Revenue:
 
 Phone +92 42 3946 CLICK | lahore@clickmastersdigitalmarketing.com
 Gulberg, DHA Lahore, Model Town, and all of Greater Lahore`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-lahore/","/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-lahore/","/search-engine-optimization/locations/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -1382,7 +1382,7 @@ Results (4 months): Leeds Festival: 4.0x | Headingley Test: 3.6x | Revenue: +£6
 
 Phone +44 113 946 CLICK | leeds@clickmastersdigitalmarketing.com
 Wellington Place, Park Row, Headingley, and all of West Yorkshire`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-edinburgh/","/digital-marketing-agency-leeds/","/seo-services-glasgow/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-edinburgh/","/locations/digital-marketing-agency-leeds/","/search-engine-optimization/locations/seo-services-glasgow/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -1504,7 +1504,7 @@ Results (10 months): Page 1 for 9 London fintech startup queries | Shoreditch co
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 City of London, Canary Wharf, Shoreditch, and all of Greater London`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-london/","/seo-services-london/","/content-marketing-manchester/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-london/","/content-marketing/locations/content-marketing-manchester/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -1626,7 +1626,7 @@ Results (10 months): Page 1 for 9 Manchester health IT queries | MFT: cited | YM
 
 Phone +44 161 946 CLICK | manchester@clickmastersdigitalmarketing.com
 MediaCityUK, Spinningfields, Northern Quarter, and all of Greater Manchester`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-manchester/","/seo-services-manchester/","/content-marketing-london/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-manchester/","/search-engine-optimization/locations/seo-services-manchester/","/content-marketing/locations/content-marketing-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -1743,7 +1743,7 @@ Results (10 months): Page 1 for 9 Melbourne health IT queries | Peter MacCallum:
 
 Phone +61 3 9946 CLICK | melbourne@clickmastersdigitalmarketing.com
 Collins Street, Fitzroy, Southbank, and all of Greater Melbourne`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-melbourne/","/seo-services-melbourne/","/content-marketing-sydney/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-melbourne/","/search-engine-optimization/locations/seo-services-melbourne/","/content-marketing/locations/content-marketing-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -1877,7 +1877,7 @@ Results (4 months): Jazz Fest: 4.2x | Just for Laughs: 4.0x | Canadiens: 3.8x | 
 
 Phone +1 514 946 CLICK | montreal@clickmastersdigitalmarketing.com
 Quartier des Affaires, Plateau-Mont-Royal, Mile End, and all of Grand Montréal`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-montreal/","/seo-services-calgary/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-montreal/","/search-engine-optimization/locations/seo-services-calgary/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -2007,7 +2007,7 @@ Results (5 months): Spam Act/Privacy Act: clean | AFL Derby: 4.2x above average 
 
 Phone +61 8 9946 CLICK | perth@clickmastersdigitalmarketing.com
 West Perth, Fremantle, Cottesloe, and all of Greater Perth`,
-  internalLinks: ["/seo-services-sydney/","/seo-services-brisbane/","/digital-marketing-agency-perth/","/seo-services-karachi/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-perth/","/search-engine-optimization/locations/seo-services-karachi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -2141,7 +2141,7 @@ Results (4 months): SIBF season: 4.0x | Ramadan: 4.2x | National Day: 3.8x | Rev
 
 Phone +971 6 946 CLICK | sharjah@clickmastersdigitalmarketing.com
 Al Khan, SAIF Zone, University City, and all of Sharjah Emirate`,
-  internalLinks: ["/seo-services-dubai/","/seo-services-abu-dhabi/","/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/search-engine-optimization/locations/seo-services-abu-dhabi/","/locations/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -2263,7 +2263,7 @@ Results (10 months): Page 1 for 9 Sydney tech queries | Canva: discovery | Vivid
 
 Phone +61 2 9946 CLICK | sydney@clickmastersdigitalmarketing.com
 Barangaroo, Surry Hills, Martin Place, and all of Greater Sydney`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-sydney/","/seo-services-sydney/","/content-marketing-melbourne/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-sydney/","/search-engine-optimization/locations/seo-services-sydney/","/content-marketing/locations/content-marketing-melbourne/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -2385,7 +2385,7 @@ Results (10 months): Page 1 for 9 queries | OMERS: discovery | OTPP: evaluation 
 
 Phone +1-416-946-CLICK | toronto@clickmastersdigitalmarketing.com
 Bay Street, Yorkville, Distillery District, and all of Greater Toronto`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-toronto/","/seo-services-toronto/","/content-marketing-london/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-toronto/","/search-engine-optimization/locations/seo-services-toronto/","/content-marketing/locations/content-marketing-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -2507,7 +2507,7 @@ Results (10 months): Page 1 for 9 Vancouver health IT queries | VGH: discovery |
 
 Phone +1-604-946-CLICK | vancouver@clickmastersdigitalmarketing.com
 Gastown, Yaletown, Granville Island, and all of Metro Vancouver`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-vancouver/","/seo-services-vancouver/","/content-marketing-toronto/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-vancouver/","/search-engine-optimization/locations/seo-services-vancouver/","/content-marketing/locations/content-marketing-toronto/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -2643,7 +2643,7 @@ Results (4 months): F1 GP week: 4.2x | Ramadan: 4.0x | National Day: 3.8x | Reve
 
 Phone +971 2 946 CLICK | abudhabi@clickmastersdigitalmarketing.com
 ADGM Al Maryah Island, Khalidiyah, Yas Island, and all of Abu Dhabi Emirate`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-abu-dhabi/","/seo-services-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-abu-dhabi/","/search-engine-optimization/locations/seo-services-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -2777,7 +2777,7 @@ Results (4 months): Peaky Blinders: 4.2x | NEC events: 3.6x | Pride: 3.4x | Reve
 
 Phone +44 121 946 CLICK | birmingham@clickmastersdigitalmarketing.com
 Centenary Square, Brindleyplace, Digbeth, and all of Greater Birmingham`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-london/","/digital-marketing-agency-birmingham/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -2918,7 +2918,7 @@ Results (5 months): State of Origin: 4.0x above average | Riverfire: 3.8x | Reve
 
 Phone +61 7 9946 CLICK | brisbane@clickmastersdigitalmarketing.com
 South Bank, Fortitude Valley, New Farm, and all of Greater Brisbane`,
-  internalLinks: ["/digital-marketing-agency-sydney/","/seo-services-brisbane/","/digital-marketing-agency-melbourne/","/digital-marketing-agency-perth/"],
+  internalLinks: ["/locations/digital-marketing-agency-sydney/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-melbourne/","/locations/digital-marketing-agency-perth/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -3052,7 +3052,7 @@ Results (4 months): Balloon Fiesta: 4.2x | Glastonbury: 3.8x | Pride: 3.4x | Rev
 
 Phone +44 117 946 CLICK | bristol@clickmastersdigitalmarketing.com
 Harbourside, Clifton, Temple Quarter, and all of Greater Bristol`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-bristol/","/seo-services-birmingham/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-bristol/","/search-engine-optimization/locations/seo-services-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -3186,7 +3186,7 @@ Results (4 months): Stampede: 4.2x | Flames playoff: 3.8x | Banff: 3.4x | Revenu
 
 Phone +1 403 946 CLICK | calgary@clickmastersdigitalmarketing.com
 Downtown, Beltline, Eau Claire, and all of Greater Calgary`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-calgary/","/seo-services-montreal/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-calgary/","/search-engine-optimization/locations/seo-services-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -3327,7 +3327,7 @@ Results (11 months): Page 1 for 10 Dubai healthcare queries (EN + AR) | DHA: cit
 
 Phone +971 4 946 CLICK | dubai@clickmastersdigitalmarketing.com
 DIFC, Business Bay, JLT, Downtown Dubai, and all of Dubai & UAE`,
-  internalLinks: ["/digital-marketing-agency-london/","/seo-services-dubai/","/digital-marketing-agency-abu-dhabi/","/digital-marketing-agency-riyadh/"],
+  internalLinks: ["/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-abu-dhabi/","/digital-marketing-agency-riyadh/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -3459,7 +3459,7 @@ Results (4 months): Fringe season: 4.2x above average | Hogmanay: 3.8x | Six Nat
 
 Phone +44 131 946 CLICK | edinburgh@clickmastersdigitalmarketing.com
 George Street, Leith, Old Town, and all of Greater Edinburgh`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-edinburgh/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-edinburgh/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -3591,7 +3591,7 @@ Results (4 months): Old Firm: 4.0x | Celtic Connections: 3.8x | Revenue: +£75K`
 
 Phone +44 141 946 CLICK | glasgow@clickmastersdigitalmarketing.com
 George Square, IFSD, Merchant City, and all of Greater Glasgow`,
-  internalLinks: ["/seo-services-edinburgh/","/seo-services-manchester/","/digital-marketing-agency-glasgow/","/seo-services-bristol/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-edinburgh/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-glasgow/","/search-engine-optimization/locations/seo-services-bristol/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -3721,7 +3721,7 @@ Results (4 months): Ramazan: 4.2x above average | PSL Kings: 3.8x | Revenue: +PK
 
 Phone +92 21 3946 CLICK | karachi@clickmastersdigitalmarketing.com
 Clifton, DHA, PECHS, and all of Greater Karachi`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-karachi/","/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-karachi/","/search-engine-optimization/locations/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -3851,7 +3851,7 @@ Results (4 months): PSL Qalandars: 4.2x above average | Ramazan: 4.0x | Revenue:
 
 Phone +92 42 3946 CLICK | lahore@clickmastersdigitalmarketing.com
 Gulberg, DHA Lahore, Model Town, and all of Greater Lahore`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-lahore/","/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-lahore/","/search-engine-optimization/locations/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -3983,7 +3983,7 @@ Results (4 months): Leeds Festival: 4.0x | Headingley Test: 3.6x | Revenue: +£6
 
 Phone +44 113 946 CLICK | leeds@clickmastersdigitalmarketing.com
 Wellington Place, Park Row, Headingley, and all of West Yorkshire`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-edinburgh/","/digital-marketing-agency-leeds/","/seo-services-glasgow/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-edinburgh/","/locations/digital-marketing-agency-leeds/","/search-engine-optimization/locations/seo-services-glasgow/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -4122,7 +4122,7 @@ Results (11 months): Page 1 for 9 London SaaS queries | Tech City community: dis
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 City of London, Canary Wharf, Shoreditch, Mayfair, and all of Greater London`,
-  internalLinks: ["/seo-services-london/","/digital-marketing-agency-uk/","/digital-marketing-agency-manchester/","/digital-marketing-agency-dubai/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/digital-marketing-agency-uk/","/locations/digital-marketing-agency-manchester/","/locations/digital-marketing-agency-dubai/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -4263,7 +4263,7 @@ Results (11 months): Page 1 for 9 Manchester health IT queries | MFT: evaluation
 
 Phone +44 161 946 CLICK | manchester@clickmastersdigitalmarketing.com
 MediaCityUK, Spinningfields, Northern Quarter, and all of Greater Manchester`,
-  internalLinks: ["/digital-marketing-agency-london/","/seo-services-manchester/","/digital-marketing-agency-leeds/","/digital-marketing-agency-birmingham-uk/"],
+  internalLinks: ["/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-leeds/","/digital-marketing-agency-birmingham-uk/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -4395,7 +4395,7 @@ Results (5 months): AFL: 4.0x above average | Melbourne Cup Day: 3.8x | DTC: +AU
 
 Phone +61 3 9946 CLICK | melbourne@clickmastersdigitalmarketing.com
 Collins Street, Southbank, Fitzroy, and all of Greater Melbourne`,
-  internalLinks: ["/seo-services-sydney/","/digital-marketing-agency-melbourne/","/seo-services-brisbane/","/seo-services-perth/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/locations/digital-marketing-agency-melbourne/","/search-engine-optimization/locations/seo-services-brisbane/","/search-engine-optimization/locations/seo-services-perth/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -4529,7 +4529,7 @@ Results (4 months): Jazz Fest: 4.2x | Just for Laughs: 4.0x | Canadiens: 3.8x | 
 
 Phone +1 514 946 CLICK | montreal@clickmastersdigitalmarketing.com
 Quartier des Affaires, Plateau-Mont-Royal, Mile End, and all of Grand Montréal`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-montreal/","/seo-services-calgary/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-montreal/","/search-engine-optimization/locations/seo-services-calgary/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -4659,7 +4659,7 @@ Results (5 months): Spam Act/Privacy Act: clean | AFL Derby: 4.2x above average 
 
 Phone +61 8 9946 CLICK | perth@clickmastersdigitalmarketing.com
 West Perth, Fremantle, Cottesloe, and all of Greater Perth`,
-  internalLinks: ["/seo-services-sydney/","/seo-services-brisbane/","/digital-marketing-agency-perth/","/seo-services-karachi/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-perth/","/search-engine-optimization/locations/seo-services-karachi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -4793,7 +4793,7 @@ Results (4 months): SIBF season: 4.0x | Ramadan: 4.2x | National Day: 3.8x | Rev
 
 Phone +971 6 946 CLICK | sharjah@clickmastersdigitalmarketing.com
 Al Khan, SAIF Zone, University City, and all of Sharjah Emirate`,
-  internalLinks: ["/seo-services-dubai/","/seo-services-abu-dhabi/","/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/search-engine-optimization/locations/seo-services-abu-dhabi/","/locations/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -4934,7 +4934,7 @@ Results (11 months): Page 1 for 9 Sydney tech queries | Canva: evaluation | Priv
 
 Phone +61 2 9946 CLICK | sydney@clickmastersdigitalmarketing.com
 Barangaroo, Surry Hills, Martin Place, and all of Greater Sydney`,
-  internalLinks: ["/digital-marketing-agency-london/","/seo-services-sydney/","/digital-marketing-agency-melbourne/","/digital-marketing-agency-brisbane/"],
+  internalLinks: ["/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-sydney/","/locations/digital-marketing-agency-melbourne/","/locations/digital-marketing-agency-brisbane/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -5075,7 +5075,7 @@ Results (11 months): Page 1 for 9 queries | OMERS: discovery | OTPP: evaluation 
 
 Phone +1-416-946-CLICK | toronto@clickmastersdigitalmarketing.com
 Bay Street, Financial District, Yorkville, and all of Greater Toronto`,
-  internalLinks: ["/digital-marketing-agency-london/","/seo-services-toronto/","/digital-marketing-agency-vancouver/","/digital-marketing-agency-montreal/"],
+  internalLinks: ["/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-toronto/","/locations/digital-marketing-agency-vancouver/","/locations/digital-marketing-agency-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -5216,7 +5216,7 @@ Results (11 months): Page 1 for 9 Vancouver health IT queries | VGH: evaluation 
 
 Phone +1-604-946-CLICK | vancouver@clickmastersdigitalmarketing.com
 Gastown, Yaletown, Granville Island, and all of Metro Vancouver`,
-  internalLinks: ["/digital-marketing-agency-toronto/","/seo-services-vancouver/","/digital-marketing-agency-calgary/","/digital-marketing-agency-montreal/"],
+  internalLinks: ["/locations/digital-marketing-agency-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-calgary/","/locations/digital-marketing-agency-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -5352,7 +5352,7 @@ Results (4 months): F1 GP week: 4.2x | Ramadan: 4.0x | National Day: 3.8x | Reve
 
 Phone +971 2 946 CLICK | abudhabi@clickmastersdigitalmarketing.com
 ADGM Al Maryah Island, Khalidiyah, Yas Island, and all of Abu Dhabi Emirate`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-abu-dhabi/","/seo-services-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-abu-dhabi/","/search-engine-optimization/locations/seo-services-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -5486,7 +5486,7 @@ Results (4 months): Peaky Blinders: 4.2x | NEC events: 3.6x | Pride: 3.4x | Reve
 
 Phone +44 121 946 CLICK | birmingham@clickmastersdigitalmarketing.com
 Centenary Square, Brindleyplace, Digbeth, and all of Greater Birmingham`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-london/","/digital-marketing-agency-birmingham/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -5578,7 +5578,7 @@ Results: Spam Act/Privacy Act: compliant | State of Origin: 4.2x | Riverfire: 3.
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Brisbane?","acceptedAnswer":{"@type":"Answer","text":"Brisbane email marketing: AUD\$1,100/month (Foundation) to AUD\$11,000+/month (Enterprise). Spam Act/Privacy Act-compliant Brisbane 2032 pipeline. APA Group/BHP energy nurture. State of Origin/Riverfire/Brisbane Festival seasonal. Brisbane CPCs 20-25% below Sydney. 90-day guarantee."}},{"@type":"Question","name":"What is the Brisbane 2032 email pipeline procurement strategy?","acceptedAnswer":{"@type":"Answer","text":"Brisbane 2032 QMEC/Venues Queensland procurement cycles run 90-270 days for technology and infrastructure tender evaluation. Spam Act-compliant express consent email pipeline with Brisbane 2032 vocabulary maintains vendor evaluation relationships throughout Australia's most commercially significant public infrastructure procurement programme (2025-2032, AUD\$7+ billion)."}},{"@type":"Question","name":"Does Clickmasters serve Gold Coast, Sunshine Coast, and Greater Brisbane?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Brisbane and South East Queensland."}},{"@type":"Question","name":"What is the State of Origin Queensland seasonal email strategy?","acceptedAnswer":{"@type":"Answer","text":"State of Origin (June-July, 3 matches): Pre-match build-up email (Queensland Maroons preview, South Bank viewing venue vocabulary), Match day email (QLD Maroons community engagement), Post-match follow-up (results community vocabulary). Queensland brands whose email calendar tracks State of Origin's June-July series earn above-average open rates from Queensland's most passionately engaged sporting community."}},{"@type":"Question","name":"How does Spam Act 2003 apply to Brisbane email marketing?","acceptedAnswer":{"@type":"Answer","text":"Spam Act 2003 (ACMA, AUD\$313K/day per organisation) requires express or inferred consent for all commercial electronic messages — the same federal standard as Sydney and Melbourne. Brisbane Spam Act compliance requires documented consent records for all email list members, including Brisbane 2032 procurement pipeline contacts."}},{"@type":"Question","name":"What is APA Group energy nurture email for Brisbane energy technology businesses?","acceptedAnswer":{"@type":"Answer","text":"APA Group (Brisbane HQ, Australia's largest gas infrastructure, 15,000+ km pipeline) procurement cycles run 90-180 days for technology vendor evaluation. Spam Act/Privacy Act-compliant email with APA Group gas infrastructure vocabulary, APLNG/GLNG/QCLNG LNG export specifics, and Queensland energy technology intelligence maintains APA Group vendor evaluation relationships."}}]}`,
   cta: ``,
   ctaBody: `Free audit — 48 hours. +61 7 9946 CLICK | brisbane@clickmastersdigitalmarketing.com | South Bank, Fortitude Valley, West End, and all of Greater Brisbane`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-brisbane/","/seo-services-brisbane/","/email-marketing-sydney/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-brisbane/","/search-engine-optimization/locations/seo-services-brisbane/","/content-marketing/email-marketing/locations/email-marketing-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -5712,7 +5712,7 @@ Results (4 months): Balloon Fiesta: 4.2x | Glastonbury: 3.8x | Pride: 3.4x | Rev
 
 Phone +44 117 946 CLICK | bristol@clickmastersdigitalmarketing.com
 Harbourside, Clifton, Temple Quarter, and all of Greater Bristol`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-bristol/","/seo-services-birmingham/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-bristol/","/search-engine-optimization/locations/seo-services-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -5846,7 +5846,7 @@ Results (4 months): Stampede: 4.2x | Flames playoff: 3.8x | Banff: 3.4x | Revenu
 
 Phone +1 403 946 CLICK | calgary@clickmastersdigitalmarketing.com
 Downtown, Beltline, Eau Claire, and all of Greater Calgary`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-calgary/","/seo-services-montreal/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-calgary/","/search-engine-optimization/locations/seo-services-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -5970,7 +5970,7 @@ Results: Ramadan season (Arabic): 4.2x above average | Eid Al Fitr: 4.0x (luxury
 
 Phone +971 4 946 CLICK | dubai@clickmastersdigitalmarketing.com
 DIFC, Business Bay, Downtown Dubai, and all of Dubai`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-dubai/","/seo-services-dubai/","/email-marketing-london/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-dubai/","/search-engine-optimization/locations/seo-services-dubai/","/content-marketing/email-marketing/locations/email-marketing-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -6102,7 +6102,7 @@ Results (4 months): Fringe season: 4.2x above average | Hogmanay: 3.8x | Six Nat
 
 Phone +44 131 946 CLICK | edinburgh@clickmastersdigitalmarketing.com
 George Street, Leith, Old Town, and all of Greater Edinburgh`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-edinburgh/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-edinburgh/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -6234,7 +6234,7 @@ Results (4 months): Old Firm: 4.0x | Celtic Connections: 3.8x | Revenue: +£75K`
 
 Phone +44 141 946 CLICK | glasgow@clickmastersdigitalmarketing.com
 George Square, IFSD, Merchant City, and all of Greater Glasgow`,
-  internalLinks: ["/seo-services-edinburgh/","/seo-services-manchester/","/digital-marketing-agency-glasgow/","/seo-services-bristol/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-edinburgh/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-glasgow/","/search-engine-optimization/locations/seo-services-bristol/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -6364,7 +6364,7 @@ Results (4 months): Ramazan: 4.2x above average | PSL Kings: 3.8x | Revenue: +PK
 
 Phone +92 21 3946 CLICK | karachi@clickmastersdigitalmarketing.com
 Clifton, DHA, PECHS, and all of Greater Karachi`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-karachi/","/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-karachi/","/search-engine-optimization/locations/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -6494,7 +6494,7 @@ Results (4 months): PSL Qalandars: 4.2x above average | Ramazan: 4.0x | Revenue:
 
 Phone +92 42 3946 CLICK | lahore@clickmastersdigitalmarketing.com
 Gulberg, DHA Lahore, Model Town, and all of Greater Lahore`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-lahore/","/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-lahore/","/search-engine-optimization/locations/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -6626,7 +6626,7 @@ Results (4 months): Leeds Festival: 4.0x | Headingley Test: 3.6x | Revenue: +£6
 
 Phone +44 113 946 CLICK | leeds@clickmastersdigitalmarketing.com
 Wellington Place, Park Row, Headingley, and all of West Yorkshire`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-edinburgh/","/digital-marketing-agency-leeds/","/seo-services-glasgow/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-edinburgh/","/locations/digital-marketing-agency-leeds/","/search-engine-optimization/locations/seo-services-glasgow/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -6748,7 +6748,7 @@ Results: Wimbledon season: 4.0x above average | Carnival: 3.8x | Fashion Week: 3
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 City of London, Canary Wharf, Borough Market, and all of Greater London`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-london/","/seo-services-london/","/email-marketing-manchester/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-london/","/content-marketing/email-marketing/locations/email-marketing-manchester/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -6872,7 +6872,7 @@ Results: Christmas Markets: 4.0x above average | Derby: 3.8x | Pride: 3.2x | DTC
 
 Phone +44 161 946 CLICK | manchester@clickmastersdigitalmarketing.com
 MediaCityUK, Spinningfields, Northern Quarter, and all of Greater Manchester`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-manchester/","/seo-services-manchester/","/email-marketing-london/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-manchester/","/search-engine-optimization/locations/seo-services-manchester/","/content-marketing/email-marketing/locations/email-marketing-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -6989,7 +6989,7 @@ Results: Spam Act/Privacy Act: compliant | AFL season: 4.2x | Cup: 3.8x | Comedy
 
 Phone +61 3 9946 CLICK | melbourne@clickmastersdigitalmarketing.com
 Collins Street, Fitzroy, Collingwood, and all of Greater Melbourne`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-melbourne/","/seo-services-melbourne/","/email-marketing-sydney/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-melbourne/","/search-engine-optimization/locations/seo-services-melbourne/","/content-marketing/email-marketing/locations/email-marketing-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -7123,7 +7123,7 @@ Results (4 months): Jazz Fest: 4.2x | Just for Laughs: 4.0x | Canadiens: 3.8x | 
 
 Phone +1 514 946 CLICK | montreal@clickmastersdigitalmarketing.com
 Quartier des Affaires, Plateau-Mont-Royal, Mile End, and all of Grand Montréal`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-montreal/","/seo-services-calgary/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-montreal/","/search-engine-optimization/locations/seo-services-calgary/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -7253,7 +7253,7 @@ Results (5 months): Spam Act/Privacy Act: clean | AFL Derby: 4.2x above average 
 
 Phone +61 8 9946 CLICK | perth@clickmastersdigitalmarketing.com
 West Perth, Fremantle, Cottesloe, and all of Greater Perth`,
-  internalLinks: ["/seo-services-sydney/","/seo-services-brisbane/","/digital-marketing-agency-perth/","/seo-services-karachi/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-perth/","/search-engine-optimization/locations/seo-services-karachi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -7387,7 +7387,7 @@ Results (4 months): SIBF season: 4.0x | Ramadan: 4.2x | National Day: 3.8x | Rev
 
 Phone +971 6 946 CLICK | sharjah@clickmastersdigitalmarketing.com
 Al Khan, SAIF Zone, University City, and all of Sharjah Emirate`,
-  internalLinks: ["/seo-services-dubai/","/seo-services-abu-dhabi/","/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/search-engine-optimization/locations/seo-services-abu-dhabi/","/locations/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -7509,7 +7509,7 @@ Results: Spam Act/Privacy Act: compliant | Vivid Sydney: 4.0x above average | NY
 
 Phone +61 2 9946 CLICK | sydney@clickmastersdigitalmarketing.com
 Barangaroo, Surry Hills, Martin Place, and all of Greater Sydney`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-sydney/","/seo-services-sydney/","/email-marketing-melbourne/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-sydney/","/search-engine-optimization/locations/seo-services-sydney/","/content-marketing/email-marketing/locations/email-marketing-melbourne/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -7631,7 +7631,7 @@ Results: CASL: compliant | TIFF season: 4.0x above average | Maple Leafs season:
 
 Phone +1-416-946-CLICK | toronto@clickmastersdigitalmarketing.com
 Bay Street, Distillery District, Financial District, and all of Greater Toronto`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-toronto/","/seo-services-toronto/","/email-marketing-london/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-toronto/","/search-engine-optimization/locations/seo-services-toronto/","/content-marketing/email-marketing/locations/email-marketing-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -7755,7 +7755,7 @@ Results: CASL/BC PIPA: compliant | Whistler season: 4.0x above average | Canucks
 
 Phone +1-604-946-CLICK | vancouver@clickmastersdigitalmarketing.com
 Gastown, Kitsilano, Granville Island, and all of Metro Vancouver`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-vancouver/","/seo-services-vancouver/","/email-marketing-toronto/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-vancouver/","/search-engine-optimization/locations/seo-services-vancouver/","/content-marketing/email-marketing/locations/email-marketing-toronto/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -7891,7 +7891,7 @@ Results (4 months): F1 GP week: 4.2x | Ramadan: 4.0x | National Day: 3.8x | Reve
 
 Phone +971 2 946 CLICK | abudhabi@clickmastersdigitalmarketing.com
 ADGM Al Maryah Island, Khalidiyah, Yas Island, and all of Abu Dhabi Emirate`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-abu-dhabi/","/seo-services-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-abu-dhabi/","/search-engine-optimization/locations/seo-services-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -8025,7 +8025,7 @@ Results (4 months): Peaky Blinders: 4.2x | NEC events: 3.6x | Pride: 3.4x | Reve
 
 Phone +44 121 946 CLICK | birmingham@clickmastersdigitalmarketing.com
 Centenary Square, Brindleyplace, Digbeth, and all of Greater Birmingham`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-london/","/digital-marketing-agency-birmingham/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -8137,7 +8137,7 @@ Results: AHPRA/TGA/Spam Act/Privacy Act/QFT: clean | Brisbane healthcare CPL: AU
 
 Phone +61 7 9946 CLICK | brisbane@clickmastersdigitalmarketing.com
 South Bank, Brisbane CBD, Fortitude Valley, and all of Greater Brisbane`,
-  internalLinks: ["/digital-marketing-agency-brisbane/","/seo-services-brisbane/","/google-ads-management-sydney/","/google-ads-management-perth/"],
+  internalLinks: ["/locations/digital-marketing-agency-brisbane/","/search-engine-optimization/locations/seo-services-brisbane/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-sydney/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-perth/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -8271,7 +8271,7 @@ Results (4 months): Balloon Fiesta: 4.2x | Glastonbury: 3.8x | Pride: 3.4x | Rev
 
 Phone +44 117 946 CLICK | bristol@clickmastersdigitalmarketing.com
 Harbourside, Clifton, Temple Quarter, and all of Greater Bristol`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-bristol/","/seo-services-birmingham/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-bristol/","/search-engine-optimization/locations/seo-services-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -8405,7 +8405,7 @@ Results (4 months): Stampede: 4.2x | Flames playoff: 3.8x | Banff: 3.4x | Revenu
 
 Phone +1 403 946 CLICK | calgary@clickmastersdigitalmarketing.com
 Downtown, Beltline, Eau Claire, and all of Greater Calgary`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-calgary/","/seo-services-montreal/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-calgary/","/search-engine-optimization/locations/seo-services-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -8531,7 +8531,7 @@ Results: MOHAP/UAE PDPL: clean | DHA-licensed CPL: AED 550 vs AED 1,800 generic 
 
 Phone +971 4 946 CLICK | dubai@clickmastersdigitalmarketing.com
 DIFC, Business Bay, JLT, and all of Dubai`,
-  internalLinks: ["/digital-marketing-agency-dubai/","/seo-services-dubai/","/google-ads-management-london/","/google-ads-management-abu-dhabi/"],
+  internalLinks: ["/locations/digital-marketing-agency-dubai/","/search-engine-optimization/locations/seo-services-dubai/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-london/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-abu-dhabi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -8663,7 +8663,7 @@ Results (4 months): Fringe season: 4.2x above average | Hogmanay: 3.8x | Six Nat
 
 Phone +44 131 946 CLICK | edinburgh@clickmastersdigitalmarketing.com
 George Street, Leith, Old Town, and all of Greater Edinburgh`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-edinburgh/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-edinburgh/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -8795,7 +8795,7 @@ Results (4 months): Old Firm: 4.0x | Celtic Connections: 3.8x | Revenue: +£75K`
 
 Phone +44 141 946 CLICK | glasgow@clickmastersdigitalmarketing.com
 George Square, IFSD, Merchant City, and all of Greater Glasgow`,
-  internalLinks: ["/seo-services-edinburgh/","/seo-services-manchester/","/digital-marketing-agency-glasgow/","/seo-services-bristol/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-edinburgh/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-glasgow/","/search-engine-optimization/locations/seo-services-bristol/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -8925,7 +8925,7 @@ Results (4 months): Ramazan: 4.2x above average | PSL Kings: 3.8x | Revenue: +PK
 
 Phone +92 21 3946 CLICK | karachi@clickmastersdigitalmarketing.com
 Clifton, DHA, PECHS, and all of Greater Karachi`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-karachi/","/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-karachi/","/search-engine-optimization/locations/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -9055,7 +9055,7 @@ Results (4 months): PSL Qalandars: 4.2x above average | Ramazan: 4.0x | Revenue:
 
 Phone +92 42 3946 CLICK | lahore@clickmastersdigitalmarketing.com
 Gulberg, DHA Lahore, Model Town, and all of Greater Lahore`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-lahore/","/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-lahore/","/search-engine-optimization/locations/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -9187,7 +9187,7 @@ Results (4 months): Leeds Festival: 4.0x | Headingley Test: 3.6x | Revenue: +£6
 
 Phone +44 113 946 CLICK | leeds@clickmastersdigitalmarketing.com
 Wellington Place, Park Row, Headingley, and all of West Yorkshire`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-edinburgh/","/digital-marketing-agency-leeds/","/seo-services-glasgow/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-edinburgh/","/locations/digital-marketing-agency-leeds/","/search-engine-optimization/locations/seo-services-glasgow/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -9313,7 +9313,7 @@ Results: London SaaS CPL: £180 vs £620 generic | Series B growth community eng
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 City of London, Canary Wharf, Shoreditch, Mayfair, and all of Greater London`,
-  internalLinks: ["/digital-marketing-agency-london/","/seo-services-london/","/google-ads-management-services/","/google-ads-management-manchester/"],
+  internalLinks: ["/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-london/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-manchester/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -9439,7 +9439,7 @@ Results: ASA/ICO/CQC: clean | MFT-community CPL: £80 vs £300 generic | New pat
 
 Phone +44 161 946 CLICK | manchester@clickmastersdigitalmarketing.com
 MediaCityUK, Spinningfields, and all of Greater Manchester`,
-  internalLinks: ["/digital-marketing-agency-manchester/","/seo-services-manchester/","/google-ads-management-london/","/google-ads-management-leeds/"],
+  internalLinks: ["/locations/digital-marketing-agency-manchester/","/search-engine-optimization/locations/seo-services-manchester/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-london/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -9571,7 +9571,7 @@ Results (5 months): AFL: 4.0x above average | Melbourne Cup Day: 3.8x | DTC: +AU
 
 Phone +61 3 9946 CLICK | melbourne@clickmastersdigitalmarketing.com
 Collins Street, Southbank, Fitzroy, and all of Greater Melbourne`,
-  internalLinks: ["/seo-services-sydney/","/digital-marketing-agency-melbourne/","/seo-services-brisbane/","/seo-services-perth/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/locations/digital-marketing-agency-melbourne/","/search-engine-optimization/locations/seo-services-brisbane/","/search-engine-optimization/locations/seo-services-perth/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -9705,7 +9705,7 @@ Results (4 months): Jazz Fest: 4.2x | Just for Laughs: 4.0x | Canadiens: 3.8x | 
 
 Phone +1 514 946 CLICK | montreal@clickmastersdigitalmarketing.com
 Quartier des Affaires, Plateau-Mont-Royal, Mile End, and all of Grand Montréal`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-montreal/","/seo-services-calgary/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-montreal/","/search-engine-optimization/locations/seo-services-calgary/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -9835,7 +9835,7 @@ Results (5 months): Spam Act/Privacy Act: clean | AFL Derby: 4.2x above average 
 
 Phone +61 8 9946 CLICK | perth@clickmastersdigitalmarketing.com
 West Perth, Fremantle, Cottesloe, and all of Greater Perth`,
-  internalLinks: ["/seo-services-sydney/","/seo-services-brisbane/","/digital-marketing-agency-perth/","/seo-services-karachi/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-perth/","/search-engine-optimization/locations/seo-services-karachi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -9969,7 +9969,7 @@ Results (4 months): SIBF season: 4.0x | Ramadan: 4.2x | National Day: 3.8x | Rev
 
 Phone +971 6 946 CLICK | sharjah@clickmastersdigitalmarketing.com
 Al Khan, SAIF Zone, University City, and all of Sharjah Emirate`,
-  internalLinks: ["/seo-services-dubai/","/seo-services-abu-dhabi/","/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/search-engine-optimization/locations/seo-services-abu-dhabi/","/locations/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -10095,7 +10095,7 @@ Results: Spam Act/Privacy Act/ACCC: clean | Sydney SaaS CPL: AUD\$780 vs AUD\$4,
 
 Phone +61 2 9946 CLICK | sydney@clickmastersdigitalmarketing.com
 Barangaroo, Martin Place, Surry Hills, and all of Greater Sydney`,
-  internalLinks: ["/digital-marketing-agency-sydney/","/seo-services-sydney/","/google-ads-management-london/","/google-ads-management-melbourne/"],
+  internalLinks: ["/locations/digital-marketing-agency-sydney/","/search-engine-optimization/locations/seo-services-sydney/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-london/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-melbourne/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -10221,7 +10221,7 @@ Results: RECO/PIPEDA/CASL: clean | Toronto real estate CPL: CAD\$240 vs CAD\$780
 
 Phone +1-416-946-CLICK | toronto@clickmastersdigitalmarketing.com
 Bay Street, Financial District, Midtown, and all of Greater Toronto`,
-  internalLinks: ["/digital-marketing-agency-toronto/","/seo-services-toronto/","/google-ads-management-london/","/google-ads-management-vancouver/"],
+  internalLinks: ["/locations/digital-marketing-agency-toronto/","/search-engine-optimization/locations/seo-services-toronto/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-london/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-vancouver/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -10347,7 +10347,7 @@ Results: CPSBC/HPFB/BC PIPA/CASL: clean | Vancouver healthcare CPL: CAD\$250 vs 
 
 Phone +1-604-946-CLICK | vancouver@clickmastersdigitalmarketing.com
 Gastown, Yaletown, Port Metro, and all of Metro Vancouver`,
-  internalLinks: ["/digital-marketing-agency-vancouver/","/seo-services-vancouver/","/google-ads-management-toronto/","/google-ads-management-calgary/"],
+  internalLinks: ["/locations/digital-marketing-agency-vancouver/","/search-engine-optimization/locations/seo-services-vancouver/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-toronto/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-calgary/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -10483,7 +10483,7 @@ Results (4 months): F1 GP week: 4.2x | Ramadan: 4.0x | National Day: 3.8x | Reve
 
 Phone +971 2 946 CLICK | abudhabi@clickmastersdigitalmarketing.com
 ADGM Al Maryah Island, Khalidiyah, Yas Island, and all of Abu Dhabi Emirate`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-abu-dhabi/","/seo-services-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-abu-dhabi/","/search-engine-optimization/locations/seo-services-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -10617,7 +10617,7 @@ Results (4 months): Peaky Blinders: 4.2x | NEC events: 3.6x | Pride: 3.4x | Reve
 
 Phone +44 121 946 CLICK | birmingham@clickmastersdigitalmarketing.com
 Centenary Square, Brindleyplace, Digbeth, and all of Greater Birmingham`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-london/","/digital-marketing-agency-birmingham/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -10711,7 +10711,7 @@ Results (4 months): Top 3 Local Pack Brisbane oncology | Reviews: 8 to 72 | New 
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Brisbane?","acceptedAnswer":{"@type":"Answer","text":"Brisbane Local SEO: AUD\$1,000/month (single) to AUD\$10,000+/month (enterprise). Brisbane 2032 proximity GBP. RBWH AHPRA YMYL. Ascot/Hamilton/New Farm professional quality. Privacy Act/Spam Act reviews. Brisbane CPCs 20-25% below Sydney. 90-day guarantee."}},{"@type":"Question","name":"What is Brisbane 2032 proximity GBP for Brisbane technology businesses?","acceptedAnswer":{"@type":"Answer","text":"Brisbane 2032 QMEC/Venues Queensland vocabulary, Queensland Government ICT Panel proximity signals, and Olympic Build institutional photography — earning above-average B2B near-me consideration from Brisbane 2032 procurement network at AUD\$7+ billion infrastructure investment scale."}},{"@type":"Question","name":"Does Clickmasters serve Gold Coast, Sunshine Coast, and Greater Brisbane?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Brisbane and South East Queensland."}},{"@type":"Question","name":"How many reviews for Brisbane Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Brisbane benchmarks: Ascot/Hamilton/New Farm professional services: 4.5+ stars, 45-85+ reviews. RBWH/PA-adjacent healthcare: 4.4+, 35-70+. Brisbane CBD financial B2B: 4.3+, 25-55+."}},{"@type":"Question","name":"What is the Riverfire/State of Origin review timing for Brisbane brands?","acceptedAnswer":{"@type":"Answer","text":"Riverfire (September) creates Brisbane's most community-engaged annual local event footfall for South Bank and CBD venue brands. Post-Riverfire (late September) review campaigns earn above-average response. State of Origin (June-July) QLD Maroons win creates Queensland-wide community euphoria — post-match (same evening) review requests for Queensland-positioned brands earn above-average emotional community engagement."}},{"@type":"Question","name":"What is Ascot/Hamilton professional quality GBP for Brisbane wealth management?","acceptedAnswer":{"@type":"Answer","text":"Ascot (Brisbane's most prestigious prestige residential suburb, home to Queensland coal and mining executives, thoroughbred racing community) and Hamilton's waterfront luxury community evaluate GBPs with CFA/CFP designation for financial advisory, RBWH/University of Queensland affiliation for healthcare, and Brisbane 2032 Olympic City transformation vocabulary for professional services."}}]}`,
   cta: ``,
   ctaBody: `Free audit — 48 hours. +61 7 9946 CLICK | brisbane@clickmastersdigitalmarketing.com | South Bank, New Farm, Ascot, and all of Greater Brisbane`,
-  internalLinks: ["/local-seo-services/","/seo-services-brisbane/","/digital-marketing-agency-brisbane/","/local-seo-services-sydney/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-brisbane/","/search-engine-optimization/local-seo/locations/local-seo-services-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -10845,7 +10845,7 @@ Results (4 months): Balloon Fiesta: 4.2x | Glastonbury: 3.8x | Pride: 3.4x | Rev
 
 Phone +44 117 946 CLICK | bristol@clickmastersdigitalmarketing.com
 Harbourside, Clifton, Temple Quarter, and all of Greater Bristol`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-bristol/","/seo-services-birmingham/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-bristol/","/search-engine-optimization/locations/seo-services-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -10979,7 +10979,7 @@ Results (4 months): Stampede: 4.2x | Flames playoff: 3.8x | Banff: 3.4x | Revenu
 
 Phone +1 403 946 CLICK | calgary@clickmastersdigitalmarketing.com
 Downtown, Beltline, Eau Claire, and all of Greater Calgary`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-calgary/","/seo-services-montreal/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-calgary/","/search-engine-optimization/locations/seo-services-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -11103,7 +11103,7 @@ Results (3 months): Top 3 Local Pack DIFC fintech | DIFC near-me: +3x`,
 
 Phone +971 4 946 CLICK | dubai@clickmastersdigitalmarketing.com
 Jumeirah, Emirates Hills, DIFC, and all of Dubai`,
-  internalLinks: ["/local-seo-services/","/seo-services-dubai/","/digital-marketing-agency-dubai/","/local-seo-services-abu-dhabi/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-dubai/","/search-engine-optimization/local-seo/locations/local-seo-services-abu-dhabi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -11235,7 +11235,7 @@ Results (4 months): Fringe season: 4.2x above average | Hogmanay: 3.8x | Six Nat
 
 Phone +44 131 946 CLICK | edinburgh@clickmastersdigitalmarketing.com
 George Street, Leith, Old Town, and all of Greater Edinburgh`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-edinburgh/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-edinburgh/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -11367,7 +11367,7 @@ Results (4 months): Old Firm: 4.0x | Celtic Connections: 3.8x | Revenue: +£75K`
 
 Phone +44 141 946 CLICK | glasgow@clickmastersdigitalmarketing.com
 George Square, IFSD, Merchant City, and all of Greater Glasgow`,
-  internalLinks: ["/seo-services-edinburgh/","/seo-services-manchester/","/digital-marketing-agency-glasgow/","/seo-services-bristol/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-edinburgh/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-glasgow/","/search-engine-optimization/locations/seo-services-bristol/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -11497,7 +11497,7 @@ Results (4 months): Ramazan: 4.2x above average | PSL Kings: 3.8x | Revenue: +PK
 
 Phone +92 21 3946 CLICK | karachi@clickmastersdigitalmarketing.com
 Clifton, DHA, PECHS, and all of Greater Karachi`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-karachi/","/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-karachi/","/search-engine-optimization/locations/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -11628,7 +11628,7 @@ Results (4 months): PSL Qalandars: 4.2x above average | Ramazan: 4.0x | Revenue:
 
 Phone +92 42 3946 CLICK | lahore@clickmastersdigitalmarketing.com
 Gulberg, DHA Lahore, Model Town, and all of Greater Lahore`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-lahore/","/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-lahore/","/search-engine-optimization/locations/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -11760,7 +11760,7 @@ Results (4 months): Leeds Festival: 4.0x | Headingley Test: 3.6x | Revenue: +£6
 
 Phone +44 113 946 CLICK | leeds@clickmastersdigitalmarketing.com
 Wellington Place, Park Row, Headingley, and all of West Yorkshire`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-edinburgh/","/digital-marketing-agency-leeds/","/seo-services-glasgow/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-edinburgh/","/locations/digital-marketing-agency-leeds/","/search-engine-optimization/locations/seo-services-glasgow/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -11884,7 +11884,7 @@ Results (3 months): Top 3 Local Pack City fintech | City near-me: +3x`,
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 Chelsea, Kensington, Richmond, City of London, and all of Greater London`,
-  internalLinks: ["/local-seo-services/","/seo-services-london/","/digital-marketing-agency-london/","/local-seo-services-manchester/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-london/","/search-engine-optimization/local-seo/locations/local-seo-services-manchester/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12008,7 +12008,7 @@ Results (3 months): Top 3 Local Pack Spinningfields fintech | Spinningfields nea
 
 Phone +44 161 946 CLICK | manchester@clickmastersdigitalmarketing.com
 Didsbury, Chorlton, Sale, MediaCityUK, and all of Greater Manchester`,
-  internalLinks: ["/local-seo-services/","/seo-services-manchester/","/digital-marketing-agency-manchester/","/local-seo-services-london/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-manchester/","/search-engine-optimization/local-seo/locations/local-seo-services-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12118,7 +12118,7 @@ Results (4 months): Top 3 Local Pack Melbourne oncology | Reviews: 9 to 78 | AHP
 
 Phone +61 3 9946 CLICK | melbourne@clickmastersdigitalmarketing.com
 Collins Street, South Yarra, Toorak, and all of Greater Melbourne`,
-  internalLinks: ["/local-seo-services/","/seo-services-melbourne/","/digital-marketing-agency-melbourne/","/local-seo-services-sydney/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-melbourne/","/locations/digital-marketing-agency-melbourne/","/search-engine-optimization/local-seo/locations/local-seo-services-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12252,7 +12252,7 @@ Results (4 months): Jazz Fest: 4.2x | Just for Laughs: 4.0x | Canadiens: 3.8x | 
 
 Phone +1 514 946 CLICK | montreal@clickmastersdigitalmarketing.com
 Quartier des Affaires, Plateau-Mont-Royal, Mile End, and all of Grand Montréal`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-montreal/","/seo-services-calgary/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-montreal/","/search-engine-optimization/locations/seo-services-calgary/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12382,7 +12382,7 @@ Results (5 months): Spam Act/Privacy Act: clean | AFL Derby: 4.2x above average 
 
 Phone +61 8 9946 CLICK | perth@clickmastersdigitalmarketing.com
 West Perth, Fremantle, Cottesloe, and all of Greater Perth`,
-  internalLinks: ["/seo-services-sydney/","/seo-services-brisbane/","/digital-marketing-agency-perth/","/seo-services-karachi/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-perth/","/search-engine-optimization/locations/seo-services-karachi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12516,7 +12516,7 @@ Results (4 months): SIBF season: 4.0x | Ramadan: 4.2x | National Day: 3.8x | Rev
 
 Phone +971 6 946 CLICK | sharjah@clickmastersdigitalmarketing.com
 Al Khan, SAIF Zone, University City, and all of Sharjah Emirate`,
-  internalLinks: ["/seo-services-dubai/","/seo-services-abu-dhabi/","/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/search-engine-optimization/locations/seo-services-abu-dhabi/","/locations/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12640,7 +12640,7 @@ Results (3 months): Top 3 Local Pack Barangaroo fintech | Barangaroo near-me: +3
 
 Phone +61 2 9946 CLICK | sydney@clickmastersdigitalmarketing.com
 Mosman, Balmain, Double Bay, Barangaroo, and all of Greater Sydney`,
-  internalLinks: ["/local-seo-services/","/seo-services-sydney/","/digital-marketing-agency-sydney/","/local-seo-services-melbourne/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-sydney/","/locations/digital-marketing-agency-sydney/","/search-engine-optimization/local-seo/locations/local-seo-services-melbourne/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12764,7 +12764,7 @@ Results (3 months): Top 3 Local Pack Bay Street fintech | Bay Street near-me: +3
 
 Phone +1-416-946-CLICK | toronto@clickmastersdigitalmarketing.com
 Yorkville, Rosedale, Bay Street, and all of Greater Toronto`,
-  internalLinks: ["/local-seo-services/","/seo-services-toronto/","/digital-marketing-agency-toronto/","/local-seo-services-london/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-toronto/","/locations/digital-marketing-agency-toronto/","/search-engine-optimization/local-seo/locations/local-seo-services-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12888,7 +12888,7 @@ Results (3 months): Top 3 Local Pack Vancouver logistics tech | Port Metro near-
 
 Phone +1-604-946-CLICK | vancouver@clickmastersdigitalmarketing.com
 Kitsilano, West Vancouver, Point Grey, and all of Metro Vancouver`,
-  internalLinks: ["/local-seo-services/","/seo-services-vancouver/","/digital-marketing-agency-vancouver/","/local-seo-services-toronto/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-vancouver/","/search-engine-optimization/local-seo/locations/local-seo-services-toronto/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -13024,7 +13024,7 @@ Results (4 months): F1 GP week: 4.2x | Ramadan: 4.0x | National Day: 3.8x | Reve
 
 Phone +971 2 946 CLICK | abudhabi@clickmastersdigitalmarketing.com
 ADGM Al Maryah Island, Khalidiyah, Yas Island, and all of Abu Dhabi Emirate`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-abu-dhabi/","/seo-services-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-abu-dhabi/","/search-engine-optimization/locations/seo-services-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -13158,7 +13158,7 @@ Results (4 months): Peaky Blinders: 4.2x | NEC events: 3.6x | Pride: 3.4x | Reve
 
 Phone +44 121 946 CLICK | birmingham@clickmastersdigitalmarketing.com
 Centenary Square, Brindleyplace, Digbeth, and all of Greater Birmingham`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-london/","/digital-marketing-agency-birmingham/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -13250,7 +13250,7 @@ Results: AHPRA/TGA/Spam Act/Privacy Act/QFT: clean | Healthcare CPL: AUD\$240 vs
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does PPC management cost in Brisbane?","acceptedAnswer":{"@type":"Answer","text":"Brisbane PPC: AUD\$1,000/month (Growth) to AUD\$10,000+/month (Enterprise). Brisbane 2032 procurement. ASIC/AHPRA/TGA Queensland. Privacy Act/Spam Act consent. Queensland Fair Trading. Brisbane CPCs 20-25% below Sydney. 90-day guarantee."}},{"@type":"Question","name":"What is the Brisbane 2032 PPC procurement advantage over Sydney and Melbourne?","acceptedAnswer":{"@type":"Answer","text":"Brisbane CPCs 20-25% below Sydney for equivalent infrastructure and technology vocabulary. Brisbane 2032 QMEC/Venues Queensland-specific vocabulary has no Sydney or Melbourne equivalent — making Brisbane 2032 procurement PPC the most cost-efficient major public infrastructure B2B campaign in Australia, with AUD\$7+ billion in qualified procurement spend as the audience."}},{"@type":"Question","name":"Does Clickmasters serve Gold Coast, Sunshine Coast, and Greater Brisbane?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Brisbane and South East Queensland."}},{"@type":"Question","name":"What is Queensland Fair Trading for Brisbane PPC?","acceptedAnswer":{"@type":"Answer","text":"Queensland Fair Trading — Queensland's consumer protection agency — enforces Australian Consumer Law in Queensland. Brisbane Google Ads must comply with both ACCC (federal) and Queensland Fair Trading (state), including service description accuracy, no false pricing, and no misleading conduct — requiring Queensland-specific pre-clearance for high-risk Brisbane PPC claims."}},{"@type":"Question","name":"How do Brisbane PPC CPCs compare to Sydney and Melbourne?","acceptedAnswer":{"@type":"Answer","text":"Brisbane CPCs 20-25% below Sydney and 10-15% below Melbourne for equivalent ASIC/AHPRA vocabulary. Brisbane 2032-specific infrastructure and Olympic procurement vocabulary has no equivalent CPC benchmark in other Australian cities — making Brisbane 2032 procurement PPC uniquely cost-efficient."}},{"@type":"Question","name":"What is Spam Act 2003 remarketing for Brisbane PPC?","acceptedAnswer":{"@type":"Answer","text":"Spam Act 2003 (ACMA, AUD\$313K/day) requires express or inferred consent for all commercial electronic messages including Brisbane remarketing campaigns. Spam Act-compliant remarketing consent records are non-negotiable for all Brisbane PPC remarketing — the same federal standard as Sydney and Melbourne."}}]}`,
   cta: ``,
   ctaBody: `Free audit — 48 hours. +61 7 9946 CLICK | brisbane@clickmastersdigitalmarketing.com | South Bank, Brisbane CBD, Fortitude Valley, and all of Greater Brisbane`,
-  internalLinks: ["/digital-marketing-agency-brisbane/","/seo-services-brisbane/","/ppc-management-sydney/","/ppc-management-perth/"],
+  internalLinks: ["/locations/digital-marketing-agency-brisbane/","/search-engine-optimization/locations/seo-services-brisbane/","/pay-per-click/ppc-management/locations/ppc-management-sydney/","/pay-per-click/ppc-management/locations/ppc-management-perth/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -13384,7 +13384,7 @@ Results (4 months): Balloon Fiesta: 4.2x | Glastonbury: 3.8x | Pride: 3.4x | Rev
 
 Phone +44 117 946 CLICK | bristol@clickmastersdigitalmarketing.com
 Harbourside, Clifton, Temple Quarter, and all of Greater Bristol`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-bristol/","/seo-services-birmingham/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-bristol/","/search-engine-optimization/locations/seo-services-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -13518,7 +13518,7 @@ Results (4 months): Stampede: 4.2x | Flames playoff: 3.8x | Banff: 3.4x | Revenu
 
 Phone +1 403 946 CLICK | calgary@clickmastersdigitalmarketing.com
 Downtown, Beltline, Eau Claire, and all of Greater Calgary`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-calgary/","/seo-services-montreal/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-calgary/","/search-engine-optimization/locations/seo-services-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -13644,7 +13644,7 @@ Results: MOHAP/UAE PDPL: clean | Arabic patient CPL: AED 480 vs AED 1,600 Englis
 
 Phone +971 4 946 CLICK | dubai@clickmastersdigitalmarketing.com
 DIFC, Business Bay, JLT, and all of Dubai`,
-  internalLinks: ["/digital-marketing-agency-dubai/","/seo-services-dubai/","/ppc-management-london/","/ppc-management-abu-dhabi/"],
+  internalLinks: ["/locations/digital-marketing-agency-dubai/","/search-engine-optimization/locations/seo-services-dubai/","/pay-per-click/ppc-management/locations/ppc-management-london/","/pay-per-click/ppc-management/locations/ppc-management-abu-dhabi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -13776,7 +13776,7 @@ Results (4 months): Fringe season: 4.2x above average | Hogmanay: 3.8x | Six Nat
 
 Phone +44 131 946 CLICK | edinburgh@clickmastersdigitalmarketing.com
 George Street, Leith, Old Town, and all of Greater Edinburgh`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-edinburgh/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-edinburgh/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -13908,7 +13908,7 @@ Results (4 months): Old Firm: 4.0x | Celtic Connections: 3.8x | Revenue: +£75K`
 
 Phone +44 141 946 CLICK | glasgow@clickmastersdigitalmarketing.com
 George Square, IFSD, Merchant City, and all of Greater Glasgow`,
-  internalLinks: ["/seo-services-edinburgh/","/seo-services-manchester/","/digital-marketing-agency-glasgow/","/seo-services-bristol/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-edinburgh/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-glasgow/","/search-engine-optimization/locations/seo-services-bristol/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -14038,7 +14038,7 @@ Results (4 months): Ramazan: 4.2x above average | PSL Kings: 3.8x | Revenue: +PK
 
 Phone +92 21 3946 CLICK | karachi@clickmastersdigitalmarketing.com
 Clifton, DHA, PECHS, and all of Greater Karachi`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-karachi/","/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-karachi/","/search-engine-optimization/locations/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -14168,7 +14168,7 @@ Results (4 months): PSL Qalandars: 4.2x above average | Ramazan: 4.0x | Revenue:
 
 Phone +92 42 3946 CLICK | lahore@clickmastersdigitalmarketing.com
 Gulberg, DHA Lahore, Model Town, and all of Greater Lahore`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-lahore/","/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-lahore/","/search-engine-optimization/locations/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -14300,7 +14300,7 @@ Results (4 months): Leeds Festival: 4.0x | Headingley Test: 3.6x | Revenue: +£6
 
 Phone +44 113 946 CLICK | leeds@clickmastersdigitalmarketing.com
 Wellington Place, Park Row, Headingley, and all of West Yorkshire`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-edinburgh/","/digital-marketing-agency-leeds/","/seo-services-glasgow/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-edinburgh/","/locations/digital-marketing-agency-leeds/","/search-engine-optimization/locations/seo-services-glasgow/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -14426,7 +14426,7 @@ Results: ICO: clean | SaaS CPL: £170 vs £580 generic | Series B growth communi
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 City of London, Canary Wharf, Shoreditch, and all of Greater London`,
-  internalLinks: ["/digital-marketing-agency-london/","/seo-services-london/","/google-ads-management-london/","/ppc-management-manchester/"],
+  internalLinks: ["/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-london/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-london/","/pay-per-click/ppc-management/locations/ppc-management-manchester/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -14552,7 +14552,7 @@ Results: PECR/ASA/ICO/CQC: clean | South Manchester private GP CPL: £75 vs £28
 
 Phone +44 161 946 CLICK | manchester@clickmastersdigitalmarketing.com
 MediaCityUK, Spinningfields, and all of Greater Manchester`,
-  internalLinks: ["/digital-marketing-agency-manchester/","/seo-services-manchester/","/ppc-management-london/","/ppc-management-leeds/"],
+  internalLinks: ["/locations/digital-marketing-agency-manchester/","/search-engine-optimization/locations/seo-services-manchester/","/pay-per-click/ppc-management/locations/ppc-management-london/","/pay-per-click/ppc-management/locations/ppc-management-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -14662,7 +14662,7 @@ Results: AHPRA/TGA/Spam Act/Privacy Act: clean | Healthcare CPL: AUD\$270 vs AUD
 
 Phone +61 3 9946 CLICK | melbourne@clickmastersdigitalmarketing.com
 Collins Street, Southbank, Fitzroy, and all of Greater Melbourne`,
-  internalLinks: ["/digital-marketing-agency-melbourne/","/seo-services-melbourne/","/ppc-management-sydney/","/ppc-management-brisbane/"],
+  internalLinks: ["/locations/digital-marketing-agency-melbourne/","/search-engine-optimization/locations/seo-services-melbourne/","/pay-per-click/ppc-management/locations/ppc-management-sydney/","/pay-per-click/ppc-management/locations/ppc-management-brisbane/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -14796,7 +14796,7 @@ Results (4 months): Jazz Fest: 4.2x | Just for Laughs: 4.0x | Canadiens: 3.8x | 
 
 Phone +1 514 946 CLICK | montreal@clickmastersdigitalmarketing.com
 Quartier des Affaires, Plateau-Mont-Royal, Mile End, and all of Grand Montréal`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-montreal/","/seo-services-calgary/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-montreal/","/search-engine-optimization/locations/seo-services-calgary/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -14926,7 +14926,7 @@ Results (5 months): Spam Act/Privacy Act: clean | AFL Derby: 4.2x above average 
 
 Phone +61 8 9946 CLICK | perth@clickmastersdigitalmarketing.com
 West Perth, Fremantle, Cottesloe, and all of Greater Perth`,
-  internalLinks: ["/seo-services-sydney/","/seo-services-brisbane/","/digital-marketing-agency-perth/","/seo-services-karachi/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-perth/","/search-engine-optimization/locations/seo-services-karachi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -15060,7 +15060,7 @@ Results (4 months): SIBF season: 4.0x | Ramadan: 4.2x | National Day: 3.8x | Rev
 
 Phone +971 6 946 CLICK | sharjah@clickmastersdigitalmarketing.com
 Al Khan, SAIF Zone, University City, and all of Sharjah Emirate`,
-  internalLinks: ["/seo-services-dubai/","/seo-services-abu-dhabi/","/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/search-engine-optimization/locations/seo-services-abu-dhabi/","/locations/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -15186,7 +15186,7 @@ Results: Spam Act/Privacy Act/ACCC/Ad Standards: clean | Sydney SaaS CPL: AUD\$7
 
 Phone +61 2 9946 CLICK | sydney@clickmastersdigitalmarketing.com
 Barangaroo, Martin Place, Surry Hills, and all of Greater Sydney`,
-  internalLinks: ["/digital-marketing-agency-sydney/","/seo-services-sydney/","/ppc-management-london/","/ppc-management-melbourne/"],
+  internalLinks: ["/locations/digital-marketing-agency-sydney/","/search-engine-optimization/locations/seo-services-sydney/","/pay-per-click/ppc-management/locations/ppc-management-london/","/pay-per-click/ppc-management/locations/ppc-management-melbourne/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -15312,7 +15312,7 @@ Results: RECO/CASL/PIPEDA/AODA: compliant | Toronto RE CPL: CAD\$220 vs CAD\$680
 
 Phone +1-416-946-CLICK | toronto@clickmastersdigitalmarketing.com
 Bay Street, Financial District, Midtown, and all of Greater Toronto`,
-  internalLinks: ["/digital-marketing-agency-toronto/","/seo-services-toronto/","/ppc-management-london/","/ppc-management-vancouver/"],
+  internalLinks: ["/locations/digital-marketing-agency-toronto/","/search-engine-optimization/locations/seo-services-toronto/","/pay-per-click/ppc-management/locations/ppc-management-london/","/pay-per-click/ppc-management/locations/ppc-management-vancouver/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -15438,7 +15438,7 @@ Results: CPSBC/HPFB/BC PIPA/CASL/ASC: clean | Vancouver healthcare CPL: CAD\$230
 
 Phone +1-604-946-CLICK | vancouver@clickmastersdigitalmarketing.com
 Gastown, Yaletown, Port Metro, and all of Metro Vancouver`,
-  internalLinks: ["/digital-marketing-agency-vancouver/","/seo-services-vancouver/","/ppc-management-toronto/","/ppc-management-calgary/"],
+  internalLinks: ["/locations/digital-marketing-agency-vancouver/","/search-engine-optimization/locations/seo-services-vancouver/","/pay-per-click/ppc-management/locations/ppc-management-toronto/","/pay-per-click/ppc-management/locations/ppc-management-calgary/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -15574,7 +15574,7 @@ Results (4 months): F1 GP week: 4.2x | Ramadan: 4.0x | National Day: 3.8x | Reve
 
 Phone +971 2 946 CLICK | abudhabi@clickmastersdigitalmarketing.com
 ADGM Al Maryah Island, Khalidiyah, Yas Island, and all of Abu Dhabi Emirate`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-abu-dhabi/","/seo-services-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-abu-dhabi/","/search-engine-optimization/locations/seo-services-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -15708,7 +15708,7 @@ Results (4 months): Peaky Blinders: 4.2x | NEC events: 3.6x | Pride: 3.4x | Reve
 
 Phone +44 121 946 CLICK | birmingham@clickmastersdigitalmarketing.com
 Centenary Square, Brindleyplace, Digbeth, and all of Greater Birmingham`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-london/","/digital-marketing-agency-birmingham/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -15832,7 +15832,7 @@ Results (10 months): Page 1 for 8 Brisbane energy queries | APA Group: engaged |
 
 Phone +61 7 9946 CLICK | brisbane@clickmastersdigitalmarketing.com
 South Bank Parklands, Fortitude Valley, New Farm, and all of Greater Brisbane`,
-  internalLinks: ["/seo-services-sydney/","/digital-marketing-agency-brisbane/","/seo-services-melbourne/","/seo-services-perth/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/locations/digital-marketing-agency-brisbane/","/search-engine-optimization/locations/seo-services-melbourne/","/search-engine-optimization/locations/seo-services-perth/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -15966,7 +15966,7 @@ Results (4 months): Balloon Fiesta: 4.2x | Glastonbury: 3.8x | Pride: 3.4x | Rev
 
 Phone +44 117 946 CLICK | bristol@clickmastersdigitalmarketing.com
 Harbourside, Clifton, Temple Quarter, and all of Greater Bristol`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-bristol/","/seo-services-birmingham/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-bristol/","/search-engine-optimization/locations/seo-services-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -16100,7 +16100,7 @@ Results (4 months): Stampede: 4.2x | Flames playoff: 3.8x | Banff: 3.4x | Revenu
 
 Phone +1 403 946 CLICK | calgary@clickmastersdigitalmarketing.com
 Downtown, Beltline, Eau Claire, and all of Greater Calgary`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-calgary/","/seo-services-montreal/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-calgary/","/search-engine-optimization/locations/seo-services-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -16228,7 +16228,7 @@ Results (10 months): Page 1 for 9 Dubai logistics queries | DP World: evaluation
 
 Phone +971 4 946 CLICK | dubai@clickmastersdigitalmarketing.com
 DIFC, Business Bay, JLT, Downtown Dubai, and all of Dubai`,
-  internalLinks: ["/seo-services-london/","/digital-marketing-agency-dubai/","/seo-services-abu-dhabi/","/seo-services-riyadh/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-dubai/","/search-engine-optimization/locations/seo-services-abu-dhabi/","/seo-services-riyadh/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -16360,7 +16360,7 @@ Results (4 months): Fringe season: 4.2x above average | Hogmanay: 3.8x | Six Nat
 
 Phone +44 131 946 CLICK | edinburgh@clickmastersdigitalmarketing.com
 George Street, Leith, Old Town, and all of Greater Edinburgh`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-edinburgh/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-edinburgh/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -16492,7 +16492,7 @@ Results (4 months): Old Firm: 4.0x | Celtic Connections: 3.8x | Revenue: +£75K`
 
 Phone +44 141 946 CLICK | glasgow@clickmastersdigitalmarketing.com
 George Square, IFSD, Merchant City, and all of Greater Glasgow`,
-  internalLinks: ["/seo-services-edinburgh/","/seo-services-manchester/","/digital-marketing-agency-glasgow/","/seo-services-bristol/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-edinburgh/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-glasgow/","/search-engine-optimization/locations/seo-services-bristol/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -16622,7 +16622,7 @@ Results (4 months): Ramazan: 4.2x above average | PSL Kings: 3.8x | Revenue: +PK
 
 Phone +92 21 3946 CLICK | karachi@clickmastersdigitalmarketing.com
 Clifton, DHA, PECHS, and all of Greater Karachi`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-karachi/","/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-karachi/","/search-engine-optimization/locations/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -16752,7 +16752,7 @@ Results (4 months): PSL Qalandars: 4.2x above average | Ramazan: 4.0x | Revenue:
 
 Phone +92 42 3946 CLICK | lahore@clickmastersdigitalmarketing.com
 Gulberg, DHA Lahore, Model Town, and all of Greater Lahore`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-lahore/","/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-lahore/","/search-engine-optimization/locations/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -16884,7 +16884,7 @@ Results (4 months): Leeds Festival: 4.0x | Headingley Test: 3.6x | Revenue: +£6
 
 Phone +44 113 946 CLICK | leeds@clickmastersdigitalmarketing.com
 Wellington Place, Park Row, Headingley, and all of West Yorkshire`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-edinburgh/","/digital-marketing-agency-leeds/","/seo-services-glasgow/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-edinburgh/","/locations/digital-marketing-agency-leeds/","/search-engine-optimization/locations/seo-services-glasgow/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -17015,7 +17015,7 @@ Results (10 months): Page 1 for 9 London SaaS queries | Tech City community: dis
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 City of London, Canary Wharf, Shoreditch, Mayfair, and all of Greater London`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-london/","/seo-services-manchester/","/seo-services-birmingham-uk/"],
+  internalLinks: ["/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-manchester/","/seo-services-birmingham-uk/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -17141,7 +17141,7 @@ Results (10 months): Page 1 for 9 Manchester health IT queries | MFT: evaluation
 
 Phone +44 161 946 CLICK | manchester@clickmastersdigitalmarketing.com
 MediaCityUK, Spinningfields, Northern Quarter, Ancoats, and all of Greater Manchester`,
-  internalLinks: ["/seo-services-london/","/digital-marketing-agency-manchester/","/seo-services-edinburgh/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-manchester/","/search-engine-optimization/locations/seo-services-edinburgh/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -17273,7 +17273,7 @@ Results (5 months): AFL: 4.0x above average | Melbourne Cup Day: 3.8x | DTC: +AU
 
 Phone +61 3 9946 CLICK | melbourne@clickmastersdigitalmarketing.com
 Collins Street, Southbank, Fitzroy, and all of Greater Melbourne`,
-  internalLinks: ["/seo-services-sydney/","/digital-marketing-agency-melbourne/","/seo-services-brisbane/","/seo-services-perth/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/locations/digital-marketing-agency-melbourne/","/search-engine-optimization/locations/seo-services-brisbane/","/search-engine-optimization/locations/seo-services-perth/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -17407,7 +17407,7 @@ Results (4 months): Jazz Fest: 4.2x | Just for Laughs: 4.0x | Canadiens: 3.8x | 
 
 Phone +1 514 946 CLICK | montreal@clickmastersdigitalmarketing.com
 Quartier des Affaires, Plateau-Mont-Royal, Mile End, and all of Grand Montréal`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-montreal/","/seo-services-calgary/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-montreal/","/search-engine-optimization/locations/seo-services-calgary/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -17537,7 +17537,7 @@ Results (5 months): Spam Act/Privacy Act: clean | AFL Derby: 4.2x above average 
 
 Phone +61 8 9946 CLICK | perth@clickmastersdigitalmarketing.com
 West Perth, Fremantle, Cottesloe, and all of Greater Perth`,
-  internalLinks: ["/seo-services-sydney/","/seo-services-brisbane/","/digital-marketing-agency-perth/","/seo-services-karachi/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-perth/","/search-engine-optimization/locations/seo-services-karachi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -17671,7 +17671,7 @@ Results (4 months): SIBF season: 4.0x | Ramadan: 4.2x | National Day: 3.8x | Rev
 
 Phone +971 6 946 CLICK | sharjah@clickmastersdigitalmarketing.com
 Al Khan, SAIF Zone, University City, and all of Sharjah Emirate`,
-  internalLinks: ["/seo-services-dubai/","/seo-services-abu-dhabi/","/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/search-engine-optimization/locations/seo-services-abu-dhabi/","/locations/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -17797,7 +17797,7 @@ Results (10 months): Page 1 for 9 Sydney tech queries | Canva: evaluation | Priv
 
 Phone +61 2 9946 CLICK | sydney@clickmastersdigitalmarketing.com
 Barangaroo, Surry Hills, The Rocks, and all of Greater Sydney`,
-  internalLinks: ["/seo-services-london/","/digital-marketing-agency-sydney/","/seo-services-melbourne/","/seo-services-brisbane/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-sydney/","/search-engine-optimization/locations/seo-services-melbourne/","/search-engine-optimization/locations/seo-services-brisbane/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -17923,7 +17923,7 @@ Results (10 months): Page 1 for 9 Toronto investment queries | OMERS: evaluation
 
 Phone +1-416-946-CLICK | toronto@clickmastersdigitalmarketing.com
 Bay Street, Yorkville, Distillery District, and all of Greater Toronto`,
-  internalLinks: ["/seo-services-london/","/digital-marketing-agency-toronto/","/seo-services-vancouver/","/seo-services-montreal/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/search-engine-optimization/locations/seo-services-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -18049,7 +18049,7 @@ Results (10 months): Page 1 for 9 Vancouver tech queries | Lululemon analytics: 
 
 Phone +1-604-946-CLICK | vancouver@clickmastersdigitalmarketing.com
 Gastown, Yaletown, Granville Island, and all of Metro Vancouver`,
-  internalLinks: ["/seo-services-toronto/","/digital-marketing-agency-vancouver/","/seo-services-calgary/","/seo-services-montreal/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/locations/digital-marketing-agency-vancouver/","/search-engine-optimization/locations/seo-services-calgary/","/search-engine-optimization/locations/seo-services-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -18185,7 +18185,7 @@ Results (4 months): F1 GP week: 4.2x | Ramadan: 4.0x | National Day: 3.8x | Reve
 
 Phone +971 2 946 CLICK | abudhabi@clickmastersdigitalmarketing.com
 ADGM Al Maryah Island, Khalidiyah, Yas Island, and all of Abu Dhabi Emirate`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-abu-dhabi/","/seo-services-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-abu-dhabi/","/search-engine-optimization/locations/seo-services-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -18319,7 +18319,7 @@ Results (4 months): Peaky Blinders: 4.2x | NEC events: 3.6x | Pride: 3.4x | Reve
 
 Phone +44 121 946 CLICK | birmingham@clickmastersdigitalmarketing.com
 Centenary Square, Brindleyplace, Digbeth, and all of Greater Birmingham`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-london/","/digital-marketing-agency-birmingham/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -18429,7 +18429,7 @@ Results (5 months): State of Origin: 4.2x | Riverfire: 3.8x | Brisbane Festival:
 
 Phone +61 7 9946 CLICK | brisbane@clickmastersdigitalmarketing.com
 South Bank, Fortitude Valley, New Farm, and all of Greater Brisbane`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-brisbane/","/seo-services-brisbane/","/social-media-marketing-sydney/"],
+  internalLinks: ["/social-media-management-services/","/locations/digital-marketing-agency-brisbane/","/search-engine-optimization/locations/seo-services-brisbane/","/social-media-marketing/locations/social-media-marketing-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -18563,7 +18563,7 @@ Results (4 months): Balloon Fiesta: 4.2x | Glastonbury: 3.8x | Pride: 3.4x | Rev
 
 Phone +44 117 946 CLICK | bristol@clickmastersdigitalmarketing.com
 Harbourside, Clifton, Temple Quarter, and all of Greater Bristol`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-bristol/","/seo-services-birmingham/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-bristol/","/search-engine-optimization/locations/seo-services-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -18697,7 +18697,7 @@ Results (4 months): Stampede: 4.2x | Flames playoff: 3.8x | Banff: 3.4x | Revenu
 
 Phone +1 403 946 CLICK | calgary@clickmastersdigitalmarketing.com
 Downtown, Beltline, Eau Claire, and all of Greater Calgary`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-calgary/","/seo-services-montreal/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-calgary/","/search-engine-optimization/locations/seo-services-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -18819,7 +18819,7 @@ Results (5 months): Ramadan season: 4.0x above average (Arabic) | Eid: 3.8x | DS
 
 Phone +971 4 946 CLICK | dubai@clickmastersdigitalmarketing.com
 DIFC, Downtown Dubai, Business Bay, and all of Dubai`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-dubai/","/seo-services-dubai/","/social-media-marketing-london/"],
+  internalLinks: ["/social-media-management-services/","/locations/digital-marketing-agency-dubai/","/search-engine-optimization/locations/seo-services-dubai/","/social-media-marketing/locations/social-media-marketing-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -18951,7 +18951,7 @@ Results (4 months): Fringe season: 4.2x above average | Hogmanay: 3.8x | Six Nat
 
 Phone +44 131 946 CLICK | edinburgh@clickmastersdigitalmarketing.com
 George Street, Leith, Old Town, and all of Greater Edinburgh`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-edinburgh/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-edinburgh/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -19083,7 +19083,7 @@ Results (4 months): Old Firm: 4.0x | Celtic Connections: 3.8x | Revenue: +£75K`
 
 Phone +44 141 946 CLICK | glasgow@clickmastersdigitalmarketing.com
 George Square, IFSD, Merchant City, and all of Greater Glasgow`,
-  internalLinks: ["/seo-services-edinburgh/","/seo-services-manchester/","/digital-marketing-agency-glasgow/","/seo-services-bristol/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-edinburgh/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-glasgow/","/search-engine-optimization/locations/seo-services-bristol/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -19213,7 +19213,7 @@ Results (4 months): Ramazan: 4.2x above average | PSL Kings: 3.8x | Revenue: +PK
 
 Phone +92 21 3946 CLICK | karachi@clickmastersdigitalmarketing.com
 Clifton, DHA, PECHS, and all of Greater Karachi`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-karachi/","/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-karachi/","/search-engine-optimization/locations/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -19343,7 +19343,7 @@ Results (4 months): PSL Qalandars: 4.2x above average | Ramazan: 4.0x | Revenue:
 
 Phone +92 42 3946 CLICK | lahore@clickmastersdigitalmarketing.com
 Gulberg, DHA Lahore, Model Town, and all of Greater Lahore`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-lahore/","/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-lahore/","/search-engine-optimization/locations/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -19475,7 +19475,7 @@ Results (4 months): Leeds Festival: 4.0x | Headingley Test: 3.6x | Revenue: +£6
 
 Phone +44 113 946 CLICK | leeds@clickmastersdigitalmarketing.com
 Wellington Place, Park Row, Headingley, and all of West Yorkshire`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-edinburgh/","/digital-marketing-agency-leeds/","/seo-services-glasgow/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-edinburgh/","/locations/digital-marketing-agency-leeds/","/search-engine-optimization/locations/seo-services-glasgow/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -19597,7 +19597,7 @@ Results (5 months): Wimbledon season: 4.0x above average | Carnival: 3.8x | DTC:
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 City, Canary Wharf, Shoreditch, Soho, Borough, and all of Greater London`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-london/","/seo-services-london/","/social-media-marketing-manchester/"],
+  internalLinks: ["/social-media-management-services/","/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-london/","/social-media-marketing/locations/social-media-marketing-manchester/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -19719,7 +19719,7 @@ Results (5 months): Christmas Markets season: 4.0x above average | Derby weekend
 
 Phone +44 161 946 CLICK | manchester@clickmastersdigitalmarketing.com
 Northern Quarter, MediaCityUK, NOMA, and all of Greater Manchester`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-manchester/","/seo-services-manchester/","/social-media-marketing-london/"],
+  internalLinks: ["/social-media-management-services/","/locations/digital-marketing-agency-manchester/","/search-engine-optimization/locations/seo-services-manchester/","/social-media-marketing/locations/social-media-marketing-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -19851,7 +19851,7 @@ Results (5 months): AFL: 4.0x above average | Melbourne Cup Day: 3.8x | DTC: +AU
 
 Phone +61 3 9946 CLICK | melbourne@clickmastersdigitalmarketing.com
 Collins Street, Southbank, Fitzroy, and all of Greater Melbourne`,
-  internalLinks: ["/seo-services-sydney/","/digital-marketing-agency-melbourne/","/seo-services-brisbane/","/seo-services-perth/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/locations/digital-marketing-agency-melbourne/","/search-engine-optimization/locations/seo-services-brisbane/","/search-engine-optimization/locations/seo-services-perth/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -19985,7 +19985,7 @@ Results (4 months): Jazz Fest: 4.2x | Just for Laughs: 4.0x | Canadiens: 3.8x | 
 
 Phone +1 514 946 CLICK | montreal@clickmastersdigitalmarketing.com
 Quartier des Affaires, Plateau-Mont-Royal, Mile End, and all of Grand Montréal`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-montreal/","/seo-services-calgary/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-montreal/","/search-engine-optimization/locations/seo-services-calgary/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -20115,7 +20115,7 @@ Results (5 months): Spam Act/Privacy Act: clean | AFL Derby: 4.2x above average 
 
 Phone +61 8 9946 CLICK | perth@clickmastersdigitalmarketing.com
 West Perth, Fremantle, Cottesloe, and all of Greater Perth`,
-  internalLinks: ["/seo-services-sydney/","/seo-services-brisbane/","/digital-marketing-agency-perth/","/seo-services-karachi/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-perth/","/search-engine-optimization/locations/seo-services-karachi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -20249,7 +20249,7 @@ Results (4 months): SIBF season: 4.0x | Ramadan: 4.2x | National Day: 3.8x | Rev
 
 Phone +971 6 946 CLICK | sharjah@clickmastersdigitalmarketing.com
 Al Khan, SAIF Zone, University City, and all of Sharjah Emirate`,
-  internalLinks: ["/seo-services-dubai/","/seo-services-abu-dhabi/","/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/search-engine-optimization/locations/seo-services-abu-dhabi/","/locations/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -20371,7 +20371,7 @@ Results (5 months): Vivid Sydney season: 4.0x above average | NYE countdown: 3.8
 
 Phone +61 2 9946 CLICK | sydney@clickmastersdigitalmarketing.com
 Barangaroo, Surry Hills, Bondi, and all of Greater Sydney`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-sydney/","/seo-services-sydney/","/social-media-marketing-melbourne/"],
+  internalLinks: ["/social-media-management-services/","/locations/digital-marketing-agency-sydney/","/search-engine-optimization/locations/seo-services-sydney/","/social-media-marketing/locations/social-media-marketing-melbourne/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -20493,7 +20493,7 @@ Results (5 months): TIFF season: 4.0x above average | Nuit Blanche: 3.8x | Maple
 
 Phone +1-416-946-CLICK | toronto@clickmastersdigitalmarketing.com
 Bay Street, Distillery District, Yorkville, and all of Greater Toronto`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-toronto/","/seo-services-toronto/","/social-media-marketing-london/"],
+  internalLinks: ["/social-media-management-services/","/locations/digital-marketing-agency-toronto/","/search-engine-optimization/locations/seo-services-toronto/","/social-media-marketing/locations/social-media-marketing-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -20615,7 +20615,7 @@ Results (5 months): Whistler season: 4.0x above average | Canucks season: 3.6x |
 
 Phone +1-604-946-CLICK | vancouver@clickmastersdigitalmarketing.com
 Gastown, Kitsilano, Granville Island, and all of Metro Vancouver`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-vancouver/","/seo-services-vancouver/","/social-media-marketing-toronto/"],
+  internalLinks: ["/social-media-management-services/","/locations/digital-marketing-agency-vancouver/","/search-engine-optimization/locations/seo-services-vancouver/","/social-media-marketing/locations/social-media-marketing-toronto/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -20751,7 +20751,7 @@ Results (4 months): F1 GP week: 4.2x | Ramadan: 4.0x | National Day: 3.8x | Reve
 
 Phone +971 2 946 CLICK | abudhabi@clickmastersdigitalmarketing.com
 ADGM Al Maryah Island, Khalidiyah, Yas Island, and all of Abu Dhabi Emirate`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-abu-dhabi/","/seo-services-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-abu-dhabi/","/search-engine-optimization/locations/seo-services-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -20885,7 +20885,7 @@ Results (4 months): Peaky Blinders: 4.2x | NEC events: 3.6x | Pride: 3.4x | Reve
 
 Phone +44 121 946 CLICK | birmingham@clickmastersdigitalmarketing.com
 Centenary Square, Brindleyplace, Digbeth, and all of Greater Birmingham`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-london/","/digital-marketing-agency-birmingham/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -21000,7 +21000,7 @@ Results: South Bank positioning: visits +40% | Revenue: +AUD\$120K per annum | B
 
 Phone +61 7 9946 CLICK | brisbane@clickmastersdigitalmarketing.com
 South Bank, Fortitude Valley, New Farm, and all of Greater Brisbane`,
-  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-brisbane/","/seo-services-brisbane/","/web-design-agency-sydney/"],
+  internalLinks: ["/web-design-agency-services/","/locations/digital-marketing-agency-brisbane/","/search-engine-optimization/locations/seo-services-brisbane/","/web-design-development/web-design-agency/locations/web-design-agency-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -21134,7 +21134,7 @@ Results (4 months): Balloon Fiesta: 4.2x | Glastonbury: 3.8x | Pride: 3.4x | Rev
 
 Phone +44 117 946 CLICK | bristol@clickmastersdigitalmarketing.com
 Harbourside, Clifton, Temple Quarter, and all of Greater Bristol`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-bristol/","/seo-services-birmingham/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-bristol/","/search-engine-optimization/locations/seo-services-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -21268,7 +21268,7 @@ Results (4 months): Stampede: 4.2x | Flames playoff: 3.8x | Banff: 3.4x | Revenu
 
 Phone +1 403 946 CLICK | calgary@clickmastersdigitalmarketing.com
 Downtown, Beltline, Eau Claire, and all of Greater Calgary`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-calgary/","/seo-services-montreal/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-calgary/","/search-engine-optimization/locations/seo-services-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -21395,7 +21395,7 @@ Results: Emirati brand positioning: visits +40% | Average order: +AED 450 | UAE 
 
 Phone +971 4 946 CLICK | dubai@clickmastersdigitalmarketing.com
 DIFC, Downtown Dubai, Business Bay, and all of Dubai`,
-  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-dubai/","/seo-services-dubai/","/web-design-agency-abu-dhabi/"],
+  internalLinks: ["/web-design-agency-services/","/locations/digital-marketing-agency-dubai/","/search-engine-optimization/locations/seo-services-dubai/","/web-design-development/web-design-agency/locations/web-design-agency-abu-dhabi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -21527,7 +21527,7 @@ Results (4 months): Fringe season: 4.2x above average | Hogmanay: 3.8x | Six Nat
 
 Phone +44 131 946 CLICK | edinburgh@clickmastersdigitalmarketing.com
 George Street, Leith, Old Town, and all of Greater Edinburgh`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-edinburgh/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-edinburgh/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -21659,7 +21659,7 @@ Results (4 months): Old Firm: 4.0x | Celtic Connections: 3.8x | Revenue: +£75K`
 
 Phone +44 141 946 CLICK | glasgow@clickmastersdigitalmarketing.com
 George Square, IFSD, Merchant City, and all of Greater Glasgow`,
-  internalLinks: ["/seo-services-edinburgh/","/seo-services-manchester/","/digital-marketing-agency-glasgow/","/seo-services-bristol/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-edinburgh/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-glasgow/","/search-engine-optimization/locations/seo-services-bristol/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -21789,7 +21789,7 @@ Results (4 months): Ramazan: 4.2x above average | PSL Kings: 3.8x | Revenue: +PK
 
 Phone +92 21 3946 CLICK | karachi@clickmastersdigitalmarketing.com
 Clifton, DHA, PECHS, and all of Greater Karachi`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-karachi/","/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-karachi/","/search-engine-optimization/locations/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -21919,7 +21919,7 @@ Results (4 months): PSL Qalandars: 4.2x above average | Ramazan: 4.0x | Revenue:
 
 Phone +92 42 3946 CLICK | lahore@clickmastersdigitalmarketing.com
 Gulberg, DHA Lahore, Model Town, and all of Greater Lahore`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-lahore/","/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-lahore/","/search-engine-optimization/locations/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -22051,7 +22051,7 @@ Results (4 months): Leeds Festival: 4.0x | Headingley Test: 3.6x | Revenue: +£6
 
 Phone +44 113 946 CLICK | leeds@clickmastersdigitalmarketing.com
 Wellington Place, Park Row, Headingley, and all of West Yorkshire`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-edinburgh/","/digital-marketing-agency-leeds/","/seo-services-glasgow/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-edinburgh/","/locations/digital-marketing-agency-leeds/","/search-engine-optimization/locations/seo-services-glasgow/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -22173,7 +22173,7 @@ Results: Series B investors: quality cited | UK enterprise pipeline: engaged | D
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 City of London, Canary Wharf, Shoreditch, Mayfair, and all of Greater London`,
-  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-london/","/seo-services-london/","/web-design-agency-manchester/"],
+  internalLinks: ["/web-design-agency-services/","/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-london/","/web-design-development/web-design-agency/locations/web-design-agency-manchester/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -22298,7 +22298,7 @@ Results: NQ positioning: visits +40% | Average order: +£45 | Manchester media: 
 
 Phone +44 161 946 CLICK | manchester@clickmastersdigitalmarketing.com
 MediaCityUK, Spinningfields, Northern Quarter, and all of Greater Manchester`,
-  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-manchester/","/seo-services-manchester/","/web-design-agency-london/"],
+  internalLinks: ["/web-design-agency-services/","/locations/digital-marketing-agency-manchester/","/search-engine-optimization/locations/seo-services-manchester/","/web-design-development/web-design-agency/locations/web-design-agency-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -22430,7 +22430,7 @@ Results (5 months): AFL: 4.0x above average | Melbourne Cup Day: 3.8x | DTC: +AU
 
 Phone +61 3 9946 CLICK | melbourne@clickmastersdigitalmarketing.com
 Collins Street, Southbank, Fitzroy, and all of Greater Melbourne`,
-  internalLinks: ["/seo-services-sydney/","/digital-marketing-agency-melbourne/","/seo-services-brisbane/","/seo-services-perth/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/locations/digital-marketing-agency-melbourne/","/search-engine-optimization/locations/seo-services-brisbane/","/search-engine-optimization/locations/seo-services-perth/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -22564,7 +22564,7 @@ Results (4 months): Jazz Fest: 4.2x | Just for Laughs: 4.0x | Canadiens: 3.8x | 
 
 Phone +1 514 946 CLICK | montreal@clickmastersdigitalmarketing.com
 Quartier des Affaires, Plateau-Mont-Royal, Mile End, and all of Grand Montréal`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-montreal/","/seo-services-calgary/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-montreal/","/search-engine-optimization/locations/seo-services-calgary/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -22694,7 +22694,7 @@ Results (5 months): Spam Act/Privacy Act: clean | AFL Derby: 4.2x above average 
 
 Phone +61 8 9946 CLICK | perth@clickmastersdigitalmarketing.com
 West Perth, Fremantle, Cottesloe, and all of Greater Perth`,
-  internalLinks: ["/seo-services-sydney/","/seo-services-brisbane/","/digital-marketing-agency-perth/","/seo-services-karachi/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-perth/","/search-engine-optimization/locations/seo-services-karachi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -22828,7 +22828,7 @@ Results (4 months): SIBF season: 4.0x | Ramadan: 4.2x | National Day: 3.8x | Rev
 
 Phone +971 6 946 CLICK | sharjah@clickmastersdigitalmarketing.com
 Al Khan, SAIF Zone, University City, and all of Sharjah Emirate`,
-  internalLinks: ["/seo-services-dubai/","/seo-services-abu-dhabi/","/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/search-engine-optimization/locations/seo-services-abu-dhabi/","/locations/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -22950,7 +22950,7 @@ Results: Surry Hills positioning: visits +40% | Average contract: +AUD\$8K | Aus
 
 Phone +61 2 9946 CLICK | sydney@clickmastersdigitalmarketing.com
 Barangaroo, Surry Hills, Newtown, and all of Greater Sydney`,
-  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-sydney/","/seo-services-sydney/","/web-design-agency-melbourne/"],
+  internalLinks: ["/web-design-agency-services/","/locations/digital-marketing-agency-sydney/","/search-engine-optimization/locations/seo-services-sydney/","/web-design-development/web-design-agency/locations/web-design-agency-melbourne/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -23077,7 +23077,7 @@ Results: Distillery positioning: visits +40% | Average order: +CAD\$60 | Toronto
 
 Phone +1-416-946-CLICK | toronto@clickmastersdigitalmarketing.com
 Bay Street, Distillery District, Yorkville, and all of Greater Toronto`,
-  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-toronto/","/seo-services-toronto/","/web-design-agency-london/"],
+  internalLinks: ["/web-design-agency-services/","/locations/digital-marketing-agency-toronto/","/search-engine-optimization/locations/seo-services-toronto/","/web-design-development/web-design-agency/locations/web-design-agency-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -23204,7 +23204,7 @@ Results: Gastown positioning: visits +40% | Average order: +CAD\$55 | BC media: 
 
 Phone +1-604-946-CLICK | vancouver@clickmastersdigitalmarketing.com
 Gastown, Yaletown, Granville Island, and all of Metro Vancouver`,
-  internalLinks: ["/web-design-agency-services/","/digital-marketing-agency-vancouver/","/seo-services-vancouver/","/web-design-agency-toronto/"],
+  internalLinks: ["/web-design-agency-services/","/locations/digital-marketing-agency-vancouver/","/search-engine-optimization/locations/seo-services-vancouver/","/web-design-development/web-design-agency/locations/web-design-agency-toronto/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -23340,7 +23340,7 @@ Results (4 months): F1 GP week: 4.2x | Ramadan: 4.0x | National Day: 3.8x | Reve
 
 Phone +971 2 946 CLICK | abudhabi@clickmastersdigitalmarketing.com
 ADGM Al Maryah Island, Khalidiyah, Yas Island, and all of Abu Dhabi Emirate`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-abu-dhabi/","/seo-services-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-abu-dhabi/","/search-engine-optimization/locations/seo-services-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -23474,7 +23474,7 @@ Results (4 months): Peaky Blinders: 4.2x | NEC events: 3.6x | Pride: 3.4x | Reve
 
 Phone +44 121 946 CLICK | birmingham@clickmastersdigitalmarketing.com
 Centenary Square, Brindleyplace, Digbeth, and all of Greater Birmingham`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-london/","/digital-marketing-agency-birmingham/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -23573,7 +23573,7 @@ Results: AHPRA/QLD Health/Privacy Act: clean | WCAG: AA | Deployed: 14 weeks`,
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web development cost in Brisbane?","acceptedAnswer":{"@type":"Answer","text":"Brisbane web development: AUD\$14,000-AUD\$40,000 (ASIC CDR/RBWH Queensland Health/Brisbane 2032 QMEC MVP), AUD\$60,000-AUD\$280,000+ (enterprise). Privacy Act-native. Spam Act-native. WCAG 2.1 AA. Fixed-price or T&M. Brisbane rates 20-25% below Sydney."}},{"@type":"Question","name":"What is Brisbane 2032 QMEC platform engineering for Brisbane web development?","acceptedAnswer":{"@type":"Answer","text":"Brisbane 2032 QMEC (Queensland Major Events Company) event management platform specifications, Venues Queensland venue operations technology requirements, and smart city event technology standards for Olympic infrastructure — the most commercially distinct web development specification in the T4 Australia territory, available only in Brisbane for the 2025-2032 Olympic procurement window."}},{"@type":"Question","name":"Does Clickmasters serve Gold Coast, Sunshine Coast, and Greater Brisbane?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Brisbane and South East Queensland."}},{"@type":"Question","name":"What is Bank of Queensland/BOQ CDR for Brisbane fintech web development?","acceptedAnswer":{"@type":"Answer","text":"Bank of Queensland (BOQ, Brisbane HQ) is a Brisbane-specific CDR Open Banking data source unique to Queensland fintech — distinct from CommBank/Westpac (Sydney) and ANZ/NAB (Melbourne). Brisbane CDR-accredited fintech platforms accessing BOQ data create a Queensland-specific banking integration opportunity unavailable in other Australian cities."}},{"@type":"Question","name":"What is Queensland Health IT API for Brisbane healthtech development?","acceptedAnswer":{"@type":"Answer","text":"Queensland Health's state health IT system (Integrated Electronic Medical Records/ieMR, Queensland Health IT) provides state-specific API credentials for Queensland clinical platform integration — distinct from the federal My Health Record (ADHA) system and Victorian Department of Health IT. RBWH and PA Hospital-affiliated healthtech platforms require Queensland Health IT API alongside Privacy Act APPs 10/11-native patient data architecture."}},{"@type":"Question","name":"How do Brisbane web development rates compare to Sydney and Melbourne?","acceptedAnswer":{"@type":"Answer","text":"Brisbane web development rates 20-25% below Sydney and broadly equivalent to Melbourne or slightly lower. Brisbane's growing tech talent community — QUT, University of Queensland, and the Brisbane 2032 Olympic City tech ecosystem — provides Sydney/Melbourne-calibre technical capability at below-Sydney cost."}}]}`,
   cta: ``,
   ctaBody: `Free audit — 48 hours. +61 7 9946 CLICK | brisbane@clickmastersdigitalmarketing.com | South Bank, Brisbane CBD, Fortitude Valley, and all of Greater Brisbane`,
-  internalLinks: ["/web-development-services/","/digital-marketing-agency-brisbane/","/seo-services-brisbane/","/web-development-sydney/"],
+  internalLinks: ["/web-development-services/","/locations/digital-marketing-agency-brisbane/","/search-engine-optimization/locations/seo-services-brisbane/","/web-design-development/web-development/locations/web-development-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -23707,7 +23707,7 @@ Results (4 months): Balloon Fiesta: 4.2x | Glastonbury: 3.8x | Pride: 3.4x | Rev
 
 Phone +44 117 946 CLICK | bristol@clickmastersdigitalmarketing.com
 Harbourside, Clifton, Temple Quarter, and all of Greater Bristol`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-bristol/","/seo-services-birmingham/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-bristol/","/search-engine-optimization/locations/seo-services-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -23841,7 +23841,7 @@ Results (4 months): Stampede: 4.2x | Flames playoff: 3.8x | Banff: 3.4x | Revenu
 
 Phone +1 403 946 CLICK | calgary@clickmastersdigitalmarketing.com
 Downtown, Beltline, Eau Claire, and all of Greater Calgary`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-calgary/","/seo-services-montreal/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-calgary/","/search-engine-optimization/locations/seo-services-montreal/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -23968,7 +23968,7 @@ Results: RERA: compliant | Arabic RTL: live | Property Finder: live | UAE PDPL: 
 
 Phone +971 4 946 CLICK | dubai@clickmastersdigitalmarketing.com
 DIFC, Business Bay, Downtown Dubai, and all of Dubai`,
-  internalLinks: ["/web-development-services/","/digital-marketing-agency-dubai/","/seo-services-dubai/","/web-development-london/"],
+  internalLinks: ["/web-development-services/","/locations/digital-marketing-agency-dubai/","/search-engine-optimization/locations/seo-services-dubai/","/web-design-development/web-development/locations/web-development-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -24100,7 +24100,7 @@ Results (4 months): Fringe season: 4.2x above average | Hogmanay: 3.8x | Six Nat
 
 Phone +44 131 946 CLICK | edinburgh@clickmastersdigitalmarketing.com
 George Street, Leith, Old Town, and all of Greater Edinburgh`,
-  internalLinks: ["/seo-services-london/","/seo-services-manchester/","/digital-marketing-agency-edinburgh/","/seo-services-leeds/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-london/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-edinburgh/","/search-engine-optimization/locations/seo-services-leeds/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -24232,7 +24232,7 @@ Results (4 months): Old Firm: 4.0x | Celtic Connections: 3.8x | Revenue: +£75K`
 
 Phone +44 141 946 CLICK | glasgow@clickmastersdigitalmarketing.com
 George Square, IFSD, Merchant City, and all of Greater Glasgow`,
-  internalLinks: ["/seo-services-edinburgh/","/seo-services-manchester/","/digital-marketing-agency-glasgow/","/seo-services-bristol/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-edinburgh/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-glasgow/","/search-engine-optimization/locations/seo-services-bristol/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -24362,7 +24362,7 @@ Results (4 months): Ramazan: 4.2x above average | PSL Kings: 3.8x | Revenue: +PK
 
 Phone +92 21 3946 CLICK | karachi@clickmastersdigitalmarketing.com
 Clifton, DHA, PECHS, and all of Greater Karachi`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-karachi/","/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-karachi/","/search-engine-optimization/locations/seo-services-lahore/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -24492,7 +24492,7 @@ Results (4 months): PSL Qalandars: 4.2x above average | Ramazan: 4.0x | Revenue:
 
 Phone +92 42 3946 CLICK | lahore@clickmastersdigitalmarketing.com
 Gulberg, DHA Lahore, Model Town, and all of Greater Lahore`,
-  internalLinks: ["/seo-services-dubai/","/digital-marketing-agency-lahore/","/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-lahore/","/search-engine-optimization/locations/seo-services-karachi/","/digital-marketing-agency-pakistan/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -24624,7 +24624,7 @@ Results (4 months): Leeds Festival: 4.0x | Headingley Test: 3.6x | Revenue: +£6
 
 Phone +44 113 946 CLICK | leeds@clickmastersdigitalmarketing.com
 Wellington Place, Park Row, Headingley, and all of West Yorkshire`,
-  internalLinks: ["/seo-services-manchester/","/seo-services-edinburgh/","/digital-marketing-agency-leeds/","/seo-services-glasgow/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-manchester/","/search-engine-optimization/locations/seo-services-edinburgh/","/locations/digital-marketing-agency-leeds/","/search-engine-optimization/locations/seo-services-glasgow/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -24746,7 +24746,7 @@ Results: Series B: technical due diligence cleared | ICO/WCAG: clean | Performan
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 City of London, Canary Wharf, Shoreditch, and all of Greater London`,
-  internalLinks: ["/web-development-services/","/digital-marketing-agency-london/","/seo-services-london/","/web-development-manchester/"],
+  internalLinks: ["/web-development-services/","/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-london/","/web-design-development/web-development/locations/web-development-manchester/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -24873,7 +24873,7 @@ Results: NHS Digital API: approved | DCB0129: certified | ICO: clean | WCAG: AA 
 
 Phone +44 161 946 CLICK | manchester@clickmastersdigitalmarketing.com
 MediaCityUK, Spinningfields, Northern Quarter, and all of Greater Manchester`,
-  internalLinks: ["/web-development-services/","/digital-marketing-agency-manchester/","/seo-services-manchester/","/web-development-london/"],
+  internalLinks: ["/web-development-services/","/locations/digital-marketing-agency-manchester/","/search-engine-optimization/locations/seo-services-manchester/","/web-design-development/web-development/locations/web-development-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -24988,7 +24988,7 @@ Results: APRA: SPS compliant | AustralianSuper: API approved | Privacy Act/Spam 
 
 Phone +61 3 9946 CLICK | melbourne@clickmastersdigitalmarketing.com
 Collins Street, Fitzroy, Southbank, and all of Greater Melbourne`,
-  internalLinks: ["/web-development-services/","/digital-marketing-agency-melbourne/","/seo-services-melbourne/","/web-development-sydney/"],
+  internalLinks: ["/web-development-services/","/locations/digital-marketing-agency-melbourne/","/search-engine-optimization/locations/seo-services-melbourne/","/web-design-development/web-development/locations/web-development-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -25122,7 +25122,7 @@ Results (4 months): Jazz Fest: 4.2x | Just for Laughs: 4.0x | Canadiens: 3.8x | 
 
 Phone +1 514 946 CLICK | montreal@clickmastersdigitalmarketing.com
 Quartier des Affaires, Plateau-Mont-Royal, Mile End, and all of Grand Montréal`,
-  internalLinks: ["/seo-services-toronto/","/seo-services-vancouver/","/digital-marketing-agency-montreal/","/seo-services-calgary/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-toronto/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-montreal/","/search-engine-optimization/locations/seo-services-calgary/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -25252,7 +25252,7 @@ Results (5 months): Spam Act/Privacy Act: clean | AFL Derby: 4.2x above average 
 
 Phone +61 8 9946 CLICK | perth@clickmastersdigitalmarketing.com
 West Perth, Fremantle, Cottesloe, and all of Greater Perth`,
-  internalLinks: ["/seo-services-sydney/","/seo-services-brisbane/","/digital-marketing-agency-perth/","/seo-services-karachi/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sydney/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-perth/","/search-engine-optimization/locations/seo-services-karachi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -25386,7 +25386,7 @@ Results (4 months): SIBF season: 4.0x | Ramadan: 4.2x | National Day: 3.8x | Rev
 
 Phone +971 6 946 CLICK | sharjah@clickmastersdigitalmarketing.com
 Al Khan, SAIF Zone, University City, and all of Sharjah Emirate`,
-  internalLinks: ["/seo-services-dubai/","/seo-services-abu-dhabi/","/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-dubai/","/search-engine-optimization/locations/seo-services-abu-dhabi/","/locations/digital-marketing-agency-sharjah/","/digital-marketing-agency-uae/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -25513,7 +25513,7 @@ Results: REA/Domain: live | NSW Fair Trading: compliant | Privacy Act/Spam Act: 
 
 Phone +61 2 9946 CLICK | sydney@clickmastersdigitalmarketing.com
 Barangaroo, Surry Hills, Martin Place, and all of Greater Sydney`,
-  internalLinks: ["/web-development-services/","/digital-marketing-agency-sydney/","/seo-services-sydney/","/web-development-melbourne/"],
+  internalLinks: ["/web-development-services/","/locations/digital-marketing-agency-sydney/","/search-engine-optimization/locations/seo-services-sydney/","/web-design-development/web-development/locations/web-development-melbourne/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -25640,7 +25640,7 @@ Results: RECO/MLS/PIPEDA/AODA/CASL: compliant | MLS: live integration | AODA: On
 
 Phone +1-416-946-CLICK | toronto@clickmastersdigitalmarketing.com
 Bay Street, Financial District, Yorkville, and all of Greater Toronto`,
-  internalLinks: ["/web-development-services/","/digital-marketing-agency-toronto/","/seo-services-toronto/","/web-development-london/"],
+  internalLinks: ["/web-development-services/","/locations/digital-marketing-agency-toronto/","/search-engine-optimization/locations/seo-services-toronto/","/web-design-development/web-development/locations/web-development-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -25767,7 +25767,7 @@ Results: Port Metro: PCS live | CBSA: EDI certified | BC PIPA/CASL: clean | Depl
 
 Phone +1-604-946-CLICK | vancouver@clickmastersdigitalmarketing.com
 Gastown, Yaletown, Port Metro, and all of Metro Vancouver`,
-  internalLinks: ["/web-development-services/","/digital-marketing-agency-vancouver/","/seo-services-vancouver/","/web-development-toronto/"],
+  internalLinks: ["/web-development-services/","/locations/digital-marketing-agency-vancouver/","/search-engine-optimization/locations/seo-services-vancouver/","/web-design-development/web-development/locations/web-development-toronto/"],
   
   publishingChecklist: {
     onPageSeo: {

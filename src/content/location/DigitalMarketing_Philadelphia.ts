@@ -114,7 +114,7 @@ Q: GEO/AEO for Philadelphia? A: Main Line patients and GSK/AstraZeneca procureme
 Get Your Free Philadelphia Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: philadelphia@clickmastersdigitalmarketing.com
 Center City, Main Line, King of Prussia, and all of the Delaware Valley`,
-  internalLinks: ["/seo-services-philadelphia/","/local-seo-services-philadelphia/","/digital-marketing-agency-usa/","/industries/healthcare/","/industries/legal/","/digital-marketing-agency-new-york/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-philadelphia/","/search-engine-optimization/local-seo/locations/local-seo-services-philadelphia/","/content-marketing/locations/content-marketing-des-moines/","/locations/digital-marketing-agency-new-york/"],
   
   publishingChecklist: {
     onPageSeo: {

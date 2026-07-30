@@ -105,7 +105,7 @@ Q: Massachusetts CDPA and social media? A: CDPA (January 2025) creates retargeti
 Get Your Free Boston Social Media Audit: Phone +1-888-555-CLICK
 Email: boston@clickmastersdigitalmarketing.com
 Back Bay, Kendall Square, Longwood, Cambridge, and all of Greater Boston`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-boston/","/seo-services-boston/","/social-media-marketing-new-york/","/industries/healthcare-tech/","/industries/financial-services/"],
+  internalLinks: ["/social-media-management-services/","/locations/digital-marketing-agency-boston/","/search-engine-optimization/locations/seo-services-boston/","/social-media-marketing/locations/social-media-marketing-new-york/"],
   
   publishingChecklist: {
     onPageSeo: {

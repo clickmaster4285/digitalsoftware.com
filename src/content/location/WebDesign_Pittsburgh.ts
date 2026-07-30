@@ -92,7 +92,7 @@ Results: FINRA/SEC: clean | PNC evaluation: entered | PPG: enquiry | Demo: 0.3% 
 
 Phone +1-888-555-CLICK | pittsburgh@clickmastersdigitalmarketing.com
 Shadyside, Squirrel Hill, Lawrenceville, South Side, and all of Greater Pittsburgh`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-pittsburgh/","/seo-services-pittsburgh/","/web-design-cleveland/"],
+  internalLinks: ["/locations/digital-marketing-agency-pittsburgh/","/search-engine-optimization/locations/seo-services-pittsburgh/","/web-design-development/web-design/locations/web-design-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {

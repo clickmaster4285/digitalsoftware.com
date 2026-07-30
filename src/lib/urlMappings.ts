@@ -95,6 +95,11 @@ const SERVICE_CONFIGS: Record<string, ServiceConfig> = {
     slugPrefix: 'web-design',
     service: 'WebDesign'
   },
+  WebDesignAgency: {
+    pathTemplate: (city: string) => `/web-design-development/web-design-agency/locations/web-design-agency-${city}/`,
+    slugPrefix: 'web-design-agency',
+    service: 'WebDesignAgency'
+  },
   WebDevelopment: {
     pathTemplate: (city: string) => `/web-design-development/web-development/locations/web-development-${city}/`,
     slugPrefix: 'web-development',
@@ -271,6 +276,37 @@ export function getSlugsForService(service: string): string[] {
   return Object.entries(urlMappings)
     .filter(([_, m]) => m.service === service)
     .map(([slug]) => slug);
+}
+
+/**
+ * Converts a flat location slug path to its full nested URL path.
+ * e.g. /seo-services-cincinnati/ → /search-engine-optimization/locations/seo-services-cincinnati/
+ * Non-location links (hubs, industries, etc.) are returned unchanged.
+ */
+export function resolveInternalLink(href: string): string {
+  let pathname = href;
+
+  try {
+    if (pathname.startsWith('http')) {
+      pathname = new URL(href).pathname;
+    }
+  } catch {
+    // treat as pathname
+  }
+
+  if (!pathname.startsWith('/')) pathname = '/' + pathname;
+  if (!pathname.endsWith('/')) pathname += '/';
+
+  if (pathname.includes('/locations/')) return pathname;
+
+  const slug = pathname.slice(1, -1);
+  const mapping = urlMappings[slug];
+
+  if (mapping?.validPaths[0]) {
+    return mapping.validPaths[0];
+  }
+
+  return pathname;
 }
 
 // Export everything needed

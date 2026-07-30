@@ -92,7 +92,7 @@ Results: Summerlin professional community enquiries: +3x | CA in-migration estat
 
 Phone +1-888-555-CLICK | lasvegas@clickmastersdigitalmarketing.com
 Henderson, Summerlin, Downtown Las Vegas, and all of Greater Las Vegas`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-las-vegas/","/seo-services-las-vegas/","/web-design-phoenix/"],
+  internalLinks: ["/locations/digital-marketing-agency-las-vegas/","/search-engine-optimization/locations/seo-services-las-vegas/","/web-design-development/web-design/locations/web-design-phoenix/"],
   
   publishingChecklist: {
     onPageSeo: {

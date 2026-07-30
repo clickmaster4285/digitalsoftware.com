@@ -254,7 +254,7 @@ faqTitle: `FAQs — Digital Marketing Dallas`,
   "ctaBody": "Clickmasters Digital Marketing Agency helps Dallas businesses turn local visibility into measurable growth. Let's build a custom strategy for your business.\n\nGet your free strategy consultation:\nPhone: +1-888-555-CLICK\nEmail: dallas@clickmastersdigitalmarketing.com\nServing Dallas, Plano, Frisco, Irving, Fort Worth, and all of DFW",
 
 
-internalLinks: ["/seo-services-dallas/","/web-design-dallas/","/digital-marketing-agency-usa/","/digital-marketing-agency-houston/","/industries/technology/","/industries/financial-services/"],
+internalLinks: ["/search-engine-optimization/locations/seo-services-dallas/","/web-design-development/web-design/locations/web-design-dallas/","/locations/digital-marketing-agency-houston/"],
   
   publishingChecklist: {
     onPageSeo: {

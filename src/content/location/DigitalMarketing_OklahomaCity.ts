@@ -111,7 +111,7 @@ Results (11 months): Page 1 for 9 OKC HR queries | Paycom VP: digital discovery 
 
 Phone +1-888-555-CLICK | oklahomacity@clickmastersdigitalmarketing.com
 Edmond, Norman, Midwest City, Bricktown, and all of Greater OKC`,
-  internalLinks: ["/seo-services-oklahoma-city/","/digital-marketing-agency-usa/","/digital-marketing-agency-dallas/","/digital-marketing-agency-tulsa/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-oklahoma-city/","/locations/digital-marketing-agency-dallas/","/locations/digital-marketing-agency-tulsa/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -94,7 +94,7 @@ Results: HIPAA: clean | Huntsville Hospital CPL: \$110 vs \$300 generic | New pa
 
 Phone +1-888-555-CLICK | huntsville@clickmastersdigitalmarketing.com
 Madison, Cummings Research Park, and all of Greater Huntsville`,
-  internalLinks: ["/digital-marketing-agency-huntsville/","/seo-services-huntsville/","/google-ads-management-services/","/google-ads-management-birmingham/"],
+  internalLinks: ["/locations/digital-marketing-agency-huntsville/","/search-engine-optimization/locations/seo-services-huntsville/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {

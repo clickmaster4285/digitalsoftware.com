@@ -116,7 +116,7 @@ Q: GEO/AEO for Seattle? A: Highest AI search adoption in US. Amazon product mana
 Get Your Free Seattle Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: seattle@clickmastersdigitalmarketing.com
 South Lake Union, Bellevue, Redmond, Kirkland, and all of Greater Seattle`,
-  internalLinks: ["/seo-services-seattle/","/web-design-seattle/","/digital-marketing-agency-usa/","/digital-marketing-agency-san-francisco/","/industries/technology/","/industries/healthcare/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-seattle/","/web-design-development/web-design/locations/web-design-seattle/","/locations/digital-marketing-agency-san-francisco/","/content-marketing/locations/content-marketing-des-moines/"],
   
   publishingChecklist: {
     onPageSeo: {

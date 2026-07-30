@@ -10,7 +10,7 @@ export const SeoServicesContent = {
 		primaryKeyword: "seo services",
 		secondaryKeywords: ["seo agency", "seo company", "search engine optimization services"],
 		wordCount: "~5,000 words",
-		internalLinks: "/technical-seo-services/, /local-seo/, /on-page-seo/, /off-page-seo/, /ai-seo/, /contact-us/",
+		internalLinks: "/technical-seo-services/, /local-seo/, /on-page-seo/, /off-page-seo/, /ai-seo/, /contact/",
 	},
 	hero: {
 		tag: "SEO Services",
@@ -211,7 +211,7 @@ export const SeoServicesContent = {
 		title: "Ready to Turn Search Visibility Into Business Revenue?",
 		description:
 			"Book your free SEO audit today. We will analyse your site, identify what's suppressing your rankings, and show the specific opportunity your business is sitting on.",
-		contactLink: "/contact-us/",
+		contactLink: "/contact/",
 		whatsappLink: "https://wa.me/",
 	},
 	footer: {
@@ -239,7 +239,7 @@ export const SocialMediaMarketingContent = {
 			"social media marketing 2026",
 		],
 		wordCount: "~5,150 words",
-		internalLinks: "/facebook-instagram-ads/, /content-marketing-services/, /seo-services/, /remarketing-retargeting-services/, /contact-us/",
+		internalLinks: "/facebook-instagram-ads/, /content-marketing-services/, /search-engine-optimization/local-seo/locations/local-seo-services-atlanta/, /remarketing-retargeting-services/, /contact/",
 	},
 	hero: {
 		tag: "Social Media Marketing",
@@ -445,7 +445,7 @@ export const SocialMediaMarketingContent = {
 		title: "Ready to Build a Social Media Presence That Works for Your Business?",
 		description:
 			"We build social media programs that grow audiences, earn engagement, and contribute measurably to revenue. Start with a free audit or talk to an expert.",
-		contactLink: "/contact-us/",
+		contactLink: "/contact/",
 		whatsappLink: "https://wa.me/",
 	},
 	schema: {
@@ -530,7 +530,7 @@ export const MobileAppDevelopmentContent = {
 		],
 		wordCount: "~5,100 words",
 		internalLinks:
-			"/ui-ux-design-services/, /web-development/, /app-development/, /contact-us/",
+			"/ui-ux-design-services/, /web-development/, /app-development/, /contact/",
 	},
 	hero: {
 		tag: "Mobile App Development",
@@ -930,7 +930,7 @@ export const MobileAppDevelopmentContent = {
 		title: "Ready to Build the App Your Customers Are Waiting For?",
 		description:
 			"The businesses winning in mobile are not always the largest. They are the ones that built the right app for a specific user and a real problem.",
-		contactLink: "/contact-us/",
+		contactLink: "/contact/",
 		whatsappLink: "https://wa.me/",
 	},
 	footer: {
@@ -960,7 +960,7 @@ export const ConversionRateOptimizationContent = {
 		],
 		wordCount: "~5,100 words",
 		internalLinks:
-			"/landing-page-design-services/, /content-marketing-services/, /a-b-testing-services/, /contact-us/",
+			"/landing-page-design-services/, /content-marketing-services/, /a-b-testing-services/, /contact/",
 	},
 	hero: {
 		tag: "Conversion Rate Optimisation",
@@ -1316,7 +1316,7 @@ export const ConversionRateOptimizationContent = {
 		title: "Ready to Make Your Traffic Work Harder?",
 		description:
 			"The gap between 1.8% and 5% conversion is not more traffic. It is the optimisation of the traffic you already have.",
-		contactLink: "/contact-us/",
+		contactLink: "/contact/",
 		whatsappLink: "https://wa.me/",
 	},
 	footer: {
@@ -1401,7 +1401,7 @@ export const AIAutomationServicesContent = {
 		],
 		wordCount: "~5,100 words",
 		internalLinks:
-			"/saas-development-services/, /website-development-services/, /seo-services/, /content-marketing-services/, /contact-us/",
+			"/saas-development-services/, /website-development-services/, /search-engine-optimization/local-seo/locations/local-seo-services-atlanta/, /content-marketing-services/, /contact/",
 	},
 	hero: {
 		tag: "AI & Automation Services",
@@ -1811,7 +1811,7 @@ export const AIAutomationServicesContent = {
 		title: "Ready to Build Operations That Scale Without Scaling Your Headcount?",
 		description:
 			"The businesses that will operate most efficiently in the next five years are the ones building their automation infrastructure today. Every hour of human time redirected from mechanical work to genuinely creative, strategic, and relational work is a compounding competitive advantage.",
-		contactLink: "/contact-us/",
+		contactLink: "/contact/",
 		whatsappLink: "https://wa.me/",
 	},
 	footer: {
@@ -1840,7 +1840,7 @@ export const ContentMarketingServicesContent = {
 		],
 		wordCount: "~5,200 words",
 		internalLinks:
-			"/seo-services/, /social-media-marketing-services/, /video-marketing-services/, /email-marketing-services/, /contact-us/",
+			"/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/, /social-media-marketing-services/, /video-marketing-services/, /email-marketing-services/, /contact/",
 	},
 	hero: {
 		tag: "Content Marketing Services",
@@ -2272,7 +2272,7 @@ export const ContentMarketingServicesContent = {
 		title: "Ready to Build a Content Program That Compounds?",
 		description:
 			"Every month you delay content marketing is another month your competitors are building the search authority, the audience trust, and the organic traffic pipeline that makes their cost of customer acquisition lower than yours permanently. The businesses that started their content programs three years ago are not going to give back that advantage. But the businesses that start today will, three years from now, have the same compounding advantage over businesses that are still waiting. The best time to start was three years ago. The second-best time is today.",
-		contactLink: "/contact-us/",
+		contactLink: "/contact/",
 		whatsappLink: "https://wa.me/",
 	},
 	footer: {
@@ -2301,7 +2301,7 @@ export const WebDesignServicesContent = {
 		],
 		wordCount: "~5,100 words",
 		internalLinks:
-			"/website-development-services/, /content-marketing-services/, /seo-services/, /ai-automation-services/, /contact-us/",
+			"/website-development-services/, /content-marketing-services/, /search-engine-optimization/local-seo/locations/local-seo-services-atlanta/, /ai-automation-services/, /contact/",
 	},
 	hero: {
 		tag: "Web Design Services",
@@ -2718,7 +2718,7 @@ export const WebDesignServicesContent = {
 		title: "Ready for a Website That Wins Customers Before You Say a Word?",
 		description:
 			"Your website makes a judgment about your business in 50 milliseconds. For most competitors, that judgment is average. We design websites that communicate quality, expertise, and customer understanding before a word is read.",
-		contactLink: "/contact-us/",
+		contactLink: "/contact/",
 		whatsappLink: "https://wa.me/",
 	},
 	footer: {
@@ -3002,7 +3002,7 @@ export const PayPerClickManagementContent = {
     title: "Ready to Make Every Dollar of Your Ad Spend Work Harder?",
     description:
       "PPC advertising is the fastest-moving revenue channel available when it is managed correctly. The businesses investing in professional PPC management are consistently outcompeting those running DIY campaigns or working with agencies that manage dozens of accounts without the attention that each deserves. The waste in your current campaigns is findable. The efficiency improvement is achievable. And the revenue it unlocks compounds with every month of professional management.",
-    contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
+    contactLink: "https://clickmastersdigitalmarketing.com/contact/",
     whatsappLink: "https://wa.me/",
     googleAdsLink: "https://clickmastersdigitalmarketing.com/google-ads-management/",
   },
@@ -3090,9 +3090,9 @@ export const EcommerceServicesContent = {
     primaryKeyword: "ecommerce development services (9,900/mo)",
     secondaryKeywords: "shopify development agency, woocommerce development services, custom ecommerce development, ecommerce website development company 2026",
     wordCount: "~5,100 words",
-    internalLinks: ["/web-design-development/web-design", "/web-design-development/web-development", "/search-engine-optimization/ecommerce-seo", "/content-marketing/email-marketing", "/contact-us/"],
+    internalLinks: ["/web-design-development/web-design", "/web-design-development/web-development", "/search-engine-optimization/ecommerce-seo", "/content-marketing/email-marketing", "/contact/"],
     ctaButtons: [
-      { text: "[Get Your Free E-Commerce Consultation →]", url: "/contact-us/" },
+      { text: "[Get Your Free E-Commerce Consultation →]", url: "/contact/" },
       { text: "[Talk to an E-Commerce Developer →]", url: "WhatsApp" }
     ]
   },
@@ -3366,7 +3366,7 @@ export const EcommerceServicesContent = {
   cta: {
     title: "Ready to Build an E-Commerce Store That Actually Converts?",
     description: "Traffic is a solved problem for most e-commerce businesses. The unsolved problem the one that determines whether the business is profitable is conversion. And conversion is almost entirely a development problem.\n\nWe build the development foundation that converts your traffic into revenue. Platform selection, product page architecture, checkout optimization, mobile commerce, search and filtering, systems integration every technical decision made with conversion as the objective.",
-    contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
+    contactLink: "https://clickmastersdigitalmarketing.com/contact/",
     whatsappLink: "https://wa.me/",
     webDevelopmentLink: "https://clickmastersdigitalmarketing.com/website-development-services/",
   },

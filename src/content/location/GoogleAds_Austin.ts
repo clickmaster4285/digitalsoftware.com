@@ -105,7 +105,7 @@ Q: Austin vs SF/Dallas Google Ads CPCs? A: 15-25% below SF, 5-10% below Dallas. 
 Get Your Free Austin Google Ads Audit: Phone +1-888-555-CLICK
 Email: austin@clickmastersdigitalmarketing.com
 South Congress, The Domain, Round Rock, Cedar Park, and all of Greater Austin`,
-  internalLinks: ["/digital-marketing-agency-austin/","/seo-services-austin/","/google-ads-management-services/","/google-ads-management-dallas/","/industries/technology/","/industries/financial-services/"],
+  internalLinks: ["/locations/digital-marketing-agency-austin/","/search-engine-optimization/locations/seo-services-austin/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

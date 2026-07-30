@@ -114,7 +114,7 @@ Q: How long does Atlanta web design take? A: Business: 8-14 weeks. Fintech: 10-1
 Get Your Free Atlanta Website Audit: Phone +1-888-555-CLICK
 Email: atlanta@clickmastersdigitalmarketing.com
 Midtown, Buckhead, Sandy Springs, Alpharetta, and all of Metro Atlanta`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-atlanta/","/seo-services-atlanta/","/web-design-dallas/","/industries/fintech/","/tools/website-grader/"],
+  internalLinks: ["/locations/digital-marketing-agency-atlanta/","/search-engine-optimization/locations/seo-services-atlanta/","/web-design-development/web-design/locations/web-design-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

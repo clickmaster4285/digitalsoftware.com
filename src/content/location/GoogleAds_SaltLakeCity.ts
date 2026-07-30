@@ -94,7 +94,7 @@ Results: HIPAA/UCPA: Utah AG pre-audit passed | U of U CPL: \$120 vs \$320 gener
 
 Phone +1-888-555-CLICK | saltlakecity@clickmastersdigitalmarketing.com
 Lehi, Draper, South Jordan, Murray, and all of Greater Salt Lake City`,
-  internalLinks: ["/digital-marketing-agency-salt-lake-city/","/seo-services-salt-lake-city/","/google-ads-management-services/","/google-ads-management-denver/"],
+  internalLinks: ["/locations/digital-marketing-agency-salt-lake-city/","/search-engine-optimization/locations/seo-services-salt-lake-city/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

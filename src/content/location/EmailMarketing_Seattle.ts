@@ -108,7 +108,7 @@ Q: What is Pacific NW authentic-values email? A: B Corp score (not just logo), c
 Get Your Free Seattle Email Marketing Audit: Phone +1-888-555-CLICK
 Email: seattle@clickmastersdigitalmarketing.com
 South Lake Union, Bellevue, Redmond, Capitol Hill, and all of Greater Seattle`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-seattle/","/seo-services-seattle/","/email-marketing-san-francisco/","/integrations/hubspot-marketing/","/industries/technology/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-seattle/","/search-engine-optimization/locations/seo-services-seattle/","/content-marketing/email-marketing/locations/email-marketing-san-francisco/","/integrations/hubspot-marketing/"],
   
   publishingChecklist: {
     onPageSeo: {

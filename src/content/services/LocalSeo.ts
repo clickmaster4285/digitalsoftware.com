@@ -1,7 +1,7 @@
 export const LocalSeoContent = {
   slug: "local-seo-services",
   metadata: {
-    url: "https://clickmastersdigitalmarketing.com/local-seo-services/",
+    url: "https://clickmastersdigitalmarketing.com/content-marketing/locations/content-marketing-birmingham/",
     seoTitle: "Local SEO Services Dominate Your Geographic Market | Clickmasters",
     metaDescription: "Local SEO services that put you #1 in Google Maps and local search. GBP optimization, citations, review strategy & localized content for USA, UK & UAE.",
     schema: "Service + LocalBusiness + FAQPage + Organization + BreadcrumbList",
@@ -10,7 +10,7 @@ export const LocalSeoContent = {
     volume: "22,200/mo",
     secondaryKeywords: "local seo agency, local seo company, google maps seo, local search optimization 2026",
     wordCount: "~5,418 words",
-    internalLinks: "/search-engine-optimization/google-business-profile-optimization, /content-marketing/citation-building, /search-engine-optimization/on-page-seo, /contact-us/",
+    internalLinks: "/search-engine-optimization/google-business-profile-optimization, /content-marketing/citation-building, /search-engine-optimization/on-page-seo, /contact/",
   },
   hero: {
     tag: "Local SEO",
@@ -296,7 +296,7 @@ export const LocalSeoContent = {
   cta: {
     title: "Ready to Dominate Your Local Market in 2026?",
     description: "Every day you are not at the top of your local search results, you are losing customers to competitors who are. Local SEO is not a long shot when done correctly, it is the most reliable, measurable, and cost-effective customer acquisition channel available to any business that serves a geographic market. We know local. We know your market. And we have the results to prove what our local SEO system delivers.",
-    contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
+    contactLink: "https://clickmastersdigitalmarketing.com/contact/",
     whatsappLink: "https://wa.me/",
     softwareLink: "https://clickmastersdigitalmarketing.com/",
   },
@@ -378,12 +378,12 @@ export const LocalSeoContent = {
       {
         position: 2,
         name: "SEO Services",
-        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+        url: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/"
       },
       {
         position: 3,
         name: "Local SEO Services",
-        url: "https://clickmastersdigitalmarketing.com/local-seo-services/"
+        url: "https://clickmastersdigitalmarketing.com/content-marketing/locations/content-marketing-birmingham/"
       }
     ]
   }

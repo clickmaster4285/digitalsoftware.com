@@ -92,7 +92,7 @@ Results: HIPAA/CCPA: California AG pre-audit passed | Lapsed patient reactivatio
 
 Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
 Kearny Mesa, Torrey Pines, La Jolla, and all of San Diego County`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-san-diego/","/seo-services-san-diego/","/email-marketing-los-angeles/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-san-diego/","/search-engine-optimization/locations/seo-services-san-diego/","/content-marketing/email-marketing/locations/email-marketing-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {

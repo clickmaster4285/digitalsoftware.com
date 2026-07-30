@@ -94,7 +94,7 @@ Results (10 months): Page 1 for 10 Cleveland cardiology queries | YMYL: E-E-A-T 
 
 Phone +1-888-555-CLICK | cleveland@clickmastersdigitalmarketing.com
 Mayfield Heights, Beachwood, Westlake, and all of Greater Cleveland`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-cleveland/","/seo-services-cincinnati/","/seo-services-pittsburgh/"],
+  internalLinks: ["/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/locations/digital-marketing-agency-cleveland/","/search-engine-optimization/locations/seo-services-cincinnati/","/search-engine-optimization/locations/seo-services-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {

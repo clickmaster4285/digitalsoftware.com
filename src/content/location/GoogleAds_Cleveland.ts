@@ -94,7 +94,7 @@ Results: Progressive evaluation: entered | UBI CPL: \$220 | FINRA/SEC: clean | P
 
 Phone +1-888-555-CLICK | cleveland@clickmastersdigitalmarketing.com
 Mayfield Heights, Beachwood, Westlake, and all of Greater Cleveland`,
-  internalLinks: ["/digital-marketing-agency-cleveland/","/seo-services-cleveland/","/google-ads-management-services/","/google-ads-management-cincinnati/"],
+  internalLinks: ["/locations/digital-marketing-agency-cleveland/","/search-engine-optimization/locations/seo-services-cleveland/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-cincinnati/"],
   
   publishingChecklist: {
     onPageSeo: {

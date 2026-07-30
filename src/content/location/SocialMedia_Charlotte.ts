@@ -96,7 +96,7 @@ Results (6 months): Instagram engagement: 1.6% to 5.4% | South End arts communit
 
 Phone +1-888-555-CLICK | charlotte@clickmastersdigitalmarketing.com
 Uptown Charlotte, Concord, South End, NoDa, and all of Greater Charlotte`,
-  internalLinks: ["/social-media-management-services/","/digital-marketing-agency-charlotte/","/seo-services-charlotte/","/social-media-marketing-atlanta/"],
+  internalLinks: ["/social-media-management-services/","/locations/digital-marketing-agency-charlotte/","/search-engine-optimization/locations/seo-services-charlotte/","/social-media-marketing/locations/social-media-marketing-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

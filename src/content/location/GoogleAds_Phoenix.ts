@@ -94,7 +94,7 @@ Results: HIPAA: clean | Mayo community CPL: \$120 vs \$380 generic Phoenix | New
 
 Phone +1-888-555-CLICK | phoenix@clickmastersdigitalmarketing.com
 Chandler, Scottsdale, Tempe, Mesa, and all of Greater Phoenix`,
-  internalLinks: ["/digital-marketing-agency-phoenix/","/seo-services-phoenix/","/google-ads-management-services/","/google-ads-management-las-vegas/"],
+  internalLinks: ["/locations/digital-marketing-agency-phoenix/","/search-engine-optimization/locations/seo-services-phoenix/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-las-vegas/"],
   
   publishingChecklist: {
     onPageSeo: {

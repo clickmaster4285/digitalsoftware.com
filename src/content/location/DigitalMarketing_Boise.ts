@@ -109,7 +109,7 @@ Results (11 months): CA in-migration organic: +3x | New CA-to-ID AUM: \$14M | FI
 
 Phone +1-888-555-CLICK | boise@clickmastersdigitalmarketing.com
 Meridian, Eagle, Nampa, Hyde Park, and all of Greater Boise`,
-  internalLinks: ["/seo-services-boise/","/digital-marketing-agency-usa/","/digital-marketing-agency-salt-lake-city/","/digital-marketing-agency-portland/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-boise/","/locations/digital-marketing-agency-salt-lake-city/","/locations/digital-marketing-agency-portland/"],
   
   publishingChecklist: {
     onPageSeo: {

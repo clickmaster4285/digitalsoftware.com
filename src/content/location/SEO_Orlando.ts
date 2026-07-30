@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 9 Orlando life science queries | UCF COM: commun
 
 Phone +1-888-555-CLICK | orlando@clickmastersdigitalmarketing.com
 Lake Nona, Winter Park, Kissimmee, and all of Greater Orlando`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-orlando/","/seo-services-tampa/","/seo-services-miami/"],
+  internalLinks: ["/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/locations/digital-marketing-agency-orlando/","/search-engine-optimization/locations/seo-services-tampa/","/search-engine-optimization/locations/seo-services-miami/"],
   
   publishingChecklist: {
     onPageSeo: {

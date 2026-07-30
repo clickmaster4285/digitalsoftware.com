@@ -105,7 +105,7 @@ Q: LA vs SF Google Ads CPCs? A: Silicon Beach 10-15% below SF. Entertainment B2B
 Get Your Free LA Google Ads Audit: Phone +1-888-555-CLICK
 Email: losangeles@clickmastersdigitalmarketing.com
 Culver City, Santa Monica, Hollywood, Playa Vista, and all of Greater Los Angeles`,
-  internalLinks: ["/digital-marketing-agency-los-angeles/","/seo-services-los-angeles/","/google-ads-management-services/","/google-ads-management-san-francisco/","/industries/entertainment/","/industries/technology/"],
+  internalLinks: ["/locations/digital-marketing-agency-los-angeles/","/search-engine-optimization/locations/seo-services-los-angeles/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-san-francisco/","/industries/entertainment/"],
   
   publishingChecklist: {
     onPageSeo: {

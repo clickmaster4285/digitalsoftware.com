@@ -92,7 +92,7 @@ Results (11 months): Page 1 for 12 NYC luxury lifestyle queries | NYT/Vogue edit
 
 Phone +1-888-555-CLICK | newyork@clickmastersdigitalmarketing.com
 Midtown, Wall Street, SoHo, Upper East Side, and all of Greater New York`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-new-york/","/seo-services-new-york/","/content-marketing-boston/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-new-york/","/search-engine-optimization/locations/seo-services-new-york/","/content-marketing/locations/content-marketing-boston/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -107,7 +107,7 @@ Results (10 months): Total digital DTC revenue: +\$680K | NYC media editorial fe
 
 Phone +1-888-555-CLICK | newyork@clickmastersdigitalmarketing.com
 Midtown, Wall Street, SoHo, Upper East Side, Brooklyn, and all of Greater New York`,
-  internalLinks: ["/seo-services-new-york/","/web-design-new-york/","/digital-marketing-agency-usa/","/digital-marketing-agency-boston/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-new-york/","/web-design-development/web-design/locations/web-design-new-york/","/locations/digital-marketing-agency-boston/"],
   
   publishingChecklist: {
     onPageSeo: {

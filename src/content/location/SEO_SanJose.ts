@@ -110,7 +110,7 @@ Q: How long does Silicon Valley SEO take? A: Highly competitive categories: mean
 [Get Your Free Silicon Valley SEO Audit →]
  +1-888-555-CLICK |  sanjose@clickmastersdigitalmarketing.com
  San Jose, Santa Clara, Sunnyvale, Mountain View, Palo Alto, Menlo Park, and all of Silicon Valley`,
-  internalLinks: ["/digital-marketing-agency-san-jose/","/seo-services/","/seo-services-seattle/","/seo-services-austin/","/industries/saas/","/industries/technology/"],
+  internalLinks: ["/digital-marketing-agency-san-jose/","/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/search-engine-optimization/locations/seo-services-seattle/","/search-engine-optimization/locations/seo-services-austin/"],
   
   publishingChecklist: {
     onPageSeo: {

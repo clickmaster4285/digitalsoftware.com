@@ -105,7 +105,7 @@ Q: How long does San Antonio Local SEO take? A: Bilingual healthcare: 2-4 months
 Get Your Free San Antonio Local SEO Audit: Phone +1-888-555-CLICK
 Email: sanantonio@clickmastersdigitalmarketing.com
 Northwest San Antonio, Stone Oak, Medical Center, and all of Greater San Antonio`,
-  internalLinks: ["/local-seo-services/","/seo-services-san-antonio/","/digital-marketing-agency-san-antonio/","/local-seo-services-houston/","/tools/local-seo-audit/","/industries/healthcare/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-san-antonio/","/locations/digital-marketing-agency-san-antonio/","/search-engine-optimization/local-seo/locations/local-seo-services-houston/","/search-engine-optimization/local-seo/locations/local-seo-services-tulsa/","/content-marketing/locations/content-marketing-des-moines/"],
   
   publishingChecklist: {
     onPageSeo: {

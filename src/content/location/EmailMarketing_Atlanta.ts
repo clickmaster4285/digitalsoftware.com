@@ -108,7 +108,7 @@ Q: How long does Atlanta Fortune 500 email produce pipeline results? A: First re
 Get Your Free Atlanta Email Marketing Audit: Phone +1-888-555-CLICK
 Email: atlanta@clickmastersdigitalmarketing.com
 Midtown, Buckhead, Sandy Springs, Alpharetta, and all of Metro Atlanta`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-atlanta/","/seo-services-atlanta/","/email-marketing-dallas/","/integrations/hubspot-marketing/","/industries/fintech/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-atlanta/","/search-engine-optimization/locations/seo-services-atlanta/","/content-marketing/email-marketing/locations/email-marketing-dallas/","/integrations/hubspot-marketing/"],
   
   publishingChecklist: {
     onPageSeo: {

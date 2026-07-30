@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | St. Luke's: cited | HIPAA: clean | New patients: +3x | 
 
 Phone +1-888-555-CLICK | boise@clickmastersdigitalmarketing.com
 Meridian, Eagle, Nampa, Hyde Park, and all of Greater Boise`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-boise/","/seo-services-boise/","/web-design-salt-lake-city/"],
+  internalLinks: ["/locations/digital-marketing-agency-boise/","/search-engine-optimization/locations/seo-services-boise/","/web-design-development/web-design/locations/web-design-salt-lake-city/"],
   
   publishingChecklist: {
     onPageSeo: {

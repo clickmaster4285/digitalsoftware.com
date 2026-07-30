@@ -92,7 +92,7 @@ Results: Mayo Clinic AZ re-engagement: 42% | Banner Health re-engagement: 38% | 
 
 Phone +1-888-555-CLICK | phoenix@clickmastersdigitalmarketing.com
 Chandler, Scottsdale, Tempe, Mesa, and all of Greater Phoenix`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-phoenix/","/seo-services-phoenix/","/email-marketing-las-vegas/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-phoenix/","/search-engine-optimization/locations/seo-services-phoenix/","/content-marketing/email-marketing/locations/email-marketing-las-vegas/"],
   
   publishingChecklist: {
     onPageSeo: {

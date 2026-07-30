@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 11 Jacksonville military financial planning quer
 
 Phone +1-888-555-CLICK | jacksonville@clickmastersdigitalmarketing.com
 Ponte Vedra Beach, Orange Park, St. Johns, and all of Greater Jacksonville`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-jacksonville/","/seo-services-orlando/","/seo-services-miami/"],
+  internalLinks: ["/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/locations/digital-marketing-agency-jacksonville/","/search-engine-optimization/locations/seo-services-orlando/","/search-engine-optimization/locations/seo-services-miami/"],
   
   publishingChecklist: {
     onPageSeo: {

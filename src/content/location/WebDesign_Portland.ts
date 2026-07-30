@@ -111,7 +111,7 @@ Q: Intel Hillsboro B2B web design standard? A: SEMI standards display, cleanroom
 Get Your Free Portland Website Audit: Phone +1-888-555-CLICK
 Email: portland@clickmastersdigitalmarketing.com
 Pearl District, Beaverton, Hillsboro, Lake Oswego, and all of Greater Portland`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-portland/","/seo-services-portland/","/web-design-seattle/","/industries/outdoor-apparel/","/tools/website-grader/"],
+  internalLinks: ["/locations/digital-marketing-agency-portland/","/search-engine-optimization/locations/seo-services-portland/","/web-design-development/web-design/locations/web-design-seattle/"],
   
   publishingChecklist: {
     onPageSeo: {

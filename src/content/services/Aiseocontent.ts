@@ -18,11 +18,11 @@ export const AiSeoContent = {
     author: "Amjad Khan",
     wordCount: "~5,426 words",
     internalLinks: [
-      "/seo-services/",
+      "/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/",
       "/on-page-seo-services/",
       "/content-marketing-services/",
       "/technical-seo-services/",
-      "/contact-us/",
+      "/contact/",
     ],
   },
   hero: {
@@ -338,9 +338,9 @@ export const AiSeoContent = {
     title: "Ready to Lead the AI Search Era?",
     description:
       "Your competitors are ranking in traditional search right now. But the businesses that will dominate their categories in 2028 are being determined right now — by who builds AI search citation authority first. The window is open. The category leaders in AI search have not been determined yet in most industries. And the investment required to establish AI citation authority today is a fraction of what it will cost when every competitor is chasing the same citations in two years.",
-    optimizeLink: "https://clickmastersdigitalmarketing.com/contact-us/",
+    optimizeLink: "https://clickmastersdigitalmarketing.com/contact/",
     whatsappLink: "https://wa.me/",
-    seoLink: "https://clickmastersdigitalmarketing.com/seo-services/",
+    seoLink: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",
@@ -397,7 +397,7 @@ export const AiSeoContent = {
       {
         position: 2,
         name: "SEO Services",
-        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+        url: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/"
       },
       {
         position: 3,

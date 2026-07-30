@@ -373,7 +373,7 @@ faqTitle: `FAQs — Digital Marketing Houston`,
   ctaBody: `Clickmasters Digital Marketing Agency combines local expertise with proven strategies to help Houston businesses generate real, measurable growth. As a trusted digital marketing agency Houston Texas companies turn to, we're ready to build a custom strategy for you.
 Contact us today to schedule your free consultation and see how we can grow your business.
 `,
-  internalLinks: ["/seo-services-houston/","/google-ads-management-houston/","/digital-marketing-agency-usa/","/digital-marketing-agency-dallas/","/industries/oil-gas/","/industries/healthcare/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-houston/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-houston/","/locations/digital-marketing-agency-dallas/","/content-marketing/locations/content-marketing-des-moines/"],
   
   publishingChecklist: {
     onPageSeo: {

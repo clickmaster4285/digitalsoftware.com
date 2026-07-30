@@ -116,7 +116,7 @@ Q: How quickly does Miami bilingual digital marketing produce results? A: Spanis
 Get Your Free Miami Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: miami@clickmastersdigitalmarketing.com
 Brickell, Coral Gables, Doral, Wynwood, and all of South Florida`,
-  internalLinks: ["/seo-services-miami/","/local-seo-services-miami/","/digital-marketing-agency-usa/","/digital-marketing-agency-houston/","/industries/financial-services/","/industries/healthcare/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-miami/","/search-engine-optimization/local-seo/locations/local-seo-services-miami/","/locations/digital-marketing-agency-houston/","/content-marketing/locations/content-marketing-des-moines/"],
   
   publishingChecklist: {
     onPageSeo: {

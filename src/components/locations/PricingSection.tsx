@@ -111,7 +111,7 @@ export const PricingSection = ({ pricingList, pricingText }: PricingSectionProps
                 )}
                 
                 <motion.a
-                  href="#cta"
+                  href="/contact"
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
                   className={`mt-6 inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-medium transition-colors ${
@@ -160,7 +160,7 @@ export const PricingSection = ({ pricingList, pricingText }: PricingSectionProps
                   </p>
                   
                   <motion.a
-                    href="#cta"
+                    href="/contact"
                     whileHover={{ scale: 1.02 }}
                     whileTap={{ scale: 0.98 }}
                     className="mt-6 inline-flex items-center gap-2 px-6 py-3 rounded-full text-sm font-medium transition-colors bg-gray-900 text-white hover:bg-[#FF2E86]"

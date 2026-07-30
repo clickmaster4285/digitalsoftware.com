@@ -109,7 +109,7 @@ Results (11 months): Page 1 for 10 St. Louis health IT queries | Centene evaluat
 
 Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
 Clayton, Creve Coeur, Chesterfield, Hazelwood, and all of Greater St. Louis`,
-  internalLinks: ["/seo-services-st-louis/","/digital-marketing-agency-usa/","/digital-marketing-agency-chicago/","/digital-marketing-agency-indianapolis/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-st-louis/","/locations/digital-marketing-agency-chicago/","/locations/digital-marketing-agency-indianapolis/"],
   
   publishingChecklist: {
     onPageSeo: {

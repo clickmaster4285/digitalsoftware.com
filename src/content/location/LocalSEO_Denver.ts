@@ -93,7 +93,7 @@ Results (4 months): Top 3 Local Pack Denver clean energy advisory | NREL communi
 5. Aerospace proximity signals — Lockheed/Ball near-me opportunity
 
 Phone +1-888-555-CLICK | denver@clickmastersdigitalmarketing.com | Cherry Creek, Englewood, Golden, Boulder, and all of Colorado`,
-  internalLinks: ["/local-seo-services/","/seo-services-denver/","/digital-marketing-agency-denver/","/local-seo-services-dallas/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-denver/","/locations/digital-marketing-agency-denver/","/search-engine-optimization/local-seo/locations/local-seo-services-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

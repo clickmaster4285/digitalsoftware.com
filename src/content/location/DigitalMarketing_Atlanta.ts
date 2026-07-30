@@ -187,7 +187,7 @@ Schedule a free consultation today to discuss your goals and get a custom digita
 
 
 
-internalLinks: ["/seo-services-atlanta/","/web-design-atlanta/","/digital-marketing-agency-usa/","/digital-marketing-agency-dallas/"],
+internalLinks: ["/search-engine-optimization/locations/seo-services-atlanta/","/web-design-development/web-design/locations/web-design-atlanta/","/locations/digital-marketing-agency-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

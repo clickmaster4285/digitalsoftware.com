@@ -105,7 +105,7 @@ Q: How long does LA Local SEO take? A: Consumer/hospitality: 2-4 months. Healthc
 Get Your Free LA Local SEO Audit: Phone +1-888-555-CLICK
 Email: losangeles@clickmastersdigitalmarketing.com
 Silver Lake, Culver City, Santa Monica, Hollywood, and all of Greater Los Angeles`,
-  internalLinks: ["/local-seo-services/","/seo-services-los-angeles/","/digital-marketing-agency-los-angeles/","/local-seo-services-san-francisco/","/tools/local-seo-audit/","/industries/healthcare/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-los-angeles/","/locations/digital-marketing-agency-los-angeles/","/search-engine-optimization/local-seo/locations/local-seo-services-san-francisco/","/search-engine-optimization/local-seo/locations/local-seo-services-tulsa/","/content-marketing/locations/content-marketing-des-moines/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -94,7 +94,7 @@ Results: UA brand CPL: \$220 | Under Armour VP: from paid | Sports brand pipelin
 
 Phone +1-888-555-CLICK | baltimore@clickmastersdigitalmarketing.com
 Towson, Columbia, Fells Point, Hampden, and all of Greater Baltimore`,
-  internalLinks: ["/digital-marketing-agency-baltimore/","/seo-services-baltimore/","/google-ads-management-services/","/google-ads-management-pittsburgh/"],
+  internalLinks: ["/locations/digital-marketing-agency-baltimore/","/search-engine-optimization/locations/seo-services-baltimore/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {

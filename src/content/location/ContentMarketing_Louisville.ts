@@ -92,7 +92,7 @@ Results (10 months): Derby season: 4.4x above average | Bourbon trail content: 3
 
 Phone +1-888-555-CLICK | louisville@clickmastersdigitalmarketing.com
 Highlands, NuLu, St. Matthews, Jeffersontown, and all of Greater Louisville`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-louisville/","/seo-services-louisville/","/content-marketing-nashville/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-louisville/","/search-engine-optimization/locations/seo-services-louisville/","/content-marketing/locations/content-marketing-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

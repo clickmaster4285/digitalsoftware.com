@@ -109,7 +109,7 @@ Results (11 months): In-migration organic leads: +3x | Google Ads CPL: below Tri
 
 Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
 Durham, Chapel Hill, Cary, and all of the Research Triangle`,
-  internalLinks: ["/seo-services-raleigh/","/digital-marketing-agency-usa/","/digital-marketing-agency-charlotte/","/digital-marketing-agency-atlanta/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-raleigh/","/locations/digital-marketing-agency-charlotte/","/locations/digital-marketing-agency-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

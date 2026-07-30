@@ -92,7 +92,7 @@ Results: Military onboarding engagement: 3.6x above generic | Conversion within 
 
 Phone +1-888-555-CLICK | oklahomacity@clickmastersdigitalmarketing.com
 Edmond, Norman, Midwest City, and all of Greater OKC`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-oklahoma-city/","/seo-services-oklahoma-city/","/email-marketing-dallas/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-oklahoma-city/","/search-engine-optimization/locations/seo-services-oklahoma-city/","/content-marketing/email-marketing/locations/email-marketing-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

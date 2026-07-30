@@ -428,9 +428,9 @@ export const SeoAuditContent = {
     title: "Ready to Know Exactly What's Holding Your Rankings Back?",
     description:
       "The most expensive SEO problem is the one you do not know about. A canonical tag misconfiguration costing you 50,000 indexed pages is fixable in an afternoon — once you know it exists. A content quality gap costing you first-page ranking for a 40,000-search-per-month keyword is addressable in 90 days — once you know exactly what the gap is. The Clickmasters SEO audit finds these issues. Then it tells you exactly how to fix them.",
-    contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
+    contactLink: "https://clickmastersdigitalmarketing.com/contact/",
     whatsappLink: "https://wa.me/",
-    softwareLink: "https://clickmastersdigitalmarketing.com/seo-services/",
+    softwareLink: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",
@@ -486,7 +486,7 @@ export const SeoAuditContent = {
       {
         position: 2,
         name: "SEO Services",
-        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+        url: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/"
       },
       {
         position: 3,

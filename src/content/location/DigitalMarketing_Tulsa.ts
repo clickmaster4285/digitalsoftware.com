@@ -109,7 +109,7 @@ Results (11 months): Page 1 for 9 Tulsa health IT queries | Saint Francis: evalu
 
 Phone +1-888-555-CLICK | tulsa@clickmastersdigitalmarketing.com
 Broken Arrow, Owasso, Bixby, Blue Dome, and all of Greater Tulsa`,
-  internalLinks: ["/seo-services-tulsa/","/digital-marketing-agency-usa/","/digital-marketing-agency-oklahoma-city/","/digital-marketing-agency-dallas/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-tulsa/","/locations/digital-marketing-agency-oklahoma-city/","/locations/digital-marketing-agency-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

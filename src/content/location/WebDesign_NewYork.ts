@@ -94,7 +94,7 @@ Results: Shopify conversion: 1.1% to 3.8% | LCP: 4.8s to 1.2s | NYC media editor
 
 Phone +1-888-555-CLICK | newyork@clickmastersdigitalmarketing.com
 Midtown, Wall Street, SoHo, Upper East Side, Brooklyn, and all of Greater New York`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-new-york/","/seo-services-new-york/","/web-design-boston/"],
+  internalLinks: ["/locations/digital-marketing-agency-new-york/","/search-engine-optimization/locations/seo-services-new-york/","/web-design-development/web-design/locations/web-design-boston/"],
   
   publishingChecklist: {
     onPageSeo: {

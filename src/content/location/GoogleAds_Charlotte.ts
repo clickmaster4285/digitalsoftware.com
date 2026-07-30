@@ -94,7 +94,7 @@ Results: HIPAA: clean | Atrium community CPL: \$140 vs \$380 generic Charlotte |
 
 Phone +1-888-555-CLICK | charlotte@clickmastersdigitalmarketing.com
 Uptown Charlotte, Concord, Huntersville, and all of Greater Charlotte`,
-  internalLinks: ["/digital-marketing-agency-charlotte/","/seo-services-charlotte/","/google-ads-management-services/","/google-ads-management-atlanta/"],
+  internalLinks: ["/locations/digital-marketing-agency-charlotte/","/search-engine-optimization/locations/seo-services-charlotte/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

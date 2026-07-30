@@ -92,7 +92,7 @@ Results: Lilly/IU Health professional engagement: 3.2x above generic | FINRA: cl
 
 Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
 Carmel, Fishers, Zionsville, and all of Greater Indianapolis`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-indianapolis/","/seo-services-indianapolis/","/email-marketing-chicago/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-indianapolis/","/search-engine-optimization/locations/seo-services-indianapolis/","/content-marketing/email-marketing/locations/email-marketing-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

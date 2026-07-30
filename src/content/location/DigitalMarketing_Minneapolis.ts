@@ -107,7 +107,7 @@ Results (10 months): FINRA findings: 0 all channels | Scandinavian-calibrated co
 
 Phone +1-888-555-CLICK | minneapolis@clickmastersdigitalmarketing.com
 Eden Prairie, Plymouth, Edina, St. Paul, and all of Twin Cities metro`,
-  internalLinks: ["/seo-services-minneapolis/","/web-design-minneapolis/","/digital-marketing-agency-usa/","/digital-marketing-agency-chicago/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-minneapolis/","/web-design-development/web-design/locations/web-design-minneapolis/","/locations/digital-marketing-agency-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

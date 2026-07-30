@@ -92,7 +92,7 @@ Results (10 months): Page 1 for 11 Tampa in-migration estate planning queries | 
 
 Phone +1-888-555-CLICK | tampa@clickmastersdigitalmarketing.com
 South Tampa, Ybor City, St. Pete, Clearwater, and all of Tampa Bay`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-tampa/","/seo-services-tampa/","/content-marketing-miami/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-tampa/","/search-engine-optimization/locations/seo-services-tampa/","/content-marketing/locations/content-marketing-miami/"],
   
   publishingChecklist: {
     onPageSeo: {
