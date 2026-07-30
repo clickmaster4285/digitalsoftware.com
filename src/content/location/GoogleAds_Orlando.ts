@@ -94,7 +94,7 @@ Results: HIPAA/SB 262: Florida AG pre-audit passed | AdventHealth CPL: \$120 vs 
 
 Phone +1-888-555-CLICK | orlando@clickmastersdigitalmarketing.com
 Lake Nona, Winter Park, Kissimmee, and all of Greater Orlando`,
-  internalLinks: ["/digital-marketing-agency-orlando/","/seo-services-orlando/","/google-ads-management-services/","/google-ads-management-tampa/"],
+  internalLinks: ["/locations/digital-marketing-agency-orlando/","/search-engine-optimization/locations/seo-services-orlando/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-tampa/"],
   
   publishingChecklist: {
     onPageSeo: {

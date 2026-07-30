@@ -109,7 +109,7 @@ Results (11 months): Page 1 for 9 Knoxville health IT queries | UT Medical: eval
 
 Phone +1-888-555-CLICK | knoxville@clickmastersdigitalmarketing.com
 Farragut, Oak Ridge, Maryville, Market Square, and all of Greater Knoxville`,
-  internalLinks: ["/seo-services-knoxville/","/digital-marketing-agency-usa/","/digital-marketing-agency-nashville/","/digital-marketing-agency-chattanooga/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-knoxville/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-nashville/","/digital-marketing-agency-chattanooga/"],
   
   publishingChecklist: {
     onPageSeo: {

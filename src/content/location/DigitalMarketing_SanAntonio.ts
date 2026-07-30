@@ -114,7 +114,7 @@ Q: How quickly does San Antonio digital marketing produce results? A: SEO page 1
 Get Your Free San Antonio Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: sanantonio@clickmastersdigitalmarketing.com
 Stone Oak, Westside, JBSA community, New Braunfels, and all of Greater San Antonio`,
-  internalLinks: ["/seo-services-san-antonio/","/google-ads-management-san-antonio/","/digital-marketing-agency-usa/","/digital-marketing-agency-austin/","/industries/healthcare/","/local-seo-services-san-antonio/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-san-antonio/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-san-antonio/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-austin/","/industries/healthcare/","/search-engine-optimization/local-seo/locations/local-seo-services-san-antonio/"],
   
   publishingChecklist: {
     onPageSeo: {

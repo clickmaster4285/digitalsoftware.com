@@ -2,6 +2,7 @@ import XLSX from 'xlsx';
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
+import { resolveInternalLink } from '../src/lib/urlMappings';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -424,7 +425,7 @@ export const ${varName} = {\n`;
     let link = s.trim();
     if (!link.startsWith('/')) link = '/' + link;
     if (!link.endsWith('/')) link = link + '/';
-    return link;
+    return resolveInternalLink(link);
   });
   content += `  internalLinks: ${formatValue(linksArray)},\n`;
   content += `  \n`;

@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 9 Birmingham insurance queries | Blue Cross: eva
 
 Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
 Hoover, Vestavia Hills, Mountain Brook, Five Points South, and all of Greater Birmingham`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-birmingham/","/seo-services-huntsville/","/seo-services-nashville/"],
+  internalLinks: ["/seo-services/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-huntsville/","/search-engine-optimization/locations/seo-services-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

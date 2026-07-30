@@ -92,7 +92,7 @@ Results: Military onboarding engagement: 3.6x above generic | Conversion within 
 
 Phone +1-888-555-CLICK | albuquerque@clickmastersdigitalmarketing.com
 Nob Hill, Rio Rancho, Corrales, Northeast Heights, and all of Greater Albuquerque`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-albuquerque/","/seo-services-albuquerque/","/email-marketing-denver/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-albuquerque/","/search-engine-optimization/locations/seo-services-albuquerque/","/content-marketing/email-marketing/locations/email-marketing-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

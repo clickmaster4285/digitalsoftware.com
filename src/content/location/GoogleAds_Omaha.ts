@@ -94,7 +94,7 @@ Results: HIPAA/NDPA: Nebraska AG pre-audit passed | Nebraska Medicine CPL: \$120
 
 Phone +1-888-555-CLICK | omaha@clickmastersdigitalmarketing.com
 Bellevue, Papillion, Elkhorn, and all of Greater Omaha`,
-  internalLinks: ["/digital-marketing-agency-omaha/","/seo-services-omaha/","/google-ads-management-services/","/google-ads-management-kansas-city/"],
+  internalLinks: ["/locations/digital-marketing-agency-omaha/","/search-engine-optimization/locations/seo-services-omaha/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

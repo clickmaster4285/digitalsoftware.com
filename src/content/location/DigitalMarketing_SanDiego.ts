@@ -107,7 +107,7 @@ Results (10 months): CCPA-accurate measurement established | Page 1 for 11 La Jo
 
 Phone +1-888-555-CLICK | sandiego@clickmastersdigitalmarketing.com
 Point Loma, Torrey Pines, La Jolla, Kearny Mesa, and all of San Diego County`,
-  internalLinks: ["/seo-services-san-diego/","/digital-marketing-agency-usa/","/digital-marketing-agency-los-angeles/","/digital-marketing-agency-san-francisco/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-san-diego/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-los-angeles/","/locations/digital-marketing-agency-san-francisco/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -109,7 +109,7 @@ Results (11 months): Page 1 for 9 Omaha health IT queries | Nebraska Medicine: e
 
 Phone +1-888-555-CLICK | omaha@clickmastersdigitalmarketing.com
 Bellevue, Papillion, Elkhorn, Old Market, and all of Greater Omaha`,
-  internalLinks: ["/seo-services-omaha/","/digital-marketing-agency-usa/","/digital-marketing-agency-kansas-city/","/digital-marketing-agency-des-moines/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-omaha/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-kansas-city/","/locations/digital-marketing-agency-des-moines/"],
   
   publishingChecklist: {
     onPageSeo: {

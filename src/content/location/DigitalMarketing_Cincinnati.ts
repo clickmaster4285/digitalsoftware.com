@@ -109,7 +109,7 @@ Results (11 months): Page 1 for 10 Cincinnati paediatric health IT queries | CC 
 
 Phone +1-888-555-CLICK | cincinnati@clickmastersdigitalmarketing.com
 Blue Ash, Mason, West Chester, Hyde Park, and all of Greater Cincinnati`,
-  internalLinks: ["/seo-services-cincinnati/","/digital-marketing-agency-usa/","/digital-marketing-agency-cleveland/","/digital-marketing-agency-indianapolis/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-cincinnati/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-cleveland/","/locations/digital-marketing-agency-indianapolis/"],
   
   publishingChecklist: {
     onPageSeo: {

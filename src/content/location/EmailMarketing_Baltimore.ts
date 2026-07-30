@@ -92,7 +92,7 @@ Results: UA Q4 holiday planning email: 3.6x above average engagement | Brand tea
 
 Phone +1-888-555-CLICK | baltimore@clickmastersdigitalmarketing.com
 Towson, Columbia, Fells Point, Hampden, and all of Greater Baltimore`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-baltimore/","/seo-services-baltimore/","/email-marketing-pittsburgh/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-baltimore/","/search-engine-optimization/locations/seo-services-baltimore/","/content-marketing/email-marketing/locations/email-marketing-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {

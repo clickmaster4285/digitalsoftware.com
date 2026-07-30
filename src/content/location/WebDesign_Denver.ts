@@ -111,7 +111,7 @@ Q: What is the CA in-migration professional quality standard for Denver? A: Bay 
 Get Your Free Denver Website Audit: Phone +1-888-555-CLICK
 Email: denver@clickmastersdigitalmarketing.com
 Englewood, Cherry Creek, Boulder, Colorado Springs, and all of Colorado`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-denver/","/seo-services-denver/","/web-design-seattle/","/industries/manufacturing/","/tools/website-grader/"],
+  internalLinks: ["/web-design-services/","/locations/digital-marketing-agency-denver/","/search-engine-optimization/locations/seo-services-denver/","/web-design-development/web-design/locations/web-design-seattle/","/industries/manufacturing/","/tools/website-grader/"],
   
   publishingChecklist: {
     onPageSeo: {

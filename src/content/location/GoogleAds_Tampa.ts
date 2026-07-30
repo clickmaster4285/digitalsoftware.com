@@ -94,7 +94,7 @@ Results: HIPAA/SB 262: Florida AG pre-audit passed | Accurate conversion trackin
 
 Phone +1-888-555-CLICK | tampa@clickmastersdigitalmarketing.com
 South Tampa, WestShore, St. Pete, Clearwater, and all of Tampa Bay`,
-  internalLinks: ["/digital-marketing-agency-tampa/","/seo-services-tampa/","/google-ads-management-services/","/google-ads-management-miami/"],
+  internalLinks: ["/locations/digital-marketing-agency-tampa/","/search-engine-optimization/locations/seo-services-tampa/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-miami/"],
   
   publishingChecklist: {
     onPageSeo: {

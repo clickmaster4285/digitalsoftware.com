@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Cincinnati brand analytics | P&G near-me co
 
 Phone +1-888-555-CLICK | cincinnati@clickmastersdigitalmarketing.com
 Blue Ash, Mason, West Chester, Hyde Park, and all of Greater Cincinnati`,
-  internalLinks: ["/local-seo-services/","/seo-services-cincinnati/","/digital-marketing-agency-cincinnati/","/local-seo-services-cleveland/"],
+  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-cincinnati/","/locations/digital-marketing-agency-cincinnati/","/search-engine-optimization/local-seo/locations/local-seo-services-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {

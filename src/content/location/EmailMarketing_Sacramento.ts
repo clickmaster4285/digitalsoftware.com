@@ -92,7 +92,7 @@ Results: UC Davis re-engagement: 42% | Sutter Health: 38% | HIPAA/CCPA: Californ
 
 Phone +1-888-555-CLICK | sacramento@clickmastersdigitalmarketing.com
 Midtown, Land Park, Oak Park, Folsom, and all of Greater Sacramento`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-sacramento/","/seo-services-sacramento/","/email-marketing-san-diego/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-sacramento/","/search-engine-optimization/locations/seo-services-sacramento/","/content-marketing/email-marketing/locations/email-marketing-san-diego/"],
   
   publishingChecklist: {
     onPageSeo: {

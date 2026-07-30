@@ -91,7 +91,7 @@ Results (9 months): Page 1 for 11 Pacific NW authentic brand queries | B Corp co
 5. AWS/Microsoft vocabulary — does your content reach Seattle's tech ecosystem procurement?
 
 Phone +1-888-555-CLICK | seattle@clickmastersdigitalmarketing.com | South Lake Union, Bellevue, Capitol Hill, and all of Greater Seattle`,
-  internalLinks: ["/content-marketing-services/","/digital-marketing-agency-seattle/","/seo-services-seattle/","/content-marketing-san-francisco/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-seattle/","/search-engine-optimization/locations/seo-services-seattle/","/content-marketing/locations/content-marketing-san-francisco/"],
   
   publishingChecklist: {
     onPageSeo: {

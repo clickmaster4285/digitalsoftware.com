@@ -92,7 +92,7 @@ Results: Red Hat Durham community: website cited as quality signal | Demo conver
 
 Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
 Durham, Chapel Hill, Cary, and all of the Research Triangle`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-raleigh/","/seo-services-raleigh/","/web-design-charlotte/"],
+  internalLinks: ["/web-design-services/","/locations/digital-marketing-agency-raleigh/","/search-engine-optimization/locations/seo-services-raleigh/","/web-design-development/web-design/locations/web-design-charlotte/"],
   
   publishingChecklist: {
     onPageSeo: {

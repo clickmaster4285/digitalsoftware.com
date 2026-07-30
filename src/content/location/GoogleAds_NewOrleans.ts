@@ -94,7 +94,7 @@ Results: Convention hospitality CPL: \$180 vs \$1,800 generic | Convention autho
 
 Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
 Metairie, Garden District, Uptown, and all of Greater New Orleans`,
-  internalLinks: ["/digital-marketing-agency-new-orleans/","/seo-services-new-orleans/","/google-ads-management-services/","/google-ads-management-houston/"],
+  internalLinks: ["/locations/digital-marketing-agency-new-orleans/","/search-engine-optimization/locations/seo-services-new-orleans/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-houston/"],
   
   publishingChecklist: {
     onPageSeo: {

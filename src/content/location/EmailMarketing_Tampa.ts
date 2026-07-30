@@ -92,7 +92,7 @@ Results: In-migration engagement: 3.6x above generic newsletter | Florida estate
 
 Phone +1-888-555-CLICK | tampa@clickmastersdigitalmarketing.com
 South Tampa, WestShore, St. Pete, Clearwater, and all of Tampa Bay`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-tampa/","/seo-services-tampa/","/email-marketing-miami/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-tampa/","/search-engine-optimization/locations/seo-services-tampa/","/content-marketing/email-marketing/locations/email-marketing-miami/"],
   
   publishingChecklist: {
     onPageSeo: {

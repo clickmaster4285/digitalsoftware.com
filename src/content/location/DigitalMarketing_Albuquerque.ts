@@ -109,7 +109,7 @@ Results (11 months): Military organic leads: +3x | New military AUM: \$12M | FIN
 
 Phone +1-888-555-CLICK | albuquerque@clickmastersdigitalmarketing.com
 Rio Rancho, Corrales, Nob Hill, Northeast Heights, and all of Greater Albuquerque`,
-  internalLinks: ["/seo-services-albuquerque/","/digital-marketing-agency-usa/","/digital-marketing-agency-denver/","/digital-marketing-agency-salt-lake-city/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-albuquerque/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-denver/","/locations/digital-marketing-agency-salt-lake-city/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 9 Knoxville healthcare queries | YMYL: E-E-A-T |
 
 Phone +1-888-555-CLICK | knoxville@clickmastersdigitalmarketing.com
 Farragut, Maryville, Oak Ridge, Market Square, and all of Greater Knoxville`,
-  internalLinks: ["/seo-services/","/digital-marketing-agency-knoxville/","/seo-services-nashville/","/seo-services-chattanooga/"],
+  internalLinks: ["/seo-services/","/locations/digital-marketing-agency-knoxville/","/search-engine-optimization/locations/seo-services-nashville/","/search-engine-optimization/locations/seo-services-chattanooga/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -94,7 +94,7 @@ Results: Managed care CPL: \$240 | Centene evaluation: from paid | HIPAA: clean 
 
 Phone +1-888-555-CLICK | stlouis@clickmastersdigitalmarketing.com
 Clayton, Creve Coeur, Chesterfield, Hazelwood, and all of Greater St. Louis`,
-  internalLinks: ["/digital-marketing-agency-st-louis/","/seo-services-st-louis/","/google-ads-management-services/","/google-ads-management-chicago/"],
+  internalLinks: ["/locations/digital-marketing-agency-st-louis/","/search-engine-optimization/locations/seo-services-st-louis/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

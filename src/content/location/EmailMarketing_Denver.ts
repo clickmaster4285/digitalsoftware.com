@@ -108,7 +108,7 @@ Q: How long does Denver aerospace email produce results? A: Lockheed/Ball re-eng
 Get Your Free Denver Email Marketing Audit: Phone +1-888-555-CLICK
 Email: denver@clickmastersdigitalmarketing.com
 Englewood, Cherry Creek, Boulder, Colorado Springs, and all of Colorado`,
-  internalLinks: ["/email-marketing-services/","/digital-marketing-agency-denver/","/seo-services-denver/","/email-marketing-seattle/","/integrations/hubspot-marketing/","/industries/manufacturing/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-denver/","/search-engine-optimization/locations/seo-services-denver/","/content-marketing/email-marketing/locations/email-marketing-seattle/","/integrations/hubspot-marketing/","/industries/manufacturing/"],
   
   publishingChecklist: {
     onPageSeo: {

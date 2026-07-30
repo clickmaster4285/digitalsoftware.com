@@ -109,7 +109,7 @@ Results (11 months): FL in-migration organic leads: +3x | Google Ads CPL: below 
 
 Phone +1-888-555-CLICK | orlando@clickmastersdigitalmarketing.com
 Lake Nona, Winter Park, Kissimmee, and all of Greater Orlando`,
-  internalLinks: ["/seo-services-orlando/","/digital-marketing-agency-usa/","/digital-marketing-agency-tampa/","/digital-marketing-agency-miami/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-orlando/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-tampa/","/locations/digital-marketing-agency-miami/"],
   
   publishingChecklist: {
     onPageSeo: {

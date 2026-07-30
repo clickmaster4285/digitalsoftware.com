@@ -109,7 +109,7 @@ Results (11 months): Page 1 for 10 Sacramento oncology queries | UC Davis NCI: c
 
 Phone +1-888-555-CLICK | sacramento@clickmastersdigitalmarketing.com
 Folsom, Roseville, Elk Grove, Midtown, and all of Greater Sacramento`,
-  internalLinks: ["/seo-services-sacramento/","/digital-marketing-agency-usa/","/digital-marketing-agency-san-diego/","/digital-marketing-agency-los-angeles/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-sacramento/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-san-diego/","/locations/digital-marketing-agency-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {

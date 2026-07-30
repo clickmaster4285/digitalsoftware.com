@@ -568,7 +568,7 @@ pricing: ``,
 
 Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
 Carmel, Fishers, Zionsville, and all of Greater Indianapolis`,
-  internalLinks: ["/seo-services-indianapolis/","/digital-marketing-agency-usa/","/digital-marketing-agency-chicago/","/digital-marketing-agency-nashville/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-indianapolis/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-chicago/","/locations/digital-marketing-agency-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

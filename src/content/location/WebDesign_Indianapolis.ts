@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T recognised | IU affiliation: cited in patient surveys | H
 
 Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
 Carmel, Fishers, Zionsville, and all of Greater Indianapolis`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-indianapolis/","/seo-services-indianapolis/","/web-design-chicago/"],
+  internalLinks: ["/web-design-services/","/locations/digital-marketing-agency-indianapolis/","/search-engine-optimization/locations/seo-services-indianapolis/","/web-design-development/web-design/locations/web-design-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

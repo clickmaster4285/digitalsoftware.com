@@ -118,7 +118,7 @@ Q: GEO/AEO for LA? A: Netflix VPs and Silicon Beach professionals using ChatGPT/
 Get Your Free LA Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: losangeles@clickmastersdigitalmarketing.com
 Culver City, Santa Monica, Hollywood, Playa Vista, and all of Greater Los Angeles`,
-  internalLinks: ["/seo-services-los-angeles/","/web-design-los-angeles/","/digital-marketing-agency-usa/","/digital-marketing-agency-san-francisco/","/industries/entertainment/","/industries/technology/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-los-angeles/","/web-design-development/web-design/locations/web-design-los-angeles/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-san-francisco/","/industries/entertainment/","/industries/technology/"],
   
   publishingChecklist: {
     onPageSeo: {

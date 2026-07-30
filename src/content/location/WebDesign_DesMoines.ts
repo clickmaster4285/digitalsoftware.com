@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | UnityPoint: cited | HIPAA/CDPA: clean | New patients: +
 
 Phone +1-888-555-CLICK | desmoines@clickmastersdigitalmarketing.com
 West Des Moines, Ankeny, East Village, and all of Greater Des Moines`,
-  internalLinks: ["/web-design-services/","/digital-marketing-agency-des-moines/","/seo-services-des-moines/","/web-design-omaha/"],
+  internalLinks: ["/web-design-services/","/locations/digital-marketing-agency-des-moines/","/search-engine-optimization/locations/seo-services-des-moines/","/web-design-development/web-design/locations/web-design-omaha/"],
   
   publishingChecklist: {
     onPageSeo: {

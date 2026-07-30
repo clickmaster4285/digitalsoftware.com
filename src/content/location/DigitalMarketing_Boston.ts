@@ -116,7 +116,7 @@ Q: What is Massachusetts CDPA? A: Consumer Data Privacy Act (effective January 2
 Get Your Free Boston Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: boston@clickmastersdigitalmarketing.com
 Back Bay, Kendall Square, Longwood, Cambridge, and all of Greater Boston`,
-  internalLinks: ["/seo-services-boston/","/web-design-boston/","/digital-marketing-agency-usa/","/digital-marketing-agency-new-york/","/industries/healthcare-tech/","/industries/financial-services/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-boston/","/web-design-development/web-design/locations/web-design-boston/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-new-york/","/industries/healthcare-tech/","/industries/financial-services/"],
   
   publishingChecklist: {
     onPageSeo: {

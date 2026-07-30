@@ -2,6 +2,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
+import { resolveInternalLink } from '@/lib/urlMappings';
 
 interface InternalLinksSectionProps {
   internalLinks: string[];
@@ -17,7 +18,8 @@ export const InternalLinksSection = ({ internalLinks, serviceName, cityName }: I
       <div className="mb-4 text-sm uppercase tracking-widest text-gray-500">[ Related ]</div>
       <div className="grid gap-3 md:grid-cols-2">
         {internalLinks.map((href: string) => {
-          let displayText = href
+          const resolvedHref = resolveInternalLink(href);
+          let displayText = resolvedHref
             .replace(/^\//, '')
             .replace(/\/$/, '')
             .replace(/-/g, ' ');
@@ -28,7 +30,7 @@ export const InternalLinksSection = ({ internalLinks, serviceName, cityName }: I
           return (
             <motion.a
               key={href}
-              href={href}
+              href={resolvedHref}
               whileHover={{ x: 8 }}
               className="group flex items-center justify-between rounded-2xl border border-gray-200 p-6 transition-all hover:border-[#FF2E86]/40 hover:shadow-lg hover:shadow-[#FF2E86]/5"
             >
