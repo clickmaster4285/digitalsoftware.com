@@ -79,7 +79,7 @@ export async function GET() {
 
   // Add special URLs (like UAE content marketing)
   const specialUrls = [
-    `${siteUrl}/content-marketing/locations/content-marketing-uae/`
+    `${siteUrl}/content-marketing/locations/content-marketing-dubai/`
   ];
   specialUrls.forEach(url => {
     urls.push(buildUrlElement(url, lastMod));
