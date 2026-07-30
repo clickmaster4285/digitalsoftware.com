@@ -109,7 +109,7 @@ Results (11 months): CA in-migration organic: +3x | New CA-to-UT AUM: \$18M | FI
 
 Phone +1-888-555-CLICK | saltlakecity@clickmastersdigitalmarketing.com
 Lehi, Draper, South Jordan, Murray, and all of Greater Salt Lake City`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-salt-lake-city/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-sacramento/","/locations/digital-marketing-agency-denver/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-salt-lake-city/","/locations/digital-marketing-agency-sacramento/","/locations/digital-marketing-agency-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

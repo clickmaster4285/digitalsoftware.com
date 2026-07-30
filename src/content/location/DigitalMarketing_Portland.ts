@@ -114,7 +114,7 @@ Q: GEO/AEO for Portland? A: Nike sourcing directors and Intel procurement using 
 Get Your Free Portland Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: portland@clickmastersdigitalmarketing.com
 Pearl District, Beaverton, Hillsboro, Lake Oswego, and all of Greater Portland`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-portland/","/web-design-development/web-design/locations/web-design-portland/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-seattle/","/industries/outdoor-apparel/","/industries/manufacturing/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-portland/","/web-design-development/web-design/locations/web-design-portland/","/locations/digital-marketing-agency-seattle/"],
   
   publishingChecklist: {
     onPageSeo: {

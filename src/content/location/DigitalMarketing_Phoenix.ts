@@ -109,7 +109,7 @@ Results (11 months): Page 1 for 12 Phoenix health IT queries | Mayo Clinic procu
 
 Phone +1-888-555-CLICK | phoenix@clickmastersdigitalmarketing.com
 Chandler, Scottsdale, Tempe, Mesa, and all of Greater Phoenix`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-phoenix/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-las-vegas/","/locations/digital-marketing-agency-dallas/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-phoenix/","/locations/digital-marketing-agency-las-vegas/","/locations/digital-marketing-agency-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

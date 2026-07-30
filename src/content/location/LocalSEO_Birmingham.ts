@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Birmingham banking consulting | Regions com
 
 Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
 Mountain Brook, Vestavia Hills, Homewood, Five Points South, and all of Greater Birmingham`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-birmingham/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/local-seo/locations/local-seo-services-huntsville/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-birmingham/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/local-seo/locations/local-seo-services-huntsville/"],
   
   publishingChecklist: {
     onPageSeo: {

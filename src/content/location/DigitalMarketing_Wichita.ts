@@ -109,7 +109,7 @@ Results (11 months): Page 1 for 9 Wichita health IT queries | Via Christi: evalu
 
 Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
 Andover, Derby, Old Town, and all of Greater Wichita`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-wichita/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-oklahoma-city/","/locations/digital-marketing-agency-kansas-city/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-wichita/","/locations/digital-marketing-agency-oklahoma-city/","/locations/digital-marketing-agency-kansas-city/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -108,7 +108,7 @@ Q: How long does Miami bilingual content produce LATAM results? A: Spanish LATAM
 Get Your Free Miami Content Marketing Audit: Phone +1-888-555-CLICK
 Email: miami@clickmastersdigitalmarketing.com
 Brickell, Coral Gables, Doral, Wynwood, and all of South Florida`,
-  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-miami/","/search-engine-optimization/locations/seo-services-miami/","/content-marketing/locations/content-marketing-houston/","/industries/financial-services/","/industries/healthcare/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-miami/","/search-engine-optimization/locations/seo-services-miami/","/content-marketing/locations/content-marketing-houston/","/content-marketing/locations/content-marketing-des-moines/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -108,7 +108,7 @@ Q: How long does Minneapolis Medical Alley content produce IDN results? A: Healt
 Get Your Free Minneapolis Content Marketing Audit: Phone +1-888-555-CLICK
 Email: minneapolis@clickmastersdigitalmarketing.com
 Plymouth, Eden Prairie, Edina, St. Paul, and all of the Twin Cities metro`,
-  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-minneapolis/","/search-engine-optimization/locations/seo-services-minneapolis/","/content-marketing/locations/content-marketing-chicago/","/industries/medical-devices/","/industries/healthcare-tech/"],
+  internalLinks: ["/content-marketing-services/","/locations/digital-marketing-agency-minneapolis/","/search-engine-optimization/locations/seo-services-minneapolis/","/content-marketing/locations/content-marketing-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

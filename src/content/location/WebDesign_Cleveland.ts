@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T (world-class standard) | CC affiliation: cited in patient
 
 Phone +1-888-555-CLICK | cleveland@clickmastersdigitalmarketing.com
 Mayfield Heights, Beachwood, Westlake, and all of Greater Cleveland`,
-  internalLinks: ["/web-design-services/","/locations/digital-marketing-agency-cleveland/","/search-engine-optimization/locations/seo-services-cleveland/","/web-design-development/web-design/locations/web-design-pittsburgh/"],
+  internalLinks: ["/locations/digital-marketing-agency-cleveland/","/search-engine-optimization/locations/seo-services-cleveland/","/web-design-development/web-design/locations/web-design-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {

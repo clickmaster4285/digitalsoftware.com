@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack Henrico County ML consulting | Capital One 
 
 Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com
 Short Pump, Innsbrook, Museum District, and all of Greater Richmond`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-richmond/","/locations/digital-marketing-agency-richmond/","/local-seo-services-washington-dc/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-richmond/","/locations/digital-marketing-agency-richmond/","/local-seo-services-washington-dc/"],
   
   publishingChecklist: {
     onPageSeo: {

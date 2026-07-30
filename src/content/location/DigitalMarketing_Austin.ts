@@ -357,7 +357,7 @@ pricing: ``,
   },
   "cta": "Get Your Free Austin Digital Marketing Audit",
   "ctaBody": "Free audit — 48 hours.\n1. CA in-migration vocabulary gap — RSU/no-income-tax/CA-to-TX searches your digital marketing misses\n2. Tesla/Apple corridor visibility — IATF 16949 vocabulary gaps\n3. FINRA/HIPAA compliance across digital channels\n4. Authentic Austin character — genuine vs generic Texas commercial brand\n5. Series A attribution — is your digital marketing reporting in investor-credible pipeline language?\n\nPhone +1-888-555-CLICK | austin@clickmastersdigitalmarketing.com\nSouth Congress, North Austin, The Domain, Round Rock, and all of Greater Austin",
-   internalLinks: ["/search-engine-optimization/locations/seo-services-austin/","/web-design-development/web-design/locations/web-design-austin/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-dallas/"],
+   internalLinks: ["/search-engine-optimization/locations/seo-services-austin/","/web-design-development/web-design/locations/web-design-austin/","/locations/digital-marketing-agency-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

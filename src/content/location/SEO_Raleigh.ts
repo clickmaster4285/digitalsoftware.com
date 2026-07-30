@@ -94,7 +94,7 @@ Results (10 months): Page 1 for 12 Triangle in-migration financial planning quer
 
 Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
 Durham, Chapel Hill, Cary, and all of the Research Triangle`,
-  internalLinks: ["/seo-services/","/locations/digital-marketing-agency-raleigh/","/search-engine-optimization/locations/seo-services-charlotte/","/search-engine-optimization/locations/seo-services-atlanta/"],
+  internalLinks: ["/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/locations/digital-marketing-agency-raleigh/","/search-engine-optimization/locations/seo-services-charlotte/","/search-engine-optimization/locations/seo-services-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

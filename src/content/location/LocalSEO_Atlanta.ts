@@ -105,7 +105,7 @@ Q: How long does Atlanta Local SEO take? A: Fortune 500 professional: 3-5 months
 Get Your Free Atlanta Local SEO Audit: Phone +1-888-555-CLICK
 Email: atlanta@clickmastersdigitalmarketing.com
 Midtown, Buckhead, Sandy Springs, Alpharetta, and all of Metro Atlanta`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-atlanta/","/locations/digital-marketing-agency-atlanta/","/search-engine-optimization/local-seo/locations/local-seo-services-dallas/","/tools/local-seo-audit/","/industries/financial-services/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-atlanta/","/locations/digital-marketing-agency-atlanta/","/search-engine-optimization/local-seo/locations/local-seo-services-dallas/","/search-engine-optimization/local-seo/locations/local-seo-services-tulsa/"],
   
   publishingChecklist: {
     onPageSeo: {

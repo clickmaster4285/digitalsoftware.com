@@ -10711,7 +10711,7 @@ Results (4 months): Top 3 Local Pack Brisbane oncology | Reviews: 8 to 72 | New 
   faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Brisbane?","acceptedAnswer":{"@type":"Answer","text":"Brisbane Local SEO: AUD\$1,000/month (single) to AUD\$10,000+/month (enterprise). Brisbane 2032 proximity GBP. RBWH AHPRA YMYL. Ascot/Hamilton/New Farm professional quality. Privacy Act/Spam Act reviews. Brisbane CPCs 20-25% below Sydney. 90-day guarantee."}},{"@type":"Question","name":"What is Brisbane 2032 proximity GBP for Brisbane technology businesses?","acceptedAnswer":{"@type":"Answer","text":"Brisbane 2032 QMEC/Venues Queensland vocabulary, Queensland Government ICT Panel proximity signals, and Olympic Build institutional photography — earning above-average B2B near-me consideration from Brisbane 2032 procurement network at AUD\$7+ billion infrastructure investment scale."}},{"@type":"Question","name":"Does Clickmasters serve Gold Coast, Sunshine Coast, and Greater Brisbane?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Brisbane and South East Queensland."}},{"@type":"Question","name":"How many reviews for Brisbane Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Brisbane benchmarks: Ascot/Hamilton/New Farm professional services: 4.5+ stars, 45-85+ reviews. RBWH/PA-adjacent healthcare: 4.4+, 35-70+. Brisbane CBD financial B2B: 4.3+, 25-55+."}},{"@type":"Question","name":"What is the Riverfire/State of Origin review timing for Brisbane brands?","acceptedAnswer":{"@type":"Answer","text":"Riverfire (September) creates Brisbane's most community-engaged annual local event footfall for South Bank and CBD venue brands. Post-Riverfire (late September) review campaigns earn above-average response. State of Origin (June-July) QLD Maroons win creates Queensland-wide community euphoria — post-match (same evening) review requests for Queensland-positioned brands earn above-average emotional community engagement."}},{"@type":"Question","name":"What is Ascot/Hamilton professional quality GBP for Brisbane wealth management?","acceptedAnswer":{"@type":"Answer","text":"Ascot (Brisbane's most prestigious prestige residential suburb, home to Queensland coal and mining executives, thoroughbred racing community) and Hamilton's waterfront luxury community evaluate GBPs with CFA/CFP designation for financial advisory, RBWH/University of Queensland affiliation for healthcare, and Brisbane 2032 Olympic City transformation vocabulary for professional services."}}]}`,
   cta: ``,
   ctaBody: `Free audit — 48 hours. +61 7 9946 CLICK | brisbane@clickmastersdigitalmarketing.com | South Bank, New Farm, Ascot, and all of Greater Brisbane`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-brisbane/","/search-engine-optimization/local-seo/locations/local-seo-services-sydney/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-brisbane/","/locations/digital-marketing-agency-brisbane/","/search-engine-optimization/local-seo/locations/local-seo-services-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -11103,7 +11103,7 @@ Results (3 months): Top 3 Local Pack DIFC fintech | DIFC near-me: +3x`,
 
 Phone +971 4 946 CLICK | dubai@clickmastersdigitalmarketing.com
 Jumeirah, Emirates Hills, DIFC, and all of Dubai`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-dubai/","/search-engine-optimization/local-seo/locations/local-seo-services-abu-dhabi/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-dubai/","/locations/digital-marketing-agency-dubai/","/search-engine-optimization/local-seo/locations/local-seo-services-abu-dhabi/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -11884,7 +11884,7 @@ Results (3 months): Top 3 Local Pack City fintech | City near-me: +3x`,
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 Chelsea, Kensington, Richmond, City of London, and all of Greater London`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-london/","/search-engine-optimization/local-seo/locations/local-seo-services-manchester/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-london/","/locations/digital-marketing-agency-london/","/search-engine-optimization/local-seo/locations/local-seo-services-manchester/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12008,7 +12008,7 @@ Results (3 months): Top 3 Local Pack Spinningfields fintech | Spinningfields nea
 
 Phone +44 161 946 CLICK | manchester@clickmastersdigitalmarketing.com
 Didsbury, Chorlton, Sale, MediaCityUK, and all of Greater Manchester`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-manchester/","/search-engine-optimization/local-seo/locations/local-seo-services-london/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-manchester/","/locations/digital-marketing-agency-manchester/","/search-engine-optimization/local-seo/locations/local-seo-services-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12118,7 +12118,7 @@ Results (4 months): Top 3 Local Pack Melbourne oncology | Reviews: 9 to 78 | AHP
 
 Phone +61 3 9946 CLICK | melbourne@clickmastersdigitalmarketing.com
 Collins Street, South Yarra, Toorak, and all of Greater Melbourne`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-melbourne/","/locations/digital-marketing-agency-melbourne/","/search-engine-optimization/local-seo/locations/local-seo-services-sydney/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-melbourne/","/locations/digital-marketing-agency-melbourne/","/search-engine-optimization/local-seo/locations/local-seo-services-sydney/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12640,7 +12640,7 @@ Results (3 months): Top 3 Local Pack Barangaroo fintech | Barangaroo near-me: +3
 
 Phone +61 2 9946 CLICK | sydney@clickmastersdigitalmarketing.com
 Mosman, Balmain, Double Bay, Barangaroo, and all of Greater Sydney`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-sydney/","/locations/digital-marketing-agency-sydney/","/search-engine-optimization/local-seo/locations/local-seo-services-melbourne/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-sydney/","/locations/digital-marketing-agency-sydney/","/search-engine-optimization/local-seo/locations/local-seo-services-melbourne/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12764,7 +12764,7 @@ Results (3 months): Top 3 Local Pack Bay Street fintech | Bay Street near-me: +3
 
 Phone +1-416-946-CLICK | toronto@clickmastersdigitalmarketing.com
 Yorkville, Rosedale, Bay Street, and all of Greater Toronto`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-toronto/","/locations/digital-marketing-agency-toronto/","/search-engine-optimization/local-seo/locations/local-seo-services-london/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-toronto/","/locations/digital-marketing-agency-toronto/","/search-engine-optimization/local-seo/locations/local-seo-services-london/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -12888,7 +12888,7 @@ Results (3 months): Top 3 Local Pack Vancouver logistics tech | Port Metro near-
 
 Phone +1-604-946-CLICK | vancouver@clickmastersdigitalmarketing.com
 Kitsilano, West Vancouver, Point Grey, and all of Metro Vancouver`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-vancouver/","/search-engine-optimization/local-seo/locations/local-seo-services-toronto/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-vancouver/","/locations/digital-marketing-agency-vancouver/","/search-engine-optimization/local-seo/locations/local-seo-services-toronto/"],
   
   publishingChecklist: {
     onPageSeo: {
@@ -17015,7 +17015,7 @@ Results (10 months): Page 1 for 9 London SaaS queries | Tech City community: dis
 
 Phone +44 20 7946 CLICK | london@clickmastersdigitalmarketing.com
 City of London, Canary Wharf, Shoreditch, Mayfair, and all of Greater London`,
-  internalLinks: ["/seo-services/","/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-manchester/","/seo-services-birmingham-uk/"],
+  internalLinks: ["/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/locations/digital-marketing-agency-london/","/search-engine-optimization/locations/seo-services-manchester/","/seo-services-birmingham-uk/"],
   
   publishingChecklist: {
     onPageSeo: {

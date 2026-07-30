@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | CC affiliation: patient surveys cited | HIPAA: clean | 
 
 Phone +1-888-555-CLICK | cincinnati@clickmastersdigitalmarketing.com
 Blue Ash, Mason, West Chester, Hyde Park, and all of Greater Cincinnati`,
-  internalLinks: ["/web-design-services/","/locations/digital-marketing-agency-cincinnati/","/search-engine-optimization/locations/seo-services-cincinnati/","/web-design-development/web-design/locations/web-design-cleveland/"],
+  internalLinks: ["/locations/digital-marketing-agency-cincinnati/","/search-engine-optimization/locations/seo-services-cincinnati/","/web-design-development/web-design/locations/web-design-cleveland/"],
   
   publishingChecklist: {
     onPageSeo: {

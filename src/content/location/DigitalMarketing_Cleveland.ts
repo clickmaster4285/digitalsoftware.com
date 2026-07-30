@@ -545,7 +545,7 @@ faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@
 
 Phone +1-888-555-CLICK | cleveland@clickmastersdigitalmarketing.com
 Mayfield Heights, Beachwood, Westlake, and all of Greater Cleveland`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-cleveland/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-cincinnati/","/locations/digital-marketing-agency-pittsburgh/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-cleveland/","/locations/digital-marketing-agency-cincinnati/","/locations/digital-marketing-agency-pittsburgh/"],
   
   publishingChecklist: {
     onPageSeo: {

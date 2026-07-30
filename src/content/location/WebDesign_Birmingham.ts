@@ -92,7 +92,7 @@ Results: Five Points positioning: visits +40% | Average order: +\$50 | Alabama m
 
 Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
 Hoover, Vestavia Hills, Mountain Brook, and all of Greater Birmingham`,
-  internalLinks: ["/web-design-services/","/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-birmingham/","/web-design-development/web-design/locations/web-design-huntsville/"],
+  internalLinks: ["/locations/digital-marketing-agency-birmingham/","/search-engine-optimization/locations/seo-services-birmingham/","/web-design-development/web-design/locations/web-design-huntsville/"],
   
   publishingChecklist: {
     onPageSeo: {

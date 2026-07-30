@@ -105,7 +105,7 @@ Q: How long does Boston Kendall Square pharma SEO take? A: Pharma vocabulary ran
 Get Your Free Boston SEO Audit: Phone +1-888-555-CLICK
 Email: boston@clickmastersdigitalmarketing.com
 Back Bay, Kendall Square, Longwood, Cambridge, and all of Greater Boston`,
-  internalLinks: ["/locations/digital-marketing-agency-boston/","/seo-services/","/search-engine-optimization/locations/seo-services-new-york/","/search-engine-optimization/locations/seo-services-philadelphia/","/industries/healthcare-tech/","/industries/financial-services/"],
+  internalLinks: ["/locations/digital-marketing-agency-boston/","/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/search-engine-optimization/locations/seo-services-new-york/","/search-engine-optimization/locations/seo-services-philadelphia/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -109,7 +109,7 @@ Results (11 months): Page 1 for 9 queries | Blue Cross: evaluation | Protective 
 
 Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com
 Hoover, Vestavia Hills, Mountain Brook, and all of Greater Birmingham`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-birmingham/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-huntsville/","/locations/digital-marketing-agency-nashville/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-birmingham/","/locations/digital-marketing-agency-huntsville/","/locations/digital-marketing-agency-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

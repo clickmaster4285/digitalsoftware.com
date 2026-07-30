@@ -109,7 +109,7 @@ Results (11 months): Page 1 for 9 Memphis retail tech queries | AutoZone VP Anal
 
 Phone +1-888-555-CLICK | memphis@clickmastersdigitalmarketing.com
 Germantown, Collierville, Bartlett, Midtown, and all of Greater Memphis`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-memphis/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-nashville/","/locations/digital-marketing-agency-atlanta/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-memphis/","/locations/digital-marketing-agency-nashville/","/locations/digital-marketing-agency-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

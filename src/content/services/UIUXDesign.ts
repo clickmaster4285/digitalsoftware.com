@@ -295,7 +295,7 @@ export const UIUXDesignContent = {
       "The businesses with the best product experiences are not the ones with the largest design teams or the most sophisticated design processes. They are the ones that decided to understand their users before designing for them and to measure business outcomes rather than design quality metrics when evaluating whether the design investment worked. That decision is where everything changes. We help you make it effectively.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
-    webDesignLink: "https://clickmastersdigitalmarketing.com/web-design-services/",
+    webDesignLink: "https://clickmastersdigitalmarketing.com/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",

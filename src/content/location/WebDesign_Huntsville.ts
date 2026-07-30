@@ -92,7 +92,7 @@ Results: YMYL: E-E-A-T | Hospital: cited | HIPAA: clean | New patients: +3x | LC
 
 Phone +1-888-555-CLICK | huntsville@clickmastersdigitalmarketing.com
 Madison, Cummings Research Park, Five Points South, and all of Greater Huntsville`,
-  internalLinks: ["/web-design-services/","/locations/digital-marketing-agency-huntsville/","/search-engine-optimization/locations/seo-services-huntsville/","/web-design-development/web-design/locations/web-design-birmingham/"],
+  internalLinks: ["/locations/digital-marketing-agency-huntsville/","/search-engine-optimization/locations/seo-services-huntsville/","/web-design-development/web-design/locations/web-design-birmingham/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -108,7 +108,7 @@ Q: How long does Austin in-migration email produce professional results? A: Firs
 Get Your Free Austin Email Marketing Audit: Phone +1-888-555-CLICK
 Email: austin@clickmastersdigitalmarketing.com
 South Congress, The Domain, Round Rock, Cedar Park, and all of Greater Austin`,
-  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-austin/","/search-engine-optimization/locations/seo-services-austin/","/content-marketing/email-marketing/locations/email-marketing-dallas/","/integrations/hubspot-marketing/","/industries/technology/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-austin/","/search-engine-optimization/locations/seo-services-austin/","/content-marketing/email-marketing/locations/email-marketing-dallas/","/integrations/hubspot-marketing/"],
   
   publishingChecklist: {
     onPageSeo: {

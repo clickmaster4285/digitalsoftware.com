@@ -103,7 +103,7 @@ Q: GEO/AEO for Minneapolis? A: Health system supply chain and Target procurement
 Get Your Free Minneapolis SEO Audit: Phone +1-888-555-CLICK
 Email: minneapolis@clickmastersdigitalmarketing.com
 Plymouth, Eden Prairie, Edina, St. Paul, and all of the Twin Cities metro`,
-  internalLinks: ["/locations/digital-marketing-agency-minneapolis/","/seo-services/","/search-engine-optimization/locations/seo-services-chicago/","/search-engine-optimization/locations/seo-services-nashville/","/industries/medical-devices/","/industries/healthcare-tech/"],
+  internalLinks: ["/locations/digital-marketing-agency-minneapolis/","/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/search-engine-optimization/locations/seo-services-chicago/","/search-engine-optimization/locations/seo-services-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

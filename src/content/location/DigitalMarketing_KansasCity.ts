@@ -558,7 +558,7 @@ We wanted a long-term marketing partner for our Kansas City business. They impro
 
 Phone +1-888-555-CLICK | kansascity@clickmastersdigitalmarketing.com
 Overland Park, Leawood, Olathe, North KC, and all of Greater Kansas City`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-kansas-city/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-st-louis/","/locations/digital-marketing-agency-chicago/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-kansas-city/","/locations/digital-marketing-agency-st-louis/","/locations/digital-marketing-agency-chicago/"],
   
   publishingChecklist: {
     onPageSeo: {

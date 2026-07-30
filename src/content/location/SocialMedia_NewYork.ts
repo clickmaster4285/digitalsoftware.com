@@ -105,7 +105,7 @@ Q: How does Clickmasters measure NYC social media outcomes? A: Wall Street: Gold
 Get Your Free NYC Social Media Audit: Phone +1-888-555-CLICK
 Email: newyork@clickmastersdigitalmarketing.com
 Midtown, Wall Street, SoHo, Upper East Side, and all of Greater New York`,
-  internalLinks: ["/social-media-management-services/","/locations/digital-marketing-agency-new-york/","/search-engine-optimization/locations/seo-services-new-york/","/social-media-marketing/locations/social-media-marketing-boston/","/industries/financial-services/","/industries/healthcare-tech/"],
+  internalLinks: ["/social-media-management-services/","/locations/digital-marketing-agency-new-york/","/search-engine-optimization/locations/seo-services-new-york/","/social-media-marketing/locations/social-media-marketing-boston/"],
   
   publishingChecklist: {
     onPageSeo: {

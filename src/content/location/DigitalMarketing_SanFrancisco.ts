@@ -116,7 +116,7 @@ Q: How does GEO/AEO create SF first-mover advantage? A: Above-average AI search 
 Get Your Free SF Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: sanfrancisco@clickmastersdigitalmarketing.com
 SoMa, Financial District, Mission Bay, Palo Alto, and all of Greater Bay Area`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-san-francisco/","/web-design-development/web-design/locations/web-design-san-francisco/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-seattle/","/industries/ai-ml/","/industries/technology/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-san-francisco/","/web-design-development/web-design/locations/web-design-san-francisco/","/locations/digital-marketing-agency-seattle/"],
   
   publishingChecklist: {
     onPageSeo: {

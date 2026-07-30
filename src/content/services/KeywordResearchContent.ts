@@ -223,7 +223,7 @@ export const KeywordResearchContent = {
       "The keyword strategy determines everything that follows in an SEO programme. Getting it right at the start saves months of misdirected investment. Getting it wrong means building on the wrong foundation.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
-    softwareLink: "https://clickmastersdigitalmarketing.com/seo-services/",
+    softwareLink: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",
@@ -275,7 +275,7 @@ schema: {
       {
         position: 2,
         name: "SEO Services",
-        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+        url: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/"
       },
       {
         position: 3,

@@ -103,7 +103,7 @@ Q: What makes KOP FDA corridor distinct? A: GSK, AstraZeneca US HQ, CRO/CDMO con
 Get Your Free Philadelphia SEO Audit: Phone +1-888-555-CLICK
 Email: philadelphia@clickmastersdigitalmarketing.com
 Center City, University City, Main Line, King of Prussia, and all of the Delaware Valley`,
-  internalLinks: ["/locations/digital-marketing-agency-philadelphia/","/seo-services/","/search-engine-optimization/locations/seo-services-new-york/","/search-engine-optimization/locations/seo-services-boston/","/industries/healthcare/","/search-engine-optimization/local-seo/locations/local-seo-services-philadelphia/"],
+  internalLinks: ["/locations/digital-marketing-agency-philadelphia/","/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/search-engine-optimization/locations/seo-services-new-york/","/search-engine-optimization/locations/seo-services-boston/","/content-marketing/locations/content-marketing-des-moines/","/search-engine-optimization/local-seo/locations/local-seo-services-philadelphia/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -239,7 +239,7 @@ export const SocialMediaMarketingContent = {
 			"social media marketing 2026",
 		],
 		wordCount: "~5,150 words",
-		internalLinks: "/facebook-instagram-ads/, /content-marketing-services/, /seo-services/, /remarketing-retargeting-services/, /contact-us/",
+		internalLinks: "/facebook-instagram-ads/, /content-marketing-services/, /search-engine-optimization/local-seo/locations/local-seo-services-atlanta/, /remarketing-retargeting-services/, /contact-us/",
 	},
 	hero: {
 		tag: "Social Media Marketing",
@@ -1401,7 +1401,7 @@ export const AIAutomationServicesContent = {
 		],
 		wordCount: "~5,100 words",
 		internalLinks:
-			"/saas-development-services/, /website-development-services/, /seo-services/, /content-marketing-services/, /contact-us/",
+			"/saas-development-services/, /website-development-services/, /search-engine-optimization/local-seo/locations/local-seo-services-atlanta/, /content-marketing-services/, /contact-us/",
 	},
 	hero: {
 		tag: "AI & Automation Services",
@@ -1840,7 +1840,7 @@ export const ContentMarketingServicesContent = {
 		],
 		wordCount: "~5,200 words",
 		internalLinks:
-			"/seo-services/, /social-media-marketing-services/, /video-marketing-services/, /email-marketing-services/, /contact-us/",
+			"/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/, /social-media-marketing-services/, /video-marketing-services/, /email-marketing-services/, /contact-us/",
 	},
 	hero: {
 		tag: "Content Marketing Services",
@@ -2301,7 +2301,7 @@ export const WebDesignServicesContent = {
 		],
 		wordCount: "~5,100 words",
 		internalLinks:
-			"/website-development-services/, /content-marketing-services/, /seo-services/, /ai-automation-services/, /contact-us/",
+			"/website-development-services/, /content-marketing-services/, /search-engine-optimization/local-seo/locations/local-seo-services-atlanta/, /ai-automation-services/, /contact-us/",
 	},
 	hero: {
 		tag: "Web Design Services",

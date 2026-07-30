@@ -253,7 +253,7 @@ export const YoutubeSeoContent = {
     description:
       "YouTube is processing 3 billion searches per day. Your potential customers are in that audience — searching for the content your videos cover. The question is whether your videos are optimised to be found.",
     rankLink: "https://clickmastersdigitalmarketing.com/contact-us/",
-    seoLink: "https://clickmastersdigitalmarketing.com/seo-services/",
+    seoLink: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/",
     auditLink: "https://clickmastersdigitalmarketing.com/free-seo-audit/",
   },
   footer: {

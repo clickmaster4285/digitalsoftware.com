@@ -230,7 +230,7 @@ export const AdaComplianceContent = {
       "Web accessibility is not a compliance checkbox. It is the commitment to ensuring that every person who visits your website — regardless of how they access it, what device they use, or what assistive technology they rely on — can access, understand, and use what you have built.\n\nThat commitment protects your business from legal exposure. It expands your market to include users competitors have excluded. And it builds the reputation for inclusion that is increasingly a differentiator with customers, partners, and employees who care about the organisations they work with.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
-    softwareLink: "https://clickmastersdigitalmarketing.com/web-design-services/",
+    softwareLink: "https://clickmastersdigitalmarketing.com/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",

@@ -552,7 +552,7 @@ pricing: ``,
 
 Phone +1-888-555-CLICK | jacksonville@clickmastersdigitalmarketing.com
 Ponte Vedra Beach, Orange Park, St. Johns, and all of Greater Jacksonville`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-jacksonville/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-orlando/","/locations/digital-marketing-agency-miami/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-jacksonville/","/locations/digital-marketing-agency-orlando/","/locations/digital-marketing-agency-miami/"],
   
   publishingChecklist: {
     onPageSeo: {

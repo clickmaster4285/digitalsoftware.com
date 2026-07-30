@@ -243,7 +243,7 @@ Q: GEO/AEO for Chicago? A: New Fortune 500 CPOs and VPs using ChatGPT/Perplexity
 Get Your Free Chicago Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: chicago@clickmastersdigitalmarketing.com
 West Loop, River North, Elk Grove Village, Naperville, and all of Chicagoland`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-chicago/","/web-design-development/web-design/locations/web-design-chicago/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-dallas/","/industries/manufacturing/","/industries/financial-services/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-chicago/","/web-design-development/web-design/locations/web-design-chicago/","/locations/digital-marketing-agency-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

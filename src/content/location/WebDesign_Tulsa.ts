@@ -92,7 +92,7 @@ Results: Brookside positioning: visits +40% | Average order: +\$50 | Tulsa media
 
 Phone +1-888-555-CLICK | tulsa@clickmastersdigitalmarketing.com
 Broken Arrow, Owasso, Blue Dome, Brookside, and all of Greater Tulsa`,
-  internalLinks: ["/web-design-services/","/locations/digital-marketing-agency-tulsa/","/search-engine-optimization/locations/seo-services-tulsa/","/web-design-development/web-design/locations/web-design-oklahoma-city/"],
+  internalLinks: ["/locations/digital-marketing-agency-tulsa/","/search-engine-optimization/locations/seo-services-tulsa/","/web-design-development/web-design/locations/web-design-oklahoma-city/"],
   
   publishingChecklist: {
     onPageSeo: {

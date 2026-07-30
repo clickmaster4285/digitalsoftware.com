@@ -109,7 +109,7 @@ Results (11 months): Page 1 for 9 Baltimore brand analytics queries | Under Armo
 
 Phone +1-888-555-CLICK | baltimore@clickmastersdigitalmarketing.com
 Towson, Columbia, Fells Point, Hampden, and all of Greater Baltimore`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-baltimore/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-pittsburgh/","/digital-marketing-agency-washington-dc/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-baltimore/","/locations/digital-marketing-agency-pittsburgh/","/digital-marketing-agency-washington-dc/"],
   
   publishingChecklist: {
     onPageSeo: {

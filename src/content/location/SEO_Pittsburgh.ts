@@ -94,7 +94,7 @@ Results (10 months): Page 1 for 9 Pittsburgh fintech queries | PNC evaluation: e
 
 Phone +1-888-555-CLICK | pittsburgh@clickmastersdigitalmarketing.com
 Shadyside, Squirrel Hill, Lawrenceville, South Side, and all of Greater Pittsburgh`,
-  internalLinks: ["/seo-services/","/locations/digital-marketing-agency-pittsburgh/","/search-engine-optimization/locations/seo-services-cleveland/","/search-engine-optimization/locations/seo-services-philadelphia/"],
+  internalLinks: ["/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/locations/digital-marketing-agency-pittsburgh/","/search-engine-optimization/locations/seo-services-cleveland/","/search-engine-optimization/locations/seo-services-philadelphia/"],
   
   publishingChecklist: {
     onPageSeo: {

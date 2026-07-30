@@ -107,7 +107,7 @@ Results (10 months): Page 1 for 14 Nevada estate planning queries | CA in-migrat
 
 Phone +1-888-555-CLICK | lasvegas@clickmastersdigitalmarketing.com
 Henderson, Summerlin, North Las Vegas, and all of Greater Las Vegas`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-las-vegas/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-phoenix/","/locations/digital-marketing-agency-los-angeles/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-las-vegas/","/locations/digital-marketing-agency-phoenix/","/locations/digital-marketing-agency-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {

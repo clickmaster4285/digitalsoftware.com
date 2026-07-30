@@ -517,7 +517,7 @@ pricing: ``,
 
 Phone +1-888-555-CLICK | huntsville@clickmastersdigitalmarketing.com
 Madison, Cummings Research Park, Five Points South, and all of Greater Huntsville`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-huntsville/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-birmingham/","/locations/digital-marketing-agency-nashville/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-huntsville/","/locations/digital-marketing-agency-birmingham/","/locations/digital-marketing-agency-nashville/"],
   
   publishingChecklist: {
     onPageSeo: {

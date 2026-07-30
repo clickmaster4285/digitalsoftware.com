@@ -108,7 +108,7 @@ Q: How long does San Antonio military community email produce referrals? A: Firs
 Get Your Free San Antonio Email Marketing Audit: Phone +1-888-555-CLICK
 Email: sanantonio@clickmastersdigitalmarketing.com
 Stone Oak, Westside, JBSA area, New Braunfels, and all of Greater San Antonio`,
-  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-san-antonio/","/search-engine-optimization/locations/seo-services-san-antonio/","/content-marketing/email-marketing/locations/email-marketing-houston/","/integrations/hubspot-marketing/","/industries/healthcare/"],
+  internalLinks: ["/email-marketing-services/","/locations/digital-marketing-agency-san-antonio/","/search-engine-optimization/locations/seo-services-san-antonio/","/content-marketing/email-marketing/locations/email-marketing-houston/","/integrations/hubspot-marketing/","/content-marketing/locations/content-marketing-des-moines/"],
   
   publishingChecklist: {
     onPageSeo: {

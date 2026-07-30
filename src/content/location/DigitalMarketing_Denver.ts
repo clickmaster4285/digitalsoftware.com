@@ -571,7 +571,7 @@ All: ITAR-bounded aerospace content. NREL accuracy review. 90-day guarantee.`,
 Get Your Free Denver Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: denver@clickmastersdigitalmarketing.com
 Englewood, Cherry Creek, Boulder, Colorado Springs, and all of Colorado`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-denver/","/web-design-development/web-design/locations/web-design-denver/","/digital-marketing-agency-usa/","/industries/manufacturing/","/industries/clean-energy/","/locations/digital-marketing-agency-dallas/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-denver/","/web-design-development/web-design/locations/web-design-denver/","/locations/digital-marketing-agency-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

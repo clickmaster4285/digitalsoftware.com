@@ -105,7 +105,7 @@ Q: How quickly does Chicago Fortune 500 Google Ads produce results? A: Vocabular
 Get Your Free Chicago Google Ads Audit: Phone +1-888-555-CLICK
 Email: chicago@clickmastersdigitalmarketing.com
 West Loop, River North, Elk Grove Village, Naperville, and all of Chicagoland`,
-  internalLinks: ["/locations/digital-marketing-agency-chicago/","/search-engine-optimization/locations/seo-services-chicago/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-dallas/","/industries/manufacturing/","/industries/financial-services/"],
+  internalLinks: ["/locations/digital-marketing-agency-chicago/","/search-engine-optimization/locations/seo-services-chicago/","/google-ads-management-services/","/pay-per-click-ppc/google-ads-management/locations/google-ads-management-dallas/","/industries/manufacturing/"],
   
   publishingChecklist: {
     onPageSeo: {

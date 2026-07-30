@@ -294,7 +294,7 @@ export const OnPageSeoContent = {
     description: "Every page on your website is either working for your business or costing you traffic you have already paid for. On-page SEO is how you convert underperforming pages into consistent organic revenue drivers — without increasing your ad spend, without waiting for new backlinks, and without rebuilding your site. The opportunity is on your existing pages, right now. We will show you exactly where it is.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
-    softwareLink: "https://clickmastersdigitalmarketing.com/seo-services/"
+    softwareLink: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/"
   },
   footer: {
     company: "Clickmasters Digital Marketing",
@@ -350,7 +350,7 @@ export const OnPageSeoContent = {
       {
         position: 2,
         name: "SEO Services",
-        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+        url: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/"
       },
       {
         position: 3,

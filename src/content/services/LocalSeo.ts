@@ -1,7 +1,7 @@
 export const LocalSeoContent = {
   slug: "local-seo-services",
   metadata: {
-    url: "https://clickmastersdigitalmarketing.com/local-seo-services/",
+    url: "https://clickmastersdigitalmarketing.com/content-marketing/locations/content-marketing-birmingham/",
     seoTitle: "Local SEO Services Dominate Your Geographic Market | Clickmasters",
     metaDescription: "Local SEO services that put you #1 in Google Maps and local search. GBP optimization, citations, review strategy & localized content for USA, UK & UAE.",
     schema: "Service + LocalBusiness + FAQPage + Organization + BreadcrumbList",
@@ -378,12 +378,12 @@ export const LocalSeoContent = {
       {
         position: 2,
         name: "SEO Services",
-        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+        url: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/"
       },
       {
         position: 3,
         name: "Local SEO Services",
-        url: "https://clickmastersdigitalmarketing.com/local-seo-services/"
+        url: "https://clickmastersdigitalmarketing.com/content-marketing/locations/content-marketing-birmingham/"
       }
     ]
   }

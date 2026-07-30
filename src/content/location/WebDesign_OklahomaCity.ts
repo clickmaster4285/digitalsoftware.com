@@ -92,7 +92,7 @@ Results: Paseo authentic positioning: gallery visits +40% | Average sale: +\$200
 
 Phone +1-888-555-CLICK | oklahomacity@clickmastersdigitalmarketing.com
 Edmond, Norman, Bricktown, Paseo, and all of Greater OKC`,
-  internalLinks: ["/web-design-services/","/locations/digital-marketing-agency-oklahoma-city/","/search-engine-optimization/locations/seo-services-oklahoma-city/","/web-design-development/web-design/locations/web-design-dallas/"],
+  internalLinks: ["/locations/digital-marketing-agency-oklahoma-city/","/search-engine-optimization/locations/seo-services-oklahoma-city/","/web-design-development/web-design/locations/web-design-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

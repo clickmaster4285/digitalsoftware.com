@@ -1,7 +1,7 @@
 export const LocalSeoContent = {
   slug: "local-seo-services",
   metadata: {
-    url: "/local-seo-services/",
+    url: "/content-marketing/locations/content-marketing-birmingham/",
     seoTitle: "Local SEO Services — Dominate Your Geographic Market | Clickmasters",
     metaDescription:
       "Local SEO services that put you #1 in Google Maps and local search. GBP optimization, citations, review strategy & localized content for USA, UK & UAE. Get your free local audit today.",
@@ -17,7 +17,7 @@ export const LocalSeoContent = {
     author: "Amjad Khan",
     wordCount: "~5,418 words",
     internalLinks: [
-      "/seo-services/",
+      "/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/",
       "/google-business-profile-optimization/",
       "/citation-building-services/",
       "/on-page-seo-services/",
@@ -388,7 +388,7 @@ export const LocalSeoContent = {
       "Every day you are not at the top of your local search results, you are losing customers to competitors who are. Local SEO is not a long shot — when done correctly, it is the most reliable, measurable, and cost-effective customer acquisition channel available to any business that serves a geographic market. We know local. We know your market. And we have the results to prove what our local SEO system delivers.",
     auditLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
-    seoLink: "https://clickmastersdigitalmarketing.com/seo-services/",
+    seoLink: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",

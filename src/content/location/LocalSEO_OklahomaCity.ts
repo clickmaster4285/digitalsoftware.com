@@ -94,7 +94,7 @@ Results (3 months): Top 3 Local Pack OKC energy consulting | Devon community nea
 
 Phone +1-888-555-CLICK | oklahomacity@clickmastersdigitalmarketing.com
 Edmond, Nichols Hills, Midwest City, Norman, and all of Greater OKC`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-oklahoma-city/","/locations/digital-marketing-agency-oklahoma-city/","/search-engine-optimization/local-seo/locations/local-seo-services-dallas/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-oklahoma-city/","/locations/digital-marketing-agency-oklahoma-city/","/search-engine-optimization/local-seo/locations/local-seo-services-dallas/"],
   
   publishingChecklist: {
     onPageSeo: {

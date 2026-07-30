@@ -109,7 +109,7 @@ Results (11 months): Derby season leads: +3x | New Derby professional AUM: \$12M
 
 Phone +1-888-555-CLICK | louisville@clickmastersdigitalmarketing.com
 St. Matthews, Jeffersontown, Shelbyville, and all of Greater Louisville`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-louisville/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-nashville/","/locations/digital-marketing-agency-cincinnati/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-louisville/","/locations/digital-marketing-agency-nashville/","/locations/digital-marketing-agency-cincinnati/"],
   
   publishingChecklist: {
     onPageSeo: {

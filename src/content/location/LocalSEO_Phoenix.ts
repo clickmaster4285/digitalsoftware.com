@@ -94,7 +94,7 @@ Results (4 months): Top 3 Local Pack Scottsdale internal medicine | Reviews: 22 
 
 Phone +1-888-555-CLICK | phoenix@clickmastersdigitalmarketing.com
 Chandler, Scottsdale, Tempe, Mesa, and all of Greater Phoenix`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-phoenix/","/locations/digital-marketing-agency-phoenix/","/search-engine-optimization/local-seo/locations/local-seo-services-las-vegas/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-phoenix/","/locations/digital-marketing-agency-phoenix/","/search-engine-optimization/local-seo/locations/local-seo-services-las-vegas/"],
   
   publishingChecklist: {
     onPageSeo: {

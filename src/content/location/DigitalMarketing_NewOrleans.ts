@@ -109,7 +109,7 @@ Results (11 months): Page 1 for 9 New Orleans logistics queries | Port evaluatio
 
 Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
 Metairie, Garden District, Uptown, and all of Greater New Orleans`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-new-orleans/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-houston/","/locations/digital-marketing-agency-atlanta/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-new-orleans/","/locations/digital-marketing-agency-houston/","/locations/digital-marketing-agency-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

@@ -105,7 +105,7 @@ Q: How long does Chicago Local SEO take? A: Loop Fortune 500 B2B: 3-5 months. FI
 Get Your Free Chicago Local SEO Audit: Phone +1-888-555-CLICK
 Email: chicago@clickmastersdigitalmarketing.com
 Loop, River North, Lincoln Park, Schaumburg, Naperville, and all of Chicagoland`,
-  internalLinks: ["/local-seo-services/","/search-engine-optimization/locations/seo-services-chicago/","/locations/digital-marketing-agency-chicago/","/search-engine-optimization/local-seo/locations/local-seo-services-new-york/","/tools/local-seo-audit/","/industries/manufacturing/"],
+  internalLinks: ["/content-marketing/locations/content-marketing-birmingham/","/search-engine-optimization/locations/seo-services-chicago/","/locations/digital-marketing-agency-chicago/","/search-engine-optimization/local-seo/locations/local-seo-services-new-york/","/search-engine-optimization/local-seo/locations/local-seo-services-tulsa/"],
   
   publishingChecklist: {
     onPageSeo: {

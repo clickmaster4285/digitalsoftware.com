@@ -291,7 +291,7 @@ export const VoiceSearchOptimizationContent = {
       "Voice search is already significant and growing continuously. The businesses building voice search visibility now are establishing the presence that compounds as voice adoption expands the presence that is progressively harder to build as competition for voice search positions increases.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
-    seoLink: "https://clickmastersdigitalmarketing.com/local-seo-services/",
+    seoLink: "https://clickmastersdigitalmarketing.com/content-marketing/locations/content-marketing-birmingham/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",
@@ -343,7 +343,7 @@ export const VoiceSearchOptimizationContent = {
       {
         position: 2,
         name: "SEO Services",
-        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+        url: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/"
       },
       {
         position: 3,

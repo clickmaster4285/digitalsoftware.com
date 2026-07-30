@@ -96,7 +96,7 @@ Results (10 months): Page 1 for 10 SLC healthcare queries | YMYL: E-E-A-T | U of
 
 Phone +1-888-555-CLICK | saltlakecity@clickmastersdigitalmarketing.com
 Lehi, Draper, South Jordan, Murray, and all of Greater Salt Lake City`,
-  internalLinks: ["/seo-services/","/locations/digital-marketing-agency-salt-lake-city/","/search-engine-optimization/locations/seo-services-sacramento/","/search-engine-optimization/locations/seo-services-denver/"],
+  internalLinks: ["/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/locations/digital-marketing-agency-salt-lake-city/","/search-engine-optimization/locations/seo-services-sacramento/","/search-engine-optimization/locations/seo-services-denver/"],
   
   publishingChecklist: {
     onPageSeo: {

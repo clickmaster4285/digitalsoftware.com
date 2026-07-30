@@ -118,7 +118,7 @@ Q: GEO/AEO for Nashville? A: HCA new CDO and Amazon East Bank using ChatGPT/Perp
 Get Your Free Nashville Digital Marketing Audit: Phone +1-888-555-CLICK
 Email: nashville@clickmastersdigitalmarketing.com
 The Gulch, Germantown, Brentwood, Franklin, and all of Middle Tennessee`,
-  internalLinks: ["/search-engine-optimization/locations/seo-services-nashville/","/web-design-development/web-design/locations/web-design-nashville/","/digital-marketing-agency-usa/","/locations/digital-marketing-agency-atlanta/","/industries/healthcare-tech/","/industries/technology/"],
+  internalLinks: ["/search-engine-optimization/locations/seo-services-nashville/","/web-design-development/web-design/locations/web-design-nashville/","/locations/digital-marketing-agency-atlanta/"],
   
   publishingChecklist: {
     onPageSeo: {

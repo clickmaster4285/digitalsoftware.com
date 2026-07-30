@@ -17,7 +17,7 @@ export const EnterpriseSeoContent = {
     author: "Amjad Khan",
     wordCount: "~5,100 words",
     internalLinks: [
-      "/seo-services/",
+      "/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/",
       "/technical-seo-services/",
       "/content-marketing-services/",
       "/marketing-attribution-services/",
@@ -363,7 +363,7 @@ export const EnterpriseSeoContent = {
       "Enterprise SEO at its best is not a cost center — it is a revenue multiplier. The businesses that dominate their categories in organic search for the next decade are making the investment today. They are building the technical foundations, the content authority, and the link profiles that compound into insurmountable competitive advantages over the businesses that wait. Your competitors in organic search are not waiting. The question is how much of the category you intend to own.",
     consultationLink: "https://clickmastersdigitalmarketing.com/contact-us/",
     whatsappLink: "https://wa.me/",
-    seoLink: "https://clickmastersdigitalmarketing.com/seo-services/",
+    seoLink: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/",
   },
   footer: {
     company: "Clickmasters Digital Marketing",
@@ -419,7 +419,7 @@ schema: {
       {
         position: 2,
         name: "SEO Services",
-        url: "https://clickmastersdigitalmarketing.com/seo-services/"
+        url: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/"
       },
       {
         position: 3,

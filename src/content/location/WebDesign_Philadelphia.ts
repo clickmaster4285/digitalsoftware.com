@@ -111,7 +111,7 @@ Q: What is the Main Line institutional visual standard? A: Bryn Mawr/Haverford/S
 Get Your Free Philadelphia Website Audit: Phone +1-888-555-CLICK
 Email: philadelphia@clickmastersdigitalmarketing.com
 Center City, Main Line, King of Prussia, and all of the Delaware Valley`,
-  internalLinks: ["/web-design-services/","/locations/digital-marketing-agency-philadelphia/","/search-engine-optimization/locations/seo-services-philadelphia/","/web-design-development/web-design/locations/web-design-boston/","/industries/healthcare/","/industries/legal/"],
+  internalLinks: ["/locations/digital-marketing-agency-philadelphia/","/search-engine-optimization/locations/seo-services-philadelphia/","/web-design-development/web-design/locations/web-design-boston/","/content-marketing/locations/content-marketing-des-moines/"],
   
   publishingChecklist: {
     onPageSeo: {

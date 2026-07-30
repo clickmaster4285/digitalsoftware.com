@@ -94,7 +94,7 @@ Results (10 months): Page 1 for 12 Scottsdale healthcare queries | YMYL E-E-A-T 
 
 Phone +1-888-555-CLICK | phoenix@clickmastersdigitalmarketing.com
 Chandler, Scottsdale, Tempe, Mesa, and all of Greater Phoenix`,
-  internalLinks: ["/seo-services/","/locations/digital-marketing-agency-phoenix/","/search-engine-optimization/locations/seo-services-las-vegas/","/search-engine-optimization/locations/seo-services-los-angeles/"],
+  internalLinks: ["/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/","/locations/digital-marketing-agency-phoenix/","/search-engine-optimization/locations/seo-services-las-vegas/","/search-engine-optimization/locations/seo-services-los-angeles/"],
   
   publishingChecklist: {
     onPageSeo: {
