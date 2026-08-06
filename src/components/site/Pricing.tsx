@@ -5,7 +5,7 @@ import { ExternalLink } from "lucide-react";
 const plans = [
   {
     t: "Starter Package",
-    p: "Start from $500",
+    p: "Start from $1000",
     d: "Perfect for local businesses & startups",
     bg: "#FFF8DC",
     emoji: "🥉",
@@ -20,7 +20,7 @@ const plans = [
   },
   {
     t: "Growth Package",
-    p: "Start from $1000",
+    p: "Start from $2500",
     d: "Perfect for growing businesses ready to scale",
     bg: "#FFE0E6",
     emoji: "🥈",
@@ -38,7 +38,7 @@ const plans = [
   },
   {
     t: "Enterprise Package",
-    p: "Start from $1500",
+    p: "Start from $5000",
     d: "Custom solutions for large-scale businesses",
     bg: "#DFF7F0",
     emoji: "🏆",
