@@ -40,10 +40,21 @@ export async function generateStaticParams() {
     });
   }
 
-  // Remove duplicates
-  const uniquePaths = Array.from(
-    new Set(paths.map(p => JSON.stringify(p)))
-  ).map(p => JSON.parse(p));
+  // Remove duplicates without JSON.parse round-tripping, which can fail if a generated path is malformed.
+  const uniquePaths: { services: string; slug: string; slugs: string[] }[] = [];
+  const seen = new Set<string>();
+
+  for (const path of paths) {
+    const key = JSON.stringify({
+      services: path.services,
+      slug: path.slug,
+      slugs: path.slugs,
+    });
+
+    if (seen.has(key)) continue;
+    seen.add(key);
+    uniquePaths.push(path);
+  }
 
   console.log(`Generated ${uniquePaths.length} static paths`);
   return uniquePaths;
@@ -123,7 +134,7 @@ function parseFeatures(text: string | undefined): { title: string; body: string 
         !trimmed.startsWith('-') && 
         !trimmed.startsWith('•') && 
         !trimmed.startsWith('*') &&
-        !trimmed.startsWith('—')) {
+        !trimmed.startsWith('')) {
       
       if (currentTitle && currentBody.length > 0) {
         items.push({

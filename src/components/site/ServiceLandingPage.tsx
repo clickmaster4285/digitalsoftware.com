@@ -293,7 +293,7 @@ const ServicesGrid = ({ content }: { content: any }) => {
           <h2 className="font-display text-4xl md:text-7xl font-bold leading-[0.95] mb-20 tracking-tight">
             Our services
             <br />
-            <span className="text-[#FF2E86]">— built to last.</span>
+            <span className="text-[#FF2E86]"> built to last.</span>
           </h2>
         </Reveal>
 

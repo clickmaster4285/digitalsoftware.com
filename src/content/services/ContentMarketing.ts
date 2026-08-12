@@ -12,7 +12,7 @@ export const ContentMarketingContent = {
     tag: "[ Service · 07 ] Content Marketing",
     title: "Content Marketing",
     titleHighlight: "Services",
-    subtitle: "— content that ranks, converts, and compounds.",
+    subtitle: " content that ranks, converts, and compounds.",
     description:
       "Content marketing is one of the most frequently misunderstood investments in digital marketing. Businesses invest in content blog posts, case studies, videos, guides and when the leads do not arrive immediately, they conclude that content marketing does not work. They stop publishing, the content sits on the website unread, and they return to paying for paid advertising that requires constant reinvestment to maintain results. They stopped too early. And they measured it wrong.",
     stats: [

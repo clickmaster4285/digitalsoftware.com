@@ -15,7 +15,7 @@ export const CareersContent = {
   hero: {
     tag: "[ Careers ] Join Clickmasters",
     title: "Careers at Clickmasters",
-    titleHighlight: "— Remote Digital Marketing Roles for Serious Specialists",
+    titleHighlight: " Remote Digital Marketing Roles for Serious Specialists",
     subtitle: "",
     description: "Clickmasters Digital Marketing is a growing digital marketing and software agency serving businesses in the USA, UK, UAE, Pakistan, Canada, and Australia. We are building a team of exceptional specialists practitioners who have chosen digital marketing as a serious profession, who go deep in their disciplines rather than wide, and who measure their professional success by the commercial outcomes they produce for clients rather than the activity they generate.",
     stats: [

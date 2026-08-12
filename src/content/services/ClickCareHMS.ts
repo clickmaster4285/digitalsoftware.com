@@ -16,7 +16,7 @@ export const ClickCareHMSContent = {
   hero: {
     tag: "[ Product ] ClickCare HMS",
     title: "ClickCare HMS",
-    titleHighlight: "— Healthcare Management Software Built for Hospitals, Clinics and Medical Practices",
+    titleHighlight: " Healthcare Management Software Built for Hospitals, Clinics and Medical Practices",
     subtitle: "",
     description: "Healthcare administration is one of the most complex operational environments in any sector. Patients need to be registered, appointments scheduled, clinical notes recorded, diagnoses documented, prescriptions generated, laboratory tests ordered and results recorded, insurance claims submitted and tracked, bills generated and payments collected and every one of these activities must be executed accurately, compliantly, and with the patient data security that healthcare regulation demands.",
     stats: [

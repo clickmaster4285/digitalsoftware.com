@@ -5,7 +5,7 @@ import Link from "next/link";
 export const Contact = () => (
   <section id="contact" className="py-12 sm:py-20 container text-center relative px-4 sm:px-6">
     <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-6 sm:mb-8">
-      — Let's talk
+       Let's talk
     </p>
     
     <motion.h2

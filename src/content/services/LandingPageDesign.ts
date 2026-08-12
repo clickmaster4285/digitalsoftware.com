@@ -12,9 +12,9 @@ export const LandingPageDesignContent = {
     tag: "[ Service · 12 ] Landing Page Design",
     title: "Landing Page Design",
     titleHighlight: "Services",
-    subtitle: "— stop paying for traffic that doesn't convert.",
+    subtitle: " stop paying for traffic that doesn't convert.",
     description:
-      "Expert landing page design — conversion-optimised pages for Google Ads, Meta Ads, lead gen & e-commerce. 8-15% conversion vs 2-3% average. Free consultation.",
+      "Expert landing page design  conversion-optimised pages for Google Ads, Meta Ads, lead gen & e-commerce. 8-15% conversion vs 2-3% average. Free consultation.",
     stats: [
       { k: "2-3%", v: "Average landing page conversion" },
       { k: "8-15%", v: "Well-designed page conversion" },

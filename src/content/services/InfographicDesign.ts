@@ -12,9 +12,9 @@ export const InfographicDesignContent = {
     tag: "[ Service · 13 ] Infographic Design",
     title: "Infographic Design",
     titleHighlight: "Services",
-    subtitle: "— Data Into Content That Gets Shared | Clickmasters",
+    subtitle: " Data Into Content That Gets Shared | Clickmasters",
     description:
-      "Expert infographic design — data visualisation, process infographics, statistical graphics & branded templates. Content that earns backlinks and drives shares.",
+      "Expert infographic design  data visualisation, process infographics, statistical graphics & branded templates. Content that earns backlinks and drives shares.",
     stats: [
       { k: "60,000x", v: "Faster visual vs text processing" },
       { k: "64", v: "Backlinks earned (case study)" },

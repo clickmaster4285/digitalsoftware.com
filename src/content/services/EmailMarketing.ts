@@ -16,9 +16,9 @@ export const EmailMarketingServicesContent = {
   hero: {
     tag: "Email Marketing",
     title: "Email Marketing Services",
-    titleHighlight: "— Highest ROI Channel, Done Properly | Clickmasters",
+    titleHighlight: " Highest ROI Channel, Done Properly | Clickmasters",
     subtitle: "",
-    description: "Expert email marketing services — strategy, automation, list growth, Klaviyo & HubSpot management. Average $36 return per $1 spent. Free email audit.",
+    description: "Expert email marketing services  strategy, automation, list growth, Klaviyo & HubSpot management. Average $36 return per $1 spent. Free email audit.",
     stats: [
       { k: "$36", v: "ROI per $1 spent" },
       { k: "11% → 43%", v: "Email revenue share" },

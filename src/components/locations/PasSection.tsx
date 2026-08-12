@@ -194,7 +194,7 @@ export const PasLightSection = ({ pasText }: PasSectionProps) => {
         <Reveal>
           <div className="mb-12">
             <h3 className="font-display text-4xl md:text-6xl tracking-tighter mb-3 text-gray-900">
-              THE BRIDGE — <span className="text-[#FF2E86]">CLICK GROWTH SYSTEM</span>
+              THE BRIDGE  <span className="text-[#FF2E86]">CLICK GROWTH SYSTEM</span>
             </h3>
             <p className="text-gray-500 max-w-md">Six powerful levers that transform your growth trajectory</p>
           </div>
@@ -321,8 +321,8 @@ const parsePasContent = (pasText: string): PasContent => {
       continue;
     }
 
-    if (currentSection === 'bridge' && trimmed.match(/^[CKLIS] —/)) {
-      const match = trimmed.match(/^([CKLIS]) — ([^:]+):/);
+    if (currentSection === 'bridge' && trimmed.match(/^[CKLIS] /)) {
+      const match = trimmed.match(/^([CKLIS])  ([^:]+):/);
       if (match) {
         const letter = match[1];
         const title = match[2].trim();

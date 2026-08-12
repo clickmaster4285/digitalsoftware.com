@@ -12,8 +12,8 @@ export const WebsiteMaintenanceContent = {
     tag: "[ Service · 02 ] Website Maintenance",
     title: "Website Maintenance",
     titleHighlight: "Services",
-    subtitle: "— keep your website fast, secure, and always working.",
-    description: "Expert website maintenance — staged updates, security monitoring, uptime monitoring, backups & performance optimisation. USA, UK & UAE. Set up your maintenance plan.",
+    subtitle: " keep your website fast, secure, and always working.",
+    description: "Expert website maintenance  staged updates, security monitoring, uptime monitoring, backups & performance optimisation. USA, UK & UAE. Set up your maintenance plan.",
     stats: [
       { k: "4h", v: "Failure detection window" },
       { k: "100x", v: "Prevention vs remediation cost" },

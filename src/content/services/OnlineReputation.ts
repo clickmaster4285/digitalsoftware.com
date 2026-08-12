@@ -16,9 +16,9 @@ export const OnlineReputationManagementContent = {
   hero: {
     tag: "Online Reputation Management",
     title: "Online Reputation Management Services",
-    titleHighlight: "— Control the Narrative. Protect What You Have Built.",
+    titleHighlight: " Control the Narrative. Protect What You Have Built.",
     subtitle: "",
-    description: "Expert online reputation management — review management, Google ORM, counter-content & crisis response. USA, UK & UAE. Free reputation audit.",
+    description: "Expert online reputation management  review management, Google ORM, counter-content & crisis response. USA, UK & UAE. Free reputation audit.",
     stats: [
       { k: "3.1 → 4.4", v: "Google rating improvement" },
       { k: "38%", v: "Patient bookings increase" },

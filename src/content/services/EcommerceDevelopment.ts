@@ -19,7 +19,7 @@ export const EcommerceDevContent = {
     tag: "[ Service · 06 ] E-Commerce Development",
     title: "E-Commerce Development",
     titleHighlight: "Services",
-    subtitle: "— Build Online Stores That Sell | Clickmasters",
+    subtitle: " Build Online Stores That Sell | Clickmasters",
     description: "Expert e-commerce development for Shopify, WooCommerce & custom platforms. High-converting product pages, checkout optimization & systems integration.",
     stats: [
       { k: "1.5-3%", v: "Avg conversion rate" },

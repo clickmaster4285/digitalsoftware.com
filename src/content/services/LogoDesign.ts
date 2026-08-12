@@ -12,9 +12,9 @@ export const LogoDesignContent = {
     tag: "[ Service · 11 ] Logo Design",
     title: "Logo Design",
     titleHighlight: "Services",
-    subtitle: "— your business deserves a mark worth remembering.",
+    subtitle: " your business deserves a mark worth remembering.",
     description:
-      "Expert logo design — strategic, original, professionally executed. Full variant set, complete file package, every industry. USA, UK & UAE. Free logo consultation.",
+      "Expert logo design  strategic, original, professionally executed. Full variant set, complete file package, every industry. USA, UK & UAE. Free logo consultation.",
     stats: [
       { k: "22,200/mo", v: "Search volume" },
       { k: "$12.80", v: "Avg CPC" },
@@ -42,7 +42,7 @@ export const LogoDesignContent = {
   },
   problem: {
     title: "What Makes a Logo Work",
-    titleHighlight: "— And Why Most Don't",
+    titleHighlight: " And Why Most Don't",
     items: [
       {
         icon: "AlertCircle",

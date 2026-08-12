@@ -13,8 +13,8 @@ export const SocialMediaStrategyContent = {
     tag: "[ Consulting ] Social Media Strategy",
     title: "Social Media ",
     titleHighlight: "Strategy Consulting",
-    subtitle: "— Build the Social Media Programme That Produces Commercial Results, Not Just Content",
-    description: "Social media strategy consultant — platform strategy, content pillars, LinkedIn B2B, DTC Instagram/TikTok, measurement framework and commercial attribution.",
+    subtitle: " Build the Social Media Programme That Produces Commercial Results, Not Just Content",
+    description: "Social media strategy consultant  platform strategy, content pillars, LinkedIn B2B, DTC Instagram/TikTok, measurement framework and commercial attribution.",
     stats: [
       { k: "42", v: "Qualified leads/quarter" },
       { k: "31%", v: "Revenue from social (from 8%)" },

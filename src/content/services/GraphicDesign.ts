@@ -12,9 +12,9 @@ export const GraphicDesignContent = {
     tag: "[ Service · 10 ] Graphic Design",
     title: "Graphic Design",
     titleHighlight: "Services",
-    subtitle: "— brand visuals that work as hard as your business does.",
+    subtitle: " brand visuals that work as hard as your business does.",
     description:
-      "Expert graphic design — brand identity, marketing collateral, social media, packaging, illustration & design systems. USA, UK & UAE. Get your design quote today.",
+      "Expert graphic design  brand identity, marketing collateral, social media, packaging, illustration & design systems. USA, UK & UAE. Get your design quote today.",
     stats: [
       { k: "75%", v: "Judge credibility by design" },
       { k: "94%", v: "First impressions are design" },

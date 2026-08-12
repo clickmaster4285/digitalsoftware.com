@@ -12,7 +12,7 @@ export const PpcManagementContent = {
     tag: "[ Service · 05 ] PPC Management",
     title: "PPC Management",
     titleHighlight: "Services",
-    subtitle: "— Stop Wasting Ad Spend, Start Growing Revenue.",
+    subtitle: " Stop Wasting Ad Spend, Start Growing Revenue.",
     description:
       "Expert PPC management services for Google, Meta, LinkedIn & more. Data-driven campaigns that reduce wasted spend & maximize ROAS. Free PPC audit for USA, UK & UAE.",
     stats: [

@@ -12,8 +12,8 @@ export const WooCommerceDevelopmentContent = {
     tag: "[ Service · 04 ] WooCommerce Development",
     title: "WooCommerce Development",
     titleHighlight: "Services",
-    subtitle: "— The Most Flexible E-Commerce Platform, Built Without Compromise.",
-    description: "Expert WooCommerce development — custom themes, product types, subscriptions, B2B wholesale, integrations & performance optimisation. USA, UK and UAE. Free consultation.",
+    subtitle: " The Most Flexible E-Commerce Platform, Built Without Compromise.",
+    description: "Expert WooCommerce development  custom themes, product types, subscriptions, B2B wholesale, integrations & performance optimisation. USA, UK and UAE. Free consultation.",
     stats: [
       { k: "39%", v: "All online stores powered by Woo" },
       { k: "$180K", v: "MRR achieved (case study)" },

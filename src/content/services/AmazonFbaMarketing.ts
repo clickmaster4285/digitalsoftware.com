@@ -12,9 +12,9 @@ export const AmazonFbaMarketingContent = {
     tag: "[ Service · 08 ] Amazon FBA Marketing",
     title: "Amazon FBA",
     titleHighlight: "Marketing",
-    subtitle: "— dominate your category. Scale your private label. Protect your margins.",
+    subtitle: " dominate your category. Scale your private label. Protect your margins.",
     description:
-      "Amazon FBA marketing services — listing optimisation, Amazon PPC, review strategy, A+ content and off-Amazon traffic for FBA private label sellers.",
+      "Amazon FBA marketing services  listing optimisation, Amazon PPC, review strategy, A+ content and off-Amazon traffic for FBA private label sellers.",
     stats: [
       { k: "$500B+", v: "Amazon GMV 2024" },
       { k: "10%", v: "Sellers capture most sales" },

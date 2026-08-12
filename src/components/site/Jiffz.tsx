@@ -45,7 +45,7 @@ export const Jiffz = () => (
   <section className="py-32 container">
     <div className="grid md:grid-cols-12 gap-10 items-end mb-16">
       <div className="md:col-span-7">
-        <p className="text-xs uppercase tracking-[0.25em] mb-4">— Results </p>
+        <p className="text-xs uppercase tracking-[0.25em] mb-4"> Results </p>
         <h2 className="font-display text-5xl md:text-7xl leading-[1.05] text-balance">
           Results <em>Our Clients </em>Actually Get
         </h2>

@@ -12,9 +12,9 @@ export const PrMediaOutreachContent = {
     tag: "[ Service · 10 ] PR & Media Outreach",
     title: "Digital PR & Media",
     titleHighlight: "Outreach Services ",
-    subtitle: "— Earn the Coverage That Builds the Authority No Paid Ad Can Buy.",
+    subtitle: " Earn the Coverage That Builds the Authority No Paid Ad Can Buy.",
     description:
-      "Digital PR services — press coverage, high-authority backlinks, thought leadership and media outreach for UK, USA, UAE, Canada and Australian brands.",
+      "Digital PR services  press coverage, high-authority backlinks, thought leadership and media outreach for UK, USA, UAE, Canada and Australian brands.",
     stats: [
       { k: "DA 70-90", v: "Editorial backlinks" },
       { k: "22", v: "High-authority links in 12 months" },

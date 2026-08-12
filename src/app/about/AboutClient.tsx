@@ -2,7 +2,7 @@
 
 import { useEffect, useState, useRef } from "react";
 import { useSmoothScroll } from "@/hooks/useSmoothScroll";
-import { About } from "@/components/site/About";
+import { AboutPageContent } from "@/content/AboutPageContent";
 import { RoamingRobot } from "@/components/site/RoamingRobot";
 
 type Theme = { bg: string; fg: string };
@@ -10,9 +10,7 @@ type Theme = { bg: string; fg: string };
 const LIGHT: Theme = { bg: "0 0% 98%", fg: "0 0% 6%" };
 const DARK: Theme = { bg: "0 0% 6%", fg: "0 0% 98%" };
 
-
-
-export default function AboutPage() {
+export default function AboutPageClient() {
   useSmoothScroll();
   const [idx, setIdx] = useState(0);
   const sections = useRef<(HTMLElement | null)[]>([]);
@@ -36,8 +34,6 @@ export default function AboutPage() {
     LIGHT,
     DARK,
   ];
-
-
 
   useEffect(() => {
     const obs = new IntersectionObserver(
@@ -100,8 +96,9 @@ export default function AboutPage() {
       <RoamingRobot />
 
       <main className="relative">
-        <section ref={(el) => { sections.current[0] = el; }}><About /></section>
-        
+        <section ref={(el) => { sections.current[0] = el; }}>
+          <AboutPageContent />
+        </section>
       </main>
     </div>
   );

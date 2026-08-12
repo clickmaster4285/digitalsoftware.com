@@ -81,7 +81,7 @@ export const Workflow = () => (
   <section id="workflow" className="py-32 container px-4 md:px-6">
     <div className="grid lg:grid-cols-12 gap-12 items-center">
       <div className="lg:col-span-5">
-        <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">— How we ship</p>
+        <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4"> How we ship</p>
         <h2 className="font-display text-5xl md:text-6xl leading-[1.05] mb-8">
           From idea to <em>production</em> in weeks, not quarters.
         </h2>

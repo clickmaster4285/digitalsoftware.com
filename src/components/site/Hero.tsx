@@ -58,16 +58,16 @@ export const Hero = () => {
           className="inline-flex items-center gap-2 rounded-full border border-border bg-background/70 backdrop-blur px-4 py-1.5 text-xs"
         >
           <span className="w-1.5 h-1.5 rounded-full bg-foreground animate-pulse" />
-         Digital Marketing Agency 
+          Full-Service Digital Marketing Agency
         </motion.div>
 
         <div className="mt-10 grid lg:grid-cols-12 gap-10 items-center">
           <div className="lg:col-span-7 relative z-10">
-            <h1 className="font-display text-[clamp(2.5rem,10vw,8rem)] leading-[0.92] text-balance tracking-tight">
-              {"Best Digital Marketing ".split("").map((c, i) => (
+            <h1 className="font-display text-[clamp(2.5rem,10vw,6rem)] leading-[0.92] text-balance tracking-tight">
+              {"Grow Your Business With a Full-Service".split(" ").map((word, i) => (
                 <motion.span key={i} initial={{ y: "100%", opacity: 0 }} animate={{ y: 0, opacity: 1 }}
-                  transition={{ delay: 0.2 + i * 0.04, duration: 0.7, ease: [0.65, 0, 0.35, 1] }}
-                  className="inline-block">{c === " " ? "\u00A0" : c}</motion.span>
+                  transition={{ delay: 0.2 + i * 0.06, duration: 0.7, ease: [0.65, 0, 0.35, 1] }}
+                  className="inline-block mr-2">{word}</motion.span>
               ))}
               <br />
               <motion.span
@@ -75,51 +75,34 @@ export const Hero = () => {
                 transition={{ delay: 0.7, duration: 0.9 }}
                 className="italic font-display"
               >
-                Agency <span className="not-italic">·</span>Grow  Faster 
-              </motion.span>
-              <br />
-              <motion.span
-                initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.9, duration: 0.9 }}
-                className="inline-flex items-baseline gap-3"
-              >
-                Rank 
-                <span className="inline-block align-middle w-[clamp(60px,9vw,140px)] h-[clamp(60px,9vw,140px)] rounded-full bg-gradient-to-br from-zinc-900 to-zinc-700" />
-                <em>Higher.</em>
+                Digital Marketing <span className="not-italic">Agency</span>
               </motion.span>
             </h1>
 
+            <motion.p
+              initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1, duration: 0.8 }}
+              className="mt-6 max-w-2xl w-full text-lg text-muted-foreground leading-relaxed"
+            >
+              Clickmasters is a results-driven digital marketing agency helping businesses attract more customers, generate qualified leads, and grow revenue online. Whether you're a small business owner, a B2B company, or an enterprise brand, our team combines strategy, creativity, and data to deliver measurable results.
+            </motion.p>
 
+            <motion.p
+              initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1.2, duration: 0.8 }}
+              className="mt-4 max-w-2xl w-full text-lg text-muted-foreground leading-relaxed"
+            >
+              As a full-service digital marketing agency, we manage every part of your online presence  SEO, paid advertising, social media, content, email, and web design  so you don't have to juggle multiple vendors or freelancers. One team, one strategy, one goal: your growth.
+            </motion.p>
 
-   <motion.div
-              initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 1.2, duration: 0.7 }}
+            <motion.div
+              initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 1.4, duration: 0.7 }}
               className="mt-10 flex items-center gap-6 flex-wrap"
             >
               <a href="/contact" className="group inline-flex items-center gap-3 rounded-full bg-foreground text-background pl-6 pr-3 py-3 text-sm font-medium hover:opacity-90 transition">
-                Get Free Strategy Call 
+                Get a Free Consultation
                 <span className="grid place-items-center w-9 h-9 rounded-full bg-background text-foreground transition-transform group-hover:rotate-45"> <ExternalLink className="w-4 h-4" /></span>
               </a>
               <a href="#work" className="text-sm underline underline-offset-4">See our work</a>
-
-              {/* <div className="flex items-center gap-3 ml-2">
-                <div className="flex -space-x-2">
-                  {["#FFD43B","#A8EFE0","#FF8FA3","#BBD3FF"].map(c => (
-                    <span key={c} style={{ background: c }} className="w-7 h-7 rounded-full border-2 border-background" />
-                  ))}
-                </div>
-                <span className="text-xs text-muted-foreground">120+ founders shipped</span>
-              </div> */}
             </motion.div>
-            
-            <motion.p
-              initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1, duration: 0.8 }}
-             className="mt-10 max-w-md w-full text-lg text-muted-foreground leading-relaxed"
-            >
-         Clickmasters is a results-driven digital marketing company trusted by 200+ businesses across the United States. Whether you're searching for the best digital marketing agency partner to scale your brand online, Clickmasters builds custom strategies that deliver real, measurable growth. No fluff. No guesswork. Just the results that your business can need.
-
-            </motion.p>
-
-         
           </div>
 
           <motion.div style={{ y, scale, rotate }} className="lg:col-span-5 relative">

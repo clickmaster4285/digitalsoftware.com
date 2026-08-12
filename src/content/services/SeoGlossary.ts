@@ -11,9 +11,9 @@ export const SeoGlossaryContent = {
   hero: {
     tag: "[ Resource ] SEO Glossary",
     title: "SEO Glossary",
-    titleHighlight: "— Every Term You Need to Understand Search Engine Optimisation",
+    titleHighlight: " Every Term You Need to Understand Search Engine Optimisation",
     subtitle: "",
-    description: "Complete SEO glossary — clear definitions of every search engine optimisation term from algorithm to white hat SEO. For beginners and experienced marketers.",
+    description: "Complete SEO glossary  clear definitions of every search engine optimisation term from algorithm to white hat SEO. For beginners and experienced marketers.",
     stats: [
       { k: "36+", v: "Defined terms" },
       { k: "14,800/mo", v: "Search volume" },
@@ -338,8 +338,8 @@ export const SeoGlossaryContent = {
   schema: {
   Article: {
     "@type": "Article",
-    headline: "SEO Glossary — Every Term You Need to Understand Search Engine Optimisation",
-    description: "Complete SEO glossary — clear definitions of every search engine optimisation term from algorithm to white hat SEO. For beginners and experienced marketers.",
+    headline: "SEO Glossary  Every Term You Need to Understand Search Engine Optimisation",
+    description: "Complete SEO glossary  clear definitions of every search engine optimisation term from algorithm to white hat SEO. For beginners and experienced marketers.",
     author: {
       "@type": "Person",
       name: "Amjad Khan"

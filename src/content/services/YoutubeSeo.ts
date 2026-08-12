@@ -10,11 +10,11 @@ export const YoutubeSeoContent = {
   },
   hero: {
     tag: "[ Service · 16 ] YouTube SEO",
-    title: "YouTube SEO Services — Stop Publishing Videos Nobody Finds. Start Ranking on the World's Second-Largest",
+    title: "YouTube SEO Services  Stop Publishing Videos Nobody Finds. Start Ranking on the World's Second-Largest",
     titleHighlight: "Search Engine.",
   
     description:
-      "YouTube SEO services — channel audit, title optimisation, keyword research, content strategy and analytics. Turn videos into compounding search assets.",
+      "YouTube SEO services  channel audit, title optimisation, keyword research, content strategy and analytics. Turn videos into compounding search assets.",
     stats: [
       { k: "2.7B", v: "Monthly logged-in users" },
       { k: "3B+", v: "Daily searches" },
@@ -274,7 +274,7 @@ export const YoutubeSeoContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | YouTube SEO specialist | 10+ years",
+    author: "Amjad Khan  CEO, Clickmasters Digital Marketing | YouTube SEO specialist | 10+ years",
   },
 
   schema: {

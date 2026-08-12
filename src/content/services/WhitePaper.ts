@@ -16,9 +16,9 @@ export const WhitePaperWritingServicesContent = {
   hero: {
     tag: "White Paper Writing",
     title: "White Paper Writing Services",
-    titleHighlight: "— Establish Authority, Generate Leads | Clickmasters",
+    titleHighlight: " Establish Authority, Generate Leads | Clickmasters",
     subtitle: "",
-    description: "Expert white paper writing — research-based, analytically rigorous white papers for B2B authority and lead generation. USA, UK and UAE. Free consultation.",
+    description: "Expert white paper writing  research-based, analytically rigorous white papers for B2B authority and lead generation. USA, UK and UAE. Free consultation.",
     stats: [
       { k: "340", v: "Qualified leads in 90 days" },
       { k: "47", v: "Industry publications" },

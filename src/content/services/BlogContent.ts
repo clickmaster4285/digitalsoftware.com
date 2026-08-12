@@ -12,7 +12,7 @@ export const BlogContent = {
     tag: "[ Resources ]",
     title: "Clickmasters",
     titleHighlight: "Blog",
-    subtitle: "— practical digital marketing insights that drive real business growth.",
+    subtitle: " practical digital marketing insights that drive real business growth.",
     description:
       "The Clickmasters Digital Marketing Blog is where our team shares what we are learning from running digital marketing programmes across the USA, UK, UAE, Pakistan, Canada, and Australia the specific tactics, the strategic frameworks, the market-specific intelligence, and the honest performance analysis that produce commercial growth for the businesses we serve.",
     stats: [

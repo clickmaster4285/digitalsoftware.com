@@ -12,9 +12,9 @@ export const AiMlDevContent = {
     tag: "[ Service · 02 ] AI & ML Development",
     title: "AI & ML Development",
     titleHighlight: "Company",
-    subtitle: "— build intelligence into your products and processes.",
+    subtitle: " build intelligence into your products and processes.",
     description:
-      "Expert AI & ML development — custom models, LLM apps, RAG, computer vision, MLOps & predictive analytics. USA, UK & UAE. Free AI consultation.",
+      "Expert AI & ML development  custom models, LLM apps, RAG, computer vision, MLOps & predictive analytics. USA, UK & UAE. Free AI consultation.",
     stats: [
       { k: "85-90%", v: "AI projects fail to ship" },
       { k: "74%", v: "Processing time reduction" },

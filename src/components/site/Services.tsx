@@ -6,89 +6,82 @@ import Image from "next/image";
 const services = [
   {
     n: "01",
-    t: "SEO Services",
-    d: "Rank higher on search engines with keyword research, on-page optimization, link building, and technical SEO to grow organic traffic and visibility."
+    t: "Search Engine Optimization (SEO)",
+    d: "We help you rank higher on Google with technical SEO, on-page optimization, and local SEO strategies. Our digital marketing and SEO services are built to drive consistent, long-term organic traffic and qualified leads to your website."
   },
   {
     n: "02",
-    t: "PPC & Paid Ads",
-    d: "Run high-performing Google, Meta, and Bing ad campaigns optimized for ROI, lead generation, and reduced ad spend waste."
+    t: "Pay-Per-Click (PPC) Advertising",
+    d: "We create and manage high-converting Google Ads, Bing Ads, and paid social campaigns that put your business in front of ready-to-buy customers. Every campaign is optimized continuously to lower your cost per lead and maximize ROI."
   },
   {
     n: "03",
     t: "Social Media Marketing",
-    d: "Build and grow your brand across Facebook, Instagram, LinkedIn, and TikTok with content, engagement, and paid social campaigns."
+    d: "We build your brand presence across Facebook, Instagram, LinkedIn, and TikTok with engaging content and community management. Our social strategies increase awareness, engagement, and drive real business inquiries."
   },
   {
     n: "04",
-    t: "Content & Email Marketing",
-    d: "Engaging blogs, scripts, newsletters, and automated email flows that nurture leads and increase customer retention."
+    t: "Content Marketing",
+    d: "We create blog posts, landing pages, and guides that educate your audience and build trust in your brand. Great content also strengthens your SEO strategy and supports long-term organic growth."
   },
   {
     n: "05",
-    t: "Web Development",
-    d: "Fast, responsive, SEO-optimized websites and landing pages designed to convert visitors into customers."
+    t: "Email Marketing",
+    d: "We design automated email sequences and campaigns that nurture leads and turn them into loyal, repeat customers. Our email strategies keep your audience engaged at every stage of the buyer journey."
   },
   {
     n: "06",
-    t: "Mobile App Development",
-    d: "Custom iOS and Android apps with smooth UX, scalable architecture, and performance-focused engineering."
+    t: "Web Design & Development",
+    d: "We build fast, mobile-friendly, and conversion-optimized websites that turn visitors into leads. Your website becomes the foundation for every other digital marketing service we provide."
   },
   {
     n: "07",
-    t: "E-commerce Solutions",
-    d: "Shopify and WooCommerce stores with CRO, product optimization, and ad integration to increase online sales."
+    t: "Online Reputation Management",
+    d: "We help you build and protect your brand's online reputation through review generation and management. A strong reputation increases trust and directly impacts your local search rankings."
   },
   {
     n: "08",
-    t: "AI, Automation & Tech",
-    d: "AI tools, chatbots, automation systems, and analytics to streamline workflows and scale your business efficiently."
+    t: "Local SEO & Google Business Profile Optimization",
+    d: "We optimize your Google Business Profile and local listings to help you rank in the map pack and local searches. This service is essential for businesses wanting to attract customers near me."
   },
   {
     n: "09",
-    t: "CRO & Analytics",
-    d: "A/B testing, heatmaps, funnel analysis, and data-driven optimization to turn more traffic into paying customers."
+    t: "Digital Marketing Consulting Services",
+    d: "For businesses wanting expert guidance without full management, we offer digital marketing consulting services. We help you build strategy, choose the right channels, and execute an in-house plan with confidence."
   },
 ];
 
-
 export const Services = () => (
   <section id="services" className="py-32 container">
-  <div className="grid md:grid-cols-12 gap-12 mb-20 items-center">
+    <div className="grid md:grid-cols-12 gap-12 mb-20 items-center">
+      {/* LEFT SIDE IMAGE */}
+      <div className="md:col-span-4 flex justify-center md:justify-start">
+        <Image
+          src={servicesImg}
+          alt="Clickmasters Services"
+          width={500}
+          height={500}
+          className="w-full max-w-sm h-auto object-contain"
+          priority
+        />
+      </div>
 
-  {/* LEFT SIDE IMAGE */}
-<div className="md:col-span-4 flex justify-center md:justify-start">
-  <Image
-    src={servicesImg}
-    alt="Clickmasters Services"
-    width={500}
-    height={500}
-    className="w-full max-w-sm h-auto object-contain"
-    priority
-  />
-</div>
+      {/* RIGHT SIDE TEXT */}
+      <div className="md:col-span-8">
+        <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">
+          Services
+        </p>
 
-  {/* RIGHT SIDE TEXT */}
-  <div className="md:col-span-8">
-    
-    <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">
-      Services
-    </p>
+        <h2 className="font-display text-5xl md:text-7xl leading-[1.05] text-balance">
+          Our <em>Digital Marketing</em> Services
+        </h2>
 
-    <h2 className="font-display text-5xl md:text-7xl leading-[1.05] text-balance">
-      Clickmasters <em>Digital Marketing</em> Services
-    </h2>
+        <p className="mt-6 text-muted-foreground text-lg md:text-xl max-w-2xl text-balance">
+          At Clickmasters, we provide complete digital marketing services designed to help your business get found, get leads, and get results. Here's what we offer:
+        </p>
+      </div>
+    </div>
 
-    <p className="mt-6 text-muted-foreground text-lg md:text-xl max-w-2xl text-balance">
-      Digital Marketing Services at Clickmasters are built to help your business grow faster,
-      smarter, and stronger in today's competitive online world. From SEO and paid ads to social
-      media and content strategy, we craft custom solutions that drive real traffic, generate
-      quality leads, and boost conversions. Whether you're a startup or an established brand,
-      our expert team is ready to take your digital presence to the next level.
-    </p>
-  </div>
-
-</div>
     <div className="grid md:grid-cols-3 gap-px bg-border">
       {services.map((s, i) => (
         <motion.div
@@ -109,9 +102,7 @@ export const Services = () => (
       ))}
     </div>
 
-
-
-{/* Bottom CTA Section */}
+  {/* Bottom CTA Section */}
 <motion.div
   initial={{ opacity: 0, y: 30 }}
   whileInView={{ opacity: 1, y: 0 }}
@@ -124,17 +115,15 @@ export const Services = () => (
 
   <div className="relative max-w-3xl mx-auto">
     <p className="text-xs uppercase tracking-[0.25em] text-muted-foreground mb-4">
-      Free Consultation
+      Get Started
     </p>
 
     <h3 className="font-display text-4xl md:text-6xl leading-[1.05] mb-6 text-balance">
-      Not sure which service is <em>right for you?</em>
+      Get Started With <em>Clickmasters</em> Today
     </h3>
 
     <p className="text-muted-foreground text-lg md:text-xl leading-relaxed mb-10 max-w-2xl mx-auto text-balance">
-      We’ll analyze your business for free and recommend the exact services you need —
-      from SEO and ads to automation and web development. No pressure. No obligation.
-      Just clear direction for real growth.
+      You don't need to figure out digital marketing alone. Our team is ready to build a custom strategy that fits your business, your industry, and your goals.
     </p>
 
     <div className="flex items-center justify-center gap-4 flex-wrap">
@@ -143,7 +132,7 @@ export const Services = () => (
         href="/contact"
         className="group inline-flex items-center gap-3 rounded-full bg-foreground text-background pl-7 pr-3 py-3.5 text-sm font-medium hover:opacity-90 transition-all"
       >
-        Get Your Free Consultation
+        Book Your Free Consultation
 
         <span className="grid place-items-center w-10 h-10 rounded-full bg-background text-foreground transition-transform duration-300 group-hover:rotate-45">
           <ExternalLink className="w-4 h-4" />
@@ -152,7 +141,5 @@ export const Services = () => (
     </div>
   </div>
 </motion.div>
-
-    
   </section>
 );

@@ -16,7 +16,7 @@ export const ClickPOSContent = {
   hero: {
     tag: "[ Product ] ClickPOS",
     title: "ClickPOS",
-    titleHighlight: "— The Point of Sale System Built for Retailers, Restaurants and Hospitality",
+    titleHighlight: " The Point of Sale System Built for Retailers, Restaurants and Hospitality",
     subtitle: "",
     description: "Your point of sale system is not just a till. It is the operational core of your business: the system that processes every transaction, tracks every inventory movement, manages every table or appointment, reports every day's performance, and when it fails, lags, or loses data causes every queue, every complaint, and every lost sale.",
     stats: [

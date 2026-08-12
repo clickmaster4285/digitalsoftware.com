@@ -16,9 +16,9 @@ export const AmazonMarketingServicesContent = {
   hero: {
     tag: "[ Agency ] Amazon Marketing",
     title: "Amazon Marketing Agency",
-    titleHighlight: "— Rank Higher. Convert Better. Sell More on Amazon.",
+    titleHighlight: " Rank Higher. Convert Better. Sell More on Amazon.",
     subtitle: "",
-    description: "Expert Amazon marketing agency — listing optimisation, Sponsored Ads, A+ Content, Amazon SEO & Vine. FBA brand specialists. USA, UK & UAE. Free Amazon audit.",
+    description: "Expert Amazon marketing agency  listing optimisation, Sponsored Ads, A+ Content, Amazon SEO & Vine. FBA brand specialists. USA, UK & UAE. Free Amazon audit.",
     stats: [
       { k: "218%", v: "Revenue increase (electronics)" },
       { k: "41%", v: "ACoS reduction (home & kitchen)" },

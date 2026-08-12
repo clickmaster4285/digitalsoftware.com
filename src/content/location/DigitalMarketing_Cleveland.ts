@@ -11,12 +11,12 @@ export const DigitalMarketing_Cleveland = {
   citySlug: "cleveland",
   slug: "/digital-marketing-agency-cleveland/",
   
-  h1: `Digital Marketing Agency Cleveland — Cleveland Clinic YMYL Revenue, Parker Hannifin Manufacturing B2B, and Northeast Ohio Commercial Growth`,
+  h1: `Digital Marketing Agency Cleveland  Cleveland Clinic YMYL Revenue, Parker Hannifin Manufacturing B2B, and Northeast Ohio Commercial Growth`,
   primaryKw: `digital marketing agency cleveland`,
-  formula: `BAB — Cleveland Clinic health IT vendors invisible + Parker Hannifin/Lincoln Electric manufacturing vendors unaddressed + Progressive/KeyBank fintech unreached + Sherwin-Williams/Eaton Fortune 500 unaddressed → CLICK Growth System for the Forest City's healthcare and manufacturing capital`,
+  formula: `BAB  Cleveland Clinic health IT vendors invisible + Parker Hannifin/Lincoln Electric manufacturing vendors unaddressed + Progressive/KeyBank fintech unreached + Sherwin-Williams/Eaton Fortune 500 unaddressed → CLICK Growth System for the Forest City's healthcare and manufacturing capital`,
   seoTitle: `Digital Marketing Agency Cleveland | Cleveland Clinic & Parker Hannifin Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Cleveland. Cleveland Clinic YMYL health technology, Parker Hannifin manufacturing B2B, Progressive Insurance FINRA, and Northeast Ohio commercial growth. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Cleveland Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-cleveland/","address":{"@type":"PostalAddress","addressLocality":"Cleveland","addressRegion":"OH","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Cleveland Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-cleveland/","address":{"@type":"PostalAddress","addressLocality":"Cleveland","addressRegion":"OH","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3900,
   breadcrumb: ``,
  
@@ -93,17 +93,17 @@ These tools help us measure what matters: traffic quality, rankings, leads, call
 
 
 features: ``,
-  pas: `THE BEFORE: Cleveland's most capable cardiovascular analytics technology company — \$7.4M ARR, Cleveland Clinic relationships. Cleveland Clinic appointed a new VP of Digital Health from Boston Children's Hospital. She doesn't know the Cleveland company. Searches 'cardiovascular clinical analytics vendor Cleveland Clinic Ohio' — the company appears nowhere. Meanwhile, a Mayfield Heights precision manufacturing analytics company with Parker Hannifin relationships gets no digital discovery when Parker Hannifin's new VP of Digital Transformation from Siemens arrives.
+  pas: `THE BEFORE: Cleveland's most capable cardiovascular analytics technology company  \$7.4M ARR, Cleveland Clinic relationships. Cleveland Clinic appointed a new VP of Digital Health from Boston Children's Hospital. She doesn't know the Cleveland company. Searches 'cardiovascular clinical analytics vendor Cleveland Clinic Ohio'  the company appears nowhere. Meanwhile, a Mayfield Heights precision manufacturing analytics company with Parker Hannifin relationships gets no digital discovery when Parker Hannifin's new VP of Digital Transformation from Siemens arrives.
 
 THE AFTER: Cleveland cardiovascular analytics ranks top 3 for 11 Cleveland Clinic health IT queries. Parker Hannifin analytics ranks top 3 for 10 Cleveland manufacturing B2B queries. Both VP-level executives discover through organic.
 
-THE BRIDGE — CLICK GROWTH SYSTEM FOR CLEVELAND:
-C — Capture: Cleveland Clinic YMYL cardiac vocabulary + Parker Hannifin motion control + Progressive/KeyBank FINRA + Sherwin-Williams/Eaton Fortune 500.
-L — Lead: HIPAA all healthcare channels. FINRA/SEC financial. Ohio commercial compliance.
-I — Influence: Cleveland Clinic Lerner Research/Innovations thought leadership. Parker Hannifin/Lincoln Electric manufacturing authority. Progressive UBI/telematics. Sherwin-Williams specialty coatings.
-C — Convert: Cleveland Clinic institutional vendor credibility. Parker Hannifin manufacturing institutional quality.
-K — Keep: Cleveland Clinic/University Hospitals named HubSpot pipeline. Parker Hannifin/Lincoln Electric manufacturing nurture. Progressive/KeyBank FINRA email.
-S — Scale: GEO/AEO for Cleveland Clinic YMYL and Parker Hannifin manufacturing AI search queries.`,
+THE BRIDGE  CLICK GROWTH SYSTEM FOR CLEVELAND:
+C  Capture: Cleveland Clinic YMYL cardiac vocabulary + Parker Hannifin motion control + Progressive/KeyBank FINRA + Sherwin-Williams/Eaton Fortune 500.
+L  Lead: HIPAA all healthcare channels. FINRA/SEC financial. Ohio commercial compliance.
+I  Influence: Cleveland Clinic Lerner Research/Innovations thought leadership. Parker Hannifin/Lincoln Electric manufacturing authority. Progressive UBI/telematics. Sherwin-Williams specialty coatings.
+C  Convert: Cleveland Clinic institutional vendor credibility. Parker Hannifin manufacturing institutional quality.
+K  Keep: Cleveland Clinic/University Hospitals named HubSpot pipeline. Parker Hannifin/Lincoln Electric manufacturing nurture. Progressive/KeyBank FINRA email.
+S  Scale: GEO/AEO for Cleveland Clinic YMYL and Parker Hannifin manufacturing AI search queries.`,
   services: `SEO CLEVELAND: Cleveland Clinic YMYL cardiac/Innovations vocabulary. Parker Hannifin motion control. Progressive/KeyBank FINRA. Sherwin-Williams/Eaton Fortune 500. /seo-services-cleveland/
 
 GOOGLE ADS CLEVELAND: Cleveland Clinic HIPAA healthcare. Parker Hannifin industrial motion. Progressive UBI telematics. KeyBank FINRA-compliant.
@@ -468,7 +468,7 @@ We wanted a marketing partner, not just someone sending reports. They reviewed o
 
 
 pricing: ``,
-  faqTitle: `FAQs — Digital Marketing Cleveland`,
+  faqTitle: `FAQs  Digital Marketing Cleveland`,
   faqs: [
   {
     question: "What does a digital marketing agency in Cleveland do?",
@@ -536,12 +536,12 @@ faqsAlt: ``,
 
 faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What does a digital marketing agency in Cleveland do?","acceptedAnswer":{"@type":"Answer","text":"A digital marketing agency in Cleveland helps local businesses grow online through SEO, Google Ads, social media, website optimization, content marketing, local SEO, and lead generation strategies."}},{"@type":"Question","name":"Why should I hire a Cleveland digital marketing company?","acceptedAnswer":{"@type":"Answer","text":"Hiring a Cleveland digital marketing company helps you target local customers more effectively. A local-focused strategy can improve your Google rankings, Google Maps visibility, website traffic, and lead quality."}},{"@type":"Question","name":"How long does digital marketing take to show results?","acceptedAnswer":{"@type":"Answer","text":"Google Ads can start bringing traffic quickly after launch. SEO and local SEO usually take more time because rankings grow gradually. Most businesses see stronger organic progress within a few months when the strategy is consistent."}},{"@type":"Question","name":"Do you provide SEO services in Cleveland?","acceptedAnswer":{"@type":"Answer","text":"Yes. We provide Cleveland SEO services, including on-page SEO, technical SEO, local SEO, keyword research, content optimization, Google Business Profile optimization, and SEO reporting."}},{"@type":"Question","name":"Can you help my business rank on Google Maps?","acceptedAnswer":{"@type":"Answer","text":"Yes. We optimize your Google Business Profile, local citations, reviews, categories, services, photos, and location-based content to help improve Google Maps visibility."}},{"@type":"Question","name":"Do you manage Google Ads for Cleveland businesses?","acceptedAnswer":{"@type":"Answer","text":"Yes. We manage Google Ads campaigns for Cleveland businesses. Our PPC services include keyword research, ad copy, campaign setup, landing page review, budget control, conversion tracking, and ongoing optimization."}},{"@type":"Question","name":"Is digital marketing good for small businesses in Cleveland?","acceptedAnswer":{"@type":"Answer","text":"Yes. Digital marketing is one of the best ways for Cleveland small businesses to reach local customers, increase calls, build trust, and compete with larger companies online."}},{"@type":"Question","name":"What industries do you work with?","acceptedAnswer":{"@type":"Answer","text":"We work with service businesses, healthcare clinics, law firms, contractors, restaurants, real estate companies, eCommerce stores, B2B companies, and other local businesses."}},{"@type":"Question","name":"How much do digital marketing services in Cleveland cost?","acceptedAnswer":{"@type":"Answer","text":"The cost depends on your goals, competition, services, and campaign size. Small local campaigns may need a basic monthly package, while competitive industries may need a larger SEO and PPC strategy."}},{"@type":"Question","name":"Do you provide monthly reports?","acceptedAnswer":{"@type":"Answer","text":"Yes. We provide clear monthly reports that show website traffic, keyword progress, leads, calls, conversions, campaign performance, and next-step recommendations."}},{"@type":"Question","name":"Can you improve my existing website?","acceptedAnswer":{"@type":"Answer","text":"Yes. We can improve your website content, SEO structure, page speed, calls to action, mobile experience, landing pages, and conversion paths."}},{"@type":"Question","name":"How do I get started?","acceptedAnswer":{"@type":"Answer","text":"You can start with a digital marketing audit or consultation. We review your current website, rankings, ads, Google Business Profile, and competitors, then create a clear growth plan for your Cleveland business."}}]}`
 ,cta: `Get Your Free Cleveland Digital Marketing Audit`,
-  ctaBody: `Free audit — 48 hours.
-1. Cleveland Clinic vocabulary discoverability — can new VP-level executives find you digitally?
+  ctaBody: `Free audit  48 hours.
+1. Cleveland Clinic vocabulary discoverability  can new VP-level executives find you digitally?
 2. HIPAA compliance across all digital channels
-3. Parker Hannifin motion control vocabulary — manufacturing B2B organic gaps
+3. Parker Hannifin motion control vocabulary  manufacturing B2B organic gaps
 4. Progressive/KeyBank FINRA compliance
-5. GEO/AEO — ChatGPT/Perplexity for Cleveland Clinic and Parker Hannifin queries
+5. GEO/AEO  ChatGPT/Perplexity for Cleveland Clinic and Parker Hannifin queries
 
 Phone +1-888-555-CLICK | cleveland@clickmastersdigitalmarketing.com
 Mayfield Heights, Beachwood, Westlake, and all of Greater Cleveland`,

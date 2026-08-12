@@ -12,7 +12,7 @@ export const DigitalMarketingGlossaryContent = {
     tag: "[ Resources · Reference ]",
     title: "Digital Marketing",
     titleHighlight: "Glossary",
-    subtitle: "— every term you need to know, clearly explained.",
+    subtitle: " every term you need to know, clearly explained.",
     description:
       "Digital marketing has its own vocabulary. Acronyms and technical terms proliferate across every discipline SEO, PPC, CRO, CTR, ROAS, CPM, CPA, LTV, CAC, SERP, GBP, E-E-A-T and the marketing conversation moves fast enough that not knowing what a term means can leave you nodding along in meetings, misinterpreting reports, or making investment decisions based on incomplete understanding.",
     stats: [

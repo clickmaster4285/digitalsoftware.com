@@ -11,12 +11,12 @@ export const EmailMarketing_Wichita = {
   citySlug: "wichita",
   slug: "/email-marketing-wichita/",
   
-  h1: `Email Marketing Wichita — Spirit AeroSystems ITAR-Reviewed Pipeline, Textron Aviation Nurture, and Air Capital Seasonal Revenue`,
+  h1: `Email Marketing Wichita  Spirit AeroSystems ITAR-Reviewed Pipeline, Textron Aviation Nurture, and Air Capital Seasonal Revenue`,
   primaryKw: `email marketing agency wichita`,
-  formula: `FAB — Spirit AeroSystems ITAR-reviewed HubSpot pipeline + Textron Aviation/Cessna/Beechcraft business aviation nurture + Via Christi HIPAA health system + Wichita Riverfest June/NBAA convention seasonal + Koch Industries industrial + military 5-stage Kansas onboarding (McConnell AFB)`,
+  formula: `FAB  Spirit AeroSystems ITAR-reviewed HubSpot pipeline + Textron Aviation/Cessna/Beechcraft business aviation nurture + Via Christi HIPAA health system + Wichita Riverfest June/NBAA convention seasonal + Koch Industries industrial + military 5-stage Kansas onboarding (McConnell AFB)`,
   seoTitle: `Email Marketing Wichita | Spirit AeroSystems ITAR-Reviewed Pipeline & Riverfest Seasonal | Clickmasters`,
   meta: `Clickmasters email marketing in Wichita. Spirit AeroSystems ITAR-reviewed aerospace pipeline, Textron Aviation business aviation nurture, Via Christi HIPAA, and Wichita Riverfest/NBAA seasonal. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Wichita Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-wichita/","address":{"@type":"PostalAddress","addressLocality":"Wichita","addressRegion":"KS","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Wichita Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-wichita/","address":{"@type":"PostalAddress","addressLocality":"Wichita","addressRegion":"KS","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3300,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN WICHITA?
@@ -27,7 +27,7 @@ SPIRIT AEROSYSTEMS ITAR-REVIEWED AEROSPACE PIPELINE EMAIL: Spirit AeroSystems pr
 
 TEXTRON AVIATION BUSINESS AVIATION NURTURE: Textron Aviation procurement cycles run 90-180 days. Email with Cessna/Beechcraft turboprop/jet systems updates, business aviation MRO methodology, avionics integration intelligence.
 
-WICHITA RIVERFEST AND NBAA SEASONAL EMAIL: Wichita Riverfest (June, 9 days, 350,000+ visitors) creates a consumer brand email engagement window. NBAA Business Aviation Convention and Exhibition (October/November) creates a business aviation professional email engagement window — Wichita vendors who send Cessna/Beechcraft/Textron Aviation-precision content around NBAA earn above-average business aviation professional engagement. McConnell AFB military 5-stage Kansas onboarding for professional services.`,
+WICHITA RIVERFEST AND NBAA SEASONAL EMAIL: Wichita Riverfest (June, 9 days, 350,000+ visitors) creates a consumer brand email engagement window. NBAA Business Aviation Convention and Exhibition (October/November) creates a business aviation professional email engagement window  Wichita vendors who send Cessna/Beechcraft/Textron Aviation-precision content around NBAA earn above-average business aviation professional engagement. McConnell AFB military 5-stage Kansas onboarding for professional services.`,
   features: `Spirit AeroSystems ITAR-Reviewed Aerospace Pipeline HubSpot:
 ITAR vocabulary review every email. Spirit publicly releasable aerostructures updates. Textron Aviation community content. HubSpot Spirit/Textron/Koch named sequences. 90-270 day aerospace triggers. ITAR documentation retained.
 
@@ -38,22 +38,22 @@ Air Capital Seasonal Commercial Email:
 Wichita Riverfest June consumer activation. NBAA convention season (October/November): business aviation professional engagement window. McConnell AFB military 5-stage Kansas onboarding: TSP/SCRA/VA professional services.`,
   pas: ``,
   services: ``,
-  caseStudies: `Case Study 1: Wichita Aerospace — Spirit AeroSystems ITAR-Reviewed Pipeline
+  caseStudies: `Case Study 1: Wichita Aerospace  Spirit AeroSystems ITAR-Reviewed Pipeline
 Client: Aerospace technology, Wichita (\$6.4M ARR). Challenge: ITAR in existing emails. Spirit/Textron contacts cold.
 Programme: ITAR review + Spirit/Textron publicly releasable email + ITAR-reviewed sequences
 Results: ITAR: eliminated | Spirit re-engagement: 44% | Textron: 40% | Precision cited | Pipeline: \$1.4M
 
-Case Study 2: Wichita Business Aviation — Textron/Cessna Nurture
+Case Study 2: Wichita Business Aviation  Textron/Cessna Nurture
 Client: Avionics technology, Wichita (\$5.4M ARR). Challenge: Textron contacts cold. Generic newsletter.
 Programme: Cessna/Beechcraft turboprop/MRO email + NBAA seasonal + Textron sequences
 Results: Textron re-engagement: 42% | NBAA window: 3.8x above average | Pipeline: \$1.0M
 
-Case Study 3: Old Town Consumer Brand — Riverfest/NBAA Seasonal Email
+Case Study 3: Old Town Consumer Brand  Riverfest/NBAA Seasonal Email
 Client: Entertainment brand, Old Town (\$900K). Challenge: Generic quarterly. Riverfest June calendar unaware.
 Programme: Riverfest June activation + NBAA October business aviation + Old Town community
 Results: Riverfest June: 4.2x above average | NBAA season: 3.6x | Revenue: +\$70K`,
   pricing: ``,
-  faqTitle: `FAQs — Email Marketing Wichita`,
+  faqTitle: `FAQs  Email Marketing Wichita`,
   faqs: [
   {
     "question": "How much does email marketing cost in Wichita?",
@@ -65,11 +65,11 @@ Results: Riverfest June: 4.2x above average | NBAA season: 3.6x | Revenue: +\$70
   },
   {
     "question": "What is Spirit AeroSystems ITAR-reviewed email for Wichita aerospace vendors?",
-    "answer": "ITAR vocabulary review applied to every email before sending, followed by Spirit publicly releasable aerostructures manufacturing updates and Textron Aviation community content — maintaining Spirit and Textron procurement contact relationships through 90-270 day aerospace evaluation cycles without ITAR exposure."
+    "answer": "ITAR vocabulary review applied to every email before sending, followed by Spirit publicly releasable aerostructures manufacturing updates and Textron Aviation community content  maintaining Spirit and Textron procurement contact relationships through 90-270 day aerospace evaluation cycles without ITAR exposure."
   },
   {
     "question": "Does Clickmasters serve Andover, Derby, Haysville, and Greater Wichita?",
-    "answer": "Yes — all of Greater Wichita MSA."
+    "answer": "Yes  all of Greater Wichita MSA."
   },
   {
     "question": "How long does Spirit AeroSystems ITAR-reviewed pipeline email produce results?",
@@ -77,18 +77,18 @@ Results: Riverfest June: 4.2x above average | NBAA season: 3.6x | Revenue: +\$70
   },
   {
     "question": "What is the McConnell AFB military onboarding email opportunity for Wichita?",
-    "answer": "McConnell AFB — home to the 22nd Air Refueling Wing (KC-135 Stratotanker operations) — creates a Wichita military professional email onboarding opportunity for financial advisory, healthcare, and real estate businesses serving the Air Capital's military professional community."
+    "answer": "McConnell AFB  home to the 22nd Air Refueling Wing (KC-135 Stratotanker operations)  creates a Wichita military professional email onboarding opportunity for financial advisory, healthcare, and real estate businesses serving the Air Capital's military professional community."
   }
 ],
   faqsAlt: ``,
-  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Wichita?","acceptedAnswer":{"@type":"Answer","text":"Wichita email marketing: \$750/month (Foundation) to \$7,500+/month (Enterprise). Spirit AeroSystems ITAR-reviewed pipeline. Textron Aviation business aviation nurture. Via Christi HIPAA. Riverfest/NBAA seasonal. Kansas retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is the NBAA convention email opportunity for Wichita business aviation vendors?","acceptedAnswer":{"@type":"Answer","text":"NBAA Business Aviation Convention and Exhibition (October/November) is the world's largest business aviation gathering. Wichita business aviation vendors who send Cessna/Beechcraft/Textron-precision content in the 2-3 weeks surrounding NBAA earn above-average engagement from global business aviation procurement professionals whose Textron Aviation Wichita relationships are most commercially active during the NBAA season."}},{"@type":"Question","name":"What is Spirit AeroSystems ITAR-reviewed email for Wichita aerospace vendors?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review applied to every email before sending, followed by Spirit publicly releasable aerostructures manufacturing updates and Textron Aviation community content — maintaining Spirit and Textron procurement contact relationships through 90-270 day aerospace evaluation cycles without ITAR exposure."}},{"@type":"Question","name":"Does Clickmasters serve Andover, Derby, Haysville, and Greater Wichita?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Wichita MSA."}},{"@type":"Question","name":"How long does Spirit AeroSystems ITAR-reviewed pipeline email produce results?","acceptedAnswer":{"@type":"Answer","text":"Spirit/Textron re-engagement: 21-45 days. Aerospace evaluation invitations: 90-270 days. Full Spirit pipeline: 8-14 months."}},{"@type":"Question","name":"What is the McConnell AFB military onboarding email opportunity for Wichita?","acceptedAnswer":{"@type":"Answer","text":"McConnell AFB — home to the 22nd Air Refueling Wing (KC-135 Stratotanker operations) — creates a Wichita military professional email onboarding opportunity for financial advisory, healthcare, and real estate businesses serving the Air Capital's military professional community."}}]}`,
+  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Wichita?","acceptedAnswer":{"@type":"Answer","text":"Wichita email marketing: \$750/month (Foundation) to \$7,500+/month (Enterprise). Spirit AeroSystems ITAR-reviewed pipeline. Textron Aviation business aviation nurture. Via Christi HIPAA. Riverfest/NBAA seasonal. Kansas retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is the NBAA convention email opportunity for Wichita business aviation vendors?","acceptedAnswer":{"@type":"Answer","text":"NBAA Business Aviation Convention and Exhibition (October/November) is the world's largest business aviation gathering. Wichita business aviation vendors who send Cessna/Beechcraft/Textron-precision content in the 2-3 weeks surrounding NBAA earn above-average engagement from global business aviation procurement professionals whose Textron Aviation Wichita relationships are most commercially active during the NBAA season."}},{"@type":"Question","name":"What is Spirit AeroSystems ITAR-reviewed email for Wichita aerospace vendors?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review applied to every email before sending, followed by Spirit publicly releasable aerostructures manufacturing updates and Textron Aviation community content  maintaining Spirit and Textron procurement contact relationships through 90-270 day aerospace evaluation cycles without ITAR exposure."}},{"@type":"Question","name":"Does Clickmasters serve Andover, Derby, Haysville, and Greater Wichita?","acceptedAnswer":{"@type":"Answer","text":"Yes  all of Greater Wichita MSA."}},{"@type":"Question","name":"How long does Spirit AeroSystems ITAR-reviewed pipeline email produce results?","acceptedAnswer":{"@type":"Answer","text":"Spirit/Textron re-engagement: 21-45 days. Aerospace evaluation invitations: 90-270 days. Full Spirit pipeline: 8-14 months."}},{"@type":"Question","name":"What is the McConnell AFB military onboarding email opportunity for Wichita?","acceptedAnswer":{"@type":"Answer","text":"McConnell AFB  home to the 22nd Air Refueling Wing (KC-135 Stratotanker operations)  creates a Wichita military professional email onboarding opportunity for financial advisory, healthcare, and real estate businesses serving the Air Capital's military professional community."}}]}`,
   cta: `Get Your Free Wichita Email Marketing Audit`,
-  ctaBody: `Free audit — 48 hours.
-1. ITAR compliance review — controlled vocabulary in current email content
-2. Spirit/Textron cold-off rate — % without ITAR-reviewed sequences
-3. NBAA convention timing — is your business aviation email NBAA season-aware?
-4. Riverfest seasonal — is your consumer email June Riverfest-aware?
-5. HIPAA compliance — Via Christi email data handling
+  ctaBody: `Free audit  48 hours.
+1. ITAR compliance review  controlled vocabulary in current email content
+2. Spirit/Textron cold-off rate  % without ITAR-reviewed sequences
+3. NBAA convention timing  is your business aviation email NBAA season-aware?
+4. Riverfest seasonal  is your consumer email June Riverfest-aware?
+5. HIPAA compliance  Via Christi email data handling
 
 Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com
 Old Town, Delano, Andover, and all of Greater Wichita`,

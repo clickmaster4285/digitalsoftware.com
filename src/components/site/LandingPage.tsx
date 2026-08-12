@@ -22,6 +22,13 @@ import { Awards } from "@/components/site/Awards";
 import { LumosSay } from "@/components/site/LumosSay";
 import { WhyLoved } from "@/components/site/WhyLoved";
 import { CeoCube } from "@/components/site/CeoCube";
+import { AffordableServices } from "@/components/site/AffordableServices";
+import { BestAgencySection } from "@/components/site/BestAgency";
+import BenefitsSection from "@/components/site/BenefitsSection";
+import WhoIsThisFor from "@/components/site/WhoIsThisFor";
+import Locations from "@/components/site/Locations";
+
+
 
 type Theme = { bg: string; fg: string };
 
@@ -135,11 +142,16 @@ export default function LandingPage() {
 
       <main className="relative">
         <section ref={(el) => { sections.current[0] = el; }}><Hero /></section>
+        <section ref={(el) => { sections.current[0] = el; }}><AffordableServices /></section>
         <section ref={(el) => { sections.current[1] = el; }}><Marquee /><Services /></section>
+        <section ref={(el) => { sections.current[2] = el; }}><BestAgencySection /></section>
+        <section ref={(el) => { sections.current[3] = el; }}><BenefitsSection /></section>
         <section ref={(el) => { sections.current[2] = el; }}><Solutions /></section>
         <section ref={(el) => { sections.current[3] = el; }}><Projects /></section>
         <section ref={(el) => { sections.current[4] = el; }}><TechStack /></section>
         <section ref={(el) => { sections.current[5] = el; }}><Process /></section>
+        <section ref={(el) => { sections.current[4] = el; }}><Locations /></section>
+        <section ref={(el) => { sections.current[6] = el; }}><WhoIsThisFor /></section>
         <section ref={(el) => { sections.current[6] = el; }}><Workflow /></section>
         <section ref={(el) => { sections.current[7] = el; }}><Jiffz /></section>
         <section ref={(el) => { sections.current[8] = el; }}><Stats /></section>

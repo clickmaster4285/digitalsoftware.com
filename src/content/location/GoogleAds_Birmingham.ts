@@ -11,12 +11,12 @@ export const GoogleAds_Birmingham = {
   citySlug: "birmingham",
   slug: "/google-ads-management-birmingham/",
   
-  h1: `Google Ads Management Birmingham — Regions Financial FINRA PPC, UAB NCI World-Class YMYL HIPAA, and Encompass/Blue Cross Campaigns`,
+  h1: `Google Ads Management Birmingham  Regions Financial FINRA PPC, UAB NCI World-Class YMYL HIPAA, and Encompass/Blue Cross Campaigns`,
   primaryKw: `google ads agency birmingham`,
-  formula: `AIDA — Birmingham Regions Financial FINRA banking PPC + UAB NCI world-class YMYL HIPAA + Blue Cross Alabama health insurance + Encompass Health rehabilitation HIPAA + Protective Life FINRA + Alabama CPCs below Atlanta/Charlotte banking → FINRA banking + world-class YMYL HIPAA + insurance + rehabilitation`,
+  formula: `AIDA  Birmingham Regions Financial FINRA banking PPC + UAB NCI world-class YMYL HIPAA + Blue Cross Alabama health insurance + Encompass Health rehabilitation HIPAA + Protective Life FINRA + Alabama CPCs below Atlanta/Charlotte banking → FINRA banking + world-class YMYL HIPAA + insurance + rehabilitation`,
   seoTitle: `Google Ads Agency Birmingham | Regions Financial FINRA & UAB NCI World-Class YMYL PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Birmingham. Regions Financial FINRA banking PPC, UAB NCI world-class YMYL HIPAA, Encompass Health rehabilitation, and Blue Cross Alabama insurance campaigns. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Birmingham Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-birmingham/","address":{"@type":"PostalAddress","addressLocality":"Birmingham","addressRegion":"AL","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Birmingham Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-birmingham/","address":{"@type":"PostalAddress","addressLocality":"Birmingham","addressRegion":"AL","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3300,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN BIRMINGHAM?
@@ -31,7 +31,7 @@ BLUE CROSS ALABAMA/ENCOMPASS HEALTH HIPAA GOOGLE ADS: Blue Cross Alabama and Enc
   features: ``,
   pas: `PROBLEM: The Birmingham banking analytics company spending \$4,800/month on 'banking analytics Birmingham' and 'financial technology Alabama.' Regions Financial's new CIO searches 'commercial lending analytics Regions Financial Birmingham FINRA.' Neither in the campaign. \$57K missing Regions' specific FINRA commercial banking vocabulary.
 
-SOLUTION: Clickmasters Birmingham Google Ads delivers Regions FINRA banking, UAB NCI world-class YMYL HIPAA, Blue Cross Alabama/Encompass — at Alabama CPCs below Atlanta and Charlotte.`,
+SOLUTION: Clickmasters Birmingham Google Ads delivers Regions FINRA banking, UAB NCI world-class YMYL HIPAA, Blue Cross Alabama/Encompass  at Alabama CPCs below Atlanta and Charlotte.`,
   services: `BIRMINGHAM REGIONS/PROTECTIVE LIFE FINRA GOOGLE ADS:
 Regions commercial lending/treasury vocabulary. Protective Life annuity/insurance vocabulary. FINRA-compliant throughout.
 
@@ -40,22 +40,22 @@ UAB NCI Comprehensive Cancer Center vocabulary. World-class YMYL clinical conten
 
 BIRMINGHAM BLUE CROSS ALABAMA/ENCOMPASS HIPAA GOOGLE ADS:
 Blue Cross Alabama health insurance vocabulary. Encompass Health rehabilitation. HIPAA server-side tracking.`,
-  caseStudies: `Case Study 1: Birmingham Financial Technology — Regions FINRA PPC
+  caseStudies: `Case Study 1: Birmingham Financial Technology  Regions FINRA PPC
 Client: Banking analytics, Birmingham (\$6.4M ARR). Challenge: \$57K missing Regions FINRA vocabulary.
 Programme: Regions commercial lending/treasury vocabulary + FINRA + Alabama banking community
 Results: Regions CPL: \$240 vs \$2,800 generic AL | Regions CIO: evaluation | Protective Life: evaluation | FINRA: clean | Pipeline: \$1.2M
 
-Case Study 2: Birmingham Health Technology — UAB NCI World-Class YMYL HIPAA PPC
+Case Study 2: Birmingham Health Technology  UAB NCI World-Class YMYL HIPAA PPC
 Client: Clinical analytics, Birmingham (\$5.4M ARR). Challenge: UAB NCI vocabulary absent. Non-HIPAA.
 Programme: UAB NCI world-class vocabulary + HIPAA server-side + Alabama academic medical audience
 Results: UAB NCI CPL: \$240 vs \$2,800 generic | UAB VP: evaluation | Encompass: evaluation | HIPAA: clean | Pipeline: \$1.2M
 
-Case Study 3: Birmingham Healthcare — Blue Cross Alabama HIPAA PPC
+Case Study 3: Birmingham Healthcare  Blue Cross Alabama HIPAA PPC
 Client: Internal medicine. Challenge: Non-HIPAA. Generic keywords.
 Programme: HIPAA server-side + Blue Cross Alabama vocabulary + Birmingham family audience
 Results: HIPAA: clean | Blue Cross CPL: \$110 vs \$290 generic | New patients: +3x`,
   pricing: ``,
-  faqTitle: `FAQs — Google Ads Birmingham`,
+  faqTitle: `FAQs  Google Ads Birmingham`,
   faqs: [
   {
     "question": "How much does Google Ads management cost in Birmingham?",
@@ -71,7 +71,7 @@ Results: HIPAA: clean | Blue Cross CPL: \$110 vs \$290 generic | New patients: +
   },
   {
     "question": "Does Clickmasters serve Hoover, Vestavia Hills, Mountain Brook, and Greater Birmingham?",
-    "answer": "Yes — all of Greater Birmingham MSA."
+    "answer": "Yes  all of Greater Birmingham MSA."
   },
   {
     "question": "How do Birmingham Google Ads CPCs compare to Atlanta and Charlotte?",
@@ -79,13 +79,13 @@ Results: HIPAA: clean | Blue Cross CPL: \$110 vs \$290 generic | New patients: +
   }
 ],
   faqsAlt: ``,
-  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Birmingham Google Ads: \$950/month (Growth) to \$9,500+/month (Enterprise). Regions Financial FINRA banking. UAB NCI world-class YMYL HIPAA. Blue Cross Alabama/Encompass. Alabama CPCs below Atlanta/Charlotte. 90-day guarantee."}},{"@type":"Question","name":"What is Regions Financial FINRA banking Google Ads for Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Regions Financial vocabulary campaigns: 'commercial lending analytics Regions Financial Birmingham,' 'treasury management platform Alabama FINRA.' Alabama CPCs significantly below Charlotte and Atlanta banking technology advertising markets."}},{"@type":"Question","name":"What is UAB NCI world-class YMYL HIPAA Google Ads for Birmingham?","acceptedAnswer":{"@type":"Answer","text":"UAB NCI Comprehensive Cancer Center vocabulary: 'UAB NCI cancer analytics Birmingham,' 'Comprehensive Cancer Center technology Alabama.' HIPAA server-side tracking. Alabama CPCs below Nashville and Atlanta academic medical markets."}},{"@type":"Question","name":"Does Clickmasters serve Hoover, Vestavia Hills, Mountain Brook, and Greater Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Birmingham MSA."}},{"@type":"Question","name":"How do Birmingham Google Ads CPCs compare to Atlanta and Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Alabama CPCs 20-25% below Atlanta for equivalent banking technology vocabulary. 15-20% below Charlotte. Regions Financial FINRA vocabulary CPCs are Birmingham-specific with lower competition than Charlotte and Atlanta banking technology advertising markets."}}]}`,
+  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Birmingham Google Ads: \$950/month (Growth) to \$9,500+/month (Enterprise). Regions Financial FINRA banking. UAB NCI world-class YMYL HIPAA. Blue Cross Alabama/Encompass. Alabama CPCs below Atlanta/Charlotte. 90-day guarantee."}},{"@type":"Question","name":"What is Regions Financial FINRA banking Google Ads for Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Regions Financial vocabulary campaigns: 'commercial lending analytics Regions Financial Birmingham,' 'treasury management platform Alabama FINRA.' Alabama CPCs significantly below Charlotte and Atlanta banking technology advertising markets."}},{"@type":"Question","name":"What is UAB NCI world-class YMYL HIPAA Google Ads for Birmingham?","acceptedAnswer":{"@type":"Answer","text":"UAB NCI Comprehensive Cancer Center vocabulary: 'UAB NCI cancer analytics Birmingham,' 'Comprehensive Cancer Center technology Alabama.' HIPAA server-side tracking. Alabama CPCs below Nashville and Atlanta academic medical markets."}},{"@type":"Question","name":"Does Clickmasters serve Hoover, Vestavia Hills, Mountain Brook, and Greater Birmingham?","acceptedAnswer":{"@type":"Answer","text":"Yes  all of Greater Birmingham MSA."}},{"@type":"Question","name":"How do Birmingham Google Ads CPCs compare to Atlanta and Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Alabama CPCs 20-25% below Atlanta for equivalent banking technology vocabulary. 15-20% below Charlotte. Regions Financial FINRA vocabulary CPCs are Birmingham-specific with lower competition than Charlotte and Atlanta banking technology advertising markets."}}]}`,
   cta: `Get Your Free Birmingham Google Ads Audit`,
-  ctaBody: `Free audit — 48 hours.
-1. Regions FINRA vocabulary — commercial lending/treasury searches missing
-2. HIPAA compliance — UAB/Blue Cross/Encompass violations
-3. UAB NCI world-class — cancer centre B2B PPC gaps
-4. Blue Cross Alabama vocabulary — health insurance PPC gaps
+  ctaBody: `Free audit  48 hours.
+1. Regions FINRA vocabulary  commercial lending/treasury searches missing
+2. HIPAA compliance  UAB/Blue Cross/Encompass violations
+3. UAB NCI world-class  cancer centre B2B PPC gaps
+4. Blue Cross Alabama vocabulary  health insurance PPC gaps
 5. Alabama CPC efficiency vs Atlanta/Charlotte benchmark
 
 Phone +1-888-555-CLICK | birmingham@clickmastersdigitalmarketing.com

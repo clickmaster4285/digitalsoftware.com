@@ -14,9 +14,9 @@ export const NewsletterContent = {
   hero: {
     tag: "[ Free ] Weekly Newsletter",
     title: "The Clickmasters Newsletter",
-    titleHighlight: "— Digital Marketing Intelligence, ",
+    titleHighlight: " Digital Marketing Intelligence, ",
     subtitle: "Delivered Weekly.",
-    description: "Subscribe to the Clickmasters weekly newsletter — algorithm updates, AI marketing intelligence, paid advertising developments and e-commerce insights. Free. No noise.",
+    description: "Subscribe to the Clickmasters weekly newsletter  algorithm updates, AI marketing intelligence, paid advertising developments and e-commerce insights. Free. No noise.",
     stats: [
       { k: "Weekly", v: "Delivery frequency" },
       { k: "6", v: "Markets covered" },
@@ -111,7 +111,7 @@ export const NewsletterContent = {
   ],
   archive: {
     title: "Issue Archive",
-    titleHighlight: "— Recent Editions",
+    titleHighlight: " Recent Editions",
     issues: [
       {
         title: "Google's March 2026 Core Update: What Changed, What Recovered, What Did Not",
@@ -156,7 +156,7 @@ export const NewsletterContent = {
   schema: {
   WebPage: {
     "@type": "WebPage",
-    name: "The Clickmasters Newsletter — Digital Marketing Intelligence, Delivered Weekly",
+    name: "The Clickmasters Newsletter  Digital Marketing Intelligence, Delivered Weekly",
     description: "Weekly digital marketing intelligence from active programmes across SEO, paid advertising, AI, and e-commerce. Written by practitioners for practitioners. Subscribe free.",
     url: "https://clickmastersdigitalmarketing.com/newsletter/",
     publisher: {

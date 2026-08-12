@@ -11,12 +11,12 @@ export const GoogleAds_Wichita = {
   citySlug: "wichita",
   slug: "/google-ads-management-wichita/",
   
-  h1: `Google Ads Management Wichita — Spirit AeroSystems ITAR Community PPC, Textron Aviation Business Aviation, and Via Christi HIPAA`,
+  h1: `Google Ads Management Wichita  Spirit AeroSystems ITAR Community PPC, Textron Aviation Business Aviation, and Via Christi HIPAA`,
   primaryKw: `google ads agency wichita`,
-  formula: `AIDA — Wichita Spirit ITAR-bounded aerospace community PPC + Textron Aviation/Cessna/Beechcraft business aviation + Koch Industries industrial + Via Christi/Wesley HIPAA patient acquisition + Kansas CPCs below Kansas City/Dallas aerospace → ITAR-bounded aerospace + business aviation + industrial + YMYL HIPAA`,
+  formula: `AIDA  Wichita Spirit ITAR-bounded aerospace community PPC + Textron Aviation/Cessna/Beechcraft business aviation + Koch Industries industrial + Via Christi/Wesley HIPAA patient acquisition + Kansas CPCs below Kansas City/Dallas aerospace → ITAR-bounded aerospace + business aviation + industrial + YMYL HIPAA`,
   seoTitle: `Google Ads Agency Wichita | Spirit AeroSystems ITAR-Bounded & Textron Aviation PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Wichita. Spirit AeroSystems ITAR-bounded community PPC, Textron Aviation/Cessna/Beechcraft business aviation, Koch industrial, and Via Christi HIPAA campaigns. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Wichita Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-wichita/","address":{"@type":"PostalAddress","addressLocality":"Wichita","addressRegion":"KS","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Wichita Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-wichita/","address":{"@type":"PostalAddress","addressLocality":"Wichita","addressRegion":"KS","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3300,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN WICHITA?
@@ -29,9 +29,9 @@ TEXTRON AVIATION BUSINESS AVIATION GOOGLE ADS: Textron Aviation generates busine
 
 VIA CHRISTI/WESLEY HIPAA PATIENT ACQUISITION: Via Christi Health (Ascension) and Wesley Medical Center (HCA) create healthcare patient acquisition PPC requiring HIPAA server-side tracking.`,
   features: ``,
-  pas: `PROBLEM: The Wichita aerospace technology company spending \$4,200/month on 'aerospace technology Wichita' and 'manufacturing vendor Kansas.' Spirit's new VP Supplier Quality searches 'aerostructures quality technology vendor Spirit Wichita ITAR-bounded.' Neither in the campaign. \$50K spend misses Spirit's specific publicly releasable aerostructures vocabulary — the Air Capital's most commercially significant aerospace B2B vocabulary.
+  pas: `PROBLEM: The Wichita aerospace technology company spending \$4,200/month on 'aerospace technology Wichita' and 'manufacturing vendor Kansas.' Spirit's new VP Supplier Quality searches 'aerostructures quality technology vendor Spirit Wichita ITAR-bounded.' Neither in the campaign. \$50K spend misses Spirit's specific publicly releasable aerostructures vocabulary  the Air Capital's most commercially significant aerospace B2B vocabulary.
 
-SOLUTION: Clickmasters Wichita Google Ads delivers Spirit ITAR-bounded community, Textron Aviation business aviation, Via Christi HIPAA — at Kansas CPCs below Seattle and Dallas.`,
+SOLUTION: Clickmasters Wichita Google Ads delivers Spirit ITAR-bounded community, Textron Aviation business aviation, Via Christi HIPAA  at Kansas CPCs below Seattle and Dallas.`,
   services: `WICHITA SPIRIT ITAR-BOUNDED COMMUNITY GOOGLE ADS:
 ITAR vocabulary review all ads and landing pages. Spirit aerostructures publicly releasable vocabulary. Composite manufacturing community. Kansas aerospace audience.
 
@@ -40,22 +40,22 @@ Cessna/Beechcraft turboprop/jet MRO vocabulary. Business aviation avionics. King
 
 WICHITA VIA CHRISTI/WESLEY HIPAA GOOGLE ADS:
 HIPAA server-side conversion tracking. Via Christi/Ascension vocabulary. Wesley HCA vocabulary. Wichita family healthcare audience.`,
-  caseStudies: `Case Study 1: Wichita Aerospace — Spirit AeroSystems ITAR Community PPC
+  caseStudies: `Case Study 1: Wichita Aerospace  Spirit AeroSystems ITAR Community PPC
 Client: Aerospace technology, Wichita (\$6.4M ARR). Challenge: \$50K missing Spirit aerostructures vocabulary. ITAR in ad content.
 Programme: ITAR review + Spirit publicly releasable vocabulary + Kansas aerospace audience
 Results: ITAR: clean | Spirit CPL: \$240 vs \$2,600 generic KS | Spirit VP: evaluation | Textron: evaluation | Pipeline: \$1.2M
 
-Case Study 2: Wichita Business Aviation — Textron/Cessna/Beechcraft PPC
+Case Study 2: Wichita Business Aviation  Textron/Cessna/Beechcraft PPC
 Client: Avionics technology, Wichita (\$5.4M ARR). Challenge: Generic 'aviation technology.' Cessna/Beechcraft vocabulary absent.
 Programme: Cessna/Beechcraft turboprop/MRO/avionics vocabulary + business aviation audience
 Results: Textron CPL: \$230 vs \$2,400 generic | Textron VP: evaluation | Pipeline: \$1.0M
 
-Case Study 3: Wichita Healthcare — Via Christi/Wesley HIPAA PPC
+Case Study 3: Wichita Healthcare  Via Christi/Wesley HIPAA PPC
 Client: Internal medicine. Challenge: Non-HIPAA. Generic keywords.
 Programme: HIPAA server-side + Via Christi/Wesley vocabulary + Wichita family audience
 Results: HIPAA: clean | Via Christi CPL: \$110 vs \$290 generic | New patients: +3x`,
   pricing: ``,
-  faqTitle: `FAQs — Google Ads Wichita`,
+  faqTitle: `FAQs  Google Ads Wichita`,
   faqs: [
   {
     "question": "How much does Google Ads management cost in Wichita?",
@@ -71,11 +71,11 @@ Results: HIPAA: clean | Via Christi CPL: \$110 vs \$290 generic | New patients: 
   },
   {
     "question": "Does Clickmasters serve Andover, Derby, Haysville, and Greater Wichita?",
-    "answer": "Yes — all of Greater Wichita MSA."
+    "answer": "Yes  all of Greater Wichita MSA."
   },
   {
     "question": "How does ITAR compliance apply to Wichita Google Ads?",
-    "answer": "ITAR vocabulary review applied to every ad creative and landing page — ensuring only publicly releasable Spirit AeroSystems and Textron Aviation community vocabulary appears in advertising."
+    "answer": "ITAR vocabulary review applied to every ad creative and landing page  ensuring only publicly releasable Spirit AeroSystems and Textron Aviation community vocabulary appears in advertising."
   },
   {
     "question": "How do Wichita Google Ads CPCs compare to Seattle and Dallas for aerospace?",
@@ -83,13 +83,13 @@ Results: HIPAA: clean | Via Christi CPL: \$110 vs \$290 generic | New patients: 
   }
 ],
   faqsAlt: ``,
-  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Wichita?","acceptedAnswer":{"@type":"Answer","text":"Wichita Google Ads: \$900/month (Growth) to \$9,000+/month (Enterprise). Spirit AeroSystems ITAR-bounded community vocabulary. Textron Aviation/Cessna business aviation. Via Christi/Wesley HIPAA. Kansas CPCs below Seattle/Dallas aerospace. 90-day guarantee."}},{"@type":"Question","name":"What is Spirit AeroSystems ITAR-bounded community Google Ads for Wichita?","acceptedAnswer":{"@type":"Answer","text":"Spirit aerostructures publicly releasable vocabulary campaigns with ITAR vocabulary review for all ads: 'aerostructures quality technology vendor Spirit Wichita,' 'composite manufacturing process technology Kansas.' Kansas CPCs significantly below Seattle aerospace advertising markets."}},{"@type":"Question","name":"What is Textron Aviation business aviation Google Ads for Wichita?","acceptedAnswer":{"@type":"Answer","text":"Cessna/Beechcraft turboprop and MRO vocabulary campaigns: 'Cessna turboprop avionics Wichita,' 'Beechcraft King Air MRO technology Kansas.' Kansas CPCs below Atlanta and Dallas business aviation markets."}},{"@type":"Question","name":"Does Clickmasters serve Andover, Derby, Haysville, and Greater Wichita?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Wichita MSA."}},{"@type":"Question","name":"How does ITAR compliance apply to Wichita Google Ads?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review applied to every ad creative and landing page — ensuring only publicly releasable Spirit AeroSystems and Textron Aviation community vocabulary appears in advertising."}},{"@type":"Question","name":"How do Wichita Google Ads CPCs compare to Seattle and Dallas for aerospace?","acceptedAnswer":{"@type":"Answer","text":"Kansas CPCs 30-35% below Seattle for equivalent aerospace manufacturing vocabulary. 20-25% below Dallas. Spirit/Textron ITAR-bounded Wichita vocabulary CPCs are Air Capital-specific with significantly lower competition."}}]}`,
+  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Wichita?","acceptedAnswer":{"@type":"Answer","text":"Wichita Google Ads: \$900/month (Growth) to \$9,000+/month (Enterprise). Spirit AeroSystems ITAR-bounded community vocabulary. Textron Aviation/Cessna business aviation. Via Christi/Wesley HIPAA. Kansas CPCs below Seattle/Dallas aerospace. 90-day guarantee."}},{"@type":"Question","name":"What is Spirit AeroSystems ITAR-bounded community Google Ads for Wichita?","acceptedAnswer":{"@type":"Answer","text":"Spirit aerostructures publicly releasable vocabulary campaigns with ITAR vocabulary review for all ads: 'aerostructures quality technology vendor Spirit Wichita,' 'composite manufacturing process technology Kansas.' Kansas CPCs significantly below Seattle aerospace advertising markets."}},{"@type":"Question","name":"What is Textron Aviation business aviation Google Ads for Wichita?","acceptedAnswer":{"@type":"Answer","text":"Cessna/Beechcraft turboprop and MRO vocabulary campaigns: 'Cessna turboprop avionics Wichita,' 'Beechcraft King Air MRO technology Kansas.' Kansas CPCs below Atlanta and Dallas business aviation markets."}},{"@type":"Question","name":"Does Clickmasters serve Andover, Derby, Haysville, and Greater Wichita?","acceptedAnswer":{"@type":"Answer","text":"Yes  all of Greater Wichita MSA."}},{"@type":"Question","name":"How does ITAR compliance apply to Wichita Google Ads?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review applied to every ad creative and landing page  ensuring only publicly releasable Spirit AeroSystems and Textron Aviation community vocabulary appears in advertising."}},{"@type":"Question","name":"How do Wichita Google Ads CPCs compare to Seattle and Dallas for aerospace?","acceptedAnswer":{"@type":"Answer","text":"Kansas CPCs 30-35% below Seattle for equivalent aerospace manufacturing vocabulary. 20-25% below Dallas. Spirit/Textron ITAR-bounded Wichita vocabulary CPCs are Air Capital-specific with significantly lower competition."}}]}`,
   cta: `Get Your Free Wichita Google Ads Audit`,
-  ctaBody: `Free audit — 48 hours.
-1. ITAR compliance — Spirit/Textron ad content and landing page exposure
-2. Spirit aerostructures vocabulary gap — publicly releasable searches campaigns miss
-3. HIPAA compliance — Via Christi/Wesley patient violations
-4. Textron Aviation vocabulary — Cessna/Beechcraft/King Air PPC gaps
+  ctaBody: `Free audit  48 hours.
+1. ITAR compliance  Spirit/Textron ad content and landing page exposure
+2. Spirit aerostructures vocabulary gap  publicly releasable searches campaigns miss
+3. HIPAA compliance  Via Christi/Wesley patient violations
+4. Textron Aviation vocabulary  Cessna/Beechcraft/King Air PPC gaps
 5. Kansas CPC efficiency vs Seattle/Dallas aerospace benchmark
 
 Phone +1-888-555-CLICK | wichita@clickmastersdigitalmarketing.com

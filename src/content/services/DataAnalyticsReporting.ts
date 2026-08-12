@@ -12,8 +12,8 @@ export const DataAnalyticsReportingContent = {
     tag: "[ Service · 04 ] Data Analytics",
     title: "Data Analytics &",
     titleHighlight: "Reporting Services",
-    subtitle: "— turn your business data into decisions that drive growth.",
-    description: "Expert data analytics — BigQuery, dbt, Looker, GA4, unified dashboards & modern data stack. USA, UK & UAE. Free analytics consultation.",
+    subtitle: " turn your business data into decisions that drive growth.",
+    description: "Expert data analytics  BigQuery, dbt, Looker, GA4, unified dashboards & modern data stack. USA, UK & UAE. Free analytics consultation.",
     stats: [
       { k: "87%", v: "Reporting time reduction" },
       { k: "28h → 3.5h", v: "Weekly report time" },

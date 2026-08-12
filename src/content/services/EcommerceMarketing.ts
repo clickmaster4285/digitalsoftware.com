@@ -16,9 +16,9 @@ export const EcommerceMarketingServicesContent = {
   hero: {
     tag: "E-Commerce Marketing",
     title: "E-Commerce Marketing Services",
-    titleHighlight: "— Turn Traffic Into Revenue That Grows Month After Month",
+    titleHighlight: " Turn Traffic Into Revenue That Grows Month After Month",
     subtitle: "",
-    description: "Expert e-commerce marketing — Google Shopping, Meta Ads, email/SMS, SEO, CRO & Amazon. Full-funnel for DTC brands. USA, UK & UAE. Free consultation.",
+    description: "Expert e-commerce marketing  Google Shopping, Meta Ads, email/SMS, SEO, CRO & Amazon. Full-funnel for DTC brands. USA, UK & UAE. Free consultation.",
     stats: [
       { k: "216%", v: "Revenue growth (skincare brand)" },
       { k: "£520k", v: "Incremental email revenue (fashion)" },

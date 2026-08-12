@@ -15,7 +15,7 @@ export const OurTeamContent = {
   hero: {
     tag: "[ Team ] Clickmasters",
     title: "Meet the Clickmasters Team",
-    titleHighlight: "— The Specialists Behind Your Growth",
+    titleHighlight: " The Specialists Behind Your Growth",
     subtitle: "",
     description: "The quality of a digital marketing agency is not determined by the size of its offices, the age of its logo, or the ambition of its pitch deck. It is determined by the capability, the experience, and the commercial orientation of the people who actually do the work.",
     stats: [

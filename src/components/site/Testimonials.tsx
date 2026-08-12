@@ -48,7 +48,7 @@ const items = [
 export const Testimonials = () => (
   <section   id="testimonials" className="py-32 container">
     <div className="mb-20 max-w-3xl">
-      <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-6">— What our clients says</p>
+      <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-6"> What our clients says</p>
       <h2 className="font-display text-5xl md:text-7xl leading-[1.05] text-balance">
   What Business Owners Say About <em>Our Digital Marketing Agency</em>
       </h2>

@@ -11,12 +11,12 @@ export const DigitalMarketing_Indianapolis = {
   citySlug: "indianapolis",
   slug: "/digital-marketing-agency-indianapolis/",
   
-  h1: `Digital Marketing Agency Indianapolis — Eli Lilly Pharma Revenue, Cummins/Simon Fortune 500, and Crossroads of America Commercial Growth`,
+  h1: `Digital Marketing Agency Indianapolis  Eli Lilly Pharma Revenue, Cummins/Simon Fortune 500, and Crossroads of America Commercial Growth`,
   primaryKw: `digital marketing agency indianapolis`,
-  formula: `BAB — Indianapolis Eli Lilly/Corteva pharma vendors invisible + Cummins/Simon Fortune 500 vendors unaddressed + IU Health tech vendors unreached + Indy 500 motorsports B2B unaddressed → CLICK Growth System for the Crossroads of America`,
+  formula: `BAB  Indianapolis Eli Lilly/Corteva pharma vendors invisible + Cummins/Simon Fortune 500 vendors unaddressed + IU Health tech vendors unreached + Indy 500 motorsports B2B unaddressed → CLICK Growth System for the Crossroads of America`,
   seoTitle: `Digital Marketing Agency Indianapolis | Eli Lilly Pharma & Fortune 500 Growth | Clickmasters`,
   meta: `Clickmasters digital marketing in Indianapolis. Eli Lilly pharmaceutical vendor revenue, Cummins/Simon Property Fortune 500, and IU Health academic medical for the Crossroads of America. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Indianapolis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-indianapolis/","address":{"@type":"PostalAddress","addressLocality":"Indianapolis","addressRegion":"IN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Indianapolis Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-indianapolis/","address":{"@type":"PostalAddress","addressLocality":"Indianapolis","addressRegion":"IN","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   geoAeoBlock: `Best Digital Marketing Agency in Indianapolis, IN for Leads, Sales & Local Growth
@@ -41,22 +41,22 @@ Conversion rate optimization,
 Call and form tracking,
 Monthly performance reporting,
 AI-search and AI Overview-friendly content strategy,
-We focus on leads, calls, booked appointments, quote requests, and revenue — not just clicks.
+We focus on leads, calls, booked appointments, quote requests, and revenue  not just clicks.
 
 
 `,
   features: ``,
-  pas: `THE BEFORE: Indianapolis's most capable GMP pharmaceutical manufacturing consulting company — \$6.8M ARR, Eli Lilly relationships, Corteva relationships. Eli Lilly's new VP of Global Manufacturing from Pfizer Ireland just arrived. Corteva has a new Chief Operating Officer from DuPont. Neither knows the Indianapolis company. Both Google in GMP pharmaceutical operational vocabulary. The company appears for none of the 16 searches these executives run. The mass automotive of Indianapolis's most commercially significant pharmaceutical enterprise — Eli Lilly's global manufacturing team — goes entirely unaddressed by generic 'consulting Indianapolis' digital marketing.
+  pas: `THE BEFORE: Indianapolis's most capable GMP pharmaceutical manufacturing consulting company  \$6.8M ARR, Eli Lilly relationships, Corteva relationships. Eli Lilly's new VP of Global Manufacturing from Pfizer Ireland just arrived. Corteva has a new Chief Operating Officer from DuPont. Neither knows the Indianapolis company. Both Google in GMP pharmaceutical operational vocabulary. The company appears for none of the 16 searches these executives run. The mass automotive of Indianapolis's most commercially significant pharmaceutical enterprise  Eli Lilly's global manufacturing team  goes entirely unaddressed by generic 'consulting Indianapolis' digital marketing.
 
 THE AFTER: Your Indianapolis GMP consulting company ranks top 3 for 11 Indianapolis pharmaceutical manufacturing queries. The new Lilly VP Global Manufacturing discovers your company via organic search before any formal engagement.
 
-THE BRIDGE — CLICK GROWTH SYSTEM FOR INDIANAPOLIS:
-C — Capture: Eli Lilly GMP/FDA vocabulary + Cummins/Simon Fortune 500 + IU Health YMYL + Indianapolis Indy 500 motorsports.
-L — Lead: HIPAA healthcare. FINRA financial. Indiana state compliance awareness.
-I — Influence: GMP pharmaceutical manufacturing authority. Cummins commercial power solutions content. IU School of Medicine YMYL clinical. Indy 500 motorsports B2B.
-C — Convert: Eli Lilly vendor institutional credibility. Cummins/Simon Fortune 500 vendor institutional quality.
-K — Keep: Lilly/Corteva named account pipeline email. IU Health system procurement nurture. Indianapolis motorsports vendor community nurture.
-S — Scale: GEO/AEO for Indianapolis Eli Lilly pharmaceutical and Cummins Fortune 500 AI search queries.`,
+THE BRIDGE  CLICK GROWTH SYSTEM FOR INDIANAPOLIS:
+C  Capture: Eli Lilly GMP/FDA vocabulary + Cummins/Simon Fortune 500 + IU Health YMYL + Indianapolis Indy 500 motorsports.
+L  Lead: HIPAA healthcare. FINRA financial. Indiana state compliance awareness.
+I  Influence: GMP pharmaceutical manufacturing authority. Cummins commercial power solutions content. IU School of Medicine YMYL clinical. Indy 500 motorsports B2B.
+C  Convert: Eli Lilly vendor institutional credibility. Cummins/Simon Fortune 500 vendor institutional quality.
+K  Keep: Lilly/Corteva named account pipeline email. IU Health system procurement nurture. Indianapolis motorsports vendor community nurture.
+S  Scale: GEO/AEO for Indianapolis Eli Lilly pharmaceutical and Cummins Fortune 500 AI search queries.`,
   services: `SEO INDIANAPOLIS: Eli Lilly GMP/FDA vocabulary. Cummins/Simon Fortune 500 operational. IU Health YMYL academic medical. FINRA financial. /seo-services-indianapolis/
 
 GOOGLE ADS INDIANAPOLIS: Eli Lilly pharmaceutical GMP PPC. Cummins enterprise vocabulary. IU Health HIPAA patient acquisition. FINRA-compliant Carmel financial.
@@ -500,7 +500,7 @@ We wanted a long-term digital marketing partner for our Indianapolis business. T
 
 
 pricing: ``,
-  faqTitle: `FAQs — Digital Marketing Indianapolis`,
+  faqTitle: `FAQs  Digital Marketing Indianapolis`,
  
  
   "faqs": [
@@ -553,18 +553,18 @@ pricing: ``,
       "answer": "You can start with a digital marketing audit or consultation. We review your website, SEO, ads, Google Business Profile, competitors, and current results, then create a clear growth plan for your Indianapolis business."
     }
   ],
-  "faqsAlt": "Q: What does a digital marketing agency in Indianapolis do? A: Helps businesses grow online through SEO, local SEO, Google Ads, social media, content marketing, website optimization, and lead generation.\nQ: Why hire an Indianapolis digital marketing agency? A: Target nearby customers, improve Google visibility, increase calls, generate leads, and compete in your market.\nQ: Do you offer SEO services in Indianapolis? A: Yes — keyword research, on-page SEO, technical SEO, local SEO, content optimization, internal linking, and monthly reporting.\nQ: Can you help my business rank on Google Maps? A: Yes — optimize Google Business Profile, local citations, categories, services, reviews, photos, posts, and location-based content.\nQ: Do you manage Google Ads campaigns? A: Yes — keyword research, campaign setup, ad copy, landing page review, negative keywords, budget control, and conversion tracking.\nQ: How long does digital marketing take to show results? A: Google Ads traffic starts quickly. SEO and local SEO grow over time with consistent optimization.\nQ: Is digital marketing good for small businesses in Indianapolis? A: Yes — attract local customers, build trust, generate leads, and compete with larger companies.\nQ: What industries do you work with? A: Local service businesses, contractors, healthcare clinics, law firms, restaurants, real estate, eCommerce, B2B, logistics, and professional services.\nQ: How much do digital marketing services cost in Indianapolis? A: Depends on goals, competition, services, and campaign size — basic local campaigns cost less, advanced SEO/PPC require larger budgets.\nQ: Do you provide monthly reports? A: Yes — traffic, rankings, calls, leads, conversions, ad performance, and recommended next steps.\nQ: Can you improve my current website? A: Yes — content, SEO structure, page speed, mobile experience, service pages, calls to action, forms, and conversion paths.\nQ: How do I get started? A: Start with a digital marketing audit or consultation. We review your website, SEO, ads, Google Business Profile, competitors, and current results, then create a growth plan.",
+  "faqsAlt": "Q: What does a digital marketing agency in Indianapolis do? A: Helps businesses grow online through SEO, local SEO, Google Ads, social media, content marketing, website optimization, and lead generation.\nQ: Why hire an Indianapolis digital marketing agency? A: Target nearby customers, improve Google visibility, increase calls, generate leads, and compete in your market.\nQ: Do you offer SEO services in Indianapolis? A: Yes  keyword research, on-page SEO, technical SEO, local SEO, content optimization, internal linking, and monthly reporting.\nQ: Can you help my business rank on Google Maps? A: Yes  optimize Google Business Profile, local citations, categories, services, reviews, photos, posts, and location-based content.\nQ: Do you manage Google Ads campaigns? A: Yes  keyword research, campaign setup, ad copy, landing page review, negative keywords, budget control, and conversion tracking.\nQ: How long does digital marketing take to show results? A: Google Ads traffic starts quickly. SEO and local SEO grow over time with consistent optimization.\nQ: Is digital marketing good for small businesses in Indianapolis? A: Yes  attract local customers, build trust, generate leads, and compete with larger companies.\nQ: What industries do you work with? A: Local service businesses, contractors, healthcare clinics, law firms, restaurants, real estate, eCommerce, B2B, logistics, and professional services.\nQ: How much do digital marketing services cost in Indianapolis? A: Depends on goals, competition, services, and campaign size  basic local campaigns cost less, advanced SEO/PPC require larger budgets.\nQ: Do you provide monthly reports? A: Yes  traffic, rankings, calls, leads, conversions, ad performance, and recommended next steps.\nQ: Can you improve my current website? A: Yes  content, SEO structure, page speed, mobile experience, service pages, calls to action, forms, and conversion paths.\nQ: How do I get started? A: Start with a digital marketing audit or consultation. We review your website, SEO, ads, Google Business Profile, competitors, and current results, then create a growth plan.",
   "faqSchema": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What does a digital marketing agency in Indianapolis do?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A digital marketing agency in Indianapolis helps businesses grow online through SEO, local SEO, Google Ads, social media marketing, content marketing, website optimization, and lead generation strategies.\"}},{\"@type\":\"Question\",\"name\":\"Why should I hire an Indianapolis digital marketing agency?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Hiring a local digital marketing agency helps your business target nearby customers, improve Google visibility, increase calls, generate leads, and compete with other businesses in your market.\"}},{\"@type\":\"Question\",\"name\":\"Do you offer SEO services in Indianapolis?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. We provide SEO services including keyword research, on-page SEO, technical SEO, local SEO, content optimization, internal linking, and monthly SEO reporting.\"}},{\"@type\":\"Question\",\"name\":\"Can you help my business rank on Google Maps?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. We optimize your Google Business Profile, local citations, categories, services, reviews, photos, posts, and location-based content to improve your Google Maps visibility.\"}},{\"@type\":\"Question\",\"name\":\"Do you manage Google Ads campaigns?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. We manage Google Ads campaigns for Indianapolis businesses. Our PPC services include keyword research, campaign setup, ad copy, landing page review, negative keywords, budget control, and conversion tracking.\"}},{\"@type\":\"Question\",\"name\":\"How long does digital marketing take to show results?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Google Ads can start bringing traffic quickly after launch. SEO and local SEO usually take longer because rankings grow over time. Most businesses see stronger progress after consistent optimization.\"}},{\"@type\":\"Question\",\"name\":\"Is digital marketing good for small businesses in Indianapolis?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Digital marketing helps small businesses attract local customers, build trust, generate leads, and compete with larger companies online.\"}},{\"@type\":\"Question\",\"name\":\"What industries do you work with?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"We work with local service businesses, contractors, healthcare clinics, law firms, restaurants, real estate companies, eCommerce stores, B2B companies, logistics companies, and professional service providers.\"}},{\"@type\":\"Question\",\"name\":\"How much do digital marketing services cost in Indianapolis?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Pricing depends on your goals, competition, services, and campaign size. Basic local campaigns usually cost less, while advanced SEO and PPC campaigns require a larger monthly budget.\"}},{\"@type\":\"Question\",\"name\":\"Do you provide monthly reports?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. We provide monthly reports showing traffic, rankings, calls, leads, conversions, ad performance, and recommended next steps.\"}},{\"@type\":\"Question\",\"name\":\"Can you improve my current website?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. We can improve your website content, SEO structure, page speed, mobile experience, service pages, calls to action, forms, and conversion paths.\"}},{\"@type\":\"Question\",\"name\":\"How do I get started?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can start with a digital marketing audit or consultation. We review your website, SEO, ads, Google Business Profile, competitors, and current results, then create a clear growth plan for your Indianapolis business.\"}}]}"
 ,
 
 
   cta: `Get Your Free Indianapolis Digital Marketing Audit`,
-  ctaBody: `Free audit — 48 hours.
-1. Eli Lilly/Corteva vocabulary discoverability — can new pharmaceutical executives find you digitally?
-2. Cummins/Simon Fortune 500 vocabulary — B2B digital gaps
+  ctaBody: `Free audit  48 hours.
+1. Eli Lilly/Corteva vocabulary discoverability  can new pharmaceutical executives find you digitally?
+2. Cummins/Simon Fortune 500 vocabulary  B2B digital gaps
 3. HIPAA/FINRA compliance across digital channels
-4. IU Health YMYL standard — academic medical credential visibility
-5. GEO/AEO — ChatGPT/Perplexity for Indianapolis Eli Lilly and Cummins queries
+4. IU Health YMYL standard  academic medical credential visibility
+5. GEO/AEO  ChatGPT/Perplexity for Indianapolis Eli Lilly and Cummins queries
 
 Phone +1-888-555-CLICK | indianapolis@clickmastersdigitalmarketing.com
 Carmel, Fishers, Zionsville, and all of Greater Indianapolis`,
