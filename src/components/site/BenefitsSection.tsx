@@ -3,13 +3,13 @@
 import { motion, useInView, type Variants } from "framer-motion";
 import { useRef, useState } from "react";
 import { 
-  Rocket, 
+  TrendingUp, 
   DollarSign, 
   Users, 
-  Layout, 
-  Shield, 
-  Calendar, 
-  Headphones,
+  BarChart3, 
+  Gauge, 
+  FileText,
+  Target,
   ArrowRight,
   Sparkles,
   CheckCircle2
@@ -17,67 +17,58 @@ import {
 
 const BENEFITS = [
   {
-    title: "Faster Launches",
-    detail: "Agile, sprint-based development means working software ships in weeks, not quarters.",
-    icon: <Rocket className="h-5 w-5" />,
+    title: "Expertise Across Channels",
+    detail: "Get expert-level skills across every digital channel without the cost of hiring multiple specialists.",
+    icon: <Users className="h-5 w-5" />,
     gradient: "from-blue-500/20 to-cyan-500/20",
     border: "hover:border-blue-500/30",
     glow: "group-hover:shadow-blue-500/20",
     number: "01",
   },
   {
-    title: "Lower Costs",
-    detail: "Skip the overhead of hiring and managing an in-house team  pay for output, not payroll.",
-    icon: <DollarSign className="h-5 w-5" />,
+    title: "Faster Results",
+    detail: "Leverage proven frameworks and tools that deliver results faster than building capabilities from scratch.",
+    icon: <TrendingUp className="h-5 w-5" />,
     gradient: "from-green-500/20 to-emerald-500/20",
     border: "hover:border-green-500/30",
     glow: "group-hover:shadow-green-500/20",
     number: "02",
   },
   {
-    title: "Skilled Experts",
-    detail: "Direct access to specialists in AI, cloud architecture, mobile, and enterprise systems.",
-    icon: <Users className="h-5 w-5" />,
+    title: "Cost Savings",
+    detail: "Significant cost savings compared to building and maintaining an in-house marketing team.",
+    icon: <DollarSign className="h-5 w-5" />,
     gradient: "from-purple-500/20 to-pink-500/20",
     border: "hover:border-purple-500/30",
     glow: "group-hover:shadow-purple-500/20",
     number: "03",
   },
   {
-    title: "Flexible Plans",
-    detail: "Scale from a single developer to a full team as your roadmap changes.",
-    icon: <Layout className="h-5 w-5" />,
+    title: "Data-Driven Decisions",
+    detail: "Every decision is backed by data — no guesswork, just measurable results and real ROI.",
+    icon: <BarChart3 className="h-5 w-5" />,
     gradient: "from-orange-500/20 to-amber-500/20",
     border: "hover:border-orange-500/30",
     glow: "group-hover:shadow-orange-500/20",
     number: "04",
   },
   {
-    title: "Strong Security",
-    detail: "Security reviews and best practices are built into every sprint, not bolted on at the end.",
-    icon: <Shield className="h-5 w-5" />,
+    title: "Scalability",
+    detail: "Easily scale your campaigns up or down as your business grows and market conditions change.",
+    icon: <Gauge className="h-5 w-5" />,
     gradient: "from-red-500/20 to-rose-500/20",
     border: "hover:border-red-500/30",
     glow: "group-hover:shadow-red-500/20",
     number: "05",
   },
   {
-    title: "Weekly Updates",
-    detail: "Clear, weekly check-ins so you always know exactly where your project stands.",
-    icon: <Calendar className="h-5 w-5" />,
+    title: "Transparent Reporting",
+    detail: "Clear, transparent reporting so you always know exactly where your marketing spend is going and the ROI you're getting.",
+    icon: <FileText className="h-5 w-5" />,
     gradient: "from-indigo-500/20 to-violet-500/20",
     border: "hover:border-indigo-500/30",
     glow: "group-hover:shadow-indigo-500/20",
     number: "06",
-  },
-  {
-    title: "Ongoing Support",
-    detail: "We stay on after launch to keep your software running smoothly.",
-    icon: <Headphones className="h-5 w-5" />,
-    gradient: "from-teal-500/20 to-cyan-500/20",
-    border: "hover:border-teal-500/30",
-    glow: "group-hover:shadow-teal-500/20",
-    number: "07",
   },
 ];
 
@@ -194,12 +185,12 @@ export default function BenefitsSection() {
             className="relative"
           >
             <h2 className="font-display text-[clamp(2.5rem,6vw,4.5rem)] leading-[1.05] tracking-tight text-balance">
-              Benefits of Choosing{" "}
+              Benefits of Working With a{" "}
               <span className="relative">
-                <span className="relative z-10 font-display italic">Our</span>
+                <span className="relative z-10 font-display italic">Digital Marketing</span>
                 <span className="absolute -bottom-2 left-0 right-0 h-3 bg-foreground/10 blur-sm" />
               </span>{" "}
-              <span className="font-display">Software Development Company</span>
+              <span className="font-display">Agency</span>
             </h2>
           </motion.div>
 
@@ -208,9 +199,10 @@ export default function BenefitsSection() {
             initial="hidden"
             animate={isInView ? "visible" : "hidden"}
             transition={{ delay: 0.3 }}
-            className="mt-4 max-w-2xl mx-auto text-lg text-muted-foreground leading-relaxed"
+            className="mt-4 max-w-3xl mx-auto text-lg text-muted-foreground leading-relaxed"
           >
-            When you work with Clickmasters, your business gets a real advantage  end to end.
+            You get expert-level skills across every channel, faster results, and lower costs than hiring in-house. 
+            Our data-driven approach means transparent reporting and real ROI, not guesswork.
           </motion.p>
         </div>
 
