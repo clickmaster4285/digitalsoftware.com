@@ -37,7 +37,7 @@ export const Hero = () => {
           style={{ y: useTransform(scrollYProgress, [0, 1], [0, -120]) }}
           className="font-display text-[28vw] leading-none opacity-[0.06] tracking-tighter"
         >
-          marketing 
+          marketings 
         </motion.span>
       </div>
 
