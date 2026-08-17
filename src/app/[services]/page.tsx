@@ -197,6 +197,61 @@ const Features = ({ content }: { content: any }) => {
   );
 };
 
+const TopRatedSection = ({ content }: { content: any }) => {
+  const topRated = content.topRated;
+  if (!topRated) return null;
+
+  return (
+    <section className="relative bg-background text-foreground py-24">
+      <div className="container max-w-5xl">
+        <SectionLabel n="03.5" t="Top rated" />
+        <Reveal>
+          <h2 className="font-display text-4xl md:text-7xl font-bold leading-[0.95] tracking-tight mb-8">
+            {topRated.title}
+          </h2>
+        </Reveal>
+        <Reveal delay={0.1}>
+          <p className="text-lg opacity-75 leading-relaxed max-w-4xl">{topRated.body}</p>
+        </Reveal>
+      </div>
+    </section>
+  );
+};
+
+const CtaMidSection = ({ content }: { content: any }) => {
+  const ctaMid = content.ctaMid;
+  if (!ctaMid) return null;
+
+  return (
+    <section className="relative bg-[#0a0a0a] text-white py-24">
+      <div className="container max-w-5xl text-center">
+        <Reveal>
+          <p className="text-[10px] uppercase tracking-[0.4em] opacity-60 mb-8">[ Growth ]</p>
+        </Reveal>
+        <Reveal delay={0.1}>
+          <h2 className="font-display text-4xl md:text-7xl font-bold leading-[0.95] tracking-tight mb-8">
+            {ctaMid.title}
+          </h2>
+        </Reveal>
+        <Reveal delay={0.2}>
+          <p className="text-lg opacity-75 leading-relaxed max-w-3xl mx-auto">{ctaMid.description}</p>
+        </Reveal>
+        <Reveal delay={0.3}>
+          <div className="mt-10 flex justify-center">
+            <a
+              href={ctaMid.contactLink || "/contact"}
+              className="group inline-flex items-center gap-3 bg-white text-black px-7 py-4 rounded-full text-sm tracking-[0.15em] uppercase font-medium hover:bg-[#FF2E86] hover:text-white transition-colors"
+            >
+              {ctaMid.buttonText || "Get started"}
+              <ArrowUpRight className="w-4 h-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+            </a>
+          </div>
+        </Reveal>
+      </div>
+    </section>
+  );
+};
+
 const ProblemSection = ({ content }: { content: any }) => {
   const problem = content.problem;
   if (!problem || !problem.items?.length) return null;
@@ -391,6 +446,37 @@ const Pricing = ({ content }: { content: any }) => {
   );
 };
 
+const IndustriesSection = ({ content }: { content: any }) => {
+  const industries = content.industries?.items || [];
+  if (!industries.length) return null;
+
+  return (
+    <section className="relative bg-background text-foreground py-24">
+      <div className="container max-w-6xl">
+        <SectionLabel n="09.5" t="Industries" />
+        <Reveal>
+          <h2 className="font-display text-4xl md:text-7xl font-bold leading-[0.95] tracking-tight mb-10">
+            {content.industries.title}
+          </h2>
+        </Reveal>
+        <Reveal delay={0.1}>
+          <p className="max-w-3xl text-lg opacity-75 leading-relaxed mb-10">{content.industries.description}</p>
+        </Reveal>
+        <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
+          {industries.map((item: any, idx: number) => (
+            <Reveal key={item.id || item.title || idx} delay={idx * 0.08}>
+              <div className="rounded-3xl border border-foreground/10 bg-foreground/[0.02] p-8 h-full">
+                <h3 className="font-display text-2xl mb-4">{item.title}</h3>
+                <p className="text-sm opacity-70 leading-relaxed">{item.body}</p>
+              </div>
+            </Reveal>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+};
+
 const Faqs = ({ content }: { content: any }) => {
   const faqs = content.faqs || [];
   if (!faqs.length) return null;
@@ -465,12 +551,15 @@ export default function ServicesPage() {
         <Hero content={content} />
         <Intro content={content} />
         <Features content={content} />
+        <TopRatedSection content={content} />
         <ProblemSection content={content} />
         <Services content={content} />
         <Process content={content} />
         <Cases content={content} />
         <Why content={content} />
+        <CtaMidSection content={content} />
         <Pricing content={content} />
+        <IndustriesSection content={content} />
         <Faqs content={content} />
         <CTA content={content} />
       </main>

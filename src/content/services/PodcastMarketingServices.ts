@@ -16,9 +16,9 @@ export const PodcastMarketingServicesContent = {
   hero: {
     tag: "Podcast Marketing",
     title: "Podcast Marketing Services",
-    titleHighlight: "— Grow Your Audience, Build Authority, Generate Revenue",
+    titleHighlight: " Grow Your Audience, Build Authority, Generate Revenue",
     subtitle: "| Clickmasters",
-    description: "Expert podcast marketing — launch strategy, SEO, repurposing, paid growth & monetisation. Grow listeners, build brand authority & generate leads. Free audit.",
+    description: "Expert podcast marketing  launch strategy, SEO, repurposing, paid growth & monetisation. Grow listeners, build brand authority & generate leads. Free audit.",
     stats: [
       { k: "800 → 12K", v: "Downloads per episode" },
       { k: "$112K", v: "Podcast-generated revenue" },

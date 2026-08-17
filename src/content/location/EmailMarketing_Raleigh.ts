@@ -11,23 +11,23 @@ export const EmailMarketing_Raleigh = {
   citySlug: "raleigh",
   slug: "/email-marketing-raleigh/",
   
-  h1: `Email Marketing Raleigh — Biogen/GSK RTP Pharma Pipeline, Cisco/Red Hat Enterprise, and Triangle In-Migration Professional Onboarding`,
+  h1: `Email Marketing Raleigh  Biogen/GSK RTP Pharma Pipeline, Cisco/Red Hat Enterprise, and Triangle In-Migration Professional Onboarding`,
   primaryKw: `email marketing agency raleigh`,
-  formula: `FAB — Biogen/GSK RTP pharma HubSpot pipeline + FDA-aware clinical procurement nurture + Cisco/Red Hat enterprise tech pipeline + Triangle in-migration professional 5-stage onboarding + HIPAA healthcare`,
+  formula: `FAB  Biogen/GSK RTP pharma HubSpot pipeline + FDA-aware clinical procurement nurture + Cisco/Red Hat enterprise tech pipeline + Triangle in-migration professional 5-stage onboarding + HIPAA healthcare`,
   seoTitle: `Email Marketing Raleigh | Biogen/GSK RTP Pipeline & Triangle In-Migration | Clickmasters`,
   meta: `Clickmasters email marketing in Raleigh. Biogen/GSK RTP pharmaceutical pipeline nurture, Cisco/Red Hat enterprise, and Triangle in-migration professional 5-stage onboarding. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Raleigh Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-raleigh/","address":{"@type":"PostalAddress","addressLocality":"Raleigh","addressRegion":"NC","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Raleigh Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-raleigh/","address":{"@type":"PostalAddress","addressLocality":"Raleigh","addressRegion":"NC","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN RALEIGH?
 
 Email marketing in Raleigh-Durham is the strategic management of email as a Biogen/GSK pharmaceutical pipeline channel, Cisco/Red Hat enterprise procurement relationship channel, and Triangle in-migration professional onboarding revenue channel.
 
-RTP PHARMACEUTICAL PROCUREMENT PIPELINE EMAIL: Biogen, GlaxoSmithKline, and Novo Nordisk pharmaceutical procurement cycles run 120-360 days for CRO/CDMO vendor selection — among the longest B2B procurement cycles in any Triangle commercial sector. Email nurture content maintaining Biogen and GSK contact relationship continuity through these extended pharmaceutical evaluation cycles must be FDA-aware: no off-label efficacy claims, balanced clinical evidence in case study content, IRB-aware clinical research service descriptions. CMC regulatory update content, FDA guidance document analysis, and Phase I-III operational intelligence are the email content categories that earn above-average re-engagement from RTP pharmaceutical procurement contacts.
+RTP PHARMACEUTICAL PROCUREMENT PIPELINE EMAIL: Biogen, GlaxoSmithKline, and Novo Nordisk pharmaceutical procurement cycles run 120-360 days for CRO/CDMO vendor selection  among the longest B2B procurement cycles in any Triangle commercial sector. Email nurture content maintaining Biogen and GSK contact relationship continuity through these extended pharmaceutical evaluation cycles must be FDA-aware: no off-label efficacy claims, balanced clinical evidence in case study content, IRB-aware clinical research service descriptions. CMC regulatory update content, FDA guidance document analysis, and Phase I-III operational intelligence are the email content categories that earn above-average re-engagement from RTP pharmaceutical procurement contacts.
 
 CISCO/RED HAT ENTERPRISE TECHNOLOGY PIPELINE EMAIL: Cisco's RTP campus and Red Hat's Durham headquarters create enterprise technology procurement cycles running 90-180 days. Email with Red Hat OpenShift/Ansible operational intelligence and Cisco SD-WAN/network automation vocabulary maintains enterprise technology procurement relationship continuity.
 
-TRIANGLE IN-MIGRATION PROFESSIONAL 5-STAGE ONBOARDING: Raleigh-Durham's in-migration from DC/NY/Midwest creates a professional services email onboarding opportunity — the DC policy professional who relocated to Cary, the New York financial professional in North Raleigh — actively consuming NC-specific transition content during first-year service relationship establishment.`,
+TRIANGLE IN-MIGRATION PROFESSIONAL 5-STAGE ONBOARDING: Raleigh-Durham's in-migration from DC/NY/Midwest creates a professional services email onboarding opportunity  the DC policy professional who relocated to Cary, the New York financial professional in North Raleigh  actively consuming NC-specific transition content during first-year service relationship establishment.`,
   features: `Biogen/GSK RTP Pharmaceutical Pipeline HubSpot:
 For Durham and RTP CROs, CDMOs, and pharmaceutical consulting companies. FDA-aware email content review. CMC regulatory update content tracks. FDA guidance document analysis emails. Phase I-III operational intelligence. HubSpot Biogen/GSK/Novo Nordisk named account sequences. 180-360 day pharmaceutical procurement cycle deal-stage triggers.
 
@@ -38,22 +38,22 @@ Triangle In-Migration Professional 5-Stage Onboarding:
 For Cary and North Raleigh financial advisory, healthcare, estate planning. 5-stage NC onboarding: DC-to-NC/NY-to-NC income comparison, NC healthcare navigation, Triangle neighbourhood financial guide, NC estate planning vs originating state. FINRA-compliant financial email. HIPAA healthcare.`,
   pas: ``,
   services: ``,
-  caseStudies: `Case Study 1: Durham CRO — Biogen/GSK Pharmaceutical Pipeline Nurture
+  caseStudies: `Case Study 1: Durham CRO  Biogen/GSK Pharmaceutical Pipeline Nurture
 Client: Phase II CRO, Durham (\$8.4M). Challenge: Biogen/GSK contacts cold in 180-day cycles. Generic email below FDA clinical vocabulary standard.
 Programme: FDA-aware CMC/Phase I-III email content + Biogen/GSK named sequences + HIPAA-compliant + 200-day deal-stage triggers
 Results: Biogen re-engagement: 44% | GSK re-engagement: 40% | FDA content: clean throughout | Pharma pipeline from email: \$2.0M
 
-Case Study 2: Raleigh Tech Company — Red Hat/Cisco Enterprise Pipeline
+Case Study 2: Raleigh Tech Company  Red Hat/Cisco Enterprise Pipeline
 Client: Open source consulting, Raleigh (\$8.4M). Challenge: Red Hat/Cisco contacts cold in 120-day evaluation cycles. Generic IT newsletter.
 Programme: Red Hat OpenShift/Ansible email + Cisco SD-WAN updates + RTP tech named sequences + 120-day triggers
 Results: Red Hat re-engagement: 42% | Cisco re-engagement: 38% | Enterprise pipeline from email: \$1.4M
 
-Case Study 3: Cary Financial Advisory — Triangle In-Migration 5-Stage Onboarding
+Case Study 3: Cary Financial Advisory  Triangle In-Migration 5-Stage Onboarding
 Client: Fee-only RIA, Cary (\$220M AUM). Challenge: DC/NY in-migration not engaging generic welcome email. No NC-specific transition content.
 Programme: DC-to-NC/NY-to-NC income comparison + NC healthcare navigation + FINRA-compliant
 Results: In-migration engagement: 3.8x above generic welcome | Client conversion: 38% within 90 days | New in-migration AUM: \$22M | FINRA: clean`,
   pricing: ``,
-  faqTitle: `FAQs — Email Marketing Raleigh`,
+  faqTitle: `FAQs  Email Marketing Raleigh`,
   faqs: [
   {
     "question": "How much does email marketing cost in Raleigh?",
@@ -69,7 +69,7 @@ Results: In-migration engagement: 3.8x above generic welcome | Client conversion
   },
   {
     "question": "Does Clickmasters serve Durham, Chapel Hill, Cary, and Greater Triangle?",
-    "answer": "Yes — all of the Research Triangle."
+    "answer": "Yes  all of the Research Triangle."
   },
   {
     "question": "How long does Raleigh RTP pharmaceutical email produce Biogen/GSK pipeline results?",
@@ -81,14 +81,14 @@ Results: In-migration engagement: 3.8x above generic welcome | Client conversion
   }
 ],
   faqsAlt: ``,
-  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Raleigh?","acceptedAnswer":{"@type":"Answer","text":"Raleigh email marketing: \$800/month (Foundation) to \$8,500+/month (Enterprise). Biogen/GSK RTP pharmaceutical pipeline. FDA-aware clinical content. Red Hat/Cisco enterprise. Triangle in-migration onboarding. North Carolina retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is RTP pharmaceutical procurement pipeline email for Raleigh businesses?","acceptedAnswer":{"@type":"Answer","text":"RTP pharmaceutical pipeline email maintains Biogen, GSK, and Novo Nordisk procurement relationship continuity through 120-360 day pharmaceutical evaluation cycles with FDA-aware clinical content: CMC regulatory update analysis, FDA guidance document intelligence, Phase I-III operational methodology content. Named account HubSpot sequences with 180-360 day pharma procurement deal-stage triggers."}},{"@type":"Question","name":"What is the Triangle in-migration 5-stage professional onboarding email?","acceptedAnswer":{"@type":"Answer","text":"5-stage NC onboarding: DC-to-NC/NY-to-NC income tax and cost of living comparison, North Carolina healthcare provider navigation for in-migration professionals, Triangle neighbourhood financial planning guide, NC estate planning vs DC/NY originating state considerations. Earns 3-4x above-average engagement from Triangle's DC/NY in-migration community vs generic welcome sequences."}},{"@type":"Question","name":"Does Clickmasters serve Durham, Chapel Hill, Cary, and Greater Triangle?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of the Research Triangle."}},{"@type":"Question","name":"How long does Raleigh RTP pharmaceutical email produce Biogen/GSK pipeline results?","acceptedAnswer":{"@type":"Answer","text":"Biogen/GSK re-engagement from FDA-aware clinical email: 21-30 days. Pharmaceutical evaluation invitations: 90-150 days. Full pharma pipeline: 7-12 months."}},{"@type":"Question","name":"How does Red Hat/Cisco enterprise email differ from generic IT newsletter?","acceptedAnswer":{"@type":"Answer","text":"Red Hat enterprise email demonstrates OpenShift, Ansible, and RHEL operational intelligence at the precision level of Red Hat's Durham corporate community. Cisco enterprise email demonstrates SD-WAN, network automation, and enterprise security operational vocabulary at Cisco RTP's technical precision standard. Generic 'enterprise IT insights' newsletter earns zero re-engagement from RTP's most technically demanding enterprise technology community."}}]}`,
+  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Raleigh?","acceptedAnswer":{"@type":"Answer","text":"Raleigh email marketing: \$800/month (Foundation) to \$8,500+/month (Enterprise). Biogen/GSK RTP pharmaceutical pipeline. FDA-aware clinical content. Red Hat/Cisco enterprise. Triangle in-migration onboarding. North Carolina retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is RTP pharmaceutical procurement pipeline email for Raleigh businesses?","acceptedAnswer":{"@type":"Answer","text":"RTP pharmaceutical pipeline email maintains Biogen, GSK, and Novo Nordisk procurement relationship continuity through 120-360 day pharmaceutical evaluation cycles with FDA-aware clinical content: CMC regulatory update analysis, FDA guidance document intelligence, Phase I-III operational methodology content. Named account HubSpot sequences with 180-360 day pharma procurement deal-stage triggers."}},{"@type":"Question","name":"What is the Triangle in-migration 5-stage professional onboarding email?","acceptedAnswer":{"@type":"Answer","text":"5-stage NC onboarding: DC-to-NC/NY-to-NC income tax and cost of living comparison, North Carolina healthcare provider navigation for in-migration professionals, Triangle neighbourhood financial planning guide, NC estate planning vs DC/NY originating state considerations. Earns 3-4x above-average engagement from Triangle's DC/NY in-migration community vs generic welcome sequences."}},{"@type":"Question","name":"Does Clickmasters serve Durham, Chapel Hill, Cary, and Greater Triangle?","acceptedAnswer":{"@type":"Answer","text":"Yes  all of the Research Triangle."}},{"@type":"Question","name":"How long does Raleigh RTP pharmaceutical email produce Biogen/GSK pipeline results?","acceptedAnswer":{"@type":"Answer","text":"Biogen/GSK re-engagement from FDA-aware clinical email: 21-30 days. Pharmaceutical evaluation invitations: 90-150 days. Full pharma pipeline: 7-12 months."}},{"@type":"Question","name":"How does Red Hat/Cisco enterprise email differ from generic IT newsletter?","acceptedAnswer":{"@type":"Answer","text":"Red Hat enterprise email demonstrates OpenShift, Ansible, and RHEL operational intelligence at the precision level of Red Hat's Durham corporate community. Cisco enterprise email demonstrates SD-WAN, network automation, and enterprise security operational vocabulary at Cisco RTP's technical precision standard. Generic 'enterprise IT insights' newsletter earns zero re-engagement from RTP's most technically demanding enterprise technology community."}}]}`,
   cta: `Get Your Free Raleigh Email Marketing Audit`,
-  ctaBody: `Free audit — 48 hours.
-1. Biogen/GSK cold-off rate — % of pharma contacts without active HubSpot sequences
+  ctaBody: `Free audit  48 hours.
+1. Biogen/GSK cold-off rate  % of pharma contacts without active HubSpot sequences
 2. FDA compliance in pharmaceutical email content
-3. Red Hat/Cisco vocabulary — enterprise tech email precision assessment
-4. Triangle in-migration specificity — DC-to-NC/NY-to-NC content in welcome email
-5. HIPAA compliance (healthcare) — email data handling violations
+3. Red Hat/Cisco vocabulary  enterprise tech email precision assessment
+4. Triangle in-migration specificity  DC-to-NC/NY-to-NC content in welcome email
+5. HIPAA compliance (healthcare)  email data handling violations
 
 Phone +1-888-555-CLICK | raleigh@clickmastersdigitalmarketing.com
 Durham, Chapel Hill, Cary, and all of the Research Triangle`,

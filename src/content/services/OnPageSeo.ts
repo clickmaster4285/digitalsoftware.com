@@ -12,7 +12,7 @@ export const OnPageSeoContent = {
     tag: "[ Service · 03 ] On-Page SEO",
     title: "On-Page SEO  ",
     titleHighlight: "Services",
-    subtitle: "— Optimize Every Page for Revenue",
+    subtitle: " Optimize Every Page for Revenue",
     description: "On-page SEO services that match intent, build E-E-A-T, and convert. Title tags, content optimization, schema & more for USA, UK, UAE & Pakistan. Get your free analysis today.",
     stats: [
       { k: "12,000+", v: "Pages optimized" },
@@ -27,7 +27,7 @@ export const OnPageSeoContent = {
       { text: "rank on page two", type: "highlight" },
       { text: ".", type: "normal" }
     ],
-    solution: "On-page SEO — the optimization of the actual content and structure of each individual page — is what tells Google which query a page should rank for, how authoritatively it covers the topic, and whether it deserves to be shown to the user who typed that specific search. Without it, all of your other SEO investment is an engine without direction.",
+    solution: "On-page SEO  the optimization of the actual content and structure of each individual page  is what tells Google which query a page should rank for, how authoritatively it covers the topic, and whether it deserves to be shown to the user who typed that specific search. Without it, all of your other SEO investment is an engine without direction.",
     promise: "At Clickmasters Digital Marketing, our on-page SEO team has optimized more than 12,000 individual pages across every major industry since 2015. We do not apply a checklist and move on. We analyze what is suppressing each page's performance, identify the gap between where it is and where it should rank, and implement precise optimizations that move it up the search results and convert the traffic it earns."
   },
   problem: {
@@ -37,12 +37,12 @@ export const OnPageSeoContent = {
       {
         icon: "Target",
         title: "Wrong Search Intent Targeting",
-        body: "The most common on-page SEO failure is optimizing pages for the wrong intent type. A page built for informational intent will not convert transactional users, no matter how well it ranks. We classify every target keyword by its search intent — informational, commercial, transactional, or navigational — and build content structure, format, and CTAs specifically for that intent."
+        body: "The most common on-page SEO failure is optimizing pages for the wrong intent type. A page built for informational intent will not convert transactional users, no matter how well it ranks. We classify every target keyword by its search intent  informational, commercial, transactional, or navigational  and build content structure, format, and CTAs specifically for that intent."
       },
       {
         icon: "FileText",
         title: "Thin Content and Missing Topics",
-        body: "Pages with thin coverage competing against comprehensive guides is a hidden revenue leak. We analyze the top 10 ranking pages for every target keyword to identify every gap — every topic, data point, question, or perspective the top-ranking pages do not cover well — and ensure your content fills those gaps comprehensively."
+        body: "Pages with thin coverage competing against comprehensive guides is a hidden revenue leak. We analyze the top 10 ranking pages for every target keyword to identify every gap  every topic, data point, question, or perspective the top-ranking pages do not cover well  and ensure your content fills those gaps comprehensively."
       },
       {
         icon: "UserCheck",
@@ -56,12 +56,12 @@ export const OnPageSeoContent = {
       {
         icon: "TrendingUp",
         title: "Higher Rankings and CTR",
-        body: "Improved CTR signals user preference to Google, which further improves ranking position. It is a reinforcing loop that begins with well-optimized title tags, meta descriptions, and content. Our clients consistently see CTR improvements of 18 to 45 percent following title tag optimization — without any change in ranking position."
+        body: "Improved CTR signals user preference to Google, which further improves ranking position. It is a reinforcing loop that begins with well-optimized title tags, meta descriptions, and content. Our clients consistently see CTR improvements of 18 to 45 percent following title tag optimization  without any change in ranking position."
       },
       {
         icon: "DollarSign",
         title: "Organic Revenue Growth",
-        body: "Every page on your website is either working for your business or costing you traffic you have already paid for. On-page SEO converts underperforming pages into consistent organic revenue drivers — without increasing ad spend, waiting for new backlinks, or rebuilding your site."
+        body: "Every page on your website is either working for your business or costing you traffic you have already paid for. On-page SEO converts underperforming pages into consistent organic revenue drivers  without increasing ad spend, waiting for new backlinks, or rebuilding your site."
       },
       {
         icon: "RefreshCw",
@@ -80,15 +80,15 @@ export const OnPageSeoContent = {
       blocks: [
         {
           h: "Commercial Intent Classification",
-          p: "We classify every target keyword by its search intent — informational (the user wants to learn), commercial (the user is researching before buying), transactional (the user is ready to act), or navigational (the user is looking for a specific brand or website). Each intent type demands a different page structure, content format, and CTA approach."
+          p: "We classify every target keyword by its search intent  informational (the user wants to learn), commercial (the user is researching before buying), transactional (the user is ready to act), or navigational (the user is looking for a specific brand or website). Each intent type demands a different page structure, content format, and CTA approach."
         },
         {
           h: "SERP Feature Analysis",
-          p: "For every target keyword, we analyze what Google currently shows in the top 10 positions — standard blue links, featured snippets, AI Overviews, video carousels, People Also Ask boxes, image packs, map packs, or shopping results. The composition of the SERP tells us exactly what format Google is rewarding for that query."
+          p: "For every target keyword, we analyze what Google currently shows in the top 10 positions  standard blue links, featured snippets, AI Overviews, video carousels, People Also Ask boxes, image packs, map packs, or shopping results. The composition of the SERP tells us exactly what format Google is rewarding for that query."
         },
         {
           h: "Keyword Clustering and Cannibalization Prevention",
-          p: "One of the most common on-page SEO errors is keyword cannibalization — multiple pages competing for the same keyword. We audit your entire content architecture to ensure each page owns a distinct keyword territory without competing against your own site."
+          p: "One of the most common on-page SEO errors is keyword cannibalization  multiple pages competing for the same keyword. We audit your entire content architecture to ensure each page owns a distinct keyword territory without competing against your own site."
         }
       ]
     },
@@ -101,11 +101,11 @@ export const OnPageSeoContent = {
       blocks: [
         {
           h: "Title Tag Engineering",
-          p: "We write title tags that achieve three things simultaneously: include the primary keyword in a natural, front-weighted position; communicate a specific value proposition; and stay within Google's display limit of approximately 60 characters. Before: 'SEO Services | Digital Marketing | Clickmasters' — After: 'SEO Services That Drive Real Revenue — Clickmasters'"
+          p: "We write title tags that achieve three things simultaneously: include the primary keyword in a natural, front-weighted position; communicate a specific value proposition; and stay within Google's display limit of approximately 60 characters. Before: 'SEO Services | Digital Marketing | Clickmasters'  After: 'SEO Services That Drive Real Revenue  Clickmasters'"
         },
         {
           h: "Meta Description Optimization",
-          p: "Meta descriptions are not direct ranking factors — but they are conversion copy. We write meta descriptions as mini-advertisements: they acknowledge the user's search intent, communicate the page's specific value, include a call to action, and stay within the 155-character display limit."
+          p: "Meta descriptions are not direct ranking factors  but they are conversion copy. We write meta descriptions as mini-advertisements: they acknowledge the user's search intent, communicate the page's specific value, include a call to action, and stay within the 155-character display limit."
         }
       ]
     },
@@ -114,7 +114,7 @@ export const OnPageSeoContent = {
       icon: "Heading",
       tag: "Architecture",
       title: "Heading Structure and Content Architecture",
-      intro: "The heading structure of a page — H1 through H4 — is both a user experience signal and a strong on-page SEO signal. Google's algorithm reads heading tags to understand the hierarchy and organization of content.",
+      intro: "The heading structure of a page  H1 through H4  is both a user experience signal and a strong on-page SEO signal. Google's algorithm reads heading tags to understand the hierarchy and organization of content.",
       blocks: [
         {
           h: "H1 Optimization",
@@ -135,7 +135,7 @@ export const OnPageSeoContent = {
       blocks: [
         {
           h: "Competitor Gap Analysis",
-          p: "We analyze the top 10 ranking pages for every target keyword in exhaustive detail — what they cover, what they miss, what questions they answer — and ensure your content fills every gap. We have seen pages rise from position 12 to position 2 purely through gap-filling content additions."
+          p: "We analyze the top 10 ranking pages for every target keyword in exhaustive detail  what they cover, what they miss, what questions they answer  and ensure your content fills every gap. We have seen pages rise from position 12 to position 2 purely through gap-filling content additions."
         },
         {
           h: "Content Depth and Comprehensiveness",
@@ -169,11 +169,11 @@ export const OnPageSeoContent = {
       icon: "Image",
       tag: "Media",
       title: "Image Optimization and Multimedia SEO",
-      intro: "Images are one of the most neglected on-page SEO elements — and one of the most consistently impactful when properly optimized.",
+      intro: "Images are one of the most neglected on-page SEO elements  and one of the most consistently impactful when properly optimized.",
       blocks: [
         {
           h: "Alt Text Optimization",
-          p: "We write descriptive, keyword-integrated alt text for every image — avoiding both keyword-stuffed alt text that triggers spam signals and completely generic alt text that adds nothing."
+          p: "We write descriptive, keyword-integrated alt text for every image  avoiding both keyword-stuffed alt text that triggers spam signals and completely generic alt text that adds nothing."
         },
         {
           h: "Image File Size Optimization",
@@ -209,7 +209,7 @@ export const OnPageSeoContent = {
       metric: "340%",
       sub: "lead increase · 22 keywords page 1",
       title: "Law firm on-page SEO drives first page rankings for 22 high-value legal keywords in 6 months.",
-      body: "A personal injury law firm in New York had reasonable domain authority but was not ranking in the top 20 for any of their primary transactional keywords. The problem was entirely on-page: every service page was targeting the wrong intent (informational content on pages that needed transactional copy), title tags were identical across similar practice area pages, and zero E-E-A-T signals were present — no attorney profiles, no case results, no cited credentials. Our on-page overhaul: intent-matched content rewrites for 12 practice area pages, title tag and meta description optimization, attorney profile integration with Person schema, addition of case result data compliant with Bar advertising rules, internal linking reconstruction, and FAQ sections targeting People Also Ask queries.",
+      body: "A personal injury law firm in New York had reasonable domain authority but was not ranking in the top 20 for any of their primary transactional keywords. The problem was entirely on-page: every service page was targeting the wrong intent (informational content on pages that needed transactional copy), title tags were identical across similar practice area pages, and zero E-E-A-T signals were present  no attorney profiles, no case results, no cited credentials. Our on-page overhaul: intent-matched content rewrites for 12 practice area pages, title tag and meta description optimization, attorney profile integration with Person schema, addition of case result data compliant with Bar advertising rules, internal linking reconstruction, and FAQ sections targeting People Also Ask queries.",
       result: "First page rankings for 22 keywords including 'personal injury attorney New York' (previously position 31) and 'car accident lawyer Manhattan' (previously position 44). Organic leads increased by 340% in 6 months."
     },
     {
@@ -217,8 +217,8 @@ export const OnPageSeoContent = {
       metric: "161%",
       sub: "CTR improvement · 2.4x traffic",
       title: "B2B SaaS company featured snippet capture doubles organic CTR without ranking change.",
-      body: "A SaaS company providing HR management software ranked between positions 4 and 8 for several informational keywords — but click-through rate was consistently below 2% because competitor pages were capturing featured snippets for the same queries. We restructured their top 15 blog posts to include definition blocks, numbered step lists, and comparison tables in formats Google preferentially selects for featured snippets. We added FAQ sections targeting related People Also Ask queries. We strengthened E-E-A-T by adding named author profiles, citing industry sources, and adding original product usage statistics.",
-      result: "6 of 15 posts captured featured snippets within 90 days. Average CTR for those 6 posts rose from 1.8% to 4.7% — a 161% improvement — without any change in ranking position. Organic traffic to these posts increased by 2.4x."
+      body: "A SaaS company providing HR management software ranked between positions 4 and 8 for several informational keywords  but click-through rate was consistently below 2% because competitor pages were capturing featured snippets for the same queries. We restructured their top 15 blog posts to include definition blocks, numbered step lists, and comparison tables in formats Google preferentially selects for featured snippets. We added FAQ sections targeting related People Also Ask queries. We strengthened E-E-A-T by adding named author profiles, citing industry sources, and adding original product usage statistics.",
+      result: "6 of 15 posts captured featured snippets within 90 days. Average CTR for those 6 posts rose from 1.8% to 4.7%  a 161% improvement  without any change in ranking position. Organic traffic to these posts increased by 2.4x."
     },
     {
       tag: "E-commerce · Revenue",
@@ -233,17 +233,17 @@ export const OnPageSeoContent = {
     {
       icon: "Brain",
       h: "Strategy first, execution second",
-      p: "The most common on-page SEO failure is executing technically correct optimizations that are strategically wrong — optimizing pages for keywords they cannot realistically compete for, or for intent types that will not generate leads. We design the strategy before we touch a page."
+      p: "The most common on-page SEO failure is executing technically correct optimizations that are strategically wrong  optimizing pages for keywords they cannot realistically compete for, or for intent types that will not generate leads. We design the strategy before we touch a page."
     },
     {
       icon: "Users",
       h: "Content written by subject matter specialists",
-      p: "Our content team is organized by vertical — healthcare, legal, SaaS, e-commerce, financial services — ensuring that on-page content for your industry is written by someone who understands your audience's actual language, pain points, and decision-making process."
+      p: "Our content team is organized by vertical  healthcare, legal, SaaS, e-commerce, financial services  ensuring that on-page content for your industry is written by someone who understands your audience's actual language, pain points, and decision-making process."
     },
     {
       icon: "BarChart",
       h: "Measurable outputs, not activity reports",
-      p: "Every on-page SEO deliverable is tied to a measurable output: a ranking position target, a CTR improvement benchmark, a featured snippet capture goal, or a content comprehensiveness score. We report on what optimizations did for your traffic and revenue — not on how many pages we touched."
+      p: "Every on-page SEO deliverable is tied to a measurable output: a ranking position target, a CTR improvement benchmark, a featured snippet capture goal, or a content comprehensiveness score. We report on what optimizations did for your traffic and revenue  not on how many pages we touched."
     },
     {
       icon: "Shield",
@@ -274,11 +274,11 @@ export const OnPageSeoContent = {
     },
     {
       q: "Can on-page SEO fix a penalized site?",
-      a: "On-page SEO alone is unlikely to recover a Google penalty — but it is a critical part of recovery. Once the root cause of the penalty is addressed, improving on-page quality across affected pages is how you rebuild the rankings you lost."
+      a: "On-page SEO alone is unlikely to recover a Google penalty  but it is a critical part of recovery. Once the root cause of the penalty is addressed, improving on-page quality across affected pages is how you rebuild the rankings you lost."
     },
     {
       q: "Do you work with WordPress, Shopify, and other CMS platforms?",
-      a: "Yes — we work with all major CMS platforms including WordPress, Shopify, WooCommerce, Webflow, Squarespace, Wix, Magento, BigCommerce, and enterprise platforms like HubSpot CMS and Sitecore. For most platforms, on-page optimization can be implemented directly through the CMS interface."
+      a: "Yes  we work with all major CMS platforms including WordPress, Shopify, WooCommerce, Webflow, Squarespace, Wix, Magento, BigCommerce, and enterprise platforms like HubSpot CMS and Sitecore. For most platforms, on-page optimization can be implemented directly through the CMS interface."
     },
     {
       q: "How does on-page SEO work with AI Overviews?",
@@ -286,12 +286,12 @@ export const OnPageSeoContent = {
     },
     {
       q: "How do I get started?",
-      a: "Book a free on-page SEO analysis. We will review your three highest-priority pages live in the call — identifying specific title tag, content, and E-E-A-T improvements currently suppressing their performance — and give you a clear picture of what a full engagement would deliver. No commitment required."
+      a: "Book a free on-page SEO analysis. We will review your three highest-priority pages live in the call  identifying specific title tag, content, and E-E-A-T improvements currently suppressing their performance  and give you a clear picture of what a full engagement would deliver. No commitment required."
     }
   ],
   cta: {
     title: "Ready to Turn Every Page Into a Revenue Asset?",
-    description: "Every page on your website is either working for your business or costing you traffic you have already paid for. On-page SEO is how you convert underperforming pages into consistent organic revenue drivers — without increasing your ad spend, without waiting for new backlinks, and without rebuilding your site. The opportunity is on your existing pages, right now. We will show you exactly where it is.",
+    description: "Every page on your website is either working for your business or costing you traffic you have already paid for. On-page SEO is how you convert underperforming pages into consistent organic revenue drivers  without increasing your ad spend, without waiting for new backlinks, and without rebuilding your site. The opportunity is on your existing pages, right now. We will show you exactly where it is.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact/",
     whatsappLink: "https://wa.me/",
     softwareLink: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/"
@@ -301,7 +301,7 @@ export const OnPageSeoContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | 10+ years on-page SEO expertise"
+    author: "Amjad Khan  CEO, Clickmasters Digital Marketing | 10+ years on-page SEO expertise"
   },
 
   schema: {

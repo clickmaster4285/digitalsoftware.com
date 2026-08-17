@@ -2,27 +2,66 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 
 const solutions = [
-  { i: "🏥", t: "Healthcare", d: "Helping healthcare providers attract more patients online through targeted SEO, ads, and content that builds trust and drives appointments.", c: "bg-[#F0FFF4]" },
-  { i: "⚖️", t: "Personal Injury Lawyers", d: "Dominate local search, generate high-quality case leads, and outrank competitors with aggressive SEO and PPC strategies built for legal.", c: "bg-[#FFF1F1]" },
-  { i: "🏠", t: "Real Estate", d: "Drive qualified buyer and seller leads through hyper-local SEO, social media, and paid campaigns.", c: "bg-[#F0F4FF]" },
-  { i: "🔧", t: "Plumbers", d: "Get found instantly when locals need help with local SEO, Google Ads, and map rankings.", c: "bg-[#FFF7E6]" },
-  { i: "🏛️", t: "Law Firms", d: "Build authority and generate consistent case inquiries with SEO, PPC, and content marketing.", c: "bg-[#F5F0FF]" },
-  { i: "💉", t: "Plastic Surgery", d: "Attract high-intent patients with premium content, before/after campaigns, and conversion-focused pages.", c: "bg-[#FFEAF0]" },
-  { i: "🍽️", t: "Restaurants", d: "Fill tables and boost orders with local SEO, social media, influencer marketing, and targeted ads.", c: "bg-[#FFF3E0]" },
-  { i: "🏗️", t: "Contractors", d: "Generate steady project leads through local search domination, Google Ads, and strong online presence.", c: "bg-[#F2F2F2]" },
-  { i: "🛍️", t: "Retail", d: "Drive foot traffic and online sales with social ads, Google Shopping campaigns, and SEO strategies.", c: "bg-[#EAF7FF]" },
-  { i: "💰", t: "Financial Services", d: "Build trust and generate qualified leads with compliant financial marketing strategies.", c: "bg-[#F3EEFF]" },
-  { i: "🏢", t: "Construction Companies", d: "Showcase projects, win bigger contracts, and generate consistent leads through SEO and paid ads.", c: "bg-[#F5F5F5]" },
-  { i: "✈️", t: "Travel Industry", d: "Inspire travelers with content, SEO, and ads that drive bookings and brand growth.", c: "bg-[#E6FAFF]" },
-  { i: "🦷", t: "Dental", d: "Fill appointment books with patients through local SEO, ads, and reputation management.", c: "bg-[#F0FFFA]" },
-  { i: "👨‍⚖️", t: "Attorneys", d: "Generate consistent case leads and dominate local search with legal-focused strategies.", c: "bg-[#FFF0F5]" },
-  { i: "🛡️", t: "Insurance Brokers", d: "Reach high-intent buyers with targeted SEO, Google Ads, and lead generation campaigns.", c: "bg-[#F0F8FF]" },
-  { i: "🏨", t: "Hospitality", d: "Increase direct bookings and reduce OTA dependency through SEO and social campaigns.", c: "bg-[#FFF8F0]" },
-  { i: "🐛", t: "Pest Control", d: "Capture urgent local searches and convert them into booked jobs with SEO and ads.", c: "bg-[#F7FFF0]" },
-  { i: "🎓", t: "Education", d: "Attract students with targeted campaigns, SEO, and strong digital presence.", c: "bg-[#F0F4FF]" },
-  { i: "🚚", t: "Logistics Companies", d: "Generate B2B leads and grow client base through SEO, LinkedIn, and paid campaigns.", c: "bg-[#F5F7FF]" },
-  { i: "👗", t: "Fashion Brands", d: "Grow brand, drive ecommerce sales, and build loyal following with influencer and social strategies.", c: "bg-[#FFF0FA]" },
-  { i: "🏥", t: "Hospitals", d: "Build trust, attract patients, and strengthen reputation with healthcare-focused digital marketing.", c: "bg-[#F0FFF8]" },
+  { 
+    i: "🔧", 
+    t: "Home Services Digital Marketing", 
+    d: "We provide digital marketing for home services businesses like HVAC, plumbing, electrical, and roofing companies. Our HVAC digital marketing services help you generate more calls, bookings, and local leads year-round.",
+    c: "bg-[#FFF7E6]" 
+  },
+  { 
+    i: "🏥", 
+    t: "Healthcare & Dental Digital Marketing", 
+    d: "Our healthcare digital marketing services help clinics, hospitals, and medical practices attract more patients through local SEO and reputation management. We also offer specialized dental digital marketing services to help practices fill their appointment calendars.",
+    c: "bg-[#F0FFF4]" 
+  },
+  { 
+    i: "🏠", 
+    t: "Real Estate Digital Marketing", 
+    d: "We help agents, brokers, and real estate firms generate quality buyer and seller leads. Our real estate digital marketing services combine local SEO, paid ads, and social media to keep your listings in front of the right audience.",
+    c: "bg-[#F0F4FF]" 
+  },
+  { 
+    i: "💰", 
+    t: "Financial Services Digital Marketing", 
+    d: "We provide digital marketing for financial services firms, including banks, advisors, and insurance agencies. As a trusted financial services digital marketing agency, we focus on building trust and compliance-friendly lead generation strategies.",
+    c: "bg-[#F3EEFF]" 
+  },
+  { 
+    i: "🚗", 
+    t: "Automotive Digital Marketing", 
+    d: "Our automotive digital marketing services help dealerships and auto service centers drive more showroom visits and service appointments. We combine local SEO, PPC, and social campaigns to keep your lot full.",
+    c: "bg-[#EAF7FF]" 
+  },
+  { 
+    i: "🛍️", 
+    t: "Ecommerce & Retail Digital Marketing", 
+    d: "We deliver digital marketing services for ecommerce brands looking to scale online sales. From Google Shopping to paid social, our ecommerce digital marketing services are built to increase conversions and average order value.",
+    c: "bg-[#FFF0FA]" 
+  },
+  { 
+    i: "🏭", 
+    t: "Manufacturing Digital Marketing", 
+    d: "We help industrial and manufacturing companies generate B2B leads through targeted digital campaigns. Our strategies are designed for long sales cycles and complex buyer journeys common in this industry.",
+    c: "bg-[#F5F5F5]" 
+  },
+  { 
+    i: "🏨", 
+    t: "Hospitality & Hotel Digital Marketing", 
+    d: "We provide digital marketing services for hotels and hospitality businesses to increase direct bookings and reduce dependency on third-party platforms. Our campaigns focus on visibility, reviews, and seasonal promotions.",
+    c: "bg-[#FFF8F0]" 
+  },
+  { 
+    i: "👨‍💼", 
+    t: "Professional Services Digital Marketing", 
+    d: "Our digital marketing for professional services covers law firms, accounting practices, and consulting businesses. We build authority-driven strategies that generate high-value client inquiries.",
+    c: "bg-[#FFF1F1]" 
+  },
+  { 
+    i: "💻", 
+    t: "Technology & SaaS Digital Marketing", 
+    d: "We help tech companies and SaaS brands generate qualified demos and trial sign-ups through content marketing, PPC, and LinkedIn campaigns tailored to B2B buyer journeys.",
+    c: "bg-[#F5F0FF]" 
+  },
 ];
 
 export const Solutions = () => {
@@ -39,9 +78,14 @@ export const Solutions = () => {
           </p>
         </div>
 
-        <h2 className="md:col-span-8 font-display text-5xl md:text-7xl leading-[1.05] text-balance">
-          Digital Marketing <em>Services </em> for Every Industry
-        </h2>
+        <div className="md:col-span-8">
+          <h2 className="font-display text-5xl md:text-7xl leading-[1.05] text-balance">
+            Industries <em className="font-display italic">We Serve</em>
+          </h2>
+          <p className="mt-6 text-muted-foreground text-lg md:text-xl max-w-2xl text-balance">
+            Clickmasters provides specialized digital marketing services for small business and enterprise clients across a wide range of industries. Here's how we help each one grow:
+          </p>
+        </div>
       </div>
 
       <div className="grid md:grid-cols-3 gap-6">
@@ -58,12 +102,8 @@ export const Solutions = () => {
             <div className={`absolute inset-0 ${s.c}`} aria-hidden />
             <div className="relative">
               <div className="text-5xl mb-6">{s.i}</div>
-              <h3 className="font-display text-3xl mb-3">{s.t}</h3>
-              <p className="text-sm opacity-80 max-w-xs">{s.d}</p>
-
-              {/* <div className="mt-8 inline-flex items-center gap-2 text-sm font-medium opacity-80 group-hover:opacity-100">
-                Learn more <span className="transition-transform group-hover:translate-x-1">→</span>
-              </div> */}
+              <h3 className="font-display text-2xl md:text-3xl mb-3">{s.t}</h3>
+              <p className="text-sm opacity-80 max-w-xs leading-relaxed">{s.d}</p>
             </div>
           </motion.div>
         ))}

@@ -19,10 +19,10 @@ export const DigitalMarketing_Dallas = {
   
   h1: `Dallas Digital Marketing Agency That Drives Real Growth`,
   primaryKw: `digital marketing agency dallas`,
-  formula: `BAB — Dallas Fortune 500 corporate relocation wave raising commercial digital standards → incumbent DFW businesses below the standard relocated executives now expect → CLICK Growth System for Texas' corporate capital`,
+  formula: `BAB  Dallas Fortune 500 corporate relocation wave raising commercial digital standards → incumbent DFW businesses below the standard relocated executives now expect → CLICK Growth System for Texas' corporate capital`,
   seoTitle: `Dallas Digital Marketing Agency - Grow Leads & Sales`,
   meta: `Need a digital marketing agency in Dallas? Clickmasters delivers SEO, PPC & web design that drives leads and sales. Request your free strategy session.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Dallas Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-dallas/","address":{"@type":"PostalAddress","addressLocality":"Dallas","addressRegion":"TX","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Dallas Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-dallas/","address":{"@type":"PostalAddress","addressLocality":"Dallas","addressRegion":"TX","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4200,
   breadcrumb: `Home > Digital Marketing Agency > Dallas, TX`,
   des: `Clickmasters Digital Marketing Agency helps Dallas businesses grow through SEO, PPC, web design, and social media marketing. We build custom strategies that turn local visibility into qualified leads, sales, and long-term revenue growth.
@@ -144,13 +144,13 @@ Regular reporting shows what's working, and we plan next steps to scale results 
 What to Expect During the First 90 Days:
 Digital marketing results build over time. Here's a realistic timeline for what to expect when you start with Clickmasters.
 
-Step 1:Days 1–30 — Research and Foundation
+Step 1:Days 1–30  Research and Foundation
 We complete audits, set up tracking, and lay the technical and strategic foundation for your campaigns.
 
-Step 2:Days 31–60 — Campaign Launch
+Step 2:Days 31–60  Campaign Launch
 SEO improvements, PPC campaigns, and content begin to roll out, with early performance data becoming available.
 
-Step 3:Days 61–90 — Optimization and Expansion
+Step 3:Days 61–90  Optimization and Expansion
 We refine campaigns based on real results and begin expanding what's working into new channels or 
 
 
@@ -208,7 +208,7 @@ Jason R., Founder, Dallas-based E-commerce Brand \$5⭐
 
 
 
-faqTitle: `FAQs — Digital Marketing Dallas`,
+faqTitle: `FAQs  Digital Marketing Dallas`,
 "faqs": [
     {
       "question": "What does a digital marketing agency do?",

@@ -12,8 +12,8 @@ export const MarketingAutomationContent = {
     tag: "[ Service · 06 ] Marketing Automation",
     title: "Marketing Automation",
     titleHighlight: "Services",
-    subtitle: "— stop losing leads while your team sleeps.",
-    description: "Expert marketing automation — HubSpot, Klaviyo, Salesforce MC, lead nurturing, e-commerce flows & CRM integration. USA, UK & UAE. Free automation consultation.",
+    subtitle: " stop losing leads while your team sleeps.",
+    description: "Expert marketing automation  HubSpot, Klaviyo, Salesforce MC, lead nurturing, e-commerce flows & CRM integration. USA, UK & UAE. Free automation consultation.",
     stats: [
       { k: "9x", v: "Higher conversion (5 min response)" },
       { k: "3.2x", v: "Pipeline velocity increase" },

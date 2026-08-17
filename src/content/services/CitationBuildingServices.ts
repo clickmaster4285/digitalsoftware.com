@@ -14,9 +14,9 @@ export const CitationBuildingServicesContent = {
     tag: "[ Local SEO · 06 ] Citation Management",
     title: "Citation Building ",
     titleHighlight: "Services",
-    subtitle: "— Fix Your NAP. Own Your Local Pack. Dominate Nearby Search.",
+    subtitle: " Fix Your NAP. Own Your Local Pack. Dominate Nearby Search.",
     description:
-      "Local citation building services — NAP audit, correction, directory building and multi-location management. UK, USA, UAE, Canada, Australia. Local Pack ranking improvement.",
+      "Local citation building services  NAP audit, correction, directory building and multi-location management. UK, USA, UAE, Canada, Australia. Local Pack ranking improvement.",
     stats: [
       { k: "186+", v: "inconsistencies found per audit" },
       { k: "4-8", v: "weeks to ranking improvement" },

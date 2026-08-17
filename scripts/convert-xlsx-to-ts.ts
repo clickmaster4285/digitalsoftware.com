@@ -290,11 +290,11 @@ function processFile(filename: string): any {
     const wordCount = parseWordCount(mergedData['WORD COUNT']);
     const faqSchema = mergedData['FAQ SCHEMA'] || null;
     const faqs = parseFAQFromSchema(faqSchema);
-    const faqTitle = mergedData['H2 — FAQ'] || '';
+    const faqTitle = mergedData['H2  FAQ'] || '';
     
     // Extract additional fields
-    // Support both SECTION — PAS and SECTION — BAB
-    const pas = mergedData['SECTION — PAS'] || mergedData['SECTION — BAB'] || '';
+    // Support both SECTION  PAS and SECTION  BAB
+    const pas = mergedData['SECTION  PAS'] || mergedData['SECTION  BAB'] || '';
     const services = mergedData['SERVICES'] || '';
     
     // NEW FIELDS
@@ -304,9 +304,9 @@ function processFile(filename: string): any {
     const ctaBody = mergedData['CTA'] || '';
     
     // Log which fields were found
-    if (mergedData['SECTION — PAS']) {
+    if (mergedData['SECTION  PAS']) {
       console.log(`    ✅ Found PAS`);
-    } else if (mergedData['SECTION — BAB']) {
+    } else if (mergedData['SECTION  BAB']) {
       console.log(`    ✅ Found BAB (mapped to pas)`);
     }
     if (breadcrumb) console.log(`    ✅ Found Breadcrumb`);
@@ -370,7 +370,7 @@ function generateSingleFile(data: any, filename: string) {
   console.log(`    📝 CTA Body: ${ctaBody ? '✅' : '❌'}`);
   
   // Clean features - remove "FEATURES:" header if present
-  let featuresText = contentData['SECTION — FAB'] || '';
+  let featuresText = contentData['SECTION  FAB'] || '';
   if (featuresText) {
     featuresText = featuresText.replace(/^FEATURES:\s*\n?/i, '');
     featuresText = featuresText.replace(/FEATURES:\s*/gi, '');
@@ -417,7 +417,7 @@ export const ${varName} = {\n`;
   content += `  faqs: ${JSON.stringify(faqs, null, 2)},\n`;
   content += `  faqsAlt: ${formatValue(faqsAlt)},\n`;
   content += `  faqSchema: ${formatValue(contentData['FAQ SCHEMA'] || null)},\n`;
-  content += `  cta: ${formatValue(contentData['H2 — CTA'] || '')},\n`;
+  content += `  cta: ${formatValue(contentData['H2  CTA'] || '')},\n`;
   content += `  ctaBody: ${formatValue(ctaBody)},\n`;
   
   const linksRaw = contentData['INTERNAL LINKS'] || '';

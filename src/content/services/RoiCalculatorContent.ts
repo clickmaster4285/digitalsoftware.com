@@ -10,11 +10,11 @@ export const RoiCalculatorContent = {
   },
   hero: {
     tag: "[ Service · 19 ] ROI CALCULATOR",
-    title: "Digital Marketing ROI Calculator — Estimate Your Return",
+    title: "Digital Marketing ROI Calculator  Estimate Your Return",
     titleHighlight: "Before You Invest",
     subtitle: "",
     description:
-      "Free digital marketing ROI calculator — estimate returns from SEO, Google Ads, Meta Ads and email marketing. Includes ROI benchmarks and worked examples.",
+      "Free digital marketing ROI calculator  estimate returns from SEO, Google Ads, Meta Ads and email marketing. Includes ROI benchmarks and worked examples.",
     stats: [
       { k: "400-800%", v: "3-year SEO ROI (competitive markets)" },
       { k: "3x to 8x", v: "Google Ads ROI range" },
@@ -24,7 +24,7 @@ export const RoiCalculatorContent = {
   },
   intro: {
     problem: [
-      { text: "This calculator gives you a realistic, input-specific estimate of the ROI a digital marketing programme is likely to produce for your business — based on your current lead volume, your average client value, your conversion rate, and the specific programme type you are considering. It is not a guarantee. It is not a pitch. It is the ", type: "normal" },
+      { text: "This calculator gives you a realistic, input-specific estimate of the ROI a digital marketing programme is likely to produce for your business  based on your current lead volume, your average client value, your conversion rate, and the specific programme type you are considering. It is not a guarantee. It is not a pitch. It is the ", type: "normal" },
       { text: "honest commercial arithmetic", type: "highlight" },
       { text: " that most agencies skip because the numbers do not always work in their favour.", type: "normal" }
     ],
@@ -32,12 +32,12 @@ export const RoiCalculatorContent = {
     promise: "",
   },
   calculatorInputs: {
-    title: "Feature — How the ROI Calculator",
+    title: "Feature  How the ROI Calculator",
     titleHighlight: "Works",
     inputs: [
       {
         title: "Monthly digital marketing investment",
-        description: "The total monthly spend on the digital marketing programme — including management fees and advertising spend. Use the programme pricing ranges on our pricing page if you do not have a specific figure.",
+        description: "The total monthly spend on the digital marketing programme  including management fees and advertising spend. Use the programme pricing ranges on our pricing page if you do not have a specific figure.",
       },
       {
         title: "Average client or customer value",
@@ -49,7 +49,7 @@ export const RoiCalculatorContent = {
       },
       {
         title: "Current lead-to-client conversion rate",
-        description: "The percentage of your digital leads that convert to paying clients or customers. Industry averages vary widely — legal services typically 15-30%, healthcare 25-40%, e-commerce (add-to-cart to purchase) 1.5-3%, B2B professional services 10-25%.",
+        description: "The percentage of your digital leads that convert to paying clients or customers. Industry averages vary widely  legal services typically 15-30%, healthcare 25-40%, e-commerce (add-to-cart to purchase) 1.5-3%, B2B professional services 10-25%.",
       },
       {
         title: "Target monthly digital leads after programme",
@@ -63,7 +63,7 @@ export const RoiCalculatorContent = {
       },
       {
         title: "Annual incremental revenue estimate",
-        description: "The monthly incremental revenue figure multiplied by 12 — representing the annual commercial value of the programme.",
+        description: "The monthly incremental revenue figure multiplied by 12  representing the annual commercial value of the programme.",
       },
       {
         title: "ROI estimate",
@@ -72,23 +72,23 @@ export const RoiCalculatorContent = {
     ],
   },
   benchmarks: {
-    title: "Feature — ROI Benchmarks by",
+    title: "Feature  ROI Benchmarks by",
     titleHighlight: "Programme Type",
     items: [
       {
         icon: "Search",
         title: "SEO Programme ROI Benchmarks",
-        description: "SEO is the highest long-run ROI digital marketing channel for most businesses — but it is also the slowest to produce initial returns. Realistic SEO ROI timeline: Months 1-6 typically show negative or break-even ROI as programme infrastructure is built. Months 6-12 typically show positive ROI emerging as rankings and leads begin to materialise. Months 12-24 typically show the strongest ROI as compounding authority produces progressively more organic traffic and leads. Three-year SEO ROI for well-executed programmes in competitive markets typically reaches 400-800% — organic leads generated in years 2 and 3 are acquired at a fraction of the cost of paid leads.",
+        description: "SEO is the highest long-run ROI digital marketing channel for most businesses  but it is also the slowest to produce initial returns. Realistic SEO ROI timeline: Months 1-6 typically show negative or break-even ROI as programme infrastructure is built. Months 6-12 typically show positive ROI emerging as rankings and leads begin to materialise. Months 12-24 typically show the strongest ROI as compounding authority produces progressively more organic traffic and leads. Three-year SEO ROI for well-executed programmes in competitive markets typically reaches 400-800%  organic leads generated in years 2 and 3 are acquired at a fraction of the cost of paid leads.",
       },
       {
         icon: "Google",
         title: "Google Ads ROI Benchmarks",
-        description: "Google Ads is the fastest to produce ROI — campaigns can generate qualified leads within days of launch — and the most directly measurable. The trade-off is that the ROI disappears when the spend stops: there is no compounding organic asset being built. Realistic Google Ads ROI: Well-managed Google Ads typically produces a 3:1 to 8:1 return on total spend (management fee + ad spend) for lead generation programmes. E-commerce ROAS typically ranges from 3x to 6x for well-optimised programmes.",
+        description: "Google Ads is the fastest to produce ROI  campaigns can generate qualified leads within days of launch  and the most directly measurable. The trade-off is that the ROI disappears when the spend stops: there is no compounding organic asset being built. Realistic Google Ads ROI: Well-managed Google Ads typically produces a 3:1 to 8:1 return on total spend (management fee + ad spend) for lead generation programmes. E-commerce ROAS typically ranges from 3x to 6x for well-optimised programmes.",
       },
       {
         icon: "Facebook",
         title: "Meta Ads ROI Benchmarks",
-        description: "Meta Ads ROI is highly creative-dependent — the same audience targeting with weak creative produces dramatically lower ROAS than with strong creative. DTC e-commerce: average ROAS of 2.5-4.5x on established programmes; strong programmes reach 5-8x. Lead generation: CPL typically 30-60% below Google Ads for equivalent lead quality in most sectors.",
+        description: "Meta Ads ROI is highly creative-dependent  the same audience targeting with weak creative produces dramatically lower ROAS than with strong creative. DTC e-commerce: average ROAS of 2.5-4.5x on established programmes; strong programmes reach 5-8x. Lead generation: CPL typically 30-60% below Google Ads for equivalent lead quality in most sectors.",
       },
       {
         icon: "Mail",
@@ -98,16 +98,16 @@ export const RoiCalculatorContent = {
       {
         icon: "Linkedin",
         title: "LinkedIn Ads ROI Benchmarks",
-        description: "LinkedIn Ads produce lower volume but higher quality B2B leads than most other channels. The ROI calculation for LinkedIn depends heavily on average contract value — at CPLs of $60-$150 per qualified B2B lead, LinkedIn is only commercially justifiable when the average contract value is high enough that a modest conversion rate produces significant revenue. For B2B companies with average contract values above $20,000, LinkedIn Ads typically produce strong ROI; below $5,000, the arithmetic is challenging.",
+        description: "LinkedIn Ads produce lower volume but higher quality B2B leads than most other channels. The ROI calculation for LinkedIn depends heavily on average contract value  at CPLs of $60-$150 per qualified B2B lead, LinkedIn is only commercially justifiable when the average contract value is high enough that a modest conversion rate produces significant revenue. For B2B companies with average contract values above $20,000, LinkedIn Ads typically produce strong ROI; below $5,000, the arithmetic is challenging.",
       },
     ],
   },
   examples: {
-    title: "Feature — ROI Calculation",
+    title: "Feature  ROI Calculation",
     titleHighlight: "Examples",
     items: [
       {
-        title: "UK Law Firm — Google Ads Programme",
+        title: "UK Law Firm  Google Ads Programme",
         metrics: [
           "Investment: £4,500/month (£1,500 management + £3,000 ad spend)",
           "Average case value: £8,000",
@@ -123,10 +123,10 @@ export const RoiCalculatorContent = {
           "Annual programme investment: £54,000",
           "Annual ROI: 1,144%",
         ],
-        note: "Real-world note: These numbers are realistic for a well-managed personal injury or commercial law Google Ads programme in a UK regional market. In London's more competitive market, CPCs are higher and incremental leads from the same spend would be lower — but so too is the average case value typically higher.",
+        note: "Real-world note: These numbers are realistic for a well-managed personal injury or commercial law Google Ads programme in a UK regional market. In London's more competitive market, CPCs are higher and incremental leads from the same spend would be lower  but so too is the average case value typically higher.",
       },
       {
-        title: "US DTC E-Commerce Brand — Full-Stack Programme",
+        title: "US DTC E-Commerce Brand  Full-Stack Programme",
         metrics: [
           "Investment: $8,000/month (Meta Ads $3,500 management + $25,000 spend + Klaviyo $1,000 + SEO $2,000 + Google Shopping $1,500)",
           "Average order value: $95",
@@ -145,7 +145,7 @@ export const RoiCalculatorContent = {
         note: "Real-world note: A 3.5x blended ROAS on a DTC programme of this scale is realistic for an established brand with strong creative. The ROI on management fees alone is extremely high because the management fee is a small fraction of the total spend and revenue generated.",
       },
       {
-        title: "Dubai Healthcare Practice — SEO + Google Ads",
+        title: "Dubai Healthcare Practice  SEO + Google Ads",
         metrics: [
           "Investment: AED 15,000/month (AED 6,000 management + AED 9,000 ad spend)",
           "Average patient value (annual): AED 12,000",
@@ -161,35 +161,35 @@ export const RoiCalculatorContent = {
           "Annual programme investment: AED 180,000",
           "Annual ROI: 656%",
         ],
-        note: "Real-world note: Dubai healthcare practices in aesthetic and specialist medicine can achieve these economics because of the high average patient value. MOHAP and DHA-compliant Google Ads for Dubai healthcare are essential — non-compliant campaigns are rejected or penalised.",
+        note: "Real-world note: Dubai healthcare practices in aesthetic and specialist medicine can achieve these economics because of the high average patient value. MOHAP and DHA-compliant Google Ads for Dubai healthcare are essential  non-compliant campaigns are rejected or penalised.",
       },
     ],
   },
   advantage: {
-    title: "Advantage — Why Accurate ROI Estimation",
+    title: "Advantage  Why Accurate ROI Estimation",
     titleHighlight: "Matters",
     items: [
       {
         title: "The Problem with Vague ROI Claims",
-        description: "Most digital marketing agencies make vague ROI claims — 'we generate 10x returns' or 'our clients see average revenue increases of 300%' — without the specific inputs that would allow a potential client to evaluate whether those claims are likely to apply to their specific business. The result is a misalignment of expectations that produces disappointed clients and damaged agency relationships.",
+        description: "Most digital marketing agencies make vague ROI claims  'we generate 10x returns' or 'our clients see average revenue increases of 300%'  without the specific inputs that would allow a potential client to evaluate whether those claims are likely to apply to their specific business. The result is a misalignment of expectations that produces disappointed clients and damaged agency relationships.",
       },
       {
         title: "The Clickmasters Approach",
-        description: "We build ROI estimates from the specific inputs of each client's business: their average client value, their current conversion rate, their competitive landscape, and the realistic lead volume increases that a well-executed programme is likely to produce in their market. When the ROI arithmetic does not work at a given investment level — when the commercial outcomes a programme can realistically produce do not justify its cost — we say so. This honest approach means we occasionally decline to take on programmes that we do not believe will produce adequate ROI for the client. It also means that the programmes we do take on are the ones where the commercial case is genuinely compelling.",
+        description: "We build ROI estimates from the specific inputs of each client's business: their average client value, their current conversion rate, their competitive landscape, and the realistic lead volume increases that a well-executed programme is likely to produce in their market. When the ROI arithmetic does not work at a given investment level  when the commercial outcomes a programme can realistically produce do not justify its cost  we say so. This honest approach means we occasionally decline to take on programmes that we do not believe will produce adequate ROI for the client. It also means that the programmes we do take on are the ones where the commercial case is genuinely compelling.",
       },
     ],
   },
   benefit: {
-    title: "Benefit — Make Digital Marketing Investment Decisions",
+    title: "Benefit  Make Digital Marketing Investment Decisions",
     titleHighlight: "With Confidence",
     items: [
       {
         title: "Use the Calculator as a Decision Tool",
-        description: "The calculator on this page is a decision tool, not a sales tool. Use it to evaluate whether a digital marketing programme at a given investment level is likely to produce adequate return given your specific business metrics. If the numbers do not work at the investment level you are considering, the calculator will show you that — and you will know that either the investment level needs to increase to produce adequate leads, or the programme type needs to change.",
+        description: "The calculator on this page is a decision tool, not a sales tool. Use it to evaluate whether a digital marketing programme at a given investment level is likely to produce adequate return given your specific business metrics. If the numbers do not work at the investment level you are considering, the calculator will show you that  and you will know that either the investment level needs to increase to produce adequate leads, or the programme type needs to change.",
       },
       {
         title: "The Conversation That Follows",
-        description: "The most useful application of the calculator is as a starting point for the strategy call conversation. If you run the calculation, see a compelling ROI, and then want to validate whether the lead volume assumptions are realistic for your specific market and competitive position — that is exactly what the strategy call is for. We can tell you, based on the actual competitive landscape data for your specific search terms and market, what lead volume increase a well-executed programme is likely to produce.",
+        description: "The most useful application of the calculator is as a starting point for the strategy call conversation. If you run the calculation, see a compelling ROI, and then want to validate whether the lead volume assumptions are realistic for your specific market and competitive position  that is exactly what the strategy call is for. We can tell you, based on the actual competitive landscape data for your specific search terms and market, what lead volume increase a well-executed programme is likely to produce.",
       },
     ],
   },
@@ -204,11 +204,11 @@ export const RoiCalculatorContent = {
     },
     {
       q: "What conversion rate should I use?",
-      a: "Your actual conversion rate from digital leads to customers, if you have data on it. If you do not, use these industry-average ranges as a starting point: personal injury legal 15-25%; commercial legal 20-35%; dental (general) 30-45%; healthcare specialist 25-40%; B2B SaaS trials 15-30%; e-commerce (add-to-cart to purchase) 1.5-3.5%; professional services 15-25%. These are rough averages — your specific conversion rate depends on your follow-up process, your offer, and the quality of the leads being generated.",
+      a: "Your actual conversion rate from digital leads to customers, if you have data on it. If you do not, use these industry-average ranges as a starting point: personal injury legal 15-25%; commercial legal 20-35%; dental (general) 30-45%; healthcare specialist 25-40%; B2B SaaS trials 15-30%; e-commerce (add-to-cart to purchase) 1.5-3.5%; professional services 15-25%. These are rough averages  your specific conversion rate depends on your follow-up process, your offer, and the quality of the leads being generated.",
     },
     {
       q: "Should I include advertising spend in the investment figure?",
-      a: "Yes — include both management fees and advertising spend in the investment figure for the most accurate ROI calculation. Management fee-only ROI figures are misleadingly high because they exclude the largest component of the total investment.",
+      a: "Yes  include both management fees and advertising spend in the investment figure for the most accurate ROI calculation. Management fee-only ROI figures are misleadingly high because they exclude the largest component of the total investment.",
     },
   ],
   cta: {
@@ -225,12 +225,12 @@ export const RoiCalculatorContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
+    author: "Amjad Khan  CEO | USA · UK · UAE · Pakistan · Canada · Australia | 2026",
   },schema: {
   WebApplication: {
     "@type": "WebApplication",
     name: "Digital Marketing ROI Calculator",
-    description: "Free digital marketing ROI calculator — estimate returns from SEO, Google Ads, Meta Ads and email marketing. Includes ROI benchmarks and worked examples.",
+    description: "Free digital marketing ROI calculator  estimate returns from SEO, Google Ads, Meta Ads and email marketing. Includes ROI benchmarks and worked examples.",
     applicationCategory: "BusinessApplication",
     offers: {
       "@type": "Offer",
@@ -254,7 +254,7 @@ export const RoiCalculatorContent = {
         "@type": "HowToStep",
         position: 1,
         name: "Enter monthly digital marketing investment",
-        text: "Enter the total monthly spend on the digital marketing programme — including management fees and advertising spend."
+        text: "Enter the total monthly spend on the digital marketing programme  including management fees and advertising spend."
       },
       {
         "@type": "HowToStep",

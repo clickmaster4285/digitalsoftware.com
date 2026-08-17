@@ -3,7 +3,7 @@ import React from "react";
 import ContactClient from "./ContactClient";
 
 export const metadata: Metadata = {
-  title: "Get in Touch with Our Digital Marketing Agency — Contact Us",
+  title: "Get in Touch with Our Digital Marketing Agency  Contact Us",
   description:
     "Contact our digital marketing agency today to discuss your business goals. Get a free consultation and start growing your online presence with us. ",
   keywords: [

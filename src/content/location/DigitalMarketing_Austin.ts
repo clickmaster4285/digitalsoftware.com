@@ -13,10 +13,10 @@ export const DigitalMarketing_Austin = {
   
   h1: `Digital Marketing Agency in Austin, TX`,
   primaryKw: `digital marketing agency austin`,
-  formula: `BAB — Austin CA in-migration + Tesla/Apple corridor + authentic Austin → CLICK Growth System for Texas tech capital`,
+  formula: `BAB  Austin CA in-migration + Tesla/Apple corridor + authentic Austin → CLICK Growth System for Texas tech capital`,
   seoTitle: `Digital Marketing Agency Austin, TX - Clickmasters`,
   meta: `Looking for a digital marketing agency in Austin? Clickmasters delivers SEO, PPC & content strategies that drive leads. Book your free consultation!`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Austin Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-austin/","address":{"@type":"PostalAddress","addressLocality":"Austin","addressRegion":"TX","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Austin Digital Marketing","url":"https://clickmastersdigitalmarketing.com/digital-marketing-agency-austin/","address":{"@type":"PostalAddress","addressLocality":"Austin","addressRegion":"TX","addressCountry":"US"},"serviceType":"Digital Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 4000,
   breadcrumb: ``,
   des: `Clickmasters Digital Marketing Agency helps Austin businesses grow through SEO, PPC, social media, content, and conversion-focused web strategies. We build campaigns around your audience, your goals, and the results that actually move your business forward.
@@ -225,7 +225,7 @@ Your marketing should do more than generate clicks, it should help your business
 
 
 pricing: ``,
-  faqTitle: `FAQs — Digital Marketing Austin`,
+  faqTitle: `FAQs  Digital Marketing Austin`,
  "faqs": [
     {
       "question": "What Does a Digital Marketing Agency Do?",
@@ -356,7 +356,7 @@ pricing: ``,
     ]
   },
   "cta": "Get Your Free Austin Digital Marketing Audit",
-  "ctaBody": "Free audit — 48 hours.\n1. CA in-migration vocabulary gap — RSU/no-income-tax/CA-to-TX searches your digital marketing misses\n2. Tesla/Apple corridor visibility — IATF 16949 vocabulary gaps\n3. FINRA/HIPAA compliance across digital channels\n4. Authentic Austin character — genuine vs generic Texas commercial brand\n5. Series A attribution — is your digital marketing reporting in investor-credible pipeline language?\n\nPhone +1-888-555-CLICK | austin@clickmastersdigitalmarketing.com\nSouth Congress, North Austin, The Domain, Round Rock, and all of Greater Austin",
+  "ctaBody": "Free audit  48 hours.\n1. CA in-migration vocabulary gap  RSU/no-income-tax/CA-to-TX searches your digital marketing misses\n2. Tesla/Apple corridor visibility  IATF 16949 vocabulary gaps\n3. FINRA/HIPAA compliance across digital channels\n4. Authentic Austin character  genuine vs generic Texas commercial brand\n5. Series A attribution  is your digital marketing reporting in investor-credible pipeline language?\n\nPhone +1-888-555-CLICK | austin@clickmastersdigitalmarketing.com\nSouth Congress, North Austin, The Domain, Round Rock, and all of Greater Austin",
    internalLinks: ["/search-engine-optimization/locations/seo-services-austin/","/web-design-development/web-design/locations/web-design-austin/","/locations/digital-marketing-agency-dallas/"],
   
   publishingChecklist: {

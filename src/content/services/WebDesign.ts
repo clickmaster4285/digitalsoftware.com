@@ -17,9 +17,9 @@ export const WebDesignContent = {
     tag: "[ Service · 08 ] Web Design",
     title: "Web Design",
     titleHighlight: "Services",
-    subtitle: "— websites that win customers before you say a word.",
+    subtitle: " websites that win customers before you say a word.",
     description:
-      "Expert web design services — custom websites that convert visitors into customers. Mobile-first, SEO-integrated, conversion-optimised. USA, UK and UAE. Free website audit.",
+      "Expert web design services  custom websites that convert visitors into customers. Mobile-first, SEO-integrated, conversion-optimised. USA, UK and UAE. Free website audit.",
     stats: [
       { k: "94%", v: "First impressions are design" },
       { k: "50ms", v: "To form a judgment" },

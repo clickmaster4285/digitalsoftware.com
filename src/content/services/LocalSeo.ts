@@ -14,7 +14,7 @@ export const LocalSeoContent = {
   },
   hero: {
     tag: "Local SEO",
-    title: "Local SEO Services — Dominate Your Geographic  ",
+    title: "Local SEO Services  Dominate Your Geographic  ",
     titleHighlight: "Market | Clickmasters",
     subtitle: "",
     description: "Local SEO services that put you #1 in Google Maps and local search. GBP optimization, citations, review strategy & localized content for USA, UK & UAE.",
@@ -54,7 +54,7 @@ export const LocalSeoContent = {
         body: "The local pack the three-business map result appearing for most local searches receives the majority of click-throughs for local intent queries. Getting into the local pack, and staying there, has become the single most valuable local SEO objective.",
       },
     ],
-    afterTitle: "How Google Ranks Local Businesses —",
+    afterTitle: "How Google Ranks Local Businesses ",
     afterHighlight: "The 2026 Algorithm",
     afterItems: [
       {

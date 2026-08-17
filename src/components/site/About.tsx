@@ -12,7 +12,7 @@ export const About = () => (
   <section id="about" className="py-32 container">
     <div className="grid md:grid-cols-12 gap-16 items-start">
       <div className="md:col-span-7">
-        <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4">— Why this matters</p>
+        <p className="text-xs uppercase tracking-[0.25em] opacity-60 mb-4"> Why this matters</p>
         <h2 className="font-display text-5xl md:text-7xl leading-[1.02] text-balance">
           Why <em>Digital Marketing</em> Matters More Than Ever
         </h2>

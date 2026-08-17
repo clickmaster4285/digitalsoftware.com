@@ -14,7 +14,7 @@ export const SchemaMarkupContent = {
     titleHighlight: "Services",
     subtitle: "Get the Rich Results Your Competitors Are Already Using.",
     description:
-      "Schema markup services — JSON-LD implementation for FAQ, Review, Product, LocalBusiness, Service and specialist healthcare/legal/financial schema. Rich results and AI search visibility.",
+      "Schema markup services  JSON-LD implementation for FAQ, Review, Product, LocalBusiness, Service and specialist healthcare/legal/financial schema. Rich results and AI search visibility.",
     stats: [
       { k: "30+", v: "Schema types for rich results" },
       { k: "4,400/mo", v: "Search volume" },

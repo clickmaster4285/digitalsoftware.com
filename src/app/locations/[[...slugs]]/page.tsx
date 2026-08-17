@@ -9,7 +9,7 @@ import LocationClient from '@/components/locations/LocationClient';
 import { validateUrl, checkUrl } from '@/lib/urlMappings';
 
 // ============================================
-// 1. GENERATE STATIC PARAMS — DIGITAL MARKETING ONLY
+// 1. GENERATE STATIC PARAMS  DIGITAL MARKETING ONLY
 // ============================================
 export async function generateStaticParams() {
   const digitalSlugs = getServiceLocationSlugs('DigitalMarketing');
@@ -106,7 +106,7 @@ function parseFeatures(text: string | undefined): { title: string; body: string 
         !trimmed.startsWith('-') && 
         !trimmed.startsWith('•') && 
         !trimmed.startsWith('*') &&
-        !trimmed.startsWith('—')) {
+        !trimmed.startsWith('')) {
       
       // Save previous feature if exists
       if (currentTitle && currentBody.length > 0) {

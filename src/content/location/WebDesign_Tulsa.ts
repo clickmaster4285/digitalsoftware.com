@@ -11,12 +11,12 @@ export const WebDesign_Tulsa = {
   citySlug: "tulsa",
   slug: "/web-design-tulsa/",
   
-  h1: `Web Design Agency Tulsa — Williams/ONEOK Midstream Institutional Credibility, BOK Financial FINRA Quality, and Authentic Oil Capital Brand Design`,
+  h1: `Web Design Agency Tulsa  Williams/ONEOK Midstream Institutional Credibility, BOK Financial FINRA Quality, and Authentic Oil Capital Brand Design`,
   primaryKw: `web design agency tulsa`,
-  formula: `FAB — Williams/ONEOK midstream natural gas institutional vendor credibility + BOK Financial FINRA-compliant banking enterprise quality + Saint Francis YMYL HIPAA + authentic Tulsa Blue Dome Art Deco/Brookside/Cherry Street identity`,
+  formula: `FAB  Williams/ONEOK midstream natural gas institutional vendor credibility + BOK Financial FINRA-compliant banking enterprise quality + Saint Francis YMYL HIPAA + authentic Tulsa Blue Dome Art Deco/Brookside/Cherry Street identity`,
   seoTitle: `Web Design Agency Tulsa | Williams/ONEOK Midstream Credibility & BOK Financial FINRA | Clickmasters`,
   meta: `Clickmasters web design in Tulsa. Williams/ONEOK midstream institutional credibility, BOK Financial FINRA quality, Saint Francis YMYL HIPAA, and authentic Blue Dome/Brookside Tulsa brand. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Tulsa Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-tulsa/","address":{"@type":"PostalAddress","addressLocality":"Tulsa","addressRegion":"OK","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Tulsa Web Design","url":"https://clickmastersdigitalmarketing.com/web-design-tulsa/","address":{"@type":"PostalAddress","addressLocality":"Tulsa","addressRegion":"OK","addressCountry":"US"},"serviceType":"Web Design","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3400,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS A WEB DESIGN AGENCY IN TULSA?
@@ -27,7 +27,7 @@ WILLIAMS/ONEOK MIDSTREAM NATURAL GAS INSTITUTIONAL VENDOR CREDIBILITY: Williams 
 
 BOK FINANCIAL FINRA-COMPLIANT BANKING ENTERPRISE QUALITY: BOK Financial's \$50+ billion asset operations create banking technology vendor website requirements: FINRA Rule 2210-compliant throughout, commercial banking technology vocabulary in service pages, wealth management platform operational specifics, and the FINRA-compliant banking enterprise visual quality that BOK Financial's Tulsa headquarters evaluates.
 
-AUTHENTIC TULSA CONSUMER BRAND DESIGN: Tulsa's Blue Dome entertainment district — named for its iconic Art Deco Gulf Oil building — Brookside's independent food and retail community along Peoria Avenue, and the Gathering Place's world-class riverside park create consumer brand opportunities for businesses communicating genuine Oil Capital identity beyond generic Oklahoma commercial design.`,
+AUTHENTIC TULSA CONSUMER BRAND DESIGN: Tulsa's Blue Dome entertainment district  named for its iconic Art Deco Gulf Oil building  Brookside's independent food and retail community along Peoria Avenue, and the Gathering Place's world-class riverside park create consumer brand opportunities for businesses communicating genuine Oil Capital identity beyond generic Oklahoma commercial design.`,
   features: `Williams/ONEOK Midstream Institutional Credibility Architecture:
 For Tulsa midstream energy technology companies. Williams Transco pipeline operations service descriptions. ONEOK natural gas gathering/NGL service pages. Midstream infrastructure enterprise visual quality.
 
@@ -38,22 +38,22 @@ Authentic Tulsa Consumer Brand Architecture:
 For Blue Dome, Brookside, and Cherry Street consumer brands. Blue Dome Art Deco architectural vocabulary. Brookside Peoria Avenue independent community character. Gathering Place riverside park identity. Cherry Street arts and dining neighbourhood. Authentic Tulsa Oil Capital identity.`,
   pas: ``,
   services: ``,
-  caseStudies: `Case Study 1: Tulsa Midstream Technology — Williams/ONEOK Institutional Credibility Redesign
+  caseStudies: `Case Study 1: Tulsa Midstream Technology  Williams/ONEOK Institutional Credibility Redesign
 Client: Midstream analytics, Tulsa (\$5.4M ARR). Challenge: Website without midstream institutional credibility. Williams VP dismissal.
 Programme: Williams Transco/ONEOK NGL vocabulary + midstream enterprise visual + CWV (5.0s to 1.4s)
 Results: Williams VP: re-entered (midstream credibility cited) | ONEOK: qualification | Demo: 0.2% to 1.8% | LCP: 5.0s to 1.4s
 
-Case Study 2: Tulsa Banking Technology — BOK Financial FINRA Enterprise Redesign
+Case Study 2: Tulsa Banking Technology  BOK Financial FINRA Enterprise Redesign
 Client: Banking analytics, Tulsa (\$5.4M ARR). Challenge: Non-FINRA. Below BOK enterprise quality.
 Programme: BOK Financial FINRA vocabulary + commercial banking pages + enterprise visual + CWV
 Results: BOK Financial CTO: evaluation | FINRA: clean | Demo: 0.3% to 1.6% | LCP: 4.8s to 1.2s
 
-Case Study 3: Brookside Consumer Brand — Authentic Tulsa Brand Redesign
+Case Study 3: Brookside Consumer Brand  Authentic Tulsa Brand Redesign
 Client: Lifestyle brand, Brookside (\$1.0M DTC). Challenge: Generic 'Tulsa lifestyle' below Brookside authentic Peoria Ave community.
 Programme: Brookside Peoria character + Blue Dome Art Deco vocabulary + Gathering Place community
 Results: Brookside positioning: visits +40% | Average order: +\$50 | Tulsa media: editorial`,
   pricing: ``,
-  faqTitle: `FAQs — Web Design Tulsa`,
+  faqTitle: `FAQs  Web Design Tulsa`,
   faqs: [
   {
     "question": "How much does web design cost in Tulsa?",
@@ -61,19 +61,19 @@ Results: Brookside positioning: visits +40% | Average order: +\$50 | Tulsa media
   },
   {
     "question": "What is Williams/ONEOK midstream institutional credibility for Tulsa web design?",
-    "answer": "Williams Transco pipeline operations service descriptions, ONEOK natural gas gathering and NGL service pages, midstream infrastructure technology operational specifics, and midstream energy institutional visual quality — the website that earns Williams Companies and ONEOK vendor procurement digital due diligence clearance."
+    "answer": "Williams Transco pipeline operations service descriptions, ONEOK natural gas gathering and NGL service pages, midstream infrastructure technology operational specifics, and midstream energy institutional visual quality  the website that earns Williams Companies and ONEOK vendor procurement digital due diligence clearance."
   },
   {
     "question": "What is BOK Financial FINRA-compliant banking enterprise quality for Tulsa web design?",
-    "answer": "FINRA Rule 2210-compliant website content, commercial banking technology service pages, wealth management platform specifics, and BOK Financial-calibre banking enterprise visual quality — earning BOK Financial's Tulsa headquarters technology procurement evaluation consideration."
+    "answer": "FINRA Rule 2210-compliant website content, commercial banking technology service pages, wealth management platform specifics, and BOK Financial-calibre banking enterprise visual quality  earning BOK Financial's Tulsa headquarters technology procurement evaluation consideration."
   },
   {
     "question": "Does Clickmasters serve Broken Arrow, Owasso, Bixby, and Greater Tulsa?",
-    "answer": "Yes — all of Greater Tulsa MSA."
+    "answer": "Yes  all of Greater Tulsa MSA."
   },
   {
     "question": "What is authentic Tulsa consumer brand design?",
-    "answer": "Blue Dome's Art Deco Gulf Oil architectural heritage, Brookside's Peoria Avenue independent food and retail community character, and the Gathering Place's world-class riverside park identity — the specific Tulsa neighbourhood identities that distinguish genuinely locally-rooted Oil Capital brands from generic Oklahoma commercial approximations."
+    "answer": "Blue Dome's Art Deco Gulf Oil architectural heritage, Brookside's Peoria Avenue independent food and retail community character, and the Gathering Place's world-class riverside park identity  the specific Tulsa neighbourhood identities that distinguish genuinely locally-rooted Oil Capital brands from generic Oklahoma commercial approximations."
   },
   {
     "question": "How long does a Tulsa web design project take?",
@@ -81,14 +81,14 @@ Results: Brookside positioning: visits +40% | Average order: +\$50 | Tulsa media
   }
 ],
   faqsAlt: ``,
-  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Tulsa?","acceptedAnswer":{"@type":"Answer","text":"Tulsa web design: \$5,000-\$13,000 (Williams/ONEOK midstream/BOK FINRA/Saint Francis YMYL), \$22,000-\$55,000+ (enterprise). Williams/ONEOK midstream institutional. BOK Financial FINRA enterprise. Saint Francis YMYL HIPAA. Fixed-price."}},{"@type":"Question","name":"What is Williams/ONEOK midstream institutional credibility for Tulsa web design?","acceptedAnswer":{"@type":"Answer","text":"Williams Transco pipeline operations service descriptions, ONEOK natural gas gathering and NGL service pages, midstream infrastructure technology operational specifics, and midstream energy institutional visual quality — the website that earns Williams Companies and ONEOK vendor procurement digital due diligence clearance."}},{"@type":"Question","name":"What is BOK Financial FINRA-compliant banking enterprise quality for Tulsa web design?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210-compliant website content, commercial banking technology service pages, wealth management platform specifics, and BOK Financial-calibre banking enterprise visual quality — earning BOK Financial's Tulsa headquarters technology procurement evaluation consideration."}},{"@type":"Question","name":"Does Clickmasters serve Broken Arrow, Owasso, Bixby, and Greater Tulsa?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Tulsa MSA."}},{"@type":"Question","name":"What is authentic Tulsa consumer brand design?","acceptedAnswer":{"@type":"Answer","text":"Blue Dome's Art Deco Gulf Oil architectural heritage, Brookside's Peoria Avenue independent food and retail community character, and the Gathering Place's world-class riverside park identity — the specific Tulsa neighbourhood identities that distinguish genuinely locally-rooted Oil Capital brands from generic Oklahoma commercial approximations."}},{"@type":"Question","name":"How long does a Tulsa web design project take?","acceptedAnswer":{"@type":"Answer","text":"Williams/ONEOK midstream: 8-12 weeks. BOK Financial FINRA enterprise: 8-14 weeks. Saint Francis YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."}}]}`,
+  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does web design cost in Tulsa?","acceptedAnswer":{"@type":"Answer","text":"Tulsa web design: \$5,000-\$13,000 (Williams/ONEOK midstream/BOK FINRA/Saint Francis YMYL), \$22,000-\$55,000+ (enterprise). Williams/ONEOK midstream institutional. BOK Financial FINRA enterprise. Saint Francis YMYL HIPAA. Fixed-price."}},{"@type":"Question","name":"What is Williams/ONEOK midstream institutional credibility for Tulsa web design?","acceptedAnswer":{"@type":"Answer","text":"Williams Transco pipeline operations service descriptions, ONEOK natural gas gathering and NGL service pages, midstream infrastructure technology operational specifics, and midstream energy institutional visual quality  the website that earns Williams Companies and ONEOK vendor procurement digital due diligence clearance."}},{"@type":"Question","name":"What is BOK Financial FINRA-compliant banking enterprise quality for Tulsa web design?","acceptedAnswer":{"@type":"Answer","text":"FINRA Rule 2210-compliant website content, commercial banking technology service pages, wealth management platform specifics, and BOK Financial-calibre banking enterprise visual quality  earning BOK Financial's Tulsa headquarters technology procurement evaluation consideration."}},{"@type":"Question","name":"Does Clickmasters serve Broken Arrow, Owasso, Bixby, and Greater Tulsa?","acceptedAnswer":{"@type":"Answer","text":"Yes  all of Greater Tulsa MSA."}},{"@type":"Question","name":"What is authentic Tulsa consumer brand design?","acceptedAnswer":{"@type":"Answer","text":"Blue Dome's Art Deco Gulf Oil architectural heritage, Brookside's Peoria Avenue independent food and retail community character, and the Gathering Place's world-class riverside park identity  the specific Tulsa neighbourhood identities that distinguish genuinely locally-rooted Oil Capital brands from generic Oklahoma commercial approximations."}},{"@type":"Question","name":"How long does a Tulsa web design project take?","acceptedAnswer":{"@type":"Answer","text":"Williams/ONEOK midstream: 8-12 weeks. BOK Financial FINRA enterprise: 8-14 weeks. Saint Francis YMYL HIPAA: 8-14 weeks. Enterprise: 14-24 weeks."}}]}`,
   cta: `Get Your Free Tulsa Website Audit`,
-  ctaBody: `Free audit — 48 hours.
-1. Williams/ONEOK midstream credibility — Transco/NGL vocabulary assessment
-2. BOK Financial FINRA compliance — banking website violations
-3. HIPAA compliance — Saint Francis healthcare data architecture
-4. Authentic Tulsa brand — Blue Dome/Brookside/Gathering Place vocabulary
-5. Core Web Vitals — LCP performance
+  ctaBody: `Free audit  48 hours.
+1. Williams/ONEOK midstream credibility  Transco/NGL vocabulary assessment
+2. BOK Financial FINRA compliance  banking website violations
+3. HIPAA compliance  Saint Francis healthcare data architecture
+4. Authentic Tulsa brand  Blue Dome/Brookside/Gathering Place vocabulary
+5. Core Web Vitals  LCP performance
 
 Phone +1-888-555-CLICK | tulsa@clickmastersdigitalmarketing.com
 Broken Arrow, Owasso, Blue Dome, Brookside, and all of Greater Tulsa`,

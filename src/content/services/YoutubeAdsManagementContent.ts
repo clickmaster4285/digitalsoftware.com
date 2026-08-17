@@ -24,23 +24,23 @@ export const YoutubeAdsManagementContent = {
   },
   intro: {
     problem: [
-      { text: "YouTube advertising places your brand in that research moment — not as a banner interrupting an article, but as a video playing in the same environment where your prospect is already consuming video content on exactly the topic your product addresses. When executed correctly, YouTube Ads deliver ", type: "normal" },
+      { text: "YouTube advertising places your brand in that research moment  not as a banner interrupting an article, but as a video playing in the same environment where your prospect is already consuming video content on exactly the topic your product addresses. When executed correctly, YouTube Ads deliver ", type: "normal" },
       { text: "brand awareness, purchase consideration, and direct conversions at scale", type: "highlight" },
-      { text: " — across every funnel stage, for every business type.", type: "normal" }
+      { text: "  across every funnel stage, for every business type.", type: "normal" }
     ],
     solution:
       "At Clickmasters Digital Marketing (clickmastersdigitalmarketing.com), our YouTube Ads management team has designed and managed video advertising campaigns across brand awareness, lead generation, e-commerce, and B2B use cases for businesses across the USA, UK, UAE, and Pakistan.",
     promise:
-      "We manage YouTube as an integrated Google Ads channel — combining Google's audience targeting infrastructure with video creative strategy to build campaigns that produce measurable business outcomes, not just view counts.",
+      "We manage YouTube as an integrated Google Ads channel  combining Google's audience targeting infrastructure with video creative strategy to build campaigns that produce measurable business outcomes, not just view counts.",
   },
   problem: {
-    title: "Why YouTube Advertising in 2026 — The Opportunity",
+    title: "Why YouTube Advertising in 2026  The Opportunity",
     titleHighlight: "Most Businesses Miss",
     items: [
       {
         icon: "Search",
         title: "The Search Intent Advantage",
-        body: "YouTube is a search engine — the second largest, behind Google.com. And it shares Google's first-party data infrastructure. YouTube's Custom Intent Audiences allow advertisers to target users based on their recent Google Search activity — showing video ads to people who have recently searched for specific keywords on Google.com, regardless of what YouTube content they are watching at the time. This search-to-video targeting is unique in digital advertising: no other video platform can target based on verified search intent.",
+        body: "YouTube is a search engine  the second largest, behind Google.com. And it shares Google's first-party data infrastructure. YouTube's Custom Intent Audiences allow advertisers to target users based on their recent Google Search activity  showing video ads to people who have recently searched for specific keywords on Google.com, regardless of what YouTube content they are watching at the time. This search-to-video targeting is unique in digital advertising: no other video platform can target based on verified search intent.",
       },
       {
         icon: "Eye",
@@ -50,12 +50,12 @@ export const YoutubeAdsManagementContent = {
       {
         icon: "DollarSign",
         title: "The Cost Efficiency Advantage",
-        body: "YouTube's CPMs are among the lowest in premium digital advertising. Reaching 1,000 qualified professionals with a 30-second video ad on YouTube typically costs $10 to $30 — compared to $20 to $60 for equivalent reach on Meta, and far less than equivalent TV advertising. For brands with video creative assets, YouTube offers premium audience reach at dramatically lower cost than traditional video advertising channels.",
+        body: "YouTube's CPMs are among the lowest in premium digital advertising. Reaching 1,000 qualified professionals with a 30-second video ad on YouTube typically costs $10 to $30  compared to $20 to $60 for equivalent reach on Meta, and far less than equivalent TV advertising. For brands with video creative assets, YouTube offers premium audience reach at dramatically lower cost than traditional video advertising channels.",
       },
       {
         icon: "Funnel",
         title: "The Funnel Versatility Advantage",
-        body: "YouTube Ads work across every stage of the purchase funnel — from mass awareness at the top to direct conversion at the bottom. The same platform serves the 60-second brand story video targeting a cold audience who has never heard of your company and the 15-second direct response video serving a remarketing campaign to users who visited your pricing page yesterday. This funnel versatility makes YouTube Ads uniquely powerful as a component of an integrated digital marketing strategy.",
+        body: "YouTube Ads work across every stage of the purchase funnel  from mass awareness at the top to direct conversion at the bottom. The same platform serves the 60-second brand story video targeting a cold audience who has never heard of your company and the 15-second direct response video serving a remarketing campaign to users who visited your pricing page yesterday. This funnel versatility makes YouTube Ads uniquely powerful as a component of an integrated digital marketing strategy.",
       },
     ],
     afterTitle: "",
@@ -63,18 +63,18 @@ export const YoutubeAdsManagementContent = {
     afterItems: [],
   },
   adFormats: {
-    title: "YouTube Ad Formats — Choosing the Right Format for",
+    title: "YouTube Ad Formats  Choosing the Right Format for",
     titleHighlight: "Every Objective",
     formats: [
       {
         icon: "Play",
         title: "In-Stream Skippable Ads (TrueView In-Stream)",
-        description: "The most widely used YouTube ad format. Plays before, during, or after a video — can be skipped after 5 seconds. Advertisers are charged only when a viewer watches at least 30 seconds (or the full ad if shorter), or interacts with it. The skip button fundamentally changes creative strategy: the first 5 seconds must earn continued viewing. Creative strategy: hook within first 3 seconds, value proposition within first 10 seconds, core message from seconds 10 to 25, specific CTA with screen overlay at the end.",
+        description: "The most widely used YouTube ad format. Plays before, during, or after a video  can be skipped after 5 seconds. Advertisers are charged only when a viewer watches at least 30 seconds (or the full ad if shorter), or interacts with it. The skip button fundamentally changes creative strategy: the first 5 seconds must earn continued viewing. Creative strategy: hook within first 3 seconds, value proposition within first 10 seconds, core message from seconds 10 to 25, specific CTA with screen overlay at the end.",
       },
       {
         icon: "Minimize",
         title: "In-Stream Non-Skippable Ads",
-        description: "Typically 15 to 20 seconds — play without a skip option. Guarantee full viewing completion but charge per impression (CPM), making them more expensive per completion than skippable ads. Best for: product launches where guaranteed exposure justifies premium CPM, high-value brand moments, and remarketing campaigns where a short, direct conversion message to a warm audience is more efficient than a longer narrative.",
+        description: "Typically 15 to 20 seconds  play without a skip option. Guarantee full viewing completion but charge per impression (CPM), making them more expensive per completion than skippable ads. Best for: product launches where guaranteed exposure justifies premium CPM, high-value brand moments, and remarketing campaigns where a short, direct conversion message to a warm audience is more efficient than a longer narrative.",
       },
       {
         icon: "Square",
@@ -84,37 +84,37 @@ export const YoutubeAdsManagementContent = {
       {
         icon: "List",
         title: "Video Discovery Ads (In-Feed Video Ads)",
-        description: "Appear in YouTube search results and alongside related videos as thumbnail-and-text ad cards. Users choose to click and watch — making them an opt-in format where every view represents genuine self-selection. Best for: high-consideration content: product demonstrations, case studies, testimonials, and educational content.",
+        description: "Appear in YouTube search results and alongside related videos as thumbnail-and-text ad cards. Users choose to click and watch  making them an opt-in format where every view represents genuine self-selection. Best for: high-consideration content: product demonstrations, case studies, testimonials, and educational content.",
       },
       {
         icon: "Zap",
         title: "Performance Max for Video (PMax)",
-        description: "Google's Performance Max campaign type includes YouTube as one of its inventory channels — automatically serving video ads alongside Search, Shopping, Display, and Gmail placements. In 2026, Performance Max is increasingly important for e-commerce brands. We manage PMax with YouTube video assets specifically configured: shorter, direct-response video formats (15 to 30 seconds) optimized for conversion-objective delivery.",
+        description: "Google's Performance Max campaign type includes YouTube as one of its inventory channels  automatically serving video ads alongside Search, Shopping, Display, and Gmail placements. In 2026, Performance Max is increasingly important for e-commerce brands. We manage PMax with YouTube video assets specifically configured: shorter, direct-response video formats (15 to 30 seconds) optimized for conversion-objective delivery.",
       },
     ],
   },
   targeting: {
-    title: "YouTube Ads Targeting Strategy — Precision",
+    title: "YouTube Ads Targeting Strategy  Precision",
     titleHighlight: "At Scale",
     items: [
       {
-        title: "Custom Intent Audiences — The Search-to-Video Advantage",
-        description: "Built from specific keyword lists — representing users who have recently searched for those terms on Google.com. We build Custom Intent lists from: your Google Ads Search campaign's highest-converting queries, competitor brand searches (targeting users actively researching competitors), category research queries, and problem-identification queries.",
+        title: "Custom Intent Audiences  The Search-to-Video Advantage",
+        description: "Built from specific keyword lists  representing users who have recently searched for those terms on Google.com. We build Custom Intent lists from: your Google Ads Search campaign's highest-converting queries, competitor brand searches (targeting users actively researching competitors), category research queries, and problem-identification queries.",
       },
       {
         title: "In-Market and Affinity Audiences",
-        description: "In-Market Audiences identify users actively researching specific product or service categories based on browsing and search behavior across Google's ecosystem. Affinity Audiences identify users with demonstrated sustained interest in specific topics — based on long-term behavioral patterns rather than recent search activity.",
+        description: "In-Market Audiences identify users actively researching specific product or service categories based on browsing and search behavior across Google's ecosystem. Affinity Audiences identify users with demonstrated sustained interest in specific topics  based on long-term behavioral patterns rather than recent search activity.",
       },
       {
         title: "Life Events Targeting",
-        description: "Reaches users during major life transitions — 'getting married,' 'moving,' 'recently graduated,' 'expecting a baby,' 'recently retired' — when purchasing behavior changes dramatically. For home services, insurance, financial planning, and family-oriented products, life events targeting reaches users at the precise moment their needs and priorities have shifted.",
+        description: "Reaches users during major life transitions  'getting married,' 'moving,' 'recently graduated,' 'expecting a baby,' 'recently retired'  when purchasing behavior changes dramatically. For home services, insurance, financial planning, and family-oriented products, life events targeting reaches users at the precise moment their needs and priorities have shifted.",
       },
       {
         title: "YouTube Channel and Video Targeting (Placements)",
-        description: "Allows advertisers to select specific YouTube channels or videos where their ads appear — enabling precise contextual targeting. A cybersecurity company's ads appear on cybersecurity tutorial channels. We combine placement targeting with audience targeting for our highest-efficiency campaigns.",
+        description: "Allows advertisers to select specific YouTube channels or videos where their ads appear  enabling precise contextual targeting. A cybersecurity company's ads appear on cybersecurity tutorial channels. We combine placement targeting with audience targeting for our highest-efficiency campaigns.",
       },
       {
-        title: "Remarketing — The Highest-ROAS YouTube Strategy",
+        title: "Remarketing  The Highest-ROAS YouTube Strategy",
         description: "YouTube remarketing reaches users who have previously interacted with your brand across Google's ecosystem: YouTube channel viewers, website visitors, customer lists (Customer Match), and YouTube video viewers (by percentage watched). We build remarketing sequences: a warm audience that watched 50% of a brand awareness video is served a shorter, conversion-focused follow-up.",
       },
     ],
@@ -131,7 +131,7 @@ export const YoutubeAdsManagementContent = {
       {
         letter: "B",
         word: "Branding",
-        description: "Integrate brand identity naturally and early — not as a logo flap at the end. Brand recall improves significantly when the brand appears in the first 5 seconds. Visual association between the brand and the opening hook means brand memory is encoded alongside the initial attention capture.",
+        description: "Integrate brand identity naturally and early  not as a logo flap at the end. Brand recall improves significantly when the brand appears in the first 5 seconds. Visual association between the brand and the opening hook means brand memory is encoded alongside the initial attention capture.",
       },
       {
         letter: "C",
@@ -146,7 +146,7 @@ export const YoutubeAdsManagementContent = {
     ],
   },
   measurement: {
-    title: "YouTube Ads Measurement —",
+    title: "YouTube Ads Measurement ",
     titleHighlight: "Beyond View Counts",
     metrics: [
       {
@@ -163,7 +163,7 @@ export const YoutubeAdsManagementContent = {
       },
       {
         title: "Brand Lift Measurement",
-        description: "For larger YouTube campaigns, Google offers Brand Lift studies — surveys delivered to users who saw the campaign versus a control group who did not, measuring impact on brand awareness, ad recall, consideration, and intent. Brand Lift studies provide the most direct measurement of YouTube's contribution to brand metrics.",
+        description: "For larger YouTube campaigns, Google offers Brand Lift studies  surveys delivered to users who saw the campaign versus a control group who did not, measuring impact on brand awareness, ad recall, consideration, and intent. Brand Lift studies provide the most direct measurement of YouTube's contribution to brand metrics.",
       },
     ],
   },
@@ -205,7 +205,7 @@ export const YoutubeAdsManagementContent = {
       sub: "of demo requests · $112 CPL (lowest across channels)",
       title: "B2B software company drives 38% of demo requests from YouTube at lowest CPL across all channels.",
       body: "A project management software company had been running Google Search and LinkedIn Ads for two years. They added YouTube Ads targeting Custom Intent audiences built from their Search campaign's highest-converting queries. Our YouTube campaign: 60-second In-Stream Skippable Ads for Custom Intent audiences, 15-second Non-Skippable bumper sequences for remarketing, Video Discovery Ads targeting project management channels, and a sequential retargeting program converting YouTube viewers to demo requests.",
-      result: "Within 6 months, YouTube Ads were generating 38% of the company's total demo request volume at a cost-per-demo of $112 — the lowest cost-per-demo across all channels, including Google Search ($218) and LinkedIn Ads ($380). YouTube view-through conversions accounted for 47% of YouTube-attributed demos — confirming the channel's significant influence on conversions that completed through other touchpoints.",
+      result: "Within 6 months, YouTube Ads were generating 38% of the company's total demo request volume at a cost-per-demo of $112  the lowest cost-per-demo across all channels, including Google Search ($218) and LinkedIn Ads ($380). YouTube view-through conversions accounted for 47% of YouTube-attributed demos  confirming the channel's significant influence on conversions that completed through other touchpoints.",
     },
     {
       tag: "E-commerce Home Decor · ROAS",
@@ -221,24 +221,24 @@ export const YoutubeAdsManagementContent = {
       sub: "increase in branded search · 22% inquiry increase",
       title: "Local HVAC company drives 34% increase in branded search through YouTube local awareness campaign.",
       body: "A large HVAC and plumbing services company in Phoenix wanted to build local brand awareness among homeowners with the geographic precision and measurement capabilities of digital advertising. Our YouTube local awareness campaign targeted Phoenix metro area homeowners aged 30 to 65 on contextually relevant home improvement and DIY channels, using In-Market home services audiences.",
-      result: "Branded search volume for the company's name increased by 34% in the Phoenix metro area during the campaign period — verified through Google Search Console data and Google Trends. The company's local market share of voice in paid and organic search improved measurably. Inbound inquiry volume increased by 22% over the same period.",
+      result: "Branded search volume for the company's name increased by 34% in the Phoenix metro area during the campaign period  verified through Google Search Console data and Google Trends. The company's local market share of voice in paid and organic search improved measurably. Inbound inquiry volume increased by 22% over the same period.",
     },
   ],
   why: [
     {
       icon: "Google",
-      h: "Google-integrated YouTube strategy — not siloed video management",
-      p: "YouTube Ads are managed within Google Ads — meaning that the Custom Intent audiences from your Search campaigns, the remarketing audiences from your website, and the conversion data from your existing Google campaigns all feed directly into YouTube's targeting and optimization. Our YouTube management is integrated with your full Google Ads ecosystem from day one.",
+      h: "Google-integrated YouTube strategy  not siloed video management",
+      p: "YouTube Ads are managed within Google Ads  meaning that the Custom Intent audiences from your Search campaigns, the remarketing audiences from your website, and the conversion data from your existing Google campaigns all feed directly into YouTube's targeting and optimization. Our YouTube management is integrated with your full Google Ads ecosystem from day one.",
     },
     {
       icon: "Palette",
-      h: "Creative strategy expertise — the performance driver",
-      p: "YouTube Ads are 80% creative and 20% targeting and bidding. Our YouTube campaign management includes creative brief development, ABCD framework application, and systematic creative performance analysis — ensuring that the creative decisions driving performance are made strategically rather than arbitrarily.",
+      h: "Creative strategy expertise  the performance driver",
+      p: "YouTube Ads are 80% creative and 20% targeting and bidding. Our YouTube campaign management includes creative brief development, ABCD framework application, and systematic creative performance analysis  ensuring that the creative decisions driving performance are made strategically rather than arbitrarily.",
     },
     {
       icon: "Funnel",
-      h: "Full-funnel YouTube strategy — not just awareness",
-      p: "Many businesses view YouTube exclusively as a brand awareness channel. We build full-funnel YouTube programs that contribute measurable business outcomes at every stage — awareness campaigns for cold audiences, consideration campaigns for engaged prospects, conversion campaigns for high-intent remarketing audiences.",
+      h: "Full-funnel YouTube strategy  not just awareness",
+      p: "Many businesses view YouTube exclusively as a brand awareness channel. We build full-funnel YouTube programs that contribute measurable business outcomes at every stage  awareness campaigns for cold audiences, consideration campaigns for engaged prospects, conversion campaigns for high-intent remarketing audiences.",
     },
     {
       icon: "LineChart",
@@ -253,15 +253,15 @@ export const YoutubeAdsManagementContent = {
     },
     {
       q: "What kind of video do I need to run YouTube Ads?",
-      a: "YouTube Ads work with any video content — professionally produced brand videos, screen recordings, animated explainers, customer testimonial compilations, and even smartphone-recorded authentic content. The most important creative elements are the first 5 seconds (for skippable ads) and the clarity of the call to action. High production value helps but is not required. We develop creative briefs that specify exactly what type of video will perform best for your specific campaign objective and target audience.",
+      a: "YouTube Ads work with any video content  professionally produced brand videos, screen recordings, animated explainers, customer testimonial compilations, and even smartphone-recorded authentic content. The most important creative elements are the first 5 seconds (for skippable ads) and the clarity of the call to action. High production value helps but is not required. We develop creative briefs that specify exactly what type of video will perform best for your specific campaign objective and target audience.",
     },
     {
       q: "Can YouTube Ads target specific audiences the way Google and Meta can?",
-      a: "Yes — YouTube's targeting capabilities are extensive and powered by Google's data ecosystem. We can target by custom intent (users who searched specific keywords on Google), in-market audiences (users actively researching specific product categories), affinity audiences, demographics, life events, specific YouTube channels and videos (placement targeting), remarketing audiences, and geographic areas from country level down to postal code.",
+      a: "Yes  YouTube's targeting capabilities are extensive and powered by Google's data ecosystem. We can target by custom intent (users who searched specific keywords on Google), in-market audiences (users actively researching specific product categories), affinity audiences, demographics, life events, specific YouTube channels and videos (placement targeting), remarketing audiences, and geographic areas from country level down to postal code.",
     },
     {
       q: "How does YouTube Ads differ from running ads on TikTok?",
-      a: "YouTube is a search-driven, long-form platform where users actively seek out specific content — making it powerful for capturing expressed search intent and serving longer, more informative video content. TikTok is a short-form, algorithm-driven discovery platform most effective for impulse-purchase products, brand virality, and younger demographics. We recommend YouTube for: B2B businesses, high-consideration purchases, products benefiting from demonstration, and businesses already running Google Search campaigns where Custom Intent audiences provide cross-platform synergy.",
+      a: "YouTube is a search-driven, long-form platform where users actively seek out specific content  making it powerful for capturing expressed search intent and serving longer, more informative video content. TikTok is a short-form, algorithm-driven discovery platform most effective for impulse-purchase products, brand virality, and younger demographics. We recommend YouTube for: B2B businesses, high-consideration purchases, products benefiting from demonstration, and businesses already running Google Search campaigns where Custom Intent audiences provide cross-platform synergy.",
     },
     {
       q: "How do I measure whether YouTube Ads are actually driving revenue?",
@@ -269,15 +269,15 @@ export const YoutubeAdsManagementContent = {
     },
     {
       q: "We have never produced video content before. Can we still run YouTube Ads?",
-      a: "Yes — we work with clients at every stage of video production capability. For businesses with no existing video assets, we develop creative briefs specifying the minimum viable video production required and connect clients with production partners for efficient video creation. For businesses with existing video content (website videos, product demos, testimonials), we evaluate existing assets for YouTube Ads suitability and recommend editing and reformatting where needed.",
+      a: "Yes  we work with clients at every stage of video production capability. For businesses with no existing video assets, we develop creative briefs specifying the minimum viable video production required and connect clients with production partners for efficient video creation. For businesses with existing video content (website videos, product demos, testimonials), we evaluate existing assets for YouTube Ads suitability and recommend editing and reformatting where needed.",
     },
     {
       q: "How long does it take for YouTube Ads to start producing results?",
-      a: "Brand awareness campaigns produce measurable results (view rates, completion rates, brand lift) from week 1. Conversion-objective campaigns require a learning phase — Google's algorithm needs approximately 50 optimization events per campaign per week to perform efficiently, which for most YouTube budgets means 2 to 4 weeks. Full-funnel YouTube programs typically produce their most significant conversion results at the 60 to 90 day mark, as the remarketing audience built from campaign exposure accumulates sufficient size for efficient retargeting.",
+      a: "Brand awareness campaigns produce measurable results (view rates, completion rates, brand lift) from week 1. Conversion-objective campaigns require a learning phase  Google's algorithm needs approximately 50 optimization events per campaign per week to perform efficiently, which for most YouTube budgets means 2 to 4 weeks. Full-funnel YouTube programs typically produce their most significant conversion results at the 60 to 90 day mark, as the remarketing audience built from campaign exposure accumulates sufficient size for efficient retargeting.",
     },
     {
       q: "Should YouTube Ads be part of my strategy if I'm already running Google Search Ads?",
-      a: "Yes — and there is a specific integration advantage. Your Google Search campaign data — the keywords that have generated the most conversions for your business — can be used to build Custom Intent audiences for YouTube, targeting users on YouTube who have recently searched those exact terms on Google.com. This search-to-video integration is one of the most underutilized advantages available to businesses already running Google Search. It reaches the same high-intent searchers that Search campaigns capture, but earlier in the decision journey while they are still forming preferences.",
+      a: "Yes  and there is a specific integration advantage. Your Google Search campaign data  the keywords that have generated the most conversions for your business  can be used to build Custom Intent audiences for YouTube, targeting users on YouTube who have recently searched those exact terms on Google.com. This search-to-video integration is one of the most underutilized advantages available to businesses already running Google Search. It reaches the same high-intent searchers that Search campaigns capture, but earlier in the decision journey while they are still forming preferences.",
     },
     {
       q: "How do I get started?",
@@ -287,7 +287,7 @@ export const YoutubeAdsManagementContent = {
   cta: {
     title: "Ready to Build a YouTube Advertising Program That Produces Real Results?",
     description:
-      "YouTube Ads are not a vanity channel. When structured with the right targeting, the right creative strategy, and the right funnel architecture, YouTube Ads produce measurable leads, measurable pipeline, and measurable revenue — at CPMs that consistently undercut the equivalent reach on linear TV, Meta, and LinkedIn. The businesses that build YouTube into their paid media mix in 2026 are building brand preference in the research moment that determines every purchase decision in their category. That preference advantage compounds. And it is available right now, on the world's second-largest search engine, at CPVs that make it one of the most efficient advertising investments available.",
+      "YouTube Ads are not a vanity channel. When structured with the right targeting, the right creative strategy, and the right funnel architecture, YouTube Ads produce measurable leads, measurable pipeline, and measurable revenue  at CPMs that consistently undercut the equivalent reach on linear TV, Meta, and LinkedIn. The businesses that build YouTube into their paid media mix in 2026 are building brand preference in the research moment that determines every purchase decision in their category. That preference advantage compounds. And it is available right now, on the world's second-largest search engine, at CPVs that make it one of the most efficient advertising investments available.",
     contactLink: "https://clickmastersdigitalmarketing.com/contact/",
     whatsappLink: "https://wa.me/",
     softwareLink: "https://clickmastersdigitalmarketing.com/ppc-management-services/",
@@ -297,7 +297,7 @@ export const YoutubeAdsManagementContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | YouTube Ads specialist | 10+ years video advertising expertise",
+    author: "Amjad Khan  CEO, Clickmasters Digital Marketing | YouTube Ads specialist | 10+ years video advertising expertise",
   },
   schema: {
   Service: {

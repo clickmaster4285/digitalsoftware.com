@@ -28,7 +28,7 @@ export const CtaSection = ({ cta, ctaBody }: CtaSectionProps) => {
         </Reveal>
         <Reveal delay={0.2}>
           <p className="mx-auto mt-6 max-w-xl text-white/70 text-lg">
-            {ctaBody ? ctaBody.split('\n').slice(0, 3).join(' ') : 'Free audit — 48 hours. Get your comprehensive website analysis today.'}
+            {ctaBody ? ctaBody.split('\n').slice(0, 3).join(' ') : 'Free audit  48 hours. Get your comprehensive website analysis today.'}
           </p>
         </Reveal>
         <Reveal delay={0.3}>

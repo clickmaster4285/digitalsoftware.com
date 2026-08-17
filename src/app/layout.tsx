@@ -21,13 +21,12 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://clickmastersdigitalmarketing.com"),
 
   title: {
-    default:
-      "Award-Winning Digital Marketing Agency in United States ",
-    template: "%s ",
+    default: "Award-Winning Digital Marketing Agency in the United States | Clickmasters",
+    template: "%s | Clickmasters Digital Marketing",
   },
 
   description:
-    "Your full-service digital marketing agency for SEO, PPC, web design & performance marketing.",
+    "Grow leads, sales, and revenue with a trusted digital marketing agency offering SEO, PPC, and social media. Request a free quote today!",
 
   verification: {
     google: "kb6Id5erVP_g44Qk5TI9pTr_9XP5UvANRYm4eNrbq6E",

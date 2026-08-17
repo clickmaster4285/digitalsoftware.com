@@ -4,14 +4,14 @@ import ProcessPage from "./ProcessClient";
 export const metadata: Metadata = {
   title: "Our Digital Marketing Process - Proven Growth Strategy",
   description:
-    "Discover our proven digital marketing process—from strategy and planning to execution and reporting—designed to help US businesses grow online.",
+    "Discover our proven digital marketing processfrom strategy and planning to execution and reportingdesigned to help US businesses grow online.",
   alternates: {
     canonical: "https://clickmastersdigitalmarketing.com/process",
   },
   openGraph: {
     title: "Our Digital Marketing Process - Proven Growth Strategy",
     description:
-      "Discover our proven digital marketing process—from strategy and planning to execution and reporting—designed to help US businesses grow online.",
+      "Discover our proven digital marketing processfrom strategy and planning to execution and reportingdesigned to help US businesses grow online.",
     url: "https://clickmastersdigitalmarketing.com/process",
     type: "website",
   },
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Our Digital Marketing Process - Proven Growth Strategy",
     description:
-      "Discover our proven digital marketing process—from strategy and planning to execution and reporting—designed to help US businesses grow online.",
+      "Discover our proven digital marketing processfrom strategy and planning to execution and reportingdesigned to help US businesses grow online.",
   },
 };
 

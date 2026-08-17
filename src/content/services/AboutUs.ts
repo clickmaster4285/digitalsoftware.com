@@ -12,7 +12,7 @@ export const AboutUsContent = {
     tag: "[ Company ]",
     title: "About Clickmasters",
     titleHighlight: "Digital Marketing",
-    subtitle: "— built to grow businesses that are ready to grow.",
+    subtitle: " built to grow businesses that are ready to grow.",
     description:
       "Clickmasters Digital Marketing was founded on a straightforward observation: the world's best digital marketing capability should not be the exclusive property of the world's largest marketing budgets. The Fortune 500 company has access to the global agency networks, the in-house teams of 40 digital specialists, and the technology infrastructure that makes sophisticated digital marketing possible at scale. The ambitious mid-market business the law firm that wants to grow beyond its referral network, the e-commerce brand that wants to scale nationally, the B2B SaaS company that wants to build a pipeline from digital channels has historically had access to either expensive boutique agencies or generalist digital marketing services that lack the depth to produce the results the business needs.",
     stats: [

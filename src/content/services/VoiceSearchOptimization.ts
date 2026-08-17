@@ -14,7 +14,7 @@ export const VoiceSearchOptimizationContent = {
     titleHighlight: "Optimization",
     subtitle: "Be the Answer When Customers Speak Their Search",
     description:
-      "Voice search optimization services — schema markup, featured snippet, local voice SEO, Siri/Alexa/Google Assistant visibility. UK, USA, UAE, Canada, Australia.",
+      "Voice search optimization services  schema markup, featured snippet, local voice SEO, Siri/Alexa/Google Assistant visibility. UK, USA, UAE, Canada, Australia.",
     stats: [
       { k: "1B+", v: "Voice searches monthly" },
       { k: "35%", v: "US adults own smart speakers" },

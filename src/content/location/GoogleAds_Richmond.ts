@@ -11,12 +11,12 @@ export const GoogleAds_Richmond = {
   citySlug: "richmond",
   slug: "/google-ads-management-richmond/",
   
-  h1: `Google Ads Management Richmond — Capital One FINRA PPC, Dominion Energy Clean Energy, and VCU Health HIPAA VCDPA`,
+  h1: `Google Ads Management Richmond  Capital One FINRA PPC, Dominion Energy Clean Energy, and VCU Health HIPAA VCDPA`,
   primaryKw: `google ads agency richmond`,
-  formula: `AIDA — Richmond Capital One ML/FINRA financial technology PPC + Dominion Energy clean energy/offshore wind + VCU Health/Bon Secours HIPAA VCDPA patient acquisition + CarMax automotive analytics + Virginia CPCs below DC/Charlotte → FINRA fintech + clean energy utility + YMYL HIPAA VCDPA + automotive B2B`,
+  formula: `AIDA  Richmond Capital One ML/FINRA financial technology PPC + Dominion Energy clean energy/offshore wind + VCU Health/Bon Secours HIPAA VCDPA patient acquisition + CarMax automotive analytics + Virginia CPCs below DC/Charlotte → FINRA fintech + clean energy utility + YMYL HIPAA VCDPA + automotive B2B`,
   seoTitle: `Google Ads Agency Richmond | Capital One FINRA & Dominion Energy PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Richmond. Capital One FINRA-compliant ML fintech PPC, Dominion Energy clean energy, and VCU Health/Bon Secours HIPAA VCDPA campaigns. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Richmond Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Richmond Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-richmond/","address":{"@type":"PostalAddress","addressLocality":"Richmond","addressRegion":"VA","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN RICHMOND?
@@ -29,9 +29,9 @@ DOMINION ENERGY CLEAN ENERGY AND GRID MODERNISATION GOOGLE ADS: Dominion Energy 
 
 VCU HEALTH/BON SECOURS HIPAA VCDPA PATIENT ACQUISITION: VCU Health and Bon Secours Virginia Health System create healthcare patient acquisition and health technology PPC markets requiring both HIPAA-compliant server-side conversion tracking and Virginia VCDPA consent management.`,
   features: ``,
-  pas: `PROBLEM: The Henrico County ML analytics company spending \$4,800/month on 'machine learning consulting Richmond' and 'data analytics Virginia.' Capital One's new VP Machine Learning Engineering searches 'machine learning credit decisioning analytics vendor Capital One Henrico County' and 'consumer lending ML analytics partner Richmond.' Neither in the campaign. \$57K annual spend misses Capital One's specific ML credit decisioning vocabulary — the most commercially advanced fintech operational language in Virginia.
+  pas: `PROBLEM: The Henrico County ML analytics company spending \$4,800/month on 'machine learning consulting Richmond' and 'data analytics Virginia.' Capital One's new VP Machine Learning Engineering searches 'machine learning credit decisioning analytics vendor Capital One Henrico County' and 'consumer lending ML analytics partner Richmond.' Neither in the campaign. \$57K annual spend misses Capital One's specific ML credit decisioning vocabulary  the most commercially advanced fintech operational language in Virginia.
 
-SOLUTION: Clickmasters Richmond Google Ads delivers Capital One FINRA ML vocabulary, Dominion Energy clean energy technology, VCU Health/Bon Secours HIPAA VCDPA patient acquisition — at Virginia CPCs below Washington DC and Charlotte equivalents.`,
+SOLUTION: Clickmasters Richmond Google Ads delivers Capital One FINRA ML vocabulary, Dominion Energy clean energy technology, VCU Health/Bon Secours HIPAA VCDPA patient acquisition  at Virginia CPCs below Washington DC and Charlotte equivalents.`,
   services: `RICHMOND CAPITAL ONE FINRA ML GOOGLE ADS:
 For Henrico County fintech and analytics vendors. Capital One ML credit decisioning vocabulary. FINRA Rule 2210-compliant ad content. Consumer lending technology. Virginia VCDPA consent management.
 
@@ -40,22 +40,22 @@ For Richmond energy technology vendors. Dominion Energy offshore wind/carbon neu
 
 RICHMOND VCU HEALTH/BON SECOURS HIPAA VCDPA GOOGLE ADS:
 For Richmond healthcare practices and health technology. HIPAA server-side conversion tracking. Virginia VCDPA consent management. VCU Health academic vocabulary. Bon Secours Virginia community.`,
-  caseStudies: `Case Study 1: Henrico County Fintech — Capital One ML/FINRA PPC
+  caseStudies: `Case Study 1: Henrico County Fintech  Capital One ML/FINRA PPC
 Client: ML analytics, Henrico County (\$6.4M ARR). Challenge: \$57K spend missing Capital One ML vocabulary. Non-FINRA.
 Programme: Capital One ML credit decisioning vocabulary + FINRA-compliant + VCDPA consent management
 Results: Capital One ML CPL: \$240 vs \$2,800 generic Virginia | Capital One VP: evaluation from paid | FINRA/VCDPA: clean | Pipeline: \$1.2M
 
-Case Study 2: Richmond Energy Technology — Dominion Energy Clean Energy PPC
+Case Study 2: Richmond Energy Technology  Dominion Energy Clean Energy PPC
 Client: Utility analytics, Richmond (\$5.4M ARR). Challenge: Generic 'energy technology Virginia.' Dominion offshore wind/carbon vocabulary absent.
 Programme: Dominion offshore wind/carbon neutrality vocabulary + grid modernisation + VCDPA consent management
 Results: Dominion energy CPL: \$230 vs \$2,400 generic | Dominion VP Grid: evaluation from paid | Pipeline: \$1.0M
 
-Case Study 3: Richmond Healthcare — VCU Health/Bon Secours HIPAA VCDPA PPC
+Case Study 3: Richmond Healthcare  VCU Health/Bon Secours HIPAA VCDPA PPC
 Client: Internal medicine (VCU Health-affiliated). Challenge: Non-HIPAA. Non-VCDPA. Generic 'Richmond doctor' keywords.
 Programme: HIPAA server-side + VCDPA consent management + VCU Health vocabulary + Richmond family audience
 Results: HIPAA/VCDPA: Virginia AG pre-audit passed | VCU CPL: \$110 vs \$300 generic | New patients: +3x`,
   pricing: ``,
-  faqTitle: `FAQs — Google Ads Richmond`,
+  faqTitle: `FAQs  Google Ads Richmond`,
   faqs: [
   {
     "question": "How much does Google Ads management cost in Richmond?",
@@ -71,7 +71,7 @@ Results: HIPAA/VCDPA: Virginia AG pre-audit passed | VCU CPL: \$110 vs \$300 gen
   },
   {
     "question": "Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?",
-    "answer": "Yes — all of Greater Richmond MSA."
+    "answer": "Yes  all of Greater Richmond MSA."
   },
   {
     "question": "What is Virginia VCDPA consent management for Richmond Google Ads?",
@@ -83,13 +83,13 @@ Results: HIPAA/VCDPA: Virginia AG pre-audit passed | VCU CPL: \$110 vs \$300 gen
   }
 ],
   faqsAlt: ``,
-  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Richmond?","acceptedAnswer":{"@type":"Answer","text":"Richmond Google Ads: \$950/month (Growth) to \$9,500+/month (Enterprise). Capital One ML/FINRA vocabulary. Dominion Energy clean energy. VCU Health/Bon Secours HIPAA VCDPA. Virginia CPCs below DC/Charlotte. 90-day guarantee."}},{"@type":"Question","name":"What is Capital One FINRA ML financial technology Google Ads for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"Capital One ML vocabulary campaigns target Henrico County fintech procurement: 'machine learning credit decisioning vendor Capital One Richmond,' 'consumer lending analytics platform Virginia,' 'digital banking ML technology partner Capital One.' FINRA Rule 2210-compliant throughout. Virginia CPCs significantly below Washington DC and Charlotte financial services equivalents."}},{"@type":"Question","name":"What is Dominion Energy clean energy Google Ads for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"Dominion Energy clean energy vocabulary campaigns: 'offshore wind development technology partner Dominion Energy Virginia,' 'carbon neutrality analytics vendor Richmond,' 'grid intelligence technology Dominion Energy clean energy.' Virginia CPCs below national utility technology markets for Dominion-specific clean energy vocabulary."}},{"@type":"Question","name":"Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Richmond MSA."}},{"@type":"Question","name":"What is Virginia VCDPA consent management for Richmond Google Ads?","acceptedAnswer":{"@type":"Answer","text":"VCDPA consent management implements Virginia Consumer Data Protection Act-compliant consent for Google Ads conversion tracking. Richmond businesses without VCDPA consent management overstate Google Ads conversions through non-consensual data collection, creating Virginia AG enforcement exposure."}},{"@type":"Question","name":"How do Richmond Google Ads CPCs compare to Washington DC and Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Virginia CPCs 20-30% below Washington DC for equivalent financial technology vocabulary. 15-20% below Charlotte for financial services. Capital One ML vocabulary CPCs are Richmond-specific with lower competition than DC financial technology markets."}}]}`,
+  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Richmond?","acceptedAnswer":{"@type":"Answer","text":"Richmond Google Ads: \$950/month (Growth) to \$9,500+/month (Enterprise). Capital One ML/FINRA vocabulary. Dominion Energy clean energy. VCU Health/Bon Secours HIPAA VCDPA. Virginia CPCs below DC/Charlotte. 90-day guarantee."}},{"@type":"Question","name":"What is Capital One FINRA ML financial technology Google Ads for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"Capital One ML vocabulary campaigns target Henrico County fintech procurement: 'machine learning credit decisioning vendor Capital One Richmond,' 'consumer lending analytics platform Virginia,' 'digital banking ML technology partner Capital One.' FINRA Rule 2210-compliant throughout. Virginia CPCs significantly below Washington DC and Charlotte financial services equivalents."}},{"@type":"Question","name":"What is Dominion Energy clean energy Google Ads for Richmond businesses?","acceptedAnswer":{"@type":"Answer","text":"Dominion Energy clean energy vocabulary campaigns: 'offshore wind development technology partner Dominion Energy Virginia,' 'carbon neutrality analytics vendor Richmond,' 'grid intelligence technology Dominion Energy clean energy.' Virginia CPCs below national utility technology markets for Dominion-specific clean energy vocabulary."}},{"@type":"Question","name":"Does Clickmasters serve Henrico County, Chesterfield, Midlothian, and Greater Richmond?","acceptedAnswer":{"@type":"Answer","text":"Yes  all of Greater Richmond MSA."}},{"@type":"Question","name":"What is Virginia VCDPA consent management for Richmond Google Ads?","acceptedAnswer":{"@type":"Answer","text":"VCDPA consent management implements Virginia Consumer Data Protection Act-compliant consent for Google Ads conversion tracking. Richmond businesses without VCDPA consent management overstate Google Ads conversions through non-consensual data collection, creating Virginia AG enforcement exposure."}},{"@type":"Question","name":"How do Richmond Google Ads CPCs compare to Washington DC and Charlotte?","acceptedAnswer":{"@type":"Answer","text":"Virginia CPCs 20-30% below Washington DC for equivalent financial technology vocabulary. 15-20% below Charlotte for financial services. Capital One ML vocabulary CPCs are Richmond-specific with lower competition than DC financial technology markets."}}]}`,
   cta: `Get Your Free Richmond Google Ads Audit`,
-  ctaBody: `Free audit — 48 hours.
-1. Capital One ML vocabulary gap — credit decisioning/consumer lending searches campaigns miss
-2. Virginia VCDPA consent management — conversion tracking compliance
-3. HIPAA compliance — VCU Health patient acquisition violations
-4. Dominion Energy clean energy vocabulary — offshore wind/carbon PPC gaps
+  ctaBody: `Free audit  48 hours.
+1. Capital One ML vocabulary gap  credit decisioning/consumer lending searches campaigns miss
+2. Virginia VCDPA consent management  conversion tracking compliance
+3. HIPAA compliance  VCU Health patient acquisition violations
+4. Dominion Energy clean energy vocabulary  offshore wind/carbon PPC gaps
 5. Virginia CPC efficiency vs DC/Charlotte financial technology benchmark
 
 Phone +1-888-555-CLICK | richmond@clickmastersdigitalmarketing.com

@@ -96,7 +96,7 @@ export const CeoCube = () => {
               </p>
               <h2 className="font-display text-4xl md:text-6xl font-bold leading-[0.95]">
                 Amjad
-                <span className="block text-white/90">— in his words.</span>
+                <span className="block text-white/90"> in his words.</span>
               </h2>
             </div>
             <div className="hidden md:grid w-10 h-10 rounded-full bg-white place-items-center text-black">

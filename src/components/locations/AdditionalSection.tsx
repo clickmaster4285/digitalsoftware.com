@@ -124,7 +124,7 @@ function parseAdditionalContent(text: string): AdditionalSectionData[] {
     // A main header is a line that ends with '?' or ':' and is relatively short
     const isMainHeader = (line.includes('?') || line.includes(':')) && 
                          line.split(/[?:]/)[0].length < 100 && 
-                         !line.startsWith('—') &&
+                         !line.startsWith('') &&
                          !line.startsWith('•') &&
                          !line.startsWith('-') &&
                          !line.startsWith('*') &&
@@ -179,7 +179,7 @@ function parseAdditionalContent(text: string): AdditionalSectionData[] {
                           (line.includes(':') || 
                            line.match(/^Step \d+:/i) ||
                            line.match(/^[A-Z][a-z]+ [A-Z][a-z]+:/)) &&
-                          !line.startsWith('—') &&
+                          !line.startsWith('') &&
                           !line.startsWith('•') &&
                           !line.startsWith('-') &&
                           !line.startsWith('*') &&
@@ -286,7 +286,7 @@ const Reveal = ({ children }: { children: React.ReactNode }) => (
 export function AdditionalSection({ 
   content, 
   title = "Why Choose Us",
-  subtitle = "— built for results.",
+  subtitle = " built for results.",
   sectionLabel = "What we build",
   sectionNumber = "04"
 }: AdditionalSectionProps) {

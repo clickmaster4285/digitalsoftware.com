@@ -12,7 +12,7 @@ export const WhiteLabelSeoContent = {
     tag: "[ Service · 18 ] White Label SEO",
     title: "White Label SEO",
     titleHighlight: "Services",
-    subtitle: "— Scalable Delivery for Agencies | Clickmasters",
+    subtitle: " Scalable Delivery for Agencies | Clickmasters",
     description:
       "White label SEO services for marketing agencies & web design firms. Deliver professional SEO under your brand. No client contact. Transparent reporting. Partner today.",
     stats: [
@@ -43,7 +43,7 @@ export const WhiteLabelSeoContent = {
   },
   problem: {
     title: "Why Agencies Choose White Label SEO",
-    titleHighlight: "— The Business Case in 2026",
+    titleHighlight: " The Business Case in 2026",
     items: [
       {
         icon: "DollarSign",

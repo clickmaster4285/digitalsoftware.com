@@ -66,7 +66,7 @@ export const InternalLinksSection = ({
 
       {/*
       <div className="mt-12 border-t border-gray-200 pt-6 text-center text-xs text-gray-500">
-        Clickmasters — {serviceName} in {cityName}. All rights reserved.
+        Clickmasters  {serviceName} in {cityName}. All rights reserved.
       </div>
       */}
     </footer>

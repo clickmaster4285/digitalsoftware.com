@@ -14,7 +14,7 @@ export const TestimonialsContent = {
   hero: {
     tag: "[ Social Proof ] Client Reviews",
     title: "Client Reviews & Testimonials",
-    titleHighlight: "— What Our Clients Say About Working With Clickmasters",
+    titleHighlight: " What Our Clients Say About Working With Clickmasters",
     subtitle: "",
     description: "The most important question a business owner asks before hiring a digital marketing agency is the same question their clients ask before hiring them: is the work as good as they say it is? We believe the most credible answer to that question comes from the clients who have experienced the work directly not from our own claims, our own case studies, or our own assertions about the quality of what we deliver.",
     stats: [

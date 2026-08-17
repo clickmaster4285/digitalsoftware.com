@@ -12,9 +12,9 @@ export const CaseStudyWritingContent = {
     tag: "[ Service · 11 ] Case Study Writing",
     title: "Case Study Writing",
     titleHighlight: "Services",
-    subtitle: "— Proof That Closes Deals | Clickmasters",
+    subtitle: " Proof That Closes Deals | Clickmasters",
     description:
-      "Expert case study writing — interview-based, results-driven client success stories that build trust, support sales and earn backlinks. USA, UK and UAE.",
+      "Expert case study writing  interview-based, results-driven client success stories that build trust, support sales and earn backlinks. USA, UK and UAE.",
     stats: [
       { k: "79%", v: "B2B buyers use case studies" },
       { k: "38%", v: "Proposal win rate increase" },

@@ -12,8 +12,8 @@ export const WebDevelopmentContent = {
     tag: "[ Service · 01 ] Web Development",
     title: "Web Development",
     titleHighlight: "Services",
-    subtitle: "— the technical foundation your business deserves.",
-    description: "Expert web development — WordPress, Shopify, Next.js, custom web applications. Core Web Vitals compliant, security hardened, integration-ready. Free consultation.",
+    subtitle: " the technical foundation your business deserves.",
+    description: "Expert web development  WordPress, Shopify, Next.js, custom web applications. Core Web Vitals compliant, security hardened, integration-ready. Free consultation.",
     stats: [
       { k: "53%", v: "Mobile visits abandoned after 3s" },
       { k: "1.4s", v: "Post-rebuild load time (was 8.2s)" },

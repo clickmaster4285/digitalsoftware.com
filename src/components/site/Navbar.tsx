@@ -559,7 +559,7 @@ const MobileDrawer = ({ open, onClose }: { open: boolean; onClose: () => void })
               </button>
             </div>
 
-            {/* Drawer body — scrollable */}
+            {/* Drawer body  scrollable */}
             <div className="flex-1 overflow-y-auto overscroll-contain">
               {/* Top-level links */}
               <div className="px-4 pt-4 pb-2 flex flex-col gap-1">
@@ -775,7 +775,7 @@ const updateTheme = () => {
 
           {/* Right side */}
           <div className="flex items-center gap-2 shrink-0">
-            {/* CTA — hidden on very small screens, shown from sm up */}
+            {/* CTA  hidden on very small screens, shown from sm up */}
             <a
               href="/contact"
               className="hidden sm:inline-flex items-center gap-2 rounded-full bg-foreground text-background px-4 py-2 text-sm font-medium hover:opacity-90 transition"
@@ -783,7 +783,7 @@ const updateTheme = () => {
               Start a project <ExternalLink className="w-4 h-4" />
             </a>
 
-            {/* Hamburger — shown on lg and below */}
+            {/* Hamburger  shown on lg and below */}
             <button
               onClick={() => setDrawerOpen(true)}
               className="lg:hidden w-9 h-9 rounded-full flex items-center justify-center hover:bg-muted transition-colors"

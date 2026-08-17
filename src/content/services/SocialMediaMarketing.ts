@@ -12,7 +12,7 @@ export const SocialMediaMarketingContent = {
     tag: "[ Service · 04 ] Social Media Marketing",
     title: "Social Media Marketing",
     titleHighlight: "Services",
-    subtitle: "— build audience, drive revenue.",
+    subtitle: " build audience, drive revenue.",
     description:
       "Social media is where your audience lives. It is where they discover brands, evaluate businesses, share experiences, form opinions, and increasingly make purchasing decisions. With over 5 billion people using social media globally in 2026, no business with a serious growth objective can afford to treat social media as optional. But most businesses are not treating social media seriously. They are posting sporadically, recycling the same content across every platform without adapting it to each platform's culture and format, measuring success by follower counts and likes rather than by leads and revenue.",
     stats: [

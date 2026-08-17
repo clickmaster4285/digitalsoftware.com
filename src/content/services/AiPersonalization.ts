@@ -12,8 +12,8 @@ export const AiPersonalizationContent = {
     tag: "[ Service · 03 ] AI Personalisation",
     title: "AI Personalisation",
     titleHighlight: "at Scale",
-    subtitle: "— stop treating every customer like they are the same person.",
-    description: "Expert AI personalisation — website, email, product recommendations, ad creative & in-app. E-commerce, SaaS, media. USA, UK & UAE. Free consultation.",
+    subtitle: " stop treating every customer like they are the same person.",
+    description: "Expert AI personalisation  website, email, product recommendations, ad creative & in-app. E-commerce, SaaS, media. USA, UK & UAE. Free consultation.",
     stats: [
       { k: "35%", v: "Amazon revenue from recs" },
       { k: "80%", v: "Netflix from personalisation" },

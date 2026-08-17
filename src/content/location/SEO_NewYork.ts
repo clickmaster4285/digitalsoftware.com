@@ -11,9 +11,9 @@ export const SEO_NewYork = {
   citySlug: "new-york",
   slug: "/seo-services-new-york/",
   
-  h1: `SEO Services New York — Organic Growth Measured in Revenue, Not Rankings`,
+  h1: `SEO Services New York  Organic Growth Measured in Revenue, Not Rankings`,
   primaryKw: ``,
-  formula: `PAS — Problem (current frustration), Agitate (cost of inaction), Solution (Clickmasters programme)`,
+  formula: `PAS  Problem (current frustration), Agitate (cost of inaction), Solution (Clickmasters programme)`,
   seoTitle: `SEO Services New York | Rank for Revenue, Not Rankings | Clickmasters`,
   meta: ``,
   schema: null,
@@ -23,7 +23,7 @@ export const SEO_NewYork = {
   features: ``,
   pas: ``,
   services: ``,
-  caseStudies: `**Case Study 1: New York B2B SaaS — 312% Increase in Organic Qualified Leads**
+  caseStudies: `**Case Study 1: New York B2B SaaS  312% Increase in Organic Qualified Leads**
 
 Client: B2B project management SaaS, Manhattan (Series A, \$8M ARR)
 Challenge: All pipeline from outbound sales. Zero organic presence. Competing against well-funded national SaaS companies with established organic authority.
@@ -36,7 +36,7 @@ Results (14 months):
 - Pipeline from organic (attributed): \$1.8M in 14 months
 - Sales team time on prospecting: -28% (organic handling top-of-funnel)
 
-**Case Study 2: New York Professional Services Firm — First Page for 18 Keywords**
+**Case Study 2: New York Professional Services Firm  First Page for 18 Keywords**
 
 Client: Management consulting firm, Midtown Manhattan (12 consultants, \$7M revenue)
 Challenge: 100% referral-dependent. No digital presence. No content programme. Invisible to the procurement teams at New York corporations searching for consulting services.
@@ -48,7 +48,7 @@ Results (10 months):
 - Average inbound enquiry value: \$85,000 project
 - WSJ HARO placement: generated 4 direct client enquiries + significant domain authority lift
 
-**Case Study 3: New York E-Commerce Brand — Organic Revenue +218%**
+**Case Study 3: New York E-Commerce Brand  Organic Revenue +218%**
 
 Client: DTC lifestyle brand, Brooklyn (Shopify, \$3.8M annual revenue)
 Challenge: 85% revenue from paid Meta Ads. Declining ROAS. No SEO programme. Entirely paid-acquisition dependent.
@@ -61,7 +61,7 @@ Results (12 months):
 - Paid Meta Ads budget: reduced 30% (organic handling volume that required paid)`,
   pricing: `**Investment Guide for New York SEO**
 
-New York SEO retainers reflect the market's competitive intensity — higher CPCs mean higher organic traffic value, which justifies proportionally higher SEO investment.
+New York SEO retainers reflect the market's competitive intensity  higher CPCs mean higher organic traffic value, which justifies proportionally higher SEO investment.
 
 **Growth (\$3M-\$15M revenue)**
 Monthly retainer: \$3,200 – \$6,500
@@ -88,7 +88,7 @@ All New York SEO retainers include:
   faqs: [
   {
     "question": "How much does SEO cost in New York?",
-    "answer": "New York SEO retainers range from $3,200/month for growth-stage businesses to $35,000+/month for enterprise programmes. Clickmasters New York SEO retainers start at $3,200/month. All retainers include a 90-day performance guarantee — if agreed KPI targets are not met in the first 90 days, you do not pay for month 4. No long-term lock-in contracts. New York SEO retainers are priced higher than mid-market US cities because the competitive intensity of New York SERPs requires proportionally greater investment in content, links, and technical resources to achieve and sustain commercial rankings."
+    "answer": "New York SEO retainers range from $3,200/month for growth-stage businesses to $35,000+/month for enterprise programmes. Clickmasters New York SEO retainers start at $3,200/month. All retainers include a 90-day performance guarantee  if agreed KPI targets are not met in the first 90 days, you do not pay for month 4. No long-term lock-in contracts. New York SEO retainers are priced higher than mid-market US cities because the competitive intensity of New York SERPs requires proportionally greater investment in content, links, and technical resources to achieve and sustain commercial rankings."
   },
   {
     "question": "How long does SEO take to produce results in New York?",
@@ -96,7 +96,7 @@ All New York SEO retainers include:
   },
   {
     "question": "What makes New York SEO different from other US markets?",
-    "answer": "New York SEO has specific characteristics that differentiate it from other US markets: (1) Competition density — New York hosts the highest concentration of professional services, financial institutions, and technology companies of any US city, making commercial keyword competition significantly more intense. (2) YMYL content standards — financial services, legal, and healthcare content in New York must meet Google's highest E-E-A-T standards, requiring named expert authors and evidence-backed claims. (3) Buyer sophistication — New York's professional audience evaluates content quality at a higher standard, meaning thin or generic content fails to earn rankings or convert traffic. (4) Link profile expectations — New York domains that rank well in competitive verticals typically have backlinks from major national and international publications, requiring a different link building approach than local citation building."
+    "answer": "New York SEO has specific characteristics that differentiate it from other US markets: (1) Competition density  New York hosts the highest concentration of professional services, financial institutions, and technology companies of any US city, making commercial keyword competition significantly more intense. (2) YMYL content standards  financial services, legal, and healthcare content in New York must meet Google's highest E-E-A-T standards, requiring named expert authors and evidence-backed claims. (3) Buyer sophistication  New York's professional audience evaluates content quality at a higher standard, meaning thin or generic content fails to earn rankings or convert traffic. (4) Link profile expectations  New York domains that rank well in competitive verticals typically have backlinks from major national and international publications, requiring a different link building approach than local citation building."
   },
   {
     "question": "Does Clickmasters serve businesses across all of New York City?",
@@ -104,11 +104,11 @@ All New York SEO retainers include:
   },
   {
     "question": "How does AI search (GEO/AEO) affect SEO for New York businesses?",
-    "answer": "AI search engines (ChatGPT, Perplexity, Google AI Overviews) are now answering a significant and growing proportion of commercial research queries. For New York businesses, this creates both risk (AI summaries capture the research phase without the searcher visiting your site) and opportunity (businesses that establish entity recognition and AI citation authority now are building competitive advantages that will compound as AI search adoption grows). Clickmasters builds GEO (Generative Engine Optimisation) and AEO (Answer Engine Optimisation) into every New York SEO programme — structured data for AI citation, entity-rich content, direct-answer FAQ formats, and the authoritative content that earns AI engine citation over competitors."
+    "answer": "AI search engines (ChatGPT, Perplexity, Google AI Overviews) are now answering a significant and growing proportion of commercial research queries. For New York businesses, this creates both risk (AI summaries capture the research phase without the searcher visiting your site) and opportunity (businesses that establish entity recognition and AI citation authority now are building competitive advantages that will compound as AI search adoption grows). Clickmasters builds GEO (Generative Engine Optimisation) and AEO (Answer Engine Optimisation) into every New York SEO programme  structured data for AI citation, entity-rich content, direct-answer FAQ formats, and the authoritative content that earns AI engine citation over competitors."
   },
   {
     "question": "What industries does Clickmasters specialise in for New York SEO?",
-    "answer": "Our New York SEO client base spans the city's commercial character: financial services and fintech (Wall Street, Midtown financial district — with understanding of FINRA/SEC content restrictions), B2B technology and SaaS (Silicon Alley / Flatiron / Hudson Yards — including Series A and B companies building organic as part of their growth stack), e-commerce and DTC (Brooklyn, SoHo, and emerging New York consumer brands), professional services (consulting, legal, accounting — with bar/regulatory compliance in content), healthcare (NYU Langone, Weill Cornell ecosystem and private practice — with HIPAA-compliant tracking as standard), media and publishing (the New York media ecosystem's unique understanding of content quality), and real estate (New York's residential and commercial property market)."
+    "answer": "Our New York SEO client base spans the city's commercial character: financial services and fintech (Wall Street, Midtown financial district  with understanding of FINRA/SEC content restrictions), B2B technology and SaaS (Silicon Alley / Flatiron / Hudson Yards  including Series A and B companies building organic as part of their growth stack), e-commerce and DTC (Brooklyn, SoHo, and emerging New York consumer brands), professional services (consulting, legal, accounting  with bar/regulatory compliance in content), healthcare (NYU Langone, Weill Cornell ecosystem and private practice  with HIPAA-compliant tracking as standard), media and publishing (the New York media ecosystem's unique understanding of content quality), and real estate (New York's residential and commercial property market)."
   }
 ],
   faqsAlt: `**Q: How much does SEO cost in New York?**
@@ -121,13 +121,13 @@ Less competitive verticals: meaningful rankings in 3-5 months, organic leads gro
 Competition density (most concentrated professional/financial/tech market in the US), YMYL content standards (financial, legal, healthcare content requires named expert authors and evidence-backed claims), buyer sophistication (thin content fails to rank or convert), and link profile expectations (Wall Street Journal, Bloomberg, Forbes-level backlinks required in competitive verticals).
 
 **Q: Does Clickmasters serve all of New York City and the broader metro area?**
-Yes — all 5 boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island) + greater metro (NJ, Westchester, Long Island, Connecticut). Multi-location and national programmes available.
+Yes  all 5 boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island) + greater metro (NJ, Westchester, Long Island, Connecticut). Multi-location and national programmes available.
 
 **Q: How does AI search (GEO/AEO) affect New York SEO?**
-AI engines (ChatGPT, Perplexity, Google AI Overviews) are answering growing proportions of commercial research queries. Clickmasters builds GEO and AEO into every New York programme — structured data for AI citation, entity-rich content, direct-answer FAQs, and authoritative content that earns AI citation over competitors.
+AI engines (ChatGPT, Perplexity, Google AI Overviews) are answering growing proportions of commercial research queries. Clickmasters builds GEO and AEO into every New York programme  structured data for AI citation, entity-rich content, direct-answer FAQs, and authoritative content that earns AI citation over competitors.
 
 **Q: What industries does Clickmasters specialise in for New York SEO?**
-Financial services/fintech (FINRA/SEC content compliance), B2B tech/SaaS (Silicon Alley/Flatiron/Hudson Yards), e-commerce/DTC (Brooklyn, SoHo), professional services (consulting, legal, accounting — bar compliance), healthcare (HIPAA-compliant tracking), media, and real estate.`,
+Financial services/fintech (FINRA/SEC content compliance), B2B tech/SaaS (Silicon Alley/Flatiron/Hudson Yards), e-commerce/DTC (Brooklyn, SoHo), professional services (consulting, legal, accounting  bar compliance), healthcare (HIPAA-compliant tracking), media, and real estate.`,
   faqSchema: `{
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -137,7 +137,7 @@ Financial services/fintech (FINRA/SEC content compliance), B2B tech/SaaS (Silico
       "name": "How much does SEO cost in New York?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "New York SEO retainers range from \$3,200/month for growth-stage businesses to \$35,000+/month for enterprise programmes. Clickmasters New York SEO retainers start at \$3,200/month. All retainers include a 90-day performance guarantee — if agreed KPI targets are not met in the first 90 days, you do not pay for month 4. No long-term lock-in contracts. New York SEO retainers are priced higher than mid-market US cities because the competitive intensity of New York SERPs requires proportionally greater investment in content, links, and technical resources to achieve and sustain commercial rankings."
+        "text": "New York SEO retainers range from \$3,200/month for growth-stage businesses to \$35,000+/month for enterprise programmes. Clickmasters New York SEO retainers start at \$3,200/month. All retainers include a 90-day performance guarantee  if agreed KPI targets are not met in the first 90 days, you do not pay for month 4. No long-term lock-in contracts. New York SEO retainers are priced higher than mid-market US cities because the competitive intensity of New York SERPs requires proportionally greater investment in content, links, and technical resources to achieve and sustain commercial rankings."
       }
     },
     {
@@ -153,7 +153,7 @@ Financial services/fintech (FINRA/SEC content compliance), B2B tech/SaaS (Silico
       "name": "What makes New York SEO different from other US markets?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "New York SEO has specific characteristics that differentiate it from other US markets: (1) Competition density — New York hosts the highest concentration of professional services, financial institutions, and technology companies of any US city, making commercial keyword competition significantly more intense. (2) YMYL content standards — financial services, legal, and healthcare content in New York must meet Google's highest E-E-A-T standards, requiring named expert authors and evidence-backed claims. (3) Buyer sophistication — New York's professional audience evaluates content quality at a higher standard, meaning thin or generic content fails to earn rankings or convert traffic. (4) Link profile expectations — New York domains that rank well in competitive verticals typically have backlinks from major national and international publications, requiring a different link building approach than local citation building."
+        "text": "New York SEO has specific characteristics that differentiate it from other US markets: (1) Competition density  New York hosts the highest concentration of professional services, financial institutions, and technology companies of any US city, making commercial keyword competition significantly more intense. (2) YMYL content standards  financial services, legal, and healthcare content in New York must meet Google's highest E-E-A-T standards, requiring named expert authors and evidence-backed claims. (3) Buyer sophistication  New York's professional audience evaluates content quality at a higher standard, meaning thin or generic content fails to earn rankings or convert traffic. (4) Link profile expectations  New York domains that rank well in competitive verticals typically have backlinks from major national and international publications, requiring a different link building approach than local citation building."
       }
     },
     {
@@ -169,7 +169,7 @@ Financial services/fintech (FINRA/SEC content compliance), B2B tech/SaaS (Silico
       "name": "How does AI search (GEO/AEO) affect SEO for New York businesses?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AI search engines (ChatGPT, Perplexity, Google AI Overviews) are now answering a significant and growing proportion of commercial research queries. For New York businesses, this creates both risk (AI summaries capture the research phase without the searcher visiting your site) and opportunity (businesses that establish entity recognition and AI citation authority now are building competitive advantages that will compound as AI search adoption grows). Clickmasters builds GEO (Generative Engine Optimisation) and AEO (Answer Engine Optimisation) into every New York SEO programme — structured data for AI citation, entity-rich content, direct-answer FAQ formats, and the authoritative content that earns AI engine citation over competitors."
+        "text": "AI search engines (ChatGPT, Perplexity, Google AI Overviews) are now answering a significant and growing proportion of commercial research queries. For New York businesses, this creates both risk (AI summaries capture the research phase without the searcher visiting your site) and opportunity (businesses that establish entity recognition and AI citation authority now are building competitive advantages that will compound as AI search adoption grows). Clickmasters builds GEO (Generative Engine Optimisation) and AEO (Answer Engine Optimisation) into every New York SEO programme  structured data for AI citation, entity-rich content, direct-answer FAQ formats, and the authoritative content that earns AI engine citation over competitors."
       }
     },
     {
@@ -177,14 +177,14 @@ Financial services/fintech (FINRA/SEC content compliance), B2B tech/SaaS (Silico
       "name": "What industries does Clickmasters specialise in for New York SEO?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our New York SEO client base spans the city's commercial character: financial services and fintech (Wall Street, Midtown financial district — with understanding of FINRA/SEC content restrictions), B2B technology and SaaS (Silicon Alley / Flatiron / Hudson Yards — including Series A and B companies building organic as part of their growth stack), e-commerce and DTC (Brooklyn, SoHo, and emerging New York consumer brands), professional services (consulting, legal, accounting — with bar/regulatory compliance in content), healthcare (NYU Langone, Weill Cornell ecosystem and private practice — with HIPAA-compliant tracking as standard), media and publishing (the New York media ecosystem's unique understanding of content quality), and real estate (New York's residential and commercial property market)."
+        "text": "Our New York SEO client base spans the city's commercial character: financial services and fintech (Wall Street, Midtown financial district  with understanding of FINRA/SEC content restrictions), B2B technology and SaaS (Silicon Alley / Flatiron / Hudson Yards  including Series A and B companies building organic as part of their growth stack), e-commerce and DTC (Brooklyn, SoHo, and emerging New York consumer brands), professional services (consulting, legal, accounting  with bar/regulatory compliance in content), healthcare (NYU Langone, Weill Cornell ecosystem and private practice  with HIPAA-compliant tracking as standard), media and publishing (the New York media ecosystem's unique understanding of content quality), and real estate (New York's residential and commercial property market)."
       }
     }
   ]
 }`,
   cta: `Get Your Free Audit`,
   ctaBody: ``,
-  internalLinks: ["/→ [Digital Marketing Agency New York](/digital-marketing-agency-new-york/) — full NYC digital marketing hub/","/→ [SEO Services](/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/) — our core SEO service overview/","/→ [Google Ads New York](/google-ads-management-new-york/) — NYC paid search complement/","/→ [Content Marketing Services](/content-marketing-services/) — content for New York SEO authority/","/→ [Financial Services Digital Marketing](/industries/fintech/) — FINRA/SEC compliant content/","/→ [B2B Lead Generation Services](/b2b-lead-generation-services/) — organic + LinkedIn for NYC B2B/"],
+  internalLinks: ["/→ [Digital Marketing Agency New York](/digital-marketing-agency-new-york/)  full NYC digital marketing hub/","/→ [SEO Services](/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/)  our core SEO service overview/","/→ [Google Ads New York](/google-ads-management-new-york/)  NYC paid search complement/","/→ [Content Marketing Services](/content-marketing-services/)  content for New York SEO authority/","/→ [Financial Services Digital Marketing](/industries/fintech/)  FINRA/SEC compliant content/","/→ [B2B Lead Generation Services](/b2b-lead-generation-services/)  organic + LinkedIn for NYC B2B/"],
   
   publishingChecklist: {
     onPageSeo: {

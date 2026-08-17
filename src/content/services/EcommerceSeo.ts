@@ -12,9 +12,9 @@ export const EcommerceSeoContent = {
     tag: "[ Service · 15 ] E-Commerce SEO",
     title: "E-Commerce Analytics  ",
     titleHighlight: "Services",
-    subtitle: "— Know Exactly What Is Driving Revenue and What Is Wasting Budget.",
+    subtitle: " Know Exactly What Is Driving Revenue and What Is Wasting Budget.",
     description:
-      "Expert e-commerce analytics — GA4 implementation, BigQuery, multi-touch attribution, cohort analysis & CRO dashboards. Shopify & WooCommerce. Free analytics audit.",
+      "Expert e-commerce analytics  GA4 implementation, BigQuery, multi-touch attribution, cohort analysis & CRO dashboards. Shopify & WooCommerce. Free analytics audit.",
     stats: [
       { k: "89%", v: "Organic revenue increase (case)" },
       { k: "14,000", v: "Monthly organic visitors from zero" },
@@ -39,7 +39,7 @@ export const EcommerceSeoContent = {
   },
   problem: {
     title: "Why E-Commerce SEO Is Different",
-    titleHighlight: "— And Why Generic SEO Fails Online Stores",
+    titleHighlight: " And Why Generic SEO Fails Online Stores",
     items: [
       {
         icon: "Boxes",

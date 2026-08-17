@@ -11,17 +11,17 @@ export const LocalSEO_Baltimore = {
   citySlug: "baltimore",
   slug: "/local-seo-services-baltimore/",
   
-  h1: `Local SEO Baltimore — Johns Hopkins #1 World-Class GBP, T. Rowe Price Professional Quality, and Charm City Neighbourhood Local Pack`,
+  h1: `Local SEO Baltimore  Johns Hopkins #1 World-Class GBP, T. Rowe Price Professional Quality, and Charm City Neighbourhood Local Pack`,
   primaryKw: `local seo services baltimore`,
-  formula: `AIDA — Baltimore Local Pack = Johns Hopkins #1 world-class YMYL GBP credential + T. Rowe Price institutional investment professional quality + Fells Point/Roland Park/Guilford Charm City standard + HIPAA/FINRA review management`,
+  formula: `AIDA  Baltimore Local Pack = Johns Hopkins #1 world-class YMYL GBP credential + T. Rowe Price institutional investment professional quality + Fells Point/Roland Park/Guilford Charm City standard + HIPAA/FINRA review management`,
   seoTitle: `Local SEO Baltimore | Johns Hopkins #1 GBP & T. Rowe Price Professional Quality | Clickmasters`,
   meta: `Clickmasters Local SEO in Baltimore. Johns Hopkins #1 world-class YMYL GBP credential, T. Rowe Price institutional investment professional quality, and Fells Point/Roland Park Charm City standard. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Baltimore Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-baltimore/","address":{"@type":"PostalAddress","addressLocality":"Baltimore","addressRegion":"MD","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Baltimore Local SEO","url":"https://clickmastersdigitalmarketing.com/local-seo-services-baltimore/","address":{"@type":"PostalAddress","addressLocality":"Baltimore","addressRegion":"MD","addressCountry":"US"},"serviceType":"Local SEO Services","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS LOCAL SEO IN BALTIMORE?
 
-Local SEO in Baltimore is the practice of optimising Google Business Profiles for the top 3 of Greater Baltimore's Local Pack — in a market where Johns Hopkins Medicine's historically #1 US national ranking defines the most prestigious healthcare GBP credential standard in Maryland, T. Rowe Price creates the most demanding investment management professional quality standard in the Mid-Atlantic, and Roland Park and Guilford represent the highest-income residential professional communities in Charm City.
+Local SEO in Baltimore is the practice of optimising Google Business Profiles for the top 3 of Greater Baltimore's Local Pack  in a market where Johns Hopkins Medicine's historically #1 US national ranking defines the most prestigious healthcare GBP credential standard in Maryland, T. Rowe Price creates the most demanding investment management professional quality standard in the Mid-Atlantic, and Roland Park and Guilford represent the highest-income residential professional communities in Charm City.
 
 JOHNS HOPKINS #1 WORLD-CLASS YMYL GBP: Johns Hopkins Hospital's historical #1 US national ranking creates the most prestigious healthcare GBP credential standard in the US. Healthcare practices and health technology companies in Baltimore need GBPs demonstrating Johns Hopkins Medicine programme affiliation where applicable, Armstrong Institute for Patient Safety and Quality faculty vocabulary, University of Maryland School of Medicine academic affiliations for MedStar Health-affiliated practices, and HIPAA-compliant review management with Maryland MPIPA awareness.
 
@@ -29,7 +29,7 @@ T. ROWE PRICE INSTITUTIONAL INVESTMENT PROFESSIONAL QUALITY STANDARD: T. Rowe Pr
 
 ROLAND PARK/GUILFORD/FELLS POINT PROFESSIONAL QUALITY STANDARD: Roland Park (Baltimore's most affluent residential neighbourhood, home to Johns Hopkins professors and T. Rowe Price executives), Guilford (established professional residential community), and Fells Point's revitalised waterfront professional community evaluate GBPs with the Charm City institutional professional standard.`,
   features: ``,
-  pas: `PROBLEM: The Roland Park financial advisory with a Johns Hopkins physician and T. Rowe Price portfolio manager client base — 20 reviews at 4.7 stars, generic 'Roland Park wealth management' GBP, no CFA verification, no JHM/TRP community vocabulary. The new T. Rowe Price Portfolio Manager who relocated from London searches 'fee-only financial adviser Roland Park Baltimore CFA T. Rowe Price community.' GBP: 20 reviews (London adviser had 130+), no CFA Institute verification visible, no TRP community signal. She selects the Roland Park firm with 108 reviews, CFA Institute verification, 'specialists in financial planning for Johns Hopkins and T. Rowe Price professionals in Roland Park and Guilford.'
+  pas: `PROBLEM: The Roland Park financial advisory with a Johns Hopkins physician and T. Rowe Price portfolio manager client base  20 reviews at 4.7 stars, generic 'Roland Park wealth management' GBP, no CFA verification, no JHM/TRP community vocabulary. The new T. Rowe Price Portfolio Manager who relocated from London searches 'fee-only financial adviser Roland Park Baltimore CFA T. Rowe Price community.' GBP: 20 reviews (London adviser had 130+), no CFA Institute verification visible, no TRP community signal. She selects the Roland Park firm with 108 reviews, CFA Institute verification, 'specialists in financial planning for Johns Hopkins and T. Rowe Price professionals in Roland Park and Guilford.'
 
 SOLUTION: Clickmasters Baltimore Local SEO provides the Johns Hopkins #1 world-class, T. Rowe Price institutional investment quality, and Roland Park/Guilford Charm City professional standard GBP programme.`,
   services: `BALTIMORE JOHNS HOPKINS #1 WORLD-CLASS YMYL GBP:
@@ -40,22 +40,22 @@ For Baltimore financial advisory and professional services. CFA charterholder wi
 
 BALTIMORE ROLAND PARK/GUILFORD/FELLS POINT PROFESSIONAL QUALITY GBP:
 For Roland Park, Guilford, and Fells Point professional services. JHM physician/TRP portfolio manager community vocabulary. Charm City institutional professional photography. Maryland MPIPA-aware consumer data.`,
-  caseStudies: `Case Study 1: Roland Park Financial Advisory — JHM Physician/TRP Portfolio Manager GBP
+  caseStudies: `Case Study 1: Roland Park Financial Advisory  JHM Physician/TRP Portfolio Manager GBP
 Client: Fee-only RIA, Roland Park (\$240M AUM). Challenge: GBP below JHM/TRP professional community standard. Relocating institutional professionals selecting competitors.
 Programme: CFA Institute verification + JHM physician/TRP portfolio manager vocabulary + FINRA-aware + Roland Park institutional photography
 Results (4 months): Top 3 Local Pack Roland Park/Guilford financial advisory | Reviews: 20 to 108 | CFA Institute verification: TRP professionals cited | New institutional AUM: \$20M
 
-Case Study 2: Baltimore Healthcare Practice — Johns Hopkins #1 World-Class YMYL GBP
+Case Study 2: Baltimore Healthcare Practice  Johns Hopkins #1 World-Class YMYL GBP
 Client: Internal medicine (Johns Hopkins Medicine-affiliated). Challenge: 18 reviews, no JHM affiliation display, non-HIPAA, non-MPIPA.
 Programme: JHM #1 programme affiliation + Armstrong Institute faculty + HIPAA/MPIPA-aware review + world-class photography
 Results (4 months): Top 3 Local Pack Baltimore internal medicine | Reviews: 18 to 108 | JHM #1 affiliation: international patients cited | New patients: +3x
 
-Case Study 3: Fells Point Professional Services — T. Rowe Price Community Proximity GBP
+Case Study 3: Fells Point Professional Services  T. Rowe Price Community Proximity GBP
 Client: Business consulting, Fells Point (TRP-adjacent). Challenge: No TRP institutional investment vocabulary. Generic GBP.
 Programme: TRP investment community vocabulary + FINRA-aware professional photography + Fells Point institutional service descriptions
 Results (3 months): Top 3 Local Pack Fells Point professional services | TRP community near-me: +3x`,
   pricing: ``,
-  faqTitle: `FAQs — Local SEO Baltimore`,
+  faqTitle: `FAQs  Local SEO Baltimore`,
   faqs: [
   {
     "question": "How much does Local SEO cost in Baltimore?",
@@ -63,15 +63,15 @@ Results (3 months): Top 3 Local Pack Fells Point professional services | TRP com
   },
   {
     "question": "What is Johns Hopkins #1 world-class YMYL GBP for Baltimore healthcare businesses?",
-    "answer": "Johns Hopkins Medicine programme affiliation (#1 US historical ranking standard), Armstrong Institute for Patient Safety faculty vocabulary, HIPAA-compliant Maryland MPIPA-aware review management, and world-class academic medical photography — the GBP credential that earns trust from Baltimore's internationally-credentialled Johns Hopkins physician and research community."
+    "answer": "Johns Hopkins Medicine programme affiliation (#1 US historical ranking standard), Armstrong Institute for Patient Safety faculty vocabulary, HIPAA-compliant Maryland MPIPA-aware review management, and world-class academic medical photography  the GBP credential that earns trust from Baltimore's internationally-credentialled Johns Hopkins physician and research community."
   },
   {
     "question": "What is T. Rowe Price institutional investment professional GBP quality for Baltimore?",
-    "answer": "CFA charterholder with CFA Institute verification link, FINRA BrokerCheck verification for registered advisors, T. Rowe Price and Legg Mason investment community vocabulary in GBP service descriptions, and institutional investment management photography — the GBP quality standard that earns genuine consideration from T. Rowe Price portfolio managers and research analysts serving as professional services clients in Roland Park and Guilford."
+    "answer": "CFA charterholder with CFA Institute verification link, FINRA BrokerCheck verification for registered advisors, T. Rowe Price and Legg Mason investment community vocabulary in GBP service descriptions, and institutional investment management photography  the GBP quality standard that earns genuine consideration from T. Rowe Price portfolio managers and research analysts serving as professional services clients in Roland Park and Guilford."
   },
   {
     "question": "Does Clickmasters serve Towson, Columbia, Annapolis, and Greater Baltimore?",
-    "answer": "Yes — all of Greater Baltimore MSA."
+    "answer": "Yes  all of Greater Baltimore MSA."
   },
   {
     "question": "How many reviews for Baltimore Local Pack?",
@@ -79,16 +79,16 @@ Results (3 months): Top 3 Local Pack Fells Point professional services | TRP com
   },
   {
     "question": "What is Maryland MPIPA awareness for Baltimore Local SEO review management?",
-    "answer": "Maryland's Personal Information Protection Act (MPIPA) creates requirements for review request email data collection and review analytics data handling. MPIPA-aware review management programmes implement consent management for Maryland resident review requests — protecting Baltimore businesses from Maryland AG enforcement exposure."
+    "answer": "Maryland's Personal Information Protection Act (MPIPA) creates requirements for review request email data collection and review analytics data handling. MPIPA-aware review management programmes implement consent management for Maryland resident review requests  protecting Baltimore businesses from Maryland AG enforcement exposure."
   }
 ],
   faqsAlt: ``,
-  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Baltimore?","acceptedAnswer":{"@type":"Answer","text":"Baltimore Local SEO: \$950/month (single) to \$9,500+/month (enterprise). Johns Hopkins #1 world-class YMYL GBP. T. Rowe Price institutional investment professional quality. Roland Park/Guilford Charm City standard. HIPAA/MPIPA/FINRA review management. Maryland retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Johns Hopkins #1 world-class YMYL GBP for Baltimore healthcare businesses?","acceptedAnswer":{"@type":"Answer","text":"Johns Hopkins Medicine programme affiliation (#1 US historical ranking standard), Armstrong Institute for Patient Safety faculty vocabulary, HIPAA-compliant Maryland MPIPA-aware review management, and world-class academic medical photography — the GBP credential that earns trust from Baltimore's internationally-credentialled Johns Hopkins physician and research community."}},{"@type":"Question","name":"What is T. Rowe Price institutional investment professional GBP quality for Baltimore?","acceptedAnswer":{"@type":"Answer","text":"CFA charterholder with CFA Institute verification link, FINRA BrokerCheck verification for registered advisors, T. Rowe Price and Legg Mason investment community vocabulary in GBP service descriptions, and institutional investment management photography — the GBP quality standard that earns genuine consideration from T. Rowe Price portfolio managers and research analysts serving as professional services clients in Roland Park and Guilford."}},{"@type":"Question","name":"Does Clickmasters serve Towson, Columbia, Annapolis, and Greater Baltimore?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Baltimore MSA."}},{"@type":"Question","name":"How many reviews for Baltimore Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Baltimore benchmarks: Roland Park/Guilford professional services: 4.5+ stars, 65-120+ reviews. Johns Hopkins-adjacent healthcare: 4.5+, 65-120+ (#1 world-class standard). Fells Point professional: 4.4+, 50-90+."}},{"@type":"Question","name":"What is Maryland MPIPA awareness for Baltimore Local SEO review management?","acceptedAnswer":{"@type":"Answer","text":"Maryland's Personal Information Protection Act (MPIPA) creates requirements for review request email data collection and review analytics data handling. MPIPA-aware review management programmes implement consent management for Maryland resident review requests — protecting Baltimore businesses from Maryland AG enforcement exposure."}}]}`,
+  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Local SEO cost in Baltimore?","acceptedAnswer":{"@type":"Answer","text":"Baltimore Local SEO: \$950/month (single) to \$9,500+/month (enterprise). Johns Hopkins #1 world-class YMYL GBP. T. Rowe Price institutional investment professional quality. Roland Park/Guilford Charm City standard. HIPAA/MPIPA/FINRA review management. Maryland retainers below coastal. 90-day guarantee."}},{"@type":"Question","name":"What is Johns Hopkins #1 world-class YMYL GBP for Baltimore healthcare businesses?","acceptedAnswer":{"@type":"Answer","text":"Johns Hopkins Medicine programme affiliation (#1 US historical ranking standard), Armstrong Institute for Patient Safety faculty vocabulary, HIPAA-compliant Maryland MPIPA-aware review management, and world-class academic medical photography  the GBP credential that earns trust from Baltimore's internationally-credentialled Johns Hopkins physician and research community."}},{"@type":"Question","name":"What is T. Rowe Price institutional investment professional GBP quality for Baltimore?","acceptedAnswer":{"@type":"Answer","text":"CFA charterholder with CFA Institute verification link, FINRA BrokerCheck verification for registered advisors, T. Rowe Price and Legg Mason investment community vocabulary in GBP service descriptions, and institutional investment management photography  the GBP quality standard that earns genuine consideration from T. Rowe Price portfolio managers and research analysts serving as professional services clients in Roland Park and Guilford."}},{"@type":"Question","name":"Does Clickmasters serve Towson, Columbia, Annapolis, and Greater Baltimore?","acceptedAnswer":{"@type":"Answer","text":"Yes  all of Greater Baltimore MSA."}},{"@type":"Question","name":"How many reviews for Baltimore Local Pack?","acceptedAnswer":{"@type":"Answer","text":"Greater Baltimore benchmarks: Roland Park/Guilford professional services: 4.5+ stars, 65-120+ reviews. Johns Hopkins-adjacent healthcare: 4.5+, 65-120+ (#1 world-class standard). Fells Point professional: 4.4+, 50-90+."}},{"@type":"Question","name":"What is Maryland MPIPA awareness for Baltimore Local SEO review management?","acceptedAnswer":{"@type":"Answer","text":"Maryland's Personal Information Protection Act (MPIPA) creates requirements for review request email data collection and review analytics data handling. MPIPA-aware review management programmes implement consent management for Maryland resident review requests  protecting Baltimore businesses from Maryland AG enforcement exposure."}}]}`,
   cta: `Get Your Free Baltimore Local SEO Audit`,
-  ctaBody: `Free audit — 48 hours.
-1. Johns Hopkins #1 GBP — world-class affiliation/Armstrong/JHM display gaps
+  ctaBody: `Free audit  48 hours.
+1. Johns Hopkins #1 GBP  world-class affiliation/Armstrong/JHM display gaps
 2. HIPAA/Maryland MPIPA review management compliance
-3. CFA Institute/FINRA BrokerCheck verification — T. Rowe Price professional standard
+3. CFA Institute/FINRA BrokerCheck verification  T. Rowe Price professional standard
 4. FINRA-aware review management (financial)
 5. Review volume vs Johns Hopkins/T. Rowe Price professional community benchmark
 

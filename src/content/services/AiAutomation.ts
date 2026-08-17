@@ -12,7 +12,7 @@ export const AiAutomationContent = {
     tag: "[ Service · 07 ] AI & Automation",
     title: "AI & Automation",
     titleHighlight: "Services",
-    subtitle: "— intelligent systems that work while you sleep.",
+    subtitle: " intelligent systems that work while you sleep.",
     description: "Every business has work that should not require a human being to do it.\n\nThe spreadsheet that someone fills in manually every morning from data that already exists in three different systems. The customer support tickets that ask the same five questions 80% of the time. The lead qualification process that requires a human to look up a company's website, LinkedIn, and CRM record before deciding whether the lead is worth calling. The report that takes four hours to compile every Friday because no one has built a dashboard that compiles it automatically. The invoice approval workflow that sits in someone's email inbox for three days because the approver is traveling.",
     stats: [
       { k: "62h", v: "Weekly time saved (case study)" },

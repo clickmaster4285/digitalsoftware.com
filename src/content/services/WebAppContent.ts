@@ -13,8 +13,8 @@ export const WebAppContent = {
     tag: "[ Service · Custom ] Web Application",
     title: "Web Application",
     titleHighlight: "Development",
-    subtitle: "— custom web apps that solve the problem no off-the-shelf software can.",
-    description: "Custom web application development — React, Next.js, Node.js, Python. Internal tools, SaaS products, client portals. Full-stack development from discovery to deployment.",
+    subtitle: " custom web apps that solve the problem no off-the-shelf software can.",
+    description: "Custom web application development  React, Next.js, Node.js, Python. Internal tools, SaaS products, client portals. Full-stack development from discovery to deployment.",
     stats: [
       { k: "22h", v: "Weekly time saved (case study)" },
       { k: "$1.8M", v: "ARR generated (case study)" },

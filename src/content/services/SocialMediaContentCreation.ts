@@ -16,7 +16,7 @@ export const SocialMediaContentCreationContent = {
     tag: "Content Creation",
     title: "Social Media Content Creation ",
     titleHighlight: "Services",
-    subtitle: "— Content That Earns Attention | Clickmasters",
+    subtitle: " Content That Earns Attention | Clickmasters",
     description: "Professional social media content creation for Instagram, TikTok, LinkedIn & Facebook. Copywriting, graphic design, video editing & brand-consistent creative.",
     stats: [
       { k: "0.4% → 5.8%", v: "Engagement increase" },
@@ -193,7 +193,7 @@ export const SocialMediaContentCreationContent = {
   ],
   process: {
     title: "Our Content Creation Process",
-    titleHighlight: "— From Brief to Published Post",
+    titleHighlight: " From Brief to Published Post",
     steps: [
       "Brand Onboarding Complete documentation of visual identity, brand voice, content pillars, and approval workflow",
       "Monthly Content Strategy Session Review performance data, confirm priorities, identify algorithm changes, note promotions",

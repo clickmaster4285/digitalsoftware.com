@@ -14,7 +14,7 @@ export const SeoAutomationContent = {
     titleHighlight: "Services",
     subtitle: "Stop Doing Manually What Machines Can Do Better and Faster.",
     description:
-      "SEO automation services — rank tracking automation, technical audit pipelines, content brief generation, internal linking and competitor monitoring for agencies and in-house teams.",
+      "SEO automation services  rank tracking automation, technical audit pipelines, content brief generation, internal linking and competitor monitoring for agencies and in-house teams.",
     stats: [
       { k: "17-27h", v: "Weekly manual SEO time" },
       { k: "2-4h", v: "After automation" },

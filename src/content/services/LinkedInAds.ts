@@ -12,7 +12,7 @@ export const LinkedInAdsContent = {
     tag: "[ Service · 06 ] LinkedIn Ads Management",
     title: "LinkedIn Ads Management",
     titleHighlight: "Services",
-    subtitle: "— B2B Leads at Scale | Clickmasters",
+    subtitle: " B2B Leads at Scale | Clickmasters",
     description:
       "Expert LinkedIn Ads management for B2B companies targeting decision-makers by job title, industry & seniority. Lead gen forms, sponsored content & message ads.",
     stats: [

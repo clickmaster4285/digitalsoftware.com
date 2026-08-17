@@ -11,12 +11,12 @@ export const EmailMarketing_Omaha = {
   citySlug: "omaha",
   slug: "/email-marketing-omaha/",
   
-  h1: `Email Marketing Omaha — Berkshire Annual Meeting FINRA Pipeline, Union Pacific Rail Nurture, and NDPA-Compliant Gate City Revenue`,
+  h1: `Email Marketing Omaha  Berkshire Annual Meeting FINRA Pipeline, Union Pacific Rail Nurture, and NDPA-Compliant Gate City Revenue`,
   primaryKw: `email marketing agency omaha`,
-  formula: `FAB — Berkshire FINRA/SEC Annual Meeting HubSpot pipeline + Union Pacific rail logistics nurture + ConAgra agribusiness + Nebraska Medicine HIPAA health system + Berkshire Annual Meeting May activation window + College World Series June seasonal + NDPA-compliant Klaviyo consumer`,
+  formula: `FAB  Berkshire FINRA/SEC Annual Meeting HubSpot pipeline + Union Pacific rail logistics nurture + ConAgra agribusiness + Nebraska Medicine HIPAA health system + Berkshire Annual Meeting May activation window + College World Series June seasonal + NDPA-compliant Klaviyo consumer`,
   seoTitle: `Email Marketing Omaha | Berkshire Annual Meeting Pipeline & Union Pacific Rail | Clickmasters`,
   meta: `Clickmasters email marketing in Omaha. Berkshire Hathaway Annual Meeting FINRA pipeline, Union Pacific rail logistics nurture, Nebraska Medicine HIPAA, and NDPA-compliant Gate City revenue. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Omaha Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-omaha/","address":{"@type":"PostalAddress","addressLocality":"Omaha","addressRegion":"NE","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Omaha Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-omaha/","address":{"@type":"PostalAddress","addressLocality":"Omaha","addressRegion":"NE","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN OMAHA?
@@ -42,22 +42,22 @@ Nebraska Medicine HIPAA Healthcare Procurement:
 For Omaha health technology vendors. Nebraska Medicine NCI cancer research intelligence. UNMC academic medical programme content. HIPAA-compliant NDPA-compliant data handling.`,
   pas: ``,
   services: ``,
-  caseStudies: `Case Study 1: Omaha Financial Technology — Berkshire Annual Meeting FINRA Pipeline
+  caseStudies: `Case Study 1: Omaha Financial Technology  Berkshire Annual Meeting FINRA Pipeline
 Client: Investment analytics, Omaha (\$6.4M ARR). Challenge: Berkshire community cold. Generic investment newsletter. Non-FINRA. No Annual Meeting seasonal strategy.
 Programme: Berkshire FINRA value investing + Annual Meeting seasonal calendar + named sequences + NDPA-compliant
 Results: Pre-Annual Meeting April: 4.4x above average | Berkshire re-engagement: 44% | Annual Meeting week: peak 'inbox share of voice among investment analytics vendors' | FINRA/NDPA: clean | Pipeline: \$1.4M
 
-Case Study 2: Omaha Logistics Technology — Union Pacific Rail Nurture
+Case Study 2: Omaha Logistics Technology  Union Pacific Rail Nurture
 Client: Rail analytics, Omaha (\$5.4M ARR). Challenge: Union Pacific contacts cold. Generic logistics newsletter.
 Programme: Union Pacific rail/freight/intermodal email + named sequences + 90-day rail triggers + NDPA-compliant
 Results: Union Pacific re-engagement: 42% | Rail precision: UP team cited | Pipeline: \$1.0M
 
-Case Study 3: Old Market Consumer Brand — Berkshire Annual Meeting/College World Series Seasonal Email
+Case Study 3: Old Market Consumer Brand  Berkshire Annual Meeting/College World Series Seasonal Email
 Client: Hospitality brand, Old Market (\$1.4M DTC). Challenge: Generic quarterly email. No Berkshire Annual Meeting or College World Series seasonal awareness.
 Programme: Berkshire Annual Meeting May (shareholder hospitality content) + College World Series June (college baseball hospitality) + NDPA-compliant
 Results: May Annual Meeting: 4.2x above average | June College World Series: 3.8x | DTC revenue: +\$110K`,
   pricing: ``,
-  faqTitle: `FAQs — Email Marketing Omaha`,
+  faqTitle: `FAQs  Email Marketing Omaha`,
   faqs: [
   {
     "question": "How much does email marketing cost in Omaha?",
@@ -65,15 +65,15 @@ Results: May Annual Meeting: 4.2x above average | June College World Series: 3.8
   },
   {
     "question": "What is the Berkshire Annual Meeting seasonal email strategy for Omaha financial technology businesses?",
-    "answer": "Three-window Berkshire Annual Meeting email calendar: Pre-Annual Meeting (mid-April) — highest Berkshire community open rate window of the year; Annual Meeting week (first May weekend) — peak investment professional inbox engagement; Post-Annual Meeting (late May) — Berkshire vocabulary sustainability with recap content. Omaha investment technology vendors who align email cadence to the Berkshire Annual Meeting seasonal calendar earn 4-5x above-average open rates during the world's most commercially significant investment professional gathering."
+    "answer": "Three-window Berkshire Annual Meeting email calendar: Pre-Annual Meeting (mid-April)  highest Berkshire community open rate window of the year; Annual Meeting week (first May weekend)  peak investment professional inbox engagement; Post-Annual Meeting (late May)  Berkshire vocabulary sustainability with recap content. Omaha investment technology vendors who align email cadence to the Berkshire Annual Meeting seasonal calendar earn 4-5x above-average open rates during the world's most commercially significant investment professional gathering."
   },
   {
     "question": "What is Union Pacific rail logistics email for Omaha logistics technology vendors?",
-    "answer": "Freight routing optimisation intelligence, intermodal analytics updates, and rail network performance content — maintaining Union Pacific Omaha procurement contact relationships through 90-180 day rail technology evaluation cycles with NDPA-compliant email data handling throughout."
+    "answer": "Freight routing optimisation intelligence, intermodal analytics updates, and rail network performance content  maintaining Union Pacific Omaha procurement contact relationships through 90-180 day rail technology evaluation cycles with NDPA-compliant email data handling throughout."
   },
   {
     "question": "Does Clickmasters serve Bellevue, Papillion, Elkhorn, and Greater Omaha?",
-    "answer": "Yes — all of Greater Omaha MSA."
+    "answer": "Yes  all of Greater Omaha MSA."
   },
   {
     "question": "How long does Berkshire FINRA Annual Meeting pipeline email produce investment technology results?",
@@ -81,18 +81,18 @@ Results: May Annual Meeting: 4.2x above average | June College World Series: 3.8
   },
   {
     "question": "What is the College World Series seasonal email opportunity for Omaha consumer brands?",
-    "answer": "The NCAA Division I Men's College World Series (TD Ameritrade Park Omaha, June) brings 250,000+ college baseball fans to Omaha annually — creating a six-game seasonal hospitality and consumer brand email engagement window. Old Market, Dundee, and Aksarben consumer brands whose email timing anticipates College World Series (June) earn above-average engagement from the Gate City's most concentrated sporting event visitor community."
+    "answer": "The NCAA Division I Men's College World Series (TD Ameritrade Park Omaha, June) brings 250,000+ college baseball fans to Omaha annually  creating a six-game seasonal hospitality and consumer brand email engagement window. Old Market, Dundee, and Aksarben consumer brands whose email timing anticipates College World Series (June) earn above-average engagement from the Gate City's most concentrated sporting event visitor community."
   }
 ],
   faqsAlt: ``,
-  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Omaha?","acceptedAnswer":{"@type":"Answer","text":"Omaha email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). Berkshire Annual Meeting FINRA investment pipeline. Union Pacific rail logistics nurture. Nebraska Medicine HIPAA. NDPA-compliant. Nebraska retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is the Berkshire Annual Meeting seasonal email strategy for Omaha financial technology businesses?","acceptedAnswer":{"@type":"Answer","text":"Three-window Berkshire Annual Meeting email calendar: Pre-Annual Meeting (mid-April) — highest Berkshire community open rate window of the year; Annual Meeting week (first May weekend) — peak investment professional inbox engagement; Post-Annual Meeting (late May) — Berkshire vocabulary sustainability with recap content. Omaha investment technology vendors who align email cadence to the Berkshire Annual Meeting seasonal calendar earn 4-5x above-average open rates during the world's most commercially significant investment professional gathering."}},{"@type":"Question","name":"What is Union Pacific rail logistics email for Omaha logistics technology vendors?","acceptedAnswer":{"@type":"Answer","text":"Freight routing optimisation intelligence, intermodal analytics updates, and rail network performance content — maintaining Union Pacific Omaha procurement contact relationships through 90-180 day rail technology evaluation cycles with NDPA-compliant email data handling throughout."}},{"@type":"Question","name":"Does Clickmasters serve Bellevue, Papillion, Elkhorn, and Greater Omaha?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Omaha MSA."}},{"@type":"Question","name":"How long does Berkshire FINRA Annual Meeting pipeline email produce investment technology results?","acceptedAnswer":{"@type":"Answer","text":"Berkshire community re-engagement from FINRA Annual Meeting email: 21-30 days. Berkshire evaluation invitations: 90-150 days. Full Berkshire pipeline: 6-10 months."}},{"@type":"Question","name":"What is the College World Series seasonal email opportunity for Omaha consumer brands?","acceptedAnswer":{"@type":"Answer","text":"The NCAA Division I Men's College World Series (TD Ameritrade Park Omaha, June) brings 250,000+ college baseball fans to Omaha annually — creating a six-game seasonal hospitality and consumer brand email engagement window. Old Market, Dundee, and Aksarben consumer brands whose email timing anticipates College World Series (June) earn above-average engagement from the Gate City's most concentrated sporting event visitor community."}}]}`,
+  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in Omaha?","acceptedAnswer":{"@type":"Answer","text":"Omaha email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). Berkshire Annual Meeting FINRA investment pipeline. Union Pacific rail logistics nurture. Nebraska Medicine HIPAA. NDPA-compliant. Nebraska retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is the Berkshire Annual Meeting seasonal email strategy for Omaha financial technology businesses?","acceptedAnswer":{"@type":"Answer","text":"Three-window Berkshire Annual Meeting email calendar: Pre-Annual Meeting (mid-April)  highest Berkshire community open rate window of the year; Annual Meeting week (first May weekend)  peak investment professional inbox engagement; Post-Annual Meeting (late May)  Berkshire vocabulary sustainability with recap content. Omaha investment technology vendors who align email cadence to the Berkshire Annual Meeting seasonal calendar earn 4-5x above-average open rates during the world's most commercially significant investment professional gathering."}},{"@type":"Question","name":"What is Union Pacific rail logistics email for Omaha logistics technology vendors?","acceptedAnswer":{"@type":"Answer","text":"Freight routing optimisation intelligence, intermodal analytics updates, and rail network performance content  maintaining Union Pacific Omaha procurement contact relationships through 90-180 day rail technology evaluation cycles with NDPA-compliant email data handling throughout."}},{"@type":"Question","name":"Does Clickmasters serve Bellevue, Papillion, Elkhorn, and Greater Omaha?","acceptedAnswer":{"@type":"Answer","text":"Yes  all of Greater Omaha MSA."}},{"@type":"Question","name":"How long does Berkshire FINRA Annual Meeting pipeline email produce investment technology results?","acceptedAnswer":{"@type":"Answer","text":"Berkshire community re-engagement from FINRA Annual Meeting email: 21-30 days. Berkshire evaluation invitations: 90-150 days. Full Berkshire pipeline: 6-10 months."}},{"@type":"Question","name":"What is the College World Series seasonal email opportunity for Omaha consumer brands?","acceptedAnswer":{"@type":"Answer","text":"The NCAA Division I Men's College World Series (TD Ameritrade Park Omaha, June) brings 250,000+ college baseball fans to Omaha annually  creating a six-game seasonal hospitality and consumer brand email engagement window. Old Market, Dundee, and Aksarben consumer brands whose email timing anticipates College World Series (June) earn above-average engagement from the Gate City's most concentrated sporting event visitor community."}}]}`,
   cta: `Get Your Free Omaha Email Marketing Audit`,
-  ctaBody: `Free audit — 48 hours.
-1. Berkshire Annual Meeting seasonal — is your investment email May-calendar-aware?
-2. FINRA compliance — investment email content violations
-3. Nebraska NDPA compliance — subscriber data handling
-4. Union Pacific vocabulary — rail/freight/intermodal precision in logistics email
-5. College World Series seasonal — is your Gate City consumer email June-calendar-aware?
+  ctaBody: `Free audit  48 hours.
+1. Berkshire Annual Meeting seasonal  is your investment email May-calendar-aware?
+2. FINRA compliance  investment email content violations
+3. Nebraska NDPA compliance  subscriber data handling
+4. Union Pacific vocabulary  rail/freight/intermodal precision in logistics email
+5. College World Series seasonal  is your Gate City consumer email June-calendar-aware?
 
 Phone +1-888-555-CLICK | omaha@clickmastersdigitalmarketing.com
 Old Market, Dundee, Aksarben, Bellevue, and all of Greater Omaha`,

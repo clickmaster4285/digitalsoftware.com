@@ -12,8 +12,8 @@ export const CustomSoftwareContent = {
     tag: "[ Service · 03 ] Custom Software",
     title: "Custom Software Development",
     titleHighlight: "Company",
-    subtitle: "— software built for the way your business actually works.",
-    description: "Expert custom software development — business management systems, workflow automation, integrations & SaaS products. USA, UK & UAE. Free discovery consultation.",
+    subtitle: " software built for the way your business actually works.",
+    description: "Expert custom software development  business management systems, workflow automation, integrations & SaaS products. USA, UK & UAE. Free discovery consultation.",
     stats: [
       { k: "58%", v: "Admin overhead reduction" },
       { k: "73%", v: "Late deliveries reduced" },

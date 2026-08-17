@@ -45,7 +45,7 @@ export const TechnicalSeoContent = {
       },
       { text: "trust your site", type: "highlight" },
       {
-        text: ", and rank your content at all. Content and links are fuel — ",
+        text: ", and rank your content at all. Content and links are fuel  ",
         type: "normal",
       },
       { text: "technical SEO is the engine", type: "highlight" },
@@ -63,7 +63,7 @@ export const TechnicalSeoContent = {
     title: "What Is Technical SEO and Why Does It Matter in",
     titleHighlight: "2026?",
     intro:
-      "Technical SEO refers to all optimizations made to a website's infrastructure — its code, server configuration, architecture, and performance — to ensure that search engines can efficiently crawl, index, and rank its pages. The reason technical SEO has grown in importance through 2025 and into 2026 is threefold.",
+      "Technical SEO refers to all optimizations made to a website's infrastructure  its code, server configuration, architecture, and performance  to ensure that search engines can efficiently crawl, index, and rank its pages. The reason technical SEO has grown in importance through 2025 and into 2026 is threefold.",
     items: [
       {
         icon: "Search",
@@ -73,12 +73,12 @@ export const TechnicalSeoContent = {
       {
         icon: "Gauge",
         title: "Core Web Vitals Are Hard-Wired Into Rankings",
-        body: "Google's page experience signals — measuring how fast, stable, and interactive your pages are — directly influence where your pages appear in search results. A site with identical content and equal backlinks to a competitor will lose rankings if its Core Web Vitals scores are inferior. This is no longer a peripheral concern. It is a ranking determinant.",
+        body: "Google's page experience signals  measuring how fast, stable, and interactive your pages are  directly influence where your pages appear in search results. A site with identical content and equal backlinks to a competitor will lose rankings if its Core Web Vitals scores are inferior. This is no longer a peripheral concern. It is a ranking determinant.",
       },
       {
         icon: "Brain",
         title: "AI Content Has Intensified Competition",
-        body: "The explosion of AI-generated content in 2025 and 2026 has intensified competition for every keyword. With content volume at an all-time high, Google increasingly differentiates on technical trust signals: schema markup, structured data, E-E-A-T infrastructure, and site authority indicators that are built at the code level. Websites with clean technical foundations outperform those without — even when content quality is comparable.",
+        body: "The explosion of AI-generated content in 2025 and 2026 has intensified competition for every keyword. With content volume at an all-time high, Google increasingly differentiates on technical trust signals: schema markup, structured data, E-E-A-T infrastructure, and site authority indicators that are built at the code level. Websites with clean technical foundations outperform those without  even when content quality is comparable.",
       },
     ],
     closing:
@@ -89,17 +89,17 @@ export const TechnicalSeoContent = {
       n: "01",
       icon: "ClipboardList",
       tag: "Audit",
-      title: "Comprehensive Technical SEO Audit — 48-Point Diagnostic",
+      title: "Comprehensive Technical SEO Audit  48-Point Diagnostic",
       intro:
         "Every technical SEO engagement begins with the most thorough audit in the industry. Our 48-point technical audit covers every dimension of a website's search infrastructure.",
       blocks: [
         {
           h: "Crawlability Analysis",
-          p: "We analyze how Googlebot navigates your site using crawl simulation tools and actual Search Console crawl data. We identify pages that are blocked by robots.txt that should not be, pages that are accidentally noindexed, redirect chains that waste crawl budget, and XML sitemap errors that send Google to incorrect or outdated URLs. One of the most common findings in our audits is what we call \"index pollution\" — a site's Google index contains hundreds or thousands of pages that provide no search value: empty tag archives, paginated duplicate content, URL parameter variations, thin product filters, and staging environment pages accidentally exposed to Google. Index pollution dilutes the authority of your high-value pages. Cleaning it up consistently produces measurable ranking improvements within 60 to 90 days.",
+          p: "We analyze how Googlebot navigates your site using crawl simulation tools and actual Search Console crawl data. We identify pages that are blocked by robots.txt that should not be, pages that are accidentally noindexed, redirect chains that waste crawl budget, and XML sitemap errors that send Google to incorrect or outdated URLs. One of the most common findings in our audits is what we call \"index pollution\"  a site's Google index contains hundreds or thousands of pages that provide no search value: empty tag archives, paginated duplicate content, URL parameter variations, thin product filters, and staging environment pages accidentally exposed to Google. Index pollution dilutes the authority of your high-value pages. Cleaning it up consistently produces measurable ranking improvements within 60 to 90 days.",
         },
         {
           h: "Indexation Review",
-          p: "We use the Google Search Console Index Coverage report combined with our own crawl tools to identify every page that is indexed but should not be, and every page that is not indexed but should be. We investigate every warning and error in the coverage report — \"Submitted URL blocked by robots.txt,\" \"Discovered — currently not indexed,\" \"Crawled — currently not indexed\" — and resolve each with targeted fixes.",
+          p: "We use the Google Search Console Index Coverage report combined with our own crawl tools to identify every page that is indexed but should not be, and every page that is not indexed but should be. We investigate every warning and error in the coverage report  \"Submitted URL blocked by robots.txt,\" \"Discovered  currently not indexed,\" \"Crawled  currently not indexed\"  and resolve each with targeted fixes.",
         },
         {
           h: "Site Architecture Review",
@@ -107,7 +107,7 @@ export const TechnicalSeoContent = {
         },
         {
           h: "Redirect Audit",
-          p: "We map every redirect on your site — 301s, 302s, 307s, meta refreshes — and identify chains, loops, and redirect targets that have since moved again. Every unnecessary redirect hop loses PageRank. We flatten redirect chains to single hops and remove redirect loops entirely.",
+          p: "We map every redirect on your site  301s, 302s, 307s, meta refreshes  and identify chains, loops, and redirect targets that have since moved again. Every unnecessary redirect hop loses PageRank. We flatten redirect chains to single hops and remove redirect loops entirely.",
         },
         {
           h: "Duplicate Content Analysis",
@@ -119,21 +119,21 @@ export const TechnicalSeoContent = {
       n: "02",
       icon: "Gauge",
       tag: "Core Web Vitals",
-      title: "Core Web Vitals Optimization — The 2026 Performance Standard",
+      title: "Core Web Vitals Optimization  The 2026 Performance Standard",
       intro:
         "Core Web Vitals are Google's quantified page experience metrics. In 2026, they are established ranking factors that directly impact where your pages appear in search results. Our Core Web Vitals service addresses all three signals.",
       blocks: [
         {
           h: "Largest Contentful Paint (LCP)",
-          p: "LCP measures how quickly the largest visible element of a page loads. Google's threshold for a \"good\" LCP is under 2.5 seconds. The national average for e-commerce sites in our 2025 audit data was 4.1 seconds — well into Google's \"poor\" category. Common LCP killers we fix: unoptimized hero images served without next-gen formats (WebP, AVIF), render-blocking JavaScript and CSS that delays the browser's first paint, slow server response times (TTFB above 600ms), and missing preload hints for above-the-fold resources. We reduced LCP from 5.8 seconds to 1.4 seconds for a multi-location healthcare client in Houston in 2025. Their organic traffic increased 67% within 90 days following the technical sprint — without a single new piece of content published.",
+          p: "LCP measures how quickly the largest visible element of a page loads. Google's threshold for a \"good\" LCP is under 2.5 seconds. The national average for e-commerce sites in our 2025 audit data was 4.1 seconds  well into Google's \"poor\" category. Common LCP killers we fix: unoptimized hero images served without next-gen formats (WebP, AVIF), render-blocking JavaScript and CSS that delays the browser's first paint, slow server response times (TTFB above 600ms), and missing preload hints for above-the-fold resources. We reduced LCP from 5.8 seconds to 1.4 seconds for a multi-location healthcare client in Houston in 2025. Their organic traffic increased 67% within 90 days following the technical sprint  without a single new piece of content published.",
         },
         {
           h: "Interaction to Next Paint (INP)",
-          p: "INP replaced First Input Delay (FID) as a Core Web Vital in March 2024. It measures the delay between a user interaction — a click, tap, or keyboard input — and the browser's next visual response. Sites with excessive JavaScript execution, heavy third-party scripts (chat widgets, analytics, ad tags), and unoptimized event handlers routinely fail INP. We audit every JavaScript dependency on your site, defer non-critical scripts, optimize event handlers, and implement code splitting to reduce main thread blocking. Our technical team regularly brings INP from \"needs improvement\" (200ms–500ms) down to \"good\" (under 200ms) within a single sprint cycle.",
+          p: "INP replaced First Input Delay (FID) as a Core Web Vital in March 2024. It measures the delay between a user interaction  a click, tap, or keyboard input  and the browser's next visual response. Sites with excessive JavaScript execution, heavy third-party scripts (chat widgets, analytics, ad tags), and unoptimized event handlers routinely fail INP. We audit every JavaScript dependency on your site, defer non-critical scripts, optimize event handlers, and implement code splitting to reduce main thread blocking. Our technical team regularly brings INP from \"needs improvement\" (200ms–500ms) down to \"good\" (under 200ms) within a single sprint cycle.",
         },
         {
           h: "Cumulative Layout Shift (CLS)",
-          p: "CLS measures visual instability — elements that jump around as the page loads because images have no declared dimensions, ads load dynamically, or web fonts cause text to reflow. A poor CLS score (above 0.25) directly damages both user experience and rankings. We fix CLS by adding explicit width and height attributes to all images and iframes, implementing font-display: optional or swap for web fonts, reserving ad slot space in CSS before ads load, and auditing all dynamic content injections that affect layout.",
+          p: "CLS measures visual instability  elements that jump around as the page loads because images have no declared dimensions, ads load dynamically, or web fonts cause text to reflow. A poor CLS score (above 0.25) directly damages both user experience and rankings. We fix CLS by adding explicit width and height attributes to all images and iframes, implementing font-display: optional or swap for web fonts, reserving ad slot space in CSS before ads load, and auditing all dynamic content injections that affect layout.",
         },
       ],
     },
@@ -143,11 +143,11 @@ export const TechnicalSeoContent = {
       tag: "Architecture",
       title: "Site Architecture and Internal Linking Reconstruction",
       intro:
-        "Site architecture is the silent ranking multiplier that most businesses — and most SEO agencies — overlook. How your pages are structured and how they link to each other determines how Google's crawl and ranking algorithms perceive the relative importance of each page.",
+        "Site architecture is the silent ranking multiplier that most businesses  and most SEO agencies  overlook. How your pages are structured and how they link to each other determines how Google's crawl and ranking algorithms perceive the relative importance of each page.",
       blocks: [
         {
           h: "Commercial Page Elevation",
-          p: "We audit which pages drive your business — service pages, product categories, high-converting landing pages — and ensure they receive maximum internal link authority. This means auditing every page on your site and adding contextual internal links from high-authority pages (often your most-trafficked blog posts and resource pages) to your commercial priority pages.",
+          p: "We audit which pages drive your business  service pages, product categories, high-converting landing pages  and ensure they receive maximum internal link authority. This means auditing every page on your site and adding contextual internal links from high-authority pages (often your most-trafficked blog posts and resource pages) to your commercial priority pages.",
         },
         {
           h: "Topic Cluster Implementation",
@@ -159,7 +159,7 @@ export const TechnicalSeoContent = {
         },
         {
           h: "Orphan Page Detection and Linking",
-          p: "Orphan pages — pages with no internal links pointing to them — are effectively invisible to Google's crawl. We identify every orphan on your site and integrate them into the internal linking structure, or recommend consolidation or deletion depending on their content value.",
+          p: "Orphan pages  pages with no internal links pointing to them  are effectively invisible to Google's crawl. We identify every orphan on your site and integrate them into the internal linking structure, or recommend consolidation or deletion depending on their content value.",
         },
       ],
     },
@@ -169,7 +169,7 @@ export const TechnicalSeoContent = {
       tag: "Schema",
       title: "Schema Markup and Structured Data Implementation",
       intro:
-        "Schema markup is the language that helps Google understand what your content means — not just what it says. Properly implemented structured data enables rich results: star ratings, FAQ dropdowns, product prices, event dates, breadcrumbs, and more. These rich results consistently generate higher click-through rates than plain SERP listings.",
+        "Schema markup is the language that helps Google understand what your content means  not just what it says. Properly implemented structured data enables rich results: star ratings, FAQ dropdowns, product prices, event dates, breadcrumbs, and more. These rich results consistently generate higher click-through rates than plain SERP listings.",
       blocks: [
         {
           h: "Service Schema",
@@ -177,11 +177,11 @@ export const TechnicalSeoContent = {
         },
         {
           h: "Organization and Local Business Schema",
-          p: "Organization schema establishes your brand entity in Google's Knowledge Graph — connecting your business name, URL, logo, founding date, founders, and social media profiles into a unified, Google-trusted entity. LocalBusiness schema adds physical location data, operating hours, geographic service area, and accepted payment methods.",
+          p: "Organization schema establishes your brand entity in Google's Knowledge Graph  connecting your business name, URL, logo, founding date, founders, and social media profiles into a unified, Google-trusted entity. LocalBusiness schema adds physical location data, operating hours, geographic service area, and accepted payment methods.",
         },
         {
           h: "FAQPage Schema",
-          p: "FAQPage schema marks up question-and-answer content so Google can display it as expandable FAQ rich results directly in the SERP. Pages with FAQ rich results take up significantly more real estate on the results page — increasing visibility and click-through rate even from position 3 or 4.",
+          p: "FAQPage schema marks up question-and-answer content so Google can display it as expandable FAQ rich results directly in the SERP. Pages with FAQ rich results take up significantly more real estate on the results page  increasing visibility and click-through rate even from position 3 or 4.",
         },
         {
           h: "BreadcrumbList Schema",
@@ -197,7 +197,7 @@ export const TechnicalSeoContent = {
         },
         {
           h: "SoftwareApplication Schema",
-          p: "For our ClickERP, ClickPOS, and ClickCare HMS product pages, SoftwareApplication schema communicates software category, operating system, price, and reviews — critical for ranking in software-specific search queries.",
+          p: "For our ClickERP, ClickPOS, and ClickCare HMS product pages, SoftwareApplication schema communicates software category, operating system, price, and reviews  critical for ranking in software-specific search queries.",
         },
       ],
     },
@@ -207,23 +207,23 @@ export const TechnicalSeoContent = {
       tag: "Security",
       title: "HTTPS, Security, and Technical Trust Signals",
       intro:
-        "Google confirmed HTTPS as a ranking signal in 2014 and has continuously strengthened its preference for secure sites. In 2026, HTTPS is table stakes — but implementation errors remain common and damaging.",
+        "Google confirmed HTTPS as a ranking signal in 2014 and has continuously strengthened its preference for secure sites. In 2026, HTTPS is table stakes  but implementation errors remain common and damaging.",
       blocks: [
         {
           h: "SSL Certificate Audit",
-          p: "We verify that your SSL certificate is valid, properly installed, covers all relevant subdomains (including www), and is not within 30 days of expiration. An expired SSL certificate instantly removes your site from Google's index — we have seen this cause catastrophic ranking losses that take months to recover from.",
+          p: "We verify that your SSL certificate is valid, properly installed, covers all relevant subdomains (including www), and is not within 30 days of expiration. An expired SSL certificate instantly removes your site from Google's index  we have seen this cause catastrophic ranking losses that take months to recover from.",
         },
         {
           h: "Mixed Content Remediation",
-          p: "Mixed content occurs when an HTTPS page loads insecure HTTP resources — images, scripts, stylesheets, iframes. Modern browsers block mixed content; Google penalizes it. We audit every resource loaded on every page and update all HTTP references to HTTPS.",
+          p: "Mixed content occurs when an HTTPS page loads insecure HTTP resources  images, scripts, stylesheets, iframes. Modern browsers block mixed content; Google penalizes it. We audit every resource loaded on every page and update all HTTP references to HTTPS.",
         },
         {
           h: "HSTS Implementation",
-          p: "HTTP Strict Transport Security (HSTS) tells browsers to always use HTTPS for your domain — preventing SSL stripping attacks and eliminating the redirect from HTTP to HTTPS. We implement HSTS with appropriate max-age values and, where appropriate, add your domain to the HSTS preload list.",
+          p: "HTTP Strict Transport Security (HSTS) tells browsers to always use HTTPS for your domain  preventing SSL stripping attacks and eliminating the redirect from HTTP to HTTPS. We implement HSTS with appropriate max-age values and, where appropriate, add your domain to the HSTS preload list.",
         },
         {
           h: "Security Header Review",
-          p: "We audit and implement security headers — X-Frame-Options, X-Content-Type-Options, Referrer-Policy, Content-Security-Policy — that both improve site security and signal technical professionalism to Google's quality assessment systems.",
+          p: "We audit and implement security headers  X-Frame-Options, X-Content-Type-Options, Referrer-Policy, Content-Security-Policy  that both improve site security and signal technical professionalism to Google's quality assessment systems.",
         },
       ],
     },
@@ -233,11 +233,11 @@ export const TechnicalSeoContent = {
       tag: "Mobile SEO",
       title: "Mobile SEO and Mobile-First Indexing Compliance",
       intro:
-        "Google has operated on a mobile-first indexing model since 2020, meaning it uses the mobile version of your site as the primary version for crawling and ranking. In 2026, this is established reality — yet we routinely audit sites where the mobile version contains significantly less content, fewer internal links, and inferior structured data compared to the desktop version.",
+        "Google has operated on a mobile-first indexing model since 2020, meaning it uses the mobile version of your site as the primary version for crawling and ranking. In 2026, this is established reality  yet we routinely audit sites where the mobile version contains significantly less content, fewer internal links, and inferior structured data compared to the desktop version.",
       blocks: [
         {
           h: "Mobile Content Parity",
-          p: "We verify that every piece of content, every internal link, every structured data markup, and every canonical tag present on the desktop version of your site is also present and accessible on the mobile version. Hidden content placed behind expandable tabs or accordions is now counted equally by Google on mobile — but only if implemented correctly.",
+          p: "We verify that every piece of content, every internal link, every structured data markup, and every canonical tag present on the desktop version of your site is also present and accessible on the mobile version. Hidden content placed behind expandable tabs or accordions is now counted equally by Google on mobile  but only if implemented correctly.",
         },
         {
           h: "Mobile Usability Review",
@@ -255,15 +255,15 @@ export const TechnicalSeoContent = {
       tag: "Sitemap & Robots",
       title: "XML Sitemap and Robots.txt Engineering",
       intro:
-        "Two of the most fundamental technical SEO files — XML sitemaps and robots.txt — are routinely misconfigured in ways that silently suppress rankings.",
+        "Two of the most fundamental technical SEO files  XML sitemaps and robots.txt  are routinely misconfigured in ways that silently suppress rankings.",
       blocks: [
         {
           h: "XML Sitemap Engineering",
-          p: "An XML sitemap tells Google which pages you want indexed and when they were last updated. Common sitemap errors we find and fix: including pages that are noindexed or redirected (sending Google conflicting signals), excluding high-priority pages that need crawling, incorrect lastmod dates that do not reflect actual content updates, and image or video sitemaps that are incomplete or missing entirely. For large sites (10,000+ pages), we implement sitemap index files that organize page sitemaps by content type — separating service pages, product pages, blog posts, and location pages — making Google's crawl more efficient and targeted.",
+          p: "An XML sitemap tells Google which pages you want indexed and when they were last updated. Common sitemap errors we find and fix: including pages that are noindexed or redirected (sending Google conflicting signals), excluding high-priority pages that need crawling, incorrect lastmod dates that do not reflect actual content updates, and image or video sitemaps that are incomplete or missing entirely. For large sites (10,000+ pages), we implement sitemap index files that organize page sitemaps by content type  separating service pages, product pages, blog posts, and location pages  making Google's crawl more efficient and targeted.",
         },
         {
           h: "Robots.txt Optimization",
-          p: "Robots.txt controls which sections of your site Googlebot can access. Errors here have catastrophic consequences. We have audited sites where a single robots.txt misconfiguration was blocking Googlebot from the entire /shop/ or /services/ directory — a business owner wondering why their revenue pages are not indexing despite years of SEO investment. We audit your robots.txt for accidental blocks of important directories, correct formatting, appropriate blocking of admin areas and parameter URL patterns, and proper sitemap reference declarations.",
+          p: "Robots.txt controls which sections of your site Googlebot can access. Errors here have catastrophic consequences. We have audited sites where a single robots.txt misconfiguration was blocking Googlebot from the entire /shop/ or /services/ directory  a business owner wondering why their revenue pages are not indexing despite years of SEO investment. We audit your robots.txt for accidental blocks of important directories, correct formatting, appropriate blocking of admin areas and parameter URL patterns, and proper sitemap reference declarations.",
         },
       ],
     },
@@ -271,17 +271,17 @@ export const TechnicalSeoContent = {
       n: "08",
       icon: "Bot",
       tag: "AI Search",
-      title: "Technical SEO for AI Search Engines — 2026 Priority",
+      title: "Technical SEO for AI Search Engines  2026 Priority",
       intro:
-        "The search landscape of 2026 has a new technical dimension: AI search engines — Google's AI Overviews, ChatGPT Search, Perplexity, and Gemini — have their own crawlers, indexing systems, and technical requirements. Optimizing your site's technical infrastructure for AI search engines is now part of a complete technical SEO strategy.",
+        "The search landscape of 2026 has a new technical dimension: AI search engines  Google's AI Overviews, ChatGPT Search, Perplexity, and Gemini  have their own crawlers, indexing systems, and technical requirements. Optimizing your site's technical infrastructure for AI search engines is now part of a complete technical SEO strategy.",
       blocks: [
         {
           h: "AI Crawler Access",
-          p: "Most AI search engines use their own web crawlers (GPTBot for OpenAI, ClaudeBot for Anthropic, PerplexityBot, Googlebot-Extended for AI Overviews). We audit your robots.txt to ensure you are not accidentally blocking these crawlers from indexing your content — a mistake we are seeing with increasing frequency as site owners copy-paste robots.txt snippets that were written before AI crawlers existed.",
+          p: "Most AI search engines use their own web crawlers (GPTBot for OpenAI, ClaudeBot for Anthropic, PerplexityBot, Googlebot-Extended for AI Overviews). We audit your robots.txt to ensure you are not accidentally blocking these crawlers from indexing your content  a mistake we are seeing with increasing frequency as site owners copy-paste robots.txt snippets that were written before AI crawlers existed.",
         },
         {
           h: "Structured Data for AI Citation",
-          p: "AI search engines prefer content that is clearly structured, attributed to identified authors, and factually verifiable with cited sources. We implement structured data patterns that help AI engines understand your content's authority and factual basis — increasing the probability that your content is cited in AI-generated answers.",
+          p: "AI search engines prefer content that is clearly structured, attributed to identified authors, and factually verifiable with cited sources. We implement structured data patterns that help AI engines understand your content's authority and factual basis  increasing the probability that your content is cited in AI-generated answers.",
         },
         {
           h: "llms.txt Implementation",
@@ -326,7 +326,7 @@ export const TechnicalSeoContent = {
       tag: "Healthcare · Multi-Location Practice",
       metric: "67%",
       sub: "organic traffic increase · 90 days",
-      title: "Healthcare multi-location practice — 67% organic traffic increase in 90 days.",
+      title: "Healthcare multi-location practice  67% organic traffic increase in 90 days.",
       body: "A multi-location medical practice in Houston had invested in content and link building for 18 months without meaningful ranking improvement. Our audit revealed the root cause: their website had 4,200 duplicate pages being crawled and indexed (appointment booking URL parameter variations), their LCP was 5.8 seconds on mobile, and three of their five location pages were accidentally blocked in robots.txt. We resolved the duplicate content with canonical tags and robots.txt parameter blocking, optimized mobile LCP to 1.4 seconds, and unblocked the location pages within a 4-week technical sprint. Organic traffic increased 67% within 90 days. Their ranking for \"pediatric clinic Houston\" moved from position 22 to position 4 without any new content or link building.",
       result:
         "Organic traffic increased 67% within 90 days. Their ranking for \"pediatric clinic Houston\" moved from position 22 to position 4 without any new content or link building.",
@@ -335,8 +335,8 @@ export const TechnicalSeoContent = {
       tag: "B2B SaaS · Index Pollution Recovery",
       metric: "78%",
       sub: "lost traffic recovered · 5 months",
-      title: "B2B SaaS platform — index pollution clearing recovers lost rankings.",
-      body: "A SaaS platform providing project management software had seen their organic traffic decline 40% following Google's March 2024 core update. Our audit identified 12,000 thin, auto-generated pages being indexed — feature documentation stubs, empty tag pages, and URL parameter variations from their trial sign-up flow. Google was crawling these pages and perceiving the domain as having predominantly thin content. We implemented a comprehensive noindex strategy for the 12,000 low-value pages, submitted a deletion request to Google Search Console, and redirected several duplicate content clusters. Within 5 months, the site recovered 78% of its lost organic traffic and achieved new all-time ranking highs for its primary commercial keywords.",
+      title: "B2B SaaS platform  index pollution clearing recovers lost rankings.",
+      body: "A SaaS platform providing project management software had seen their organic traffic decline 40% following Google's March 2024 core update. Our audit identified 12,000 thin, auto-generated pages being indexed  feature documentation stubs, empty tag pages, and URL parameter variations from their trial sign-up flow. Google was crawling these pages and perceiving the domain as having predominantly thin content. We implemented a comprehensive noindex strategy for the 12,000 low-value pages, submitted a deletion request to Google Search Console, and redirected several duplicate content clusters. Within 5 months, the site recovered 78% of its lost organic traffic and achieved new all-time ranking highs for its primary commercial keywords.",
       result:
         "Within 5 months, the site recovered 78% of its lost organic traffic and achieved new all-time ranking highs for its primary commercial keywords.",
     },
@@ -344,7 +344,7 @@ export const TechnicalSeoContent = {
       tag: "E-commerce · Fashion Brand",
       metric: "23%",
       sub: "conversion rate improvement · 60 days",
-      title: "E-commerce fashion brand — Core Web Vitals drives conversion and ranking lift.",
+      title: "E-commerce fashion brand  Core Web Vitals drives conversion and ranking lift.",
       body: "A fashion e-commerce brand on Shopify came to us with consistently poor Core Web Vitals: LCP of 6.2 seconds, INP in the \"poor\" range due to excessive third-party scripts, and CLS from improperly sized product images. They were losing rankings to competitors with technically cleaner sites despite having stronger backlink profiles. Our Core Web Vitals sprint included: migrating all product images to WebP, implementing lazy loading for below-the-fold images, auditing and deferring seven non-critical third-party scripts, and adding explicit image dimensions across 8,000 product pages. LCP improved to 1.9 seconds. INP dropped from 380ms to 140ms. CLS moved from 0.31 to 0.04. Rankings improved for 34 primary product category keywords within 60 days. Conversion rate improved by 23%.",
       result:
         "LCP improved to 1.9 seconds. INP dropped from 380ms to 140ms. CLS moved from 0.31 to 0.04. Rankings improved for 34 primary product category keywords within 60 days. Conversion rate improved by 23%.",
@@ -354,7 +354,7 @@ export const TechnicalSeoContent = {
     {
       icon: "Code2",
       h: "Technical depth that most agencies cannot match",
-      p: "Our technical SEO team includes engineers with backgrounds in software development, server administration, and database architecture — not just marketers who have passed an SEO certification. We read JavaScript, we write regex, we configure .htaccess files, and we work directly in Search Console and server logs.",
+      p: "Our technical SEO team includes engineers with backgrounds in software development, server administration, and database architecture  not just marketers who have passed an SEO certification. We read JavaScript, we write regex, we configure .htaccess files, and we work directly in Search Console and server logs.",
     },
     {
       icon: "CheckSquare",
@@ -369,7 +369,7 @@ export const TechnicalSeoContent = {
     {
       icon: "Globe",
       h: "Market-specific technical knowledge",
-      p: "We have active technical SEO campaigns running in all four of our primary markets — USA, UK, UAE, and Pakistan — giving our team current, real-world data on how technical signals influence rankings in each geographic market.",
+      p: "We have active technical SEO campaigns running in all four of our primary markets  USA, UK, UAE, and Pakistan  giving our team current, real-world data on how technical signals influence rankings in each geographic market.",
     },
     {
       icon: "MessageCircle",
@@ -380,11 +380,11 @@ export const TechnicalSeoContent = {
   faqs: [
     {
       q: "How long does a technical SEO audit take?",
-      a: "For most websites, our 48-point audit takes 5 to 7 business days. Enterprise sites with 100,000+ pages take 10 to 14 business days. We do not rush audits — a superficial audit that misses root causes costs you more in the long run than a thorough one that correctly identifies the source of your ranking problems.",
+      a: "For most websites, our 48-point audit takes 5 to 7 business days. Enterprise sites with 100,000+ pages take 10 to 14 business days. We do not rush audits  a superficial audit that misses root causes costs you more in the long run than a thorough one that correctly identifies the source of your ranking problems.",
     },
     {
       q: "Do I need a developer to implement technical SEO fixes?",
-      a: "It depends on the fixes required. Many technical SEO improvements — canonical tag additions, schema markup implementation, robots.txt corrections, XML sitemap updates — can be made through your CMS without developer involvement. Others — Core Web Vitals optimization, JavaScript performance improvements, server configuration changes — require developer access. For clients without in-house developers, Clickmasters can handle implementation directly on supported platforms.",
+      a: "It depends on the fixes required. Many technical SEO improvements  canonical tag additions, schema markup implementation, robots.txt corrections, XML sitemap updates  can be made through your CMS without developer involvement. Others  Core Web Vitals optimization, JavaScript performance improvements, server configuration changes  require developer access. For clients without in-house developers, Clickmasters can handle implementation directly on supported platforms.",
     },
     {
       q: "How quickly will I see results after technical fixes?",
@@ -392,7 +392,7 @@ export const TechnicalSeoContent = {
     },
     {
       q: "Our site was built by a developer years ago and no one knows how it works. Can you still audit it?",
-      a: "Yes — this is one of our most common client situations. We do not need access to your codebase to conduct an audit. We work from the publicly accessible version of your site, supplemented by Google Search Console data. After the audit, we provide implementation specifications that any qualified developer can follow.",
+      a: "Yes  this is one of our most common client situations. We do not need access to your codebase to conduct an audit. We work from the publicly accessible version of your site, supplemented by Google Search Console data. After the audit, we provide implementation specifications that any qualified developer can follow.",
     },
     {
       q: "What platforms do you support for technical SEO?",
@@ -408,7 +408,7 @@ export const TechnicalSeoContent = {
     },
     {
       q: "What is the difference between technical SEO and on-page SEO?",
-      a: "Technical SEO addresses the infrastructure of your site — crawlability, indexation, site speed, structured data, mobile usability, and security. On-page SEO addresses the content of individual pages — keyword optimization, heading structure, title tags, meta descriptions, content depth, and E-E-A-T signals. Both are necessary. Technical SEO ensures Google can access and trust your pages; on-page SEO ensures those pages are relevant and authoritative for the queries you are targeting.",
+      a: "Technical SEO addresses the infrastructure of your site  crawlability, indexation, site speed, structured data, mobile usability, and security. On-page SEO addresses the content of individual pages  keyword optimization, heading structure, title tags, meta descriptions, content depth, and E-E-A-T signals. Both are necessary. Technical SEO ensures Google can access and trust your pages; on-page SEO ensures those pages are relevant and authoritative for the queries you are targeting.",
     },
     {
       q: "How do I get started?",
@@ -418,7 +418,7 @@ export const TechnicalSeoContent = {
   cta: {
     title: "Ready to Fix the Technical Foundation That's Suppressing Your Rankings?",
     description:
-      "Your competitors are not waiting. Every week your site operates with unresolved technical SEO issues is a week of compounding disadvantage — pages that do not rank, authority that does not flow correctly, and AI search engines that cannot understand your content. Our technical SEO team is ready to audit your site, identify exactly what is holding your rankings back, and fix it.",
+      "Your competitors are not waiting. Every week your site operates with unresolved technical SEO issues is a week of compounding disadvantage  pages that do not rank, authority that does not flow correctly, and AI search engines that cannot understand your content. Our technical SEO team is ready to audit your site, identify exactly what is holding your rankings back, and fix it.",
     auditLink: "https://clickmastersdigitalmarketing.com/contact/",
     whatsappLink: "https://wa.me/",
     seoLink: "https://clickmastersdigitalmarketing.com/search-engine-optimization/local-seo/locations/local-seo-services-atlanta/",
@@ -428,7 +428,7 @@ export const TechnicalSeoContent = {
     url: "https://clickmastersdigitalmarketing.com",
     email: "marketing@clickmastersdigitalmarketing.com",
     regions: "USA, UK, UAE, Pakistan, Canada, Australia",
-    author: "Amjad Khan — CEO, Clickmasters Digital Marketing | 10+ years technical SEO expertise",
+    author: "Amjad Khan  CEO, Clickmasters Digital Marketing | 10+ years technical SEO expertise",
   },
 
   schema: {

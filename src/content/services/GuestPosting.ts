@@ -12,9 +12,9 @@ export const GuestPostingContent = {
     tag: "[ Service · 03 ] Guest Posting",
     title: "Guest Posting",
     titleHighlight: "Services",
-    subtitle: "— Build the Authority Backlinks That Move Your Rankings. Permanently.",
+    subtitle: " Build the Authority Backlinks That Move Your Rankings. Permanently.",
     description:
-      "Professional guest posting services — genuine publication placements, editorial-standard content and high-authority backlinks. Zero PBN tolerance. UK, USA, UAE.",
+      "Professional guest posting services  genuine publication placements, editorial-standard content and high-authority backlinks. Zero PBN tolerance. UK, USA, UAE.",
     stats: [
       { k: "85%+", v: "Links from PBNs get discounted" },
       { k: "DA 40-70", v: "Standard placement authority" },

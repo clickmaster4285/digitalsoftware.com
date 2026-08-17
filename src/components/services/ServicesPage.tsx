@@ -253,7 +253,7 @@ const notFoundContent = {
     tag: "[ Error 404 ]",
     title: "Service Not",
     titleHighlight: "Found",
-    subtitle: "— the page you're looking for doesn't exist.",
+    subtitle: " the page you're looking for doesn't exist.",
     description: "Please check the URL or contact us for more information about our services.",
     stats: [
       { k: "404", v: "Page not found" },
@@ -568,7 +568,7 @@ const ServicesGrid = ({ content }: { content: any }) => {
         <Reveal>
           <h2 className="font-display text-4xl md:text-7xl font-bold leading-[0.95] mb-20 tracking-tight">
             Our services<br />
-            <span className="text-[#FF2E86]">— built to last.</span>
+            <span className="text-[#FF2E86]"> built to last.</span>
           </h2>
         </Reveal>
 

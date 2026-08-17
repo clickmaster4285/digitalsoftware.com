@@ -12,9 +12,9 @@ export const UIUXDesignContent = {
     tag: "[ Service · 09 ] UI/UX Design",
     title: "UI/UX Design",
     titleHighlight: "Services",
-    subtitle: "— because bad design is the most expensive thing you're not measuring.",
+    subtitle: " because bad design is the most expensive thing you're not measuring.",
     description:
-      "Expert UI/UX design — user research, information architecture, wireframing, visual design, design systems & usability testing. Measurable business outcomes. Free audit.",
+      "Expert UI/UX design  user research, information architecture, wireframing, visual design, design systems & usability testing. Measurable business outcomes. Free audit.",
     stats: [
       { k: "$1 → $100", v: "ROI of UX investment" },
       { k: "69%", v: "Trial conversion lift (case)" },

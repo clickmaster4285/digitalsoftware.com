@@ -15,9 +15,9 @@ export const SeoServicesUsaContent = {
     tag: "[ Service · 14 ] SEO Services",
     title: "SEO Services",
     titleHighlight: "USA",
-    subtitle: "— Dominate US Search. Grow Revenue. Rank Where It Counts.",
+    subtitle: " Dominate US Search. Grow Revenue. Rank Where It Counts.",
     description:
-      "Expert USA SEO services — technical SEO, content strategy, link building & local SEO for US businesses. Revenue-connected reporting. Free US SEO quote.",
+      "Expert USA SEO services  technical SEO, content strategy, link building & local SEO for US businesses. Revenue-connected reporting. Free US SEO quote.",
     stats: [
       { k: "$80B+", v: "US digital marketing spend" },
       { k: "22,200/mo", v: "Search volume" },

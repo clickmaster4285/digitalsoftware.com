@@ -12,7 +12,7 @@ export const ClickGrowthSystemContent = {
     tag: "[ Methodology ]",
     title: "The CLICK",
     titleHighlight: "Growth System",
-    subtitle: "— the revenue framework behind every Clickmasters programme.",
+    subtitle: " the revenue framework behind every Clickmasters programme.",
     description:
       "Most digital marketing programmes are built around channels. The agency that specialises in SEO builds you an SEO programme. The agency that specialises in paid advertising builds you a paid advertising programme. The agency that specialises in social media builds you a social media programme. Each channel produces its own metrics, generates its own reports, and creates its own definition of success and the client ends up with a collection of channel-specific activities that may or may not combine into the coherent commercial growth the business actually needs.",
     stats: [

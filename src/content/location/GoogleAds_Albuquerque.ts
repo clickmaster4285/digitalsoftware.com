@@ -11,12 +11,12 @@ export const GoogleAds_Albuquerque = {
   citySlug: "albuquerque",
   slug: "/google-ads-management-albuquerque/",
   
-  h1: `Google Ads Management Albuquerque — Sandia/ITAR-Bounded Community PPC, Intel Rio Rancho Semiconductor, and UNM Health HIPAA`,
+  h1: `Google Ads Management Albuquerque  Sandia/ITAR-Bounded Community PPC, Intel Rio Rancho Semiconductor, and UNM Health HIPAA`,
   primaryKw: `google ads agency albuquerque`,
-  formula: `AIDA — Albuquerque Sandia/ITAR-bounded national security community PPC + Intel Rio Rancho semiconductor enterprise + Kirtland AFB military TSP/SCRA/VA + UNM Health HIPAA patient acquisition + New Mexico CPCs below Denver/Phoenix → ITAR-bounded national security + semiconductor + military + YMYL HIPAA`,
+  formula: `AIDA  Albuquerque Sandia/ITAR-bounded national security community PPC + Intel Rio Rancho semiconductor enterprise + Kirtland AFB military TSP/SCRA/VA + UNM Health HIPAA patient acquisition + New Mexico CPCs below Denver/Phoenix → ITAR-bounded national security + semiconductor + military + YMYL HIPAA`,
   seoTitle: `Google Ads Agency Albuquerque | Sandia ITAR Community & Intel Rio Rancho PPC | Clickmasters`,
   meta: `Clickmasters Google Ads in Albuquerque. Sandia/ITAR-bounded national security community PPC, Intel Rio Rancho semiconductor enterprise, Kirtland AFB military, and UNM Health HIPAA campaigns. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — Albuquerque Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-albuquerque/","address":{"@type":"PostalAddress","addressLocality":"Albuquerque","addressRegion":"NM","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  Albuquerque Google Ads","url":"https://clickmastersdigitalmarketing.com/google-ads-management-albuquerque/","address":{"@type":"PostalAddress","addressLocality":"Albuquerque","addressRegion":"NM","addressCountry":"US"},"serviceType":"Google Ads Management","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3500,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS GOOGLE ADS MANAGEMENT IN ALBUQUERQUE?
@@ -29,9 +29,9 @@ INTEL RIO RANCHO SEMICONDUCTOR ENTERPRISE GOOGLE ADS: Intel Rio Rancho generates
 
 UNM HEALTH/PRESBYTERIAN HIPAA PATIENT ACQUISITION: UNM Health Sciences Center and Presbyterian Healthcare Services create healthcare patient acquisition PPC requiring HIPAA server-side conversion tracking in New Mexico's most comprehensive academic medical environment.`,
   features: ``,
-  pas: `PROBLEM: The Albuquerque technology consulting firm spending \$4,800/month on 'technology consulting Albuquerque' and 'IT services New Mexico.' Sandia Labs' new Associate Lab Director searches 'computing systems consulting Sandia National Labs Albuquerque' and 'cybersecurity research technology partner Kirtland AFB New Mexico.' Neither in the campaign. \$57K spend misses New Mexico's most commercially specific national security technology B2B vocabulary — Sandia/Kirtland ITAR-bounded publicly releasable community language.
+  pas: `PROBLEM: The Albuquerque technology consulting firm spending \$4,800/month on 'technology consulting Albuquerque' and 'IT services New Mexico.' Sandia Labs' new Associate Lab Director searches 'computing systems consulting Sandia National Labs Albuquerque' and 'cybersecurity research technology partner Kirtland AFB New Mexico.' Neither in the campaign. \$57K spend misses New Mexico's most commercially specific national security technology B2B vocabulary  Sandia/Kirtland ITAR-bounded publicly releasable community language.
 
-SOLUTION: Clickmasters Albuquerque Google Ads delivers Sandia/ITAR-bounded national security community vocabulary, Intel Rio Rancho semiconductor, UNM Health/Presbyterian HIPAA — at New Mexico CPCs below Denver and Phoenix equivalents.`,
+SOLUTION: Clickmasters Albuquerque Google Ads delivers Sandia/ITAR-bounded national security community vocabulary, Intel Rio Rancho semiconductor, UNM Health/Presbyterian HIPAA  at New Mexico CPCs below Denver and Phoenix equivalents.`,
   services: `ALBUQUERQUE SANDIA/ITAR-BOUNDED NATIONAL SECURITY COMMUNITY GOOGLE ADS:
 For Albuquerque national security technology and consulting vendors. Sandia/LANL publicly releasable community vocabulary. AFRL/Kirtland national security technology. ITAR vocabulary review for all ad content and landing pages.
 
@@ -40,22 +40,22 @@ For Rio Rancho semiconductor equipment and technology vendors. Intel Rio Rancho 
 
 ALBUQUERQUE UNM HEALTH/PRESBYTERIAN HIPAA GOOGLE ADS:
 For Albuquerque healthcare practices and health technology. HIPAA server-side conversion tracking. UNM Health NCI Cancer Center vocabulary. Presbyterian Healthcare New Mexico audience.`,
-  caseStudies: `Case Study 1: Albuquerque National Security Tech — Sandia ITAR-Bounded Community PPC
+  caseStudies: `Case Study 1: Albuquerque National Security Tech  Sandia ITAR-Bounded Community PPC
 Client: Technology consulting, Albuquerque (\$5.4M). Challenge: \$57K spend missing Sandia/ITAR community vocabulary.
 Programme: Sandia/LANL publicly releasable vocabulary + AFRL community + ITAR vocabulary review all ads
 Results: Sandia community CPL: \$230 vs \$2,600 generic NM | Sandia ALD: evaluation from paid | ITAR: clean throughout | Pipeline: \$1.2M
 
-Case Study 2: Rio Rancho Semiconductor — Intel Rio Rancho Enterprise PPC
+Case Study 2: Rio Rancho Semiconductor  Intel Rio Rancho Enterprise PPC
 Client: Semiconductor equipment, Rio Rancho (\$4.8M). Challenge: Generic 'technology Rio Rancho.' Intel vocabulary absent.
 Programme: Intel Rio Rancho semiconductor vocabulary + fab manufacturing audience + NM technology community
 Results: Intel semiconductor CPL: \$220 vs \$2,200 generic | Intel VP: evaluation from paid | Pipeline: \$900K
 
-Case Study 3: Albuquerque Healthcare — UNM Health HIPAA PPC
+Case Study 3: Albuquerque Healthcare  UNM Health HIPAA PPC
 Client: Oncology (UNM NCI-affiliated). Challenge: Non-HIPAA. Generic 'Albuquerque oncologist' keywords.
 Programme: HIPAA server-side + UNM Health NCI vocabulary + Albuquerque cancer community audience
 Results: HIPAA: clean | UNM NCI CPL: \$120 vs \$340 generic | New patients: +3x`,
   pricing: ``,
-  faqTitle: `FAQs — Google Ads Albuquerque`,
+  faqTitle: `FAQs  Google Ads Albuquerque`,
   faqs: [
   {
     "question": "How much does Google Ads management cost in Albuquerque?",
@@ -71,11 +71,11 @@ Results: HIPAA: clean | UNM NCI CPL: \$120 vs \$340 generic | New patients: +3x`
   },
   {
     "question": "Does Clickmasters serve Rio Rancho, Corrales, and Greater Albuquerque?",
-    "answer": "Yes — all of Greater Albuquerque MSA."
+    "answer": "Yes  all of Greater Albuquerque MSA."
   },
   {
     "question": "How does ITAR compliance apply to Albuquerque Google Ads?",
-    "answer": "ITAR vocabulary review is applied to every Google Ads ad and landing page — ensuring only publicly releasable Sandia/LANL community vocabulary appears in advertising. Non-ITAR-reviewed ad content for national security community targeting creates export control exposure. Clickmasters maintains an ITAR-bounded publicly releasable vocabulary reference specific to Sandia and Los Alamos community advertising."
+    "answer": "ITAR vocabulary review is applied to every Google Ads ad and landing page  ensuring only publicly releasable Sandia/LANL community vocabulary appears in advertising. Non-ITAR-reviewed ad content for national security community targeting creates export control exposure. Clickmasters maintains an ITAR-bounded publicly releasable vocabulary reference specific to Sandia and Los Alamos community advertising."
   },
   {
     "question": "How do Albuquerque Google Ads CPCs compare to Denver and Phoenix?",
@@ -83,13 +83,13 @@ Results: HIPAA: clean | UNM NCI CPL: \$120 vs \$340 generic | New patients: +3x`
   }
 ],
   faqsAlt: ``,
-  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Albuquerque?","acceptedAnswer":{"@type":"Answer","text":"Albuquerque Google Ads: \$950/month (Growth) to \$9,500+/month (Enterprise). Sandia/ITAR-bounded national security community vocabulary. Intel Rio Rancho semiconductor. UNM Health/Presbyterian HIPAA. New Mexico CPCs below Denver/Phoenix. 90-day guarantee."}},{"@type":"Question","name":"What is Sandia/ITAR-bounded national security community Google Ads for Albuquerque businesses?","acceptedAnswer":{"@type":"Answer","text":"Sandia/LANL publicly releasable vocabulary campaigns targeting national security research community: 'computing systems consulting Sandia National Labs Albuquerque,' 'cybersecurity technology partner Kirtland AFB New Mexico,' 'AFRL research technology vendor Duke City.' ITAR vocabulary review for all ad content and landing pages. New Mexico CPCs significantly below Washington DC and Huntsville national security equivalents."}},{"@type":"Question","name":"What is Intel Rio Rancho semiconductor enterprise Google Ads for Albuquerque businesses?","acceptedAnswer":{"@type":"Answer","text":"Intel Rio Rancho vocabulary campaigns targeting semiconductor procurement: 'semiconductor equipment vendor Intel Rio Rancho New Mexico,' 'fab manufacturing technology consulting Albuquerque Intel.' New Mexico CPCs below national semiconductor technology markets."}},{"@type":"Question","name":"Does Clickmasters serve Rio Rancho, Corrales, and Greater Albuquerque?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater Albuquerque MSA."}},{"@type":"Question","name":"How does ITAR compliance apply to Albuquerque Google Ads?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review is applied to every Google Ads ad and landing page — ensuring only publicly releasable Sandia/LANL community vocabulary appears in advertising. Non-ITAR-reviewed ad content for national security community targeting creates export control exposure. Clickmasters maintains an ITAR-bounded publicly releasable vocabulary reference specific to Sandia and Los Alamos community advertising."}},{"@type":"Question","name":"How do Albuquerque Google Ads CPCs compare to Denver and Phoenix?","acceptedAnswer":{"@type":"Answer","text":"New Mexico CPCs 20-30% below Denver for equivalent technology vocabulary. 15-25% below Phoenix for equivalent professional services. Sandia/national security community vocabulary CPCs are New Mexico-specific with lower competition than Washington DC and Huntsville defence technology advertising markets."}}]}`,
+  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does Google Ads management cost in Albuquerque?","acceptedAnswer":{"@type":"Answer","text":"Albuquerque Google Ads: \$950/month (Growth) to \$9,500+/month (Enterprise). Sandia/ITAR-bounded national security community vocabulary. Intel Rio Rancho semiconductor. UNM Health/Presbyterian HIPAA. New Mexico CPCs below Denver/Phoenix. 90-day guarantee."}},{"@type":"Question","name":"What is Sandia/ITAR-bounded national security community Google Ads for Albuquerque businesses?","acceptedAnswer":{"@type":"Answer","text":"Sandia/LANL publicly releasable vocabulary campaigns targeting national security research community: 'computing systems consulting Sandia National Labs Albuquerque,' 'cybersecurity technology partner Kirtland AFB New Mexico,' 'AFRL research technology vendor Duke City.' ITAR vocabulary review for all ad content and landing pages. New Mexico CPCs significantly below Washington DC and Huntsville national security equivalents."}},{"@type":"Question","name":"What is Intel Rio Rancho semiconductor enterprise Google Ads for Albuquerque businesses?","acceptedAnswer":{"@type":"Answer","text":"Intel Rio Rancho vocabulary campaigns targeting semiconductor procurement: 'semiconductor equipment vendor Intel Rio Rancho New Mexico,' 'fab manufacturing technology consulting Albuquerque Intel.' New Mexico CPCs below national semiconductor technology markets."}},{"@type":"Question","name":"Does Clickmasters serve Rio Rancho, Corrales, and Greater Albuquerque?","acceptedAnswer":{"@type":"Answer","text":"Yes  all of Greater Albuquerque MSA."}},{"@type":"Question","name":"How does ITAR compliance apply to Albuquerque Google Ads?","acceptedAnswer":{"@type":"Answer","text":"ITAR vocabulary review is applied to every Google Ads ad and landing page  ensuring only publicly releasable Sandia/LANL community vocabulary appears in advertising. Non-ITAR-reviewed ad content for national security community targeting creates export control exposure. Clickmasters maintains an ITAR-bounded publicly releasable vocabulary reference specific to Sandia and Los Alamos community advertising."}},{"@type":"Question","name":"How do Albuquerque Google Ads CPCs compare to Denver and Phoenix?","acceptedAnswer":{"@type":"Answer","text":"New Mexico CPCs 20-30% below Denver for equivalent technology vocabulary. 15-25% below Phoenix for equivalent professional services. Sandia/national security community vocabulary CPCs are New Mexico-specific with lower competition than Washington DC and Huntsville defence technology advertising markets."}}]}`,
   cta: `Get Your Free Albuquerque Google Ads Audit`,
-  ctaBody: `Free audit — 48 hours.
-1. Sandia/ITAR vocabulary gap — national security community searches campaigns miss
-2. ITAR compliance review — controlled vocabulary in ad content and landing pages
-3. HIPAA compliance — UNM Health patient acquisition violations
-4. Intel Rio Rancho vocabulary — semiconductor enterprise PPC gaps
+  ctaBody: `Free audit  48 hours.
+1. Sandia/ITAR vocabulary gap  national security community searches campaigns miss
+2. ITAR compliance review  controlled vocabulary in ad content and landing pages
+3. HIPAA compliance  UNM Health patient acquisition violations
+4. Intel Rio Rancho vocabulary  semiconductor enterprise PPC gaps
 5. New Mexico CPC efficiency vs Denver/Phoenix national security benchmark
 
 Phone +1-888-555-CLICK | albuquerque@clickmastersdigitalmarketing.com

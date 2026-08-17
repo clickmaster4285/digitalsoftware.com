@@ -3,56 +3,51 @@
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
 
-const awards = [
+const reasons = [
   {
     bg: "#E5B83B",
-    logo: "📊",
-    title: "Data-Driven & Custom-Built Strategies",
-    org: "We don't guess we analyze. Every strategy is built on real data, deep market research, and performance insights. And because no two businesses are alike, we never use cookie-cutter templates. Whether you're a local startup or a national brand, every plan is fully customized around your unique goals, industry, and audience.",
+    logo: "🏆",
+    title: "Proven Track Record",
+    org: "Years of experience driving measurable growth for clients across industries.",
     pattern: "stars",
-    
   },
   {
     bg: "#6C3DF4",
-    logo: "👨‍💻",
-    title: "A Team of Real Experts, Delivering Full-Service Marketing",
-    org: "Behind every campaign is a dedicated team of SEO specialists, paid ads experts, content creators, designers, and developers not interns. From SEO and PPC to web development, social media, AI automation, and ecommerce, we handle everything under one roof. One team. Every service. Zero juggling.",
+    logo: "✅",
+    title: "Certified Experts",
+    org: "Our team holds certifications in Google Ads, Google Analytics, Meta Blueprint, and HubSpot.",
     pattern: "dots",
-   
   },
   {
     bg: "#3DDFB7",
-    logo: "📈",
-    title: "Measurable Results with Full Transparency",
-    org: "We are obsessed with results. Every campaign is tracked, measured, and optimized in real time through clear dashboards and honest reporting. And our pricing is just as transparent no hidden fees, no surprise charges, no confusing contracts. Just real growth you can see and costs you can trust.",
+    logo: "📊",
+    title: "Transparent Reporting",
+    org: "No black-box marketing. You see exactly what we do and the results it drives.",
     pattern: "grid",
     dark: true,
   },
   {
     bg: "#FF6B6B",
-    logo: "🌍",
-    title: "Proven Across Industries, Always Evolving",
-    org: "From healthcare and real estate to fashion, fitness, and fintech we've helped businesses across dozens of industries grow online. We bring proven playbooks to every project, while staying ahead of algorithm updates, platform shifts, and industry trends so your business always leads the competition.",
+    logo: "🎯",
+    title: "Custom Strategies",
+    org: "No cookie-cutter packages. Every plan is built around your specific goals.",
     pattern: "stars",
     dark: true,
   },
   {
     bg: "#111827",
-    logo: "🤝",
-    title: "We Treat Your Business Like Our Own",
-    org: "We go beyond being a vendor we become your true growth partner. We listen, we adapt, and we stay committed to your success because your growth is our growth. Every decision we make is driven by what's best for your bottom line.",
+    logo: "👤",
+    title: "Dedicated Account Management",
+    org: "A real person you can call, not a ticket number.",
     pattern: "dots",
-
-    
   },
   {
     bg: "#FFFFFF",
-    logo: "📞",
-    title: "Dedicated Support, Every Step of the Way",
-    org: "You're never left in the dark at Clickmasters. A dedicated account manager and responsive support team are always available to answer questions, address concerns, and keep you fully informed so you always feel confident, supported, and in control.",
+    logo: "📈",
+    title: "Data-Driven Approach",
+    org: "Every decision backed by analytics, not assumptions.",
     pattern: "grid",
-      dark: true,
-   
+    dark: true,
   },
 ];
 
@@ -94,26 +89,25 @@ export const Awards = () => {
   });
 
   return (
-    <section   id="awards"   ref={ref} className="relative" style={{ height: `${awards.length * 100}vh` }}>
+    <section id="awards" ref={ref} className="relative" style={{ height: `${reasons.length * 100}vh` }}>
       <div className="sticky top-0 h-screen overflow-hidden flex flex-col items-center justify-center">
         <h2 className="font-display text-5xl md:text-8xl text-center leading-[1.05] mb-4 px-6 z-10 pointer-events-none">
-          Why Choose Us as the <em className="text-[#FF3B47]">Best</em>
-          <br />Digital Marketing Company
+          Why Choose Clickmasters as Your{" "}
+          <em className="text-[#FF3B47]">Digital Marketing</em>
+          <br />Company
         </h2>
 
-        
-        <p className="text-center max-w-2xl mx-auto text-lg md:text-base text-muted-foreground mb-12 px-6 z-10 pointer-events-none ">
- Clickmasters is the digital marketing company that actually delivers. We don't just run campaigns we build growth engines tailored to your business, your audience, and your goals. Here's why 200+ businesses across the United States trust us to grow their brand online.
+        <p className="text-center max-w-2xl mx-auto text-lg md:text-base text-muted-foreground mb-12 px-6 z-10 pointer-events-none">
+          We combine certified expertise, transparent reporting, and dedicated account management with no cookie-cutter packages. Every strategy is custom-built around your business, not a template.
         </p>
-        
 
-        <div className="relative w-[280px] h-[340px] md:w-[420px] md:h-[500px]">
-          {awards.map((a, i) => {
-            const start = i / awards.length;
-            const end = (i + 1) / awards.length;
+        {/* Increased card height from w-[280px] h-[340px] to w-[320px] h-[420px] */}
+        <div className="relative w-[320px] h-[420px] md:w-[480px] md:h-[560px]">
+          {reasons.map((a, i) => {
+            const start = i / reasons.length;
+            const end = (i + 1) / reasons.length;
             const mid = (start + end) / 2;
 
-            // Each card slides up into the stack, then the next one covers it
             const y = useTransform(
               scrollYProgress,
               [start, mid, end],
@@ -134,38 +128,40 @@ export const Awards = () => {
               <motion.div
                 key={i}
                 style={{
-                  y, rotate, scale,
+                  y,
+                  rotate,
+                  scale,
                   backgroundColor: a.bg,
                   color: a.dark ? "#0a0a0a" : "#fff",
                   zIndex: i + 1,
                 }}
-                className="absolute inset-0 rounded-3xl shadow-[0_30px_80px_-20px_rgba(0,0,0,0.5)] overflow-hidden p-7 md:p-9 flex flex-col justify-between"
+                // Increased padding from p-7 md:p-9 to p-8 md:p-10 for more breathing room
+                className="absolute inset-0 rounded-3xl shadow-[0_30px_80px_-20px_rgba(0,0,0,0.5)] overflow-hidden p-8 md:p-10 flex flex-col justify-between"
               >
                 <Pattern type={a.pattern} />
                 <div className="relative flex items-start justify-between">
-                  <div className="w-12 h-12 md:w-16 md:h-16 rounded-full bg-white/90 text-zinc-900 flex items-center justify-center font-display text-3xl md:text-4xl">
+                  {/* Slightly larger icon */}
+                  <div className="w-14 h-14 md:w-20 md:h-20 rounded-full bg-white/90 text-zinc-900 flex items-center justify-center font-display text-4xl md:text-5xl">
                     {a.logo}
                   </div>
                   <span className="text-xs uppercase tracking-widest opacity-70">
-                    {String(i + 1).padStart(2, "0")} / {String(awards.length).padStart(2, "0")}
+                    {String(i + 1).padStart(2, "0")} / {String(reasons.length).padStart(2, "0")}
                   </span>
                 </div>
-                <div className="relative">
-                  <h3 className="font-display text-3xl md:text-5xl leading-[1.05] whitespace-pre-line mb-6">
+                <div className="relative flex-1 flex flex-col justify-center">
+                  <h3 className="font-display text-3xl md:text-5xl leading-[1.05] whitespace-pre-line mb-4">
                     {a.title}
                   </h3>
-                  <div className="text-xs uppercase tracking-widest opacity-80">{a.org}</div>
+                  {/* Increased text size and improved readability */}
+                  <div className="text-sm md:text-base leading-relaxed opacity-80 max-w-md">
+                    {a.org}
+                  </div>
                 </div>
               </motion.div>
             );
           })}
         </div>
       </div>
-      
-
-
-
-      
     </section>
   );
 };

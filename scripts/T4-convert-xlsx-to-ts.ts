@@ -361,9 +361,9 @@ function processFile(filename: string): any {
     const wordCount = parseWordCount(mergedData['WORD COUNT']);
     const faqSchema = mergedData['FAQ SCHEMA'] || null;
     const faqs = parseFAQFromSchema(faqSchema);
-    const faqTitle = mergedData['H2 — FAQ'] || '';
+    const faqTitle = mergedData['H2  FAQ'] || '';
     
-    const pas = mergedData['SECTION — PAS'] || mergedData['SECTION — BAB'] || '';
+    const pas = mergedData['SECTION  PAS'] || mergedData['SECTION  BAB'] || '';
     const services = mergedData['SERVICES'] || '';
     const breadcrumb = mergedData['BREADCRUMB'] || '';
     const pricing = mergedData['PRICING'] || '';
@@ -464,7 +464,7 @@ function generateSingleFile(allData: any[]) {
     const varName = data.fileName.replace(/^T[34]-/, '').replace(/-/g, '_');
     
     // Clean features
-    let featuresText = contentData['SECTION — FAB'] || '';
+    let featuresText = contentData['SECTION  FAB'] || '';
     if (featuresText) {
       featuresText = featuresText.replace(/^FEATURES:\s*\n?/i, '');
       featuresText = featuresText.replace(/FEATURES:\s*/gi, '');
@@ -512,7 +512,7 @@ function generateSingleFile(allData: any[]) {
     content += `  faqs: ${JSON.stringify(faqs, null, 2)},\n`;
     content += `  faqsAlt: ${formatValue(faqsAlt)},\n`;
     content += `  faqSchema: ${formatValue(contentData['FAQ SCHEMA'] || null)},\n`;
-    content += `  cta: ${formatValue(contentData['H2 — CTA'] || '')},\n`;
+    content += `  cta: ${formatValue(contentData['H2  CTA'] || '')},\n`;
     content += `  ctaBody: ${formatValue(ctaBody)},\n`;
     content += `  internalLinks: ${formatValue(linksArray)},\n`;
     content += `  \n`;

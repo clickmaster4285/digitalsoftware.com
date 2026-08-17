@@ -1,225 +1,352 @@
 export const SeoServicesContent = {
-	slug: "seo-services",
-	metadata: {
-		url: "/search-engine-optimization",
-		seoTitle: "SEO Services That Drive Real Revenue Clickmasters Digital Marketing",
-		metaDescription:
-			"Clickmasters delivers data-driven SEO services across the USA, UK, UAE and Pakistan. 3,500+ businesses grown. Get a free SEO audit and see what's costing you rankings today.",
-		schema: "Service + FAQPage + Organization",
-		author: "Amjad Khan, CEO Clickmasters Digital Marketing",
-		primaryKeyword: "seo services",
-		secondaryKeywords: ["seo agency", "seo company", "search engine optimization services"],
-		wordCount: "~5,000 words",
-		internalLinks: "/technical-seo-services/, /local-seo/, /on-page-seo/, /off-page-seo/, /ai-seo/, /contact/",
-	},
-	hero: {
-		tag: "SEO Services",
-		title: "SEO Services That Drive",
-		titleHighlight: "Real Revenue",
-		subtitle: "— Clickmasters",
-		description:
-			"Data-driven SEO services across USA, UK, UAE & Pakistan. 3,500+ businesses grown. Get your free SEO audit today and see exactly what's suppressing your rankings.",
-		stats: [
-			{ k: "3,500+", v: "businesses helped" },
-			{ k: "110,000/mo", v: "primary keyword volume (seo services)" },
-			{ k: "31 months", v: "average client retention" },
-		],
-	},
-	intro: {
-		problem:
-			"Search engine optimization is the practice of improving a website's visibility in organic search. Many agencies deliver vanity metrics rankings that don't convert. Our approach starts with the single question: which keywords will directly increase your revenue?",
-		solution:
-			"We build campaigns mapped to revenue outcomes: technical foundation, intent-aligned content, conversion-focused pages, and authority-building link programs that produce measurable inbound leads.",
-		promise:
-			"You will get a prioritized roadmap, measurable targets for 90/180/365 days, and reporting tied to revenue rather than rankings alone.",
-	},
-	features: {
-		title: "Our SEO Services The Full Clickmasters Stack",
-		items: [
-			{
-				id: "technical-seo",
-				title: "Technical SEO The Foundation Everything Else Builds On",
-				body:
-					"Comprehensive technical audits (crawlability, indexation, Core Web Vitals, site architecture, schema, HTTPS, mobile & accessibility). We fix crawl blocks, improve LCP/INP/CLS, rebuild internal linking, and implement structured data to enable rich results.",
-			},
-			{
-				id: "on-page-seo",
-				title: "On-Page SEO Optimizing Every Page for Maximum Relevance",
-				body:
-					"Intent mapping, title/meta optimization, content optimization (headings, semantics, multimedia), and E-E-A-T signals through author bios and cited sources all designed to satisfy searcher intent and convert traffic.",
-			},
-			{
-				id: "off-page-seo",
-				title: "Off-Page SEO & Link Building Authority That Compounds",
-				body:
-					"Digital PR, resource outreach, broken-link replacement, HARO placement and competitor link gap closing. We focus on earned, contextual links from high-authority, relevant domains.",
-			},
-			{
-				id: "local-seo",
-				title: "Local SEO Dominating Your Geographic Market",
-				body:
-					"Google Business Profile optimisation, local citation building, location landing pages, review velocity systems, and localized content for multi-location brands.",
-			},
-			{
-				id: "content-seo",
-				title: "Content Marketing and SEO Organic Traffic That Converts",
-				body:
-					"Topic cluster architecture, detailed content briefs, specialist writers, and content refreshing to prevent decay and sustain rankings and conversions.",
-			},
-			{
-				id: "ai-seo",
-				title: "AI SEO, AEO and GEO The Future of Search",
-				body:
-					"Answer Engine Optimization (AEO), Generative Engine Optimization, LLM citation optimisation and Google AI Overviews optimisation to secure visibility in zero-click and AI-driven answers.",
-			},
-		],
-	},
-	process: {
-		title: "The Clickmasters SEO Process From Audit to Revenue",
-		timeline: [
-			{
-				month: "Month 1",
-				title: "Discovery and Foundation",
-				body:
-					"Comprehensive technical audit, competitor analysis, keyword mapping and a prioritized roadmap with 90/180/365 day targets.",
-			},
-			{
-				month: "Months 2–3",
-				title: "Technical & On-Page Sprint",
-				body:
-					"Fix technical issues, rebuild internal linking, optimise high-potential pages and begin content production. Expect measurable ranking improvements during this phase.",
-			},
-			{
-				month: "Months 4–6",
-				title: "Content & Authority Building",
-				body:
-					"Scale content production and begin link acquisition; organic traffic growth begins to compound as new content ranks and authority increases.",
-			},
-			{
-				month: "Month 6+",
-				title: "Compounding Growth",
-				body:
-					"Expand keyword clusters, geographic targets and formats as authority grows; SEO becomes a compounding asset rather than a recurring cost.",
-			},
-		],
-	},
-	
-	cases: [
-		{
-			tag: "Healthcare Practice",
-			metric: "312%",
-			sub: "increase in patient inquiries",
-			title:
-				"Multi-location medical practice: technical remediation, 28 new landing pages, GBP optimisation 4,100 monthly organic visitors; 312% increase in bookings.",
-			body: "Full technical remediation, content and GBP work produced transformational traffic and bookings within 12 months.",
-		},
-		{
-			tag: "B2B SaaS",
-			metric: "Position 1",
-			sub: "organic rankings for category keyword",
-			title:
-				"SaaS platform: pillar page + 14 cluster articles + link campaign → position 1 for primary category and $380k annual organic revenue uplift.",
-			body: "Topic cluster architecture and targeted link building drove top rankings and meaningful revenue.",
-		},
-		{
-			tag: "E‑commerce Fashion",
-			metric: "14,000",
-			sub: "monthly organic visitors",
-			title: "Fashion e‑commerce: long-tail domination and outreach → 14k monthly visitors in 14 months.",
-			body: "Long-tail content, collection optimisation and earned media drove sustained growth.",
-		},
-	],
-	why: [
-		{
-			h: "Revenue partner, not a rankings agency",
-			p: "Everything we do is judged by revenue impact: leads, calls, purchases and CRM attribution rather than rankings alone.",
-		},
-		{
-			h: "Certified specialists, not generalists",
-			p: "Dedicated technical engineers, content strategists and link builders with industry certifications and domain experience.",
-		},
-		{
-			h: "Full transparency",
-			p: "Complete access to campaign data, content calendar and monthly P&L linking SEO activity to commercial outcomes.",
-		},
-	],
-	pricing: {
-		title: "SEO Pricing What to Expect",
-		tiers: [
-			{ name: "Growth", desc: "SMBs: technical SEO, up to 20 pages, monthly content, foundational link building." },
-			{ name: "Scale", desc: "Established sites: expanded content, aggressive link building, local SEO." },
-			{ name: "Enterprise", desc: "Large, multi-location or high-volume e‑commerce: bespoke scope and dedicated teams." },
-		],
-	},
-	faqs: [
-		{ q: "How long does SEO take to show results?", a: "Initial ranking improvements in 6–12 weeks; significant traffic growth in 3–6 months; ROI typically 9–18 months." },
-		{ q: "What is the difference between SEO and PPC?", a: "PPC is immediate but stops when spend stops. SEO builds a compounding asset that generates traffic long-term." },
-		{ q: "How do you measure SEO success?", a: "We track rankings, traffic and revenue attribution leads, calls and purchases attributed to organic search." },
-		{ q: "Can you guarantee rankings?", a: "No guarantees are unethical. We guarantee transparent methodology and measurable commercial reporting." },
-		{ q: "Will my rankings drop if I stop SEO?", a: "Yes over time. A well-built foundation can sustain traffic 6–18 months without active investment." },
-		{ q: "Do you work internationally?", a: "Yes primary markets: USA, UK, UAE, Pakistan, Canada, Australia." },
-	],
-	schema: {
-  Service: {
-    serviceType: "SEO Services",
-    provider: {
-      name: "Clickmasters Digital Marketing",
-      url: "https://clickmastersdigitalmarketing.com",
-      logo: "https://clickmastersdigitalmarketing.com/logo.png"
+  slug: "seo-services",
+  metadata: {
+    url: "/search-engine-optimization",
+    seoTitle: "SEO Services That Drive Real Revenue | Clickmasters Digital Marketing",
+    metaDescription:
+      "Clickmasters delivers data-driven SEO services across the USA, UK, UAE and Pakistan. 3,500+ businesses grown. Get a free SEO audit and see what's costing you rankings today.",
+    schema: "Service + FAQPage + Organization",
+    author: "Amjad Khan, CEO Clickmasters Digital Marketing",
+    primaryKeyword: "seo services",
+    secondaryKeywords: [
+      "seo agency",
+      "seo company",
+      "search engine optimization services",
+      "affordable seo company",
+      "search engine optimization agency",
+    ],
+    wordCount: "~5,000 words",
+    internalLinks:
+      "/technical-seo-services/, /local-seo/, /on-page-seo/, /off-page-seo/, /ai-seo/, /contact/",
+  },
+
+  hero: {
+    tag: "SEO Services",
+    title: "Search Engine Optimization Services That Grow",
+    titleHighlight: "Traffic, Leads, and Revenue",
+    subtitle: "— Clickmasters Digital Marketing Agency",
+    description:
+      "At Clickmasters Digital Marketing Agency, we deliver search engine optimization services built to increase your rankings, organic traffic, and qualified leads. Our approach combines technical SEO, content strategy, and authority building to help your business grow sustainably. Whether you're a small business, e-commerce brand, or enterprise company, our SEO agency creates strategies tailored to your goals, industry, and audience. We don't just chase rankings—we focus on measurable business outcomes.",
+    stats: [
+      { k: "3,500+", v: "businesses helped" },
+      { k: "110,000/mo", v: "primary keyword volume (seo services)" },
+      { k: "31 months", v: "average client retention" },
+    ],
+    cta: {
+      text: "Book your free SEO consultation today",
+      link: "/contact/",
     },
-    areaServed: ["US", "UK", "UAE", "PK"]
   },
 
-  FAQPage: {
-    items: [
-      "How long does SEO take to show results?",
-      "What is the difference between SEO and PPC?",
-      "How do you measure SEO success?",
-      "Can you guarantee rankings?",
-      "Will my rankings drop if I stop SEO?",
-      "Do you work internationally?"
-    ]
+  intro: {
+    title: "Affordable Search Engine Optimization Company for Long-Term Growth",
+    problem:
+      "Clickmasters Digital Marketing Agency is an affordable search engine optimization company built for businesses that want sustainable, long-term growth rather than short-lived ranking spikes. Our SEO strategies combine technical SEO, content strategy, and authority-building to create a strong foundation that continues to deliver results well beyond the first few months.",
+    solution:
+      "As a trusted SEO agency, we focus on qualified organic traffic, consistent keyword rankings, and measurable revenue growth — not vanity metrics that fail to impact your bottom line. With transparent reporting and a dedicated team of SEO specialists, we help businesses build organic visibility that compounds over time and reduces long-term reliance on paid advertising.",
+    promise:
+      "You will get a prioritized roadmap, measurable targets for 90/180/365 days, and reporting tied to revenue rather than rankings alone.",
   },
 
-  Organization: {
-    name: "Clickmasters Digital Marketing",
-    url: "https://clickmastersdigitalmarketing.com",
-    logo: "https://clickmastersdigitalmarketing.com/logo.png",
-    sameAs: [
-      "https://www.facebook.com/clickmasters",
-      "https://www.instagram.com/clickmasters",
-      "https://www.linkedin.com/company/clickmasters"
-    ]
-  },
-
-  BreadcrumbList: {
+  features: {
+    title: "Our Search Engine Optimization Services?",
+    description:
+      "Clickmasters Digital Marketing Agency offers a full range of search engine optimization services designed to improve your rankings, organic traffic, and revenue. Our SEO services cover every stage of the process, from technical foundations to content, authority building, and AI search visibility.",
     items: [
       {
-        position: 1,
-        name: "Home",
-        url: "https://clickmastersdigitalmarketing.com"
+        id: "seo-audit",
+        title: "SEO Audit Services",
+        body: "Our SEO audit services identify technical issues, content gaps, and missed opportunities across your website. We deliver a prioritized roadmap that shows exactly what to fix first for maximum ranking impact, backed by real data from Google Search Console and technical crawls.",
       },
       {
-        position: 2,
-        name: "SEO Services",
-        url: "https://clickmastersdigitalmarketing.com/search-engine-optimization"
-      }
-    ]
-  }
-},
-	cta: {
-		title: "Ready to Turn Search Visibility Into Business Revenue?",
-		description:
-			"Book your free SEO audit today. We will analyse your site, identify what's suppressing your rankings, and show the specific opportunity your business is sitting on.",
-		contactLink: "/contact/",
-		whatsappLink: "https://wa.me/",
-	},
-	footer: {
-		company: "Clickmasters Digital Marketing | clickmasters.pk",
-		email: "marketing@clickmasters.pk",
-		regions: "USA · UK · UAE · Pakistan · Canada · Australia",
-		author: "Amjad Khan CEO, Clickmasters Digital Marketing. 10+ years",
-	},
+        id: "on-page-seo",
+        title: "On-Page SEO Services",
+        body: "Our on-page SEO services optimize titles, headings, meta descriptions, content, and internal links to improve relevance for both users and search engines. We align every page with search intent and target entities to boost keyword rankings and click-through rates.",
+      },
+      {
+        id: "off-page-seo",
+        title: "Off-Page SEO Services",
+        body: "Our off-page SEO services build domain authority through high-quality backlinks, digital PR, and brand citations. We prioritize earning links from relevant, trustworthy sources rather than chasing volume, helping you rank for competitive commercial keywords.",
+      },
+      {
+        id: "technical-seo",
+        title: "Technical SEO Services",
+        body: "Our technical SEO services fix crawlability, indexing, site speed, and Core Web Vitals issues that prevent search engines from properly accessing your website. A technically sound site is the foundation every other SEO service depends on.",
+      },
+      {
+        id: "local-seo",
+        title: "Local SEO Services",
+        body: "Our local SEO services optimize your Google Business Profile, local citations, and location-specific content to improve visibility in Google Maps and local search results. This helps nearby customers discover and choose your business faster.",
+      },
+      {
+        id: "ecommerce-seo",
+        title: "Ecommerce SEO Services",
+        body: "Our e-commerce SEO services improve product and category page visibility through structured navigation, schema markup, and optimized product content. We help online stores increase organic traffic and drive more qualified sales.",
+      },
+      {
+        id: "white-label-seo",
+        title: "White Label SEO Services",
+        body: "Our white label SEO services help agencies and consultants scale client delivery without hiring in-house specialists. We handle audits, strategy, content, and reporting under your brand, backed by our proven SEO processes.",
+      },
+      {
+        id: "enterprise-seo",
+        title: "Enterprise SEO Services",
+        body: "Our enterprise SEO services support large, complex websites with advanced technical SEO, scalable content production, and dedicated account management. We help enterprise brands maintain rankings and visibility across highly competitive markets.",
+      },
+    ],
+    cta: {
+      text: "Book your free SEO consultation today",
+      link: "/contact/",
+    },
+  },
+
+  topRated: {
+    title: "Top-Rated Search Engine Optimization Agency in US",
+    body: "Looking for a top-rated search engine optimization agency in the US that actually delivers results? Clickmasters Digital Marketing Agency helps businesses nationwide climb rankings, drive qualified organic traffic, and turn visitors into paying customers. From small businesses to fast-growing e-commerce brands, our clients trust us to grow their revenue — not just their traffic numbers. As a leading search engine optimization company, we back every strategy with real case studies, transparent reporting, and a proven process built for results. If you're ready to outrank your competitors and grow your business online, partner with an SEO agency that puts your ROI first.",
+  },
+
+  process: {
+    title: "Our Search Engine Optimization Process",
+    description:
+      "At Clickmasters Digital Marketing Agency, we follow a structured search engine optimization process built on research, strategy, and continuous refinement. Every step is designed to move your website toward stronger rankings, qualified organic traffic, and measurable business growth.",
+    timeline: [
+      {
+        month: "Step 1",
+        title: "Discovery and Goal Setting",
+        body: "We learn your business, audience, and competitive landscape before building any strategy.",
+      },
+      {
+        month: "Step 2",
+        title: "Website and Competitor Audit",
+        body: "We conduct a comprehensive SEO audit to identify technical issues and growth opportunities.",
+      },
+      {
+        month: "Step 3",
+        title: "Keyword and Intent Research",
+        body: "We perform in-depth keyword research mapped to real search intent and buyer behavior.",
+      },
+      {
+        month: "Step 4",
+        title: "Strategy, Content, and Technical Implementation",
+        body: "We execute on-page SEO, technical fixes, and content strategy based on priority impact.",
+      },
+      {
+        month: "Step 5",
+        title: "Authority Building and Performance Reporting",
+        body: "We build backlinks, track rankings and organic traffic, and refine the strategy through ongoing SEO reporting.",
+      },
+    ],
+  },
+
+  why: {
+    title: "Why Choose Clickmasters Digital Marketing Agency?",
+    description:
+      "Choosing the right SEO agency can make or break your organic growth. At Clickmasters Digital Marketing Agency, we combine technical expertise, transparent reporting, and proven results to help businesses across the US improve their search visibility and grow qualified organic traffic.",
+    items: [
+      {
+        h: "SEO strategies",
+        p: "No generic templates; every campaign is built around your business goals, industry, and target audience.",
+      },
+      {
+        h: "Dedicated SEO specialists",
+        p: "Work directly with experienced professionals who understand technical SEO, content, and link building.",
+      },
+      {
+        h: "Transparent reporting",
+        p: "Monthly dashboards covering rankings, traffic, leads, and revenue, so you always know what's working.",
+      },
+      {
+        h: "Proven track record",
+        p: "Years of experience delivering measurable results across small businesses, ecommerce, and enterprise clients.",
+      },
+      {
+        h: "Full-service SEO",
+        p: "From technical audits to content strategy, local SEO, and AI search optimization, all under one roof.",
+      },
+    ],
+  },
+
+  ctaMid: {
+    title: "Ready to Grow Your Organic Traffic?",
+    description:
+      "Request an SEO opportunity analysis from Clickmasters Digital Marketing Agency and discover exactly how we can improve your rankings, traffic, and revenue.",
+    buttonText: "Book Your Free SEO Consultation",
+    contactLink: "/contact/",
+  },
+
+  pricing: {
+    title: "Our SEO Packages",
+    description:
+      "We offer flexible SEO packages designed to fit different business sizes, industries, and growth goals. Whether you're a small business looking for affordable SEO services or an enterprise needing a comprehensive, multi-location strategy, we have an engagement option built around your needs.",
+    tiers: [
+      {
+        name: "Starter SEO Package",
+        desc: "Ideal for small businesses and local companies looking to improve local search engine optimization services, Google Business Profile visibility, and foundational on-page SEO.",
+      },
+      {
+        name: "Growth SEO Package",
+        desc: "Designed for growing businesses that need technical SEO, content strategy, and link-building services to compete for more competitive commercial keywords.",
+      },
+      {
+        name: "Enterprise SEO Package",
+        desc: "Built for large websites, e-commerce stores, and multi-location businesses requiring advanced technical SEO, extensive content production, and dedicated account management.",
+      },
+    ],
+  },
+
+  industries: {
+    title: "Professional SEO Services for Every Industry",
+    description:
+      "No two industries approach search engine optimization the same way, which is why Clickmasters Digital Marketing Agency builds industry-specific strategies rather than applying a generic template to every client. Our professional SEO services are tailored to the unique challenges, audience behavior, and level of competition in each sector we serve.",
+    items: [
+      {
+        id: "ecommerce",
+        title: "Ecommerce SEO",
+        body: "We optimize product pages, category structures, and schema markup to improve product discovery and search rankings. Our e-commerce SEO services help online stores drive qualified organic traffic and increase conversions.",
+      },
+      {
+        id: "b2b",
+        title: "B2B SEO",
+        body: "Our B2B SEO strategies focus on longer sales cycles by targeting decision-makers with content aligned with search intent and business goals. This approach generates qualified leads rather than just traffic.",
+      },
+      {
+        id: "saas",
+        title: "SaaS SEO",
+        body: "We combine technical SEO and content strategy to help software companies rank for competitive, high-intent keywords. Our SEO services for SaaS brands focus on scalable, sustainable organic growth.",
+      },
+      {
+        id: "local-business",
+        title: "Local Business SEO",
+        body: "From restaurants to service providers, our local search engine optimization services optimize Google Business Profiles and local citations. This helps nearby customers find and choose your business faster.",
+      },
+      {
+        id: "healthcare",
+        title: "Healthcare SEO",
+        body: "We manage the technical complexity of regulated, content-heavy healthcare websites through structured technical SEO and compliant content strategy. This improves visibility while maintaining accuracy and trust.",
+      },
+      {
+        id: "enterprise",
+        title: "Enterprise SEO",
+        body: "Our enterprise SEO services support large, multi-location websites with advanced technical SEO, content production, and dedicated reporting. We help enterprise brands maintain rankings across competitive markets.",
+      },
+    ],
+  },
+
+  cases: [
+    {
+      tag: "Healthcare Practice",
+      metric: "312%",
+      sub: "increase in patient inquiries",
+      title:
+        "Multi-location medical practice: technical remediation, 28 new landing pages, GBP optimisation → 4,100 monthly organic visitors; 312% increase in bookings.",
+      body: "Full technical remediation, content and GBP work produced transformational traffic and bookings within 12 months.",
+    },
+    {
+      tag: "B2B SaaS",
+      metric: "Position 1",
+      sub: "organic rankings for category keyword",
+      title:
+        "SaaS platform: pillar page + 14 cluster articles + link campaign → position 1 for primary category and $380k annual organic revenue uplift.",
+      body: "Topic cluster architecture and targeted link building drove top rankings and meaningful revenue.",
+    },
+    {
+      tag: "E‑commerce Fashion",
+      metric: "14,000",
+      sub: "monthly organic visitors",
+      title:
+        "Fashion e‑commerce: long-tail domination and outreach → 14k monthly visitors in 14 months.",
+      body: "Long-tail content, collection optimisation and earned media drove sustained growth.",
+    },
+  ],
+
+  faqs: [
+    {
+      q: "What does an SEO company do?",
+      a: "An SEO company improves your website's visibility on search engines through technical SEO, keyword research, content strategy, and link building. This helps drive more qualified organic traffic, leads, and revenue for your business.",
+    },
+    {
+      q: "How long does it take to see results from SEO?",
+      a: "Technical fixes and low-competition keywords can show early improvements within a few weeks. Competitive commercial keywords usually take several months of sustained SEO effort to rank well.",
+    },
+    {
+      q: "How do I know if SEO is working?",
+      a: "You can track SEO success through keyword rankings, organic traffic growth, and qualified lead generation over time. A reliable SEO agency provides regular reporting showing these performance metrics clearly.",
+    },
+    {
+      q: "Can I do SEO myself, or should I hire an SEO agency?",
+      a: "Basic SEO tasks can be done in-house, but technical SEO, link building, and content strategy often require specialized expertise. An experienced SEO agency brings tools, processes, and industry knowledge that speed up results.",
+    },
+    {
+      q: "Do businesses need ongoing SEO services?",
+      a: "Yes, SEO is an ongoing process since search algorithms, competitors, and content needs constantly evolve. Continuous optimization helps maintain and improve your rankings over time.",
+    },
+    {
+      q: "How does SEO help with AI search visibility?",
+      a: "Strong technical SEO and clear entity structuring help your content get pulled into AI overviews, ChatGPT, and Perplexity responses. Traditional SEO remains the foundation for visibility across both search engines and AI platforms.",
+    },
+  ],
+
+  schema: {
+    Service: {
+      serviceType: "SEO Services",
+      provider: {
+        name: "Clickmasters Digital Marketing",
+        url: "https://clickmastersdigitalmarketing.com",
+        logo: "https://clickmastersdigitalmarketing.com/logo.png",
+      },
+      areaServed: ["US", "UK", "UAE", "PK"],
+    },
+    FAQPage: {
+      items: [
+        "What does an SEO company do?",
+        "How long does it take to see results from SEO?",
+        "How do I know if SEO is working?",
+        "Can I do SEO myself, or should I hire an SEO agency?",
+        "Do businesses need ongoing SEO services?",
+        "How does SEO help with AI search visibility?",
+      ],
+    },
+    Organization: {
+      name: "Clickmasters Digital Marketing",
+      url: "https://clickmastersdigitalmarketing.com",
+      logo: "https://clickmastersdigitalmarketing.com/logo.png",
+      sameAs: [
+        "https://www.facebook.com/clickmasters",
+        "https://www.instagram.com/clickmasters",
+        "https://www.linkedin.com/company/clickmasters",
+      ],
+    },
+    BreadcrumbList: {
+      items: [
+        {
+          position: 1,
+          name: "Home",
+          url: "https://clickmastersdigitalmarketing.com",
+        },
+        {
+          position: 2,
+          name: "SEO Services",
+          url: "https://clickmastersdigitalmarketing.com/search-engine-optimization",
+        },
+      ],
+    },
+  },
+
+  cta: {
+    title: "Ready to Turn Search Visibility Into Business Revenue?",
+    description:
+      "Book your free SEO audit today. We will analyse your site, identify what's suppressing your rankings, and show the specific opportunity your business is sitting on.",
+    contactLink: "/contact/",
+    whatsappLink: "https://wa.me/",
+    buttonText: "Book Your Free SEO Consultation",
+  },
+
+  footer: {
+    company: "Clickmasters Digital Marketing | clickmasters.pk",
+    email: "marketing@clickmasters.pk",
+    regions: "USA · UK · UAE · Pakistan · Canada · Australia",
+    author: "Amjad Khan CEO, Clickmasters Digital Marketing. 10+ years",
+  },
 };
 
 export const SocialMediaMarketingContent = {

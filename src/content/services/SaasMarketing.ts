@@ -12,7 +12,7 @@ export const SaasMarketingContent = {
     tag: "[ Industry · SaaS ]",
     title: "SaaS Marketing",
     titleHighlight: "Agency",
-    subtitle: "— reduce CAC, improve trial conversion, grow MRR.",
+    subtitle: " reduce CAC, improve trial conversion, grow MRR.",
     description:
       "Before: your SaaS is spending more on customer acquisition than the economics of the product can sustainably support. CAC is climbing as paid search CPCs increase with competition. Trial-to-paid conversion sits at 8% when the category benchmark is 15-25%. Churn is eroding the MRR growth that marketing generates. After: CAC is declining as organic search, product virality, and community-led acquisition reduce the proportion of growth that requires paid advertising spend. Trial conversion has improved. MRR is growing compoundly rather than additionally.",
     stats: [

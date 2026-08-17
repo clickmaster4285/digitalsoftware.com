@@ -11,12 +11,12 @@ export const EmailMarketing_NewOrleans = {
   citySlug: "new-orleans",
   slug: "/email-marketing-new-orleans/",
   
-  h1: `Email Marketing New Orleans — Ochsner/Tulane HIPAA Pipeline, Entergy Utility Nurture, and Mardi Gras/Jazz Fest Convention Calendar Revenue`,
+  h1: `Email Marketing New Orleans  Ochsner/Tulane HIPAA Pipeline, Entergy Utility Nurture, and Mardi Gras/Jazz Fest Convention Calendar Revenue`,
   primaryKw: `email marketing agency new orleans`,
-  formula: `FAB — Ochsner/Tulane/LSU Health HIPAA HubSpot pipeline + Entergy utility grid modernisation nurture + Port maritime logistics + convention hospitality Mardi Gras/Jazz Fest seasonal-aware email calendar + Klaviyo consumer NOLA brand`,
+  formula: `FAB  Ochsner/Tulane/LSU Health HIPAA HubSpot pipeline + Entergy utility grid modernisation nurture + Port maritime logistics + convention hospitality Mardi Gras/Jazz Fest seasonal-aware email calendar + Klaviyo consumer NOLA brand`,
   seoTitle: `Email Marketing New Orleans | Ochsner/Tulane HIPAA Pipeline & Mardi Gras Calendar | Clickmasters`,
   meta: `Clickmasters email marketing in New Orleans. Ochsner/Tulane HIPAA health IT pipeline, Entergy utility nurture, and Mardi Gras/Jazz Fest convention hospitality seasonal-aware email. Free audit.`,
-  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters — New Orleans Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-new-orleans/","address":{"@type":"PostalAddress","addressLocality":"New Orleans","addressRegion":"LA","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
+  schema: `{"@context":"https://schema.org","@type":["LocalBusiness","ProfessionalService"],"name":"Clickmasters  New Orleans Email Marketing","url":"https://clickmastersdigitalmarketing.com/email-marketing-new-orleans/","address":{"@type":"PostalAddress","addressLocality":"New Orleans","addressRegion":"LA","addressCountry":"US"},"serviceType":"Email Marketing","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"94","bestRating":"5"}}`,
   wordCount: 3600,
   breadcrumb: ``,
   geoAeoBlock: `WHAT IS EMAIL MARKETING IN NEW ORLEANS?
@@ -27,7 +27,7 @@ OCHSNER/TULANE HIPAA HEALTH IT PIPELINE EMAIL: Ochsner Health and Tulane Univers
 
 ENTERGY CORPORATION UTILITY TECHNOLOGY NURTURE: Entergy New Orleans' utility technology procurement cycles run 90-180 days. Email nurture maintaining Entergy procurement contact relationships requires Entergy-specific operational vocabulary: grid modernisation programme intelligence, rate case regulatory updates, integrated resource planning news, and the Louisiana utility operational content that Entergy technology procurement staff consumes professionally.
 
-MARDI GRAS/JAZZ FEST CONVENTION HOSPITALITY SEASONAL EMAIL: New Orleans' convention and hospitality technology procurement follows the Crescent City events calendar — the most commercially leverageable events calendar of any US city. Convention management technology, hotel revenue management, and event analytics vendors who calibrate email timing to New Orleans' Mardi Gras (February/March) pre-season, Jazz Fest (April-May), and holiday Essence Festival (July) windows earn 3-4x above-average engagement from New Orleans' world-class convention and hospitality technology procurement community.`,
+MARDI GRAS/JAZZ FEST CONVENTION HOSPITALITY SEASONAL EMAIL: New Orleans' convention and hospitality technology procurement follows the Crescent City events calendar  the most commercially leverageable events calendar of any US city. Convention management technology, hotel revenue management, and event analytics vendors who calibrate email timing to New Orleans' Mardi Gras (February/March) pre-season, Jazz Fest (April-May), and holiday Essence Festival (July) windows earn 3-4x above-average engagement from New Orleans' world-class convention and hospitality technology procurement community.`,
   features: `Ochsner/Tulane HIPAA Health IT Pipeline HubSpot:
 For New Orleans health IT vendors. Ochsner Health cardiac/oncology clinical outcome analytics updates. Tulane School of Medicine research programme intelligence. LSU Health Sciences Center operational content. HubSpot Ochsner/Tulane/LSU named account sequences. 90-180 day Louisiana academic health system procurement triggers. HIPAA-compliant email data handling.
 
@@ -38,22 +38,22 @@ Mardi Gras/Jazz Fest Convention Hospitality Seasonal Email:
 For New Orleans hospitality technology vendors. Mardi Gras pre-season email (January-February): convention capacity analytics pre-season content. Jazz Fest season email (April-May): event management technology operational content. Summer Essence Festival (July): visitor economy analytics. Post-season operational improvement (August-December). HubSpot Morial Convention Center named account sequences.`,
   pas: ``,
   services: ``,
-  caseStudies: `Case Study 1: New Orleans Health IT — Ochsner/Tulane HIPAA Pipeline
+  caseStudies: `Case Study 1: New Orleans Health IT  Ochsner/Tulane HIPAA Pipeline
 Client: Clinical analytics, New Orleans (\$5.4M ARR). Challenge: Ochsner/Tulane contacts cold. Generic health IT newsletter below YMYL standard.
 Programme: Ochsner/Tulane/LSU Health academic email content + HIPAA-compliant + named sequences + 90-day procurement triggers
 Results: Ochsner re-engagement: 44% | Tulane re-engagement: 40% | Louisiana YMYL precision: Ochsner team cited as 'only New Orleans health IT vendor email at Tulane academic clinical vocabulary' | HIPAA: clean | Pipeline: \$1.4M
 
-Case Study 2: New Orleans Energy Technology — Entergy Utility Nurture
+Case Study 2: New Orleans Energy Technology  Entergy Utility Nurture
 Client: Utility SaaS, New Orleans (\$5.4M ARR). Challenge: Entergy contacts cold. Generic energy newsletter.
 Programme: Entergy grid modernisation/rate case email + named sequences + 90-day utility triggers
 Results: Entergy re-engagement: 42% | Grid modernisation content: Entergy procurement cited operational specificity | Pipeline: \$1.2M
 
-Case Study 3: New Orleans Convention Tech — Mardi Gras/Jazz Fest Seasonal Email
+Case Study 3: New Orleans Convention Tech  Mardi Gras/Jazz Fest Seasonal Email
 Client: Event technology SaaS, New Orleans (\$3.8M ARR). Challenge: Generic quarterly email. Mardi Gras/Jazz Fest calendar unaware. Convention community not engaging.
 Programme: Mardi Gras pre-season email (January) + Jazz Fest event management (April) + Essence Festival (July) + Morial Convention named sequences
 Results: Mardi Gras pre-season: 4.0x above average | Jazz Fest: 3.8x | Convention procurement cited as 'only vendor email anticipating New Orleans event season rhythm' | Pipeline: \$900K`,
   pricing: ``,
-  faqTitle: `FAQs — Email Marketing New Orleans`,
+  faqTitle: `FAQs  Email Marketing New Orleans`,
   faqs: [
   {
     "question": "How much does email marketing cost in New Orleans?",
@@ -61,15 +61,15 @@ Results: Mardi Gras pre-season: 4.0x above average | Jazz Fest: 3.8x | Conventio
   },
   {
     "question": "What is the Mardi Gras/Jazz Fest convention hospitality seasonal email strategy for New Orleans?",
-    "answer": "New Orleans annual events calendar email timing: January-February (Mardi Gras pre-season — convention capacity analytics and hospitality technology content); April-May (Jazz Fest season — event management technology operational intelligence); July (Essence Festival — visitor economy analytics content); August-December (post-season operational improvement planning). Convention and hospitality vendors whose email anticipates these windows earn 3-4x above-average engagement from New Orleans' world-class convention community."
+    "answer": "New Orleans annual events calendar email timing: January-February (Mardi Gras pre-season  convention capacity analytics and hospitality technology content); April-May (Jazz Fest season  event management technology operational intelligence); July (Essence Festival  visitor economy analytics content); August-December (post-season operational improvement planning). Convention and hospitality vendors whose email anticipates these windows earn 3-4x above-average engagement from New Orleans' world-class convention community."
   },
   {
     "question": "What is Ochsner/Tulane HIPAA health IT pipeline email for New Orleans businesses?",
-    "answer": "Ochsner Health cardiac outcome analytics updates, Tulane School of Medicine clinical research programme intelligence, LSU Health Sciences Center operational content — maintaining Ochsner, Tulane, and LSU Health procurement contact relationships through 90-180 day Louisiana academic health system evaluation cycles with HIPAA-compliant email data handling throughout."
+    "answer": "Ochsner Health cardiac outcome analytics updates, Tulane School of Medicine clinical research programme intelligence, LSU Health Sciences Center operational content  maintaining Ochsner, Tulane, and LSU Health procurement contact relationships through 90-180 day Louisiana academic health system evaluation cycles with HIPAA-compliant email data handling throughout."
   },
   {
     "question": "Does Clickmasters serve Metairie, Baton Rouge, Covington, and Greater New Orleans?",
-    "answer": "Yes — all of Greater New Orleans MSA."
+    "answer": "Yes  all of Greater New Orleans MSA."
   },
   {
     "question": "How long does Ochsner/Tulane email produce health IT pipeline results?",
@@ -77,18 +77,18 @@ Results: Mardi Gras pre-season: 4.0x above average | Jazz Fest: 3.8x | Conventio
   },
   {
     "question": "What makes New Orleans convention hospitality email marketing calendar uniquely commercially leverageable?",
-    "answer": "No US city has New Orleans' combination of commercially leverageable events — Mardi Gras, Jazz Fest, French Quarter Festival, Essence Festival, and the Saints/Pelicans season creating predictable annual engagement windows throughout the calendar year. Convention management technology, hotel revenue management, and event analytics vendors who systematically anticipate each NOLA seasonal window earn sustained above-average engagement throughout the year rather than one or two seasonal peaks."
+    "answer": "No US city has New Orleans' combination of commercially leverageable events  Mardi Gras, Jazz Fest, French Quarter Festival, Essence Festival, and the Saints/Pelicans season creating predictable annual engagement windows throughout the calendar year. Convention management technology, hotel revenue management, and event analytics vendors who systematically anticipate each NOLA seasonal window earn sustained above-average engagement throughout the year rather than one or two seasonal peaks."
   }
 ],
   faqsAlt: ``,
-  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in New Orleans?","acceptedAnswer":{"@type":"Answer","text":"New Orleans email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). Ochsner/Tulane HIPAA health IT pipeline. Entergy utility nurture. Mardi Gras/Jazz Fest convention seasonal. Louisiana retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is the Mardi Gras/Jazz Fest convention hospitality seasonal email strategy for New Orleans?","acceptedAnswer":{"@type":"Answer","text":"New Orleans annual events calendar email timing: January-February (Mardi Gras pre-season — convention capacity analytics and hospitality technology content); April-May (Jazz Fest season — event management technology operational intelligence); July (Essence Festival — visitor economy analytics content); August-December (post-season operational improvement planning). Convention and hospitality vendors whose email anticipates these windows earn 3-4x above-average engagement from New Orleans' world-class convention community."}},{"@type":"Question","name":"What is Ochsner/Tulane HIPAA health IT pipeline email for New Orleans businesses?","acceptedAnswer":{"@type":"Answer","text":"Ochsner Health cardiac outcome analytics updates, Tulane School of Medicine clinical research programme intelligence, LSU Health Sciences Center operational content — maintaining Ochsner, Tulane, and LSU Health procurement contact relationships through 90-180 day Louisiana academic health system evaluation cycles with HIPAA-compliant email data handling throughout."}},{"@type":"Question","name":"Does Clickmasters serve Metairie, Baton Rouge, Covington, and Greater New Orleans?","acceptedAnswer":{"@type":"Answer","text":"Yes — all of Greater New Orleans MSA."}},{"@type":"Question","name":"How long does Ochsner/Tulane email produce health IT pipeline results?","acceptedAnswer":{"@type":"Answer","text":"Ochsner/Tulane re-engagement: 21-30 days. Louisiana academic health system evaluation invitations: 90-150 days. Full Ochsner/Tulane health IT pipeline: 6-10 months."}},{"@type":"Question","name":"What makes New Orleans convention hospitality email marketing calendar uniquely commercially leverageable?","acceptedAnswer":{"@type":"Answer","text":"No US city has New Orleans' combination of commercially leverageable events — Mardi Gras, Jazz Fest, French Quarter Festival, Essence Festival, and the Saints/Pelicans season creating predictable annual engagement windows throughout the calendar year. Convention management technology, hotel revenue management, and event analytics vendors who systematically anticipate each NOLA seasonal window earn sustained above-average engagement throughout the year rather than one or two seasonal peaks."}}]}`,
+  faqSchema: `{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How much does email marketing cost in New Orleans?","acceptedAnswer":{"@type":"Answer","text":"New Orleans email marketing: \$750/month (Foundation) to \$8,000+/month (Enterprise). Ochsner/Tulane HIPAA health IT pipeline. Entergy utility nurture. Mardi Gras/Jazz Fest convention seasonal. Louisiana retainers competitive. 90-day guarantee."}},{"@type":"Question","name":"What is the Mardi Gras/Jazz Fest convention hospitality seasonal email strategy for New Orleans?","acceptedAnswer":{"@type":"Answer","text":"New Orleans annual events calendar email timing: January-February (Mardi Gras pre-season  convention capacity analytics and hospitality technology content); April-May (Jazz Fest season  event management technology operational intelligence); July (Essence Festival  visitor economy analytics content); August-December (post-season operational improvement planning). Convention and hospitality vendors whose email anticipates these windows earn 3-4x above-average engagement from New Orleans' world-class convention community."}},{"@type":"Question","name":"What is Ochsner/Tulane HIPAA health IT pipeline email for New Orleans businesses?","acceptedAnswer":{"@type":"Answer","text":"Ochsner Health cardiac outcome analytics updates, Tulane School of Medicine clinical research programme intelligence, LSU Health Sciences Center operational content  maintaining Ochsner, Tulane, and LSU Health procurement contact relationships through 90-180 day Louisiana academic health system evaluation cycles with HIPAA-compliant email data handling throughout."}},{"@type":"Question","name":"Does Clickmasters serve Metairie, Baton Rouge, Covington, and Greater New Orleans?","acceptedAnswer":{"@type":"Answer","text":"Yes  all of Greater New Orleans MSA."}},{"@type":"Question","name":"How long does Ochsner/Tulane email produce health IT pipeline results?","acceptedAnswer":{"@type":"Answer","text":"Ochsner/Tulane re-engagement: 21-30 days. Louisiana academic health system evaluation invitations: 90-150 days. Full Ochsner/Tulane health IT pipeline: 6-10 months."}},{"@type":"Question","name":"What makes New Orleans convention hospitality email marketing calendar uniquely commercially leverageable?","acceptedAnswer":{"@type":"Answer","text":"No US city has New Orleans' combination of commercially leverageable events  Mardi Gras, Jazz Fest, French Quarter Festival, Essence Festival, and the Saints/Pelicans season creating predictable annual engagement windows throughout the calendar year. Convention management technology, hotel revenue management, and event analytics vendors who systematically anticipate each NOLA seasonal window earn sustained above-average engagement throughout the year rather than one or two seasonal peaks."}}]}`,
   cta: `Get Your Free New Orleans Email Marketing Audit`,
-  ctaBody: `Free audit — 48 hours.
-1. Ochsner/Tulane YMYL clinical precision — vocabulary check in current health IT email
-2. Ochsner/Tulane cold-off rate — % without active HubSpot sequences
-3. Entergy utility vocabulary — grid modernisation precision in email content
-4. Mardi Gras/Jazz Fest timing — is your convention email calendar-aware?
-5. HIPAA compliance — Ochsner/Tulane email data handling
+  ctaBody: `Free audit  48 hours.
+1. Ochsner/Tulane YMYL clinical precision  vocabulary check in current health IT email
+2. Ochsner/Tulane cold-off rate  % without active HubSpot sequences
+3. Entergy utility vocabulary  grid modernisation precision in email content
+4. Mardi Gras/Jazz Fest timing  is your convention email calendar-aware?
+5. HIPAA compliance  Ochsner/Tulane email data handling
 
 Phone +1-888-555-CLICK | neworleans@clickmastersdigitalmarketing.com
 Metairie, Garden District, Uptown, French Quarter, and all of Greater New Orleans`,
