@@ -1,0 +1,19 @@
+// src/components/locations/index.ts
+export { default as LocationHero } from "./Hero";
+export { default as LocationIntroduction } from "./Introduction";
+export { default as LocationServices } from "./Services";
+export { default as LocationChallenges } from "./Challenges";
+export { default as LocationWhyChoose } from "./WhyChoose";
+export { default as LocationProcess } from "./Process";
+export { default as LocationIndustries } from "./Industries";
+export { default as LocationTestimonials } from "./Testimonials";
+export { default as LocationFAQ } from "./FAQ";
+export { default as LocationCTA } from "./CTA";
+export { default as LocationPackages } from "./Packages";
+export { default as LocationTools } from "./Tools";
+export { default as LocationStats } from "./Stats";
+export { default as LocationPage } from "./LocationPage";
+export { default as LocationCaseStudies } from "./CaseStudy";
+export { default as LocationAreasServed } from "./AreasServed";
+export { default as LocationReviews } from "./Reviews";
+export { default as LocationAISearch } from "./AiSearch";
