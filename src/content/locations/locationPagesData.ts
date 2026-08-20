@@ -9612,7 +9612,7 @@ export const locations: LocationData[] = [
   metaDescription:
     "Find a trusted digital marketing agency in Philadelphia for SEO, PPC, social media and web design designed to increase visibility, leads and sales.",
   hero: {
-    heading: "Digital Marketing Agency Philadelphia Businesses Trust to Grow",
+    heading: "Digital Marketings Agency Philadelphia Businesses Trust to Grow",
     subheading:
       "Looking for a digital marketing agency Philadelphia business owners can count on for real results, not just a nice-looking report? Clickmasters helps local businesses get found on Google, bring in more calls, and turn website visitors into paying customers. We handle SEO, PPC, social media, and content, all working together instead of pulling in different directions. You don't need the biggest budget in town. You need a plan built around your business, your customers, and your goals.",
     ctaText: "Get a Free Marketing Consultation",
