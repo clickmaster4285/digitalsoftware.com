@@ -28,6 +28,7 @@ import {
 } from "lucide-react";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
+import { usePathname } from "next/navigation";
 import { createPortal } from "react-dom";
 
 import logoWhite from "@/assets/logo-white.webp";
@@ -847,28 +848,30 @@ export const Navbar = () => {
   const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const [isDark, setIsDark] = useState(false);
   
+  const pathname = usePathname();
+  
+  // Check if current page is a location page
+  const isLocationPage = pathname?.startsWith("/locations/") || false;
 
   useEffect(() => {
-const updateTheme = () => {
-  const theme =
-    document.documentElement.getAttribute("data-section-theme") ?? "dark";
+    const updateTheme = () => {
+      const theme =
+        document.documentElement.getAttribute("data-section-theme") ?? "dark";
 
-  setIsDark(theme === "dark");
-};
+      setIsDark(theme === "dark");
+    };
 
-  updateTheme();
+    updateTheme();
 
-  const observer = new MutationObserver(updateTheme);
+    const observer = new MutationObserver(updateTheme);
 
-  observer.observe(document.documentElement, {
-    attributes: true,
-    attributeFilter: ["data-section-theme"],
-  });
+    observer.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ["data-section-theme"],
+    });
 
-  return () => observer.disconnect();
+    return () => observer.disconnect();
   }, []);
-  
-
 
   const openMega = (type: "services" | "locations" = "services") => {
     if (closeTimer.current) clearTimeout(closeTimer.current);
@@ -887,6 +890,11 @@ const updateTheme = () => {
     };
   }, []);
 
+  // Determine which logo to use
+  // On location pages, always use black logo
+  // On other pages, use the theme-based logo
+  const logoSrc = isLocationPage ? logoBlack : (isDark ? logoWhite : logoBlack);
+
   return (
     <>
       <motion.header
@@ -898,15 +906,12 @@ const updateTheme = () => {
         <div className="max-w-5xl mx-auto flex items-center justify-between gap-2 sm:gap-4 rounded-full bg-background/80 backdrop-blur-xl border border-border px-3 sm:px-4 py-3 shadow-sm">
           {/* Logo */}
           <a href="/" className="flex items-center gap-2 font-display text-base sm:text-xl shrink-0">
-           
-<Image
-  src={isDark ? logoWhite : logoBlack}
-  alt="ClickMasters"
-  className="w-24 sm:w-28 h-auto"
-  priority
-/>
-            
-          
+            <Image
+              src={logoSrc}
+              alt="ClickMasters"
+              className="w-24 sm:w-28 h-auto"
+              priority
+            />
           </a>
 
           {/* Desktop nav */}

@@ -64,7 +64,7 @@ export default function LocationsPage() {
             </Link>
           ))}
         </div>
-
+  
         {/* CTA Section */}
         <div className="mt-20 text-center">
           <div className="max-w-2xl mx-auto p-10 rounded-3xl border border-border bg-muted/20">

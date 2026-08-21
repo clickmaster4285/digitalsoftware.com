@@ -6,9 +6,9 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
 interface PageProps {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 }
 
 // Generate static paths for all locations
@@ -18,7 +18,8 @@ export async function generateStaticParams() {
 
 // Generate metadata for each location page
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const location = getLocationBySlug(params.slug);
+  const { slug } = await params;
+  const location = getLocationBySlug(slug);
 
   if (!location) {
     return {
@@ -30,12 +31,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: location.metaTitle,
     description: location.metaDescription,
     alternates: {
-      canonical: `/locations/${params.slug}`,
+      canonical: `/locations/${slug}`,
     },
     openGraph: {
       title: location.metaTitle,
       description: location.metaDescription,
-      url: `/locations/${params.slug}`,
+      url: `/locations/${slug}`,
       siteName: "Clickmasters Digital Marketing",
       locale: "en_US",
       type: "website",
@@ -49,12 +50,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 // Main page component
-export default function Page({ params }: PageProps) {
-  const location = getLocationBySlug(params.slug);
+export default async function Page({ params }: PageProps) {
+  const { slug } = await params;
+  const location = getLocationBySlug(slug);
 
   if (!location) {
     notFound();
   }
-
+ 
   return <LocationPage data={location} />;
 }
