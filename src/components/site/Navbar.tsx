@@ -1218,9 +1218,6 @@ export const Navbar = () => {
     };
   }, []);
 
-  // Determine which logo to use
-  // On location pages, always use black logo
-  // On other pages, use the theme-based logo
   const logoSrc = isLocationPage ? logoBlack : (isDark ? logoWhite : logoBlack);
 
   return (
