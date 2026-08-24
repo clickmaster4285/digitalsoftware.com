@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   return {
-    title: location.metaTitle,
+    title: { absolute: location.metaTitle },
     description: location.metaDescription,
     alternates: {
       canonical: `/locations/${slug}`,
