@@ -25,6 +25,7 @@ import {
   Flag,
   BadgeCheck,
   Layers3, Calculator, Video, LineChart, Cloud, GitBranch, MessageSquare, Gauge,
+  Compass, Navigation, Target, Pin, Zap, Award, Map as MapIcon,
 } from "lucide-react";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
@@ -378,6 +379,7 @@ const MegaMenu = ({
   const [activeGroup, setActiveGroup] = useState(0);
   const [mounted, setMounted] = useState(false);
   const [hoveredLocation, setHoveredLocation] = useState<string | null>(null);
+  const [searchQuery, setSearchQuery] = useState("");
 
   useEffect(() => {
     setMounted(true);
@@ -390,6 +392,28 @@ const MegaMenu = ({
   const isLocations = menuType === "locations";
   const menuData = isLocations ? locations : groups;
 
+  // Filter locations based on search
+  const filteredLocations = isLocations
+    ? locations
+        .filter(loc =>
+          loc.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+          loc.desc.toLowerCase().includes(searchQuery.toLowerCase())
+        )
+        .sort((a, b) => a.name.localeCompare(b.name))
+    : [];
+
+  // Prevent scroll when menu is open
+  useEffect(() => {
+    if (open) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "";
+    }
+    return () => {
+      document.body.style.overflow = "";
+    };
+  }, [open]);
+
   const menuContent = (
     <AnimatePresence>
       {open && (
@@ -400,10 +424,236 @@ const MegaMenu = ({
           transition={{ duration: 0.35, ease: [0.22, 1, 0.36, 1] }}
           onMouseEnter={onOpen}
           onMouseLeave={onClose}
-          className="fixed left-1/2 top-[5.15rem] z-50 hidden w-[min(96vw,72rem)] pt-3 lg:block"
+          className="fixed left-1/2 top-[5.15rem] z-50 hidden w-[min(96vw,56rem)] pt-3 lg:block"
         >
           <div className="relative overflow-hidden rounded-3xl border border-border bg-background/95 backdrop-blur-2xl shadow-2xl max-w-6xl mx-auto">
-            <div className="grid grid-cols-12 gap-4 p-5">
+            {/* Animated background graphics - Monochrome and more visible */}
+            {isLocations && (
+              <div className="absolute inset-0 overflow-hidden pointer-events-none">
+                {/* Animated map grid lines */}
+                <motion.svg
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 0.06 }}
+                  transition={{ delay: 0.3, duration: 1 }}
+                  className="absolute inset-0 w-full h-full"
+                  viewBox="0 0 800 400"
+                >
+                  {/* Horizontal grid lines */}
+                  {Array.from({ length: 8 }).map((_, i) => (
+                    <motion.line
+                      key={`h-${i}`}
+                      x1="0"
+                      y1={50 + i * 43}
+                      x2="800"
+                      y2={50 + i * 43}
+                      stroke="currentColor"
+                      strokeWidth="0.5"
+                      initial={{ pathLength: 0, opacity: 0 }}
+                      animate={{ pathLength: 1, opacity: 1 }}
+                      transition={{ delay: 0.5 + i * 0.05, duration: 1 }}
+                    />
+                  ))}
+                  {/* Vertical grid lines */}
+                  {Array.from({ length: 10 }).map((_, i) => (
+                    <motion.line
+                      key={`v-${i}`}
+                      x1={80 + i * 72}
+                      y1="0"
+                      x2={80 + i * 72}
+                      y2="400"
+                      stroke="currentColor"
+                      strokeWidth="0.5"
+                      initial={{ pathLength: 0, opacity: 0 }}
+                      animate={{ pathLength: 1, opacity: 1 }}
+                      transition={{ delay: 0.5 + i * 0.05, duration: 1 }}
+                    />
+                  ))}
+                  
+                  {/* Animated map route paths */}
+                  <motion.path
+                    d="M100 200 Q250 120 400 200 T700 200"
+                    stroke="currentColor"
+                    strokeWidth="1.5"
+                    fill="none"
+                    strokeDasharray="6 6"
+                    initial={{ pathLength: 0, opacity: 0 }}
+                    animate={{ pathLength: 1, opacity: 0.4 }}
+                    transition={{ delay: 0.8, duration: 2, ease: "easeInOut" }}
+                  />
+                  <motion.path
+                    d="M50 300 Q200 220 350 300 T650 300"
+                    stroke="currentColor"
+                    strokeWidth="1"
+                    fill="none"
+                    strokeDasharray="4 4"
+                    initial={{ pathLength: 0, opacity: 0 }}
+                    animate={{ pathLength: 1, opacity: 0.3 }}
+                    transition={{ delay: 1, duration: 2, ease: "easeInOut" }}
+                  />
+                  <motion.path
+                    d="M150 100 Q300 180 450 100 T750 100"
+                    stroke="currentColor"
+                    strokeWidth="1"
+                    fill="none"
+                    strokeDasharray="3 3"
+                    initial={{ pathLength: 0, opacity: 0 }}
+                    animate={{ pathLength: 1, opacity: 0.2 }}
+                    transition={{ delay: 1.2, duration: 2, ease: "easeInOut" }}
+                  />
+
+                  {/* Pulsing location markers */}
+                  {[
+                    { cx: 150, cy: 190, delay: 0 },
+                    { cx: 350, cy: 230, delay: 0.5 },
+                    { cx: 500, cy: 180, delay: 1 },
+                    { cx: 650, cy: 210, delay: 1.5 },
+                  ].map((marker, idx) => (
+                    <g key={`marker-${idx}`}>
+                      <motion.circle
+                        cx={marker.cx}
+                        cy={marker.cy}
+                        r="4"
+                        fill="currentColor"
+                        initial={{ opacity: 0, scale: 0 }}
+                        animate={{ opacity: 0.5, scale: 1 }}
+                        transition={{ delay: 1.5 + marker.delay, duration: 0.5 }}
+                      />
+                      <motion.circle
+                        cx={marker.cx}
+                        cy={marker.cy}
+                        r="8"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="1"
+                        initial={{ opacity: 0, scale: 0 }}
+                        animate={{ opacity: 0.3, scale: [0, 2] }}
+                        transition={{
+                          delay: 1.5 + marker.delay,
+                          duration: 2,
+                          repeat: Infinity,
+                          ease: "easeOut",
+                        }}
+                      />
+                      <motion.circle
+                        cx={marker.cx}
+                        cy={marker.cy}
+                        r="14"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="0.5"
+                        initial={{ opacity: 0, scale: 0 }}
+                        animate={{ opacity: 0.15, scale: [0, 3.5] }}
+                        transition={{
+                          delay: 1.5 + marker.delay,
+                          duration: 2.5,
+                          repeat: Infinity,
+                          ease: "easeOut",
+                        }}
+                      />
+                    </g>
+                  ))}
+                </motion.svg>
+
+                {/* Floating geometric shapes - monochrome */}
+                {[
+                  { Icon: Compass, x: 15, y: 15, size: 24, delay: 0 },
+                  { Icon: Navigation, x: 85, y: 5, size: 20, delay: 0.3 },
+                  { Icon: Target, x: 92, y: 85, size: 28, delay: 0.6 },
+                  { Icon: MapIcon, x: 5, y: 80, size: 22, delay: 0.9 },
+                  { Icon: Pin, x: 50, y: 92, size: 18, delay: 1.2 },
+                ].map((item, idx) => {
+                  const IconComponent = item.Icon;
+                  return (
+                    <motion.div
+                      key={`shape-${idx}`}
+                      className="absolute opacity-[0.04]"
+                      style={{
+                        left: `${item.x}%`,
+                        top: `${item.y}%`,
+                      }}
+                      initial={{ opacity: 0, scale: 0, rotate: -30 }}
+                      animate={{ 
+                        opacity: 0.06, 
+                        scale: 1, 
+                        rotate: 0,
+                        y: [0, -8, 0],
+                      }}
+                      transition={{
+                        delay: 0.8 + item.delay,
+                        duration: 0.8,
+                        y: {
+                          duration: 4 + item.delay,
+                          repeat: Infinity,
+                          ease: "easeInOut",
+                        },
+                      }}
+                    >
+                      <IconComponent size={item.size} strokeWidth={1} />
+                    </motion.div>
+                  );
+                })}
+
+                {/* Floating dots with different sizes */}
+                {Array.from({ length: 30 }).map((_, i) => {
+                  const size = Math.random() * 3 + 1;
+                  const duration = 3 + Math.random() * 3;
+                  const delay = Math.random() * 3;
+                  return (
+                    <motion.div
+                      key={`dot-${i}`}
+                      className="absolute rounded-full bg-foreground/10"
+                      style={{
+                        width: size,
+                        height: size,
+                        left: `${Math.random() * 100}%`,
+                        top: `${Math.random() * 100}%`,
+                      }}
+                      animate={{
+                        y: [0, -(10 + Math.random() * 20), 0],
+                        opacity: [0.1, 0.3, 0.1],
+                      }}
+                      transition={{
+                        duration: duration,
+                        repeat: Infinity,
+                        delay: delay,
+                        ease: "easeInOut",
+                      }}
+                    />
+                  );
+                })}
+
+                {/* Animated connection lines between dots */}
+                <motion.svg
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 0.04 }}
+                  transition={{ delay: 1, duration: 1 }}
+                  className="absolute inset-0 w-full h-full"
+                >
+                  {Array.from({ length: 8 }).map((_, i) => {
+                    const x1 = Math.random() * 800;
+                    const y1 = Math.random() * 400;
+                    const x2 = Math.random() * 800;
+                    const y2 = Math.random() * 400;
+                    return (
+                      <motion.line
+                        key={`conn-${i}`}
+                        x1={x1}
+                        y1={y1}
+                        x2={x2}
+                        y2={y2}
+                        stroke="currentColor"
+                        strokeWidth="0.5"
+                        initial={{ pathLength: 0, opacity: 0 }}
+                        animate={{ pathLength: 1, opacity: 1 }}
+                        transition={{ delay: 1.5 + i * 0.1, duration: 1.5 }}
+                      />
+                    );
+                  })}
+                </motion.svg>
+              </div>
+            )}
+
+            <div className="relative z-10 grid grid-cols-12 gap-4 p-4">
               {/* Category rail for services only */}
               {!isLocations && (
                 <div className="col-span-3 rounded-2xl bg-foreground/10 p-3 flex flex-col gap-1">
@@ -447,91 +697,169 @@ const MegaMenu = ({
               {/* Content grid */}
               <div className={`${isLocations ? "col-span-12" : "col-span-9"} max-h-[68vh] overflow-y-auto pr-1`}>
                 {isLocations ? (
-                  // Locations grid - 4 columns with enhanced design
-                  <div className="grid grid-cols-4 gap-2 p-2">
-                    {locations.sort((a, b) => a.name.localeCompare(b.name)).map((loc, index) => {
-                      const Icon = loc.icon;
-                      const isHovered = hoveredLocation === loc.name;
-                      
-                      return (
-                        <motion.a
-                          key={loc.name}
-                          href={loc.href}
-                          initial={{ opacity: 0, y: 12 }}
-                          animate={{ opacity: 1, y: 0 }}
-                          transition={{ 
-                            duration: 0.3, 
-                            delay: index * 0.015,
-                            ease: [0.22, 1, 0.36, 1] 
-                          }}
-                          whileHover={{ 
-                            y: -3,
-                            transition: { duration: 0.2 }
-                          }}
-                          onMouseEnter={() => setHoveredLocation(loc.name)}
-                          onMouseLeave={() => setHoveredLocation(null)}
-                          className="group relative rounded-xl p-3.5 hover:bg-muted/60 transition-all duration-300 border border-transparent hover:border-border/60 hover:shadow-sm flex flex-col items-start gap-2.5"
+                  <div className="space-y-2 p-1">
+                    {/* Search bar */}
+                    <div className="relative px-1">
+                      <motion.div
+                        initial={{ opacity: 0, y: -10 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ duration: 0.3 }}
+                        className="relative"
+                      >
+                        <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-3.5 h-3.5 opacity-40" />
+                        <input
+                          type="text"
+                          placeholder="Find your city..."
+                          value={searchQuery}
+                          onChange={(e) => setSearchQuery(e.target.value)}
+                          className="w-full pl-9 pr-8 py-2 rounded-xl border border-border bg-muted/20 focus:bg-background focus:border-foreground/30 focus:outline-none focus:ring-2 focus:ring-foreground/10 transition-all duration-300 text-sm"
+                        />
+                        {searchQuery && (
+                          <button
+                            onClick={() => setSearchQuery("")}
+                            className="absolute right-2 top-1/2 -translate-y-1/2 p-1 rounded-full hover:bg-muted transition-colors"
+                          >
+                            <X className="w-3 h-3 opacity-50" />
+                          </button>
+                        )}
+                      </motion.div>
+                    </div>
+
+                    {/* Stats header */}
+                    <motion.div
+                      initial={{ opacity: 0 }}
+                      animate={{ opacity: 1 }}
+                      transition={{ delay: 0.1 }}
+                      className="flex items-center justify-between px-2 py-1"
+                    >
+                      <span className="text-[10px] font-medium opacity-40 uppercase tracking-wider">
+                        {filteredLocations.length} {filteredLocations.length === 1 ? "Location" : "Locations"}
+                      </span>
+                      <span className="text-[10px] opacity-30 flex items-center gap-1">
+                        <Globe className="w-3 h-3" />
+                        Nationwide
+                      </span>
+                    </motion.div>
+
+                    {/* Locations grid - 4 columns with smaller cards */}
+                    <div className="grid grid-cols-4 gap-1.5 p-0.5">
+                      {filteredLocations.length > 0 ? (
+                        filteredLocations.map((loc, index) => {
+                          const Icon = loc.icon;
+                          const isHovered = hoveredLocation === loc.name;
+
+                          return (
+                            <motion.a
+                              key={loc.name}
+                              href={loc.href}
+                              initial={{ opacity: 0, y: 10, scale: 0.95 }}
+                              animate={{ opacity: 1, y: 0, scale: 1 }}
+                              transition={{
+                                duration: 0.3,
+                                delay: index * 0.02,
+                                ease: [0.22, 1, 0.36, 1],
+                              }}
+                              whileHover={{
+                                y: -2,
+                                scale: 1.03,
+                                transition: { duration: 0.15, ease: "easeOut" },
+                              }}
+                              onMouseEnter={() => setHoveredLocation(loc.name)}
+                              onMouseLeave={() => setHoveredLocation(null)}
+                              className="group relative rounded-xl p-2.5 bg-muted/10 hover:bg-muted/30 transition-all duration-300 border border-transparent hover:border-border/50 hover:shadow-md cursor-pointer overflow-hidden"
+                            >
+                              {/* Animated background gradient on hover */}
+                              <motion.div
+                                className="absolute inset-0 bg-gradient-to-br from-foreground/5 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-400"
+                                initial={false}
+                                animate={isHovered ? { opacity: 1 } : { opacity: 0 }}
+                              />
+
+                              {/* Hover glow ring - smaller */}
+                              {isHovered && (
+                                <motion.div
+                                  layoutId="location-ring-small"
+                                  className="absolute inset-0 rounded-xl ring-1 ring-foreground/20 ring-offset-1 ring-offset-background"
+                                  initial={{ opacity: 0, scale: 0.9 }}
+                                  animate={{ opacity: 1, scale: 1 }}
+                                  exit={{ opacity: 0, scale: 0.9 }}
+                                  transition={{ duration: 0.15 }}
+                                />
+                              )}
+
+                              {/* Icon with animated background - smaller */}
+                              <motion.div
+                                className="relative shrink-0 w-8 h-8 rounded-lg bg-gradient-to-br from-foreground/15 to-foreground/5 flex items-center justify-center group-hover:from-foreground group-hover:to-foreground/80 group-hover:text-background transition-all duration-400 overflow-hidden mb-1.5"
+                                whileHover={{ scale: 1.1, rotate: [0, -3, 3, 0] }}
+                                transition={{ type: "spring", stiffness: 400, damping: 20 }}
+                              >
+                                <Icon className="w-3.5 h-3.5 transition-transform duration-300 group-hover:scale-110" />
+
+                                {/* Icon shine effect - smaller */}
+                                <motion.div
+                                  className="absolute inset-0 bg-gradient-to-tr from-transparent via-white/30 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700 ease-in-out"
+                                />
+                              </motion.div>
+
+                              {/* Location info - smaller text */}
+                              <div className="relative z-10">
+                                <motion.div
+                                  className="text-xs font-semibold truncate transition-colors duration-300 group-hover:text-foreground"
+                                  animate={isHovered ? { color: "var(--foreground)" } : {}}
+                                >
+                                  {loc.name}
+                                </motion.div>
+                                <motion.div
+                                  className="text-[9px] opacity-40 truncate transition-all duration-300 group-hover:opacity-60"
+                                  animate={isHovered ? { opacity: 0.6 } : { opacity: 0.4 }}
+                                >
+                                  {loc.desc.replace("Digital marketing in ", "")}
+                                </motion.div>
+                              </div>
+
+                              {/* Arrow indicator on hover - smaller */}
+                              <motion.div
+                                className="absolute right-2 top-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100 transition-all duration-300"
+                                initial={{ x: -5, opacity: 0 }}
+                                animate={isHovered ? { x: 0, opacity: 1 } : { x: -5, opacity: 0 }}
+                                transition={{ duration: 0.2 }}
+                              >
+                                <ChevronRight className="w-3 h-3 opacity-60" />
+                              </motion.div>
+
+                              {/* Bottom accent bar - thinner */}
+                              <motion.div
+                                className="absolute bottom-0 left-2 right-2 h-0.5 bg-gradient-to-r from-foreground/40 via-foreground/20 to-transparent rounded-full"
+                                initial={{ scaleX: 0, opacity: 0 }}
+                                animate={isHovered ? { scaleX: 1, opacity: 1 } : { scaleX: 0, opacity: 0 }}
+                                transition={{ duration: 0.25, ease: "easeOut" }}
+                              />
+
+                              {/* Location badge - smaller */}
+                              <motion.div
+                                className="absolute top-1.5 right-1.5 text-[7px] font-mono font-bold uppercase opacity-0 group-hover:opacity-25 transition-opacity duration-300"
+                                animate={isHovered ? { opacity: 0.25 } : { opacity: 0 }}
+                              >
+                                {loc.desc.split(",").pop()?.trim() || "US"}
+                              </motion.div>
+                            </motion.a>
+                          );
+                        })
+                      ) : (
+                        // No results state
+                        <motion.div
+                          initial={{ opacity: 0, scale: 0.9 }}
+                          animate={{ opacity: 1, scale: 1 }}
+                          className="col-span-4 py-8 text-center"
                         >
-                          {/* Hover glow effect */}
-                          {isHovered && (
-                            <motion.div
-                              layoutId="location-glow"
-                              className="absolute inset-0 rounded-xl bg-gradient-to-br from-foreground/5 to-transparent -z-10"
-                              initial={{ opacity: 0 }}
-                              animate={{ opacity: 1 }}
-                              transition={{ duration: 0.2 }}
-                            />
-                          )}
-                          
-                          {/* Icon with animated background */}
-                          <motion.div 
-                            className="shrink-0 w-10 h-10 rounded-xl bg-gradient-to-br from-foreground/10 to-foreground/5 flex items-center justify-center group-hover:bg-foreground group-hover:text-background transition-all duration-300 relative overflow-hidden"
-                            whileHover={{ scale: 1.05 }}
-                            transition={{ type: "spring", stiffness: 400, damping: 25 }}
-                          >
-                            <Icon className="w-4.5 h-4.5 transition-transform duration-300 group-hover:scale-110" />
-                            
-                            {/* Icon background shine effect on hover */}
-                            <motion.div 
-                              className="absolute inset-0 bg-gradient-to-tr from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700"
-                            />
-                          </motion.div>
-                          
-                          {/* Location info */}
-                          <div className="flex-1 min-w-0">
-                            <motion.div 
-                              className="text-sm font-medium truncate transition-colors duration-300 group-hover:text-foreground"
-                              animate={isHovered ? { color: "var(--foreground)" } : {}}
-                            >
-                              {loc.name}
-                            </motion.div>
-                            <motion.div 
-                              className="text-xs opacity-60 truncate transition-opacity duration-300"
-                              animate={isHovered ? { opacity: 0.8 } : { opacity: 0.6 }}
-                            >
-                              {loc.desc}
-                            </motion.div>
+                          <div className="w-12 h-12 mx-auto rounded-full bg-muted/30 flex items-center justify-center mb-2">
+                            <MapPin className="w-5 h-5 opacity-30" />
                           </div>
-
-                          {/* Arrow indicator on hover */}
-                          <motion.div 
-                            className="absolute right-3 top-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100 transition-all duration-300"
-                            initial={{ x: -5, opacity: 0 }}
-                            whileHover={{ x: 0, opacity: 1 }}
-                          >
-                            <ChevronRight className="w-4 h-4 opacity-50" />
-                          </motion.div>
-
-                          {/* Bottom border accent on hover */}
-                          <motion.div 
-                            className="absolute bottom-0 left-3 right-3 h-0.5 bg-gradient-to-r from-foreground/40 to-foreground/10 rounded-full"
-                            initial={{ scaleX: 0, opacity: 0 }}
-                            animate={isHovered ? { scaleX: 1, opacity: 1 } : { scaleX: 0, opacity: 0 }}
-                            transition={{ duration: 0.3 }}
-                          />
-                        </motion.a>
-                      );
-                    })}
+                          <p className="text-xs font-medium opacity-60">No locations found</p>
+                          <p className="text-[10px] opacity-40 mt-0.5">Try adjusting your search</p>
+                        </motion.div>
+                      )}
+                    </div>
                   </div>
                 ) : (
                   // Services grid
