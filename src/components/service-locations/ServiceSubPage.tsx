@@ -543,7 +543,9 @@ const IndustriesSection = ({ content }: { content: SubPageContent }) => (
 
 /* ---------------- Tools (light) ---------------- */
 
-const ToolsSection = ({ content }: { content: SubPageContent }) => (
+const ToolsSection = ({ content }: { content: SubPageContent }) => {
+  if (!content.tools.items.length) return null;
+  return (
   <section className="relative bg-background text-foreground py-28">
     <div className="container max-w-6xl">
       <SectionLabel n="09" t="Tools platform" />
@@ -579,7 +581,8 @@ const ToolsSection = ({ content }: { content: SubPageContent }) => (
       </div>
     </div>
   </section>
-);
+  );
+};
 
 /* ---------------- Stats (dark) ---------------- */
 
