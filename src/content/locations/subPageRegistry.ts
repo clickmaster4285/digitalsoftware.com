@@ -5,9 +5,19 @@
 // falls back to the generic city page built from locationPagesData.
 
 import { atlantaSeoSubPage, type SubPageContent } from "./subpage-atlanta-seo";
+import { baltimoreSeoSubPage } from "./subpage-baltimore-seo";
+import { birminghamSeoSubPage } from "./subpage-birmingham-seo";
+import { boiseSeoSubPage } from "./subpage-boise-seo";
+import { bostonSeoSubPage } from "./subpage-boston-seo";
+import { charlotteSeoSubPage } from "./subpage-charlotte-seo";
 
 export const SUB_PAGE_REGISTRY: Record<string, SubPageContent> = {
   "seo-services-atlanta": atlantaSeoSubPage,
+  "seo-services-baltimore": baltimoreSeoSubPage,
+  "seo-services-birmingham": birminghamSeoSubPage,
+  "seo-services-boise": boiseSeoSubPage,
+  "seo-services-boston": bostonSeoSubPage,
+  "seo-services-charlotte": charlotteSeoSubPage,
 };
 
 export const getSubPageBySlug = (slug: string): SubPageContent | undefined =>

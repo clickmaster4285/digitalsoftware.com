@@ -42,6 +42,11 @@ import {
   Eye,
   Radar,
   KeySquare,
+  Gauge,
+  Layers,
+  Car,
+  Briefcase,
+  Truck,
   Check,
   type LucideIcon,
 } from "lucide-react";
@@ -115,6 +120,11 @@ const ICONS: Record<string, LucideIcon> = {
   Eye,
   Radar,
   KeySquare,
+  Gauge,
+  Layers,
+  Car,
+  Briefcase,
+  Truck,
   Check,
 };
 

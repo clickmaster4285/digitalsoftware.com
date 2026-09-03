@@ -14,6 +14,16 @@ export interface SubPageFaq {
   answer: string;
 }
 
+export interface SubPageTestimonial {
+  quote: string;
+  attribution?: string;
+}
+
+export interface SubPageStat {
+  value: string;
+  label: string;
+}
+
 export interface SubPageContent {
   slug: string;
   /** Main service this page belongs under, e.g. "search-engine-optimization" */
@@ -79,6 +89,18 @@ export interface SubPageContent {
     items: { icon: string; title: string; body: string }[];
   };
   faqs: SubPageFaq[];
+  /** Optional testimonials block (only rendered when present). */
+  testimonials?: {
+    title: string;
+    intro?: string;
+    items: SubPageTestimonial[];
+  };
+  /** Optional stats / numbers block (only rendered when present). */
+  stats?: {
+    title: string;
+    intro?: string;
+    items: SubPageStat[];
+  };
   ctaBottom: {
     title: string;
     description: string;

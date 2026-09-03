@@ -204,6 +204,41 @@ export const SERVICE_SUB_LOCATIONS: Record<string, ServiceSubLocation[]> = {
       description:
         "Professional SEO services in Atlanta — local SEO, full SEO programs, technical SEO, and consulting that help small businesses, law firms, and ecommerce brands get found across metro Atlanta.",
     },
+    {
+      slug: "seo-services-baltimore",
+      city: "Baltimore",
+      state: "MD",
+      description:
+        "Results-driven Baltimore SEO services — local SEO, technical audits, content strategy, and consulting that help Baltimore and Maryland businesses rank higher and turn searches into customers.",
+    },
+    {
+      slug: "seo-services-birmingham",
+      city: "Birmingham",
+      state: "AL",
+      description:
+        "Birmingham SEO company built around how this metro searches — local SEO, technical audits, and suburb-specific strategy for businesses from the city to the Over the Mountain suburbs.",
+    },
+    {
+      slug: "seo-services-boise",
+      city: "Boise",
+      state: "ID",
+      description:
+        "Expert SEO services in Boise — keyword research, on-page and technical SEO, local SEO, content, and link building that help Idaho businesses grow traffic, leads, and sales.",
+    },
+    {
+      slug: "seo-services-boston",
+      city: "Boston",
+      state: "MA",
+      description:
+        "Proven Boston SEO services — strategy, on-page and technical SEO, local SEO, content, link building, and AI search visibility that help Greater Boston businesses grow their search visibility.",
+    },
+    {
+      slug: "seo-services-charlotte",
+      city: "Charlotte",
+      state: "NC",
+      description:
+        "Expert Charlotte SEO services — keyword research, on-page and technical SEO, local SEO, content, and link building that help Charlotte businesses get found by more customers.",
+    },
   ],
 };
 

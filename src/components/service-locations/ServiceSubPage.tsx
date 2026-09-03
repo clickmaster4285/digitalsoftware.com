@@ -581,6 +581,93 @@ const ToolsSection = ({ content }: { content: SubPageContent }) => (
   </section>
 );
 
+/* ---------------- Stats (dark) ---------------- */
+
+const StatsSection = ({ content }: { content: SubPageContent }) => {
+  if (!content.stats) return null;
+  return (
+    <section className="relative bg-[#0a0a0a] text-white py-28 overflow-hidden">
+      <div
+        aria-hidden
+        className="absolute top-0 left-1/4 w-[500px] h-[500px] rounded-full bg-[#FF2E86]/10 blur-[160px] pointer-events-none"
+      />
+      <div className="container max-w-6xl relative">
+        <SectionLabel n="10" t="By the numbers" />
+        <Reveal>
+          <h2 className="font-display text-4xl md:text-6xl font-bold leading-[0.95] tracking-tight mb-6 max-w-4xl">
+            {content.stats.title}
+          </h2>
+        </Reveal>
+        {content.stats.intro && (
+          <Reveal delay={0.1}>
+            <p className="max-w-3xl text-lg opacity-75 leading-relaxed mb-14">
+              {content.stats.intro}
+            </p>
+          </Reveal>
+        )}
+        <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-4">
+          {content.stats.items.map((stat, idx) => (
+            <Reveal key={stat.label} delay={idx * 0.06}>
+              <div className="h-full rounded-3xl border border-white/10 bg-white/[0.03] p-8 text-center hover:border-[#FF2E86]/40 transition">
+                <div className="font-display text-5xl md:text-6xl font-bold text-[#FF2E86] leading-none">
+                  {stat.value}
+                </div>
+                <p className="mt-4 text-sm md:text-base opacity-75 leading-relaxed">
+                  {stat.label}
+                </p>
+              </div>
+            </Reveal>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+};
+
+/* ---------------- Testimonials (light) ---------------- */
+
+const TestimonialsSection = ({ content }: { content: SubPageContent }) => {
+  if (!content.testimonials) return null;
+  return (
+    <section className="relative bg-background text-foreground py-28">
+      <div className="container max-w-6xl">
+        <SectionLabel n="11" t="Client reviews" />
+        <Reveal>
+          <h2 className="font-display text-4xl md:text-6xl font-bold leading-[0.95] tracking-tight mb-6 max-w-4xl">
+            {content.testimonials.title}
+          </h2>
+        </Reveal>
+        {content.testimonials.intro && (
+          <Reveal delay={0.1}>
+            <p className="max-w-3xl text-lg opacity-70 leading-relaxed mb-12">
+              {content.testimonials.intro}
+            </p>
+          </Reveal>
+        )}
+        <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
+          {content.testimonials.items.map((item, idx) => (
+            <Reveal key={idx} delay={idx * 0.06}>
+              <figure className="flex flex-col h-full rounded-3xl border border-foreground/10 bg-foreground/[0.02] p-8 hover:border-[#FF2E86]/40 transition">
+                <span className="font-display text-6xl leading-none text-[#FF2E86] mb-4 select-none">
+                  &ldquo;
+                </span>
+                <blockquote className="text-sm md:text-base opacity-80 leading-relaxed">
+                  {item.quote}
+                </blockquote>
+                {item.attribution && (
+                  <figcaption className="mt-6 text-xs uppercase tracking-[0.25em] opacity-60">
+                    {item.attribution}
+                  </figcaption>
+                )}
+              </figure>
+            </Reveal>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+};
+
 /* ---------------- FAQ (dark) ---------------- */
 
 const FaqsSection = ({ content }: { content: SubPageContent }) => (
@@ -590,7 +677,7 @@ const FaqsSection = ({ content }: { content: SubPageContent }) => (
       className="absolute bottom-0 left-1/4 w-[500px] h-[400px] rounded-full bg-[#FF2E86]/10 blur-[160px] pointer-events-none"
     />
     <div className="container max-w-4xl relative">
-      <SectionLabel n="10" t="FAQs" />
+      <SectionLabel n="12" t="FAQs" />
       <Reveal>
         <h2 className="font-display text-4xl md:text-6xl font-bold leading-[0.95] tracking-tight mb-12">
           Frequently asked{" "}
@@ -691,6 +778,8 @@ export function ServiceSubPage({
         <RealResultsSection content={content} />
         <IndustriesSection content={content} />
         <ToolsSection content={content} />
+        <StatsSection content={content} />
+        <TestimonialsSection content={content} />
         <FaqsSection content={content} />
         <CtaBottom content={content} />
       </main>
