@@ -127,6 +127,37 @@ export default function ContactClient() {
     setIsSubmitting(true);
     setSubmitStatus({ type: null, message: "" });
 
+    // Send lead to ClickMasters CRM
+    const leadData = {
+      name: formData.name,
+      email: formData.email,
+      phone: formData.phone,
+      company: formData.company,
+      message: formData.message,
+      website: "clickmastersdigitalmarketing.com",
+      service: "Digital Marketing",
+      landingPage: window.location.href,
+      referrer: document.referrer,
+      utm_source: new URLSearchParams(window.location.search).get("utm_source") || "",
+      utm_medium: new URLSearchParams(window.location.search).get("utm_medium") || "",
+      utm_campaign: new URLSearchParams(window.location.search).get("utm_campaign") || "",
+      utm_term: new URLSearchParams(window.location.search).get("utm_term") || "",
+      utm_content: new URLSearchParams(window.location.search).get("utm_content") || "",
+    };
+
+    let crmSuccess = false;
+    try {
+      const crmRes = await fetch("https://crm.clickmasters.pk/api/leads", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(leadData),
+      });
+      crmSuccess = crmRes.ok;
+    } catch (err) {
+      console.error("Lead submission failed:", err);
+    }
+
+    let emailSuccess = false;
     try {
       const response = await fetch("/api/contact", {
         method: "POST",
@@ -135,25 +166,26 @@ export default function ContactClient() {
       });
 
       const data = await response.json();
+      emailSuccess = Boolean(data.success);
+    } catch (err) {
+      console.error("Contact email failed:", err);
+    }
 
-      if (data.success) {
-        setSubmitStatus({
-          type: "success",
-          message: "Thank you! Your message has been sent successfully.",
-        });
-        setFormData({ name: "", email: "", company: "", phone: "", message: "" });
-      } else {
-        throw new Error(data.message || "Failed to send message");
-      }
-    } catch {
+    if (crmSuccess || emailSuccess) {
+      setSubmitStatus({
+        type: "success",
+        message: "Thank you! Your message has been sent successfully.",
+      });
+      setFormData({ name: "", email: "", company: "", phone: "", message: "" });
+    } else {
       setSubmitStatus({
         type: "error",
         message: "Sorry, there was an error sending your message. Please try again.",
       });
-    } finally {
-      setIsSubmitting(false);
-      setTimeout(() => setSubmitStatus({ type: null, message: "" }), 5000);
     }
+
+    setIsSubmitting(false);
+    setTimeout(() => setSubmitStatus({ type: null, message: "" }), 5000);
   };
 
   useEffect(() => {
