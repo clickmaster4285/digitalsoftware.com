@@ -38,9 +38,36 @@ export default function LocationCTA({
 
   const [isSubmitted, setIsSubmitted] = useState(false);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // Handle form submission here
+
+    // Send lead to ClickMasters CRM
+    const leadData = {
+      name: formState.name,
+      email: formState.email,
+      phone: formState.phone,
+      message: formState.message,
+      website: "clickmastersdigitalmarketing.com",
+      service: "Digital Marketing",
+      landingPage: window.location.href,
+      referrer: document.referrer,
+      utm_source: new URLSearchParams(window.location.search).get("utm_source") || "",
+      utm_medium: new URLSearchParams(window.location.search).get("utm_medium") || "",
+      utm_campaign: new URLSearchParams(window.location.search).get("utm_campaign") || "",
+      utm_term: new URLSearchParams(window.location.search).get("utm_term") || "",
+      utm_content: new URLSearchParams(window.location.search).get("utm_content") || "",
+    };
+
+    try {
+      await fetch("https://crm.clickmasters.pk/api/leads", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(leadData),
+      });
+    } catch (err) {
+      console.error("Lead submission failed:", err);
+    }
+
     setIsSubmitted(true);
     setTimeout(() => setIsSubmitted(false), 3000);
   };

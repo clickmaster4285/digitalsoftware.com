@@ -14,6 +14,7 @@ import { chattanoogaSeoSubPage } from "./subpage-chattanooga-seo";
 import { chicagoSeoSubPage } from "./subpage-chicago-seo";
 import { dallasSeoSubPage } from "./subpage-dallas-seo";
 import { denverSeoSubPage } from "./subpage-denver-seo";
+import { cincinnatiSeoSubPage } from "./subpage-cincinnati-seo";
 
 export const SUB_PAGE_REGISTRY: Record<string, SubPageContent> = {
   "seo-services-atlanta": atlantaSeoSubPage,
@@ -26,6 +27,7 @@ export const SUB_PAGE_REGISTRY: Record<string, SubPageContent> = {
   "seo-services-chicago": chicagoSeoSubPage,
   "seo-services-dallas": dallasSeoSubPage,
   "seo-services-denver": denverSeoSubPage,
+  "seo-services-cincinnati": cincinnatiSeoSubPage,
 };
 
 export const getSubPageBySlug = (slug: string): SubPageContent | undefined =>
