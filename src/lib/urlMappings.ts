@@ -197,6 +197,12 @@ const specialCases: Record<string, LocationMapping> = {
     city: 'Memphis',
     country: 'US',
     validPaths: ['/search-engine-optimization/locations/seo-services-memphis/']
+  },
+  'seo-services-oklahoma-city': {
+    service: 'SEO',
+    city: 'Oklahoma City',
+    country: 'US',
+    validPaths: ['/search-engine-optimization/locations/seo-services-oklahoma-city/']
   }
 };
 

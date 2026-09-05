@@ -281,6 +281,13 @@ export const SERVICE_SUB_LOCATIONS: Record<string, ServiceSubLocation[]> = {
       description:
         "Memphis SEO company built to turn Google searches into real customers — technical SEO, local SEO, AI search optimization, and transparent reporting for Memphis businesses.",
     },
+    {
+      slug: "seo-services-oklahoma-city",
+      city: "Oklahoma City",
+      state: "OK",
+      description:
+        "Results-driven SEO services in Oklahoma City — technical SEO, local SEO, content strategy, and AI search optimization that improve rankings and generate more qualified leads.",
+    },
   ],
 };
 
