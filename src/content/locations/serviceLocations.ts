@@ -267,6 +267,20 @@ export const SERVICE_SUB_LOCATIONS: Record<string, ServiceSubLocation[]> = {
       description:
         "Results-driven Louisville SEO services — technical SEO, local SEO and Google Business Profile optimization, content, and link building that help Louisville businesses rank higher and turn searches into real opportunities.",
     },
+    {
+      slug: "seo-services-knoxville",
+      city: "Knoxville",
+      state: "TN",
+      description:
+        "Knoxville SEO agency focused on what your customers actually search — technical fixes, local optimization, and content that ranks, helping East Tennessee businesses grow sustainable organic traffic.",
+    },
+    {
+      slug: "seo-services-memphis",
+      city: "Memphis",
+      state: "TN",
+      description:
+        "Memphis SEO company built to turn Google searches into real customers — technical SEO, local SEO, AI search optimization, and transparent reporting for Memphis businesses.",
+    },
   ],
 };
 
