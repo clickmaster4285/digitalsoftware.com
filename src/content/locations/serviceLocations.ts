@@ -239,6 +239,27 @@ export const SERVICE_SUB_LOCATIONS: Record<string, ServiceSubLocation[]> = {
       description:
         "Expert Charlotte SEO services — keyword research, on-page and technical SEO, local SEO, content, and link building that help Charlotte businesses get found by more customers.",
     },
+    {
+      slug: "seo-services-greenville",
+      city: "Greenville",
+      state: "SC",
+      description:
+        "Greenville SEO services built on data, not guesswork — local SEO, technical SEO, content strategy, and consulting that help Greenville and Upstate South Carolina businesses rank higher and turn search traffic into customers.",
+    },
+    {
+      slug: "seo-services-huntsville",
+      city: "Huntsville",
+      state: "AL",
+      description:
+        "SEO services in Huntsville built around real local search behavior — local SEO, website SEO, content strategy, and SEM that help Huntsville and North Alabama businesses get found and generate consistent organic leads.",
+    },
+    {
+      slug: "seo-services-indianapolis",
+      city: "Indianapolis",
+      state: "IN",
+      description:
+        "Full-service Indianapolis SEO agency — technical audits, on-page and content optimization, local SEO, link building, and ecommerce SEO that help Indy businesses rank higher and turn traffic into customers.",
+    },
   ],
 };
 
