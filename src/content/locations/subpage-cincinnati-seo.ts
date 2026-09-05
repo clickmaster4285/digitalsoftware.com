@@ -12,6 +12,7 @@ export const cincinnatiSeoSubPage: SubPageContent = {
   metaTitle: "Cincinnati SEO Company | Grow Traffic & Leads",
   metaDescription:
     "Turn search traffic into business growth with Cincinnati SEO strategies designed to improve rankings, attract qualified visitors, and generate more leads.",
+
   hero: {
     eyebrow: "Cincinnati · SEO Services",
     title: "SEO Services Cincinnati Businesses Trust to",
@@ -25,6 +26,7 @@ export const cincinnatiSeoSubPage: SubPageContent = {
     serving:
       "Serving Cincinnati, Northern Kentucky, Over-the-Rhine, and Greater Cincinnati area.",
   },
+
   ctaTop: {
     title: "Cincinnati SEO Specialists Helping Local Businesses Get Found",
     description:
@@ -35,6 +37,7 @@ export const cincinnatiSeoSubPage: SubPageContent = {
     note:
       "No long-term contract required just to find out if we're the right fit.",
   },
+
   services: {
     title: "SEO Services for Cincinnati Businesses",
     intro:
@@ -90,6 +93,7 @@ export const cincinnatiSeoSubPage: SubPageContent = {
       },
     ],
   },
+
   about: {
     title: "A Cincinnati SEO Company You Can Actually Reach",
     paragraphs: [
@@ -98,13 +102,15 @@ export const cincinnatiSeoSubPage: SubPageContent = {
       "Whether you need Cincinnati SEO services, local SEO, technical SEO, or ongoing optimization, the strategy is built around your actual business needs — not a standard package used for every client.",
       "If you're looking for a reliable SEO company in Cincinnati that focuses on long-term growth and measurable results, we're here to help.",
     ],
-    workWithTitle: "Cincinnati SEO Specialists Helping Local Businesses Get Found:",
+    workWithTitle:
+      "Cincinnati SEO Specialists Helping Local Businesses Get Found:",
     workWith: [
       "Cincinnati shoppers rarely pick the first business they come across. They search on Google, scan Google Maps results, read reviews, and compare a few websites before ever reaching out.",
       "Our Cincinnati SEO services exist to make sure your business is one of the ones they find and trust.",
       "Our approach is built on local search behavior, real buyer intent, and technical fundamentals that hold up over time — not shortcuts that put your rankings at risk.",
     ],
   },
+
   process: {
     title: "Our Cincinnati SEO Process",
     intro:
@@ -152,12 +158,14 @@ export const cincinnatiSeoSubPage: SubPageContent = {
       },
     ],
   },
+
   whyChoose: {
     title: "Why Choose Us as Your Cincinnati SEO Company",
     items: [
       {
         icon: "Target",
-        title: "We build a custom strategy for every client instead of a fixed package",
+        title:
+          "We build a custom strategy for every client instead of a fixed package",
         body:
           "Each campaign is tailored to your business, competitors, and goals.",
       },
@@ -169,13 +177,15 @@ export const cincinnatiSeoSubPage: SubPageContent = {
       },
       {
         icon: "MapPin",
-        title: "We understand local SEO across Cincinnati and the surrounding region",
+        title:
+          "We understand local SEO across Cincinnati and the surrounding region",
         body:
           "We know Cincinnati search behavior, from Over-the-Rhine to Northern Kentucky.",
       },
       {
         icon: "Settings2",
-        title: "We run a full technical SEO audit before recommending anything new",
+        title:
+          "We run a full technical SEO audit before recommending anything new",
         body:
           "No guesswork — we start with a complete analysis of your website's health.",
       },
@@ -199,13 +209,15 @@ export const cincinnatiSeoSubPage: SubPageContent = {
       },
     ],
   },
+
   results: {
     title: "Results Cincinnati Businesses Can Expect",
     note:
       "Actual results depend on your industry, competition, current site condition, and consistency of the work — we set expectations based on your specific market instead of blanket promises.",
     items: [
       {
-        title: "Improved rankings for target keywords across Cincinnati and the surrounding region",
+        title:
+          "Improved rankings for target keywords across Cincinnati and the surrounding region",
         startingPoint:
           "Before SEO: Pages were not ranking for core target keywords in Cincinnati search results.",
         whatWeDid:
@@ -259,7 +271,8 @@ export const cincinnatiSeoSubPage: SubPageContent = {
           "Clear understanding of SEO performance and business impact without jargon.",
       },
       {
-        title: "Actual results depend on your industry, competition, current site condition, and consistency of the work",
+        title:
+          "Actual results depend on your industry, competition, current site condition, and consistency of the work",
         startingPoint:
           "Every business starts from a different place with unique challenges and opportunities.",
         whatWeDid:
@@ -269,9 +282,14 @@ export const cincinnatiSeoSubPage: SubPageContent = {
       },
     ],
   },
+
+  // FIXED: realResults was not closed before industries started.
   realResults: {
     title: "Cincinnati SEO Case Studies",
-    items: [
+    intro: "",
+    items: [],
+  },
+
   industries: {
     title: "Industry-Specific SEO Services in Cincinnati",
     intro:
@@ -321,6 +339,7 @@ export const cincinnatiSeoSubPage: SubPageContent = {
       },
     ],
   },
+
   tools: {
     title: "Tools We Use for Cincinnati SEO",
     intro:
@@ -370,6 +389,7 @@ export const cincinnatiSeoSubPage: SubPageContent = {
       },
     ],
   },
+
   testimonials: {
     title: "Cincinnati Client Reviews",
     intro:
@@ -387,24 +407,29 @@ export const cincinnatiSeoSubPage: SubPageContent = {
       },
     ],
   },
+
   faqs: [
     {
-      question: "What Is SEO and Why Is It Important for Cincinnati Businesses?",
+      question:
+        "What Is SEO and Why Is It Important for Cincinnati Businesses?",
       answer:
         "SEO helps your business appear higher in search results when potential customers look for your products or services. Cincinnati SEO can improve your online visibility, organic traffic, and ability to reach local customers.",
     },
     {
-      question: "How Long Does It Take to See Results From Cincinnati SEO?",
+      question:
+        "How Long Does It Take to See Results From Cincinnati SEO?",
       answer:
         "The timeline depends on your website, competition, industry, and current rankings. With consistent Cincinnati SEO services, businesses may begin seeing improvements within a few months, while stronger results typically take longer.",
     },
     {
-      question: "What Services Are Included in Your Cincinnati SEO Packages?",
+      question:
+        "What Services Are Included in Your Cincinnati SEO Packages?",
       answer:
         "Our Cincinnati SEO services can include technical SEO, keyword research, on-page optimization, content optimization, local SEO, link building, competitor analysis, and performance tracking based on your business needs.",
     },
     {
-      question: "What Is the Difference Between National SEO and Local SEO in Cincinnati?",
+      question:
+        "What Is the Difference Between National SEO and Local SEO in Cincinnati?",
       answer:
         "Local SEO in Cincinnati focuses on reaching customers in specific areas and improving visibility in local search results. National SEO targets a much wider audience across multiple cities, states, or the entire country.",
     },
@@ -415,6 +440,7 @@ export const cincinnatiSeoSubPage: SubPageContent = {
         "Important local SEO factors include your Google Business Profile, website relevance, local citations, reviews, location signals, backlinks, and overall website quality. These factors help improve visibility for Cincinnati-based searches.",
     },
   ],
+
   ctaBottom: {
     title: "Ready to Grow With Cincinnati SEO Services?",
     description:
