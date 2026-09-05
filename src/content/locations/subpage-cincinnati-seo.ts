@@ -286,6 +286,7 @@ export const cincinnatiSeoSubPage: SubPageContent = {
   // FIXED: realResults was not closed before industries started.
   realResults: {
     title: "Cincinnati SEO Case Studies",
+    intro: "",
     items: [],
   },
 
