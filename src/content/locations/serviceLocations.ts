@@ -260,6 +260,13 @@ export const SERVICE_SUB_LOCATIONS: Record<string, ServiceSubLocation[]> = {
       description:
         "Full-service Indianapolis SEO agency — technical audits, on-page and content optimization, local SEO, link building, and ecommerce SEO that help Indy businesses rank higher and turn traffic into customers.",
     },
+    {
+      slug: "seo-services-louisville",
+      city: "Louisville",
+      state: "KY",
+      description:
+        "Results-driven Louisville SEO services — technical SEO, local SEO and Google Business Profile optimization, content, and link building that help Louisville businesses rank higher and turn searches into real opportunities.",
+    },
   ],
 };
 
