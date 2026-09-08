@@ -251,7 +251,9 @@ const About = ({ content }: { content: SubPageContent }) => (
 
 /* ---------------- Services (light) ---------------- */
 
-const ServicesSection = ({ content }: { content: SubPageContent }) => (
+const ServicesSection = ({ content }: { content: SubPageContent }) => {
+  if (!content.services) return null;
+  return (
   <section className="relative bg-background text-foreground py-28">
     <div className="container max-w-6xl">
       <SectionLabel n="03" t="What we do" />
@@ -271,7 +273,7 @@ const ServicesSection = ({ content }: { content: SubPageContent }) => (
       <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
         {content.services.items.map((item, idx) => {
           const Icon = iconFor(item.icon);
-          const wide = idx === content.services.items.length - 1;
+          const wide = idx === content.services!.items.length - 1;
           return (
             <Reveal
               key={item.title}
@@ -301,7 +303,8 @@ const ServicesSection = ({ content }: { content: SubPageContent }) => (
       </div>
     </div>
   </section>
-);
+  );
+};
 
 /* ---------------- Process (dark) ---------------- */
 
@@ -438,7 +441,9 @@ const ResultsSection = ({ content }: { content: SubPageContent }) => (
 
 /* ---------------- Real results (light) ---------------- */
 
-const RealResultsSection = ({ content }: { content: SubPageContent }) => (
+const RealResultsSection = ({ content }: { content: SubPageContent }) => {
+  if (!content.realResults) return null;
+  return (
   <section className="relative bg-background text-foreground py-28">
     <div className="container max-w-6xl">
       <SectionLabel n="07" t="What you can expect" />
@@ -457,7 +462,7 @@ const RealResultsSection = ({ content }: { content: SubPageContent }) => (
       <div className="grid gap-6 md:grid-cols-2">
         {content.realResults.items.map((item, idx) => {
           const Icon = iconFor(item.icon);
-          const wide = idx === content.realResults.items.length - 1;
+          const wide = idx === content.realResults!.items.length - 1;
           return (
             <Reveal
               key={item.title}
@@ -481,7 +486,8 @@ const RealResultsSection = ({ content }: { content: SubPageContent }) => (
       </div>
     </div>
   </section>
-);
+  );
+};
 
 /* ---------------- Industries (dark) ---------------- */
 
@@ -544,7 +550,7 @@ const IndustriesSection = ({ content }: { content: SubPageContent }) => (
 /* ---------------- Tools (light) ---------------- */
 
 const ToolsSection = ({ content }: { content: SubPageContent }) => {
-  if (!content.tools.items.length) return null;
+  if (!content.tools) return null;
   return (
   <section className="relative bg-background text-foreground py-28">
     <div className="container max-w-6xl">
@@ -751,6 +757,15 @@ const CtaBottom = ({ content }: { content: SubPageContent }) => (
             {content.ctaBottom.cta}
             <ArrowUpRight className="w-4 h-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
           </Link>
+          {content.ctaBottom.cta2 && (
+            <Link
+              href="/contact"
+              className="group inline-flex items-center gap-3 border border-foreground/20 text-foreground px-7 py-4 rounded-full text-sm tracking-[0.15em] uppercase font-medium hover:bg-[#FF2E86] hover:text-white hover:border-[#FF2E86] transition-colors"
+            >
+              {content.ctaBottom.cta2}
+              <ArrowUpRight className="w-4 h-4 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
+            </Link>
+          )}
         </div>
       </Reveal>
     </div>

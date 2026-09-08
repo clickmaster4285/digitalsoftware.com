@@ -22,6 +22,13 @@ import { louisvilleSeoSubPage } from "./subpage-louisville-seo";
 import { knoxvilleSeoSubPage } from "./subpage-knoxville-seo";
 import { memphisSeoSubPage } from "./subpage-memphis-seo";
 import { oklahomaCitySeoSubPage } from "./subpage-oklahoma-city-seo";
+import { tulsaSeoSubPage } from "./subpage-tulsa-seo";
+import { wichitaSeoSubPage } from "./subpage-wichita-seo";
+import { stLouisSeoSubPage } from "./subpage-st-louis-seo";
+import { sanJoseSeoSubPage } from "./subpage-san-jose-seo";
+import { pittsburghSeoSubPage } from "./subpage-pittsburgh-seo";
+import { minneapolisSeoSubPage } from "./subpage-minneapolis-seo";
+import { newOrleansSeoSubPage } from "./subpage-new-orleans-seo";
 
 export const SUB_PAGE_REGISTRY: Record<string, SubPageContent> = {
   "seo-services-atlanta": atlantaSeoSubPage,
@@ -42,6 +49,13 @@ export const SUB_PAGE_REGISTRY: Record<string, SubPageContent> = {
   "seo-services-knoxville": knoxvilleSeoSubPage,
   "seo-services-memphis": memphisSeoSubPage,
   "seo-services-oklahoma-city": oklahomaCitySeoSubPage,
+  "seo-services-tulsa": tulsaSeoSubPage,
+  "seo-services-wichita": wichitaSeoSubPage,
+  "seo-services-st-louis": stLouisSeoSubPage,
+  "seo-services-san-jose": sanJoseSeoSubPage,
+  "seo-services-pittsburgh": pittsburghSeoSubPage,
+  "seo-services-minneapolis": minneapolisSeoSubPage,
+  "seo-services-new-orleans": newOrleansSeoSubPage,
 };
 
 export const getSubPageBySlug = (slug: string): SubPageContent | undefined =>
