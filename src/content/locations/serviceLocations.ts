@@ -288,6 +288,55 @@ export const SERVICE_SUB_LOCATIONS: Record<string, ServiceSubLocation[]> = {
       description:
         "Results-driven SEO services in Oklahoma City — technical SEO, local SEO, content strategy, and AI search optimization that improve rankings and generate more qualified leads.",
     },
+    {
+      slug: "seo-services-tulsa",
+      city: "Tulsa",
+      state: "OK",
+      description:
+        "Professional SEO services Tulsa — local SEO, technical SEO, content, and link building that help Tulsa businesses strengthen search visibility, improve rankings, and generate more opportunities.",
+    },
+    {
+      slug: "seo-services-wichita",
+      city: "Wichita",
+      state: "KS",
+      description:
+        "SEO services in Wichita — local SEO, technical SEO, content strategy, and link building that help Wichita businesses grow traffic, rankings, and leads.",
+    },
+    {
+      slug: "seo-services-st-louis",
+      city: "St. Louis",
+      state: "MO",
+      description:
+        "SEO services in St. Louis — local SEO, technical SEO, content optimization, and authority building that turn St. Louis search traffic into qualified leads.",
+    },
+    {
+      slug: "seo-services-san-jose",
+      city: "San Jose",
+      state: "CA",
+      description:
+        "San Jose SEO services — local SEO, technical SEO, and AI-search-ready strategies that help San Jose and Silicon Valley businesses turn search visibility into real revenue.",
+    },
+    {
+      slug: "seo-services-pittsburgh",
+      city: "Pittsburgh",
+      state: "PA",
+      description:
+        "Search engine optimization in Pittsburgh, PA — technical audits, local SEO, content strategy, and link building that build rankings, traffic, and real revenue.",
+    },
+    {
+      slug: "seo-services-minneapolis",
+      city: "Minneapolis",
+      state: "MN",
+      description:
+        "SEO services in Minneapolis — local SEO, technical SEO, content, and authority building that help Twin Cities businesses rank higher and turn searches into customers.",
+    },
+    {
+      slug: "seo-services-new-orleans",
+      city: "New Orleans",
+      state: "LA",
+      description:
+        "SEO services in New Orleans — local visibility, technical fixes, and content that converts, built around how customers search across the city.",
+    },
   ],
 };
 

@@ -54,7 +54,7 @@ export interface SubPageContent {
     workWithTitle: string;
     workWith: string[];
   };
-  services: {
+  services?: {
     title: string;
     intro: string;
     items: { icon: string; title: string; body: string }[];
@@ -73,7 +73,7 @@ export interface SubPageContent {
     items: SubPageCaseStudy[];
     note: string;
   };
-  realResults: {
+  realResults?: {
     title: string;
     intro: string;
     items: { icon: string; title: string; body: string }[];
@@ -83,7 +83,7 @@ export interface SubPageContent {
     intro: string;
     items: { icon: string; title: string; body: string }[];
   };
-  tools: {
+  tools?: {
     title: string;
     intro: string;
     items: { icon: string; title: string; body: string }[];
@@ -105,6 +105,8 @@ export interface SubPageContent {
     title: string;
     description: string;
     cta: string;
+    /** Optional secondary CTA button (rendered next to the primary). */
+    cta2?: string;
   };
 }
 
