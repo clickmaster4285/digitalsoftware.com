@@ -44,7 +44,11 @@ export async function generateMetadata(
 
   const BASE_URL = "https://clickmastersdigitalmarketing.com";
   const url = content.metadata.url || "/";
-  const canonicalUrl = url.startsWith("http") ? url : `${BASE_URL}${url.startsWith("/") ? "" : "/"}${url}`;
+  // Normalize: never emit a trailing slash in canonicals (matches next.config trailingSlash: false)
+  const canonicalPath = (url.startsWith("http") ? new URL(url).pathname : url).replace(/\/+$/, "") || "/";
+  const canonicalUrl = canonicalPath.startsWith("http")
+    ? canonicalPath
+    : `${BASE_URL}${canonicalPath.startsWith("/") ? "" : "/"}${canonicalPath}`;
 
   return {
     title: content.metadata.seoTitle,

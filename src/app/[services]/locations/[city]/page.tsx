@@ -8,7 +8,7 @@
 // city page built from locationPagesData.
 
 import type { Metadata } from "next";
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import { ServiceCityPage } from "@/components/service-locations/ServiceCityPage";
 import { ServiceSubPage } from "@/components/service-locations/ServiceSubPage";
 import { getSubPageBySlug } from "@/content/locations/subPageRegistry";
@@ -17,6 +17,7 @@ import {
   getLocationByCitySlug,
   getLatestServiceSubLocations,
   getTotalCityCount,
+  resolvePrefixedCitySlug,
 } from "@/content/locations/serviceLocations";
 
 const BASE_URL = "https://clickmastersdigitalmarketing.com";
@@ -35,12 +36,12 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
       title: subPage.metaTitle,
       description: subPage.metaDescription,
       alternates: {
-        canonical: `${BASE_URL}/${svc.slug}/locations/${city}/`,
+        canonical: `${BASE_URL}/${svc.slug}/locations/${city}`,
       },
       openGraph: {
         title: subPage.metaTitle,
         description: subPage.metaDescription,
-        url: `${BASE_URL}/${svc.slug}/locations/${city}/`,
+        url: `${BASE_URL}/${svc.slug}/locations/${city}`,
         type: "website",
       },
       twitter: {
@@ -55,6 +56,17 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const location = getLocationByCitySlug(city);
 
   if (!location) {
+    // Prefixed slugs like "seo-services-austin" are not real pages — they
+    // redirect to the bare city page (see Page below). Emit the target's
+    // canonical so the redirect chain stays clean for crawlers.
+    const resolvedCity = resolvePrefixedCitySlug(city);
+    if (resolvedCity) {
+      const canonical = `${BASE_URL}/${svc.slug}/locations/${resolvedCity}`;
+      return {
+        alternates: { canonical },
+        openGraph: { url: canonical, type: "website" },
+      };
+    }
     return {};
   }
 
@@ -135,7 +147,7 @@ export default async function Page({ params }: Params) {
               "@type": "ListItem",
               position: 4,
               name: subPage.cityDisplay,
-              item: `${BASE_URL}/${svc.slug}/locations/${city}/`,
+              item: `${BASE_URL}/${svc.slug}/locations/${city}`,
             },
           ],
         },
@@ -156,6 +168,12 @@ export default async function Page({ params }: Params) {
   const location = getLocationByCitySlug(city);
 
   if (!location) {
+    // e.g. /search-engine-optimization/locations/seo-services-austin
+    //   -> 301-style redirect to /search-engine-optimization/locations/austin
+    const resolvedCity = resolvePrefixedCitySlug(city);
+    if (resolvedCity && resolvedCity !== city) {
+      permanentRedirect(`/${svc.slug}/locations/${resolvedCity}`);
+    }
     notFound();
   }
 

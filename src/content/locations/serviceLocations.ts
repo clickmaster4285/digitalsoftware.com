@@ -23,7 +23,7 @@ export interface MainServiceInfo {
   /** One-liner used under the hero title */
   blurb: string;
 }
-
+  
 export const MAIN_SERVICES: Record<string, MainServiceInfo> = {
   "search-engine-optimization": {
     slug: "search-engine-optimization",
@@ -138,6 +138,19 @@ export const getLocationByCitySlug = (
 
 export const getAllCitySlugs = (): string[] =>
   uniqueCityLocations().map(citySlugOf);
+
+/**
+ * Resolves a possibly-prefixed city slug (e.g. "seo-services-austin",
+ * "local-seo-services-austin") to its bare city slug ("austin").
+ * Returns the input unchanged when it is already a valid bare city slug,
+ * and undefined when no known city matches.
+ */
+export const resolvePrefixedCitySlug = (input: string): string | undefined => {
+  if (getLocationByCitySlug(input)) return input;
+  const matches = getAllCitySlugs().filter((city) => input.endsWith(`-${city}`));
+  // Longest suffix wins, e.g. "oklahoma-city" over "city"
+  return matches.sort((a, b) => b.length - a.length)[0];
+};
 
 /**
  * The N most recently added cities. New location entries are appended to the
