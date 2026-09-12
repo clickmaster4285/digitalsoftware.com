@@ -89,6 +89,8 @@ export interface SubPageContent {
     items: { icon: string; title: string; body: string }[];
   };
   faqs: SubPageFaq[];
+  /** Optional custom FAQ section heading (defaults to "Frequently asked questions."). */
+  faqsTitle?: string;
   /** Optional testimonials block (only rendered when present). */
   testimonials?: {
     title: string;

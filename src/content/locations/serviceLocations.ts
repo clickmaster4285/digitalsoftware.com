@@ -350,6 +350,83 @@ export const SERVICE_SUB_LOCATIONS: Record<string, ServiceSubLocation[]> = {
       description:
         "SEO services in New Orleans — local visibility, technical fixes, and content that converts, built around how customers search across the city.",
     },
+    {
+      slug: "seo-services-sacramento",
+      city: "Sacramento",
+      state: "CA",
+      description:
+        "SEO services in Sacramento — local SEO, technical SEO, content, and AI-search readiness that improve rankings and turn everyday searches into real leads.",
+    },
+    {
+      slug: "seo-services-portland",
+      city: "Portland",
+      state: "OR",
+      description:
+        "SEO services in Portland — local visibility, technical fixes, and content that converts, built around how Portland businesses get found and grow.",
+    },
+    {
+      slug: "seo-services-salt-lake-city",
+      city: "Salt Lake City",
+      state: "UT",
+      description:
+        "SEO services in Salt Lake City — technical SEO, local SEO, content, and authority building that turn search traffic into real customers across the Wasatch Front.",
+    },
+    {
+      slug: "seo-services-houston",
+      city: "Houston",
+      state: "TX",
+      description:
+        "SEO services in Houston — technical SEO, local SEO, content, and AI search readiness that grow online visibility, qualified leads, and conversions.",
+    },
+    {
+      slug: "seo-services-jacksonville",
+      city: "Jacksonville",
+      state: "FL",
+      description:
+        "SEO services in Jacksonville — local SEO, technical SEO, content, and authority building that turn Google searches into real customers across the city.",
+    },
+    {
+      slug: "seo-services-kansas-city",
+      city: "Kansas City",
+      state: "MO",
+      description:
+        "SEO services in Kansas City that turn rankings into revenue with local visibility, technical fixes, content, and qualified lead generation.",
+    },
+    {
+      slug: "seo-services-las-vegas",
+      city: "Las Vegas",
+      state: "NV",
+      description:
+        "SEO services in Las Vegas built around local visibility, technical fixes, content, backlinks, and measurable lead growth.",
+    },
+    {
+      slug: "seo-services-los-angeles",
+      city: "Los Angeles",
+      state: "CA",
+      description:
+        "SEO services in Los Angeles built around your business, local visibility, qualified traffic, leads, and long-term organic growth.",
+    },
+    {
+      slug: "seo-services-miami",
+      city: "Miami",
+      state: "FL",
+      description:
+        "Your customers in Miami are searching Google right now — the question is whether they're finding you or a competitor.",
+    },
+    {
+      slug: "seo-services-nashville",
+      city: "Nashville",
+      state: "TN",
+      description:
+        "SEO Services Nashville, TN  Get Found, Get Leads, Get Growth",
+    },
+    {
+      slug: "seo-services-new-york",
+      city: "New York",
+      state: "NY",
+      description:
+        "Your customers in New York are searching Google right now — the question is whether they're finding you or a competitor across town.",
+    },
   ],
 };
 
