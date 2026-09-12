@@ -411,13 +411,13 @@ const ResultsSection = ({ content }: { content: SubPageContent }) => (
               <div className="space-y-5 text-sm md:text-base leading-relaxed">
                 <p>
                   <span className="block text-[10px] uppercase tracking-[0.3em] opacity-60 mb-1">
-                    Starting point
+                    Challenge
                   </span>
                   <span className="opacity-70">{item.startingPoint}</span>
                 </p>
                 <p>
                   <span className="block text-[10px] uppercase tracking-[0.3em] opacity-60 mb-1">
-                    What we did
+                    Solution
                   </span>
                   <span className="opacity-70">{item.whatWeDid}</span>
                 </p>
@@ -689,8 +689,12 @@ const FaqsSection = ({ content }: { content: SubPageContent }) => (
       <SectionLabel n="12" t="FAQs" />
       <Reveal>
         <h2 className="font-display text-4xl md:text-6xl font-bold leading-[0.95] tracking-tight mb-12">
-          Frequently asked{" "}
-          <span className="text-[#FF2E86]">questions.</span>
+          {content.faqsTitle ?? (
+            <>
+              Frequently asked{" "}
+              <span className="text-[#FF2E86]">questions.</span>
+            </>
+          )}
         </h2>
       </Reveal>
       <div className="space-y-4">
