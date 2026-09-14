@@ -791,6 +791,7 @@ export function ServiceSubPage({
     <div className="theme-light w-full overflow-x-clip bg-background text-foreground">
       <main>
         <SubHero service={service} content={content} />
+        {content.stats && <StatsSection content={content} />}
         <CtaTop content={content} />
         <About content={content} />
         <ServicesSection content={content} />
@@ -800,7 +801,6 @@ export function ServiceSubPage({
         <RealResultsSection content={content} />
         <IndustriesSection content={content} />
         <ToolsSection content={content} />
-        <StatsSection content={content} />
         <TestimonialsSection content={content} />
         <FaqsSection content={content} />
         <CtaBottom content={content} />

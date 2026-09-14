@@ -26,7 +26,7 @@ export const newYorkSeoSubPage: SubPageContent = {
   stats: {
     title: "Trusted by Businesses That Want Real Growth",
     intro:
-      "Real numbers behind our seo services new york track record.",
+      "Real numbers behind our seo services new york track record. We're a new york seo company trusted by businesses across Manhattan, Brooklyn, and Queens, backed by real client reviews and transparent monthly reporting — not vanity metrics.",
     items: [
       { value: "500+", label: "Clients served nationwide" },
       { value: "10+", label: "Years of hands-on SEO experience" },
